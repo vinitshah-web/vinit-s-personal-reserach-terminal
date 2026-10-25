@@ -35,7 +35,7 @@ class BhavcopyIngester:
         source_filename: str,
         file_hash: str,
         trade_date: date,
-        allowed_series: Tuple[str, ...] = ("EQ", "BE", "SM"),
+        allowed_series: Tuple[str, ...] = ("EQ", "BE", "SM", "ST", "BZ"),
         symbol_to_isin_map: Optional[Dict[str, str]] = None
     ) -> List[Dict[str, any]]:
         """
@@ -48,7 +48,7 @@ class BhavcopyIngester:
         df.columns = [c.strip().upper() for c in df.columns]
 
         # Normalize column names across all 3 historical NSE Bhavcopy generations:
-        # 1. Unified format: TckrSymb, SctySrs, OpnPric, HghPric, LwPric, ClsPric, TtlTradgVol, ISIN
+        # 1. Unified format: TckrSymb, SctySrs, OpnPric, HghPric, LwPric, ClsPric, TtlTradgVol, ISIN, FinInstrmNm
         # 2. Modern legacy: SYMBOL, SERIES, OPEN, HIGH, LOW, CLOSE, TOTTRDQTY, ISIN
         # 3. Old legacy PR: SECURITY, SERIES, OPEN_PRICE, HIGH_PRICE, LOW_PRICE, CLOSE_PRICE, NET_TRDQTY
         col_map = {
@@ -66,7 +66,8 @@ class BhavcopyIngester:
             "TTL_TRD_QNTY": "TOTTRDQTY",
             "TOTAL_TRADED_QUANTITY": "TOTTRDQTY",
             "NET_TRDQTY": "TOTTRDQTY",
-            "DELIV_PER": "DELIVERY_PCT"
+            "DELIV_PER": "DELIVERY_PCT",
+            "FININSTRMNM": "COMPANY_NAME"
         }
         df = df.rename(columns=col_map)
 
@@ -85,9 +86,11 @@ class BhavcopyIngester:
         now_utc = datetime.now(timezone.utc)
         records = []
         for _, row in df.iterrows():
+            c_name = str(row.get("COMPANY_NAME", row["SYMBOL"])).strip()
             records.append({
                 "isin": str(row["ISIN"]).strip(),
                 "ticker": str(row["SYMBOL"]).strip(),
+                "company_name": c_name if c_name else str(row["SYMBOL"]).strip(),
                 "series": str(row["SERIES"]).strip(),
                 "trade_date": trade_date,
                 "open_raw": float(row["OPEN"]) if pd.notnull(row.get("OPEN")) else None,

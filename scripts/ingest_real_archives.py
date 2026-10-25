@@ -65,25 +65,28 @@ def ingest_workspace_archives():
                         trade_date=date(2026, 10, 22)
                     )
 
-                    # Ensure Securities exist for EQ/BE series
+                    # Ensure Securities exist for all listed equity and SME series
                     sec_count = 0
                     price_count = 0
                     for r in records:
                         srs = r["series"]
                         isin_code = r["isin"]
                         sym = r["ticker"]
-                        if srs in ("EQ", "BE"):
+                        comp_name = r.get("company_name") or sym
+                        if srs in ("EQ", "BE", "SM", "ST", "BZ"):
                             sec = session.query(Security).filter(Security.isin == isin_code).first()
                             if not sec:
                                 sec = Security(
                                     isin=isin_code,
                                     ticker_current=sym,
-                                    company_name=sym,
+                                    company_name=comp_name,
                                     listing_date=date(2000, 1, 1),
                                     series=srs
                                 )
                                 session.add(sec)
                                 sec_count += 1
+                            elif sec.company_name == sym and comp_name != sym:
+                                sec.company_name = comp_name
 
                             existing_price = session.query(PriceRaw).filter(
                                 PriceRaw.isin == isin_code,
@@ -167,6 +170,7 @@ def ingest_workspace_archives():
                             source_filename="pd23102026.csv",
                             file_hash=pd_hash,
                             trade_date=date(2026, 10, 23),
+                            allowed_series=("EQ", "BE", "SM", "ST", "BZ"),
                             symbol_to_isin_map=sym_map
                         )
                         price23_count = 0
