@@ -60,6 +60,7 @@
         <a href="stock_intelligence.html" class="text-[var(--text-muted)] hover:text-white transition">Stock Intelligence</a>
         <a href="valuation_lab.html" class="text-[var(--text-muted)] hover:text-white transition">Valuation Lab</a>
         <a href="quant_lab.html" class="text-[var(--text-muted)] hover:text-white transition">Quant Lab</a>
+        <a href="data_quality.html" class="text-[var(--text-muted)] hover:text-white transition">Data Quality</a>
       </nav>
     </div>
     <div class="flex items-center space-x-4 text-xs">
@@ -80,8 +81,8 @@
       <div class="card rounded-lg p-4">
         <div class="text-xs text-[var(--text-muted)] uppercase tracking-wider">Market Regime</div>
         <div class="text-lg font-bold text-emerald-400 mt-1 flex items-center justify-between">
-          <span>Low Vol Bullish</span>
-          <span class="text-xs px-2 py-0.5 bg-emerald-950 text-emerald-300 rounded border border-emerald-800">VIX: 12.8</span>
+          <span id="stat-market-regime">Low Vol Bullish</span>
+          <span id="stat-vix" class="text-xs px-2 py-0.5 bg-emerald-950 text-emerald-300 rounded border border-emerald-800">VIX: 12.8</span>
         </div>
         <div class="text-xs text-[var(--text-muted)] mt-2">Nifty 500 TRI > 200 DMA (Trend Confirmed)</div>
       </div>
@@ -104,7 +105,7 @@
       <div class="card rounded-lg p-4">
         <div class="text-xs text-[var(--text-muted)] uppercase tracking-wider">Data Freshness & Lake</div>
         <div class="text-lg font-bold text-amber-400 mt-1 flex items-center justify-between">
-          <span>2,142 Securities</span>
+          <span id="stat-securities-count">2,142 Securities</span>
           <span class="text-xs px-1.5 py-0.5 bg-emerald-950 text-emerald-300 rounded">SHA-256 Valid</span>
         </div>
         <div class="text-xs text-[var(--text-muted)] mt-2">0 Lookahead Leaks Detected</div>
@@ -201,6 +202,40 @@
       document.documentElement.classList.toggle('dark');
       document.documentElement.classList.toggle('light');
     }
+
+    // Dynamic API integration with graceful fallback
+    async function initLiveDashboard() {
+      try {
+        const auditRes = await fetch('/api/v1/quality/audit');
+        if (auditRes.ok) {
+          const audit = await auditRes.json();
+          const secEl = document.getElementById('stat-securities-count');
+          if (secEl && audit.counts) {
+            secEl.innerText = `${audit.counts.securities_master.toLocaleString()} Securities`;
+          }
+        }
+      } catch (e) {
+        // Fallback to static mock values when opened directly as file://
+      }
+
+      try {
+        const regimeRes = await fetch('/api/v1/analytics/market-regime');
+        if (regimeRes.ok) {
+          const reg = await regimeRes.json();
+          const regimeEl = document.getElementById('stat-market-regime');
+          const vixEl = document.getElementById('stat-vix');
+          if (regimeEl && reg.regime) {
+            regimeEl.innerText = reg.regime.replace('_', ' ');
+          }
+          if (vixEl && reg.realized_vol_20d_pct) {
+            vixEl.innerText = `Vol: ${reg.realized_vol_20d_pct.toFixed(1)}%`;
+          }
+        }
+      } catch (e) {
+        // Fallback
+      }
+    }
+    window.addEventListener('DOMContentLoaded', initLiveDashboard);
   </script>
 </body>
 </html>

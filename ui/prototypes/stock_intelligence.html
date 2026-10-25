@@ -58,6 +58,7 @@
       <span class="text-slate-600">|</span>
       <a href="valuation_lab.html" class="text-xs text-[var(--text-muted)] hover:text-white transition">Valuation Lab</a>
       <a href="quant_lab.html" class="text-xs text-[var(--text-muted)] hover:text-white transition">Quant Lab</a>
+      <a href="data_quality.html" class="text-xs text-[var(--text-muted)] hover:text-white transition">Data Quality</a>
     </div>
     <div class="flex items-center space-x-3 text-xs">
       <span class="text-[var(--text-muted)]">As-of: 2026-10-23</span>
@@ -70,12 +71,12 @@
     <div class="max-w-7xl mx-auto grid grid-cols-2 md:grid-cols-6 gap-4 text-xs">
       <div>
         <div class="text-[var(--text-muted)] uppercase">Measured Fact</div>
-        <div class="text-base font-bold font-mono text-white mt-0.5">₹2,840.00</div>
-        <div class="text-[11px] text-slate-400">Raw Market Close</div>
+        <div id="stock-raw-close" class="text-base font-bold font-mono text-white mt-0.5">₹2,840.00</div>
+        <div id="stock-close-date" class="text-[11px] text-slate-400">Raw Market Close</div>
       </div>
       <div>
         <div class="text-[var(--text-muted)] uppercase">Calculated Metric</div>
-        <div class="text-base font-bold font-mono text-emerald-400 mt-0.5">₹1,420.00</div>
+        <div id="stock-adj-close" class="text-base font-bold font-mono text-emerald-400 mt-0.5">₹1,420.00</div>
         <div class="text-[11px] text-slate-400">Split-Adjusted Close (2:1)</div>
       </div>
       <div>
@@ -199,6 +200,32 @@
       document.documentElement.classList.toggle('dark');
       document.documentElement.classList.toggle('light');
     }
+
+    async function initStockData() {
+      try {
+        const res = await fetch('/api/v1/stock/INE002A01018/summary');
+        if (res.ok) {
+          const data = await res.json();
+          if (data.facts) {
+            if (data.facts.latest_close) {
+              const rawEl = document.getElementById('stock-raw-close');
+              if (rawEl) rawEl.innerText = `₹${data.facts.latest_close.toFixed(2)}`;
+            }
+            if (data.facts.trade_date) {
+              const dateEl = document.getElementById('stock-close-date');
+              if (dateEl) dateEl.innerText = `Trade Date: ${data.facts.trade_date}`;
+            }
+          }
+          if (data.metrics && data.metrics.adjusted_close) {
+            const adjEl = document.getElementById('stock-adj-close');
+            if (adjEl) adjEl.innerText = `₹${data.metrics.adjusted_close.toFixed(2)}`;
+          }
+        }
+      } catch (e) {
+        // Fallback
+      }
+    }
+    window.addEventListener('DOMContentLoaded', initStockData);
   </script>
 </body>
 </html>
