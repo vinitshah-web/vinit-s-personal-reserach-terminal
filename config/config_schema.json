@@ -1,0 +1,32 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "TaxRulesConfig",
+  "type": "object",
+  "required": ["gst", "stamp_duty", "exchange_charges", "sebi_fee", "tax_regimes"],
+  "properties": {
+    "gst": {
+      "type": "object",
+      "required": ["rate", "base_components", "excluded_from_base", "source_url", "effective_from", "verification_status"],
+      "properties": {
+        "rate": {"type": "number"},
+        "base_components": {"type": "array", "items": {"type": "string"}},
+        "excluded_from_base": {"type": "array", "items": {"type": "string"}},
+        "source_url": {"type": "string"},
+        "effective_from": {"type": "string"},
+        "verification_status": {"type": "string", "enum": ["verified", "unverified"]}
+      }
+    },
+    "tax_regimes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["era", "applicable_from", "rules"],
+        "properties": {
+          "era": {"type": "string"},
+          "applicable_from": {"type": "string"},
+          "rules": {"type": "object"}
+        }
+      }
+    }
+  }
+}

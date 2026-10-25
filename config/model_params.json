@@ -1,0 +1,20 @@
+{
+  "valuation": {
+    "default_wacc": 0.12,
+    "wacc_bounds": [0.08, 0.20],
+    "terminal_growth_cap_gdp": 0.055,
+    "min_terminal_growth": 0.02,
+    "reverse_dcf_growth_range": [-0.10, 0.50],
+    "reverse_dcf_tolerance": 0.0001
+  },
+  "data_quality": {
+    "stale_price_days_threshold": 3,
+    "min_trading_history_days": 252,
+    "missing_statement_quarters_alert": 2
+  },
+  "benchmark": {
+    "default_risk_free_rate": 0.070,
+    "default_market_equity_risk_premium": 0.055,
+    "primary_index": "NIFTY500"
+  }
+}

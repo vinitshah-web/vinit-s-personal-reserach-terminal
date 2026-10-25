@@ -1,0 +1,195 @@
+{
+  "gst": {
+    "rate": 0.18,
+    "base_components": ["brokerage", "exchange_charges", "sebi_fees", "dp_charges"],
+    "excluded_from_base": ["stt", "stamp_duty"],
+    "source_url": "https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-11-central-tax-english-2017.pdf",
+    "notification": "CBIC Notification No. 11/2017-Central Tax (Rate), SAC 997152",
+    "sac_code": "997152",
+    "effective_from": "2017-07-01",
+    "effective_to": null,
+    "verification_status": "verified"
+  },
+  "stamp_duty": {
+    "rate_delivery_buy": 0.00015,
+    "source_url": "https://www.sebi.gov.in/legal/circulars/jun-2020/collection-of-stamp-duty-on-secondary-market-transactions_46978.html",
+    "effective_from": "2020-07-01",
+    "effective_to": null,
+    "verification_status": "verified"
+  },
+  "exchange_charges": {
+    "nse_equity_delivery_rate": 0.0000345,
+    "source_url": "https://www.nseindia.com/regulations/listing-compliance/nse-market-transaction-charges",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "verification_status": "unverified"
+  },
+  "sebi_turnover_fee": {
+    "rate": 0.000001,
+    "source_url": "https://www.sebi.gov.in",
+    "effective_from": "2024-04-01",
+    "effective_to": null,
+    "verification_status": "unverified"
+  },
+  "tax_regimes": [
+    {
+      "era": "it_act_1961",
+      "governing_statute": "Income-tax Act, 1961",
+      "applicable_from": "1961-04-01",
+      "applicable_to": "2026-03-31",
+      "period_term": "financial_year",
+      "rules": {
+        "stt": {
+          "delivery_buy": 0.001,
+          "delivery_sell": 0.001,
+          "intraday_sell": 0.00025,
+          "effective_from": "2024-10-01",
+          "effective_to": "2026-03-31",
+          "source_url": "https://incometaxindia.gov.in",
+          "verification_status": "verified"
+        },
+        "stcg_equity": {
+          "section": "111A",
+          "rates": [
+            {
+              "rate": 0.15,
+              "effective_from": "2004-10-01",
+              "effective_to": "2024-07-22",
+              "source_url": "https://incometaxindia.gov.in/pages/acts/income-tax-act.aspx",
+              "verification_status": "verified"
+            },
+            {
+              "rate": 0.20,
+              "effective_from": "2024-07-23",
+              "effective_to": "2026-03-31",
+              "source_url": "https://incometaxindia.gov.in/pages/acts/income-tax-act.aspx",
+              "verification_status": "verified"
+            }
+          ]
+        },
+        "ltcg_equity": {
+          "section": "112A",
+          "rates": [
+            {
+              "rate": 0.10,
+              "exemption_limit": 100000.0,
+              "effective_from": "2018-04-01",
+              "effective_to": "2024-07-22",
+              "source_url": "https://incometaxindia.gov.in/pages/acts/income-tax-act.aspx",
+              "verification_status": "verified"
+            },
+            {
+              "rate": 0.125,
+              "exemption_limit": 125000.0,
+              "effective_from": "2024-07-23",
+              "effective_to": "2026-03-31",
+              "source_url": "https://incometaxindia.gov.in/pages/acts/income-tax-act.aspx",
+              "verification_status": "verified"
+            }
+          ]
+        },
+        "dividend_tds": {
+          "section": "194",
+          "rates": [
+            {
+              "rate_with_pan": 0.10,
+              "rate_without_pan": 0.20,
+              "threshold_per_company": 5000.0,
+              "effective_from": "2020-04-01",
+              "effective_to": "2025-03-31",
+              "source_url": "https://incometaxindia.gov.in",
+              "verification_status": "verified"
+            },
+            {
+              "rate_with_pan": 0.10,
+              "rate_without_pan": 0.20,
+              "threshold_per_company": 10000.0,
+              "effective_from": "2025-04-01",
+              "effective_to": "2026-03-31",
+              "source_url": "https://incometaxindia.gov.in",
+              "verification_status": "verified"
+            }
+          ]
+        },
+        "loss_setoff": {
+          "section_intra": "70",
+          "section_inter": "71",
+          "section_carry": "74",
+          "carry_forward_years": 8,
+          "stcl_can_offset": ["stcg", "ltcg"],
+          "ltcl_can_offset": ["ltcg"],
+          "source_url": "https://incometaxindia.gov.in",
+          "verification_status": "verified"
+        }
+      }
+    },
+    {
+      "era": "it_act_2025",
+      "governing_statute": "Income-tax Act, 2025",
+      "applicable_from": "2026-04-01",
+      "applicable_to": null,
+      "period_term": "tax_year",
+      "rules": {
+        "stt": {
+          "delivery_buy": 0.001,
+          "delivery_sell": 0.001,
+          "intraday_sell": 0.00025,
+          "effective_from": "2026-04-01",
+          "effective_to": null,
+          "source_url": "https://incometaxindia.gov.in",
+          "verification_status": "verified"
+        },
+        "stcg_equity": {
+          "section": "196",
+          "rates": [
+            {
+              "rate": 0.20,
+              "effective_from": "2026-04-01",
+              "effective_to": null,
+              "source_url": "https://incometaxindia.gov.in/pages/acts/income-tax-act-2025.aspx",
+              "verification_status": "verified"
+            }
+          ]
+        },
+        "ltcg_equity": {
+          "section": "198",
+          "rates": [
+            {
+              "rate": 0.125,
+              "exemption_limit": 125000.0,
+              "effective_from": "2026-04-01",
+              "effective_to": null,
+              "source_url": "https://incometaxindia.gov.in/pages/acts/income-tax-act-2025.aspx",
+              "verification_status": "verified"
+            }
+          ]
+        },
+        "dividend_tds": {
+          "section": "393(1)",
+          "rates": [
+            {
+              "rate_with_pan": 0.10,
+              "rate_without_pan": 0.20,
+              "threshold_per_company": 10000.0,
+              "effective_from": "2026-04-01",
+              "effective_to": null,
+              "source_url": "https://incometaxindia.gov.in/pages/acts/income-tax-act-2025.aspx",
+              "verification_status": "verified"
+            }
+          ]
+        },
+        "loss_setoff": {
+          "section_intra": "108",
+          "section_inter": "109",
+          "section_carry": "111",
+          "transition_section": "536",
+          "carry_forward_years": 8,
+          "stcl_can_offset": ["stcg", "ltcg"],
+          "ltcl_can_offset": ["ltcg"],
+          "source_url": "https://incometaxindia.gov.in/pages/acts/income-tax-act-2025.aspx",
+          "verification_status": "verified"
+        }
+      }
+    }
+  ]
+}

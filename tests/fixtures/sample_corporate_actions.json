@@ -1,0 +1,53 @@
+[
+  {
+    "isin": "INE002A01018",
+    "ex_date": "2024-01-12",
+    "record_date": "2024-01-13",
+    "action_type": "split",
+    "ratio_numerator": 2,
+    "ratio_denominator": 1,
+    "dividend_per_share": null,
+    "source_url": "https://www.nseindia.com/ca/reliance_split",
+    "published_at": "2024-01-02T18:00:00+05:30",
+    "details": {"notes": "Sub-division of shares from face value Rs 10 to Rs 5"}
+  },
+  {
+    "isin": "INE002A01018",
+    "ex_date": "2024-01-09",
+    "record_date": "2024-01-10",
+    "action_type": "dividend_cash",
+    "ratio_numerator": null,
+    "ratio_denominator": null,
+    "dividend_per_share": 10.0,
+    "dividend_type": "interim",
+    "source_url": "https://www.nseindia.com/ca/reliance_div",
+    "published_at": "2024-01-02T18:00:00+05:30",
+    "details": {"notes": "Interim Dividend Rs 10 per share"}
+  },
+  {
+    "isin": "INE467B01029",
+    "ex_date": "2023-06-16",
+    "record_date": "2023-06-17",
+    "action_type": "bonus",
+    "ratio_numerator": 1,
+    "ratio_denominator": 2,
+    "dividend_per_share": null,
+    "source_url": "https://www.nseindia.com/ca/tcs_bonus",
+    "published_at": "2023-06-01T15:00:00+05:30",
+    "details": {"notes": "1:2 bonus issue"}
+  },
+  {
+    "isin": "INE009A01021",
+    "ex_date": "2023-09-15",
+    "record_date": "2023-09-16",
+    "action_type": "rights",
+    "ratio_numerator": 1,
+    "ratio_denominator": 4,
+    "cum_rights_price": 800.0,
+    "subscription_price": 400.0,
+    "dividend_per_share": null,
+    "source_url": "https://www.nseindia.com/ca/infy_rights",
+    "published_at": "2023-09-01T11:00:00+05:30",
+    "details": {"notes": "Rights 1:4 @ Rs 400"}
+  }
+]

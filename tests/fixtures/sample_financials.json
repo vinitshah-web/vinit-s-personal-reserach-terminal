@@ -1,0 +1,31 @@
+[
+  {
+    "isin": "INE002A01018",
+    "period_start": "2024-04-01",
+    "period_end": "2024-06-30",
+    "period_type": "quarterly",
+    "consolidated": true,
+    "currency": "INR",
+    "unit_multiplier": 10000000.0,
+    "published_at": "2024-08-14T18:30:00+05:30",
+    "ingested_at": "2024-08-15T06:00:00+05:30",
+    "restated_at": null,
+    "source_url": "https://www.bseindia.com/filing/q1_fy25_rel.pdf",
+    "source_type": "xbrl",
+    "is_restatement": false,
+    "supersedes_id": null,
+    "valid_from": "2024-08-15T06:00:00+05:30",
+    "valid_to": null,
+    "line_items": {
+      "REVENUE": 236217.0,
+      "EBITDA": 42748.0,
+      "EBIT": 30500.0,
+      "EBT": 25200.0,
+      "PAT": 17445.0,
+      "TOTAL_ASSETS": 1850000.0,
+      "EQUITY": 810000.0,
+      "TOTAL_DEBT": 320000.0,
+      "CASH_EQUIVALENTS": 180000.0
+    }
+  }
+]
