@@ -1,21 +1,26 @@
 """FastAPI REST Service for NSE Equity Intelligence Platform.
-Enforces institutional facts / metrics / forecasts separation.
+Enforces institutional facts / metrics / forecasts separation and strict provenance tracking.
 """
 from datetime import date, datetime, timezone
-from typing import Any, Dict, Optional
+from typing import Any, Dict, List, Optional
+from pathlib import Path
 from fastapi import FastAPI, HTTPException, Depends
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 from sqlalchemy.orm import Session
+
 from src.db.connection import get_session_factory
-from src.db.models import Security, PriceRaw
+from src.db.models import Security, PriceRaw, IndexPrice
 from src.core.universe import PointInTimeUniverse, PITMode
 from src.core.fundamentals.ratios import FundamentalAnalysisEngine
-from src.core.valuation import ValuationEngine
+from src.core.valuation import ValuationEngine, ValuationModelError
+from src.core.technicals import MarketRegimeEngine
+from src.core.backtest import StrategyBacktestEngine, TradeOrder
+import pandas as pd
 
 app = FastAPI(
     title="NSE Equity Intelligence API",
-    version="0.1.0",
-    description="Institutional Research Terminal API with strict provenance tracking."
+    version="1.0.0",
+    description="Institutional Research Terminal API with strict provenance tracking and dual-era statutory taxation."
 )
 
 
@@ -38,9 +43,49 @@ class ProvenanceEnvelope(BaseModel):
     forecasts: Dict[str, Any]
 
 
+class DCFRequest(BaseModel):
+    fcff_0: float = Field(..., description="Base year Free Cash Flow to Firm in ₹ Crores")
+    growth_rates_5yr: List[float] = Field(..., description="5-year discrete growth rates (decimal, e.g. [0.08, 0.08, ...])")
+    wacc: float = Field(..., description="Weighted Average Cost of Capital (decimal, e.g. 0.12)")
+    terminal_growth: float = Field(0.04, description="Terminal growth rate (decimal, e.g. 0.04)")
+    total_debt: float = Field(0.0, description="Total debt in ₹ Crores")
+    cash_and_equivalents: float = Field(0.0, description="Cash & cash equivalents in ₹ Crores")
+    shares_outstanding_cr: Optional[float] = Field(None, description="Shares outstanding in Crores")
+
+
+class ReverseDCFRequest(BaseModel):
+    target_enterprise_value: float = Field(..., description="Observed Target Enterprise Value in ₹ Crores")
+    fcff_0: float = Field(..., description="Base year Free Cash Flow in ₹ Crores")
+    wacc: float = Field(..., description="WACC (decimal, e.g. 0.12)")
+    terminal_growth: float = Field(0.04, description="Terminal growth rate (decimal, e.g. 0.04)")
+
+
+class BankingDDMRequest(BaseModel):
+    net_income_0: float = Field(..., description="Base year Net Income in ₹ Crores")
+    return_on_equity: float = Field(..., description="Sustainable ROE (decimal, e.g. 0.16)")
+    sustainable_growth: float = Field(..., description="Long-term asset growth rate (decimal, e.g. 0.05)")
+    cost_of_equity: float = Field(..., description="Cost of Equity Ke (decimal, e.g. 0.13)")
+
+
+class TradeOrderSchema(BaseModel):
+    isin: str
+    ticker: str
+    buy_date: str
+    buy_price: float
+    sell_date: str
+    sell_price: float
+    quantity: int
+    slippage_bps: float = 5.0
+
+
 @app.get("/health")
 def health():
-    return {"status": "ok", "service": "nse-equity-platform", "version": "0.1.0"}
+    return {
+        "status": "ok",
+        "service": "nse-equity-platform",
+        "version": "1.0.0",
+        "watermark": "CODE TEST - SYNTHETIC DATA"
+    }
 
 
 @app.get("/api/v1/stock/{isin}/summary", response_model=ProvenanceEnvelope)
@@ -97,7 +142,6 @@ def get_stock_summary(
     metrics = {}
     if not sec.is_financial:
         try:
-            # Worked example parameters from registry
             dupont = fund_engine.calculate_dupont_5factor(
                 net_income=120.0, ebt=160.0, ebit=200.0, revenue=1000.0,
                 total_assets=2000.0, equity=800.0, is_financial=False
@@ -152,3 +196,149 @@ def get_stock_summary(
         metrics=metrics,
         forecasts=forecasts
     )
+
+
+@app.post("/api/v1/valuation/fcff")
+def calculate_fcff_valuation(req: DCFRequest):
+    """Calculates intrinsic Enterprise Value & implied per share value using Damodaran FCFF model."""
+    val_engine = ValuationEngine()
+    try:
+        dcf = val_engine.calculate_fcff_dcf(
+            fcff_0=req.fcff_0,
+            growth_rates_5yr=req.growth_rates_5yr,
+            wacc=req.wacc,
+            terminal_growth=req.terminal_growth
+        )
+        bridge = val_engine.bridge_enterprise_to_equity_value(
+            enterprise_value=dcf["enterprise_value"],
+            total_debt=req.total_debt,
+            cash_and_equivalents=req.cash_and_equivalents,
+            shares_outstanding=req.shares_outstanding_cr
+        )
+        return {
+            "status": "success",
+            "watermark": "CODE TEST - SYNTHETIC DATA",
+            "dcf_breakdown": dcf,
+            "equity_bridge": bridge
+        }
+    except ValuationModelError as e:
+        raise HTTPException(status_code=400, detail=str(e))
+
+
+@app.post("/api/v1/valuation/reverse-dcf")
+def solve_reverse_dcf(req: ReverseDCFRequest):
+    """Solves for discrete 5-year growth implied by observed market Enterprise Value."""
+    val_engine = ValuationEngine()
+    try:
+        implied_growth = val_engine.solve_reverse_dcf(
+            target_enterprise_value=req.target_enterprise_value,
+            fcff_0=req.fcff_0,
+            wacc=req.wacc,
+            terminal_growth=req.terminal_growth
+        )
+        return {
+            "status": "success",
+            "target_enterprise_value": req.target_enterprise_value,
+            "implied_5yr_growth_pct": round(implied_growth * 100.0, 3),
+            "watermark": "CODE TEST - SYNTHETIC DATA"
+        }
+    except ValuationModelError as e:
+        raise HTTPException(status_code=400, detail=str(e))
+
+
+@app.post("/api/v1/valuation/banking-ddm")
+def calculate_banking_ddm(req: BankingDDMRequest):
+    """Calculates Banking DDM with statutory regulatory capital retention."""
+    val_engine = ValuationEngine()
+    try:
+        res = val_engine.calculate_banking_ddm(
+            net_income_0=req.net_income_0,
+            return_on_equity=req.return_on_equity,
+            sustainable_growth=req.sustainable_growth,
+            cost_of_equity=req.cost_of_equity
+        )
+        return {
+            "status": "success",
+            "watermark": "CODE TEST - SYNTHETIC DATA",
+            "result": res
+        }
+    except ValuationModelError as e:
+        raise HTTPException(status_code=400, detail=str(e))
+
+
+@app.post("/api/v1/backtest/run")
+def run_strategy_backtest(trades: List[TradeOrderSchema]):
+    """Executes multi-trade backtest with exact STT, Stamp Duty, GST 18%, and dual-era statutory taxation."""
+    bt_engine = StrategyBacktestEngine()
+    try:
+        trade_orders = [
+            TradeOrder(
+                isin=t.isin,
+                ticker=t.ticker,
+                buy_date=date.fromisoformat(t.buy_date),
+                buy_price=t.buy_price,
+                sell_date=date.fromisoformat(t.sell_date),
+                sell_price=t.sell_price,
+                quantity=t.quantity,
+                slippage_bps=t.slippage_bps
+            )
+            for t in trades
+        ]
+        result = bt_engine.run_backtest(trade_orders)
+        return {
+            "status": "success",
+            "watermark": "CODE TEST - SYNTHETIC DATA",
+            "summary": {
+                "trades_count": result.trades_count,
+                "profitable_trades": result.profitable_trades,
+                "win_rate_pct": result.win_rate_pct,
+                "total_gross_pnl": result.total_gross_pnl,
+                "total_friction_costs": result.total_friction_costs,
+                "net_pretax_pnl": result.net_pretax_pnl,
+                "total_tax_payable": result.total_tax_payable,
+                "net_posttax_pnl": result.net_posttax_pnl
+            },
+            "trade_reports": [r.__dict__ for r in result.trade_reports]
+        }
+    except Exception as e:
+        raise HTTPException(status_code=400, detail=str(e))
+
+
+@app.get("/api/v1/regime")
+def get_current_market_regime(db: Session = Depends(get_db)):
+    """Classifies overarching Indian equity market regime from NIFTY 50 price history."""
+    index_prices = db.query(IndexPrice).filter(IndexPrice.index_name == "NIFTY 50").order_by(IndexPrice.trade_date.asc()).all()
+    if len(index_prices) < 200:
+        # Check workspace CSV
+        csv_path = Path("NIFTY 50-25-10-2025-to-25-10-2026.csv")
+        if csv_path.exists():
+            df_idx = pd.read_csv(csv_path)
+            df_idx.columns = [c.strip() for c in df_idx.columns]
+            df_idx = df_idx.rename(columns={"Date": "trade_date", "Close": "close"})
+            df_idx["trade_date"] = pd.to_datetime(df_idx["trade_date"], format="%d-%b-%Y").dt.date
+            df_idx = df_idx.sort_values("trade_date").reset_index(drop=True)
+            res = MarketRegimeEngine.classify_regime(df_idx)
+            res["watermark"] = "CODE TEST - SYNTHETIC DATA"
+            return res
+        raise HTTPException(status_code=400, detail="Insufficient index history to classify regime.")
+
+    df_idx = pd.DataFrame([{"trade_date": p.trade_date, "close": p.close} for p in index_prices])
+    res = MarketRegimeEngine.classify_regime(df_idx)
+    res["watermark"] = "CODE TEST - SYNTHETIC DATA"
+    return res
+
+
+@app.get("/api/v1/reports/{ticker}")
+def get_research_tearsheet(ticker: str):
+    """Retrieves generated institutional research tear-sheet in Markdown format."""
+    clean_ticker = ticker.strip().upper()
+    report_file = Path("reports") / f"{clean_ticker}_TEARSHEET.md"
+    if not report_file.exists():
+        raise HTTPException(status_code=404, detail=f"No research tear-sheet found for ticker {clean_ticker}.")
+    with open(report_file, "r", encoding="utf-8") as f:
+        content = f.read()
+    return {
+        "ticker": clean_ticker,
+        "content_markdown": content,
+        "watermark": "CODE TEST - SYNTHETIC DATA"
+    }

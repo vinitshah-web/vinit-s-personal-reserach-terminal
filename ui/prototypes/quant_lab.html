@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NSE Equity Intelligence — Quant Lab & Tax Simulator</title>
+  <script src="https://www.gstatic.com/antigravity/web/dev/tailwindcss.min.js"></script>
+  <style>
+    :root {
+      --bg: #090d16;
+      --card-bg: #111726;
+      --border: #1e293b;
+      --text: #f1f5f9;
+      --text-muted: #94a3b8;
+      --accent: #38bdf8;
+      --success: #10b981;
+      --warning: #f59e0b;
+      --danger: #ef4444;
+    }
+    .light {
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --border: #e2e8f0;
+      --text: #0f172a;
+      --text-muted: #64748b;
+      --accent: #0284c7;
+    }
+    body { background-color: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+    .card { background-color: var(--card-bg); border: 1px solid var(--border); }
+    .watermark {
+      position: fixed;
+      bottom: 12px;
+      right: 16px;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      color: rgba(239, 68, 68, 0.7);
+      background: rgba(0,0,0,0.4);
+      padding: 4px 10px;
+      border-radius: 4px;
+      border: 1px solid rgba(239, 68, 68, 0.4);
+      z-index: 9999;
+      pointer-events: none;
+    }
+  </style>
+</head>
+<body class="min-h-screen flex flex-col">
+  <div class="watermark">CODE TEST — SYNTHETIC DATA</div>
+
+  <!-- Terminal Top Navigation -->
+  <header class="border-b border-[var(--border)] px-6 py-3 flex items-center justify-between card">
+    <div class="flex items-center space-x-6">
+      <div class="flex items-center space-x-2">
+        <div class="w-3 h-3 rounded-full bg-emerald-500 animate-pulse"></div>
+        <span class="font-bold tracking-wider text-sm uppercase">NSE Intelligence Terminal</span>
+        <span class="text-xs px-2 py-0.5 rounded bg-sky-950 text-sky-400 border border-sky-800">QUANT & TAX LAB</span>
+      </div>
+      <nav class="hidden md:flex space-x-4 text-xs font-medium">
+        <a href="overview.html" class="text-[var(--text-muted)] hover:text-white transition">Overview</a>
+        <a href="stock_intelligence.html" class="text-[var(--text-muted)] hover:text-white transition">Stock Intelligence</a>
+        <a href="valuation_lab.html" class="text-[var(--text-muted)] hover:text-white transition">Valuation Lab</a>
+        <a href="quant_lab.html" class="text-sky-400 border-b-2 border-sky-400 pb-1">Quant Lab</a>
+      </nav>
+    </div>
+    <div class="flex items-center space-x-4 text-xs">
+      <button onclick="toggleTheme()" class="px-2.5 py-1 rounded card hover:border-sky-500 text-[var(--text-muted)]">🌓 Theme</button>
+    </div>
+  </header>
+
+  <main class="flex-1 max-w-7xl w-full mx-auto p-6 space-y-6">
+    <div class="flex items-center justify-between">
+      <div>
+        <h1 class="text-xl font-bold tracking-tight">Quantitative Strategy Backtesting & Dual-Era Tax Simulation</h1>
+        <p class="text-xs text-[var(--text-muted)] mt-1">Point-in-time trade ledger with delivery STT (0.1%), Stamp Duty (0.015%), 18% GST on fees, and IT Act 1961 vs 2025 capital gains</p>
+      </div>
+      <div class="flex items-center space-x-2 text-xs">
+        <span class="text-[var(--text-muted)]">Active Tax Regime:</span>
+        <span class="px-2 py-1 rounded bg-emerald-950 text-emerald-400 border border-emerald-800 font-semibold font-mono">DUAL-ERA (1961 & 2025)</span>
+      </div>
+    </div>
+
+    <!-- Portfolio Backtest Summary KPIs -->
+    <div class="grid grid-cols-2 md:grid-cols-6 gap-4">
+      <div class="card p-4 rounded-lg">
+        <div class="text-[10px] text-[var(--text-muted)] uppercase tracking-wider">Executed Trades</div>
+        <div class="text-xl font-bold font-mono text-white mt-1">10</div>
+        <div class="text-[10px] text-emerald-400 mt-0.5">Win Rate: 80.0%</div>
+      </div>
+      <div class="card p-4 rounded-lg">
+        <div class="text-[10px] text-[var(--text-muted)] uppercase tracking-wider">Gross Pre-Friction P&L</div>
+        <div class="text-xl font-bold font-mono text-sky-400 mt-1">₹3,47,000.00</div>
+        <div class="text-[10px] text-[var(--text-muted)] mt-0.5">Total Turnover: ₹19.4L</div>
+      </div>
+      <div class="card p-4 rounded-lg">
+        <div class="text-[10px] text-[var(--text-muted)] uppercase tracking-wider">Statutory Friction (STT+GST)</div>
+        <div class="text-xl font-bold font-mono text-amber-400 mt-1">₹3,942.80</div>
+        <div class="text-[10px] text-[var(--text-muted)] mt-0.5">STT: ₹3,410 | Stamp: ₹142</div>
+      </div>
+      <div class="card p-4 rounded-lg">
+        <div class="text-[10px] text-[var(--text-muted)] uppercase tracking-wider">Net Pre-Tax P&L</div>
+        <div class="text-xl font-bold font-mono text-emerald-400 mt-1">₹3,43,057.20</div>
+        <div class="text-[10px] text-[var(--text-muted)] mt-0.5">After full friction costs</div>
+      </div>
+      <div class="card p-4 rounded-lg">
+        <div class="text-[10px] text-[var(--text-muted)] uppercase tracking-wider">Capital Gains Tax</div>
+        <div class="text-xl font-bold font-mono text-rose-400 mt-1">₹26,500.00</div>
+        <div class="text-[10px] text-emerald-400 mt-0.5">Exemption Saved: ₹2.5L</div>
+      </div>
+      <div class="card p-4 rounded-lg border-emerald-500/50 bg-emerald-950/20">
+        <div class="text-[10px] text-emerald-300 uppercase tracking-wider font-semibold">Net Post-Tax P&L</div>
+        <div class="text-xl font-bold font-mono text-emerald-400 mt-1">₹3,16,557.20</div>
+        <div class="text-[10px] text-emerald-300 mt-0.5">Post-tax return: +91.2%</div>
+      </div>
+    </div>
+
+    <!-- 10-Trade Execution Ledger Table -->
+    <div class="card p-5 rounded-lg space-y-4">
+      <div class="flex items-center justify-between">
+        <h2 class="text-sm font-semibold uppercase text-sky-400 tracking-wider">Historical 10-Trade Statutory Ledger (Verified Numerical Fixture)</h2>
+        <span class="text-xs text-[var(--text-muted)]">Includes 1 April annual ₹1.25L LTCG exemption bucket reset</span>
+      </div>
+
+      <div class="overflow-x-auto">
+        <table class="w-full text-xs text-left">
+          <thead class="text-[var(--text-muted)] border-b border-[var(--border)] uppercase text-[10px]">
+            <tr>
+              <th class="py-2.5">Trade #</th>
+              <th class="py-2.5">Ticker</th>
+              <th class="py-2.5">Buy Date</th>
+              <th class="py-2.5">Sell Date</th>
+              <th class="py-2.5">Type</th>
+              <th class="py-2.5">Gross Gain</th>
+              <th class="py-2.5">STT Paid</th>
+              <th class="py-2.5">Statutory Section</th>
+              <th class="py-2.5">Taxable Gain</th>
+              <th class="py-2.5">Tax Payable</th>
+              <th class="py-2.5">Net Post-Tax P&L</th>
+            </tr>
+          </thead>
+          <tbody class="font-mono divide-y divide-[var(--border)]">
+            <tr>
+              <td class="py-2 text-[var(--text-muted)]">01</td>
+              <td class="py-2 font-bold text-white">TK1</td>
+              <td class="py-2">2025-04-10</td>
+              <td class="py-2">2025-06-10</td>
+              <td class="py-2"><span class="px-1.5 py-0.5 rounded bg-amber-950 text-amber-400 border border-amber-800 text-[10px]">STCG</span></td>
+              <td class="py-2 text-emerald-400">+₹20,000</td>
+              <td class="py-2">₹220.00</td>
+              <td class="py-2 text-[var(--text-muted)]">1961 Act Sec 111A (20%)</td>
+              <td class="py-2">₹20,000</td>
+              <td class="py-2 text-rose-400">₹4,000.00</td>
+              <td class="py-2 text-emerald-400 font-bold">+₹15,720.00</td>
+            </tr>
+            <tr>
+              <td class="py-2 text-[var(--text-muted)]">02</td>
+              <td class="py-2 font-bold text-white">TK2</td>
+              <td class="py-2">2025-05-01</td>
+              <td class="py-2">2025-07-01</td>
+              <td class="py-2"><span class="px-1.5 py-0.5 rounded bg-amber-950 text-amber-400 border border-amber-800 text-[10px]">STCG</span></td>
+              <td class="py-2 text-rose-400">-₹5,000</td>
+              <td class="py-2">₹195.00</td>
+              <td class="py-2 text-[var(--text-muted)]">1961 Act Sec 111A</td>
+              <td class="py-2">₹0</td>
+              <td class="py-2">₹0.00</td>
+              <td class="py-2 text-rose-400 font-bold">-₹5,255.00</td>
+            </tr>
+            <tr>
+              <td class="py-2 text-[var(--text-muted)]">05</td>
+              <td class="py-2 font-bold text-white">TK5</td>
+              <td class="py-2">2024-05-01</td>
+              <td class="py-2">2025-10-01</td>
+              <td class="py-2"><span class="px-1.5 py-0.5 rounded bg-indigo-950 text-indigo-400 border border-indigo-800 text-[10px]">LTCG</span></td>
+              <td class="py-2 text-emerald-400">+₹1,00,000</td>
+              <td class="py-2">₹400.00</td>
+              <td class="py-2 text-emerald-400">1961 Act Sec 112A (Exempt)</td>
+              <td class="py-2 text-emerald-400">₹0 (Within 1.25L)</td>
+              <td class="py-2 text-emerald-400 font-bold">₹0.00</td>
+              <td class="py-2 text-emerald-400 font-bold">+₹99,520.00</td>
+            </tr>
+            <tr>
+              <td class="py-2 text-[var(--text-muted)]">06</td>
+              <td class="py-2 font-bold text-white">TK6</td>
+              <td class="py-2">2024-06-01</td>
+              <td class="py-2">2025-12-01</td>
+              <td class="py-2"><span class="px-1.5 py-0.5 rounded bg-indigo-950 text-indigo-400 border border-indigo-800 text-[10px]">LTCG</span></td>
+              <td class="py-2 text-emerald-400">+₹1,00,000</td>
+              <td class="py-2">₹500.00</td>
+              <td class="py-2 text-[var(--text-muted)]">1961 Act Sec 112A (12.5%)</td>
+              <td class="py-2">₹75,000</td>
+              <td class="py-2 text-rose-400">₹9,375.00</td>
+              <td class="py-2 text-emerald-400 font-bold">+₹90,025.00</td>
+            </tr>
+            <tr class="bg-sky-950/20">
+              <td class="py-2 text-[var(--text-muted)]">08</td>
+              <td class="py-2 font-bold text-sky-400">TK8</td>
+              <td class="py-2">2025-02-01</td>
+              <td class="py-2">2026-05-01</td>
+              <td class="py-2"><span class="px-1.5 py-0.5 rounded bg-indigo-950 text-indigo-400 border border-indigo-800 text-[10px]">LTCG</span></td>
+              <td class="py-2 text-emerald-400">+₹1,00,000</td>
+              <td class="py-2">₹400.00</td>
+              <td class="py-2 text-emerald-400">2025 Act Sec 198 (Reset)</td>
+              <td class="py-2 text-emerald-400">₹0 (New Exemption)</td>
+              <td class="py-2 text-emerald-400 font-bold">₹0.00</td>
+              <td class="py-2 text-emerald-400 font-bold">+₹99,520.00</td>
+            </tr>
+            <tr class="bg-sky-950/20">
+              <td class="py-2 text-[var(--text-muted)]">09</td>
+              <td class="py-2 font-bold text-sky-400">TK9</td>
+              <td class="py-2">2026-04-15</td>
+              <td class="py-2">2026-07-15</td>
+              <td class="py-2"><span class="px-1.5 py-0.5 rounded bg-amber-950 text-amber-400 border border-amber-800 text-[10px]">STCG</span></td>
+              <td class="py-2 text-emerald-400">+₹10,000</td>
+              <td class="py-2">₹50.00</td>
+              <td class="py-2 text-[var(--text-muted)]">2025 Act Sec 196 (20%)</td>
+              <td class="py-2">₹10,000</td>
+              <td class="py-2 text-rose-400">₹2,000.00</td>
+              <td class="py-2 text-emerald-400 font-bold">+₹7,910.00</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- Monte Carlo Forecast Distribution -->
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+      <div class="card p-5 rounded-lg space-y-4">
+        <h2 class="text-sm font-semibold uppercase text-indigo-400 tracking-wider">Stationary Block Bootstrap Monte Carlo (52 Weeks)</h2>
+        <p class="text-xs text-[var(--text-muted)]">Simulates 1,000 price paths using 4-week blocks to preserve serial correlation & fat-tail shocks without Gaussian assumptions.</p>
+        
+        <div class="space-y-2 text-xs font-mono">
+          <div class="flex justify-between p-2 rounded bg-slate-900/60 border border-[var(--border)]">
+            <span class="text-rose-400">5th Percentile (Severe Bear):</span>
+            <span class="font-bold text-white">₹2,240.00 (-18.5%)</span>
+          </div>
+          <div class="flex justify-between p-2 rounded bg-slate-900/60 border border-[var(--border)]">
+            <span class="text-amber-400">25th Percentile (Conservative):</span>
+            <span class="font-bold text-white">₹2,580.00 (-6.2%)</span>
+          </div>
+          <div class="flex justify-between p-2 rounded bg-slate-900/60 border border-[var(--border)]">
+            <span class="text-sky-400">50th Percentile (Median Base):</span>
+            <span class="font-bold text-white">₹2,980.00 (+8.4%)</span>
+          </div>
+          <div class="flex justify-between p-2 rounded bg-slate-900/60 border border-[var(--border)]">
+            <span class="text-emerald-400">75th Percentile (Optimistic):</span>
+            <span class="font-bold text-white">₹3,340.00 (+21.5%)</span>
+          </div>
+          <div class="flex justify-between p-2 rounded bg-slate-900/60 border border-[var(--border)]">
+            <span class="text-emerald-300">95th Percentile (Bull Case):</span>
+            <span class="font-bold text-white">₹3,720.00 (+35.3%)</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="card p-5 rounded-lg space-y-4">
+        <h2 class="text-sm font-semibold uppercase text-sky-400 tracking-wider">MacKinlay Event Study Calculator</h2>
+        <p class="text-xs text-[var(--text-muted)]">Calculates Abnormal Returns (AR) & Cumulative Abnormal Returns (CAR) surrounding corporate disclosures.</p>
+
+        <div class="space-y-3 text-xs">
+          <div>
+            <label class="text-[var(--text-muted)] block mb-1">Corporate Event Type:</label>
+            <select class="w-full px-2.5 py-1.5 rounded bg-slate-900 border border-[var(--border)] text-white">
+              <option>Auditor Premature Resignation (LODR Reg 30)</option>
+              <option>Promoter Share Pledge Increase</option>
+              <option>Institutional Block Deal Disclosures</option>
+            </select>
+          </div>
+          <div class="grid grid-cols-3 gap-3 font-mono">
+            <div class="p-2 rounded bg-slate-900/60 border border-[var(--border)]">
+              <div class="text-[10px] text-[var(--text-muted)]">CAR [-2, +2]</div>
+              <div class="text-sm font-bold text-rose-400 mt-1">-5.12%</div>
+            </div>
+            <div class="p-2 rounded bg-slate-900/60 border border-[var(--border)]">
+              <div class="text-[10px] text-[var(--text-muted)]">t-Statistic</div>
+              <div class="text-sm font-bold text-white mt-1">-3.42</div>
+            </div>
+            <div class="p-2 rounded bg-slate-900/60 border border-[var(--border)]">
+              <div class="text-[10px] text-[var(--text-muted)]">p-Value</div>
+              <div class="text-sm font-bold text-emerald-400 mt-1">0.0006</div>
+            </div>
+          </div>
+          <div class="text-[11px] text-rose-400 font-semibold">Statistically Significant Market Reaction (p &lt; 0.01)</div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <script>
+    function toggleTheme() {
+      document.documentElement.classList.toggle('light');
+    }
+  </script>
+</body>
+</html>
