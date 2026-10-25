@@ -1,4 +1,4 @@
-# NSE Equity Intelligence Platform
+# Vinit's Self-Made Research Terminal
 
 Institutional-grade quantitative research and equity analysis engine for the National Stock Exchange of India (NSE).
 

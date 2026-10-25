@@ -32,7 +32,7 @@ def cmd_summary(args):
 
         latest_price = session.query(PriceRaw).filter(PriceRaw.isin == args.isin).order_by(PriceRaw.trade_date.desc()).first()
         print(f"\n========================================================")
-        print(f"  NSE EQUITY INTELLIGENCE TERMINAL — SECURITY SUMMARY")
+        print(f"  VINIT'S RESEARCH TERMINAL — SECURITY SUMMARY")
         print(f"  WATERMARK: CODE TEST — SYNTHETIC DATA")
         print(f"========================================================")
         print(f"  Company Name : {sec.company_name}")
@@ -152,7 +152,7 @@ def cmd_tearsheet(args):
 
 
 def main():
-    parser = argparse.ArgumentParser(description="NSE Equity Intelligence Institutional Analyst CLI")
+    parser = argparse.ArgumentParser(description="Vinit's Self-Made Research Terminal CLI")
     subparsers = parser.add_subparsers(dest="command")
 
     # summary

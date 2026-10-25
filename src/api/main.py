@@ -20,9 +20,9 @@ from src.core.backtest import StrategyBacktestEngine, TradeOrder
 import pandas as pd
 
 app = FastAPI(
-    title="NSE Equity Intelligence API",
+    title="Vinit's Self-Made Research Terminal API",
     version="1.0.0",
-    description="Institutional Research Terminal API with strict provenance tracking and dual-era statutory taxation."
+    description="Vinit's Institutional Research Terminal API with strict provenance tracking and dual-era statutory taxation."
 )
 
 # Mount UI Prototypes if directory exists

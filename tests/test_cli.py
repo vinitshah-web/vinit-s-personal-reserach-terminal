@@ -14,7 +14,7 @@ def test_cli_summary(db_session, monkeypatch):
         cli.main()
         
     output = buf.getvalue()
-    assert "NSE EQUITY INTELLIGENCE TERMINAL — SECURITY SUMMARY" in output
+    assert "VINIT'S RESEARCH TERMINAL — SECURITY SUMMARY" in output
     assert "INE002A01018" in output
     assert "CODE TEST — SYNTHETIC DATA" in output
 

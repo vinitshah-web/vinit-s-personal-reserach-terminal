@@ -19,7 +19,7 @@ if hasattr(sys.stdout, "reconfigure"):
 
 def main():
     print("==================================================================")
-    print("  NSE EQUITY INTELLIGENCE PLATFORM — SYSTEM VERIFICATION AUDIT")
+    print("  VINIT'S RESEARCH TERMINAL — SYSTEM VERIFICATION AUDIT")
     print("  WATERMARK: CODE TEST — SYNTHETIC DATA")
     print("==================================================================")
 
