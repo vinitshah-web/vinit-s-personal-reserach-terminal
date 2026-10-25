@@ -16,9 +16,10 @@ import pandas as pd
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from src.db.connection import get_session_factory, get_engine
-from src.db.models import Base, Security, PriceRaw, GovernanceEvent, IndexPrice
+from src.db.models import Base, Security, PriceRaw, GovernanceEvent, IndexPrice, CorporateAction
 from src.ingestion.bhavcopy import BhavcopyIngester
 from src.ingestion.announcements import AnnouncementParser
+from src.ingestion.corporate_actions import CorporateActionParser
 from src.ingestion.index_parser import IndexDataIngester
 from src.db.seed_defs import seed_standard_line_items
 
@@ -135,6 +136,63 @@ def ingest_workspace_archives():
                                 gov_count += 1
                         session.commit()
                         print(f"[OK] Ingested {gov_count} real corporate events from an23102026.txt into governance_event.")
+
+                    # Real Corporate Actions from bc23102026.csv
+                    if "bc23102026.csv" in pr_z.namelist():
+                        bc_text = pr_z.read("bc23102026.csv").decode("utf-8", errors="ignore")
+                        sym_map = {s.ticker_current: s.isin for s in session.query(Security).all()}
+                        ca_parser = CorporateActionParser()
+                        ca_recs = ca_parser.parse_nse_bc_csv(bc_text, sym_map)
+                        ca_count = 0
+                        for ca in ca_recs:
+                            existing_ca = session.query(CorporateAction).filter(
+                                CorporateAction.isin == ca["isin"],
+                                CorporateAction.ex_date == ca["ex_date"],
+                                CorporateAction.action_type == ca["action_type"]
+                            ).first()
+                            if not existing_ca:
+                                row = CorporateAction(**ca)
+                                session.add(row)
+                                ca_count += 1
+                        session.commit()
+                        print(f"[OK] Ingested {ca_count} official corporate actions from bc23102026.csv.")
+
+                    # Real Bhavcopy Prices for 2026-10-23 from pd23102026.csv
+                    if "pd23102026.csv" in pr_z.namelist():
+                        pd_bytes = pr_z.read("pd23102026.csv")
+                        pd_hash = bhav_ingester.compute_sha256(pd_bytes)
+                        sym_map = {s.ticker_current: s.isin for s in session.query(Security).all()}
+                        records_23 = bhav_ingester.parse_bhavcopy_csv(
+                            pd_bytes,
+                            source_filename="pd23102026.csv",
+                            file_hash=pd_hash,
+                            trade_date=date(2026, 10, 23),
+                            symbol_to_isin_map=sym_map
+                        )
+                        price23_count = 0
+                        for r in records_23:
+                            isin_code = r["isin"]
+                            existing_price = session.query(PriceRaw).filter(
+                                PriceRaw.isin == isin_code,
+                                PriceRaw.trade_date == r["trade_date"]
+                            ).first()
+                            if not existing_price:
+                                pr_row = PriceRaw(
+                                    isin=isin_code,
+                                    trade_date=r["trade_date"],
+                                    open_raw=r["open_raw"],
+                                    high_raw=r["high_raw"],
+                                    low_raw=r["low_raw"],
+                                    close_raw=r["close_raw"],
+                                    volume_raw=r["volume_raw"],
+                                    delivery_pct=r["delivery_pct"],
+                                    source_file=r["source_file"],
+                                    file_hash=r["file_hash"]
+                                )
+                                session.add(pr_row)
+                                price23_count += 1
+                        session.commit()
+                        print(f"[OK] Ingested 2026-10-23 Bhavcopy prices: {price23_count} price rows from pd23102026.csv.")
 
         print("=== Workspace Archives Successfully Ingested ===")
     finally:

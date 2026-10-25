@@ -25,7 +25,7 @@
   - `src/db/connection.py`: SQLite engine with automatic `PRAGMA foreign_keys = ON`.
   - `alembic/versions/001_initial_schema.py`: Portable Alembic migrations.
   - `src/ingestion/bhavcopy.py`: SHA-256 validated Bhavcopy parser (Unified, CSV, and legacy PR formats).
-  - `src/ingestion/corporate_actions.py`: Corporate action parser and factor generator.
+  - `src/ingestion/corporate_actions.py`: Corporate action parser, split/bonus/rights TERP factor generators, and official NSE `bc<DDMMYYYY>.csv` parser.
   - `src/core/adjustments.py`: Cumulative adjustment engine (splits, bonuses, rights TERP).
   - `src/core/total_return.py`: Total return index with dividend reinvestment at ex-date close and 3 rights issue investor strategies (`subscribe`, `sell_renounce`, `lapse`).
   - `src/core/universe.py`: Point-in-time universe query gateway with dual modes: `AS_KNOWN` and `RECONSTRUCTED`.
@@ -34,6 +34,7 @@
   - `tests/test_phase1_total_return.py`: 2 tests passing.
   - `tests/test_pit_modes.py`: 4 tests passing.
   - `tests/test_corporate_actions_comprehensive.py`: 3 tests passing.
+  - `tests/test_corporate_actions_real.py`: 1 test passing (verifying official `bc23102026.csv` parsing).
 
 ---
 
@@ -128,7 +129,7 @@
 
 ---
 
-## Automated Test Suite Execution Summary (77 Tests — 100% Pass)
+## Automated Test Suite Execution Summary (78 Tests — 100% Pass)
 
 Command: `py -m pytest tests/ -v --tb=short`
 
@@ -151,6 +152,7 @@ tests/test_cli.py::test_cli_tearsheet PASSED                             [ 19%]
 tests/test_corporate_actions_comprehensive.py::test_rights_issue_investor_strategies PASSED [ 20%]
 tests/test_corporate_actions_comprehensive.py::test_incomplete_rights_parameters_fails_closed PASSED [ 22%]
 tests/test_corporate_actions_comprehensive.py::test_corporate_action_consistency_prices_volume_dividends PASSED [ 23%]
+tests/test_corporate_actions_real.py::test_parse_real_nse_bc_csv PASSED  [ 24%]
 tests/test_data_integrity_and_api.py::test_duplicate_ingestion_and_rollback PASSED [ 24%]
 tests/test_data_integrity_and_api.py::test_api_three_part_envelope_and_metadata PASSED [ 25%]
 tests/test_phase0_config.py::test_config_loader_tax_rules PASSED         [ 27%]
@@ -211,7 +213,7 @@ tests/test_valuation_models.py::test_valuation_engine_invalid_bounds_handling PA
 tests/test_valuation_models.py::test_banking_ddm_with_sustainable_retention PASSED [ 98%]
 tests/test_valuation_models.py::test_enterprise_to_equity_value_bridge PASSED [100%]
 
-======================= 77 passed, 2 warnings in 2.92s ========================
+======================= 78 passed, 2 warnings in 2.88s ========================
 ```
 
 ---

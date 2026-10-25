@@ -3,7 +3,7 @@ import hashlib
 import io
 from datetime import date, datetime, timezone
 from pathlib import Path
-from typing import Dict, List, Tuple
+from typing import Dict, List, Tuple, Optional
 import pandas as pd
 
 
@@ -35,14 +35,16 @@ class BhavcopyIngester:
         source_filename: str,
         file_hash: str,
         trade_date: date,
-        allowed_series: Tuple[str, ...] = ("EQ", "BE", "SM")
+        allowed_series: Tuple[str, ...] = ("EQ", "BE", "SM"),
+        symbol_to_isin_map: Optional[Dict[str, str]] = None
     ) -> List[Dict[str, any]]:
         """
         Parses Bhavcopy CSV bytes handling both modern and legacy column headers:
         Standard modern: [SYMBOL, SERIES, OPEN, HIGH, LOW, CLOSE, TOTTRDQTY, ISIN]
         Legacy standard: [SYMBOL, SERIES, OPEN_PRICE, HIGH_PRICE, LOW_PRICE, CLOSE_PRICE, TTL_TRD_QNTY, ISIN]
+        Legacy PR / PD:  [SYMBOL, SERIES, OPEN_PRICE, HIGH_PRICE, LOW_PRICE, CLOSE_PRICE, NET_TRDQTY] (ISIN via symbol_to_isin_map)
         """
-        df = pd.read_csv(io.BytesIO(csv_bytes))
+        df = pd.read_csv(io.BytesIO(csv_bytes), skipinitialspace=True)
         df.columns = [c.strip().upper() for c in df.columns]
 
         # Normalize column names across all 3 historical NSE Bhavcopy generations:
@@ -67,6 +69,10 @@ class BhavcopyIngester:
             "DELIV_PER": "DELIVERY_PCT"
         }
         df = df.rename(columns=col_map)
+
+        if "ISIN" not in df.columns and symbol_to_isin_map:
+            df["ISIN"] = df["SYMBOL"].astype(str).str.strip().map(symbol_to_isin_map)
+            df = df.dropna(subset=["ISIN"])
 
         required = ["SYMBOL", "SERIES", "CLOSE", "TOTTRDQTY", "ISIN"]
         for col in required:

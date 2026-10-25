@@ -1,5 +1,8 @@
 """Corporate Actions Ingestion and Adjustment Factor Derivation."""
 import json
+import re
+import io
+import pandas as pd
 from datetime import date, datetime, timezone
 from typing import Any, Dict, List, Optional
 
@@ -85,4 +88,132 @@ class CorporateActionParser:
                 "effective_to": None,
                 "adj_factor": adj_factor
             })
+        return parsed
+
+    def parse_nse_bc_csv(
+        self,
+        csv_text: str,
+        symbol_to_isin_map: Dict[str, str],
+        source_url: str = "https://nseindia.com/reports/PR231026/bc23102026.csv",
+        published_at: Optional[datetime] = None
+    ) -> List[Dict[str, Any]]:
+        """Parses official NSE Book Closure / Corporate Actions CSV (bc<DDMMYYYY>.csv)."""
+        df = pd.read_csv(io.StringIO(csv_text), skipinitialspace=True)
+        df.columns = [c.strip().upper() for c in df.columns]
+
+        # Only process primary equity series to avoid duplicate corporate actions
+        if "SERIES" in df.columns:
+            df = df[df["SERIES"].isin(["EQ", "BE"])]
+
+        if published_at is None:
+            published_at = datetime.now(timezone.utc)
+        ingested_at = datetime.now(timezone.utc)
+
+        parsed = []
+        seen = set()
+
+        for _, row in df.iterrows():
+            sym = str(row.get("SYMBOL", "")).strip()
+            if not sym or sym not in symbol_to_isin_map:
+                continue
+
+            isin = symbol_to_isin_map[sym]
+            purpose = str(row.get("PURPOSE", "")).strip()
+            ex_date_str = str(row.get("EX_DT", "")).strip()
+            rec_date_str = str(row.get("RECORD_DT", "")).strip()
+
+            try:
+                ex_dt = date.fromisoformat(ex_date_str)
+            except Exception:
+                continue
+
+            try:
+                rec_dt = date.fromisoformat(rec_date_str) if rec_date_str and rec_date_str != "nan" else None
+            except Exception:
+                rec_dt = None
+
+            # 1. Dividend
+            m_div = re.search(r'INTDIV\s*-\s*R[SE]\s*([0-9.]+)\s*PER\s*SH', purpose, re.IGNORECASE)
+            if m_div:
+                d_val = float(m_div.group(1))
+                key = (isin, ex_dt, "dividend")
+                if key not in seen:
+                    seen.add(key)
+                    parsed.append({
+                        "isin": isin,
+                        "ex_date": ex_dt,
+                        "record_date": rec_dt,
+                        "action_type": "dividend",
+                        "ratio_numerator": None,
+                        "ratio_denominator": None,
+                        "dividend_per_share": d_val,
+                        "dividend_type": "INTERIM",
+                        "subscription_price": None,
+                        "details_json": json.dumps({"raw_purpose": purpose, "symbol": sym}),
+                        "source_url": source_url,
+                        "published_at": published_at,
+                        "ingested_at": ingested_at,
+                        "effective_from": ex_dt,
+                        "effective_to": None,
+                        "adj_factor": None
+                    })
+
+            # 2. Split
+            m_splt = re.search(r'FVSPLT\s*FRM\s*RS\s*([0-9.]+)\s*TO\s*RS\s*([0-9.]+)', purpose, re.IGNORECASE)
+            if m_splt:
+                old_fv = float(m_splt.group(1))
+                new_fv = float(m_splt.group(2))
+                if new_fv > 0:
+                    split_mult = int(round(old_fv / new_fv))
+                    key = (isin, ex_dt, "split")
+                    if key not in seen:
+                        seen.add(key)
+                        adj_factor = self.compute_split_factor(split_mult, 1)
+                        parsed.append({
+                            "isin": isin,
+                            "ex_date": ex_dt,
+                            "record_date": rec_dt,
+                            "action_type": "split",
+                            "ratio_numerator": split_mult,
+                            "ratio_denominator": 1,
+                            "dividend_per_share": None,
+                            "dividend_type": None,
+                            "subscription_price": None,
+                            "details_json": json.dumps({"raw_purpose": purpose, "old_fv": old_fv, "new_fv": new_fv, "symbol": sym}),
+                            "source_url": source_url,
+                            "published_at": published_at,
+                            "ingested_at": ingested_at,
+                            "effective_from": ex_dt,
+                            "effective_to": None,
+                            "adj_factor": adj_factor
+                        })
+
+            # 3. Bonus
+            m_bonus = re.search(r'BONUS\s*([0-9]+):([0-9]+)', purpose, re.IGNORECASE)
+            if m_bonus:
+                b_num = int(m_bonus.group(1))
+                b_den = int(m_bonus.group(2))
+                key = (isin, ex_dt, "bonus")
+                if key not in seen:
+                    seen.add(key)
+                    adj_factor = self.compute_bonus_factor(b_num, b_den)
+                    parsed.append({
+                        "isin": isin,
+                        "ex_date": ex_dt,
+                        "record_date": rec_dt,
+                        "action_type": "bonus",
+                        "ratio_numerator": b_num,
+                        "ratio_denominator": b_den,
+                        "dividend_per_share": None,
+                        "dividend_type": None,
+                        "subscription_price": None,
+                        "details_json": json.dumps({"raw_purpose": purpose, "symbol": sym}),
+                        "source_url": source_url,
+                        "published_at": published_at,
+                        "ingested_at": ingested_at,
+                        "effective_from": ex_dt,
+                        "effective_to": None,
+                        "adj_factor": adj_factor
+                    })
+
         return parsed
