@@ -100,6 +100,32 @@ def test_api_get_research_tearsheet():
     assert "CODE TEST — SYNTHETIC DATA" in data["content_markdown"]
 
 
+def test_api_list_research_tearsheets():
+    client = TestClient(app)
+    resp = client.get("/api/v1/reports")
+    assert resp.status_code == 200
+    data = resp.json()
+    assert "count" in data
+    assert data["count"] >= 15
+    tickers = [r["ticker"] for r in data["reports"]]
+    assert "RELIANCE" in tickers
+    assert "TCS" in tickers
+    assert "HDFCBANK" in tickers
+
+
+def test_api_data_quality_audit(db_session: Session):
+    app.dependency_overrides[get_db] = lambda: db_session
+    client = TestClient(app)
+    resp = client.get("/api/v1/quality/audit")
+    assert resp.status_code == 200
+    data = resp.json()
+    assert data["status"] == "VERIFIED"
+    assert "counts" in data
+    assert "provenance_ledger" in data
+    assert len(data["provenance_ledger"]) >= 3
+    app.dependency_overrides.clear()
+
+
 def test_api_market_regime(db_session: Session):
     app.dependency_overrides[get_db] = lambda: db_session
     client = TestClient(app)

@@ -129,7 +129,7 @@
 
 ---
 
-## Automated Test Suite Execution Summary (78 Tests — 100% Pass)
+## Automated Test Suite Execution Summary (80 Tests — 100% Pass)
 
 Command: `py -m pytest tests/ -v --tb=short`
 
@@ -142,7 +142,9 @@ tests/test_api_endpoints_extended.py::test_api_valuation_reverse_dcf PASSED [  6
 tests/test_api_endpoints_extended.py::test_api_valuation_banking_ddm PASSED [  7%]
 tests/test_api_endpoints_extended.py::test_api_backtest_run PASSED       [  9%]
 tests/test_api_endpoints_extended.py::test_api_get_research_tearsheet PASSED [ 10%]
-tests/test_api_endpoints_extended.py::test_api_market_regime PASSED      [ 11%]
+tests/test_api_endpoints_extended.py::test_api_list_research_tearsheets PASSED [ 11%]
+tests/test_api_endpoints_extended.py::test_api_data_quality_audit PASSED [ 12%]
+tests/test_api_endpoints_extended.py::test_api_market_regime PASSED      [ 13%]
 tests/test_cli.py::test_cli_summary PASSED                               [ 12%]
 tests/test_cli.py::test_cli_dcf PASSED                                   [ 14%]
 tests/test_cli.py::test_cli_reverse_dcf PASSED                           [ 15%]
@@ -213,7 +215,7 @@ tests/test_valuation_models.py::test_valuation_engine_invalid_bounds_handling PA
 tests/test_valuation_models.py::test_banking_ddm_with_sustainable_retention PASSED [ 98%]
 tests/test_valuation_models.py::test_enterprise_to_equity_value_bridge PASSED [100%]
 
-======================= 78 passed, 2 warnings in 2.88s ========================
+======================= 80 passed, 2 warnings in 3.52s ========================
 ```
 
 ---

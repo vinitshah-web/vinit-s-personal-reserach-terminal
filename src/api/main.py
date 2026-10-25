@@ -341,6 +341,28 @@ def get_current_market_regime(db: Session = Depends(get_db)):
     return res
 
 
+@app.get("/api/v1/reports")
+def list_research_tearsheets():
+    """Lists all available generated research tear-sheets."""
+    reports_dir = Path("reports")
+    if not reports_dir.exists():
+        return {"count": 0, "reports": [], "watermark": "CODE TEST - SYNTHETIC DATA"}
+    files = list(reports_dir.glob("*_TEARSHEET.md"))
+    reports = []
+    for f in sorted(files):
+        ticker = f.name.replace("_TEARSHEET.md", "")
+        reports.append({
+            "ticker": ticker,
+            "filename": f.name,
+            "url": f"/api/v1/reports/{ticker}"
+        })
+    return {
+        "count": len(reports),
+        "reports": reports,
+        "watermark": "CODE TEST - SYNTHETIC DATA"
+    }
+
+
 @app.get("/api/v1/reports/{ticker}")
 def get_research_tearsheet(ticker: str):
     """Retrieves generated institutional research tear-sheet in Markdown format."""
