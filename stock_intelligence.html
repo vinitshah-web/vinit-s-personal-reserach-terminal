@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vinit's Research Terminal — Stock Intelligence</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    :root {
+      --bg: #090d16;
+      --card-bg: #111726;
+      --border: #1e293b;
+      --text: #f1f5f9;
+      --text-muted: #94a3b8;
+      --accent: #38bdf8;
+      --success: #10b981;
+      --warning: #f59e0b;
+      --danger: #ef4444;
+    }
+    .light {
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --border: #e2e8f0;
+      --text: #0f172a;
+      --text-muted: #64748b;
+      --accent: #0284c7;
+    }
+    body { background-color: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+    .card { background-color: var(--card-bg); border: 1px solid var(--border); }
+    .watermark {
+      position: fixed;
+      bottom: 12px;
+      right: 16px;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      color: rgba(239, 68, 68, 0.7);
+      background: rgba(0,0,0,0.4);
+      padding: 4px 10px;
+      border-radius: 4px;
+      border: 1px solid rgba(239, 68, 68, 0.4);
+      z-index: 9999;
+      pointer-events: none;
+    }
+  </style>
+</head>
+<body class="min-h-screen flex flex-col">
+  <div class="watermark">CODE TEST — SYNTHETIC DATA</div>
+
+  <!-- Header -->
+  <header class="border-b border-[var(--border)] px-6 py-3 flex items-center justify-between card">
+    <div class="flex items-center space-x-4">
+      <a href="overview.html" class="text-xs text-sky-400 hover:underline">← Overview</a>
+      <span class="text-slate-600">|</span>
+      <h1 class="text-sm font-bold tracking-wide">RELIANCE INDUSTRIES LTD</h1>
+      <span class="text-xs px-2 py-0.5 rounded bg-slate-800 text-slate-300 font-mono">INE002A01018</span>
+      <span class="text-xs px-2 py-0.5 rounded bg-emerald-950 text-emerald-300 border border-emerald-800">CONSOLIDATED</span>
+      <span class="text-slate-600">|</span>
+      <a href="valuation_lab.html" class="text-xs text-[var(--text-muted)] hover:text-white transition">Valuation Lab</a>
+      <a href="quant_lab.html" class="text-xs text-[var(--text-muted)] hover:text-white transition">Quant Lab</a>
+      <a href="data_quality.html" class="text-xs text-[var(--text-muted)] hover:text-white transition">Data Quality</a>
+      <a href="reports.html" class="text-xs text-[var(--text-muted)] hover:text-white transition">Reports</a>
+    </div>
+    <div class="flex items-center space-x-3 text-xs">
+      <span class="text-[var(--text-muted)]">As-of: 2026-10-23</span>
+      <button onclick="toggleTheme()" class="px-2.5 py-1 rounded card hover:border-sky-500 text-[var(--text-muted)]">🌓 Theme</button>
+    </div>
+  </header>
+
+  <!-- Stock Header Summary Banner -->
+  <div class="border-b border-[var(--border)] bg-slate-900/40 px-6 py-4">
+    <div class="max-w-7xl mx-auto grid grid-cols-2 md:grid-cols-6 gap-4 text-xs">
+      <div>
+        <div class="text-[var(--text-muted)] uppercase">Measured Fact</div>
+        <div id="stock-raw-close" class="text-base font-bold font-mono text-white mt-0.5">₹1,190.00</div>
+        <div id="stock-close-date" class="text-[11px] text-slate-400">Trade Date: 2026-10-23</div>
+      </div>
+      <div>
+        <div class="text-[var(--text-muted)] uppercase">Calculated Metric</div>
+        <div id="stock-adj-close" class="text-base font-bold font-mono text-emerald-400 mt-0.5">₹1,190.00</div>
+        <div class="text-[11px] text-slate-400">NSE Verified Close</div>
+      </div>
+      <div>
+        <div class="text-[var(--text-muted)] uppercase">Calculated Metric</div>
+        <div class="text-base font-bold font-mono text-sky-400 mt-0.5">₹16,10,372 Cr</div>
+        <div class="text-[11px] text-slate-400">Market Capitalization</div>
+      </div>
+      <div>
+        <div class="text-[var(--text-muted)] uppercase">Fundamental Ratio</div>
+        <div class="text-base font-bold font-mono text-amber-400 mt-0.5">14.85%</div>
+        <div class="text-[11px] text-slate-400">DuPont 5-Factor ROE</div>
+      </div>
+      <div>
+        <div class="text-[var(--text-muted)] uppercase">Model Estimate</div>
+        <div class="text-base font-bold font-mono text-purple-400 mt-0.5">₹1,580.00</div>
+        <div class="text-[11px] text-slate-400">DCF Fair Value (WACC 12%)</div>
+      </div>
+      <div>
+        <div class="text-[var(--text-muted)] uppercase">Provenance Status</div>
+        <div class="mt-1 flex items-center space-x-1">
+          <span class="w-2 h-2 rounded-full bg-emerald-400"></span>
+          <span class="text-emerald-400 font-semibold">Bhavcopy Verified</span>
+        </div>
+        <div class="text-[11px] text-slate-400">Hash: 8f4a...92b1</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Main Grid -->
+  <main class="flex-1 p-6 space-y-6 max-w-7xl mx-auto w-full">
+    <!-- DuPont 5-Factor Breakdown Card -->
+    <div class="card rounded-lg p-5">
+      <div class="flex items-center justify-between mb-4">
+        <div>
+          <h2 class="text-base font-bold">DuPont 5-Factor ROE Decomposition</h2>
+          <p class="text-xs text-[var(--text-muted)]">Source Reference: Palepu & Healy (2019) Chapter 5 | Verified Identity Match (Tolerance: 0.0001%)</p>
+        </div>
+        <span class="text-xs px-2.5 py-1 bg-emerald-950 text-emerald-300 rounded border border-emerald-800 font-mono">
+          Identity Product == Direct ROE
+        </span>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-5 gap-3 text-xs font-mono">
+        <div class="p-3 rounded bg-slate-800/60 border border-slate-700">
+          <div class="text-[var(--text-muted)] text-[11px] font-sans">1. Tax Burden (PAT/EBT)</div>
+          <div class="text-base font-bold text-sky-400 mt-1">0.6923</div>
+          <div class="text-[10px] text-slate-400 font-sans mt-1">Effective Tax: 30.77%</div>
+        </div>
+        <div class="p-3 rounded bg-slate-800/60 border border-slate-700">
+          <div class="text-[var(--text-muted)] text-[11px] font-sans">2. Interest Burden (EBT/EBIT)</div>
+          <div class="text-base font-bold text-sky-400 mt-1">0.8262</div>
+          <div class="text-[10px] text-slate-400 font-sans mt-1">Finance Costs Impact</div>
+        </div>
+        <div class="p-3 rounded bg-slate-800/60 border border-slate-700">
+          <div class="text-[var(--text-muted)] text-[11px] font-sans">3. Operating Margin (EBIT/Sales)</div>
+          <div class="text-base font-bold text-sky-400 mt-1">12.91%</div>
+          <div class="text-[10px] text-slate-400 font-sans mt-1">Core Profitability</div>
+        </div>
+        <div class="p-3 rounded bg-slate-800/60 border border-slate-700">
+          <div class="text-[var(--text-muted)] text-[11px] font-sans">4. Asset Turnover (Sales/Assets)</div>
+          <div class="text-base font-bold text-sky-400 mt-1">0.5107x</div>
+          <div class="text-[10px] text-slate-400 font-sans mt-1">Capital Utilization</div>
+        </div>
+        <div class="p-3 rounded bg-slate-800/60 border border-slate-700">
+          <div class="text-[var(--text-muted)] text-[11px] font-sans">5. Equity Multiplier (Assets/Equity)</div>
+          <div class="text-base font-bold text-sky-400 mt-1">2.2840x</div>
+          <div class="text-[10px] text-slate-400 font-sans mt-1">Financial Leverage</div>
+        </div>
+      </div>
+      <div class="mt-4 p-3 rounded bg-sky-950/40 border border-sky-800 text-xs flex justify-between items-center">
+        <span>Combined Product ROE: <strong class="text-emerald-400 font-mono text-sm">14.85%</strong> (Direct Net Income / Net Worth: <strong class="text-emerald-400 font-mono text-sm">14.85%</strong>)</span>
+        <span class="text-slate-400">Strictly excluded for Banks/NBFCs</span>
+      </div>
+    </div>
+
+    <!-- Corporate Action History Table -->
+    <div class="card rounded-lg p-5">
+      <h2 class="text-base font-bold mb-1">Corporate Actions & Share Basis Timeline</h2>
+      <p class="text-xs text-[var(--text-muted)] mb-4">Historical dividend reinvestment & adjustment factors</p>
+
+      <div class="overflow-x-auto">
+        <table class="w-full text-left text-xs font-mono">
+          <thead class="border-b border-[var(--border)] text-[var(--text-muted)] uppercase tracking-wider font-semibold font-sans">
+            <tr>
+              <th class="py-2.5 px-3">Ex-Date</th>
+              <th class="py-2.5 px-3">Action Type</th>
+              <th class="py-2.5 px-3">Details / Ratio</th>
+              <th class="py-2.5 px-3 text-right">Raw Amount (₹)</th>
+              <th class="py-2.5 px-3 text-right">Adj Factor</th>
+              <th class="py-2.5 px-3 text-right">Adj Amount (₹)</th>
+              <th class="py-2.5 px-3 text-center">Status</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-[var(--border)]">
+            <tr>
+              <td class="py-2.5 px-3">2024-01-12</td>
+              <td class="py-2.5 px-3 font-sans text-sky-400 font-semibold">SPLIT</td>
+              <td class="py-2.5 px-3">Sub-division 2:1</td>
+              <td class="py-2.5 px-3 text-right text-slate-400">—</td>
+              <td class="py-2.5 px-3 text-right text-emerald-400">0.5000</td>
+              <td class="py-2.5 px-3 text-right text-slate-400">—</td>
+              <td class="py-2.5 px-3 text-center"><span class="px-2 py-0.5 rounded bg-emerald-950 text-emerald-300 text-[10px]">VERIFIED</span></td>
+            </tr>
+            <tr>
+              <td class="py-2.5 px-3">2024-01-09</td>
+              <td class="py-2.5 px-3 font-sans text-purple-400 font-semibold">DIVIDEND</td>
+              <td class="py-2.5 px-3">Interim Cash Dividend</td>
+              <td class="py-2.5 px-3 text-right text-white">10.00</td>
+              <td class="py-2.5 px-3 text-right text-emerald-400">0.5000</td>
+              <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">5.00</td>
+              <td class="py-2.5 px-3 text-center"><span class="px-2 py-0.5 rounded bg-emerald-950 text-emerald-300 text-[10px]">REINVESTED</span></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </main>
+
+  <script>
+    function toggleTheme() {
+      document.documentElement.classList.toggle('dark');
+      document.documentElement.classList.toggle('light');
+    }
+
+    async function initStockData() {
+      try {
+        const res = await fetch('/api/v1/stock/INE002A01018/summary');
+        if (res.ok) {
+          const data = await res.json();
+          if (data.facts) {
+            if (data.facts.latest_close) {
+              const rawEl = document.getElementById('stock-raw-close');
+              if (rawEl) rawEl.innerText = `₹${data.facts.latest_close.toFixed(2)}`;
+            }
+            if (data.facts.trade_date) {
+              const dateEl = document.getElementById('stock-close-date');
+              if (dateEl) dateEl.innerText = `Trade Date: ${data.facts.trade_date}`;
+            }
+          }
+          if (data.metrics && data.metrics.adjusted_close) {
+            const adjEl = document.getElementById('stock-adj-close');
+            if (adjEl) adjEl.innerText = `₹${data.metrics.adjusted_close.toFixed(2)}`;
+          }
+        }
+      } catch (e) {
+        // Fallback
+      }
+    }
+    window.addEventListener('DOMContentLoaded', initStockData);
+  </script>
+</body>
+</html>

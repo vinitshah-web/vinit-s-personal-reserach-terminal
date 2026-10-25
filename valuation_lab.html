@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vinit's Self-Made Research Terminal — Valuation Lab</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    :root {
+      --bg: #090d16;
+      --card-bg: #111726;
+      --border: #1e293b;
+      --text: #f1f5f9;
+      --text-muted: #94a3b8;
+      --accent: #38bdf8;
+      --success: #10b981;
+      --warning: #f59e0b;
+      --danger: #ef4444;
+    }
+    .light {
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --border: #e2e8f0;
+      --text: #0f172a;
+      --text-muted: #64748b;
+      --accent: #0284c7;
+    }
+    body { background-color: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+    .card { background-color: var(--card-bg); border: 1px solid var(--border); }
+    .watermark {
+      position: fixed;
+      bottom: 12px;
+      right: 16px;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      color: rgba(239, 68, 68, 0.7);
+      background: rgba(0,0,0,0.4);
+      padding: 4px 10px;
+      border-radius: 4px;
+      border: 1px solid rgba(239, 68, 68, 0.4);
+      z-index: 9999;
+      pointer-events: none;
+    }
+  </style>
+</head>
+<body class="min-h-screen flex flex-col">
+  <div class="watermark">CODE TEST — SYNTHETIC DATA</div>
+
+  <!-- Terminal Top Navigation -->
+  <header class="border-b border-[var(--border)] px-6 py-3 flex items-center justify-between card">
+    <div class="flex items-center space-x-6">
+      <div class="flex items-center space-x-2">
+        <div class="w-3 h-3 rounded-full bg-emerald-500 animate-pulse"></div>
+        <span class="font-bold tracking-wider text-sm uppercase">Vinit's Research Terminal</span>
+        <span class="text-xs px-2 py-0.5 rounded bg-sky-950 text-sky-400 border border-sky-800">VALUATION LAB</span>
+      </div>
+      <nav class="hidden md:flex space-x-4 text-xs font-medium">
+        <a href="overview.html" class="text-[var(--text-muted)] hover:text-white transition">Overview</a>
+        <a href="stock_intelligence.html" class="text-[var(--text-muted)] hover:text-white transition">Stock Intelligence</a>
+        <a href="valuation_lab.html" class="text-sky-400 border-b-2 border-sky-400 pb-1">Valuation Lab</a>
+        <a href="quant_lab.html" class="text-[var(--text-muted)] hover:text-white transition">Quant Lab</a>
+        <a href="data_quality.html" class="text-[var(--text-muted)] hover:text-white transition">Data Quality</a>
+        <a href="reports.html" class="text-[var(--text-muted)] hover:text-white transition">Reports</a>
+      </nav>
+    </div>
+    <div class="flex items-center space-x-4 text-xs">
+      <button onclick="toggleTheme()" class="px-2.5 py-1 rounded card hover:border-sky-500 text-[var(--text-muted)]">🌓 Theme</button>
+    </div>
+  </header>
+
+  <main class="flex-1 max-w-7xl w-full mx-auto p-6 space-y-6">
+    <div class="flex items-center justify-between">
+      <div>
+        <h1 class="text-xl font-bold tracking-tight">Forward Valuation Lab & Sensitivity Playground</h1>
+        <p class="text-xs text-[var(--text-muted)] mt-1">Dual Model Architecture: Damodaran FCFF for Corporates | Regulatory Capital DDM for Financials</p>
+      </div>
+      <div class="flex space-x-2">
+        <button id="tabCorporate" onclick="switchModel('corporate')" class="px-3 py-1.5 rounded text-xs font-semibold bg-sky-600 text-white">Non-Financial (FCFF)</button>
+        <button id="tabBanking" onclick="switchModel('banking')" class="px-3 py-1.5 rounded text-xs font-semibold bg-slate-800 text-slate-300">Banking (DDM)</button>
+      </div>
+    </div>
+
+    <!-- Corporate FCFF Model Section -->
+    <div id="corporateSection" class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+      <!-- Input Controls -->
+      <div class="card p-5 rounded-lg space-y-4">
+        <h2 class="text-sm font-semibold uppercase text-sky-400 tracking-wider">Model Assumptions</h2>
+        
+        <div>
+          <label class="text-xs text-[var(--text-muted)] block mb-1">Base FCFF (₹ Cr): <span id="fcffVal" class="text-white font-mono font-bold">60.0</span></label>
+          <input type="range" id="fcffInput" min="10" max="500" step="5" value="60" class="w-full accent-sky-500" oninput="recalculateDCF()">
+        </div>
+
+        <div>
+          <label class="text-xs text-[var(--text-muted)] block mb-1">5-Yr Discrete Growth (%): <span id="growthVal" class="text-white font-mono font-bold">8.0%</span></label>
+          <input type="range" id="growthInput" min="-5" max="30" step="0.5" value="8" class="w-full accent-sky-500" oninput="recalculateDCF()">
+        </div>
+
+        <div>
+          <label class="text-xs text-[var(--text-muted)] block mb-1">WACC (%): <span id="waccVal" class="text-white font-mono font-bold">12.0%</span></label>
+          <input type="range" id="waccInput" min="7" max="20" step="0.25" value="12" class="w-full accent-sky-500" oninput="recalculateDCF()">
+        </div>
+
+        <div>
+          <label class="text-xs text-[var(--text-muted)] block mb-1">Terminal Growth (%): <span id="termVal" class="text-white font-mono font-bold">4.0%</span></label>
+          <input type="range" id="termInput" min="1" max="5.5" step="0.1" value="4.0" class="w-full accent-sky-500" oninput="recalculateDCF()">
+          <span class="text-[10px] text-amber-400 block mt-0.5">Statutory Cap: 5.5% (Indian Long-Term Real GDP + Inflation target)</span>
+        </div>
+
+        <div class="pt-2 border-t border-[var(--border)]">
+          <h3 class="text-xs font-semibold text-[var(--text-muted)] uppercase mb-2">Reverse DCF Solver</h3>
+          <label class="text-xs text-[var(--text-muted)] block mb-1">Current Enterprise Value (₹ Cr):</label>
+          <div class="flex space-x-2">
+            <input type="number" id="targetEVInput" value="919.66" class="w-full px-2.5 py-1 text-xs rounded bg-slate-900 border border-[var(--border)] font-mono text-white">
+            <button onclick="solveReverseDCF()" class="px-3 py-1 bg-sky-600 hover:bg-sky-500 rounded text-xs font-semibold text-white">Solve</button>
+          </div>
+          <div id="reverseResult" class="text-xs text-emerald-400 font-mono mt-2 font-semibold">Implied 5-Yr Growth: 8.00%</div>
+        </div>
+      </div>
+
+      <!-- Output Display -->
+      <div class="lg:col-span-2 card p-5 rounded-lg space-y-4">
+        <h2 class="text-sm font-semibold uppercase text-emerald-400 tracking-wider">Discounted Cash Flow Output</h2>
+
+        <div class="grid grid-cols-3 gap-4">
+          <div class="p-3 bg-slate-900/60 rounded border border-[var(--border)]">
+            <div class="text-[11px] text-[var(--text-muted)]">Sum of Discrete PVs (Y1-5)</div>
+            <div id="pvDiscreteOut" class="text-lg font-bold font-mono text-sky-400 mt-1">₹269.35 Cr</div>
+          </div>
+          <div class="p-3 bg-slate-900/60 rounded border border-[var(--border)]">
+            <div class="text-[11px] text-[var(--text-muted)]">PV of Terminal Value</div>
+            <div id="pvTerminalOut" class="text-lg font-bold font-mono text-indigo-400 mt-1">₹650.31 Cr</div>
+          </div>
+          <div class="p-3 bg-slate-900/60 rounded border border-[var(--border)]">
+            <div class="text-[11px] text-[var(--text-muted)]">Enterprise Value</div>
+            <div id="evTotalOut" class="text-lg font-bold font-mono text-emerald-400 mt-1">₹919.66 Cr</div>
+          </div>
+        </div>
+
+        <div class="overflow-x-auto mt-4">
+          <table class="w-full text-xs text-left">
+            <thead class="text-[var(--text-muted)] border-b border-[var(--border)]">
+              <tr>
+                <th class="py-2">Year</th>
+                <th class="py-2">Projected FCFF (₹ Cr)</th>
+                <th class="py-2">Discount Factor</th>
+                <th class="py-2">Present Value (₹ Cr)</th>
+              </tr>
+            </thead>
+            <tbody id="dcfTableBody" class="font-mono divide-y divide-[var(--border)]">
+              <!-- Populated via JavaScript -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <!-- Banking DDM Section -->
+    <div id="bankingSection" class="hidden grid grid-cols-1 lg:grid-cols-2 gap-6">
+      <div class="card p-5 rounded-lg space-y-4">
+        <h2 class="text-sm font-semibold uppercase text-amber-400 tracking-wider">Banking DDM Parameters</h2>
+        <div>
+          <label class="text-xs text-[var(--text-muted)] block mb-1">Base Net Income (₹ Cr):</label>
+          <input type="number" id="bankNetIncome" value="5000" class="w-full px-2.5 py-1 text-xs rounded bg-slate-900 border border-[var(--border)] font-mono text-white" oninput="recalcBanking()">
+        </div>
+        <div>
+          <label class="text-xs text-[var(--text-muted)] block mb-1">Return on Equity (ROE %):</label>
+          <input type="number" id="bankROE" value="16.0" step="0.5" class="w-full px-2.5 py-1 text-xs rounded bg-slate-900 border border-[var(--border)] font-mono text-white" oninput="recalcBanking()">
+        </div>
+        <div>
+          <label class="text-xs text-[var(--text-muted)] block mb-1">Sustainable Growth Rate (%):</label>
+          <input type="number" id="bankGrowth" value="5.0" step="0.25" class="w-full px-2.5 py-1 text-xs rounded bg-slate-900 border border-[var(--border)] font-mono text-white" oninput="recalcBanking()">
+        </div>
+        <div>
+          <label class="text-xs text-[var(--text-muted)] block mb-1">Cost of Equity Ke (%):</label>
+          <input type="number" id="bankKe" value="13.0" step="0.25" class="w-full px-2.5 py-1 text-xs rounded bg-slate-900 border border-[var(--border)] font-mono text-white" oninput="recalcBanking()">
+        </div>
+      </div>
+
+      <div class="card p-5 rounded-lg space-y-4">
+        <h2 class="text-sm font-semibold uppercase text-emerald-400 tracking-wider">Regulatory Capital DDM Output</h2>
+        <div class="space-y-3 text-xs">
+          <div class="flex justify-between border-b border-[var(--border)] pb-2">
+            <span class="text-[var(--text-muted)]">Retention Ratio b = g / ROE:</span>
+            <span id="bankRetentionOut" class="font-mono font-bold text-white">31.25%</span>
+          </div>
+          <div class="flex justify-between border-b border-[var(--border)] pb-2">
+            <span class="text-[var(--text-muted)]">Dividend Payout Ratio (1 - b):</span>
+            <span id="bankPayoutOut" class="font-mono font-bold text-sky-400">68.75%</span>
+          </div>
+          <div class="flex justify-between border-b border-[var(--border)] pb-2">
+            <span class="text-[var(--text-muted)]">Expected Next Year Dividend D1:</span>
+            <span id="bankD1Out" class="font-mono font-bold text-white">₹3,609.38 Cr</span>
+          </div>
+          <div class="flex justify-between pt-2">
+            <span class="text-sm font-semibold text-white">Fair Value Equity:</span>
+            <span id="bankFairValOut" class="text-lg font-mono font-bold text-emerald-400">₹45,117.19 Cr</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <script>
+    function toggleTheme() {
+      document.documentElement.classList.toggle('light');
+    }
+
+    function switchModel(model) {
+      if (model === 'corporate') {
+        document.getElementById('corporateSection').classList.remove('hidden');
+        document.getElementById('bankingSection').classList.add('hidden');
+        document.getElementById('tabCorporate').className = "px-3 py-1.5 rounded text-xs font-semibold bg-sky-600 text-white";
+        document.getElementById('tabBanking').className = "px-3 py-1.5 rounded text-xs font-semibold bg-slate-800 text-slate-300";
+      } else {
+        document.getElementById('corporateSection').classList.add('hidden');
+        document.getElementById('bankingSection').classList.remove('hidden');
+        document.getElementById('tabCorporate').className = "px-3 py-1.5 rounded text-xs font-semibold bg-slate-800 text-slate-300";
+        document.getElementById('tabBanking').className = "px-3 py-1.5 rounded text-xs font-semibold bg-sky-600 text-white";
+        recalcBanking();
+      }
+    }
+
+    function recalculateDCF() {
+      const fcff0 = parseFloat(document.getElementById('fcffInput').value);
+      const g = parseFloat(document.getElementById('growthInput').value) / 100.0;
+      const wacc = parseFloat(document.getElementById('waccInput').value) / 100.0;
+      const termG = parseFloat(document.getElementById('termInput').value) / 100.0;
+
+      document.getElementById('fcffVal').innerText = fcff0.toFixed(1);
+      document.getElementById('growthVal').innerText = (g * 100.0).toFixed(1) + '%';
+      document.getElementById('waccVal').innerText = (wacc * 100.0).toFixed(2) + '%';
+      document.getElementById('termVal').innerText = (termG * 100.0).toFixed(1) + '%';
+
+      let currentFcff = fcff0;
+      let sumPv = 0.0;
+      let rowsHtml = '';
+
+      for (let t = 1; t <= 5; t++) {
+        currentFcff *= (1.0 + g);
+        const df = 1.0 / Math.pow(1.0 + wacc, t);
+        const pv = currentFcff * df;
+        sumPv += pv;
+
+        rowsHtml += `<tr>
+          <td class="py-2 text-[var(--text-muted)]">Year ${t}</td>
+          <td class="py-2">₹${currentFcff.toFixed(2)}</td>
+          <td class="py-2">${df.toFixed(4)}</td>
+          <td class="py-2 text-sky-400">₹${pv.toFixed(2)}</td>
+        </tr>`;
+      }
+
+      document.getElementById('dcfTableBody').innerHTML = rowsHtml;
+
+      const fcff6 = currentFcff * (1.0 + termG);
+      const tv5 = fcff6 / (wacc - termG);
+      const pvTv = tv5 / Math.pow(1.0 + wacc, 5);
+      const ev = sumPv + pvTv;
+
+      document.getElementById('pvDiscreteOut').innerText = `₹${sumPv.toFixed(2)} Cr`;
+      document.getElementById('pvTerminalOut').innerText = `₹${pvTv.toFixed(2)} Cr`;
+      document.getElementById('evTotalOut').innerText = `₹${ev.toFixed(2)} Cr`;
+    }
+
+    function solveReverseDCF() {
+      const targetEV = parseFloat(document.getElementById('targetEVInput').value);
+      const fcff0 = parseFloat(document.getElementById('fcffInput').value);
+      const wacc = parseFloat(document.getElementById('waccInput').value) / 100.0;
+      const termG = parseFloat(document.getElementById('termInput').value) / 100.0;
+
+      // Numerical bisection
+      let low = -0.10, high = 0.50;
+      for (let i = 0; i < 60; i++) {
+        const mid = (low + high) / 2.0;
+        let c = fcff0, pv = 0.0;
+        for (let t = 1; t <= 5; t++) {
+          c *= (1.0 + mid);
+          pv += c / Math.pow(1.0 + wacc, t);
+        }
+        const tv = (c * (1.0 + termG)) / (wacc - termG);
+        const ev = pv + (tv / Math.pow(1.0 + wacc, 5));
+
+        if (Math.abs(ev - targetEV) < 0.01) {
+          low = mid; high = mid; break;
+        }
+        if (ev > targetEV) high = mid;
+        else low = mid;
+      }
+      const impliedG = ((low + high) / 2.0) * 100.0;
+      document.getElementById('reverseResult').innerText = `Implied 5-Yr Growth: ${impliedG.toFixed(2)}%`;
+    }
+
+    function recalcBanking() {
+      const ni = parseFloat(document.getElementById('bankNetIncome').value);
+      const roe = parseFloat(document.getElementById('bankROE').value) / 100.0;
+      const g = parseFloat(document.getElementById('bankGrowth').value) / 100.0;
+      const ke = parseFloat(document.getElementById('bankKe').value) / 100.0;
+
+      const retention = g / roe;
+      const payout = 1.0 - retention;
+      const d1 = ni * (1.0 + g) * payout;
+      const fairVal = d1 / (ke - g);
+
+      document.getElementById('bankRetentionOut').innerText = (retention * 100.0).toFixed(2) + '%';
+      document.getElementById('bankPayoutOut').innerText = (payout * 100.0).toFixed(2) + '%';
+      document.getElementById('bankD1Out').innerText = `₹${d1.toFixed(2)} Cr`;
+      document.getElementById('bankFairValOut').innerText = `₹${fairVal.toFixed(2)} Cr`;
+    }
+
+    // Initialize
+    recalculateDCF();
+  </script>
+</body>
+</html>
