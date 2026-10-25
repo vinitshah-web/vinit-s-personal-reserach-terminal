@@ -122,6 +122,8 @@
 - **Status**: COMPLETED & VERIFIED (100% Pass)
 - **Artifacts Created & Verified**:
   - `src/reports/generator.py`: Standardized institutional equity research tear-sheet generator.
+  - `ui/prototypes/reports.html`: Interactive browser-based research tear-sheet visualizer and search tool.
+  - `scripts/verify_all.py`: Push-button automated all-in-one platform verification script (database integrity, boundary audits, API checks, 80-test pytest execution).
   - `scripts/generate_demo_reports.py`: Generated 15 complete tear-sheets in `reports/` folder:
     - 10 Large-Caps: `RELIANCE`, `TCS`, `HDFCBANK`, `INFY`, `ICICIBANK`, `BHARTIARTL`, `ITC`, `LT`, `SBIN`, `HINDUNILVR`
     - 5 Mid-Caps: `TRENT`, `DIXON`, `PERSISTENT`, `POLYCAB`, `FEDERALBNK`
