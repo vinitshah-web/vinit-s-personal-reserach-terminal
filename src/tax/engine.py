@@ -67,6 +67,64 @@ class TaxEngine:
         taxable_base = brokerage + exchange_charges + sebi_fees + dp_charges
         return round(taxable_base * gst_cfg["rate"], 2)
 
+    def calculate_dividend_tds(
+        self,
+        gross_dividend: float,
+        payment_date: date,
+        is_individual: bool = True,
+        has_valid_pan: bool = True,
+        is_cash_payment: bool = False
+    ) -> Dict[str, Any]:
+        """
+        Calculates dividend Tax Deducted at Source (TDS) under:
+        - IT Act 1961: Section 194 & Section 206AA
+        - IT Act 2025: Section 393(1) Table (Sl. No. 7) & Section 397(2)
+
+        Threshold rules:
+        - Resident Individual: ₹10,000 threshold per company per year (from FY 25-26 / 2025 Act).
+        - If payment is made in cash, no threshold exemption applies.
+        - Corporate / Firm / Non-individual: Threshold is STRICTLY NIL (deduction from Rupee 1).
+        - Failure to furnish valid PAN: Deduction at 20% under Section 397(2) (or Sec 206AA).
+        """
+        regime = self.get_regime_for_date(payment_date)
+        era = regime["era"]
+        tds_rules = regime["rules"]["dividend_tds"]
+        section = tds_rules["section"]
+        no_pan_section = tds_rules["no_pan_section"]
+
+        rate_obj = self._find_rate_object_for_date(tds_rules["rates"], payment_date)
+        
+        if not has_valid_pan:
+            applicable_rate = rate_obj["rate_without_pan"]  # 20%
+            threshold = 0.0  # Penal withholding applies without threshold exemption
+            governing_sec = no_pan_section
+        else:
+            applicable_rate = rate_obj["rate_resident_individual_with_pan"] if is_individual else rate_obj["rate_corporate_with_pan"]
+            if is_individual and not is_cash_payment:
+                threshold = rate_obj["threshold_individual"]
+            else:
+                threshold = 0.0  # Corporate or cash payment has nil threshold
+            governing_sec = section
+
+        if gross_dividend > threshold:
+            tds_deducted = round(gross_dividend * applicable_rate, 2)
+        else:
+            tds_deducted = 0.0
+
+        net_dividend = round(gross_dividend - tds_deducted, 2)
+
+        return {
+            "era": era,
+            "governing_section": governing_sec,
+            "is_individual": is_individual,
+            "has_valid_pan": has_valid_pan,
+            "gross_dividend": gross_dividend,
+            "threshold_applied": threshold,
+            "tds_rate": applicable_rate,
+            "tds_deducted": tds_deducted,
+            "net_dividend_payable": net_dividend
+        }
+
     def calculate_equity_capital_gains(
         self,
         buy_date: date,

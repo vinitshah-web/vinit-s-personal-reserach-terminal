@@ -1,9 +1,10 @@
 """Pytest configuration and shared test fixtures."""
 import pytest
-from datetime import date, datetime
+from datetime import date, datetime, timezone
 from sqlalchemy import create_engine, event
+from sqlalchemy.pool import StaticPool
 from sqlalchemy.orm import sessionmaker
-from src.db.models import Base, Security, LineItemDef
+from src.db.models import Base, Security, LineItemDef, FinancialStatement
 from src.config_loader import ConfigLoader
 from src.tax.engine import TaxEngine
 
@@ -27,8 +28,13 @@ def tax_engine(config):
 
 @pytest.fixture
 def db_session():
-    """In-memory SQLite database session with PRAGMA foreign_keys = ON."""
-    engine = create_engine("sqlite:///:memory:", echo=False)
+    """In-memory SQLite database session with StaticPool and PRAGMA foreign_keys = ON."""
+    engine = create_engine(
+        "sqlite:///:memory:",
+        echo=False,
+        connect_args={"check_same_thread": False},
+        poolclass=StaticPool
+    )
 
     @event.listens_for(engine, "connect")
     def set_sqlite_pragma(dbapi_connection, connection_record):

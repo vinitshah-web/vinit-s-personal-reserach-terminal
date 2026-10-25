@@ -1,4 +1,4 @@
-# Formula & Model Verification Registry
+# Formula & Model Verification Registry (v6.1 Final)
 
 This registry tracks authoritative citations, effective dates, mathematical expressions, numerical test fixtures, and verification statuses for all financial metrics and models implemented in the platform.
 
@@ -37,34 +37,42 @@ This registry tracks authoritative citations, effective dates, mathematical expr
 
 ---
 
-## 3. Discounted Cash Flow (FCFF)
+## 3. Discounted Cash Flow (FCFF) — Exact Unrounded
 - **Formula ID**: `VAL_DCF_FCFF`
 - **Category**: Intrinsic Valuation Model
 - **Applicability**: Non-financial corporations
 - **Expression**:
-  $$\text{FCFF} = \text{EBIT} \times (1 - t) + \text{Depreciation} - \text{CapEx} - \Delta\text{Working Capital}$$
-  $$\text{EV} = \sum_{t=1}^{n} \frac{\text{FCFF}_t}{(1 + \text{WACC})^t} + \frac{\text{FCFF}_n \times (1 + g)}{(\text{WACC} - g)(1 + \text{WACC})^n}$$
+  $$\text{FCFF}_t = \text{FCFF}_0 \times (1 + g)^t$$
+  $$\text{PV} = \sum_{t=1}^{5} \frac{\text{FCFF}_t}{(1 + \text{WACC})^t} + \frac{\text{FCFF}_5 \times (1 + g_{\text{term}})}{(\text{WACC} - g_{\text{term}})(1 + \text{WACC})^5}$$
 - **Authoritative Citation**: Damodaran, A., *Investment Valuation*, 3rd ed. (2012), Chapter 15.
-- **Verification Status**: ✅ Verified against textbook numerical fixture (EV = 919.64 Cr).
+- **Exact Floating-Point Verification Fixture**:
+  - $\text{FCFF}_0 = 60.0, g = 8.0\%, \text{WACC} = 12.0\%, g_{\text{term}} = 4.0\%$.
+  - Discrete PV sum = $269.347339\text{ Cr}$
+  - Terminal Value at Year 5 = $1146.075900\text{ Cr}$
+  - PV of Terminal Value = $650.314244\text{ Cr}$
+  - Total Enterprise Value = $\mathbf{919.661583\text{ Cr}}$ (Verified to 4 decimal places: $919.6616\text{ Cr}$).
+- **Verification Status**: ✅ Verified for Formula Correctness.
 
 ---
 
 ## 4. Reverse DCF Solver
 - **Formula ID**: `VAL_REVERSE_DCF`
 - **Category**: Expectation Implied Growth Analysis
-- **Method**: Bisection root-finding on $g \in [-0.10, 0.50]$ matching model enterprise value to observed market capitalization + net debt.
-- **Verification Status**: ✅ Verified for Numerical Consistency (Round-trip identity within ₹0.01 tolerance). Labeled "Solver Numerical Consistency Verified — Not Real-World Forecast Accuracy".
+- **Method**: Bisection root-finding on $g \in [-0.10, 0.50]$ matching model enterprise value to target.
+- **Verification Status**: ✅ Verified for Numerical Consistency of Solver (Converges back to $8.00\%$ from $EV = 919.6616$ with tolerance $< 0.01\%$).
 
 ---
 
-## 5. Banking Fundamentals (NIM & Asset Quality)
+## 5. Banking Fundamentals & DDM (Sustainable Payout)
+- **Formula ID**: `BANK_DDM_SUSTAINABLE`
+  - Expression: $\text{Retention Ratio } b = \frac{g}{\text{ROE}}, \quad \text{Dividend}_1 = \text{Net Income}_0 \times (1 - b) \times (1 + g), \quad \text{Value} = \frac{D_1}{k_e - g}$
+  - Note: Strictly forbids using Net Income as direct dividend proxy.
+  - Status: ✅ Verified
 - **Formula ID**: `BANK_NIM`
   - Expression: $\text{NIM} = \frac{\text{Interest Earned} - \text{Interest Expended}}{\text{Average Total Assets}}$
-  - Authoritative Citation: Reserve Bank of India (RBI) Master Direction – Financial Statements - Presentation and Disclosures (2021).
   - Status: ✅ Verified
 - **Formula ID**: `BANK_GNPA_RATIO`
   - Expression: $\text{GNPA Ratio} = \frac{\text{Gross Non-Performing Assets}}{\text{Gross Advances}}$
-  - Authoritative Citation: RBI Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP).
   - Status: ✅ Verified
 
 ---
@@ -75,13 +83,16 @@ This registry tracks authoritative citations, effective dates, mathematical expr
   - Bonus: $f = e / (e + b)$
   - Rights TERP: $\text{TERP} = \frac{P_{\text{cum}} \cdot n_{\text{old}} + P_{\text{sub}} \cdot n_{\text{new}}}{n_{\text{old}} + n_{\text{new}}}, \quad f = \frac{\text{TERP}}{P_{\text{cum}}}$
   - Cumulative Factor: $F(t) = \prod_{i : d_i > t} f_i$
-  - Authoritative Citation: NSE India Corporate Actions Adjustment Methodology & SEBI ICDR Regulations.
-  - Status: ✅ Verified against 8 independent fixtures.
+  - Status: ✅ Verified
 
 ---
 
-## 7. Total Return Index with Dividend Reinvestment
-- **Formula ID**: `TOTAL_RETURN_DIV_REINVEST`
+## 7. Total Return Index & Rights Issue Investor Paths
+- **Formula ID**: `TOTAL_RETURN_RIGHTS_STRATEGIES`
   - Ex-Date Dividend Adjustment: $D_{\text{adj}}(d) = D_{\text{raw}}(d) \times F(d)$
-  - Total Return Compounding: $\text{TR}(d) = \text{TR}(d-1) \times \frac{\text{close\_adj}(d) + D_{\text{adj}}(d)}{\text{close\_adj}(d-1)}$
-  - Status: ✅ Verified across combined split-dividend and bonus-dividend sequence tests.
+  - Reinvestment at ex-date close: $\text{TR}(d) = \text{TR}(d-1) \times \frac{\text{close\_adj}(d) + D_{\text{adj}}(d)}{\text{close\_adj}(d-1)}$
+  - Rights Strategy 1: Subscribe (Exercises entitlement at $P_{\text{sub}}$)
+  - Rights Strategy 2: Sell / Renounce (Sells rights in market at $P_{\text{cum}} - \text{TERP}$)
+  - Rights Strategy 3: Lapse (Permits expiry, incurring dilution loss $f_{\text{rights}} - 1$)
+  - Missing parameters: Fails closed with `IncompleteRightsDataError`.
+  - Status: ✅ Verified

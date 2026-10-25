@@ -1,13 +1,17 @@
 """SQLAlchemy 2.0 Declarative Models for NSE Equity Intelligence Platform.
 Dialect-agnostic design fully portable between SQLite and PostgreSQL.
 """
-from datetime import date, datetime
+from datetime import date, datetime, timezone
 from typing import Optional, List
 from sqlalchemy import (
     String, Boolean, Date, DateTime, Integer, BigInteger,
     Float, Text, ForeignKey, UniqueConstraint, Index, CheckConstraint
 )
 from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column, relationship
+
+
+def _utc_now():
+    return datetime.now(timezone.utc)
 
 
 class Base(DeclarativeBase):
@@ -26,7 +30,7 @@ class Security(Base):
     delisting_date: Mapped[Optional[date]] = mapped_column(Date)
     series: Mapped[str] = mapped_column(String(5), nullable=False, default="EQ")
     is_financial: Mapped[bool] = mapped_column(Boolean, default=False, nullable=False)
-    created_at: Mapped[datetime] = mapped_column(DateTime, default=datetime.utcnow)
+    created_at: Mapped[datetime] = mapped_column(DateTime, default=_utc_now)
 
     # Relationships
     prices: Mapped[List["PriceRaw"]] = relationship(back_populates="security", cascade="all, delete-orphan")
@@ -58,7 +62,7 @@ class PriceRaw(Base):
     delivery_pct: Mapped[Optional[float]] = mapped_column(Float)
     source_file: Mapped[str] = mapped_column(String(100), nullable=False)
     file_hash: Mapped[str] = mapped_column(String(64), nullable=False)
-    ingested_at: Mapped[datetime] = mapped_column(DateTime, nullable=False, default=datetime.utcnow)
+    ingested_at: Mapped[datetime] = mapped_column(DateTime, nullable=False, default=_utc_now)
 
     security: Mapped["Security"] = relationship(back_populates="prices")
 
@@ -83,7 +87,7 @@ class CorporateAction(Base):
     details_json: Mapped[Optional[str]] = mapped_column(Text)
     source_url: Mapped[str] = mapped_column(Text, nullable=False)
     published_at: Mapped[datetime] = mapped_column(DateTime, nullable=False)
-    ingested_at: Mapped[datetime] = mapped_column(DateTime, nullable=False, default=datetime.utcnow)
+    ingested_at: Mapped[datetime] = mapped_column(DateTime, nullable=False, default=_utc_now)
     effective_from: Mapped[date] = mapped_column(Date, nullable=False)
     effective_to: Mapped[Optional[date]] = mapped_column(Date)
     adj_factor: Mapped[Optional[float]] = mapped_column(Float)
@@ -109,7 +113,7 @@ class FinancialStatement(Base):
     unit_multiplier: Mapped[float] = mapped_column(Float, default=1.0, nullable=False)
 
     published_at: Mapped[datetime] = mapped_column(DateTime, nullable=False)
-    ingested_at: Mapped[datetime] = mapped_column(DateTime, nullable=False, default=datetime.utcnow)
+    ingested_at: Mapped[datetime] = mapped_column(DateTime, nullable=False, default=_utc_now)
     restated_at: Mapped[Optional[datetime]] = mapped_column(DateTime)
 
     source_url: Mapped[str] = mapped_column(Text, nullable=False)
@@ -119,7 +123,7 @@ class FinancialStatement(Base):
 
     valid_from: Mapped[datetime] = mapped_column(DateTime, nullable=False)
     valid_to: Mapped[Optional[datetime]] = mapped_column(DateTime)
-    created_at: Mapped[datetime] = mapped_column(DateTime, default=datetime.utcnow)
+    created_at: Mapped[datetime] = mapped_column(DateTime, default=_utc_now)
 
     security: Mapped["Security"] = relationship(back_populates="statements")
     line_items: Mapped[List["FinancialLineItem"]] = relationship(back_populates="statement", cascade="all, delete-orphan")
