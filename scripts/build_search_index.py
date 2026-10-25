@@ -3,6 +3,25 @@ import sqlite3
 import json
 from pathlib import Path
 
+ALIASES = {
+    "ETERNAL": ["ZOMATO", "BLINKIT", "HYPERPURE"],
+    "ONE97": ["PAYTM"],
+    "LT": ["L&T", "LARSEN & TOUBRO"],
+    "M&M": ["MAHINDRA", "MAHINDRA & MAHINDRA"],
+    "TATAMOTORS": ["TML", "JLR"],
+    "RELIANCE": ["RIL", "JIO"],
+    "HDFCBANK": ["HDFC"]
+}
+
+SECTOR_MAPPINGS = {
+    "ETERNAL": ("Consumer Cyclical", "Internet Retail - Quick Commerce & Food Delivery"),
+    "RELIANCE": ("Energy", "Oil & Gas Refining, Petrochemicals & Retail"),
+    "TCS": ("Technology", "IT Services & Enterprise Consulting"),
+    "HDFCBANK": ("Financial Services", "Private Sector Commercial Banking"),
+    "INFY": ("Technology", "IT Services & Digital Transformation"),
+    "PERSISTENT": ("Technology", "Digital Engineering & Enterprise Modernization")
+}
+
 def build_index():
     db_path = Path("data/nse_platform.db")
     if not db_path.exists():
@@ -20,15 +39,24 @@ def build_index():
     
     securities = []
     for r in rows:
-        securities.append({
+        ticker = r[1]
+        sector = r[3]
+        industry = r[4]
+        if ticker in SECTOR_MAPPINGS:
+            sector, industry = SECTOR_MAPPINGS[ticker]
+
+        sec_entry = {
             "isin": r[0],
-            "ticker": r[1],
+            "ticker": ticker,
             "name": r[2],
-            "sector": r[3] or "Diversified",
-            "industry": r[4] or "General",
+            "sector": sector or "Diversified",
+            "industry": industry or "General",
             "series": r[5],
             "is_financial": bool(r[6])
-        })
+        }
+        if ticker in ALIASES:
+            sec_entry["aliases"] = ALIASES[ticker]
+        securities.append(sec_entry)
     
     out_path = Path("data/securities_search_index.json")
     with open(out_path, "w", encoding="utf-8") as f:

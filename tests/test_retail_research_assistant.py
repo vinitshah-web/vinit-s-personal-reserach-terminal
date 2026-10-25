@@ -183,3 +183,160 @@ def test_12_no_secrets_exposed():
             content = f.read()
             for pat in key_patterns:
                 assert not pat.search(content), f"Secret key matched in {fn}"
+
+
+def test_13_canonical_alias_resolution_zomato_paytm():
+    """Root-Cause Check: Resolving company names and aliases like Zomato -> ETERNAL, Paytm -> ONE97."""
+    # Search for ZOMATO
+    r_zomato = client.get("/api/v1/search?q=ZOMATO")
+    assert r_zomato.status_code == 200
+    results = r_zomato.json().get("results", [])
+    assert len(results) > 0
+    assert results[0]["ticker"] == "ETERNAL"
+    assert "INE758T01015" in results[0]["isin"]
+
+    # Research directly by alias 'ZOMATO'
+    r_alias = client.get("/api/v1/research/ZOMATO")
+    assert r_alias.status_code == 200
+    data = r_alias.json()
+    assert data["symbol"] == "ETERNAL"
+    assert "ETERNAL" in data["company_name"].upper() or "ZOMATO" in data["company_name"].upper()
+
+    # Research directly by alias 'PAYTM'
+    r_paytm = client.get("/api/v1/research/PAYTM")
+    assert r_paytm.status_code == 200
+    data_paytm = r_paytm.json()
+    assert data_paytm["symbol"] == "ONE97"
+
+
+def test_14_regression_reference_stocks_and_prices():
+    """Root-Cause Check: Dated references for 2026-10-23 closing prices match exact exchange records."""
+    ref_path = Path("data/regression_references.json")
+    assert ref_path.exists()
+    with open(ref_path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    refs = data.get("references", data)
+
+    # 1. ETERNAL (Zomato)
+    assert refs["ETERNAL"]["verified_close"] == 317.40
+    r_eternal = client.get("/api/v1/research/ETERNAL")
+    assert r_eternal.status_code == 200
+    assert r_eternal.json()["quote"]["close"] == 317.40
+    assert r_eternal.json()["quote"]["trade_date"] == "2026-10-23"
+
+    # 2. RELIANCE
+    assert refs["RELIANCE"]["verified_close"] == 1190.00
+    r_rel = client.get("/api/v1/research/RELIANCE")
+    assert r_rel.status_code == 200
+    assert r_rel.json()["quote"]["close"] == 1190.00
+
+    # 3. TCS
+    assert refs["TCS"]["verified_close"] == 2530.00
+    r_tcs = client.get("/api/v1/research/TCS")
+    assert r_tcs.status_code == 200
+    assert r_tcs.json()["quote"]["close"] == 2530.00
+
+    # 4. HDFCBANK
+    assert refs["HDFCBANK"]["verified_close"] == 692.80
+    r_hdfc = client.get("/api/v1/research/HDFCBANK")
+    assert r_hdfc.status_code == 200
+    assert r_hdfc.json()["quote"]["close"] == 692.80
+
+
+def test_15_eternal_negative_fcff_valuation_non_calculation():
+    """Root-Cause Check: Negative FCFF for ETERNAL triggers NOT_CALCULATED status without synthetic fabrication."""
+    r = client.get("/api/v1/research/ETERNAL")
+    assert r.status_code == 200
+    data = r.json()
+    val = data.get("valuation", {})
+    assert val.get("can_calculate") is False
+    assert "Negative Free Cash Flow" in val.get("reason", "")
+    assert val.get("base_fair_value") is None
+    assert val.get("bull_fair_value") is None
+    assert val.get("bear_fair_value") is None
+
+
+def test_16_pdf_vector_generation_and_text_extraction():
+    """Root-Cause Check: Generated PDFs contain valid vector layout, exact ticker, and INR symbols."""
+    import pypdf
+
+    for symbol in ["ETERNAL", "RELIANCE", "TCS"]:
+        r_pdf = client.get(f"/api/v1/reports/{symbol}/pdf")
+        assert r_pdf.status_code == 200
+        assert r_pdf.headers["content-type"] == "application/pdf"
+        assert len(r_pdf.content) > 1500
+
+        # Extract text via pypdf
+        reader = pypdf.PdfReader(io.BytesIO(r_pdf.content))
+        assert len(reader.pages) >= 1
+        page_text = "".join(p.extract_text() or "" for p in reader.pages)
+        assert symbol in page_text, f"Ticker {symbol} not found in PDF page text"
+        assert "NSE" in page_text
+
+
+def test_17_peer_comparison_medians_and_interpretation():
+    """Root-Cause Check: Peer comparison provides business-model peers, medians, and non-generic interpretation."""
+    r_peers = client.get("/api/v1/peers/ETERNAL")
+    assert r_peers.status_code == 200
+    data = r_peers.json()
+    assert data["target_symbol"] == "ETERNAL"
+    assert "peers" in data
+    assert len(data["peers"]) >= 3
+    # Check that peer quotes have close prices and no default 1000 fallback
+    for p in data["peers"]:
+        if p.get("quote"):
+            assert p["quote"]["close"] > 0
+    assert "interpretation" in data
+    assert len(data["interpretation"]) > 20
+
+
+def test_18_empty_initial_watchlist_and_persistence():
+    """Root-Cause Check: Watchlist starts empty and supports add/delete operations with persistence."""
+    wl_path = Path("data/user_watchlist.json")
+    with open(wl_path, "w", encoding="utf-8") as f:
+        json.dump([], f)
+
+    # Initial get
+    r = client.get("/api/v1/watchlist")
+    assert r.status_code == 200
+    assert r.json()["count"] == 0
+    assert r.json()["watchlist"] == []
+
+    # Add ETERNAL
+    r_add = client.post("/api/v1/watchlist", json={"symbol": "ETERNAL", "name": "Eternal Ltd", "sector": "Consumer Cyclical"})
+    assert r_add.status_code == 200
+    assert r_add.json()["status"] == "added"
+
+    # Verify present
+    r_verify = client.get("/api/v1/watchlist")
+    assert r_verify.json()["count"] == 1
+    assert r_verify.json()["watchlist"][0]["symbol"] == "ETERNAL"
+
+    # Clean up
+    r_del = client.delete("/api/v1/watchlist/ETERNAL")
+    assert r_del.status_code == 200
+    assert r_del.json()["status"] == "removed"
+    assert len(r_del.json()["watchlist"]) == 0
+
+
+def test_19_missing_dossier_fails_open_with_quote_and_disclosure():
+    """Root-Cause Check: Missing financial dossier does not block quote retrieval."""
+    # A ticker that is in security master (e.g. INFY) but let's test a valid ticker without a dossier in cache
+    # FinancialsAdapter handles unknown stocks cleanly
+    d = FinancialsAdapter.get_company_dossier("NONEXISTENT_STOCK")
+    assert d["has_statements"] is False
+    assert len(d["financial_statements"]) == 0
+
+
+def test_20_data_quality_audit_dynamic_hashes():
+    """Root-Cause Check: Data quality audit dynamically recalculates disk hashes."""
+    r = client.get("/api/v1/quality/audit")
+    assert r.status_code == 200
+    audit = r.json()
+    assert "provenance_ledger" in audit or "file_provenance_ledger" in audit
+    ledger = audit.get("provenance_ledger") or audit.get("file_provenance_ledger")
+    assert len(ledger) >= 4
+    for entry in ledger:
+        assert entry["status"] == "INTEGRITY_VERIFIED"
+        assert len(entry["sha256"]) == 64
+

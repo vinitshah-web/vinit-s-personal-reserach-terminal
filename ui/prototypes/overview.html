@@ -242,17 +242,21 @@
       } else if (searchIndex.length > 0) {
         const exact = [];
         const prefix = [];
+        const aliasList = [];
         const contains = [];
         for (const s of searchIndex) {
           const t = s.ticker.toUpperCase();
           const n = s.name.toUpperCase();
           const i = s.isin.toUpperCase();
+          const aliases = (s.aliases || []).map(a => a.toUpperCase());
+
           if (t === query) exact.push(s);
+          else if (aliases.includes(query)) aliasList.push(s);
           else if (t.startsWith(query)) prefix.push(s);
-          else if (n.includes(query) || i.includes(query)) contains.push(s);
-          if (exact.length + prefix.length + contains.length >= 8) break;
+          else if (n.includes(query) || i.includes(query) || aliases.some(a => a.includes(query))) contains.push(s);
+          if (exact.length + aliasList.length + prefix.length + contains.length >= 8) break;
         }
-        matches = [...exact, ...prefix, ...contains].slice(0, 8);
+        matches = [...exact, ...aliasList, ...prefix, ...contains].slice(0, 8);
       }
 
       if (matches.length === 0) {
@@ -283,9 +287,45 @@
       window.location.href = `research.html?ticker=${encodeURIComponent(ticker)}`;
     }
 
+    async function resolveAndSelect(query) {
+      const q = query.trim().toUpperCase();
+      if (!q) return;
+
+      // 1. Check local searchIndex if available
+      if (searchIndex.length > 0) {
+        for (const s of searchIndex) {
+          const t = s.ticker.toUpperCase();
+          const n = s.name.toUpperCase();
+          const i = s.isin.toUpperCase();
+          const aliases = (s.aliases || []).map(a => a.toUpperCase());
+          if (t === q || aliases.includes(q) || n === q || i === q || n.startsWith(q) || t.startsWith(q)) {
+            selectStock(s.ticker);
+            return;
+          }
+        }
+      }
+
+      // 2. Try backend search
+      if (isLocalBackend) {
+        try {
+          const res = await fetch(`/api/v1/search?q=${encodeURIComponent(q)}&limit=1`);
+          if (res.ok) {
+            const data = await res.json();
+            if (data.results && data.results.length > 0) {
+              selectStock(data.results[0].ticker);
+              return;
+            }
+          }
+        } catch (e) {}
+      }
+
+      // 3. Fallback
+      selectStock(q);
+    }
+
     function triggerSearch() {
-      const q = searchInput.value.trim().toUpperCase();
-      if (q) selectStock(q);
+      const q = searchInput.value.trim();
+      if (q) resolveAndSelect(q);
     }
 
     searchInput.addEventListener('keydown', (e) => {

@@ -76,12 +76,7 @@
       if (stored) {
         try { return JSON.parse(stored); } catch (e) {}
       }
-      return [
-        { symbol: "RELIANCE", name: "Reliance Industries Ltd", sector: "Energy", added_at: "2026-10-25" },
-        { symbol: "TCS", name: "Tata Consultancy Services Ltd", sector: "Technology", added_at: "2026-10-25" },
-        { symbol: "HDFCBANK", name: "HDFC Bank Limited", sector: "Banking", added_at: "2026-10-25" },
-        { symbol: "PERSISTENT", name: "Persistent Systems Ltd", sector: "Technology", added_at: "2026-10-25" }
-      ];
+      return [];
     }
 
     function renderWatchlist() {

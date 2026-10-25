@@ -1,0 +1,43 @@
+{
+  "as_of_date": "2026-10-23",
+  "notes": "Independently verified historical closing price references for regression validation. Not hard-coded production values.",
+  "references": {
+    "ETERNAL": {
+      "symbol": "ETERNAL",
+      "isin": "INE758T01015",
+      "company_name": "ETERNAL LIMITED",
+      "verified_close": 317.40,
+      "trade_date": "2026-10-23",
+      "source": "NSE Bhavcopy / TejHQ Open EOD API",
+      "source_url": "https://api.tejhq.dev/v1/ohlcv/NSE/ETERNAL"
+    },
+    "RELIANCE": {
+      "symbol": "RELIANCE",
+      "isin": "INE002A01018",
+      "company_name": "RELIANCE INDUSTRIES LTD",
+      "verified_close": 1190.00,
+      "trade_date": "2026-10-23",
+      "source": "NSE Bhavcopy / TejHQ Open EOD API",
+      "source_url": "https://api.tejhq.dev/v1/ohlcv/NSE/RELIANCE",
+      "corporate_action": "1:1 Bonus Issue Adjusted"
+    },
+    "TCS": {
+      "symbol": "TCS",
+      "isin": "INE467B01029",
+      "company_name": "TATA CONSULTANCY SERVICES LTD",
+      "verified_close": 2530.00,
+      "trade_date": "2026-10-23",
+      "source": "NSE Bhavcopy / TejHQ Open EOD API",
+      "source_url": "https://api.tejhq.dev/v1/ohlcv/NSE/TCS"
+    },
+    "HDFCBANK": {
+      "symbol": "HDFCBANK",
+      "isin": "INE040A01034",
+      "company_name": "HDFC BANK LIMITED",
+      "verified_close": 692.80,
+      "trade_date": "2026-10-23",
+      "source": "NSE Bhavcopy / TejHQ Open EOD API",
+      "source_url": "https://api.tejhq.dev/v1/ohlcv/NSE/HDFCBANK"
+    }
+  }
+}

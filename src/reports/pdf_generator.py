@@ -205,53 +205,59 @@ class ResearchReportPDFGenerator:
         # 3. Valuation Analysis & Scenarios
         story.append(Paragraph("3. Valuation Scenarios & Reverse DCF Analysis", h2_style))
         val = data.get("valuation", {})
-        bear_val = val.get("bear_fair_value", price * 0.85)
-        base_val = val.get("base_fair_value", price * 1.15)
-        bull_val = val.get("bull_fair_value", price * 1.40)
-        implied_g = val.get("implied_growth_pct", 9.8)
+        if val.get("can_calculate") and val.get("base_fair_value"):
+            bear_val = val.get("bear_fair_value")
+            base_val = val.get("base_fair_value")
+            bull_val = val.get("bull_fair_value")
+            implied_g = val.get("implied_growth_pct")
 
-        val_rows = [
-            [
-                Paragraph("<b>Scenario</b>", body_style),
-                Paragraph("<b>Growth Assumption</b>", body_style),
-                Paragraph("<b>Discount Rate (WACC)</b>", body_style),
-                Paragraph("<b>Fair Value (₹/share)</b>", body_style),
-                Paragraph("<b>Upside / Downside</b>", body_style)
-            ],
-            [
-                Paragraph("<b>Bear Case</b>", body_style),
-                Paragraph("5.0% 5Y CAGR", body_style),
-                Paragraph("13.5%", body_style),
-                Paragraph(f"₹{bear_val:,.2f}", body_style),
-                Paragraph(f"{((bear_val - price) / price * 100):+.1f}%", body_style)
-            ],
-            [
-                Paragraph("<b>Base Case</b>", body_style),
-                Paragraph("10.0% 5Y CAGR", body_style),
-                Paragraph("12.0%", body_style),
-                Paragraph(f"<b>₹{base_val:,.2f}</b>", body_style),
-                Paragraph(f"<b>{((base_val - price) / price * 100):+.1f}%</b>", body_style)
-            ],
-            [
-                Paragraph("<b>Bull Case</b>", body_style),
-                Paragraph("16.0% 5Y CAGR", body_style),
-                Paragraph("11.0%", body_style),
-                Paragraph(f"₹{bull_val:,.2f}", body_style),
-                Paragraph(f"{((bull_val - price) / price * 100):+.1f}%", body_style)
+            val_rows = [
+                [
+                    Paragraph("<b>Scenario</b>", body_style),
+                    Paragraph("<b>Growth Assumption</b>", body_style),
+                    Paragraph("<b>Discount Rate (WACC)</b>", body_style),
+                    Paragraph("<b>Fair Value (₹/share)</b>", body_style),
+                    Paragraph("<b>Upside / Downside</b>", body_style)
+                ],
+                [
+                    Paragraph("<b>Bear Case</b>", body_style),
+                    Paragraph("5.0% 5Y CAGR", body_style),
+                    Paragraph("13.5%", body_style),
+                    Paragraph(f"₹{bear_val:,.2f}", body_style),
+                    Paragraph(f"{((bear_val - price) / price * 100):+.1f}%", body_style)
+                ],
+                [
+                    Paragraph("<b>Base Case</b>", body_style),
+                    Paragraph("10.0% 5Y CAGR", body_style),
+                    Paragraph("12.0%", body_style),
+                    Paragraph(f"<b>₹{base_val:,.2f}</b>", body_style),
+                    Paragraph(f"<b>{((base_val - price) / price * 100):+.1f}%</b>", body_style)
+                ],
+                [
+                    Paragraph("<b>Bull Case</b>", body_style),
+                    Paragraph("16.0% 5Y CAGR", body_style),
+                    Paragraph("11.0%", body_style),
+                    Paragraph(f"₹{bull_val:,.2f}", body_style),
+                    Paragraph(f"{((bull_val - price) / price * 100):+.1f}%", body_style)
+                ]
             ]
-        ]
-        t_val = Table(val_rows, colWidths=[90, 110, 110, 100, 94])
-        t_val.setStyle(TableStyle([
-            ('BACKGROUND', (0,0), (-1,0), colors.HexColor('#f1f5f9')),
-            ('BACKGROUND', (0,2), (-1,2), colors.HexColor('#ecfdf5')),
-            ('BOX', (0,0), (-1,-1), 1, colors.HexColor('#cbd5e1')),
-            ('INNERGRID', (0,0), (-1,-1), 0.5, colors.HexColor('#e2e8f0')),
-            ('TOPPADDING', (0,0), (-1,-1), 4),
-            ('BOTTOMPADDING', (0,0), (-1,-1), 4),
-        ]))
-        story.append(t_val)
-        story.append(Spacer(1, 6))
-        story.append(Paragraph(f"<b>Reverse DCF Implied Growth:</b> Current market price of ₹{price:,.2f} implies an enterprise free cash flow growth rate of <b>{implied_g:.1f}% CAGR</b> over the next 5 years (assuming WACC=12.0%, Terminal Growth=4.0%).", caption_style))
+            t_val = Table(val_rows, colWidths=[90, 110, 110, 100, 94])
+            t_val.setStyle(TableStyle([
+                ('BACKGROUND', (0,0), (-1,0), colors.HexColor('#f1f5f9')),
+                ('BACKGROUND', (0,2), (-1,2), colors.HexColor('#ecfdf5')),
+                ('BOX', (0,0), (-1,-1), 1, colors.HexColor('#cbd5e1')),
+                ('INNERGRID', (0,0), (-1,-1), 0.5, colors.HexColor('#e2e8f0')),
+                ('TOPPADDING', (0,0), (-1,-1), 4),
+                ('BOTTOMPADDING', (0,0), (-1,-1), 4),
+            ]))
+            story.append(t_val)
+            story.append(Spacer(1, 6))
+            if implied_g is not None:
+                story.append(Paragraph(f"<b>Reverse DCF Implied Growth:</b> Current market price of ₹{price:,.2f} implies an enterprise free cash flow growth rate of <b>{implied_g:.1f}% CAGR</b> over the next 5 years (assuming WACC=12.0%, Terminal Growth=4.0%).", caption_style))
+        else:
+            reason = val.get("reason", "Audited valuation inputs (positive FCFF or regulatory capital metrics) are insufficient.")
+            story.append(Paragraph(f"<i>Valuation model was not calculated: {reason}</i>", caption_style))
+            story.append(Paragraph("<i>As per zero-budget research integrity policy, target prices are not manufactured or filled with synthetic multipliers.</i>", caption_style))
         story.append(Spacer(1, 14))
 
         # 4. Industry Dynamics & Risk Factors

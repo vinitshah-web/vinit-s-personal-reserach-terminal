@@ -20,6 +20,12 @@
     .prose-custom td { border: 1px solid #e2e8f0; padding: 0.5rem 0.75rem; color: #1e293b; }
     .prose-custom blockquote { border-left: 3px solid #059669; padding-left: 0.75rem; color: #475569; font-style: italic; background: #ecfdf5; padding-top: 0.25rem; padding-bottom: 0.25rem; }
     .prose-custom code { font-family: ui-monospace, monospace; background: #f1f5f9; padding: 0.15rem 0.35rem; border-radius: 4px; font-size: 0.8rem; color: #0f172a; }
+    @media print {
+      header, .no-print, button, input { display: none !important; }
+      body { background: #fff !important; color: #000 !important; font-size: 10pt; }
+      .card { border: none !important; box-shadow: none !important; }
+      #reportContent { max-height: none !important; overflow: visible !important; }
+    }
   </style>
 </head>
 <body class="min-h-screen flex flex-col">
@@ -43,7 +49,7 @@
       <div class="flex items-center space-x-2">
         <button onclick="downloadActivePDF()" class="px-3 py-1.5 bg-emerald-600 hover:bg-emerald-700 text-white rounded-lg text-xs font-semibold flex items-center space-x-1.5 shadow-sm transition">
           <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
-          <span>Download Vector PDF</span>
+          <span>Download PDF / Print</span>
         </button>
       </div>
     </div>
@@ -51,10 +57,10 @@
 
   <main class="flex-1 max-w-7xl w-full mx-auto p-6 flex flex-col md:flex-row gap-6">
     <!-- Left Stocks Sidebar -->
-    <div class="w-full md:w-80 card p-4 space-y-4 flex flex-col">
+    <div class="w-full md:w-80 card p-4 space-y-4 flex flex-col no-print">
       <div>
-        <h2 class="text-sm font-bold uppercase tracking-wider text-slate-900">Institutional Universe</h2>
-        <p class="text-[11px] text-slate-500 mt-0.5">Select a tear-sheet to inspect</p>
+        <h2 class="text-sm font-bold uppercase tracking-wider text-slate-900">Research Universe</h2>
+        <p class="text-[11px] text-slate-500 mt-0.5">Select a company tear-sheet to inspect</p>
       </div>
 
       <input
@@ -72,7 +78,7 @@
 
     <!-- Right Report Viewer -->
     <div class="flex-1 card p-6 flex flex-col">
-      <div class="flex items-center justify-between border-b border-slate-200 pb-3 mb-4">
+      <div class="flex items-center justify-between border-b border-slate-200 pb-3 mb-4 no-print">
         <div class="flex items-center space-x-3">
           <span id="activeTickerBadge" class="text-xs px-2.5 py-1 rounded bg-slate-100 text-slate-900 font-mono font-bold">RELIANCE</span>
           <span id="activeIsinBadge" class="text-xs text-slate-500 font-mono">INE002A01018</span>
@@ -93,6 +99,7 @@
       { ticker: "RELIANCE", name: "Reliance Industries Ltd", isin: "INE002A01018", tier: "Large-Cap", sector: "Energy & Retail" },
       { ticker: "TCS", name: "Tata Consultancy Services Ltd", isin: "INE467B01029", tier: "Large-Cap", sector: "IT Services" },
       { ticker: "HDFCBANK", name: "HDFC Bank Limited", isin: "INE040A01034", tier: "Large-Cap", sector: "Banking" },
+      { ticker: "ETERNAL", name: "Eternal Limited (Zomato)", isin: "INE758T01015", tier: "Large-Cap", sector: "Consumer Cyclical" },
       { ticker: "INFY", name: "Infosys Limited", isin: "INE009A01021", tier: "Large-Cap", sector: "IT Services" },
       { ticker: "ICICIBANK", name: "ICICI Bank Limited", isin: "INE090A01021", tier: "Large-Cap", sector: "Banking" },
       { ticker: "BHARTIARTL", name: "Bharti Airtel Limited", isin: "INE397D01024", tier: "Large-Cap", sector: "Telecom" },
@@ -107,7 +114,17 @@
       { ticker: "FEDERALBNK", name: "Federal Bank Limited", isin: "INE171A01029", tier: "Mid-Cap", sector: "Private Bank" }
     ];
 
-    let currentTicker = "RELIANCE";
+    const SYMBOL_ALIASES = {
+      'ZOMATO': 'ETERNAL',
+      'BLINKIT': 'ETERNAL',
+      'PAYTM': 'ONE97',
+      'L&T': 'LT'
+    };
+
+    const urlParams = new URLSearchParams(window.location.search);
+    let initialTicker = (urlParams.get('ticker') || 'RELIANCE').trim().toUpperCase();
+    if (SYMBOL_ALIASES[initialTicker]) initialTicker = SYMBOL_ALIASES[initialTicker];
+    let currentTicker = initialTicker;
 
     function renderStockList(items) {
       const container = document.getElementById('stocksList');
@@ -136,12 +153,15 @@
     }
 
     async function selectTicker(ticker) {
-      currentTicker = ticker;
+      currentTicker = SYMBOL_ALIASES[ticker] || ticker;
       renderStockList(STOCKS);
-      const st = STOCKS.find(s => s.ticker === ticker);
+      const st = STOCKS.find(s => s.ticker === currentTicker);
       if (st) {
         document.getElementById('activeTickerBadge').innerText = st.ticker;
         document.getElementById('activeIsinBadge').innerText = `${st.isin} • ${st.name}`;
+      } else {
+        document.getElementById('activeTickerBadge').innerText = currentTicker;
+        document.getElementById('activeIsinBadge').innerText = currentTicker;
       }
 
       const contentEl = document.getElementById('reportContent');
@@ -149,7 +169,7 @@
 
       // 1. Try local API
       try {
-        const res = await fetch(`/api/v1/reports/${ticker}`);
+        const res = await fetch(`/api/v1/reports/${encodeURIComponent(currentTicker)}`);
         if (res.ok) {
           const data = await res.json();
           contentEl.innerHTML = window.marked ? marked.parse(data.content_markdown) : data.content_markdown;
@@ -158,7 +178,11 @@
       } catch (e) {}
 
       // 2. Static hosting fallback (e.g. GitHub Pages)
-      for (const relPath of [`reports/${ticker}_TEARSHEET.md`, `../../reports/${ticker}_TEARSHEET.md`]) {
+      const relPaths = [
+        `reports/${encodeURIComponent(currentTicker)}_TEARSHEET.md`,
+        `../../reports/${encodeURIComponent(currentTicker)}_TEARSHEET.md`
+      ];
+      for (const relPath of relPaths) {
         try {
           const staticRes = await fetch(relPath);
           if (staticRes.ok) {
@@ -169,19 +193,46 @@
         } catch (err) {}
       }
 
+      // 3. Honest Error Display if no genuine report could be found or generated
       contentEl.innerHTML = `
-        <h2>${st ? st.name : ticker} Institutional Research Tearsheet</h2>
-        <p>This report has been compiled and verified under institutional research protocol with DuPont 5-factor analysis, discounted cash flows, and stationary block bootstrapping.</p>
+        <div class="p-8 text-center space-y-4 max-w-lg mx-auto">
+          <div class="w-12 h-12 rounded-full bg-rose-50 text-rose-600 flex items-center justify-center mx-auto text-xl font-bold">!</div>
+          <div class="space-y-1">
+            <h3 class="text-base font-bold text-slate-900">Research Tear-Sheet Unavailable for ${st ? st.name : currentTicker}</h3>
+            <p class="text-xs text-slate-500 leading-relaxed">
+              No verified research report currently generated for symbol <b>${currentTicker}</b>.
+              Zero-budget research policy strictly prevents fabricating synthetic narratives.
+            </p>
+          </div>
+          <div class="flex items-center justify-center space-x-3 pt-2">
+            <button onclick="selectTicker('${currentTicker}')" class="px-3.5 py-1.5 bg-emerald-600 hover:bg-emerald-700 text-white rounded-lg text-xs font-semibold shadow-sm transition">
+              Retry Retrieval
+            </button>
+            <a href="research.html?ticker=${encodeURIComponent(currentTicker)}" class="px-3.5 py-1.5 border border-slate-300 hover:bg-slate-50 text-slate-700 rounded-lg text-xs font-medium transition">
+              View Live Metrics →
+            </a>
+          </div>
+        </div>
       `;
     }
 
-    function downloadActivePDF() {
-      window.location.href = `/api/v1/reports/${currentTicker}/pdf`;
+    async function downloadActivePDF() {
+      // 1. Try local FastAPI PDF endpoint
+      try {
+        const testRes = await fetch(`/api/v1/reports/${encodeURIComponent(currentTicker)}/pdf`, { method: 'HEAD' });
+        if (testRes.ok) {
+          window.location.href = `/api/v1/reports/${encodeURIComponent(currentTicker)}/pdf`;
+          return;
+        }
+      } catch (e) {}
+
+      // 2. Client-side print-to-PDF in static mode
+      window.print();
     }
 
     window.addEventListener('DOMContentLoaded', () => {
       renderStockList(STOCKS);
-      selectTicker("RELIANCE");
+      selectTicker(currentTicker);
     });
   </script>
 </body>

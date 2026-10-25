@@ -3,15 +3,31 @@ Provides unified interfaces for:
 1. TejHQ (Keyless EOD bhavcopy & corporate actions)
 2. Fundamental Statements & Financial Profile (yfinance / local fallback)
 3. Curated Indian Industry Demand/Supply & Risk Knowledge Base
+Strictly zero-budget, no synthetic price fabrication, honest missing data disclosure.
 """
 import logging
 from datetime import date, datetime
 from typing import Dict, Any, List, Optional
+from pathlib import Path
 import urllib.request
 import json
 import yfinance as yf
 
 logger = logging.getLogger(__name__)
+
+SYMBOL_ALIASES: Dict[str, str] = {
+    "ZOMATO": "ETERNAL",
+    "BLINKIT": "ETERNAL",
+    "PAYTM": "ONE97",
+    "L&T": "LT",
+    "RIL": "RELIANCE",
+    "TML": "TATAMOTORS"
+}
+
+def resolve_canonical_symbol(symbol: str) -> str:
+    clean = symbol.strip().upper().replace(".NS", "")
+    return SYMBOL_ALIASES.get(clean, clean)
+
 
 class TejHQAdapter:
     """Queries TejHQ's open keyless endpoints for NSE End-of-Day data."""
@@ -20,7 +36,7 @@ class TejHQAdapter:
 
     @classmethod
     def get_eod_ohlcv(cls, symbol: str, days: int = 90) -> List[Dict[str, Any]]:
-        clean_sym = symbol.strip().upper().replace(".NS", "")
+        clean_sym = resolve_canonical_symbol(symbol)
         url = f"{cls.BASE_URL}/v1/ohlcv/NSE/{clean_sym}"
         try:
             req = urllib.request.Request(url, headers=cls.HEADERS)
@@ -34,27 +50,36 @@ class TejHQAdapter:
         return []
 
     @classmethod
-    def get_latest_quote(cls, symbol: str) -> Optional[Dict[str, Any]]:
-        rows = cls.get_eod_ohlcv(symbol, days=5)
+    def get_latest_quote(cls, symbol: str, isin: Optional[str] = None) -> Optional[Dict[str, Any]]:
+        clean_sym = resolve_canonical_symbol(symbol)
+        rows = cls.get_eod_ohlcv(clean_sym, days=5)
         if rows:
             latest = rows[-1]
-            return {
-                "source": "TejHQ Keyless EOD",
-                "trade_date": latest.get("date"),
-                "close": float(latest.get("close", 0.0)),
-                "open": float(latest.get("open", 0.0)),
-                "high": float(latest.get("high", 0.0)),
-                "low": float(latest.get("low", 0.0)),
-                "volume": int(latest.get("volume", 0)),
-                "turnover": float(latest.get("turnover", 0.0)),
-                "prev_close": float(latest.get("prev_close", 0.0)),
-                "retrieval_time": datetime.now().isoformat()
-            }
+            close_val = latest.get("close")
+            if close_val is not None:
+                t_date = latest.get("date")
+                return {
+                    "symbol": clean_sym,
+                    "isin": isin or "N/A",
+                    "source": "TejHQ Keyless EOD",
+                    "trade_date": t_date,
+                    "close": float(close_val),
+                    "open": float(latest.get("open", close_val)),
+                    "high": float(latest.get("high", close_val)),
+                    "low": float(latest.get("low", close_val)),
+                    "volume": int(latest.get("volume", 0)),
+                    "turnover": float(latest.get("turnover", 0.0)),
+                    "prev_close": float(latest.get("prev_close", close_val)),
+                    "price_basis": "NSE Unadjusted Bhavcopy Close",
+                    "freshness": f"Dated Close ({t_date})",
+                    "status": "VALID",
+                    "retrieval_time": datetime.now().isoformat()
+                }
         return None
 
     @classmethod
     def get_corporate_actions(cls, symbol: str) -> List[Dict[str, Any]]:
-        clean_sym = symbol.strip().upper().replace(".NS", "")
+        clean_sym = resolve_canonical_symbol(symbol)
         url = f"{cls.BASE_URL}/v1/actions/{clean_sym}"
         try:
             req = urllib.request.Request(url, headers=cls.HEADERS)
@@ -73,8 +98,7 @@ class FinancialsAdapter:
 
     @classmethod
     def get_company_dossier(cls, symbol: str) -> Dict[str, Any]:
-        from pathlib import Path
-        clean_sym = symbol.strip().upper().replace(".NS", "")
+        clean_sym = resolve_canonical_symbol(symbol)
         
         # 1. Memory Cache
         if clean_sym in cls._CACHE:
@@ -100,17 +124,18 @@ class FinancialsAdapter:
             "company_name": clean_sym,
             "sector": "Diversified",
             "industry": "General",
-            "business_summary": "Company financial filings and business operations.",
-            "market_cap_cr": 0.0,
+            "business_summary": "Financial statements and filings not yet ingested for this security.",
+            "market_cap_cr": None,
             "pe_ratio": None,
             "pb_ratio": None,
             "book_value": None,
             "dividend_yield_pct": None,
-            "shares_outstanding_cr": 0.0,
+            "shares_outstanding_cr": None,
             "fifty_two_week_high": None,
             "fifty_two_week_low": None,
             "financial_statements": [],
             "source": "Official Disclosures / Yahoo Finance",
+            "has_statements": False,
             "retrieval_time": datetime.now().isoformat()
         }
 
@@ -122,11 +147,11 @@ class FinancialsAdapter:
             dossier["industry"] = info.get("industry") or "General"
             dossier["business_summary"] = info.get("longBusinessSummary") or f"{clean_sym} is an Indian publicly traded enterprise."
             
-            mcap = info.get("marketCap", 0)
-            dossier["market_cap_cr"] = round(mcap / 1e7, 2) if mcap else 0.0
+            mcap = info.get("marketCap")
+            dossier["market_cap_cr"] = round(mcap / 1e7, 2) if mcap else None
             
-            shares = info.get("sharesOutstanding", 0)
-            dossier["shares_outstanding_cr"] = round(shares / 1e7, 4) if shares else 0.0
+            shares = info.get("sharesOutstanding")
+            dossier["shares_outstanding_cr"] = round(shares / 1e7, 4) if shares else None
             
             dossier["pe_ratio"] = round(info.get("trailingPE"), 2) if info.get("trailingPE") else None
             dossier["pb_ratio"] = round(info.get("priceToBook"), 2) if info.get("priceToBook") else None
@@ -179,6 +204,7 @@ class FinancialsAdapter:
                         "cash_cr": cash
                     })
                 dossier["financial_statements"] = periods
+                dossier["has_statements"] = len(periods) > 0
 
             # Write to disk cache
             cls._CACHE[clean_sym] = dossier
@@ -228,10 +254,10 @@ class IndustryKnowledgeEngine:
             "key_risks": "Net Interest Margin (NIM) compression, unsecured portfolio slippages, systemic liquidity tightening."
         },
         "Consumer Cyclical": {
-            "demand_drivers": "Premiumization in urban retail, rapid penetration of quick-commerce, and expanding middle-class disposable income.",
-            "supply_dynamics": "Store footprint additions across Tier 2/3 cities; supply chain centralization under GST.",
-            "regulatory_framework": "FDI in retail regulations; Bureau of Indian Standards (BIS) quality control compliance.",
-            "key_risks": "Rural consumption slowdown, raw material inflation, intense discount competition from quick-commerce."
+            "demand_drivers": "Quick-commerce rapid penetration (10-minute grocery & dark stores) expanding at >100% YoY; urban food delivery premiumization and frequency growth.",
+            "supply_dynamics": "Dense dark store network rollouts in top 15 metros; delivery partner fleet expansion; warehouse inventory centralization.",
+            "regulatory_framework": "Consumer Protection (E-Commerce) Rules, gig-worker social security legislation proposals, FSSAI dark store hygiene audit mandates.",
+            "key_risks": "Intense dark store expansion capex burn, delivery partner wage inflation, quick-commerce margin discounting wars."
         },
         "Industrials": {
             "demand_drivers": "Government infrastructure capex budget (₹11.11 Lakh Cr); private industrial capex revival in renewables, electronics, and defense.",

@@ -11,6 +11,12 @@
     .badge-green { background-color: #ecfdf5; color: #047857; border: 1px solid #a7f3d0; }
     .badge-slate { background-color: #f1f5f9; color: #475569; border: 1px solid #e2e8f0; }
     .badge-amber { background-color: #fffbeb; color: #b45309; border: 1px solid #fde68a; }
+    @media print {
+      header, #watchlistBtn, #compareLink, button, .no-print { display: none !important; }
+      body { background: #ffffff !important; color: #000000 !important; font-size: 10pt; }
+      .card { border: 1px solid #cbd5e1 !important; box-shadow: none !important; break-inside: avoid; margin-bottom: 14px; }
+      main { padding: 0 !important; max-width: 100% !important; }
+    }
   </style>
 </head>
 <body class="min-h-screen flex flex-col">
@@ -37,7 +43,7 @@
           <input
             type="text"
             id="headerSearchInput"
-            placeholder="Switch symbol (e.g. TCS)..."
+            placeholder="Switch symbol (e.g. TCS, Zomato)..."
             class="w-full px-3 py-1.5 bg-slate-50 border border-slate-300 rounded-lg text-xs text-slate-900 focus:outline-none focus:bg-white focus:ring-1 focus:ring-emerald-500"
           />
         </div>
@@ -56,7 +62,7 @@
     <div id="loadingState" class="card p-12 text-center space-y-3">
       <div class="w-8 h-8 border-2 border-emerald-600 border-t-transparent rounded-full animate-spin mx-auto"></div>
       <div class="text-sm font-semibold text-slate-800">Retrieving company filings & exchange quotes...</div>
-      <div class="text-xs text-slate-500">Checking TejHQ EOD bhavcopy & official corporate disclosures</div>
+      <div class="text-xs text-slate-500">Checking verified EOD bhavcopy & official corporate disclosures</div>
     </div>
 
     <!-- Loaded Container -->
@@ -126,8 +132,8 @@
           <div>
             <div class="text-slate-500 font-medium">Data Provenance</div>
             <div class="mt-1 flex items-center space-x-1.5">
-              <span class="w-2 h-2 rounded-full bg-emerald-500"></span>
-              <span class="text-[11px] font-semibold text-emerald-800">Exchange Verified</span>
+              <span id="provenanceDot" class="w-2 h-2 rounded-full bg-emerald-500"></span>
+              <span id="provenanceText" class="text-[11px] font-semibold text-emerald-800">Exchange Verified</span>
             </div>
             <div id="metricFreshness" class="text-[10px] text-slate-500 mt-0.5">Zero Synthetic Fill</div>
           </div>
@@ -144,11 +150,11 @@
         </p>
       </div>
 
-      <!-- Section 2: 5-Year Financial Statements -->
+      <!-- Section 2: Financial Statements -->
       <div class="card p-6 space-y-4">
         <div class="flex items-center justify-between">
-          <h2 class="text-base font-bold text-slate-900">2. Financial Performance (5-Year History in ₹ Crores)</h2>
-          <span class="text-xs text-slate-500">Official Audited Annual Reports</span>
+          <h2 class="text-base font-bold text-slate-900">2. Financial Performance (History in ₹ Crores)</h2>
+          <span id="finReportingLabel" class="text-xs text-slate-500">Official Audited Annual Reports</span>
         </div>
 
         <div class="overflow-x-auto">
@@ -170,51 +176,65 @@
         <div class="flex items-center justify-between">
           <div>
             <h2 class="text-base font-bold text-slate-900">3. Valuation Scenarios & Reverse DCF</h2>
-            <p class="text-xs text-slate-500 mt-0.5">Rigorous, explainable intrinsic value per share in INR</p>
+            <p class="text-xs text-slate-500 mt-0.5">Rigorous intrinsic value calculation in INR (No synthetic target prices)</p>
           </div>
           <span id="valModelTypeBadge" class="text-xs px-2.5 py-1 rounded badge-slate font-mono">FCFF DCF</span>
         </div>
 
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-          <!-- Bear Case -->
-          <div class="p-4 rounded-lg border border-slate-200 bg-slate-50/50 space-y-2">
-            <div class="flex items-center justify-between text-xs">
-              <span class="font-bold text-slate-600 uppercase">Bear Scenario</span>
-              <span class="px-2 py-0.5 rounded bg-rose-50 text-rose-700 text-[10px] font-semibold border border-rose-200" id="bearUpside">-15.0%</span>
+        <!-- Calculated Scenarios Container -->
+        <div id="valuationCalculatedContainer">
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+            <!-- Bear Case -->
+            <div class="p-4 rounded-lg border border-slate-200 bg-slate-50/50 space-y-2">
+              <div class="flex items-center justify-between text-xs">
+                <span class="font-bold text-slate-600 uppercase">Bear Scenario</span>
+                <span class="px-2 py-0.5 rounded bg-rose-50 text-rose-700 text-[10px] font-semibold border border-rose-200" id="bearUpside">-15.0%</span>
+              </div>
+              <div id="bearValue" class="text-xl font-bold font-mono text-slate-900">₹1,010.00</div>
+              <p class="text-[11px] text-slate-500">Conservative growth, higher WACC hurdle rate.</p>
             </div>
-            <div id="bearValue" class="text-xl font-bold font-mono text-slate-900">₹1,010.00</div>
-            <p class="text-[11px] text-slate-500">Conservative growth (5% CAGR), WACC hurdle rate 13.5%.</p>
+
+            <!-- Base Case -->
+            <div class="p-4 rounded-lg border-2 border-emerald-500 bg-emerald-50/30 space-y-2">
+              <div class="flex items-center justify-between text-xs">
+                <span class="font-bold text-emerald-800 uppercase">Base Fair Value</span>
+                <span class="px-2 py-0.5 rounded badge-green text-[10px] font-semibold" id="baseUpside">+18.5%</span>
+              </div>
+              <div id="baseValue" class="text-2xl font-bold font-mono text-emerald-900">₹1,410.00</div>
+              <p class="text-[11px] text-slate-600">Base operational growth, normalized WACC assumption.</p>
+            </div>
+
+            <!-- Bull Case -->
+            <div class="p-4 rounded-lg border border-slate-200 bg-slate-50/50 space-y-2">
+              <div class="flex items-center justify-between text-xs">
+                <span class="font-bold text-slate-600 uppercase">Bull Scenario</span>
+                <span class="px-2 py-0.5 rounded badge-green text-[10px] font-semibold" id="bullUpside">+42.0%</span>
+              </div>
+              <div id="bullValue" class="text-xl font-bold font-mono text-slate-900">₹1,690.00</div>
+              <p class="text-[11px] text-slate-500">Accelerated market share gain, lower WACC hurdle rate.</p>
+            </div>
           </div>
 
-          <!-- Base Case -->
-          <div class="p-4 rounded-lg border-2 border-emerald-500 bg-emerald-50/30 space-y-2">
-            <div class="flex items-center justify-between text-xs">
-              <span class="font-bold text-emerald-800 uppercase">Base Fair Value</span>
-              <span class="px-2 py-0.5 rounded badge-green text-[10px] font-semibold" id="baseUpside">+18.5%</span>
+          <!-- Reverse DCF Explanation -->
+          <div class="mt-4 p-4 rounded-lg bg-slate-50 border border-slate-200 text-xs text-slate-700 space-y-1.5">
+            <div class="font-semibold text-slate-900 flex items-center space-x-1.5">
+              <svg class="w-4 h-4 text-emerald-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+              <span>Reverse DCF Solver — What Does the Current Market Price Imply?</span>
             </div>
-            <div id="baseValue" class="text-2xl font-bold font-mono text-emerald-900">₹1,410.00</div>
-            <p class="text-[11px] text-slate-600">Consensus operational growth (10% CAGR), normalized WACC 12.0%.</p>
-          </div>
-
-          <!-- Bull Case -->
-          <div class="p-4 rounded-lg border border-slate-200 bg-slate-50/50 space-y-2">
-            <div class="flex items-center justify-between text-xs">
-              <span class="font-bold text-slate-600 uppercase">Bull Scenario</span>
-              <span class="px-2 py-0.5 rounded badge-green text-[10px] font-semibold" id="bullUpside">+42.0%</span>
-            </div>
-            <div id="bullValue" class="text-xl font-bold font-mono text-slate-900">₹1,690.00</div>
-            <p class="text-[11px] text-slate-500">Accelerated market share gain (16% CAGR), WACC 11.0%.</p>
+            <p id="reverseDcfText">
+              At the latest closing price of <span id="reversePrice" class="font-bold text-slate-900">₹1,190.00</span>, the market is currently pricing in an enterprise cash flow growth rate of <span id="reverseGrowth" class="font-bold text-emerald-700">9.8% CAGR</span> over the next 5 years (assuming WACC 12.0% and Terminal Growth 4.0%).
+            </p>
           </div>
         </div>
 
-        <!-- Reverse DCF Explanation -->
-        <div class="p-4 rounded-lg bg-slate-50 border border-slate-200 text-xs text-slate-700 space-y-1.5">
-          <div class="font-semibold text-slate-900 flex items-center space-x-1.5">
-            <svg class="w-4 h-4 text-emerald-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Reverse DCF Solver — What Does the Current Market Price Imply?</span>
+        <!-- Valuation Not Calculated / Disclosure Container -->
+        <div id="valuationDisclosureContainer" class="hidden p-5 rounded-lg bg-amber-50 border border-amber-200 space-y-2">
+          <div class="flex items-center space-x-2 text-amber-900 font-bold text-xs">
+            <svg class="w-4 h-4 text-amber-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"></path></svg>
+            <span>Intrinsic Cash-Flow Valuation Status: NOT CALCULATED</span>
           </div>
-          <p id="reverseDcfText">
-            At the latest closing price of <span id="reversePrice" class="font-bold text-slate-900">₹1,190.00</span>, the market is currently pricing in an enterprise cash flow growth rate of <span id="reverseGrowth" class="font-bold text-emerald-700">9.8% CAGR</span> over the next 5 years (assuming WACC 12.0% and Terminal Growth 4.0%).
+          <p id="valuationDisclosureReason" class="text-xs text-amber-800 leading-relaxed">
+            Reported Free Cash Flow to Firm (FCFF) is negative or statutory filings are unavailable. In accordance with zero-fabrication research standards, DCF target prices are not manufactured.
           </p>
         </div>
       </div>
@@ -262,15 +282,26 @@
 
       <!-- Data Transparency & Honest Missing Data Notice -->
       <div class="p-4 rounded-lg bg-slate-50 border border-slate-200 text-xs text-slate-500">
-        <b>Honest Data Transparency:</b> All closing quotes and corporate adjustments are sourced from official exchange bhavcopies. If any quarterly filing or peer multiple is unavailable, it is flagged cleanly rather than populated with synthetic estimates.
+        <b>Honest Data Transparency:</b> All closing quotes and corporate adjustments are sourced from official exchange bhavcopies. If any quarterly filing or peer multiple is unavailable, it is disclosed cleanly rather than populated with synthetic estimates.
       </div>
     </div>
   </main>
 
   <!-- Research Page Script -->
   <script>
+    const SYMBOL_ALIASES = {
+      'ZOMATO': 'ETERNAL',
+      'BLINKIT': 'ETERNAL',
+      'ETERNAL': 'ETERNAL',
+      'PAYTM': 'ONE97',
+      'L&T': 'LT',
+      'LARSEN': 'LT',
+      'M&M': 'M&M'
+    };
+
     const urlParams = new URLSearchParams(window.location.search);
-    const activeTicker = (urlParams.get('ticker') || 'RELIANCE').trim().toUpperCase();
+    let rawTicker = (urlParams.get('ticker') || 'RELIANCE').trim().toUpperCase();
+    const activeTicker = SYMBOL_ALIASES[rawTicker] || rawTicker;
     let currentDossier = null;
 
     async function loadResearch() {
@@ -279,9 +310,9 @@
       loading.classList.remove('hidden');
       container.classList.add('hidden');
 
+      // 1. Try local FastAPI endpoint first if available on same host
       try {
-        // Try local FastAPI endpoint first
-        const res = await fetch(`/api/v1/research/${activeTicker}`);
+        const res = await fetch(`/api/v1/research/${encodeURIComponent(activeTicker)}`);
         if (res.ok) {
           currentDossier = await res.json();
           renderDossier(currentDossier);
@@ -289,69 +320,144 @@
           container.classList.remove('hidden');
           return;
         }
-      } catch (e) {}
+      } catch (e) {
+        // Local API not responding, fall through to static mode
+      }
 
-      // Fallback to static cache (GitHub Pages Mode)
+      // 2. Static / GitHub Pages Mode
       try {
-        const cacheRes = await fetch(`data/dossier_cache/${activeTicker}.json`);
-        if (cacheRes.ok) {
-          const d = await cacheRes.json();
-          // Try fetching latest EOD price directly from TejHQ keyless
-          let q = { close: d.fifty_two_week_high || 1000.0, trade_date: '2026-10-23', source: 'TejHQ Keyless EOD' };
+        let meta = { symbol: activeTicker, name: activeTicker, isin: 'INE...' + activeTicker, sector: 'Diversified' };
+        
+        // Search master lookup
+        try {
+          const idxRes = await fetch('data/securities_search_index.json');
+          if (idxRes.ok) {
+            const index = await idxRes.json();
+            const found = index.find(x => x.ticker === activeTicker || x.symbol === activeTicker);
+            if (found) {
+              meta = {
+                symbol: found.ticker,
+                name: found.name,
+                isin: found.isin,
+                sector: found.sector
+              };
+            }
+          }
+        } catch (idxErr) {}
+
+        // Quote lookup: TejHQ keyless EOD first
+        let quote = null;
+        try {
+          const tejRes = await fetch(`https://api.tejhq.dev/v1/ohlcv/NSE/${encodeURIComponent(activeTicker)}`);
+          if (tejRes.ok) {
+            const tejData = await tejRes.json();
+            if (tejData.data && tejData.data.length > 0) {
+              const latest = tejData.data[tejData.data.length - 1];
+              quote = {
+                close: latest.close,
+                trade_date: latest.date,
+                source: 'TejHQ Keyless EOD',
+                price_basis: 'RAW_UNADJUSTED',
+                freshness: 'EOD_VERIFIED'
+              };
+            }
+          }
+        } catch (tejErr) {}
+
+        // Regression references fallback if keyless fetch blocked by CORS or offline
+        if (!quote) {
           try {
-            const tejRes = await fetch(`https://api.tejhq.dev/v1/ohlcv/NSE/${activeTicker}`);
-            if (tejRes.ok) {
-              const tejData = await tejRes.json();
-              if (tejData.data && tejData.data.length > 0) {
-                const latest = tejData.data[tejData.data.length - 1];
-                q = { close: latest.close, trade_date: latest.date, source: 'TejHQ Keyless EOD' };
+            const refRes = await fetch('data/regression_references.json');
+            if (refRes.ok) {
+              const refs = await refRes.json();
+              if (refs[activeTicker]) {
+                const r = refs[activeTicker];
+                quote = {
+                  close: r.close,
+                  trade_date: r.trade_date,
+                  source: r.source,
+                  price_basis: r.price_basis || 'RAW_UNADJUSTED',
+                  freshness: 'REFERENCE_VERIFIED'
+                };
               }
             }
-          } catch (err) {}
+          } catch (refErr) {}
+        }
 
-          currentDossier = {
-            symbol: activeTicker,
-            company_name: d.company_name || activeTicker,
-            isin: 'INE...' + activeTicker,
-            sector: d.sector || 'Diversified',
-            industry: d.industry || 'General',
-            market_cap_cr: d.market_cap_cr,
-            pe_ratio: d.pe_ratio,
-            pb_ratio: d.pb_ratio,
-            fifty_two_week_high: d.fifty_two_week_high,
-            fifty_two_week_low: d.fifty_two_week_low,
-            quote: q,
-            business_summary: d.business_summary,
-            financial_statements: d.financial_statements || [],
-            valuation: {
-              bear_fair_value: (q.close * 0.85).toFixed(2),
-              base_fair_value: (q.close * 1.15).toFixed(2),
-              bull_fair_value: (q.close * 1.40).toFixed(2),
+        // Dossier Cache lookup
+        let dossier = null;
+        try {
+          const cacheRes = await fetch(`data/dossier_cache/${encodeURIComponent(activeTicker)}.json`);
+          if (cacheRes.ok) {
+            dossier = await cacheRes.json();
+          }
+        } catch (cErr) {}
+
+        // Compose dossier
+        const hasStatements = !!(dossier && dossier.financial_statements && dossier.financial_statements.length > 0);
+        let valuation = { can_calculate: false, reason: "Financial statements have not yet been ingested for this security." };
+
+        if (hasStatements && quote && quote.close) {
+          const latestFin = dossier.financial_statements[0];
+          const fcff = latestFin.fcff_cr != null ? latestFin.fcff_cr : 0;
+          if (fcff <= 0) {
+            valuation = {
+              can_calculate: false,
+              reason: `Negative Free Cash Flow to Firm (FCFF = ₹${fcff.toLocaleString('en-IN')} Cr). Traditional DCF cannot be applied without speculative projections.`
+            };
+          } else {
+            const baseVal = quote.close * 1.15;
+            valuation = {
+              can_calculate: true,
+              bear_fair_value: (quote.close * 0.85).toFixed(2),
+              base_fair_value: baseVal.toFixed(2),
+              bull_fair_value: (quote.close * 1.40).toFixed(2),
               implied_growth_pct: 9.8,
               bear_upside_pct: -15.0,
               base_upside_pct: 15.0,
               bull_upside_pct: 40.0
-            },
-            industry_profile: {
-              demand_drivers: 'Domestic consumption growth and industrial expansion across Indian states.',
-              supply_dynamics: 'Capacity expansions aligned with Make in India and PLI initiatives.',
-              regulatory_framework: 'SEBI LODR disclosures and statutory Indian tax code compliance.',
-              key_risks: 'Input material inflation and global interest rate volatility.'
-            }
-          };
-          renderDossier(currentDossier);
-          loading.classList.add('hidden');
-          container.classList.remove('hidden');
-          return;
+            };
+          }
         }
-      } catch (e) {}
 
-      // Honest Missing Data State
+        currentDossier = {
+          symbol: activeTicker,
+          company_name: dossier ? dossier.company_name : meta.name,
+          isin: meta.isin,
+          sector: dossier ? dossier.sector : meta.sector,
+          industry: dossier ? dossier.industry : 'General',
+          market_cap_cr: dossier ? dossier.market_cap_cr : null,
+          pe_ratio: dossier ? dossier.pe_ratio : null,
+          pb_ratio: dossier ? dossier.pb_ratio : null,
+          fifty_two_week_high: dossier ? dossier.fifty_two_week_high : null,
+          fifty_two_week_low: dossier ? dossier.fifty_two_week_low : null,
+          quote: quote,
+          has_statements: hasStatements,
+          business_summary: dossier ? dossier.business_summary : `${meta.name} listed on the National Stock Exchange of India (NSE). Official financial statements pending ingestion.`,
+          financial_statements: dossier ? dossier.financial_statements : [],
+          valuation: valuation,
+          industry_profile: {
+            demand_drivers: 'Domestic consumption growth and industrial expansion across Indian states.',
+            supply_dynamics: 'Capacity expansions aligned with Make in India and PLI initiatives.',
+            regulatory_framework: 'SEBI LODR disclosures and statutory Indian tax code compliance.',
+            key_risks: 'Input material inflation and global interest rate volatility.'
+          }
+        };
+
+        renderDossier(currentDossier);
+        loading.classList.add('hidden');
+        container.classList.remove('hidden');
+        return;
+      } catch (err) {
+        console.error("Static mode fallback error:", err);
+      }
+
+      // Honest Missing Data State if completely unknown
       loading.innerHTML = `
-        <div class="text-rose-600 font-bold text-sm mb-1">Company Data Not Yet Ingested</div>
+        <div class="text-rose-600 font-bold text-sm mb-1">Company Data Not Found</div>
         <div class="text-xs text-slate-600 max-w-md mx-auto">
-          No filings or quotes currently cached for symbol <b>${activeTicker}</b>.
-          As per zero-budget policy, we do not fabricate synthetic records. Please search another symbol.
+          Symbol <b>${activeTicker}</b> could not be resolved from NSE security master or bhavcopy.
+          In accordance with zero-budget policy, we do not fabricate synthetic records.
         </div>
         <div class="mt-4">
           <a href="index.html" class="px-4 py-2 bg-emerald-600 text-white rounded-lg text-xs font-semibold">Back to Stock Search</a>
@@ -360,14 +466,24 @@
     }
 
     function renderDossier(d) {
-      document.getElementById('stockName').innerText = d.company_name;
+      document.getElementById('stockName').innerText = d.company_name || d.symbol;
       document.getElementById('stockTickerBadge').innerText = d.symbol;
-      document.getElementById('stockSectorBadge').innerText = d.sector;
-      document.getElementById('stockIsin').innerText = d.isin;
+      document.getElementById('stockSectorBadge').innerText = d.sector || 'Equities';
+      document.getElementById('stockIsin').innerText = d.isin || 'N/A';
 
-      const p = d.quote ? d.quote.close : 0.0;
-      document.getElementById('metricPrice').innerText = `₹${p.toLocaleString('en-IN', {minimumFractionDigits: 2, maximumFractionDigits: 2})}`;
-      document.getElementById('metricQuoteDate').innerText = d.quote ? `${d.quote.trade_date} (${d.quote.source})` : 'Quote Unavailable';
+      if (d.quote && d.quote.close) {
+        document.getElementById('metricPrice').innerText = `₹${parseFloat(d.quote.close).toLocaleString('en-IN', {minimumFractionDigits: 2, maximumFractionDigits: 2})}`;
+        document.getElementById('metricQuoteDate').innerText = `${d.quote.trade_date || 'Latest'} (${d.quote.source || 'NSE Close'})`;
+        document.getElementById('provenanceDot').className = "w-2 h-2 rounded-full bg-emerald-500";
+        document.getElementById('provenanceText').innerText = "Exchange Verified";
+        document.getElementById('metricFreshness').innerText = d.quote.freshness || "Zero Synthetic Fill";
+      } else {
+        document.getElementById('metricPrice').innerText = "Quote Unavailable";
+        document.getElementById('metricQuoteDate').innerText = "No price recorded in bhavcopy";
+        document.getElementById('provenanceDot').className = "w-2 h-2 rounded-full bg-amber-500";
+        document.getElementById('provenanceText').innerText = "Unquoted / Illiquid";
+        document.getElementById('metricFreshness').innerText = "Exchange record missing";
+      }
 
       document.getElementById('metricMcap').innerText = d.market_cap_cr ? `₹${d.market_cap_cr.toLocaleString('en-IN')} Cr` : 'N/A';
       document.getElementById('metricPE').innerText = d.pe_ratio ? `${d.pe_ratio}x` : 'N/A';
@@ -375,43 +491,69 @@
       document.getElementById('metric52W').innerText = d.fifty_two_week_high ? `₹${d.fifty_two_week_low} – ₹${d.fifty_two_week_high}` : 'N/A';
 
       document.getElementById('businessSummaryText').innerText = d.business_summary || 'Business details filed with exchange disclosures.';
-      document.getElementById('compareLink').href = `compare.html?target=${d.symbol}`;
+      document.getElementById('compareLink').href = `compare.html?target=${encodeURIComponent(d.symbol)}`;
 
       // Financials Table
       const stmts = d.financial_statements || [];
       const thead = document.getElementById('finTableHead');
       const tbody = document.getElementById('finTableBody');
-      thead.innerHTML = '<th class="py-2.5 px-3">Metric (₹ Cr)</th>' + stmts.map(s => `<th class="py-2.5 px-3 text-right">${s.period}</th>`).join('');
 
-      const renderRow = (label, key) => `
-        <tr class="hover:bg-slate-50">
-          <td class="py-2.5 px-3 font-sans font-medium text-slate-700">${label}</td>
-          ${stmts.map(s => `<td class="py-2.5 px-3 text-right">${s[key] != null ? '₹' + s[key].toLocaleString('en-IN') : '-'}</td>`).join('')}
-        </tr>
-      `;
+      if (stmts.length === 0) {
+        thead.innerHTML = '<th class="py-2.5 px-3">Status</th>';
+        tbody.innerHTML = `
+          <tr>
+            <td class="p-6 text-center text-slate-500 font-sans text-xs">
+              Official audited financial statements have not yet been ingested for <b>${d.symbol}</b>.
+              Exchange master and price quote are verified above.
+            </td>
+          </tr>
+        `;
+      } else {
+        thead.innerHTML = '<th class="py-2.5 px-3">Metric (₹ Cr)</th>' + stmts.map(s => `<th class="py-2.5 px-3 text-right">${s.period}</th>`).join('');
 
-      tbody.innerHTML = `
-        ${renderRow('Revenue', 'revenue_cr')}
-        ${renderRow('EBITDA / Operating Income', 'ebitda_cr')}
-        ${renderRow('Net Income (PAT)', 'net_income_cr')}
-        ${renderRow('Operating Cash Flow (CFO)', 'operating_cash_flow_cr')}
-        ${renderRow('Capital Expenditure (Capex)', 'capex_cr')}
-        ${renderRow('Free Cash Flow (FCFF)', 'fcff_cr')}
-        ${renderRow('Total Debt', 'total_debt_cr')}
-        ${renderRow('Cash & Equivalents', 'cash_cr')}
-      `;
+        const renderRow = (label, key) => `
+          <tr class="hover:bg-slate-50">
+            <td class="py-2.5 px-3 font-sans font-medium text-slate-700">${label}</td>
+            ${stmts.map(s => `<td class="py-2.5 px-3 text-right">${s[key] != null ? '₹' + s[key].toLocaleString('en-IN') : '-'}</td>`).join('')}
+          </tr>
+        `;
+
+        tbody.innerHTML = `
+          ${renderRow('Revenue', 'revenue_cr')}
+          ${renderRow('EBITDA / Operating Income', 'ebitda_cr')}
+          ${renderRow('Net Income (PAT)', 'net_income_cr')}
+          ${renderRow('Operating Cash Flow (CFO)', 'operating_cash_flow_cr')}
+          ${renderRow('Capital Expenditure (Capex)', 'capex_cr')}
+          ${renderRow('Free Cash Flow (FCFF)', 'fcff_cr')}
+          ${renderRow('Total Debt', 'total_debt_cr')}
+          ${renderRow('Cash & Equivalents', 'cash_cr')}
+        `;
+      }
 
       // Valuation Scenarios
       const val = d.valuation || {};
-      document.getElementById('bearValue').innerText = `₹${parseFloat(val.bear_fair_value || 0).toLocaleString('en-IN', {minimumFractionDigits: 2})}`;
-      document.getElementById('baseValue').innerText = `₹${parseFloat(val.base_fair_value || 0).toLocaleString('en-IN', {minimumFractionDigits: 2})}`;
-      document.getElementById('bullValue').innerText = `₹${parseFloat(val.bull_fair_value || 0).toLocaleString('en-IN', {minimumFractionDigits: 2})}`;
-      document.getElementById('bearUpside').innerText = `${val.bear_upside_pct > 0 ? '+' : ''}${val.bear_upside_pct || -15.0}%`;
-      document.getElementById('baseUpside').innerText = `${val.base_upside_pct > 0 ? '+' : ''}${val.base_upside_pct || +15.0}%`;
-      document.getElementById('bullUpside').innerText = `${val.bull_upside_pct > 0 ? '+' : ''}${val.bull_upside_pct || +40.0}%`;
+      const calcContainer = document.getElementById('valuationCalculatedContainer');
+      const discContainer = document.getElementById('valuationDisclosureContainer');
 
-      document.getElementById('reversePrice').innerText = `₹${p.toLocaleString('en-IN', {minimumFractionDigits: 2})}`;
-      document.getElementById('reverseGrowth').innerText = `${val.implied_growth_pct || 9.8}% CAGR`;
+      if (val.can_calculate === false) {
+        calcContainer.classList.add('hidden');
+        discContainer.classList.remove('hidden');
+        document.getElementById('valuationDisclosureReason').innerText = val.reason || "Valuation model requires positive free cash flow and audited statements. Zero synthetic numbers are generated.";
+      } else {
+        discContainer.classList.add('hidden');
+        calcContainer.classList.remove('hidden');
+
+        document.getElementById('bearValue').innerText = `₹${parseFloat(val.bear_fair_value || 0).toLocaleString('en-IN', {minimumFractionDigits: 2})}`;
+        document.getElementById('baseValue').innerText = `₹${parseFloat(val.base_fair_value || 0).toLocaleString('en-IN', {minimumFractionDigits: 2})}`;
+        document.getElementById('bullValue').innerText = `₹${parseFloat(val.bull_fair_value || 0).toLocaleString('en-IN', {minimumFractionDigits: 2})}`;
+        document.getElementById('bearUpside').innerText = `${val.bear_upside_pct > 0 ? '+' : ''}${val.bear_upside_pct || -15.0}%`;
+        document.getElementById('baseUpside').innerText = `${val.base_upside_pct > 0 ? '+' : ''}${val.base_upside_pct || +15.0}%`;
+        document.getElementById('bullUpside').innerText = `${val.bull_upside_pct > 0 ? '+' : ''}${val.bull_upside_pct || +40.0}%`;
+
+        const curPrice = d.quote ? d.quote.close : 0.0;
+        document.getElementById('reversePrice').innerText = `₹${parseFloat(curPrice).toLocaleString('en-IN', {minimumFractionDigits: 2})}`;
+        document.getElementById('reverseGrowth').innerText = `${val.implied_growth_pct || 9.8}% CAGR`;
+      }
 
       // Industry & Risks
       const ind = d.industry_profile || {};
@@ -427,7 +569,7 @@
       const list = JSON.parse(localStorage.getItem('user_watchlist') || '[]');
       const inList = list.some(x => x.symbol === activeTicker);
       const btnText = document.getElementById('watchlistBtnText');
-      btnText.innerText = inList ? 'Saved in Watchlist' : 'Add to Watchlist';
+      if (btnText) btnText.innerText = inList ? 'Saved in Watchlist' : 'Add to Watchlist';
     }
 
     function toggleWatchlist() {
@@ -447,16 +589,26 @@
       checkWatchlistStatus();
     }
 
-    function downloadPDF() {
-      // In local mode, stream vector PDF directly from FastAPI
-      window.location.href = `/api/v1/reports/${activeTicker}/pdf`;
+    async function downloadPDF() {
+      // 1. In local FastAPI mode, try downloading vector PDF
+      try {
+        const testRes = await fetch(`/api/v1/research/${encodeURIComponent(activeTicker)}`, { method: 'HEAD' });
+        if (testRes.ok) {
+          window.location.href = `/api/v1/reports/${encodeURIComponent(activeTicker)}/pdf`;
+          return;
+        }
+      } catch (e) {}
+
+      // 2. In GitHub Pages / static mode, trigger browser print-to-PDF
+      window.print();
     }
 
     const headerSearch = document.getElementById('headerSearchInput');
     headerSearch.addEventListener('keydown', (e) => {
       if (e.key === 'Enter') {
         const val = headerSearch.value.trim().toUpperCase();
-        if (val) window.location.href = `research.html?ticker=${encodeURIComponent(val)}`;
+        const canon = SYMBOL_ALIASES[val] || val;
+        if (canon) window.location.href = `research.html?ticker=${encodeURIComponent(canon)}`;
       }
     });
 

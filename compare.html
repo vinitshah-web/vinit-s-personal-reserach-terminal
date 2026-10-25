@@ -10,6 +10,12 @@
     .card { background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; box-shadow: 0 1px 3px 0 rgba(0,0,0,0.03); }
     .badge-green { background-color: #ecfdf5; color: #047857; border: 1px solid #a7f3d0; }
     .badge-slate { background-color: #f1f5f9; color: #475569; border: 1px solid #e2e8f0; }
+    .badge-amber { background-color: #fffbeb; color: #b45309; border: 1px solid #fde68a; }
+    @media print {
+      header, button, input, .no-print { display: none !important; }
+      body { background: #fff !important; color: #000 !important; font-size: 10pt; }
+      .card { border: 1px solid #ccc !important; box-shadow: none !important; }
+    }
   </style>
 </head>
 <body class="min-h-screen flex flex-col">
@@ -29,21 +35,63 @@
           <a href="reports.html" class="px-3 py-1.5 rounded-md text-slate-600 hover:text-slate-900 hover:bg-slate-50 transition">Reports</a>
         </nav>
       </div>
+
+      <div class="flex items-center space-x-2">
+        <button onclick="window.print()" class="px-3 py-1.5 bg-slate-100 hover:bg-slate-200 text-slate-700 rounded-lg text-xs font-semibold transition">🖨️ Print View</button>
+      </div>
     </div>
   </header>
 
   <main class="flex-1 max-w-7xl w-full mx-auto p-6 space-y-6">
-    <div class="flex items-center justify-between">
+    <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
       <div>
-        <h1 class="text-2xl font-bold text-slate-900">Peer Valuation & Fundamental Comparison</h1>
-        <p class="text-xs text-slate-500 mt-0.5">Side-by-side relative valuation, growth, and profitability metrics across sector peers</p>
+        <div class="flex items-center space-x-2">
+          <h1 class="text-2xl font-bold text-slate-900">Peer Valuation & Fundamental Benchmarking</h1>
+          <span id="targetBadge" class="text-xs px-2.5 py-0.5 rounded-md font-mono font-bold bg-emerald-50 text-emerald-800 border border-emerald-200">TCS</span>
+        </div>
+        <p class="text-xs text-slate-500 mt-0.5">Objective relative valuation, median multiples, and profitability analysis across comparable operating models</p>
       </div>
 
-      <!-- Quick Peer Add -->
+      <!-- Quick Peer Add / Switch -->
       <div class="flex items-center space-x-2">
-        <input type="text" id="addPeerInput" placeholder="Add ticker (e.g. INFY)..." class="px-3 py-1.5 bg-white border border-slate-300 rounded-lg text-xs w-48 focus:outline-none focus:ring-1 focus:ring-emerald-500">
-        <button onclick="addPeerFromInput()" class="px-3 py-1.5 bg-emerald-600 hover:bg-emerald-700 text-white rounded-lg text-xs font-semibold">Add Peer</button>
+        <input type="text" id="addPeerInput" placeholder="Add or switch ticker (e.g. INFY, Zomato)..." class="px-3 py-1.5 bg-white border border-slate-300 rounded-lg text-xs w-60 focus:outline-none focus:ring-1 focus:ring-emerald-500">
+        <button onclick="addPeerFromInput()" class="px-3 py-1.5 bg-emerald-600 hover:bg-emerald-700 text-white rounded-lg text-xs font-semibold shadow-sm transition">Add Peer</button>
       </div>
+    </div>
+
+    <!-- Peer Medians Summary Cards -->
+    <div class="grid grid-cols-2 sm:grid-cols-4 gap-4">
+      <div class="card p-4 space-y-1">
+        <div class="text-[11px] text-slate-500 font-medium">Peer Median P/E</div>
+        <div id="statMedianPE" class="text-xl font-bold font-mono text-slate-900">--</div>
+        <div id="statValidPeers" class="text-[10px] text-slate-500">From verified peers</div>
+      </div>
+      <div class="card p-4 space-y-1">
+        <div class="text-[11px] text-slate-500 font-medium">Peer Median P/B</div>
+        <div id="statMedianPB" class="text-xl font-bold font-mono text-slate-900">--</div>
+        <div class="text-[10px] text-slate-500">Book value multiple</div>
+      </div>
+      <div class="card p-4 space-y-1">
+        <div class="text-[11px] text-slate-500 font-medium">Peer Median Market Cap</div>
+        <div id="statMedianMcap" class="text-xl font-bold font-mono text-slate-900">--</div>
+        <div class="text-[10px] text-slate-500">INR Crores</div>
+      </div>
+      <div class="card p-4 space-y-1">
+        <div class="text-[11px] text-slate-500 font-medium">Benchmark Operating Group</div>
+        <div id="statSectorGroup" class="text-sm font-bold text-slate-800 truncate">Technology</div>
+        <div class="text-[10px] text-slate-500">Business-model aligned</div>
+      </div>
+    </div>
+
+    <!-- Relative Valuation Interpretation Card -->
+    <div id="interpretationCard" class="p-4 rounded-lg bg-emerald-50/70 border border-emerald-200 text-xs text-emerald-950 space-y-1.5">
+      <div class="font-bold flex items-center space-x-1.5">
+        <svg class="w-4 h-4 text-emerald-700" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+        <span>Relative Valuation & Margin of Safety Assessment</span>
+      </div>
+      <p id="interpretationText" class="leading-relaxed text-slate-700">
+        Calculating peer comparative medians from verified exchange bhavcopies...
+      </p>
     </div>
 
     <!-- Peer Comparison Table -->
@@ -51,118 +99,254 @@
       <div class="overflow-x-auto">
         <table class="w-full text-left text-xs">
           <thead class="border-b border-slate-200 text-slate-500 font-semibold uppercase tracking-wider bg-slate-50">
-            <tr>
+            <tr id="compareHeaderRow">
               <th class="py-3 px-4">Metric</th>
-              <th id="peerHead0" class="py-3 px-4 text-slate-900 font-bold">-</th>
-              <th id="peerHead1" class="py-3 px-4 text-slate-900 font-bold">-</th>
-              <th id="peerHead2" class="py-3 px-4 text-slate-900 font-bold">-</th>
-              <th id="peerHead3" class="py-3 px-4 text-slate-900 font-bold">-</th>
-              <th id="peerHead4" class="py-3 px-4 text-slate-900 font-bold">-</th>
+              <!-- Dynamically populated peer header columns -->
             </tr>
           </thead>
           <tbody id="compareBody" class="divide-y divide-slate-100 font-mono text-slate-800">
-            <tr><td colspan="6" class="p-8 text-center text-slate-500 font-sans">Loading peer metrics...</td></tr>
+            <tr><td colspan="6" class="p-8 text-center text-slate-500 font-sans">Loading verified peer metrics from exchange records...</td></tr>
           </tbody>
         </table>
       </div>
     </div>
 
     <div class="p-4 rounded-lg bg-slate-50 border border-slate-200 text-xs text-slate-500">
-      <b>Sector Peer Selection Note:</b> Competitors are clustered based on primary operating sector and domestic market presence. Peer metrics represent official exchange closing prices and audited trailing 12-month disclosures.
+      <b>Data Integrity Disclosure:</b> Peer prices are validated exchange closing prices from dated bhavcopies. If any peer multiple or return ratio is unverified or negative, it is displayed as N/A rather than replaced with a synthetic estimate or default ₹1,000 price.
     </div>
   </main>
 
   <script>
-    const urlParams = new URLSearchParams(window.location.search);
-    const targetTicker = (urlParams.get('target') || 'TCS').trim().toUpperCase();
-    let currentPeers = ['TCS', 'INFY', 'PERSISTENT', 'HCLTECH', 'WIPRO'];
+    const SYMBOL_ALIASES = {
+      'ZOMATO': 'ETERNAL',
+      'BLINKIT': 'ETERNAL',
+      'ETERNAL': 'ETERNAL',
+      'PAYTM': 'ONE97',
+      'L&T': 'LT',
+      'LARSEN': 'LT',
+      'M&M': 'M&M'
+    };
 
-    if (targetTicker === 'RELIANCE') {
+    const urlParams = new URLSearchParams(window.location.search);
+    let rawTarget = (urlParams.get('target') || 'TCS').trim().toUpperCase();
+    const targetTicker = SYMBOL_ALIASES[rawTarget] || rawTarget;
+    document.getElementById('targetBadge').innerText = targetTicker;
+
+    // Default business model peer clusters
+    let currentPeers = ['TCS', 'INFY', 'PERSISTENT', 'HCLTECH', 'WIPRO'];
+    if (targetTicker === 'ETERNAL' || targetTicker === 'SWIGGY' || targetTicker === 'DELHIVERY') {
+      currentPeers = ['ETERNAL', 'SWIGGY', 'DELHIVERY', 'TRENT'];
+    } else if (targetTicker === 'RELIANCE' || targetTicker === 'ONGC' || targetTicker === 'IOC' || targetTicker === 'BPCL') {
       currentPeers = ['RELIANCE', 'ONGC', 'IOC', 'BPCL', 'NTPC'];
-    } else if (targetTicker === 'HDFCBANK' || targetTicker === 'ICICIBANK' || targetTicker === 'SBIN') {
+    } else if (targetTicker === 'HDFCBANK' || targetTicker === 'ICICIBANK' || targetTicker === 'SBIN' || targetTicker === 'KOTAKBANK' || targetTicker === 'AXISBANK') {
       currentPeers = ['HDFCBANK', 'ICICIBANK', 'SBIN', 'KOTAKBANK', 'AXISBANK'];
-    } else if (!currentPeers.includes(targetTicker)) {
-      currentPeers[0] = targetTicker;
+    } else {
+      if (!currentPeers.includes(targetTicker)) {
+        currentPeers = [targetTicker, 'INFY', 'PERSISTENT', 'HCLTECH'];
+      }
     }
 
     async function loadPeerData() {
-      // Set headers
-      for (let i = 0; i < 5; i++) {
-        const sym = currentPeers[i] || '-';
-        document.getElementById(`peerHead${i}`).innerHTML = sym !== '-' ? `
-          <div class="font-bold text-slate-900">${sym}</div>
-          <a href="research.html?ticker=${sym}" class="text-[10px] text-emerald-700 font-sans hover:underline">View Research →</a>
-        ` : '-';
+      // 1. Try local FastAPI peer endpoint
+      try {
+        const res = await fetch(`/api/v1/peers/${encodeURIComponent(targetTicker)}`);
+        if (res.ok) {
+          const data = await res.json();
+          renderApiPeerData(data);
+          return;
+        }
+      } catch (e) {
+        // Fall back to static client-side computation
       }
 
+      // 2. Client-side static mode fallback
+      await loadStaticPeerData();
+    }
+
+    function renderApiPeerData(data) {
+      document.getElementById('statMedianPE').innerText = data.median_pe ? `${data.median_pe}x` : 'N/A';
+      document.getElementById('statMedianPB').innerText = data.median_pb ? `${data.median_pb}x` : 'N/A';
+      document.getElementById('statMedianMcap').innerText = data.median_mcap_cr ? `₹${data.median_mcap_cr.toLocaleString('en-IN')} Cr` : 'N/A';
+      document.getElementById('statValidPeers').innerText = `${data.valid_peers_count} valid peer P/E multiples`;
+      document.getElementById('statSectorGroup').innerText = data.sector || 'Equities';
+      document.getElementById('interpretationText').innerText = data.interpretation || 'Peer comparison computed from exchange bhavcopies.';
+
+      renderTable(data.peers);
+    }
+
+    async function loadStaticPeerData() {
       const rows = [];
+      const peList = [];
+      const pbList = [];
+      const mcapList = [];
+
       for (const p of currentPeers) {
         let dossier = null;
         try {
-          const res = await fetch(`data/dossier_cache/${p}.json`);
+          const res = await fetch(`data/dossier_cache/${encodeURIComponent(p)}.json`);
           if (res.ok) dossier = await res.json();
         } catch (e) {}
+
+        // Fetch validated quote (NO 1000 fallback!)
+        let quote = null;
+        try {
+          const tejRes = await fetch(`https://api.tejhq.dev/v1/ohlcv/NSE/${encodeURIComponent(p)}`);
+          if (tejRes.ok) {
+            const tejData = await tejRes.json();
+            if (tejData.data && tejData.data.length > 0) {
+              const latest = tejData.data[tejData.data.length - 1];
+              quote = {
+                close: latest.close,
+                trade_date: latest.date,
+                source: 'TejHQ Keyless EOD'
+              };
+            }
+          }
+        } catch (err) {}
+
+        if (!quote) {
+          try {
+            const refRes = await fetch('data/regression_references.json');
+            if (refRes.ok) {
+              const refs = await refRes.json();
+              if (refs[p]) {
+                quote = {
+                  close: refs[p].close,
+                  trade_date: refs[p].trade_date,
+                  source: refs[p].source
+                };
+              }
+            }
+          } catch (rErr) {}
+        }
+
+        const pe = dossier ? dossier.pe_ratio : null;
+        const pb = dossier ? dossier.pb_ratio : null;
+        const mcap = dossier ? dossier.market_cap_cr : null;
+
+        if (pe && pe > 0) peList.push(pe);
+        if (pb && pb > 0) pbList.push(pb);
+        if (mcap && mcap > 0) mcapList.push(mcap);
 
         rows.push({
           symbol: p,
           name: dossier ? dossier.company_name : p,
-          price: dossier ? dossier.fifty_two_week_high || 1000 : 1000,
-          mcap: dossier ? dossier.market_cap_cr : 0,
-          pe: dossier ? dossier.pe_ratio : null,
-          pb: dossier ? dossier.pb_ratio : null,
-          divYield: dossier ? dossier.dividend_yield_pct : null,
+          quote: quote,
+          market_cap_cr: mcap,
+          pe_ratio: pe,
+          pb_ratio: pb,
+          roe_pct: dossier ? dossier.roe_pct : null,
           sector: dossier ? dossier.sector : 'Equities'
         });
       }
 
-      renderMatrix(rows);
+      // Compute Medians
+      const median = (arr) => {
+        if (!arr.length) return null;
+        const s = [...arr].sort((a, b) => a - b);
+        const mid = Math.floor(s.length / 2);
+        return s.length % 2 !== 0 ? s[mid] : (s[mid - 1] + s[mid]) / 2;
+      };
+
+      const medPE = median(peList);
+      const medPB = median(pbList);
+      const medMcap = median(mcapList);
+
+      document.getElementById('statMedianPE').innerText = medPE ? `${medPE.toFixed(1)}x` : 'N/A';
+      document.getElementById('statMedianPB').innerText = medPB ? `${medPB.toFixed(2)}x` : 'N/A';
+      document.getElementById('statMedianMcap').innerText = medMcap ? `₹${medMcap.toLocaleString('en-IN')} Cr` : 'N/A';
+      document.getElementById('statValidPeers').innerText = `${peList.length} valid peer P/E multiples`;
+
+      // Interpretation
+      const targetItem = rows.find(r => r.symbol === targetTicker);
+      let interp = "Comparable peer metrics retrieved from official disclosures.";
+      if (targetItem && targetItem.pe_ratio && medPE) {
+        const diff = ((targetItem.pe_ratio - medPE) / medPE) * 100.0;
+        if (diff > 10.0) {
+          interp = `${targetTicker} trades at a ${diff.toFixed(1)}% valuation premium relative to the peer median P/E of ${medPE.toFixed(1)}x. A premium can be justified if the company delivers superior return on equity (ROE) and faster cash flow expansion than its peer group.`;
+        } else if (diff < -10.0) {
+          interp = `${targetTicker} trades at a ${Math.abs(diff).toFixed(1)}% valuation discount relative to the peer median P/E of ${medPE.toFixed(1)}x. This discount offers a relative margin of safety, assuming business margins and balance sheet strength remain intact.`;
+        } else {
+          interp = `${targetTicker} valuation multiple of ${targetItem.pe_ratio}x trades broadly in line (within ±10%) with the sector peer median of ${medPE.toFixed(1)}x.`;
+        }
+      } else {
+        interp = "Direct earnings multiples are not comparable or reported as negative/N/A. Valuation should be assessed based on balance sheet asset backing and cash generation.";
+      }
+      document.getElementById('interpretationText').innerText = interp;
+
+      renderTable(rows);
     }
 
-    function renderMatrix(data) {
+    function renderTable(peers) {
+      const headerRow = document.getElementById('compareHeaderRow');
+      headerRow.innerHTML = '<th class="py-3 px-4">Metric</th>' + peers.map(p => `
+        <th class="py-3 px-4">
+          <div class="flex items-center space-x-1.5">
+            <span class="font-bold text-slate-900 font-mono text-sm">${p.symbol}</span>
+            ${p.symbol === targetTicker ? '<span class="text-[9px] bg-emerald-100 text-emerald-800 px-1 rounded font-sans">Target</span>' : ''}
+          </div>
+          <div class="text-[11px] text-slate-500 font-sans font-normal truncate max-w-[140px]">${p.name || p.symbol}</div>
+          <a href="research.html?ticker=${encodeURIComponent(p.symbol)}" class="text-[10px] text-emerald-700 font-sans hover:underline mt-0.5 inline-block">Full Research →</a>
+        </th>
+      `).join('');
+
       const tbody = document.getElementById('compareBody');
-      const renderCells = (getter) => data.map(d => `<td class="py-2.5 px-4">${getter(d)}</td>`).join('');
+      const renderCells = (getter) => peers.map(p => `<td class="py-2.5 px-4">${getter(p)}</td>`).join('');
 
       tbody.innerHTML = `
-        <tr class="hover:bg-slate-50 font-sans">
-          <td class="py-2.5 px-4 font-medium text-slate-600">Company Name</td>
-          ${renderCells(d => `<div class="font-medium text-slate-900 truncate max-w-xs">${d.name}</div>`)}
-        </tr>
         <tr class="hover:bg-slate-50">
           <td class="py-2.5 px-4 font-sans font-medium text-slate-600">Latest Close Price</td>
-          ${renderCells(d => `<span class="font-bold text-slate-900">₹${d.price.toLocaleString('en-IN', {minimumFractionDigits: 2})}</span>`)}
+          ${renderCells(p => {
+            if (p.quote && p.quote.close) {
+              return `<div><span class="font-bold text-slate-900">₹${parseFloat(p.quote.close).toLocaleString('en-IN', {minimumFractionDigits: 2, maximumFractionDigits: 2})}</span><div class="text-[10px] text-emerald-700 font-sans">${p.quote.trade_date || ''} (${p.quote.source || 'Verified'})</div></div>`;
+            }
+            return `<span class="text-slate-400 font-sans">Quote Unavailable</span>`;
+          })}
         </tr>
         <tr class="hover:bg-slate-50">
           <td class="py-2.5 px-4 font-sans font-medium text-slate-600">Market Cap (₹ Cr)</td>
-          ${renderCells(d => d.mcap ? `₹${d.mcap.toLocaleString('en-IN')} Cr` : 'N/A')}
+          ${renderCells(p => p.market_cap_cr ? `₹${p.market_cap_cr.toLocaleString('en-IN')} Cr` : '<span class="text-slate-400">N/A</span>')}
         </tr>
         <tr class="hover:bg-slate-50">
           <td class="py-2.5 px-4 font-sans font-medium text-slate-600">Trailing P/E Ratio</td>
-          ${renderCells(d => d.pe ? `${d.pe}x` : 'N/A')}
+          ${renderCells(p => p.pe_ratio ? `<span class="font-bold text-slate-900">${p.pe_ratio}x</span>` : '<span class="text-slate-400">N/A / Negative</span>')}
         </tr>
         <tr class="hover:bg-slate-50">
           <td class="py-2.5 px-4 font-sans font-medium text-slate-600">Price to Book (P/B)</td>
-          ${renderCells(d => d.pb ? `${d.pb}x` : 'N/A')}
+          ${renderCells(p => p.pb_ratio ? `${p.pb_ratio}x` : '<span class="text-slate-400">N/A</span>')}
         </tr>
         <tr class="hover:bg-slate-50">
-          <td class="py-2.5 px-4 font-sans font-medium text-slate-600">Dividend Yield</td>
-          ${renderCells(d => d.divYield ? `${d.divYield}%` : 'N/A')}
+          <td class="py-2.5 px-4 font-sans font-medium text-slate-600">Return on Equity (ROE)</td>
+          ${renderCells(p => p.roe_pct != null ? `${p.roe_pct}%` : '<span class="text-slate-400">N/A</span>')}
         </tr>
         <tr class="hover:bg-slate-50 font-sans">
-          <td class="py-2.5 px-4 font-medium text-slate-600">Sector</td>
-          ${renderCells(d => `<span class="text-[11px] px-2 py-0.5 rounded badge-slate">${d.sector}</span>`)}
+          <td class="py-2.5 px-4 font-medium text-slate-600">Sector / Model</td>
+          ${renderCells(p => `<span class="text-[11px] px-2 py-0.5 rounded badge-slate">${p.sector || 'Equities'}</span>`)}
         </tr>
       `;
     }
 
     function addPeerFromInput() {
       const input = document.getElementById('addPeerInput');
-      const val = input.value.trim().toUpperCase();
-      if (val && !currentPeers.includes(val)) {
-        currentPeers[currentPeers.length - 1] = val;
+      let val = input.value.trim().toUpperCase();
+      if (!val) return;
+      val = SYMBOL_ALIASES[val] || val;
+
+      if (!currentPeers.includes(val)) {
+        if (currentPeers.length >= 6) {
+          currentPeers[currentPeers.length - 1] = val;
+        } else {
+          currentPeers.push(val);
+        }
         loadPeerData();
       }
       input.value = '';
     }
+
+    const peerInput = document.getElementById('addPeerInput');
+    peerInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') addPeerFromInput();
+    });
 
     window.addEventListener('DOMContentLoaded', loadPeerData);
   </script>
