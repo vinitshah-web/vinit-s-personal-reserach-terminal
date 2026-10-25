@@ -42,6 +42,36 @@ class PointInTimeUniverse:
         )
         return query.all()
 
+    def get_index_constituents(
+        self,
+        index_name: str,
+        as_of_date: date,
+        allowed_series: List[str] = None
+    ) -> List[str]:
+        """
+        Point-in-Time Index Constituents retriever.
+        Returns list of ISINs that were active members of `index_name` on `as_of_date`.
+        Prevents lookahead and survivorship bias:
+        - Must have inclusion_date <= as_of_date
+        - Must NOT have exclusion_date <= as_of_date
+        - Filters out non-equity series if allowed_series is specified.
+        """
+        if allowed_series is None:
+            allowed_series = ["EQ", "BE"]
+
+        query = self.session.query(IndexConstituent.isin).join(
+            Security, IndexConstituent.isin == Security.isin
+        ).filter(
+            IndexConstituent.index_name == index_name,
+            IndexConstituent.inclusion_date <= as_of_date,
+            or_(
+                IndexConstituent.exclusion_date.is_(None),
+                IndexConstituent.exclusion_date > as_of_date
+            ),
+            Security.series.in_(allowed_series)
+        )
+        return [row[0] for row in query.all()]
+
     def get_point_in_time_financials(
         self,
         isin: str,

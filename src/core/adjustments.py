@@ -2,31 +2,53 @@
 Preserves raw prices immutable and derives split/bonus/rights adjusted price and volume series.
 """
 from datetime import date
-from typing import Dict, List, Tuple
+from typing import Dict, List, Tuple, Union, Any
 import pandas as pd
 
 
 class PriceAdjustmentEngine:
     def calculate_adjusted_series(
         self,
-        raw_prices: List[Dict[str, any]],
-        corporate_actions: List[Dict[str, any]]
+        raw_prices: Union[List[Dict[str, Any]], pd.DataFrame],
+        corporate_actions: Union[List[Dict[str, Any]], pd.DataFrame]
     ) -> pd.DataFrame:
         """
-        Given a list of daily raw prices and corporate action records:
+        Given daily raw prices and corporate action records:
         Applies backward cumulative adjustment factor F(t) = Product(f_i for ex_date_i > t).
         Returns DataFrame with ['trade_date', 'close_raw', 'volume_raw', 'adj_factor', 'close_adj', 'volume_adj'].
         """
-        if not raw_prices:
-            return pd.DataFrame()
+        if isinstance(raw_prices, pd.DataFrame):
+            if raw_prices.empty:
+                return pd.DataFrame()
+            df = raw_prices.copy().sort_values("trade_date").reset_index(drop=True)
+        else:
+            if not raw_prices:
+                return pd.DataFrame()
+            df = pd.DataFrame(raw_prices).sort_values("trade_date").reset_index(drop=True)
 
-        df = pd.DataFrame(raw_prices).sort_values("trade_date").reset_index(drop=True)
-        
+        if isinstance(corporate_actions, pd.DataFrame):
+            ca_list = corporate_actions.to_dict("records")
+        else:
+            ca_list = list(corporate_actions)
+
         # Filter actions that adjust prices: split, bonus, rights
-        price_actions = [
-            ca for ca in corporate_actions
-            if ca["action_type"] in ("split", "bonus", "rights") and ca.get("adj_factor") is not None
-        ]
+        price_actions = []
+        for ca in ca_list:
+            act_type = str(ca.get("action_type", "")).lower()
+            if act_type in ("split", "bonus", "rights"):
+                factor = ca.get("adj_factor")
+                if factor is None:
+                    num = ca.get("ratio_num") if ca.get("ratio_num") is not None else ca.get("ratio_numerator")
+                    den = ca.get("ratio_den") if ca.get("ratio_den") is not None else ca.get("ratio_denominator")
+                    if act_type == "split" and num and den:
+                        factor = float(den) / float(num)
+                    elif act_type == "bonus" and num and den:
+                        factor = float(den) / float(den + num)
+                if factor is not None:
+                    ca_copy = dict(ca)
+                    ca_copy["adj_factor"] = factor
+                    price_actions.append(ca_copy)
+
         price_actions.sort(key=lambda x: x["ex_date"])
 
         # Calculate cumulative factor for each date

@@ -171,3 +171,39 @@ class IndexConstituent(Base):
     exclusion_date: Mapped[Optional[date]] = mapped_column(Date)
     weight: Mapped[Optional[float]] = mapped_column(Float)
     source_url: Mapped[Optional[str]] = mapped_column(Text)
+
+
+class IndexPrice(Base):
+    __tablename__ = "index_price"
+
+    index_name: Mapped[str] = mapped_column(String(50), primary_key=True)
+    trade_date: Mapped[date] = mapped_column(Date, primary_key=True)
+    open: Mapped[Optional[float]] = mapped_column(Float)
+    high: Mapped[Optional[float]] = mapped_column(Float)
+    low: Mapped[Optional[float]] = mapped_column(Float)
+    close: Mapped[float] = mapped_column(Float, nullable=False)
+    volume: Mapped[Optional[int]] = mapped_column(BigInteger)
+    turnover_cr: Mapped[Optional[float]] = mapped_column(Float)
+    created_at: Mapped[datetime] = mapped_column(DateTime, default=_utc_now)
+
+
+class GovernanceEvent(Base):
+    __tablename__ = "governance_event"
+
+    id: Mapped[int] = mapped_column(Integer, primary_key=True, autoincrement=True)
+    isin: Mapped[str] = mapped_column(String(12), ForeignKey("security.isin"), nullable=False)
+    event_date: Mapped[date] = mapped_column(Date, nullable=False)
+    event_type: Mapped[str] = mapped_column(String(50), nullable=False)  # AUDITOR_RESIGNATION, PROMOTER_PLEDGE, BULK_DEAL, EARNINGS
+    title: Mapped[str] = mapped_column(String(200), nullable=False)
+    description: Mapped[Optional[str]] = mapped_column(Text)
+    severity: Mapped[str] = mapped_column(String(20), default="INFO")  # INFO, MEDIUM, HIGH, CRITICAL
+    metric_value: Mapped[Optional[float]] = mapped_column(Float)  # e.g. pledge % or deal value
+    source_url: Mapped[str] = mapped_column(Text, nullable=False)
+    published_at: Mapped[datetime] = mapped_column(DateTime, nullable=False)
+    ingested_at: Mapped[datetime] = mapped_column(DateTime, default=_utc_now)
+
+    __table_args__ = (
+        Index("idx_gov_event_isin_date", "isin", "event_date"),
+    )
+
+

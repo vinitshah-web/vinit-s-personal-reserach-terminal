@@ -187,3 +187,38 @@ class ValuationEngine:
             "equity_value": round(equity_value, 2),
             "implied_per_share": per_share
         }
+
+    @staticmethod
+    def calculate_capm_cost_of_equity(
+        risk_free_rate: float,
+        beta: float,
+        equity_risk_premium: float
+    ) -> float:
+        """
+        Calculates Cost of Equity via CAPM:
+        K_e = R_f + beta * ERP
+        """
+        if risk_free_rate < 0:
+            raise ValuationModelError("Risk-free rate cannot be negative.")
+        if equity_risk_premium <= 0:
+            raise ValuationModelError("Equity risk premium must be positive.")
+        return round(risk_free_rate + (beta * equity_risk_premium), 6)
+
+    @staticmethod
+    def calculate_wacc(
+        cost_of_equity: float,
+        cost_of_debt: float,
+        marginal_tax_rate: float,
+        weight_equity: float,
+        weight_debt: float
+    ) -> float:
+        """
+        Calculates Weighted Average Cost of Capital (WACC):
+        WACC = (W_e * K_e) + (W_d * K_d * (1 - t))
+        """
+        total_weight = weight_equity + weight_debt
+        if abs(total_weight - 1.0) > 1e-4:
+            raise ValuationModelError(f"Capital weights must sum to 1.0, got {total_weight}")
+        after_tax_cost_of_debt = cost_of_debt * (1.0 - marginal_tax_rate)
+        return round((weight_equity * cost_of_equity) + (weight_debt * after_tax_cost_of_debt), 6)
+
