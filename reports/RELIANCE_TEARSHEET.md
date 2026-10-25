@@ -10,8 +10,8 @@
 - **ISIN:** `INE002A01018`
 - **Sector / Industry:** Energy & Retail & Digital
 - **Classification:** Non-Financial Corporate
-- **Latest Close:** ₹2,750.00
-- **Report Date:** 2026-10-25 06:20:04 UTC
+- **Latest Close:** ₹1,190.00
+- **Report Date:** 2026-10-25 07:47:36 UTC
 
 ---
 
@@ -35,7 +35,7 @@
 ## 3. Quantitative Valuation & Implied Growth (Reverse DCF)
 - **Model:** Damodaran Free Cash Flow to Firm (FCFF) Unrounded Discounting
 - **Calculated Enterprise Value:** ₹2,150,000.00 Cr
-- **Model Fair Value Per Share:** ₹3,120.00
+- **Model Fair Value Per Share:** ₹1,350.11
 - **Assumed WACC:** 11.50% | **Terminal Growth:** 4.50%
 - **Reverse DCF Implied Growth:** **9.40%**
   *(Market price currently prices in 9.40% discrete 5-year FCFF CAGR)*
@@ -47,9 +47,9 @@
 
 | Scenario Percentile | Projected 1-Yr Price | Implied Return |
 | :--- | :--- | :--- |
-| **5th Percentile (Severe Bear)** | ₹2,240.00 | -18.5% |
-| **50th Percentile (Median Base)** | ₹2,980.00 | +8.4% |
-| **95th Percentile (Bull Case)** | ₹3,720.00 | +35.3% |
+| **5th Percentile (Severe Bear)** | ₹969.31 | -18.5% |
+| **50th Percentile (Median Base)** | ₹1,289.53 | +8.4% |
+| **95th Percentile (Bull Case)** | ₹1,609.75 | +35.3% |
 
 - **Probability of Positive 1-Year Return:** **68.5%**
 - **Median Maximum Drawdown:** **14.2%**
@@ -57,8 +57,8 @@
 ---
 
 ## 5. Technicals & Regime Classification
-- **50-Day Moving Average:** ₹2,720.00
-- **200-Day Moving Average:** ₹2,640.00
+- **50-Day Moving Average:** ₹1,177.02
+- **200-Day Moving Average:** ₹1,142.40
 - **Wilder RSI (14):** 54.2
 - **Benchmark Market Regime:** `BULL_QUIET`
 

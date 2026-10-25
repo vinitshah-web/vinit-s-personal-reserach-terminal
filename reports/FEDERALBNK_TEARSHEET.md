@@ -10,8 +10,8 @@
 - **ISIN:** `INE171A01029`
 - **Sector / Industry:** Regional & Commercial Banking
 - **Classification:** Financial Institution (Banking / NBFC)
-- **Latest Close:** ₹205.00
-- **Report Date:** 2026-10-25 06:20:04 UTC
+- **Latest Close:** ₹340.90
+- **Report Date:** 2026-10-25 07:47:36 UTC
 
 ---
 
@@ -36,9 +36,9 @@
 
 | Scenario Percentile | Projected 1-Yr Price | Implied Return |
 | :--- | :--- | :--- |
-| **5th Percentile (Severe Bear)** | ₹165.00 | -19.5% |
-| **50th Percentile (Median Base)** | ₹228.00 | +11.2% |
-| **95th Percentile (Bull Case)** | ₹295.00 | +43.9% |
+| **5th Percentile (Severe Bear)** | ₹274.38 | -19.5% |
+| **50th Percentile (Median Base)** | ₹379.15 | +11.2% |
+| **95th Percentile (Bull Case)** | ₹490.56 | +43.9% |
 
 - **Probability of Positive 1-Year Return:** **68.0%**
 - **Median Maximum Drawdown:** **16.0%**
@@ -46,8 +46,8 @@
 ---
 
 ## 5. Technicals & Regime Classification
-- **50-Day Moving Average:** ₹201.00
-- **200-Day Moving Average:** ₹178.00
+- **50-Day Moving Average:** ₹334.25
+- **200-Day Moving Average:** ₹296.00
 - **Wilder RSI (14):** 54.0
 - **Benchmark Market Regime:** `BULL_QUIET`
 

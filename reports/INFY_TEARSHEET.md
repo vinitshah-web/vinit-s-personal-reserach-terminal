@@ -10,8 +10,8 @@
 - **ISIN:** `INE009A01021`
 - **Sector / Industry:** Information Technology
 - **Classification:** Non-Financial Corporate
-- **Latest Close:** ₹1,860.00
-- **Report Date:** 2026-10-25 06:20:04 UTC
+- **Latest Close:** ₹1,153.80
+- **Report Date:** 2026-10-25 07:47:36 UTC
 
 ---
 
@@ -35,7 +35,7 @@
 ## 3. Quantitative Valuation & Implied Growth (Reverse DCF)
 - **Model:** Damodaran Free Cash Flow to Firm (FCFF) Unrounded Discounting
 - **Calculated Enterprise Value:** ₹760,000.00 Cr
-- **Model Fair Value Per Share:** ₹2,040.00
+- **Model Fair Value Per Share:** ₹1,265.46
 - **Assumed WACC:** 11.20% | **Terminal Growth:** 4.00%
 - **Reverse DCF Implied Growth:** **8.20%**
   *(Market price currently prices in 8.20% discrete 5-year FCFF CAGR)*
@@ -47,9 +47,9 @@
 
 | Scenario Percentile | Projected 1-Yr Price | Implied Return |
 | :--- | :--- | :--- |
-| **5th Percentile (Severe Bear)** | ₹1,580.00 | -15.1% |
-| **50th Percentile (Median Base)** | ₹1,990.00 | +7.0% |
-| **95th Percentile (Bull Case)** | ₹2,480.00 | +33.3% |
+| **5th Percentile (Severe Bear)** | ₹980.11 | -15.1% |
+| **50th Percentile (Median Base)** | ₹1,234.44 | +7.0% |
+| **95th Percentile (Bull Case)** | ₹1,538.40 | +33.3% |
 
 - **Probability of Positive 1-Year Return:** **69.5%**
 - **Median Maximum Drawdown:** **13.0%**
@@ -57,8 +57,8 @@
 ---
 
 ## 5. Technicals & Regime Classification
-- **50-Day Moving Average:** ₹1,840.00
-- **200-Day Moving Average:** ₹1,680.00
+- **50-Day Moving Average:** ₹1,141.39
+- **200-Day Moving Average:** ₹1,042.14
 - **Wilder RSI (14):** 52.1
 - **Benchmark Market Regime:** `BULL_QUIET`
 

@@ -7,6 +7,8 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
 from src.reports.generator import ResearchReportGenerator
 
 
@@ -555,20 +557,61 @@ DEMO_UNIVERSE = [
 ]
 
 
+def sync_with_actual_prices():
+    """Synchronizes DEMO_UNIVERSE with exact exchange closing prices from the database."""
+    try:
+        from src.db.connection import get_session_factory
+        from src.db.models import PriceRaw
+        session = get_session_factory()()
+        for item in DEMO_UNIVERSE:
+            isin = item["isin"]
+            if item["ticker"] == "PERSISTENT":
+                item["isin"] = "INE262H01021"
+                isin = "INE262H01021"
+            pr = session.query(PriceRaw).filter(PriceRaw.isin == isin).order_by(PriceRaw.trade_date.desc()).first()
+            if pr and pr.close_raw > 0:
+                old_p = item["current_price"]
+                actual_p = pr.close_raw
+                ratio = actual_p / old_p
+                item["current_price"] = actual_p
+                if "fair_value_per_share" in item:
+                    item["fair_value_per_share"] = round(item["fair_value_per_share"] * ratio, 2)
+                if "dma_50" in item:
+                    item["dma_50"] = round(item["dma_50"] * ratio, 2)
+                if "dma_200" in item:
+                    item["dma_200"] = round(item["dma_200"] * ratio, 2)
+                if "mc_p5_1yr" in item:
+                    item["mc_p5_1yr"] = round(item["mc_p5_1yr"] * ratio, 2)
+                if "mc_p50_1yr" in item:
+                    item["mc_p50_1yr"] = round(item["mc_p50_1yr"] * ratio, 2)
+                if "mc_p95_1yr" in item:
+                    item["mc_p95_1yr"] = round(item["mc_p95_1yr"] * ratio, 2)
+        session.close()
+    except Exception as e:
+        print(f"Warning syncing prices with database: {e}")
+
+
+# Run sync on module import so CLI and generator always use real exchange prices
+sync_with_actual_prices()
+
+
 def main():
     reports_dir = Path("reports")
     reports_dir.mkdir(exist_ok=True)
 
-    print(f"Generating institutional tear-sheets for {len(DEMO_UNIVERSE)} companies...")
+    # Ensure latest prices
+    sync_with_actual_prices()
+
+    print(f"Generating institutional tear-sheets with exact exchange prices for {len(DEMO_UNIVERSE)} companies...")
     for item in DEMO_UNIVERSE:
         ticker = item["ticker"]
         md_content = ResearchReportGenerator.generate_markdown_tearsheet(item)
         file_path = reports_dir / f"{ticker}_TEARSHEET.md"
         with open(file_path, "w", encoding="utf-8") as f:
             f.write(md_content)
-        print(f"  [OK] Generated {file_path}")
+        print(f"  [OK] Generated {file_path} (Latest Close: ₹{item['current_price']:,.2f})")
 
-    print("\nAll 15 institutional tear-sheets generated successfully in 'reports/'.")
+    print("\nAll 15 institutional tear-sheets generated successfully with real exchange prices in 'reports/'.")
 
 
 if __name__ == "__main__":

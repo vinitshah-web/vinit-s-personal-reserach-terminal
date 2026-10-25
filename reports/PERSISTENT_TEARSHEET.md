@@ -7,11 +7,11 @@
 ## 1. Security Overview & Identification
 - **Company Name:** Persistent Systems Limited
 - **NSE Ticker:** `PERSISTENT`
-- **ISIN:** `INE262H01013`
+- **ISIN:** `INE262H01021`
 - **Sector / Industry:** Mid-tier Information Technology
 - **Classification:** Non-Financial Corporate
-- **Latest Close:** ₹5,600.00
-- **Report Date:** 2026-10-25 06:20:04 UTC
+- **Latest Close:** ₹5,727.50
+- **Report Date:** 2026-10-25 07:47:36 UTC
 
 ---
 
@@ -35,7 +35,7 @@
 ## 3. Quantitative Valuation & Implied Growth (Reverse DCF)
 - **Model:** Damodaran Free Cash Flow to Firm (FCFF) Unrounded Discounting
 - **Calculated Enterprise Value:** ₹84,000.00 Cr
-- **Model Fair Value Per Share:** ₹5,200.00
+- **Model Fair Value Per Share:** ₹5,318.39
 - **Assumed WACC:** 11.50% | **Terminal Growth:** 4.50%
 - **Reverse DCF Implied Growth:** **15.40%**
   *(Market price currently prices in 15.40% discrete 5-year FCFF CAGR)*
@@ -47,9 +47,9 @@
 
 | Scenario Percentile | Projected 1-Yr Price | Implied Return |
 | :--- | :--- | :--- |
-| **5th Percentile (Severe Bear)** | ₹4,350.00 | -22.3% |
-| **50th Percentile (Median Base)** | ₹6,150.00 | +9.8% |
-| **95th Percentile (Bull Case)** | ₹8,400.00 | +50.0% |
+| **5th Percentile (Severe Bear)** | ₹4,449.04 | -22.3% |
+| **50th Percentile (Median Base)** | ₹6,290.02 | +9.8% |
+| **95th Percentile (Bull Case)** | ₹8,591.25 | +50.0% |
 
 - **Probability of Positive 1-Year Return:** **69.0%**
 - **Median Maximum Drawdown:** **17.5%**
@@ -57,8 +57,8 @@
 ---
 
 ## 5. Technicals & Regime Classification
-- **50-Day Moving Average:** ₹5,480.00
-- **200-Day Moving Average:** ₹4,650.00
+- **50-Day Moving Average:** ₹5,604.77
+- **200-Day Moving Average:** ₹4,755.87
 - **Wilder RSI (14):** 57.5
 - **Benchmark Market Regime:** `BULL_QUIET`
 

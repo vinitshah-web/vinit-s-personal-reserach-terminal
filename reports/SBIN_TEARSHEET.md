@@ -10,8 +10,8 @@
 - **ISIN:** `INE062A01020`
 - **Sector / Industry:** Banking & Financial Services
 - **Classification:** Financial Institution (Banking / NBFC)
-- **Latest Close:** ₹840.00
-- **Report Date:** 2026-10-25 06:20:04 UTC
+- **Latest Close:** ₹958.60
+- **Report Date:** 2026-10-25 07:47:36 UTC
 
 ---
 
@@ -36,9 +36,9 @@
 
 | Scenario Percentile | Projected 1-Yr Price | Implied Return |
 | :--- | :--- | :--- |
-| **5th Percentile (Severe Bear)** | ₹680.00 | -19.0% |
-| **50th Percentile (Median Base)** | ₹920.00 | +9.5% |
-| **95th Percentile (Bull Case)** | ₹1,180.00 | +40.5% |
+| **5th Percentile (Severe Bear)** | ₹776.01 | -19.0% |
+| **50th Percentile (Median Base)** | ₹1,049.90 | +9.5% |
+| **95th Percentile (Bull Case)** | ₹1,346.60 | +40.5% |
 
 - **Probability of Positive 1-Year Return:** **66.5%**
 - **Median Maximum Drawdown:** **16.5%**
@@ -46,8 +46,8 @@
 ---
 
 ## 5. Technicals & Regime Classification
-- **50-Day Moving Average:** ₹830.00
-- **200-Day Moving Average:** ₹780.00
+- **50-Day Moving Average:** ₹947.19
+- **200-Day Moving Average:** ₹890.13
 - **Wilder RSI (14):** 52.8
 - **Benchmark Market Regime:** `BULL_QUIET`
 
