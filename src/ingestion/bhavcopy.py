@@ -45,14 +45,25 @@ class BhavcopyIngester:
         df = pd.read_csv(io.BytesIO(csv_bytes))
         df.columns = [c.strip().upper() for c in df.columns]
 
-        # Normalize column names
+        # Normalize column names across all 3 historical NSE Bhavcopy generations:
+        # 1. Unified format: TckrSymb, SctySrs, OpnPric, HghPric, LwPric, ClsPric, TtlTradgVol, ISIN
+        # 2. Modern legacy: SYMBOL, SERIES, OPEN, HIGH, LOW, CLOSE, TOTTRDQTY, ISIN
+        # 3. Old legacy PR: SECURITY, SERIES, OPEN_PRICE, HIGH_PRICE, LOW_PRICE, CLOSE_PRICE, NET_TRDQTY
         col_map = {
+            "TCKRSYMB": "SYMBOL",
+            "SCTYSRS": "SERIES",
+            "OPNPRIC": "OPEN",
+            "HGHPRIC": "HIGH",
+            "LWPRIC": "LOW",
+            "CLSPRIC": "CLOSE",
+            "TTLTRADGVOL": "TOTTRDQTY",
             "OPEN_PRICE": "OPEN",
             "HIGH_PRICE": "HIGH",
             "LOW_PRICE": "LOW",
             "CLOSE_PRICE": "CLOSE",
             "TTL_TRD_QNTY": "TOTTRDQTY",
             "TOTAL_TRADED_QUANTITY": "TOTTRDQTY",
+            "NET_TRDQTY": "TOTTRDQTY",
             "DELIV_PER": "DELIVERY_PCT"
         }
         df = df.rename(columns=col_map)
