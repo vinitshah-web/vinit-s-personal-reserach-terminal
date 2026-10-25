@@ -81,23 +81,23 @@
     <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
       <div class="card p-4 rounded-lg">
         <div class="text-[10px] text-[var(--text-muted)] uppercase tracking-wider">Securities Ingested</div>
-        <div class="text-xl font-bold font-mono text-white mt-1">2,915</div>
+        <div id="audit-sec-count" class="text-xl font-bold font-mono text-white mt-1">2,915</div>
         <div class="text-[10px] text-emerald-400 mt-0.5">NSE CM Active EQ/BE</div>
       </div>
       <div class="card p-4 rounded-lg">
+        <div class="text-[10px] text-[var(--text-muted)] uppercase tracking-wider">Raw Prices Recorded</div>
+        <div id="audit-price-count" class="text-xl font-bold font-mono text-emerald-400 mt-1">5,823</div>
+        <div class="text-[10px] text-emerald-400 mt-0.5">Oct 22 & 23 Bhavcopies</div>
+      </div>
+      <div class="card p-4 rounded-lg">
         <div class="text-[10px] text-[var(--text-muted)] uppercase tracking-wider">Official Announcements</div>
-        <div class="text-xl font-bold font-mono text-sky-400 mt-1">834</div>
+        <div id="audit-an-count" class="text-xl font-bold font-mono text-sky-400 mt-1">834</div>
         <div class="text-[10px] text-emerald-400 mt-0.5">Parsed from an23102026.txt</div>
       </div>
       <div class="card p-4 rounded-lg">
         <div class="text-[10px] text-[var(--text-muted)] uppercase tracking-wider">Index Trading Days</div>
-        <div class="text-xl font-bold font-mono text-indigo-400 mt-1">246 Days</div>
+        <div id="audit-index-count" class="text-xl font-bold font-mono text-indigo-400 mt-1">246 Days</div>
         <div class="text-[10px] text-emerald-400 mt-0.5">NIFTY 50 1-Year Series</div>
-      </div>
-      <div class="card p-4 rounded-lg">
-        <div class="text-[10px] text-[var(--text-muted)] uppercase tracking-wider">Alembic Schema Head</div>
-        <div class="text-xl font-bold font-mono text-emerald-400 mt-1">Rev 002</div>
-        <div class="text-[10px] text-emerald-400 mt-0.5">PostgreSQL / SQLite Dual-Agnostic</div>
       </div>
     </div>
 
@@ -186,6 +186,28 @@
     function toggleTheme() {
       document.documentElement.classList.toggle('light');
     }
+
+    async function initAuditData() {
+      try {
+        const res = await fetch('/api/v1/quality/audit');
+        if (res.ok) {
+          const data = await res.json();
+          if (data.counts) {
+            const sec = document.getElementById('audit-sec-count');
+            const price = document.getElementById('audit-price-count');
+            const an = document.getElementById('audit-an-count');
+            const idx = document.getElementById('audit-index-count');
+            if (sec && data.counts.securities_master) sec.innerText = data.counts.securities_master.toLocaleString();
+            if (price && data.counts.raw_prices) price.innerText = data.counts.raw_prices.toLocaleString();
+            if (an && data.counts.governance_disclosures) an.innerText = data.counts.governance_disclosures.toLocaleString();
+            if (idx && data.counts.index_daily_prices) idx.innerText = `${data.counts.index_daily_prices} Days`;
+          }
+        }
+      } catch (e) {
+        // Fallback to static mock values when opened as standalone file
+      }
+    }
+    window.addEventListener('DOMContentLoaded', initAuditData);
   </script>
 </body>
 </html>
