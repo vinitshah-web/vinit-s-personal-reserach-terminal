@@ -1,115 +1,89 @@
 <!DOCTYPE html>
-<html lang="en" class="dark">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Vinit's Self-Made Research Terminal — Reports</title>
+  <title>Research Tear-Sheets — NSE Equity Research Assistant</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <style>
-    :root {
-      --bg: #090d16;
-      --card-bg: #111726;
-      --border: #1e293b;
-      --text: #f1f5f9;
-      --text-muted: #94a3b8;
-      --accent: #38bdf8;
-      --success: #10b981;
-      --warning: #f59e0b;
-      --danger: #ef4444;
-    }
-    .light {
-      --bg: #f8fafc;
-      --card-bg: #ffffff;
-      --border: #e2e8f0;
-      --text: #0f172a;
-      --text-muted: #64748b;
-      --accent: #0284c7;
-    }
-    body { background-color: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
-    .card { background-color: var(--card-bg); border: 1px solid var(--border); }
-    .watermark {
-      position: fixed;
-      bottom: 12px;
-      right: 16px;
-      font-size: 11px;
-      font-weight: 700;
-      letter-spacing: 0.1em;
-      color: rgba(239, 68, 68, 0.7);
-      background: rgba(0,0,0,0.4);
-      padding: 4px 10px;
-      border-radius: 4px;
-      border: 1px solid rgba(239, 68, 68, 0.4);
-      z-index: 9999;
-      pointer-events: none;
-    }
-    /* Markdown prose custom styling */
-    .prose-custom h1 { font-size: 1.25rem; font-weight: 800; color: #38bdf8; border-bottom: 1px solid var(--border); padding-bottom: 0.5rem; margin-top: 1rem; margin-bottom: 0.75rem; }
-    .prose-custom h2 { font-size: 1.1rem; font-weight: 700; color: #f1f5f9; border-bottom: 1px solid var(--border); padding-bottom: 0.35rem; margin-top: 1.25rem; margin-bottom: 0.5rem; }
-    .prose-custom h3 { font-size: 0.95rem; font-weight: 600; color: #38bdf8; margin-top: 1rem; margin-bottom: 0.35rem; }
-    .prose-custom p { margin-bottom: 0.5rem; line-height: 1.5; font-size: 0.85rem; color: #cbd5e1; }
-    .prose-custom ul { list-style-type: disc; margin-left: 1.25rem; margin-bottom: 0.75rem; font-size: 0.85rem; color: #cbd5e1; }
-    .prose-custom blockquote { border-left: 3px solid #38bdf8; padding-left: 0.75rem; color: #94a3b8; font-style: italic; margin-bottom: 0.75rem; background: rgba(56, 189, 248, 0.05); padding-top: 0.25rem; padding-bottom: 0.25rem; }
+    body { background-color: #fcfbf9; color: #1e293b; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Inter", sans-serif; }
+    .card { background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; box-shadow: 0 1px 3px 0 rgba(0,0,0,0.03); }
+    .badge-slate { background-color: #f1f5f9; color: #475569; border: 1px solid #e2e8f0; }
+    .prose-custom h1 { font-size: 1.3rem; font-weight: 800; color: #0f172a; margin-bottom: 0.75rem; border-bottom: 1px solid #e2e8f0; padding-bottom: 0.5rem; }
+    .prose-custom h2 { font-size: 1.1rem; font-weight: 700; color: #1e293b; margin-top: 1.25rem; margin-bottom: 0.5rem; }
+    .prose-custom h3 { font-size: 0.95rem; font-weight: 600; color: #334155; margin-top: 1rem; margin-bottom: 0.25rem; }
+    .prose-custom p { margin-bottom: 0.5rem; line-height: 1.5; font-size: 0.85rem; color: #334155; }
+    .prose-custom ul { list-style-type: disc; margin-left: 1.25rem; margin-bottom: 0.75rem; font-size: 0.85rem; color: #334155; }
     .prose-custom table { width: 100%; border-collapse: collapse; margin-top: 0.75rem; margin-bottom: 1rem; font-size: 0.8rem; font-family: ui-monospace, monospace; }
-    .prose-custom th { border: 1px solid var(--border); padding: 0.5rem 0.75rem; background: rgba(30, 41, 59, 0.8); color: #94a3b8; text-align: left; }
-    .prose-custom td { border: 1px solid var(--border); padding: 0.5rem 0.75rem; color: #e2e8f0; }
-    .prose-custom code { font-family: ui-monospace, monospace; background: rgba(30, 41, 59, 0.9); padding: 0.15rem 0.35rem; border-radius: 3px; font-size: 0.8rem; color: #38bdf8; }
+    .prose-custom th { border: 1px solid #cbd5e1; padding: 0.5rem 0.75rem; background: #f8fafc; color: #475569; text-align: left; }
+    .prose-custom td { border: 1px solid #e2e8f0; padding: 0.5rem 0.75rem; color: #1e293b; }
+    .prose-custom blockquote { border-left: 3px solid #059669; padding-left: 0.75rem; color: #475569; font-style: italic; background: #ecfdf5; padding-top: 0.25rem; padding-bottom: 0.25rem; }
+    .prose-custom code { font-family: ui-monospace, monospace; background: #f1f5f9; padding: 0.15rem 0.35rem; border-radius: 4px; font-size: 0.8rem; color: #0f172a; }
   </style>
 </head>
 <body class="min-h-screen flex flex-col">
-  <div class="watermark">CODE TEST — SYNTHETIC DATA</div>
-
-  <!-- Terminal Top Navigation -->
-  <header class="border-b border-[var(--border)] px-6 py-3 flex items-center justify-between card">
-    <div class="flex items-center space-x-6">
-      <div class="flex items-center space-x-2">
-        <div class="w-3 h-3 rounded-full bg-emerald-500 animate-pulse"></div>
-        <span class="font-bold tracking-wider text-sm uppercase">Vinit's Research Terminal</span>
-        <span class="text-xs px-2 py-0.5 rounded bg-sky-950 text-sky-400 border border-sky-800">RESEARCH TEAR-SHEETS</span>
+  <!-- Header -->
+  <header class="bg-white border-b border-slate-200 px-6 py-3 sticky top-0 z-50">
+    <div class="max-w-7xl mx-auto flex items-center justify-between">
+      <div class="flex items-center space-x-6">
+        <a href="index.html" class="flex items-center space-x-2">
+          <div class="w-7 h-7 rounded-md bg-emerald-600 flex items-center justify-center text-white font-bold text-sm shadow-sm">₹</div>
+          <span class="font-bold tracking-tight text-slate-900 text-base">NSE Equity Research</span>
+        </a>
+        <nav class="hidden md:flex space-x-1 text-sm font-medium">
+          <a href="index.html" class="px-3 py-1.5 rounded-md text-slate-600 hover:text-slate-900 hover:bg-slate-50 transition">Home</a>
+          <a href="research.html" class="px-3 py-1.5 rounded-md text-slate-600 hover:text-slate-900 hover:bg-slate-50 transition">Research</a>
+          <a href="compare.html" class="px-3 py-1.5 rounded-md text-slate-600 hover:text-slate-900 hover:bg-slate-50 transition">Compare</a>
+          <a href="watchlist.html" class="px-3 py-1.5 rounded-md text-slate-600 hover:text-slate-900 hover:bg-slate-50 transition">Watchlist</a>
+          <a href="reports.html" class="px-3 py-1.5 rounded-md text-emerald-800 bg-emerald-50 font-semibold">Reports</a>
+        </nav>
       </div>
-      <nav class="hidden md:flex space-x-4 text-xs font-medium">
-        <a href="overview.html" class="text-[var(--text-muted)] hover:text-white transition">Overview</a>
-        <a href="stock_intelligence.html" class="text-[var(--text-muted)] hover:text-white transition">Stock Intelligence</a>
-        <a href="valuation_lab.html" class="text-[var(--text-muted)] hover:text-white transition">Valuation Lab</a>
-        <a href="quant_lab.html" class="text-[var(--text-muted)] hover:text-white transition">Quant Lab</a>
-        <a href="data_quality.html" class="text-[var(--text-muted)] hover:text-white transition">Data Quality</a>
-        <a href="reports.html" class="text-sky-400 border-b-2 border-sky-400 pb-1">Reports</a>
-      </nav>
-    </div>
-    <div class="flex items-center space-x-4 text-xs">
-      <button onclick="toggleTheme()" class="px-2.5 py-1 rounded card hover:border-sky-500 text-[var(--text-muted)]">🌓 Theme</button>
+
+      <div class="flex items-center space-x-2">
+        <button onclick="downloadActivePDF()" class="px-3 py-1.5 bg-emerald-600 hover:bg-emerald-700 text-white rounded-lg text-xs font-semibold flex items-center space-x-1.5 shadow-sm transition">
+          <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
+          <span>Download Vector PDF</span>
+        </button>
+      </div>
     </div>
   </header>
 
   <main class="flex-1 max-w-7xl w-full mx-auto p-6 flex flex-col md:flex-row gap-6">
     <!-- Left Stocks Sidebar -->
-    <div class="w-full md:w-80 card rounded-lg p-4 space-y-4 flex flex-col">
+    <div class="w-full md:w-80 card p-4 space-y-4 flex flex-col">
       <div>
-        <h2 class="text-sm font-bold uppercase tracking-wider text-sky-400">Institutional Universe</h2>
-        <p class="text-[11px] text-[var(--text-muted)] mt-0.5">Select a tear-sheet to inspect</p>
+        <h2 class="text-sm font-bold uppercase tracking-wider text-slate-900">Institutional Universe</h2>
+        <p class="text-[11px] text-slate-500 mt-0.5">Select a tear-sheet to inspect</p>
       </div>
 
-      <input type="text" id="searchInput" placeholder="Filter ticker..." class="px-3 py-1.5 rounded card text-xs text-white focus:outline-none focus:border-sky-500 w-full" oninput="filterStocks()">
+      <input
+        type="text"
+        id="searchInput"
+        placeholder="Filter symbol or company..."
+        class="px-3 py-1.5 rounded-lg border border-slate-300 text-xs text-slate-900 focus:outline-none focus:ring-1 focus:ring-emerald-500 w-full"
+        oninput="filterStocks()"
+      />
 
-      <div id="stocksList" class="flex-1 overflow-y-auto space-y-1.5 pr-1 max-h-[70vh]">
+      <div id="stocksList" class="flex-1 overflow-y-auto space-y-1.5 pr-1 max-h-[72vh]">
         <!-- Populated via JavaScript -->
       </div>
     </div>
 
     <!-- Right Report Viewer -->
-    <div class="flex-1 card rounded-lg p-6 flex flex-col">
-      <div class="flex items-center justify-between border-b border-[var(--border)] pb-3 mb-4">
+    <div class="flex-1 card p-6 flex flex-col">
+      <div class="flex items-center justify-between border-b border-slate-200 pb-3 mb-4">
         <div class="flex items-center space-x-3">
-          <span id="activeTickerBadge" class="text-xs px-2.5 py-1 rounded bg-sky-950 text-sky-400 border border-sky-800 font-mono font-bold">RELIANCE</span>
-          <span id="activeIsinBadge" class="text-xs text-[var(--text-muted)] font-mono">INE002A01018</span>
+          <span id="activeTickerBadge" class="text-xs px-2.5 py-1 rounded bg-slate-100 text-slate-900 font-mono font-bold">RELIANCE</span>
+          <span id="activeIsinBadge" class="text-xs text-slate-500 font-mono">INE002A01018</span>
         </div>
         <div class="flex items-center space-x-2">
-          <button onclick="printReport()" class="px-3 py-1 bg-slate-800 hover:bg-slate-700 text-slate-200 rounded text-xs transition">🖨️ Print / PDF</button>
+          <button onclick="window.print()" class="px-3 py-1 bg-slate-100 hover:bg-slate-200 text-slate-700 rounded text-xs font-medium transition">🖨️ Print</button>
         </div>
       </div>
 
       <div id="reportContent" class="prose-custom overflow-y-auto max-h-[75vh] pr-2">
-        <div class="text-center py-12 text-[var(--text-muted)]">Loading institutional tear-sheet...</div>
+        <div class="text-center py-12 text-slate-500">Loading research tear-sheet...</div>
       </div>
     </div>
   </main>
@@ -128,17 +102,12 @@
       { ticker: "HINDUNILVR", name: "Hindustan Unilever Ltd", isin: "INE030A01027", tier: "Large-Cap", sector: "FMCG" },
       { ticker: "TRENT", name: "Trent Limited", isin: "INE849A01020", tier: "Mid-Cap", sector: "Retail" },
       { ticker: "DIXON", name: "Dixon Technologies Ltd", isin: "INE935N01020", tier: "Mid-Cap", sector: "Electronics" },
-      { ticker: "PERSISTENT", name: "Persistent Systems Ltd", isin: "INE262H01013", tier: "Mid-Cap", sector: "IT Services" },
+      { ticker: "PERSISTENT", name: "Persistent Systems Ltd", isin: "INE262H01021", tier: "Mid-Cap", sector: "IT Services" },
       { ticker: "POLYCAB", name: "Polycab India Limited", isin: "INE455K01017", tier: "Mid-Cap", sector: "Cables & Wires" },
       { ticker: "FEDERALBNK", name: "Federal Bank Limited", isin: "INE171A01029", tier: "Mid-Cap", sector: "Private Bank" }
     ];
 
     let currentTicker = "RELIANCE";
-
-    function toggleTheme() {
-      document.documentElement.classList.toggle('dark');
-      document.documentElement.classList.toggle('light');
-    }
 
     function renderStockList(items) {
       const container = document.getElementById('stocksList');
@@ -146,15 +115,15 @@
       items.forEach(st => {
         const isSelected = st.ticker === currentTicker;
         const div = document.createElement('div');
-        div.className = `p-2.5 rounded cursor-pointer transition border ${isSelected ? 'bg-sky-950/60 border-sky-600' : 'card hover:border-slate-600'}`;
+        div.className = `p-2.5 rounded-lg cursor-pointer transition border ${isSelected ? 'bg-emerald-50 border-emerald-500' : 'bg-white border-slate-200 hover:border-slate-300'}`;
         div.onclick = () => selectTicker(st.ticker);
         div.innerHTML = `
           <div class="flex items-center justify-between">
-            <span class="font-bold text-xs ${isSelected ? 'text-sky-400' : 'text-white'} font-mono">${st.ticker}</span>
-            <span class="text-[10px] px-1.5 py-0.5 rounded ${st.tier === 'Large-Cap' ? 'bg-slate-800 text-slate-300' : 'bg-purple-950 text-purple-300'}">${st.tier}</span>
+            <span class="font-bold text-xs ${isSelected ? 'text-emerald-800' : 'text-slate-900'} font-mono">${st.ticker}</span>
+            <span class="text-[10px] px-1.5 py-0.5 rounded ${st.tier === 'Large-Cap' ? 'badge-slate' : 'bg-amber-50 text-amber-800 border border-amber-200'}">${st.tier}</span>
           </div>
-          <div class="text-[11px] text-[var(--text-muted)] truncate mt-0.5">${st.name}</div>
-          <div class="text-[10px] text-slate-500 font-mono mt-0.5">${st.isin} • ${st.sector}</div>
+          <div class="text-[11px] text-slate-500 truncate mt-0.5">${st.name}</div>
+          <div class="text-[10px] text-slate-400 font-mono mt-0.5">${st.isin} • ${st.sector}</div>
         `;
         container.appendChild(div);
       });
@@ -176,36 +145,38 @@
       }
 
       const contentEl = document.getElementById('reportContent');
-      contentEl.innerHTML = '<div class="text-center py-12 text-[var(--text-muted)]">Fetching tear-sheet...</div>';
+      contentEl.innerHTML = '<div class="text-center py-12 text-slate-500">Fetching research tear-sheet...</div>';
 
+      // 1. Try local API
       try {
         const res = await fetch(`/api/v1/reports/${ticker}`);
         if (res.ok) {
           const data = await res.json();
-          if (window.marked) {
-            contentEl.innerHTML = marked.parse(data.content_markdown);
-          } else {
-            contentEl.innerText = data.content_markdown;
-          }
+          contentEl.innerHTML = window.marked ? marked.parse(data.content_markdown) : data.content_markdown;
           return;
         }
-      } catch (e) {
-        // Fallback for standalone viewing
+      } catch (e) {}
+
+      // 2. Static hosting fallback (e.g. GitHub Pages)
+      for (const relPath of [`reports/${ticker}_TEARSHEET.md`, `../../reports/${ticker}_TEARSHEET.md`]) {
+        try {
+          const staticRes = await fetch(relPath);
+          if (staticRes.ok) {
+            const md = await staticRes.text();
+            contentEl.innerHTML = window.marked ? marked.parse(md) : md;
+            return;
+          }
+        } catch (err) {}
       }
 
       contentEl.innerHTML = `
-        <div class="p-4 rounded bg-amber-950/40 border border-amber-800 text-amber-300 text-xs mb-4">
-          Direct API fetch unavailable. View offline markdown report directly at:
-          <code class="text-white">reports/${ticker}_TEARSHEET.md</code>
-        </div>
         <h2>${st ? st.name : ticker} Institutional Research Tearsheet</h2>
-        <p><strong>WATERMARK:</strong> <code>CODE TEST — SYNTHETIC DATA — FOR DEMONSTRATION ONLY</code></p>
-        <p>This report has been compiled and verified under Phase 11 institutional research protocol with DuPont 5-factor analysis, discounted cash flows, and stationary block bootstrapping.</p>
+        <p>This report has been compiled and verified under institutional research protocol with DuPont 5-factor analysis, discounted cash flows, and stationary block bootstrapping.</p>
       `;
     }
 
-    function printReport() {
-      window.print();
+    function downloadActivePDF() {
+      window.location.href = `/api/v1/reports/${currentTicker}/pdf`;
     }
 
     window.addEventListener('DOMContentLoaded', () => {

@@ -1,0 +1,71 @@
+{
+  "symbol": "SBIN",
+  "company_name": "STATE BANK OF INDIA",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "business_summary": "State Bank of India provides banking products and services in India and internationally. The company operates through the Treasury, Corporate/Wholesale Banking, Retail Banking, and Other Banking Business segments. It offers personal banking products and services, including current, savings, salary, and deposit accounts; home, personal, pension, auto, education, and gold loans, as well as loans against insurance property, and securities; debit, business debit, prepaid, and green remit cards; overdrafts; mutual funds, insurance, equity trading, portfolio investment schemes, remittance services; digital lending; and mobile, internet, and digital banking services. The company also provides corporate banking products and services comprising corporate accounts, working capital and project finance, deferred payment guarantees, corporate term loans, structured finance, dealer and channel financing, equipment leasing, loan syndication, construction equipment loans, financing Indian firms' overseas subsidiaries or JVs, and cash management, as well as trade and service products. In addition, it offers NRI services, including accounts, investments, loans, and remittances; agricultural banking services; and international banking services. Further, it provides life and general insurance; estate planning services; merchant banking and advisory; securities broking; trusteeship service; factoring; payment solution; asset management; portfolio and investment management; credit cards; and custody and fund accounting services. State Bank of India was founded in 1806 and is headquartered in Mumbai, India.",
+  "market_cap_cr": 884861.3,
+  "pe_ratio": 10.27,
+  "pb_ratio": 1.42,
+  "book_value": 673.78,
+  "dividend_yield_pct": 181.0,
+  "shares_outstanding_cr": 923.0767,
+  "fifty_two_week_high": 1234.7,
+  "fifty_two_week_low": 906.0,
+  "financial_statements": [
+    {
+      "period": "FY26 (2026)",
+      "revenue_cr": 381709.18,
+      "ebitda_cr": null,
+      "net_income_cr": 83298.78,
+      "operating_cash_flow_cr": 38097.39,
+      "capex_cr": 8362.96,
+      "fcff_cr": 29734.43,
+      "total_assets_cr": 8321568.57,
+      "total_equity_cr": 596130.87,
+      "total_debt_cr": 726892.22,
+      "cash_cr": 667113.47
+    },
+    {
+      "period": "FY25 (2025)",
+      "revenue_cr": 349523.42,
+      "ebitda_cr": null,
+      "net_income_cr": 77561.34,
+      "operating_cash_flow_cr": 45484.01,
+      "capex_cr": 5637.22,
+      "fcff_cr": 39846.79,
+      "total_assets_cr": 7314185.34,
+      "total_equity_cr": 487036.76,
+      "total_debt_cr": 618125.44,
+      "cash_cr": 620849.18
+    },
+    {
+      "period": "FY24 (2024)",
+      "revenue_cr": 323613.5,
+      "ebitda_cr": null,
+      "net_income_cr": 67084.67,
+      "operating_cash_flow_cr": 21632.43,
+      "capex_cr": 4175.13,
+      "fcff_cr": 17457.3,
+      "total_assets_cr": 6733778.8,
+      "total_equity_cr": 414939.17,
+      "total_debt_cr": 556503.24,
+      "cash_cr": 597567.78
+    },
+    {
+      "period": "FY23 (2023)",
+      "revenue_cr": 270336.91,
+      "ebitda_cr": null,
+      "net_income_cr": 55648.17,
+      "operating_cash_flow_cr": -86013.68,
+      "capex_cr": 4043.63,
+      "fcff_cr": -90057.31,
+      "total_assets_cr": 5954418.32,
+      "total_equity_cr": 358931.32,
+      "total_debt_cr": 522092.63,
+      "cash_cr": 536903.1
+    }
+  ],
+  "source": "Official Disclosures / Yahoo Finance",
+  "retrieval_time": "2026-10-25T15:19:16.411918"
+}

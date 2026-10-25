@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Watchlist — NSE Equity Research Assistant</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    body { background-color: #fcfbf9; color: #1e293b; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Inter", sans-serif; }
+    .card { background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; box-shadow: 0 1px 3px 0 rgba(0,0,0,0.03); }
+    .badge-slate { background-color: #f1f5f9; color: #475569; border: 1px solid #e2e8f0; }
+  </style>
+</head>
+<body class="min-h-screen flex flex-col">
+  <!-- Header -->
+  <header class="bg-white border-b border-slate-200 px-6 py-3 sticky top-0 z-50">
+    <div class="max-w-7xl mx-auto flex items-center justify-between">
+      <div class="flex items-center space-x-6">
+        <a href="index.html" class="flex items-center space-x-2">
+          <div class="w-7 h-7 rounded-md bg-emerald-600 flex items-center justify-center text-white font-bold text-sm shadow-sm">₹</div>
+          <span class="font-bold tracking-tight text-slate-900 text-base">NSE Equity Research</span>
+        </a>
+        <nav class="hidden md:flex space-x-1 text-sm font-medium">
+          <a href="index.html" class="px-3 py-1.5 rounded-md text-slate-600 hover:text-slate-900 hover:bg-slate-50 transition">Home</a>
+          <a href="research.html" class="px-3 py-1.5 rounded-md text-slate-600 hover:text-slate-900 hover:bg-slate-50 transition">Research</a>
+          <a href="compare.html" class="px-3 py-1.5 rounded-md text-slate-600 hover:text-slate-900 hover:bg-slate-50 transition">Compare</a>
+          <a href="watchlist.html" class="px-3 py-1.5 rounded-md text-emerald-800 bg-emerald-50 font-semibold">Watchlist</a>
+          <a href="reports.html" class="px-3 py-1.5 rounded-md text-slate-600 hover:text-slate-900 hover:bg-slate-50 transition">Reports</a>
+        </nav>
+      </div>
+
+      <div class="flex items-center space-x-2">
+        <button onclick="exportWatchlist()" class="px-3 py-1.5 border border-slate-300 hover:bg-slate-50 rounded-lg text-xs font-medium text-slate-700 transition">
+          Export JSON
+        </button>
+        <button onclick="document.getElementById('importFile').click()" class="px-3 py-1.5 border border-slate-300 hover:bg-slate-50 rounded-lg text-xs font-medium text-slate-700 transition">
+          Import JSON
+        </button>
+        <input type="file" id="importFile" class="hidden" accept=".json" onchange="importWatchlist(event)">
+      </div>
+    </div>
+  </header>
+
+  <main class="flex-1 max-w-7xl w-full mx-auto p-6 space-y-6">
+    <div class="flex items-center justify-between">
+      <div>
+        <h1 class="text-2xl font-bold text-slate-900">Your Investment Watchlist</h1>
+        <p class="text-xs text-slate-500 mt-0.5">Track your selected companies, quick-launch research dossiers, and monitor valuations</p>
+      </div>
+    </div>
+
+    <!-- Watchlist Table -->
+    <div class="card overflow-hidden">
+      <div class="overflow-x-auto">
+        <table class="w-full text-left text-xs">
+          <thead class="border-b border-slate-200 text-slate-500 font-semibold uppercase tracking-wider bg-slate-50">
+            <tr>
+              <th class="py-3 px-4">Symbol</th>
+              <th class="py-3 px-4">Company Name</th>
+              <th class="py-3 px-4">Sector</th>
+              <th class="py-3 px-4">Saved Date</th>
+              <th class="py-3 px-4 text-right">Actions</th>
+            </tr>
+          </thead>
+          <tbody id="watchlistBody" class="divide-y divide-slate-100 text-slate-800 font-mono">
+            <!-- Populated via JavaScript -->
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </main>
+
+  <script>
+    function getWatchlist() {
+      const stored = localStorage.getItem('user_watchlist');
+      if (stored) {
+        try { return JSON.parse(stored); } catch (e) {}
+      }
+      return [
+        { symbol: "RELIANCE", name: "Reliance Industries Ltd", sector: "Energy", added_at: "2026-10-25" },
+        { symbol: "TCS", name: "Tata Consultancy Services Ltd", sector: "Technology", added_at: "2026-10-25" },
+        { symbol: "HDFCBANK", name: "HDFC Bank Limited", sector: "Banking", added_at: "2026-10-25" },
+        { symbol: "PERSISTENT", name: "Persistent Systems Ltd", sector: "Technology", added_at: "2026-10-25" }
+      ];
+    }
+
+    function renderWatchlist() {
+      const list = getWatchlist();
+      const tbody = document.getElementById('watchlistBody');
+      if (list.length === 0) {
+        tbody.innerHTML = `
+          <tr>
+            <td colspan="5" class="p-8 text-center text-slate-500 font-sans">
+              Your watchlist is currently empty. Visit the <a href="index.html" class="text-emerald-700 underline font-semibold">Home page</a> or search a stock to save it here.
+            </td>
+          </tr>
+        `;
+        return;
+      }
+
+      tbody.innerHTML = list.map(item => `
+        <tr class="hover:bg-slate-50">
+          <td class="py-3 px-4 font-bold text-slate-900">${item.symbol}</td>
+          <td class="py-3 px-4 font-sans text-slate-700">${item.name}</td>
+          <td class="py-3 px-4 font-sans"><span class="text-[11px] px-2 py-0.5 rounded badge-slate">${item.sector || 'Equities'}</span></td>
+          <td class="py-3 px-4 text-slate-500 text-[11px] font-sans">${item.added_at ? item.added_at.split('T')[0] : 'Today'}</td>
+          <td class="py-3 px-4 text-right font-sans space-x-2">
+            <a href="research.html?ticker=${item.symbol}" class="px-2.5 py-1 bg-emerald-600 hover:bg-emerald-700 text-white rounded text-xs font-semibold">Research</a>
+            <button onclick="removeSymbol('${item.symbol}')" class="px-2 py-1 text-slate-400 hover:text-rose-600 rounded text-xs">Remove</button>
+          </td>
+        </tr>
+      `).join('');
+    }
+
+    function removeSymbol(sym) {
+      let list = getWatchlist();
+      list = list.filter(x => x.symbol !== sym);
+      localStorage.setItem('user_watchlist', JSON.stringify(list));
+      renderWatchlist();
+    }
+
+    function exportWatchlist() {
+      const list = getWatchlist();
+      const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(list, null, 2));
+      const downloadAnchor = document.createElement('a');
+      downloadAnchor.setAttribute("href", dataStr);
+      downloadAnchor.setAttribute("download", "nse_research_watchlist.json");
+      document.body.appendChild(downloadAnchor);
+      downloadAnchor.click();
+      downloadAnchor.remove();
+    }
+
+    function importWatchlist(event) {
+      const file = event.target.files[0];
+      if (!file) return;
+      const reader = new FileReader();
+      reader.onload = function(e) {
+        try {
+          const imported = JSON.parse(e.target.result);
+          if (Array.isArray(imported)) {
+            localStorage.setItem('user_watchlist', JSON.stringify(imported));
+            renderWatchlist();
+            alert(`Imported ${imported.length} securities to your watchlist!`);
+          }
+        } catch (err) {
+          alert("Invalid JSON format.");
+        }
+      };
+      reader.readAsText(file);
+    }
+
+    window.addEventListener('DOMContentLoaded', renderWatchlist);
+  </script>
+</body>
+</html>

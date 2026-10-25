@@ -1,0 +1,254 @@
+"""Data Provider Adapters for NSE Equity Research Platform.
+Provides unified interfaces for:
+1. TejHQ (Keyless EOD bhavcopy & corporate actions)
+2. Fundamental Statements & Financial Profile (yfinance / local fallback)
+3. Curated Indian Industry Demand/Supply & Risk Knowledge Base
+"""
+import logging
+from datetime import date, datetime
+from typing import Dict, Any, List, Optional
+import urllib.request
+import json
+import yfinance as yf
+
+logger = logging.getLogger(__name__)
+
+class TejHQAdapter:
+    """Queries TejHQ's open keyless endpoints for NSE End-of-Day data."""
+    BASE_URL = "https://api.tejhq.dev"
+    HEADERS = {"User-Agent": "NSE-Research-Terminal/2.0 (Windows; Zero-Budget)"}
+
+    @classmethod
+    def get_eod_ohlcv(cls, symbol: str, days: int = 90) -> List[Dict[str, Any]]:
+        clean_sym = symbol.strip().upper().replace(".NS", "")
+        url = f"{cls.BASE_URL}/v1/ohlcv/NSE/{clean_sym}"
+        try:
+            req = urllib.request.Request(url, headers=cls.HEADERS)
+            with urllib.request.urlopen(req, timeout=5) as res:
+                if res.status == 200:
+                    payload = json.loads(res.read().decode("utf-8"))
+                    data = payload.get("data", [])
+                    return data[-days:] if data else []
+        except Exception as e:
+            logger.warning(f"TejHQ OHLCV query failed for {symbol}: {e}")
+        return []
+
+    @classmethod
+    def get_latest_quote(cls, symbol: str) -> Optional[Dict[str, Any]]:
+        rows = cls.get_eod_ohlcv(symbol, days=5)
+        if rows:
+            latest = rows[-1]
+            return {
+                "source": "TejHQ Keyless EOD",
+                "trade_date": latest.get("date"),
+                "close": float(latest.get("close", 0.0)),
+                "open": float(latest.get("open", 0.0)),
+                "high": float(latest.get("high", 0.0)),
+                "low": float(latest.get("low", 0.0)),
+                "volume": int(latest.get("volume", 0)),
+                "turnover": float(latest.get("turnover", 0.0)),
+                "prev_close": float(latest.get("prev_close", 0.0)),
+                "retrieval_time": datetime.now().isoformat()
+            }
+        return None
+
+    @classmethod
+    def get_corporate_actions(cls, symbol: str) -> List[Dict[str, Any]]:
+        clean_sym = symbol.strip().upper().replace(".NS", "")
+        url = f"{cls.BASE_URL}/v1/actions/{clean_sym}"
+        try:
+            req = urllib.request.Request(url, headers=cls.HEADERS)
+            with urllib.request.urlopen(req, timeout=5) as res:
+                if res.status == 200:
+                    payload = json.loads(res.read().decode("utf-8"))
+                    return payload.get("data", [])
+        except Exception as e:
+            logger.warning(f"TejHQ actions query failed for {symbol}: {e}")
+        return []
+
+
+class FinancialsAdapter:
+    """Fetches real reported financials, profile, and ratios from yfinance with caching & graceful fallback."""
+    _CACHE: Dict[str, Dict[str, Any]] = {}
+
+    @classmethod
+    def get_company_dossier(cls, symbol: str) -> Dict[str, Any]:
+        from pathlib import Path
+        clean_sym = symbol.strip().upper().replace(".NS", "")
+        
+        # 1. Memory Cache
+        if clean_sym in cls._CACHE:
+            return cls._CACHE[clean_sym]
+
+        # 2. Disk Cache
+        cache_dir = Path("data/dossier_cache")
+        cache_dir.mkdir(parents=True, exist_ok=True)
+        cache_file = cache_dir / f"{clean_sym}.json"
+        if cache_file.exists():
+            try:
+                with open(cache_file, "r", encoding="utf-8") as f:
+                    cached = json.load(f)
+                    cls._CACHE[clean_sym] = cached
+                    return cached
+            except Exception:
+                pass
+
+        yf_ticker = f"{clean_sym}.NS"
+        
+        dossier: Dict[str, Any] = {
+            "symbol": clean_sym,
+            "company_name": clean_sym,
+            "sector": "Diversified",
+            "industry": "General",
+            "business_summary": "Company financial filings and business operations.",
+            "market_cap_cr": 0.0,
+            "pe_ratio": None,
+            "pb_ratio": None,
+            "book_value": None,
+            "dividend_yield_pct": None,
+            "shares_outstanding_cr": 0.0,
+            "fifty_two_week_high": None,
+            "fifty_two_week_low": None,
+            "financial_statements": [],
+            "source": "Official Disclosures / Yahoo Finance",
+            "retrieval_time": datetime.now().isoformat()
+        }
+
+        try:
+            t = yf.Ticker(yf_ticker)
+            info = t.info or {}
+            dossier["company_name"] = info.get("shortName") or info.get("longName") or clean_sym
+            dossier["sector"] = info.get("sector") or "Diversified"
+            dossier["industry"] = info.get("industry") or "General"
+            dossier["business_summary"] = info.get("longBusinessSummary") or f"{clean_sym} is an Indian publicly traded enterprise."
+            
+            mcap = info.get("marketCap", 0)
+            dossier["market_cap_cr"] = round(mcap / 1e7, 2) if mcap else 0.0
+            
+            shares = info.get("sharesOutstanding", 0)
+            dossier["shares_outstanding_cr"] = round(shares / 1e7, 4) if shares else 0.0
+            
+            dossier["pe_ratio"] = round(info.get("trailingPE"), 2) if info.get("trailingPE") else None
+            dossier["pb_ratio"] = round(info.get("priceToBook"), 2) if info.get("priceToBook") else None
+            dossier["book_value"] = round(info.get("bookValue"), 2) if info.get("bookValue") else None
+            dossier["dividend_yield_pct"] = round(info.get("dividendYield", 0) * 100, 2) if info.get("dividendYield") else None
+            dossier["fifty_two_week_high"] = info.get("fiftyTwoWeekHigh")
+            dossier["fifty_two_week_low"] = info.get("fiftyTwoWeekLow")
+
+            # Income statement & Balance Sheet
+            inc = t.financials
+            bs = t.balance_sheet
+            cf = t.cashflow
+
+            if inc is not None and not inc.empty:
+                periods = []
+                for col in list(inc.columns)[:5]:
+                    year_str = col.strftime("FY%y (%Y)") if hasattr(col, "strftime") else str(col)
+                    
+                    def get_val(df, row_name):
+                        if df is not None and not df.empty and row_name in df.index:
+                            val = df.loc[row_name, col]
+                            return round(float(val) / 1e7, 2) if pd_not_na(val) else None
+                        return None
+
+                    rev = get_val(inc, "Total Revenue") or get_val(inc, "Operating Revenue")
+                    op_inc = get_val(inc, "Operating Income") or get_val(inc, "EBIT")
+                    ebitda = get_val(inc, "EBITDA") or (op_inc if op_inc else None)
+                    ni = get_val(inc, "Net Income") or get_val(inc, "Net Income Common Stockholders")
+                    
+                    tot_assets = get_val(bs, "Total Assets")
+                    tot_equity = get_val(bs, "Stockholders Equity") or get_val(bs, "Total Equity Gross Minority Interest")
+                    tot_debt = get_val(bs, "Total Debt")
+                    cash = get_val(bs, "Cash And Cash Equivalents")
+                    
+                    cfo = get_val(cf, "Operating Cash Flow")
+                    capex = get_val(cf, "Capital Expenditure")
+                    fcff = round(cfo - abs(capex), 2) if (cfo is not None and capex is not None) else None
+
+                    periods.append({
+                        "period": year_str,
+                        "revenue_cr": rev,
+                        "ebitda_cr": ebitda,
+                        "net_income_cr": ni,
+                        "operating_cash_flow_cr": cfo,
+                        "capex_cr": abs(capex) if capex else None,
+                        "fcff_cr": fcff,
+                        "total_assets_cr": tot_assets,
+                        "total_equity_cr": tot_equity,
+                        "total_debt_cr": tot_debt,
+                        "cash_cr": cash
+                    })
+                dossier["financial_statements"] = periods
+
+            # Write to disk cache
+            cls._CACHE[clean_sym] = dossier
+            try:
+                with open(cache_file, "w", encoding="utf-8") as f:
+                    json.dump(dossier, f, indent=2)
+            except Exception:
+                pass
+
+        except Exception as e:
+            logger.warning(f"FinancialsAdapter extraction error for {symbol}: {e}")
+
+        cls._CACHE[clean_sym] = dossier
+        return dossier
+
+
+def pd_not_na(val):
+    if val is None:
+        return False
+    try:
+        import math
+        return not math.isnan(val)
+    except:
+        return True
+
+
+class IndustryKnowledgeEngine:
+    """Permitted, curated knowledge base of Indian industry dynamics and risk parameters."""
+    
+    SECTOR_KNOWLEDGE = {
+        "Energy": {
+            "demand_drivers": "Domestic transportation fuels demand growing at 5-6% YoY; petrochemical intensity rising with industrial packaging and consumer goods.",
+            "supply_dynamics": "OPEC+ crude quotas constrain feedstocks; domestic refining capacity additions at Paradip and Jamnagar keep utilization > 100%.",
+            "regulatory_framework": "Administered pricing mechanism deregulation; windfall taxes calibrated to international Singapore gross refining margins (GRM).",
+            "key_risks": "Brent crude volatility, global refining margin compression, green hydrogen transition capex overhang."
+        },
+        "Technology": {
+            "demand_drivers": "Enterprise cloud migrations, Generative AI engineering integration, and cost-takeout vendor consolidation in US & European BFS/Healthcare.",
+            "supply_dynamics": "Indian tech engineering talent pool of 5.4M professionals; attrition normalized to 12-14%; shift toward global capability centers (GCCs).",
+            "regulatory_framework": "SEZ unit sunset clauses; statutory H-1B visa compliance; Digital Personal Data Protection (DPDP) Act 2023 compliance.",
+            "key_risks": "US discretionary tech spend cuts, rupee appreciation vs USD/EUR, GenAI delivery model deflation."
+        },
+        "Financial Services": {
+            "demand_drivers": "Retail credit expansion (unsecured, auto, home) growing at 14-16% YoY; formalization of SME borrowing via GST & Account Aggregator network.",
+            "supply_dynamics": "Deposit growth trailing credit expansion (11-12%), driving wholesale deposit cost pressures and liquidity coverage ratio (LCR) scrutiny.",
+            "regulatory_framework": "RBI risk weight enhancements on unsecured personal loans and NBFC lending; draft project finance provisioning norms.",
+            "key_risks": "Net Interest Margin (NIM) compression, unsecured portfolio slippages, systemic liquidity tightening."
+        },
+        "Consumer Cyclical": {
+            "demand_drivers": "Premiumization in urban retail, rapid penetration of quick-commerce, and expanding middle-class disposable income.",
+            "supply_dynamics": "Store footprint additions across Tier 2/3 cities; supply chain centralization under GST.",
+            "regulatory_framework": "FDI in retail regulations; Bureau of Indian Standards (BIS) quality control compliance.",
+            "key_risks": "Rural consumption slowdown, raw material inflation, intense discount competition from quick-commerce."
+        },
+        "Industrials": {
+            "demand_drivers": "Government infrastructure capex budget (₹11.11 Lakh Cr); private industrial capex revival in renewables, electronics, and defense.",
+            "supply_dynamics": "Domestic manufacturing capacity expanding under Production Linked Incentive (PLI) schemes.",
+            "regulatory_framework": "Public procurement 'Make in India' preference orders; statutory project environmental clearances.",
+            "key_risks": "Raw material (steel, copper) inflation, execution delays, high working capital intensity."
+        }
+    }
+
+    @classmethod
+    def get_industry_profile(cls, sector: str) -> Dict[str, str]:
+        for sec_key, profile in cls.SECTOR_KNOWLEDGE.items():
+            if sec_key.lower() in sector.lower() or sector.lower() in sec_key.lower():
+                return profile
+        return {
+            "demand_drivers": "Driven by Indian GDP macro expansion (6.5-7.0% growth trajectory) and formalization.",
+            "supply_dynamics": "Domestic supply chains adjusting to digital procurement and logistics efficiency.",
+            "regulatory_framework": "Subject to relevant Indian statutory industrial licensing, GST compliance, and SEBI disclosures.",
+            "key_risks": "Macroeconomic interest rate fluctuations, input cost inflation, competitive disruption."
+        }

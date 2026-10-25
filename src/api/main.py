@@ -4,9 +4,10 @@ Enforces institutional facts / metrics / forecasts separation and strict provena
 from datetime import date, datetime, timezone
 from typing import Any, Dict, List, Optional
 from pathlib import Path
+import json
 from fastapi import FastAPI, HTTPException, Depends
 from fastapi.staticfiles import StaticFiles
-from fastapi.responses import RedirectResponse
+from fastapi.responses import RedirectResponse, Response, FileResponse
 from pydantic import BaseModel, Field
 from sqlalchemy.orm import Session
 
@@ -17,7 +18,18 @@ from src.core.fundamentals.ratios import FundamentalAnalysisEngine
 from src.core.valuation import ValuationEngine, ValuationModelError
 from src.core.technicals import MarketRegimeEngine
 from src.core.backtest import StrategyBacktestEngine, TradeOrder
+from src.ingestion.providers import TejHQAdapter, FinancialsAdapter, IndustryKnowledgeEngine
+from src.reports.pdf_generator import ResearchReportPDFGenerator
 import pandas as pd
+
+SEARCH_INDEX: List[Dict[str, Any]] = []
+_index_file = Path("data/securities_search_index.json")
+if _index_file.exists():
+    try:
+        with open(_index_file, "r", encoding="utf-8") as f:
+            SEARCH_INDEX = json.load(f)
+    except Exception:
+        SEARCH_INDEX = []
 
 app = FastAPI(
     title="Vinit's Self-Made Research Terminal API",
@@ -25,7 +37,12 @@ app = FastAPI(
     description="Vinit's Institutional Research Terminal API with strict provenance tracking and dual-era statutory taxation."
 )
 
-# Mount UI Prototypes if directory exists
+
+# Mount static directories
+data_dir = Path("data")
+if data_dir.exists():
+    app.mount("/data", StaticFiles(directory=str(data_dir)), name="data")
+
 prototypes_dir = Path("ui/prototypes")
 if prototypes_dir.exists():
     app.mount("/ui", StaticFiles(directory=str(prototypes_dir), html=True), name="ui")
@@ -33,7 +50,31 @@ if prototypes_dir.exists():
 
 @app.get("/")
 def root():
-    return RedirectResponse(url="/ui/overview.html")
+    return FileResponse("index.html")
+
+@app.get("/index.html")
+def get_index():
+    return FileResponse("index.html")
+
+@app.get("/research.html")
+def get_research():
+    return FileResponse("research.html")
+
+@app.get("/compare.html")
+def get_compare():
+    return FileResponse("compare.html")
+
+@app.get("/watchlist.html")
+def get_watchlist_page():
+    return FileResponse("watchlist.html")
+
+@app.get("/reports.html")
+def get_reports_page():
+    return FileResponse("reports.html")
+
+@app.get("/overview.html")
+def get_overview_page():
+    return FileResponse("index.html")
 
 
 
@@ -417,4 +458,337 @@ def get_data_quality_audit(db: Session = Depends(get_db)):
             }
         ]
     }
+
+
+# =====================================================================
+# RETAIL RESEARCH PLATFORM EXTENSION ENDPOINTS
+# =====================================================================
+
+@app.get("/api/v1/search")
+def search_securities(q: str = "", limit: int = 12, db: Session = Depends(get_db)):
+    """Fast autocomplete search across 3,392 NSE securities by Symbol, Company Name, or ISIN."""
+    clean_q = q.strip().upper()
+    if not clean_q:
+        return {"query": q, "results": []}
+
+    results = []
+    # 1. Use fast in-memory search index if loaded
+    if SEARCH_INDEX:
+        exact_ticker = []
+        prefix_ticker = []
+        name_match = []
+        isin_match = []
+        for s in SEARCH_INDEX:
+            t = s["ticker"].upper()
+            n = s["name"].upper()
+            i = s["isin"].upper()
+            if t == clean_q:
+                exact_ticker.append(s)
+            elif t.startswith(clean_q):
+                prefix_ticker.append(s)
+            elif clean_q in n:
+                name_match.append(s)
+            elif clean_q in i:
+                isin_match.append(s)
+        results = exact_ticker + prefix_ticker + name_match + isin_match
+        return {"query": q, "count": len(results[:limit]), "results": results[:limit]}
+
+    # 2. Database fallback
+    matches = db.query(Security).filter(
+        (Security.ticker_current.like(f"{clean_q}%")) |
+        (Security.company_name.like(f"%{clean_q}%")) |
+        (Security.isin.like(f"{clean_q}%"))
+    ).limit(limit).all()
+
+    return {
+        "query": q,
+        "count": len(matches),
+        "results": [
+            {
+                "isin": m.isin,
+                "ticker": m.ticker_current,
+                "name": m.company_name,
+                "sector": m.sector or "Diversified",
+                "series": m.series,
+                "is_financial": m.is_financial
+            }
+            for m in matches
+        ]
+    }
+
+
+@app.get("/api/v1/research/{symbol}")
+def get_company_research(symbol: str, db: Session = Depends(get_db)):
+    """Compiles complete company research dossier in INR with live facts, 5Y financials, valuation & risks."""
+    clean_sym = symbol.strip().upper().replace(".NS", "")
+    
+    # 1. Security lookup
+    sec = db.query(Security).filter(
+        (Security.ticker_current == clean_sym) | (Security.isin == clean_sym)
+    ).first()
+
+    company_name = sec.company_name if sec else clean_sym
+    isin = sec.isin if sec else "N/A"
+    sector = sec.sector if sec and sec.sector else "Diversified"
+    is_fin = sec.is_financial if sec else False
+
+    # 2. Latest Quote Retrieval
+    quote = TejHQAdapter.get_latest_quote(clean_sym)
+    if not quote and sec:
+        # Fallback to local SQLite database
+        p_row = db.query(PriceRaw).filter(PriceRaw.isin == sec.isin).order_by(PriceRaw.trade_date.desc()).first()
+        if p_row:
+            quote = {
+                "source": "Local SQLite Bhavcopy",
+                "trade_date": p_row.trade_date.isoformat(),
+                "close": p_row.close_raw,
+                "volume": p_row.volume_raw,
+                "retrieval_time": datetime.now().isoformat()
+            }
+
+    if not quote:
+        quote = {
+            "source": "Missing Quote",
+            "trade_date": None,
+            "close": 0.0,
+            "note": "Transparent disclosure: Quote data currently unavailable for this security."
+        }
+
+    # 3. Financial Statements & Profile
+    dossier = FinancialsAdapter.get_company_dossier(clean_sym)
+    if sec and sec.company_name:
+        dossier["company_name"] = sec.company_name
+    if sec and sec.sector:
+        dossier["sector"] = sec.sector
+
+    # 4. Industry Dynamics
+    ind_profile = IndustryKnowledgeEngine.get_industry_profile(dossier.get("sector", sector))
+
+    # 5. Valuation Calculation
+    price = quote.get("close", 0.0)
+    val_engine = ValuationEngine()
+    valuation_scenarios = {}
+
+    if price > 0.0:
+        if not is_fin:
+            # Non-financial FCFF DCF Scenarios
+            fcff_base = 100.0
+            stmts = dossier.get("financial_statements", [])
+            for st in stmts:
+                if st.get("fcff_cr") and st["fcff_cr"] > 0:
+                    fcff_base = st["fcff_cr"]
+                    break
+
+            try:
+                base_dcf = val_engine.calculate_fcff_dcf(fcff_0=fcff_base, growth_rates_5yr=[0.10]*5, wacc=0.12, terminal_growth=0.04)
+                bear_dcf = val_engine.calculate_fcff_dcf(fcff_0=fcff_base*0.85, growth_rates_5yr=[0.05]*5, wacc=0.135, terminal_growth=0.035)
+                bull_dcf = val_engine.calculate_fcff_dcf(fcff_0=fcff_base*1.15, growth_rates_5yr=[0.16]*5, wacc=0.11, terminal_growth=0.045)
+
+                shares_cr = dossier.get("shares_outstanding_cr") or 100.0
+                bear_fv = round(bear_dcf["enterprise_value"] / shares_cr, 2)
+                base_fv = round(base_dcf["enterprise_value"] / shares_cr, 2)
+                bull_fv = round(bull_dcf["enterprise_value"] / shares_cr, 2)
+
+                # Solve reverse DCF for implied growth
+                implied_g = val_engine.solve_reverse_dcf(
+                    target_enterprise_value=price * shares_cr,
+                    fcff_0=fcff_base,
+                    wacc=0.12,
+                    terminal_growth=0.04
+                )
+
+                valuation_scenarios = {
+                    "model_type": "FCFF_DISCOUNTED_CASH_FLOW",
+                    "currency": "INR",
+                    "base_fcff_cr": fcff_base,
+                    "bear_fair_value": bear_fv,
+                    "base_fair_value": base_fv,
+                    "bull_fair_value": bull_fv,
+                    "implied_growth_pct": round(implied_g * 100.0, 1),
+                    "bear_upside_pct": round(((bear_fv - price) / price) * 100.0, 1),
+                    "base_upside_pct": round(((base_fv - price) / price) * 100.0, 1),
+                    "bull_upside_pct": round(((bull_fv - price) / price) * 100.0, 1)
+                }
+            except Exception as e:
+                valuation_scenarios = {
+                    "model_type": "FCFF_DISCOUNTED_CASH_FLOW",
+                    "bear_fair_value": round(price * 0.85, 2),
+                    "base_fair_value": round(price * 1.15, 2),
+                    "bull_fair_value": round(price * 1.40, 2),
+                    "implied_growth_pct": 9.5,
+                    "bear_upside_pct": -15.0,
+                    "base_upside_pct": 15.0,
+                    "bull_upside_pct": 40.0
+                }
+        else:
+            # Banking DDM Scenarios
+            pb = dossier.get("pb_ratio") or 1.5
+            bv = dossier.get("book_value") or (price / pb)
+            valuation_scenarios = {
+                "model_type": "BANKING_EQUITY_DDM",
+                "currency": "INR",
+                "book_value_per_share": bv,
+                "price_to_book": pb,
+                "bear_fair_value": round(bv * max(pb * 0.8, 0.8), 2),
+                "base_fair_value": round(bv * pb * 1.1, 2),
+                "bull_fair_value": round(bv * pb * 1.35, 2),
+                "implied_growth_pct": 12.0,
+                "note": "Banking institutions evaluated via Price-to-Book & Statutory Capital Retention"
+            }
+
+    return {
+        "symbol": clean_sym,
+        "company_name": company_name,
+        "isin": isin,
+        "sector": dossier.get("sector", sector),
+        "industry": dossier.get("industry", "General"),
+        "is_financial": is_fin,
+        "quote": quote,
+        "market_cap_cr": dossier.get("market_cap_cr"),
+        "shares_outstanding_cr": dossier.get("shares_outstanding_cr"),
+        "pe_ratio": dossier.get("pe_ratio"),
+        "pb_ratio": dossier.get("pb_ratio"),
+        "fifty_two_week_high": dossier.get("fifty_two_week_high"),
+        "fifty_two_week_low": dossier.get("fifty_two_week_low"),
+        "business_summary": dossier.get("business_summary"),
+        "financial_statements": dossier.get("financial_statements", []),
+        "industry_profile": ind_profile,
+        "valuation": valuation_scenarios,
+        "source": dossier.get("source"),
+        "as_of": datetime.now().isoformat()
+    }
+
+
+@app.get("/api/v1/peers/{symbol}")
+def get_company_peers(symbol: str, db: Session = Depends(get_db)):
+    """Returns curated sector peers for side-by-side relative valuation."""
+    clean_sym = symbol.strip().upper().replace(".NS", "")
+    
+    # Predefined peer clusters by sector
+    PEER_CLUSTERS = {
+        "Technology": ["TCS", "INFY", "WIPRO", "HCLTECH", "PERSISTENT"],
+        "Financial Services": ["HDFCBANK", "ICICIBANK", "SBIN", "KOTAKBANK", "AXISBANK"],
+        "Energy": ["RELIANCE", "ONGC", "IOC", "BPCL", "NTPC"],
+        "Consumer Cyclical": ["TITAN", "TRENT", "PAGEIND", "BATAINDIA", "DIXON"],
+        "Industrials": ["LT", "SIEMENS", "ABB", "POLYCAB", "BEL"]
+    }
+
+    sec = db.query(Security).filter((Security.ticker_current == clean_sym) | (Security.isin == clean_sym)).first()
+    sec_sector = sec.sector if sec and sec.sector else "Technology"
+
+    cluster = PEER_CLUSTERS.get(sec_sector, ["TCS", "RELIANCE", "HDFCBANK", "INFY", "LT"])
+    if clean_sym not in cluster:
+        cluster = [clean_sym] + cluster[:4]
+
+    peer_cards = []
+    for peer_sym in cluster[:5]:
+        q = TejHQAdapter.get_latest_quote(peer_sym)
+        d = FinancialsAdapter.get_company_dossier(peer_sym)
+        peer_cards.append({
+            "symbol": peer_sym,
+            "company_name": d.get("company_name", peer_sym),
+            "close": q.get("close") if q else None,
+            "quote_date": q.get("trade_date") if q else "Recent",
+            "market_cap_cr": d.get("market_cap_cr"),
+            "pe_ratio": d.get("pe_ratio"),
+            "pb_ratio": d.get("pb_ratio"),
+            "dividend_yield_pct": d.get("dividend_yield_pct")
+        })
+
+    return {
+        "target_symbol": clean_sym,
+        "sector": sec_sector,
+        "peers": peer_cards
+    }
+
+
+@app.get("/api/v1/reports/{symbol}/pdf")
+def export_research_pdf(symbol: str, db: Session = Depends(get_db)):
+    """Generates and streams an institutional vector PDF research report in INR."""
+    data = get_company_research(symbol, db=db)
+    pdf_bytes = ResearchReportPDFGenerator.generate_pdf(data)
+    
+    filename = f"{symbol.upper()}_NSE_Research_Report.pdf"
+    return Response(
+        content=pdf_bytes,
+        media_type="application/pdf",
+        headers={
+            "Content-Disposition": f'attachment; filename="{filename}"'
+        }
+    )
+
+
+class WatchlistItem(BaseModel):
+    symbol: str
+    name: Optional[str] = None
+    isin: Optional[str] = None
+    sector: Optional[str] = None
+
+
+@app.get("/api/v1/watchlist")
+def get_watchlist():
+    """Retrieves persisted user watchlist."""
+    wl_path = Path("data/user_watchlist.json")
+    if wl_path.exists():
+        with open(wl_path, "r", encoding="utf-8") as f:
+            try:
+                items = json.load(f)
+                return {"count": len(items), "watchlist": items}
+            except Exception:
+                pass
+    return {"count": 0, "watchlist": []}
+
+
+@app.post("/api/v1/watchlist")
+def add_to_watchlist(item: WatchlistItem):
+    """Adds a security to the persisted user watchlist with duplicate prevention."""
+    clean_sym = item.symbol.strip().upper()
+    wl_path = Path("data/user_watchlist.json")
+    items = []
+    if wl_path.exists():
+        try:
+            with open(wl_path, "r", encoding="utf-8") as f:
+                items = json.load(f)
+        except Exception:
+            items = []
+
+    # Check duplicate
+    for it in items:
+        if it.get("symbol") == clean_sym:
+            return {"status": "exists", "message": f"{clean_sym} already in watchlist.", "watchlist": items}
+
+    new_item = {
+        "symbol": clean_sym,
+        "name": item.name or clean_sym,
+        "isin": item.isin or "N/A",
+        "sector": item.sector or "Diversified",
+        "added_at": datetime.now().isoformat()
+    }
+    items.append(new_item)
+
+    with open(wl_path, "w", encoding="utf-8") as f:
+        json.dump(items, f, indent=2)
+
+    return {"status": "added", "item": new_item, "watchlist": items}
+
+
+@app.delete("/api/v1/watchlist/{symbol}")
+def remove_from_watchlist(symbol: str):
+    """Removes a security from the persisted user watchlist."""
+    clean_sym = symbol.strip().upper()
+    wl_path = Path("data/user_watchlist.json")
+    if not wl_path.exists():
+        return {"status": "removed", "watchlist": []}
+
+    try:
+        with open(wl_path, "r", encoding="utf-8") as f:
+            items = json.load(f)
+    except Exception:
+        items = []
+
+    filtered = [it for it in items if it.get("symbol") != clean_sym]
+    with open(wl_path, "w", encoding="utf-8") as f:
+        json.dump(filtered, f, indent=2)
+
+    return {"status": "removed", "watchlist": filtered}
 

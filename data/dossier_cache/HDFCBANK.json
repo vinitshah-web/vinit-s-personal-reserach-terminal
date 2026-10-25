@@ -1,0 +1,71 @@
+{
+  "symbol": "HDFCBANK",
+  "company_name": "HDFC BANK LTD",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "business_summary": "HDFC Bank Limited provides banking and financial products and services to individuals and businesses in India, Bahrain, Hong Kong, Singapore, and Dubai. The company operates through Treasury, Retail Banking, Wholesale Banking, Other Banking Business, Insurance Business, and Other segments. It offers savings, salary, current, rural, public provident fund, pension, and demat accounts; fixed and recurring deposits; and safe deposit lockers, as well as offshore accounts and deposits, and overdrafts against fixed deposits. The company also provides personal, home, car and pre owned car, marriage, two-wheeler, business, doctor, educational, gold, consumer, and rural loans; loans against properties, securities, mutual funds, and car; loans for professionals; government sponsored programs; and loans on credit card, as well as working capital, term loans, supply chain management, project finance, export finance, commercial vehicle / equipment finance, tractor finance, infrastructure, and agriculture finance. In addition, it offers credit, debit, prepaid, forex, and kisan gold cards; payment and collection, export, import, remittance, bank guarantee, letter of credit, trade, hedging, and merchant and cash management services; and insurance and investment products. Further, the company provides short term finance, bill discounting, structured finance, export credit, loan repayment, custodial, and documents collection services; online, mobile, and phone banking services; unified payment interface, immediate payment, national electronic funds transfer, and real time gross settlement services; channel financing, vendor financing, money market, derivatives, employee trusts, cash surplus corporates, tax payment, and bankers to rights/public issue services; and financial solutions for supply chain partners and agricultural customers. It operates branches and automated teller machines in various cities/towns. The company was incorporated in 1994 and is headquartered in Mumbai, India.",
+  "market_cap_cr": 1068825.37,
+  "pe_ratio": 15.14,
+  "pb_ratio": 1.75,
+  "book_value": 394.84,
+  "dividend_yield_pct": 188.0,
+  "shares_outstanding_cr": 1542.7618,
+  "fifty_two_week_high": 1017.5,
+  "fifty_two_week_low": 681.9,
+  "financial_statements": [
+    {
+      "period": "FY26 (2026)",
+      "revenue_cr": 249561.75,
+      "ebitda_cr": null,
+      "net_income_cr": 70479.34,
+      "operating_cash_flow_cr": 111855.99,
+      "capex_cr": 5278.36,
+      "fcff_cr": 106577.63,
+      "total_assets_cr": 5262119.32,
+      "total_equity_cr": 816739.56,
+      "total_debt_cr": 664364.04,
+      "cash_cr": 365067.39
+    },
+    {
+      "period": "FY25 (2025)",
+      "revenue_cr": 237150.82,
+      "ebitda_cr": null,
+      "net_income_cr": 67350.83,
+      "operating_cash_flow_cr": 119561.74,
+      "capex_cr": 6639.73,
+      "fcff_cr": 112922.01,
+      "total_assets_cr": 4818767.11,
+      "total_equity_cr": 767689.14,
+      "total_debt_cr": 732610.61,
+      "cash_cr": 322232.31
+    },
+    {
+      "period": "FY24 (2024)",
+      "revenue_cr": 198693.43,
+      "ebitda_cr": null,
+      "net_income_cr": 62265.66,
+      "operating_cash_flow_cr": 102232.24,
+      "capex_cr": 5383.8,
+      "fcff_cr": 96848.44,
+      "total_assets_cr": 4411857.3,
+      "total_equity_cr": 694732.74,
+      "total_debt_cr": 809355.21,
+      "cash_cr": 342597.33
+    },
+    {
+      "period": "FY23 (2023)",
+      "revenue_cr": 120537.5,
+      "ebitda_cr": null,
+      "net_income_cr": 49544.69,
+      "operating_cash_flow_cr": 47720.06,
+      "capex_cr": 4362.03,
+      "fcff_cr": 43358.03,
+      "total_assets_cr": 2575562.4,
+      "total_equity_cr": 291220.07,
+      "total_debt_cr": 315179.28,
+      "cash_cr": 236392.02
+    }
+  ],
+  "source": "Official Disclosures / Yahoo Finance",
+  "retrieval_time": "2026-10-25T15:18:43.919184"
+}

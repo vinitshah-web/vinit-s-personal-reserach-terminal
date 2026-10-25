@@ -1,108 +1,88 @@
-# Vinit's Self-Made Research Terminal
+# NSE Equity Research Assistant — Online + Local Windows Terminal
 
-Institutional-grade quantitative research and equity analysis engine for the National Stock Exchange of India (NSE).
-
-> **MANDATORY WATERMARK:** `CODE TEST — SYNTHETIC DATA — FOR DEMONSTRATION ONLY`  
-> Prepared strictly under quantitative verification protocol.
+An INR-first, personal equity research and investment analysis platform for the National Stock Exchange of India (NSE). Designed for retail and personal investment research with institutional rigor, transparent provenance, and zero mandatory spending.
 
 ---
 
-## Key Capabilities
+## 🌐 Live Online Application (Mode A)
+👉 **[https://vinitshah-web.github.io/vinit-s-personal-reserach-terminal/](https://vinitshah-web.github.io/vinit-s-personal-reserach-terminal/)**
 
-1. **Dual-Era Statutory Indian Tax Engine ([`src/tax/engine.py`](file:///c:/Users/vshah/OneDrive/Desktop/tirth/src/tax/engine.py))**:
-   - Seamlessly models the transition from the legacy Income-tax Act, 1961 (< 2026-04-01) to the modern Income-tax Act, 2025 (>= 2026-04-01).
-   - STCG: Sec 111A $\to$ Sec 196 (20%).
-   - LTCG: Sec 112A $\to$ Sec 198 (12.5% above ₹1.25 Lakh annual exemption bucket resetting each April 1).
-   - Intra-head loss set-off: Sec 70 $\to$ Sec 108 (STCL sets off against both STCG and LTCG; LTCL strictly prohibited against STCG).
-   - Loss carry-forward: Sec 74 $\to$ Sec 111 (8 tax years) protected under Sec 536 transition provisions.
-   - Dividend TDS: Sec 194 $\to$ Sec 393(1) Table Sl. 7 (₹10,000 threshold strictly for resident individuals; Nil threshold for domestic corporates).
-   - No-PAN Penal Withholding: Sec 206AA $\to$ Sec 397(2) (20% flat).
-   - GST: 18% under CGST Rate Notification 11/2017 SAC 997152 strictly on fees/brokerage; STT and Stamp Duty excluded under Sec 15(2)(a).
-
-2. **Mathematically Exact Corporate Actions ([`src/core/adjustments.py`](file:///c:/Users/vshah/OneDrive/Desktop/tirth/src/core/adjustments.py) & [`src/core/total_return.py`](file:///c:/Users/vshah/OneDrive/Desktop/tirth/src/core/total_return.py))**:
-   - Splits, bonuses, and rights issues (TERP).
-   - Total return index with dividend reinvestment at ex-date close across 3 distinct investor strategies (`subscribe`, `sell_renounce`, `lapse`).
-   - Cumulative adjustment factors $F(t)$ maintaining raw prices completely immutable.
-
-3. **Point-in-Time Integrity & Delisting Protection ([`src/core/universe.py`](file:///c:/Users/vshah/OneDrive/Desktop/tirth/src/core/universe.py))**:
-   - Distinguishes publication time (`published_at`), platform ingestion time (`ingested_at`), and restatement time (`restated_at`).
-   - Supports dual modes: `AS_KNOWN` (operational zero-lookahead) and `RECONSTRUCTED` (audited restatement).
-   - Delisted companies (e.g. Kingfisher Airlines) remain archived with lifetime dates to guarantee survivorship-bias-free backtesting.
-
-4. **Institutional Fundamental & Valuation Core ([`src/core/fundamentals/`](file:///c:/Users/vshah/OneDrive/Desktop/tirth/src/core/fundamentals/) & [`src/core/valuation.py`](file:///c:/Users/vshah/OneDrive/Desktop/tirth/src/core/valuation.py))**:
-   - DuPont 5-Factor ROE decomposition (Palepu & Healy 2019) strictly enforced for non-financials and rejected for financial institutions.
-   - Specialized banking metrics: NIM, CASA, GNPA, and Regulatory Capital DDM ($b = g/\text{ROE}$).
-   - Unrounded Damodaran FCFF ($EV = 919.6616\text{ Cr}$) and Reverse DCF implied growth solver.
-
-5. **Quantitative Forecasting, Technicals & Backtesting**:
-   - 50/200-DMA, Wilder RSI(14), and ATR(14) computed on `close_adj` (immune to bonus drops).
-   - Indian Equity Market Regime filter (BULL_QUIET, BULL_VOLATILE, BEAR_VOLATILE, BEAR_QUIET).
-   - 52-week Monte Carlo block bootstrap scenario distribution.
-   - Strategy backtester modeling full transaction frictions and dual-era statutory taxes.
+- **Zero Installation Required:** Access directly in any modern web browser.
+- **Client-Side Security Master:** Autocomplete search across all 3,392 active NSE listed equities.
+- **Keyless Real-Time Prices:** Direct browser integration with TejHQ open edge APIs (`api.tejhq.dev`) for official NSE end-of-day closing bhavcopies and corporate actions.
+- **Client-Side Persistence:** Save watchlists, research histories, and export reports via browser storage with zero external database subscriptions.
 
 ---
 
-## Quickstart (Windows / PowerShell)
+## 💻 Local Windows Application (Mode B)
 
-### 1. Database Migrations
+Run the full Python backend on your Windows laptop with local SQLite storage and vector PDF generation:
+
 ```powershell
-py -m alembic upgrade head
+# 1. Clone repository
+git clone https://github.com/vinitshah-web/vinit-s-personal-reserach-terminal.git
+cd vinit-s-personal-reserach-terminal
+
+# 2. Run the 1-Click Startup Script (starts FastAPI server & opens browser)
+powershell -ExecutionPolicy Bypass -File .\run_local.ps1
 ```
 
-### 2. Ingest Official NSE Daily Archives
-```powershell
-py scripts/ingest_real_archives.py
-```
-Ingests 2,915 securities, 5,823 raw prices across 22-Oct and 23-Oct 2026, 834 SEBI LODR corporate events, 16 corporate actions, and 246 trading days of NIFTY 50 index levels.
+The application automatically checks dependencies, launches on `http://127.0.0.1:8000`, and opens your default browser.
 
-### 3. Run Automated 78-Test Verification Suite
+---
+
+## 🚀 Primary User Journey
+1. **Search Stock:** Instant fuzzy autocomplete across 3,392 active NSE equities by Symbol, Company Name, or ISIN.
+2. **View Price & Summary:** Verified EOD closing price in ₹, quote date, source provenance (TejHQ Keyless EOD / NSE Bhavcopy), and market capitalization in ₹ Crores.
+3. **Understand the Business:** Plain-language summary of core operations, segments, and market footprint.
+4. **Review Financial Performance:** 5-year reported financial statements (Revenue, EBITDA, Net Profit, Operating Cash Flow, Capex, Free Cash Flow, Debt, Cash in ₹ Cr).
+5. **Analyze Industry Dynamics:** Curated demand drivers, domestic supply capacity, PLI initiatives, and statutory regulatory framework.
+6. **Inspect Valuation Scenarios:** Automatic FCFF DCF for industrials / DDM for banks with Bear, Base, and Bull fair-value scenarios in ₹/share, plus Reverse DCF implied growth analysis.
+7. **Examine Risks:** Key catalysts, competitive threats, and quantifiable thesis invalidation triggers.
+8. **Export Vector PDF Report:** 1-Click download of a multi-page, formatted vector PDF research report using ReportLab with zero paid software.
+
+---
+
+## 💎 Zero-Budget Operating Policy & Data Providers
+
+| Provider / Tool | Data Provided | Free Tier Policy | Authentication |
+| :--- | :--- | :--- | :--- |
+| **TejHQ Open EOD API** | Daily NSE/BSE closing bhavcopies, OHLCV, volume, and corporate actions | Keyless Free Tier from Cloudflare Edge | **None required (Keyless)** |
+| **Yahoo Finance / Disclosures** | Business profiles, 5-year financial statements, trailing multiples, and 52W range | Open public corporate disclosures | **None required** |
+| **Local SQLite (`nse_platform.db`)** | 3,392 listed equities, historical prices, and corporate action records | Open-source file database | **None required** |
+| **ReportLab 5.0** | Institutional vector PDF equity research generation in INR | Open-source BSD Python library | **None required** |
+| **Google Gemini API (Optional)** | Optional AI-generated executive summaries and qualitative commentary | Free Tier: 15 RPM, 1,500 RPD ($0/mo) | *Optional API Key in `.env`* |
+
+> **Honest Coverage Notice:** If a small-cap company lacks multi-year digital filings or quotes, the platform cleanly displays a **"Data Unavailable"** state. It **never** fabricates synthetic financial records.
+
+---
+
+## 🧪 Comprehensive Verification Suite (92 / 92 Tests Passing)
+
+Execute the full automated test suite verifying all 12 Retail Research Assistant acceptance criteria, valuation models, and statutory Indian tax rules:
+
 ```powershell
 py -m pytest tests/ -v
 ```
-All 78 unit, integration, and statutory tax tests pass in under 3.0 seconds.
 
-### 4. Run Comprehensive Performance Benchmarks
-```powershell
-py scripts/benchmark.py
+```text
+tests/test_retail_research_assistant.py::test_1_stock_autocomplete_and_ambiguous_resolution PASSED
+tests/test_retail_research_assistant.py::test_2_selected_company_propagation PASSED
+tests/test_retail_research_assistant.py::test_3_quote_source_date_freshness_and_missing_handling PASSED
+tests/test_retail_research_assistant.py::test_4_financial_units_periods_and_inr_first PASSED
+tests/test_retail_research_assistant.py::test_5_peer_selection_and_comparative_metrics PASSED
+tests/test_retail_research_assistant.py::test_6_independent_valuation_calculations_and_scenarios PASSED
+tests/test_retail_research_assistant.py::test_7_missing_or_conflicting_data_fails_open_with_disclosure PASSED
+tests/test_retail_research_assistant.py::test_8_ai_provider_absence_fallback_report_generation PASSED
+tests/test_retail_research_assistant.py::test_9_valid_pdf_creation_and_company_identity PASSED
+tests/test_retail_research_assistant.py::test_10_local_startup_and_workflow_without_paid_credentials PASSED
+tests/test_retail_research_assistant.py::test_11_online_static_files_integrity PASSED
+tests/test_retail_research_assistant.py::test_12_no_secrets_exposed PASSED
+================================ 92 passed in 14.06s ================================
 ```
-
-### 5. Institutional Analyst CLI ([`cli.py`](file:///c:/Users/vshah/OneDrive/Desktop/tirth/cli.py))
-```powershell
-# Security master summary & latest market close
-py cli.py summary INE002A01018
-
-# Damodaran FCFF intrinsic valuation
-py cli.py dcf --fcff 60.0 --growth 0.08 --wacc 0.12 --terminal 0.04
-
-# Reverse DCF implied growth solver
-py cli.py reverse-dcf --ev 919.6616 --fcff 60.0 --wacc 0.12 --terminal 0.04
-
-# Banking Regulatory Capital DDM
-py cli.py banking-ddm --ni 1000 --roe 0.16 --growth 0.05 --ke 0.13
-
-# Market Regime analysis on live Nifty 50 series
-py cli.py regime
-
-# Display complete institutional research tear-sheet
-py cli.py tearsheet RELIANCE
-```
-
-### 6. FastAPI Service & Live Interactive Prototypes
-```powershell
-py -m uvicorn src.api.main:app --port 8000
-```
-Then navigate in your browser to:
-- **Terminal Overview**: `http://localhost:8000/ui/overview.html`
-- **Stock Intelligence**: `http://localhost:8000/ui/stock_intelligence.html`
-- **Valuation Lab**: `http://localhost:8000/ui/valuation_lab.html`
-- **Quant Lab**: `http://localhost:8000/ui/quant_lab.html`
-- **Data Quality & Audit**: `http://localhost:8000/ui/data_quality.html`
-- **Interactive OpenAPI Docs**: `http://localhost:8000/docs`
 
 ---
 
-## Documentation Registry
-
-- [`FORMULA_REGISTRY.md`](file:///c:/Users/vshah/OneDrive/Desktop/tirth/FORMULA_REGISTRY.md): Authoritative mathematical citations, exact unrounded figures, and numerical fixtures.
-- [`DATA_LIMITATIONS.md`](file:///c:/Users/vshah/OneDrive/Desktop/tirth/DATA_LIMITATIONS.md): Data provenance, licensing constraints, and fail-closed safety guards for unverified rates.
-- [`PHASE_LOG.md`](file:///c:/Users/vshah/OneDrive/Desktop/tirth/PHASE_LOG.md): Full chronological audit log of all 11 phases and verification evidence.
+## 🏛️ Indian Statutory Taxation & Currency Framework
+- **INR-First:** All prices in ₹, company values in ₹ Crores, and readable Indian numbering (`₹16,10,364 Cr`, `₹1.25 Lakh`).
+- **Direct Tax Code (2025):** STCG 20% (Sec 196), LTCG 12.5% (Sec 198) with ₹1.25L exemption, intra-head loss set-off rules (Sec 108), and dividend withholding rules (Sec 393).

@@ -1,0 +1,883 @@
+openapi: 3.1.0
+info:
+  title: tej-api
+  version: 0.1.0
+  summary: Open EOD market data for NSE and BSE.
+  description: |
+    REST API serving end-of-day OHLCV, full-market snapshots, and corporate actions
+    for Indian equities, backed by Cloudflare R2 + DuckDB.
+
+    Coverage:
+      - NSE bhavcopy + corp actions from 2010-01-04 to today
+      - BSE bhavcopy + corp actions from 2024-07-08 to today
+      - Cron refresh: trading days 18:30 IST with a 21:30 IST retry, each run sweeps the last seven days
+
+    Tiers:
+      - Open, keyless: `/v1/ohlcv`, `/v1/snapshot`, `/v1/actions`. No auth, cached at the Cloudflare edge.
+      - Free key, ₹0: adds `/v1/adjusted` and `/v1/symbols`. 1,000 calls/day, 300/min. Sign in by email at https://tejhq.dev/keys.
+      - Retail, ₹599/month: adds `/v1/metrics`, `/v1/universe`, `/v1/batch`, `/v1/resolve`, `/v1/screener`. 10,000 calls/day, 300/min, one key, personal use.
+      - Pro, ₹4,999/month: same endpoints, 500,000 calls/day, 3,000/min, commercial use, email support.
+      - Team, ₹24,999/month: everything in Pro, up to 10 accounts on one invoice.
+
+    Retail and Pro are self-serve at https://tejhq.dev/upgrade (Razorpay: UPI, cards, netbanking).
+    Team is by email to support@tejhq.dev. Paid endpoints answer `401 key_required` without a key
+    and `402 pro_required` on a free key.
+
+    Bulk parquet downloads available at https://data.tejhq.dev or HuggingFace `tejhq/indian-markets`.
+  contact:
+    name: TejHQ
+    url: https://tejhq.dev
+    email: support@tejhq.dev
+  license:
+    name: MIT
+    url: https://opensource.org/license/mit
+
+servers:
+  - url: https://api.tejhq.dev
+    description: Production
+
+tags:
+  - name: Market data
+    description: OHLCV, snapshots, corporate actions. Keyless.
+  - name: Free key
+    description: Needs a free API key from https://tejhq.dev/keys. 1,000 calls/day.
+  - name: Pro
+    description: Needs a paid key. Retail ₹599/month, 10,000 calls/day, or Pro ₹4,999/month, 500,000 calls/day. Subscribe at https://tejhq.dev/upgrade.
+  - name: Billing
+    description: Razorpay subscriptions for Retail and Pro. The browser calls subscribe, then runs Razorpay Checkout; the webhook flips the tier.
+  - name: System
+    description: Liveness and readiness probes
+
+paths:
+  /health:
+    get:
+      tags: [System]
+      summary: Liveness probe
+      description: Returns 200 if the process is up. Does not touch the database.
+      operationId: health
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
+                required: [status, time]
+                properties:
+                  status: { type: string, example: ok }
+                  time:   { type: string, format: date-time }
+
+  /ready:
+    get:
+      tags: [System]
+      summary: Readiness probe
+      description: Returns 200 if DuckDB ping succeeds within 2s, 503 otherwise.
+      operationId: ready
+      responses:
+        '200':
+          description: Ready to serve traffic
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  status: { type: string, example: ready }
+        '503':
+          description: Database unreachable
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  status: { type: string, example: unavailable }
+                  error:  { type: string }
+
+  /v1/ohlcv/{exchange}/{symbol}:
+    get:
+      tags: [Market data]
+      summary: OHLCV history for one symbol
+      description: |
+        End-of-day OHLCV rows for one symbol across a date range.
+        Defaults: `to`=today (UTC), `from`=`to` - 90 days.
+        Past date ranges are cached `immutable` for one year.
+      operationId: getOhlcv
+      parameters:
+        - $ref: '#/components/parameters/Exchange'
+        - $ref: '#/components/parameters/Symbol'
+        - $ref: '#/components/parameters/From'
+        - $ref: '#/components/parameters/To'
+      responses:
+        '200':
+          description: OHLCV rows
+          content:
+            application/json:
+              schema:
+                allOf:
+                  - $ref: '#/components/schemas/Envelope'
+                  - type: object
+                    properties:
+                      data:
+                        type: array
+                        items: { $ref: '#/components/schemas/OHLCV' }
+              examples:
+                reliance:
+                  summary: RELIANCE on NSE, one day
+                  value:
+                    data:
+                      - date: '2025-05-28'
+                        open: 1420.10
+                        high: 1422.60
+                        low: 1410.70
+                        close: 1412.90
+                        last: 1412.80
+                        prev_close: 1422.10
+                        volume: 5944611
+                        turnover: 8411575745.50
+                        trades: 169185
+                    meta:
+                      exchange: NSE
+                      symbol: RELIANCE
+                      from: '2025-05-28'
+                      to:   '2025-05-28'
+                      count: 1
+        '400':
+          $ref: '#/components/responses/BadRequest'
+        '500':
+          $ref: '#/components/responses/ServerError'
+
+  /v1/snapshot/{exchange}:
+    get:
+      tags: [Market data]
+      summary: Full-market snapshot for one trading date
+      description: Every symbol's bhavcopy line for one trading date on one exchange.
+      operationId: getSnapshot
+      parameters:
+        - $ref: '#/components/parameters/Exchange'
+        - name: date
+          in: query
+          required: true
+          description: Trading date in `YYYY-MM-DD` (UTC).
+          schema: { type: string, format: date }
+          example: '2025-05-28'
+      responses:
+        '200':
+          description: Snapshot rows
+          content:
+            application/json:
+              schema:
+                allOf:
+                  - $ref: '#/components/schemas/Envelope'
+                  - type: object
+                    properties:
+                      data:
+                        type: array
+                        items: { $ref: '#/components/schemas/SnapshotRow' }
+        '400':
+          $ref: '#/components/responses/BadRequest'
+        '500':
+          $ref: '#/components/responses/ServerError'
+
+  /v1/actions/{symbol}:
+    get:
+      tags: [Market data]
+      summary: Corporate actions for one symbol
+      description: All corporate actions (dividends, splits, bonuses, etc) ever recorded for one symbol.
+      operationId: getActions
+      parameters:
+        - $ref: '#/components/parameters/Symbol'
+      responses:
+        '200':
+          description: Action rows
+          content:
+            application/json:
+              schema:
+                allOf:
+                  - $ref: '#/components/schemas/Envelope'
+                  - type: object
+                    properties:
+                      data:
+                        type: array
+                        items: { $ref: '#/components/schemas/Action' }
+        '400':
+          $ref: '#/components/responses/BadRequest'
+        '500':
+          $ref: '#/components/responses/ServerError'
+
+  /v1/adjusted/{exchange}/{symbol}:
+    get:
+      tags: [Free key]
+      summary: Back-adjusted prices
+      description: |
+        Bhavcopy rows plus `adj_factor_cumulative` and `adj_close`, continuous through splits,
+        bonuses and dividends. Same `from`/`to` semantics as `/v1/ohlcv`. Needs a free API key.
+      operationId: getAdjusted
+      security:
+        - ApiKey: []
+      parameters:
+        - $ref: '#/components/parameters/Exchange'
+        - $ref: '#/components/parameters/Symbol'
+        - name: from
+          in: query
+          schema: { type: string, format: date }
+        - name: to
+          in: query
+          schema: { type: string, format: date }
+      responses:
+        '200':
+          description: Adjusted rows by date.
+        '401':
+          $ref: '#/components/responses/KeyRequired'
+
+  /v1/symbols/{exchange}:
+    get:
+      tags: [Free key]
+      summary: Symbol history by symbol or ISIN
+      description: One row per contiguous run of an ISIN under a symbol. Pass `?symbol=` or `?isin=`. Needs a free API key.
+      operationId: getSymbols
+      security:
+        - ApiKey: []
+      parameters:
+        - $ref: '#/components/parameters/Exchange'
+        - name: symbol
+          in: query
+          schema: { type: string }
+        - name: isin
+          in: query
+          schema: { type: string }
+      responses:
+        '200':
+          description: Intervals by valid_from.
+        '401':
+          $ref: '#/components/responses/KeyRequired'
+
+  /v1/auth/request-link:
+    post:
+      tags: [Auth]
+      summary: Request a sign-in link
+      description: |
+        Sends a one-time link to the address. The link works once and expires in 15 minutes.
+        Always answers 202 for a well-formed address. At most 5 links per address per hour.
+      operationId: requestLink
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [email]
+              properties:
+                email: { type: string, format: email }
+                source:
+                  type: string
+                  maxLength: 200
+                  description: Optional. Where the sign-up came from (referrer host, utm tags). Used only for the operator's attribution, never shown.
+      responses:
+        '202':
+          description: Link sent.
+        '400':
+          description: Invalid email.
+        '429':
+          description: Too many links requested for this address.
+
+  /v1/auth/verify:
+    post:
+      tags: [Auth]
+      summary: Exchange a sign-in token for an API key
+      description: |
+        Consumes the token from the emailed link, creates the account on first use, and issues a
+        new free-tier key. The plaintext key is returned once and never stored.
+      operationId: verifyLink
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [token]
+              properties:
+                token: { type: string }
+      responses:
+        '201':
+          description: Key issued.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  api_key: { type: string, example: tej_live_0123456789abcdef0123456789abcdef }
+                  key_id: { type: string, format: uuid }
+                  prefix: { type: string, example: tej_live_012 }
+                  tier: { type: string, example: free }
+                  email: { type: string }
+        '401':
+          description: Token invalid, expired, or already used.
+        '409':
+          description: Account already has the maximum number of active keys.
+
+  /v1/billing/subscribe:
+    post:
+      tags: [Billing]
+      summary: Open a Razorpay subscription for a paid tier
+      description: |
+        Creates a subscription on the tier's plan and returns the ids Razorpay Checkout needs.
+        Nothing is charged until the customer authorises it in Checkout. The account is keyed by
+        email alone; the webhook sets the tier on every active key for that email, and issues a
+        key by email when the account has none. Limited to five attempts per email per hour.
+      operationId: subscribe
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [email, tier]
+              properties:
+                email: { type: string, format: email }
+                tier: { type: string, enum: [retail, pro] }
+      responses:
+        '201':
+          description: Subscription created; open Checkout with these.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  subscription_id: { type: string, example: sub_00000000000001 }
+                  key_id: { type: string, example: rzp_live_XXXXXXXXXXXXXX }
+                  tier: { type: string, example: retail }
+                  email: { type: string }
+        '400':
+          description: Bad email or tier.
+        '429':
+          description: Too many checkout attempts for this email.
+
+  /v1/billing/webhook:
+    post:
+      tags: [Billing]
+      summary: Razorpay webhook
+      description: |
+        Called by Razorpay, not by clients. Verifies `X-Razorpay-Signature` against the webhook
+        secret, then re-derives the account's tier from the subscription status: authenticated,
+        active and pending hold the tier; halted, cancelled, completed, expired and paused drop it,
+        unless another live subscription on the same email still grants one. Idempotent.
+      operationId: razorpayWebhook
+      responses:
+        '200':
+          description: Acknowledged, including events that were ignored.
+        '401':
+          description: Signature mismatch.
+
+  /v1/me:
+    get:
+      tags: [Auth]
+      summary: Account, keys and usage for the calling key
+      operationId: getMe
+      security:
+        - ApiKey: []
+      responses:
+        '200':
+          description: Account summary.
+        '401':
+          $ref: '#/components/responses/KeyRequired'
+
+  /v1/keys/{id}:
+    delete:
+      tags: [Auth]
+      summary: Revoke one of your keys
+      operationId: revokeKey
+      security:
+        - ApiKey: []
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema: { type: string, format: uuid }
+      responses:
+        '204':
+          description: Revoked.
+        '401':
+          $ref: '#/components/responses/KeyRequired'
+        '404':
+          description: No active key with that id on this account.
+
+  /v1/metrics/{exchange}/{symbol}:
+    get:
+      tags: [Pro]
+      summary: Derived metrics (Retail, Pro)
+      description: |
+        Per-day derived metrics on adjusted close: returns at 1, 5, 21, 63, 126 and 252 trading days
+        and year to date, 52-week high and low with distance from each, 20 and 60 day average volume,
+        20 day average turnover. Rolling fields are `null` until a full window of prior history exists.
+        Same `from`/`to` semantics as `/v1/ohlcv`. Needs a Retail or Pro key.
+      operationId: getMetrics
+      security:
+        - ApiKey: []
+      parameters:
+        - $ref: '#/components/parameters/Exchange'
+        - $ref: '#/components/parameters/Symbol'
+        - name: from
+          in: query
+          schema: { type: string, format: date }
+        - name: to
+          in: query
+          schema: { type: string, format: date }
+      responses:
+        '200':
+          description: Metrics rows by date.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        date: { type: string, format: date }
+                        isin: { type: string }
+                        adj_close: { type: number }
+                        ret_1d: { type: number, nullable: true }
+                        ret_5d: { type: number, nullable: true }
+                        ret_21d: { type: number, nullable: true }
+                        ret_63d: { type: number, nullable: true }
+                        ret_126d: { type: number, nullable: true }
+                        ret_252d: { type: number, nullable: true }
+                        ret_ytd: { type: number, nullable: true }
+                        high_52w: { type: number, nullable: true }
+                        low_52w: { type: number, nullable: true }
+                        pct_off_52w_high: { type: number, nullable: true }
+                        pct_off_52w_low: { type: number, nullable: true }
+                        avg_vol_20d: { type: number, nullable: true }
+                        avg_vol_60d: { type: number, nullable: true }
+                        avg_turnover_20d: { type: number, nullable: true }
+        '401':
+          $ref: '#/components/responses/KeyRequired'
+        '402':
+          $ref: '#/components/responses/ProRequired'
+
+  /v1/universe/{name}:
+    get:
+      tags: [Pro]
+      summary: Point-in-time liquidity universe (Retail, Pro)
+      description: |
+        Constituents of `liquid100` / `liquid250` / `liquid500` in force on `as_of`:
+        the top-N instruments by trailing 63-trading-day turnover at the latest
+        monthly rebalance on or before that date. Membership is computed from what
+        actually traded then, so delisted names appear in the months they qualified
+        for. Use it as a survivorship-bias-free backtest universe. Needs a Retail or Pro key.
+      operationId: getUniverse
+      parameters:
+        - name: name
+          in: path
+          required: true
+          schema:
+            type: string
+            enum: [liquid100, liquid250, liquid500]
+        - name: exchange
+          in: query
+          required: false
+          description: Defaults to nse.
+          schema:
+            type: string
+            enum: [nse, bse]
+        - name: as_of
+          in: query
+          required: false
+          description: YYYY-MM-DD, defaults to today.
+          schema:
+            type: string
+            format: date
+      responses:
+        '200':
+          description: Members ranked by trailing turnover.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        rank: { type: integer }
+                        symbol: { type: string }
+                        isin: { type: string }
+                        name: { type: string }
+                        avg_turnover_63d: { type: number }
+                  meta:
+                    type: object
+                    properties:
+                      name: { type: string }
+                      exchange: { type: string }
+                      as_of: { type: string, format: date }
+                      rebalance_date: { type: string, format: date }
+                      count: { type: integer }
+        '402':
+          $ref: '#/components/responses/ProRequired'
+
+  /v1/batch:
+    get:
+      tags: [Pro]
+      summary: OHLCV for several symbols in one request (Retail, Pro)
+      description: |
+        Up to 50 symbols on one exchange, one scan. `data` is an object keyed by symbol; unknown
+        symbols map to an empty array. Same `from`/`to` semantics as `/v1/ohlcv`.
+      operationId: getBatch
+      security:
+        - ApiKey: []
+      parameters:
+        - name: symbols
+          in: query
+          required: true
+          description: Comma separated, case-insensitive.
+          schema: { type: string, example: "RELIANCE,TCS,INFY" }
+        - name: exchange
+          in: query
+          schema: { type: string, enum: [nse, bse], default: nse }
+        - name: from
+          in: query
+          schema: { type: string, format: date }
+        - name: to
+          in: query
+          schema: { type: string, format: date }
+      responses:
+        '200':
+          description: Rows grouped by symbol.
+        '400':
+          $ref: '#/components/responses/BadRequest'
+        '401':
+          $ref: '#/components/responses/KeyRequired'
+        '402':
+          $ref: '#/components/responses/ProRequired'
+
+  /v1/resolve:
+    get:
+      tags: [Pro]
+      summary: Resolve free text to a symbol (Retail, Pro)
+      description: |
+        Maps "Reliance Industries", "tata mot", "infosis" or a former ticker like "ZOMATO" to the
+        current symbol. Match order: exact symbol, former symbol of the same ISIN, exact name,
+        symbol prefix, name prefix, then fuzzy on the cleaned company name. `score` is in [0, 1]
+        and `matched_on` says which rule fired. The live symbol master refreshes hourly.
+      operationId: resolveSymbol
+      security:
+        - ApiKey: []
+      parameters:
+        - name: q
+          in: query
+          required: true
+          schema: { type: string, minLength: 2, maxLength: 80, example: "reliance industries" }
+        - name: exchange
+          in: query
+          schema: { type: string, enum: [nse, bse, both], default: both }
+        - name: limit
+          in: query
+          schema: { type: integer, minimum: 1, maximum: 25, default: 5 }
+      responses:
+        '200':
+          description: Candidates, best first.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        exchange: { type: string }
+                        symbol: { type: string }
+                        isin: { type: string }
+                        name: { type: string }
+                        score: { type: number }
+                        matched_on: { type: string, enum: [symbol, former_symbol, name, symbol_prefix, name_prefix, fuzzy] }
+                        former_symbols: { type: array, items: { type: string } }
+        '400':
+          $ref: '#/components/responses/BadRequest'
+        '401':
+          $ref: '#/components/responses/KeyRequired'
+        '402':
+          $ref: '#/components/responses/ProRequired'
+
+  /v1/status:
+    get:
+      tags: [System]
+      summary: Pipeline freshness
+      description: |
+        The last run of the nightly pipeline: which trading date it published, when the prices
+        landed on R2, and when the derived trees (actions, adjusted prices, symbol history, metrics,
+        universe) followed. Written by the cron itself, so a stale `trading_date` is the honest
+        signal that a run was missed. Run history is public at
+        https://github.com/tejhq/tej-bazaar/actions/workflows/daily.yml. Keyless, cached 60 s.
+      operationId: getStatus
+      responses:
+        '200':
+          description: Last publish.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  trading_date: { type: string, format: date }
+                  stage: { type: string, enum: [prices, derived] }
+                  prices_published_at: { type: string, format: date-time }
+                  derived_published_at: { type: string, format: date-time, nullable: true }
+                  run_url: { type: string, nullable: true }
+                  generated_at: { type: string, format: date-time }
+        '404':
+          description: No status published yet.
+
+  /v1/screener:
+    get:
+      tags: [Pro]
+      summary: Cross-sectional screener on derived metrics (Retail, Pro)
+      description: |
+        Filter every instrument on one exchange for one trading day by the metrics fields, sort,
+        and page. Filters are query parameters of the form `<column>.<op>=<number>` with `op` in
+        `gt`, `gte`, `lt`, `lte`; at most ten, all ANDed. Columns: `adj_close`, `ret_1d`, `ret_5d`,
+        `ret_21d`, `ret_63d`, `ret_126d`, `ret_252d`, `ret_ytd`, `high_52w`, `low_52w`,
+        `pct_off_52w_high`, `pct_off_52w_low`, `avg_vol_20d`, `avg_vol_60d`, `avg_turnover_20d`.
+        A row with a null in a filtered column never matches.
+
+        `date` defaults to today and snaps back to the latest trading day on or before it; `meta.date`
+        says which day was used. `universe` restricts to the point-in-time liquidN membership in
+        force on that day, so a historical screen carries no survivorship bias. `meta.total` is the
+        number of matches before paging. Needs a Retail or Pro key.
+
+        Example: `/v1/screener?exchange=nse&universe=liquid500&ret_21d.gt=0.05&pct_off_52w_high.gte=-0.05&avg_turnover_20d.gte=5e7&sort=ret_21d&limit=20`
+      operationId: screener
+      security:
+        - ApiKey: []
+      parameters:
+        - name: exchange
+          in: query
+          schema: { type: string, enum: [nse, bse], default: nse }
+        - name: date
+          in: query
+          description: Trading day, `YYYY-MM-DD`. Defaults to today; snaps back to the latest trading day on or before it.
+          schema: { type: string, format: date }
+        - name: universe
+          in: query
+          schema: { type: string, enum: [liquid100, liquid250, liquid500] }
+        - name: sort
+          in: query
+          description: A metrics column, or `symbol`. Numeric sorts default to `desc`, nulls last.
+          schema: { type: string, default: symbol }
+        - name: order
+          in: query
+          schema: { type: string, enum: [asc, desc] }
+        - name: limit
+          in: query
+          schema: { type: integer, minimum: 1, maximum: 500, default: 50 }
+        - name: offset
+          in: query
+          schema: { type: integer, minimum: 0, default: 0 }
+        - name: ret_21d.gt
+          in: query
+          description: One example filter. Any `<column>.<op>` pair from the list above is accepted.
+          schema: { type: number, example: 0.05 }
+      responses:
+        '200':
+          description: Matching rows for the day, one per symbol.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        symbol: { type: string }
+                        date: { type: string, format: date }
+                        isin: { type: string }
+                        adj_close: { type: number }
+                        ret_1d: { type: number, nullable: true }
+                        ret_5d: { type: number, nullable: true }
+                        ret_21d: { type: number, nullable: true }
+                        ret_63d: { type: number, nullable: true }
+                        ret_126d: { type: number, nullable: true }
+                        ret_252d: { type: number, nullable: true }
+                        ret_ytd: { type: number, nullable: true }
+                        high_52w: { type: number, nullable: true }
+                        low_52w: { type: number, nullable: true }
+                        pct_off_52w_high: { type: number, nullable: true }
+                        pct_off_52w_low: { type: number, nullable: true }
+                        avg_vol_20d: { type: number, nullable: true }
+                        avg_vol_60d: { type: number, nullable: true }
+                        avg_turnover_20d: { type: number, nullable: true }
+                  meta:
+                    type: object
+                    properties:
+                      exchange: { type: string }
+                      date: { type: string, format: date, description: Trading day actually used. }
+                      as_of: { type: string, format: date, description: The date requested. }
+                      universe: { type: string }
+                      filters: { type: array, items: { type: string } }
+                      sort: { type: string }
+                      order: { type: string }
+                      limit: { type: integer }
+                      offset: { type: integer }
+                      count: { type: integer, description: Rows in this page. }
+                      total: { type: integer, description: Matches before paging. }
+        '400':
+          $ref: '#/components/responses/BadRequest'
+        '401':
+          $ref: '#/components/responses/KeyRequired'
+        '402':
+          $ref: '#/components/responses/ProRequired'
+        '404':
+          description: No metrics for this exchange on or before the requested date.
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/Error' }
+
+components:
+  securitySchemes:
+    ApiKey:
+      type: http
+      scheme: bearer
+      bearerFormat: tej_live_<32 hex>
+      description: |
+        Free keys come from https://tejhq.dev/keys. Send as `Authorization: Bearer tej_live_...`
+        or `X-Api-Key`. Keyed requests carry `X-RateLimit-Limit-Day` and `X-RateLimit-Remaining-Day`.
+  parameters:
+    Exchange:
+      name: exchange
+      in: path
+      required: true
+      description: Exchange code, case-insensitive.
+      schema:
+        type: string
+        enum: [nse, bse, NSE, BSE]
+      example: nse
+    Symbol:
+      name: symbol
+      in: path
+      required: true
+      description: Trading symbol. Uppercased server-side. Must match `^[A-Z0-9][A-Z0-9\-&]{0,29}$`.
+      schema:
+        type: string
+        pattern: '^[A-Za-z0-9][A-Za-z0-9\-&]{0,29}$'
+      example: RELIANCE
+    From:
+      name: from
+      in: query
+      required: false
+      description: Inclusive start date `YYYY-MM-DD`. Defaults to `to - 90 days`.
+      schema: { type: string, format: date }
+      example: '2025-01-01'
+    To:
+      name: to
+      in: query
+      required: false
+      description: Inclusive end date `YYYY-MM-DD`. Defaults to today (UTC).
+      schema: { type: string, format: date }
+      example: '2025-05-28'
+
+  responses:
+    BadRequest:
+      description: Bad request - invalid path or query parameter.
+      content:
+        application/json:
+          schema: { $ref: '#/components/schemas/Error' }
+          examples:
+            invalid_exchange:
+              value: { error: invalid_exchange, message: "must be 'nse' or 'bse'" }
+            invalid_symbol:
+              value: { error: invalid_symbol, message: "symbol must match [A-Z0-9][A-Z0-9-&]*" }
+            invalid_date:
+              value: { error: invalid_date, message: 'parsing time "2025-13-01": month out of range' }
+    ServerError:
+      description: Internal error querying the data layer.
+      content:
+        application/json:
+          schema: { $ref: '#/components/schemas/Error' }
+          example: { error: query_failed, message: 'connection refused' }
+    KeyRequired:
+      description: This endpoint needs an API key. Get a free one at https://tejhq.dev/keys.
+      content:
+        application/json:
+          schema: { $ref: '#/components/schemas/Error' }
+          example: { error: key_required, message: "this endpoint needs an API key. Get a free one at https://tejhq.dev/keys" }
+    ProRequired:
+      description: The key is on the free tier. Retail or Pro needed. Upgrade by email to support@tejhq.dev; the key is switched by hand.
+      content:
+        application/json:
+          schema: { $ref: '#/components/schemas/Error' }
+          example:
+            error: pro_required
+            message: "dataset 'universe' needs a paid key, Retail or Pro. Email support@tejhq.dev to upgrade."
+
+  schemas:
+    Envelope:
+      type: object
+      required: [data]
+      properties:
+        data: {}
+        meta:
+          type: object
+          additionalProperties: true
+          description: Echo of request params plus row count.
+
+    Error:
+      type: object
+      required: [error]
+      properties:
+        error:   { type: string, description: Stable machine code. }
+        message: { type: string, description: Human-readable detail. }
+
+    OHLCV:
+      type: object
+      required: [date, open, high, low, close, last, prev_close, volume, turnover, trades]
+      properties:
+        date:       { type: string, format: date }
+        open:       { type: number, format: double }
+        high:       { type: number, format: double }
+        low:        { type: number, format: double }
+        close:      { type: number, format: double }
+        last:       { type: number, format: double }
+        prev_close: { type: number, format: double }
+        volume:     { type: integer, format: int64 }
+        turnover:   { type: number, format: double }
+        trades:     { type: integer, format: int64 }
+
+    SnapshotRow:
+      type: object
+      required: [symbol, series, isin, name, open, high, low, close, last, prev_close, volume, turnover, trades]
+      properties:
+        symbol:     { type: string }
+        series:     { type: string, description: NSE series code (EQ, BE, etc). Empty for BSE. }
+        isin:       { type: string }
+        name:       { type: string }
+        open:       { type: number, format: double }
+        high:       { type: number, format: double }
+        low:        { type: number, format: double }
+        close:      { type: number, format: double }
+        last:       { type: number, format: double }
+        prev_close: { type: number, format: double }
+        volume:     { type: integer, format: int64 }
+        turnover:   { type: number, format: double }
+        trades:     { type: integer, format: int64 }
+
+    Action:
+      type: object
+      required: [exchange, symbol, isin, company, ex_date, type, raw_subject]
+      properties:
+        exchange:        { type: string, enum: [NSE, BSE] }
+        symbol:          { type: string }
+        isin:            { type: string }
+        company:         { type: string }
+        ex_date:         { type: string, format: date }
+        record_date:     { type: string, format: date, nullable: true }
+        type:            { type: string, description: "dividend | split | bonus | rights | merger | other" }
+        ratio_num:       { type: integer, format: int64, nullable: true }
+        ratio_den:       { type: integer, format: int64, nullable: true }
+        cash_amount:     { type: number, format: double, nullable: true }
+        face_value_from: { type: number, format: double, nullable: true }
+        face_value_to:   { type: number, format: double, nullable: true }
+        raw_subject:     { type: string, description: Original announcement string from the exchange. }

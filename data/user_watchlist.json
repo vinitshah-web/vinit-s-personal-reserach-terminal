@@ -1,0 +1,30 @@
+[
+  {
+    "symbol": "RELIANCE",
+    "name": "Reliance Industries Ltd",
+    "isin": "INE002A01018",
+    "sector": "Energy",
+    "added_at": "2026-10-25T15:00:00Z"
+  },
+  {
+    "symbol": "TCS",
+    "name": "Tata Consultancy Services Ltd",
+    "isin": "INE467B01029",
+    "sector": "Technology",
+    "added_at": "2026-10-25T15:00:00Z"
+  },
+  {
+    "symbol": "HDFCBANK",
+    "name": "HDFC Bank Limited",
+    "isin": "INE040A01034",
+    "sector": "Financial Services",
+    "added_at": "2026-10-25T15:00:00Z"
+  },
+  {
+    "symbol": "PERSISTENT",
+    "name": "Persistent Systems Ltd",
+    "isin": "INE262H01021",
+    "sector": "Technology",
+    "added_at": "2026-10-25T15:00:00Z"
+  }
+]
