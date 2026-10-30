@@ -39,7 +39,18 @@ jobs:
           python scripts/ingest_real_archives.py
 
       - name: Refresh and validate latest NSE snapshot
-        run: python scripts/refresh_market_data.py --export-static
+        shell: bash
+        run: |
+          set +e
+          refresh_output=$(python scripts/refresh_market_data.py --export-static 2>&1)
+          refresh_exit=$?
+          set -e
+          printf '%s\n' "$refresh_output"
+          if [ "$refresh_exit" -ne 0 ]; then
+            annotation=$(printf '%s' "$refresh_output" | tr '\n' ' ' | sed 's/%/%25/g; s/\r/%0D/g')
+            echo "::error title=Market data refresh failed::${annotation}"
+            exit "$refresh_exit"
+          fi
 
       - name: Commit changed static snapshot
         run: |
