@@ -12,7 +12,9 @@ from pydantic import BaseModel, Field
 from sqlalchemy.orm import Session
 
 from src.db.connection import get_session_factory
-from src.db.models import Security, PriceRaw, IndexPrice, GovernanceEvent
+from src.db.models import (
+    GovernanceEvent, IndexPrice, MarketDataSync, PriceRaw, Security
+)
 from src.core.universe import PointInTimeUniverse, PITMode
 from src.core.fundamentals.ratios import FundamentalAnalysisEngine
 from src.core.valuation import ValuationEngine, ValuationModelError
@@ -87,6 +89,55 @@ def get_db():
         session.close()
 
 
+def get_local_quote(
+    db: Session, symbol: str, isin: Optional[str]
+) -> Optional[Dict[str, Any]]:
+    """Return the newest persisted EOD record with explicit provenance and age."""
+    if not isin or isin == "N/A":
+        return None
+    price = db.query(PriceRaw).filter(PriceRaw.isin == isin).order_by(
+        PriceRaw.trade_date.desc()
+    ).first()
+    if price is None:
+        return None
+
+    latest_sync = db.query(MarketDataSync).filter_by(
+        provider="TejHQ", exchange="NSE", status="VERIFIED"
+    ).order_by(MarketDataSync.trading_date.desc()).first()
+    if latest_sync and price.trade_date == latest_sync.trading_date:
+        freshness = "LATEST_VERIFIED_EOD"
+    elif latest_sync:
+        freshness = "ARCHIVED_EOD"
+    else:
+        freshness = "LATEST_LOCAL_EOD"
+
+    return {
+        "symbol": symbol,
+        "isin": isin,
+        "source": (
+            "TejHQ / NSE EOD snapshot"
+            if price.source_file.startswith("tejhq_nse_snapshot_")
+            else "Local NSE Bhavcopy archive"
+        ),
+        "trade_date": price.trade_date.isoformat(),
+        "close": price.close_raw,
+        "open": price.open_raw,
+        "high": price.high_raw,
+        "low": price.low_raw,
+        "volume": price.volume_raw,
+        "turnover": None,
+        "prev_close": None,
+        "price_basis": "NSE Unadjusted Bhavcopy Close",
+        "freshness": freshness,
+        "status": "VALID",
+        "retrieval_time": (
+            price.ingested_at.isoformat() if price.ingested_at else None
+        ),
+        "source_file": price.source_file,
+        "source_hash": price.file_hash,
+    }
+
+
 class ProvenanceEnvelope(BaseModel):
     isin: str
     ticker: str
@@ -138,7 +189,33 @@ def health():
         "status": "ok",
         "service": "nse-equity-platform",
         "version": "1.0.0",
-        "watermark": "CODE TEST - SYNTHETIC DATA"
+        "data_policy": "NO_SYNTHETIC_MARKET_DATA"
+    }
+
+
+@app.get("/api/v1/market-data/status")
+def market_data_status(db: Session = Depends(get_db)):
+    latest_price_date = db.query(PriceRaw.trade_date).order_by(
+        PriceRaw.trade_date.desc()
+    ).limit(1).scalar()
+    latest_sync = db.query(MarketDataSync).filter_by(
+        provider="TejHQ", exchange="NSE"
+    ).order_by(MarketDataSync.trading_date.desc(), MarketDataSync.fetched_at.desc()).first()
+    return {
+        "status": "VERIFIED" if latest_sync else "LOCAL_ARCHIVE_ONLY",
+        "latest_price_date": latest_price_date.isoformat() if latest_price_date else None,
+        "last_verified_sync": {
+            "provider": latest_sync.provider,
+            "exchange": latest_sync.exchange,
+            "trading_date": latest_sync.trading_date.isoformat(),
+            "provider_published_at": (
+                latest_sync.provider_published_at.isoformat()
+                if latest_sync.provider_published_at else None
+            ),
+            "fetched_at": latest_sync.fetched_at.isoformat(),
+            "row_count": latest_sync.row_count,
+            "source_hash": latest_sync.source_hash,
+        } if latest_sync else None,
     }
 
 
@@ -186,19 +263,31 @@ def get_stock_summary(
             "trade_date": latest_price.trade_date.isoformat() if latest_price else None,
             "close_raw": latest_price.close_raw if latest_price else None,
             "volume_raw": latest_price.volume_raw if latest_price else None,
-            "source_file": latest_price.source_file if latest_price else "SYNTHETIC_TEST",
+            "source_file": latest_price.source_file if latest_price else None,
             "file_hash": latest_price.file_hash if latest_price else None
         }
     }
 
-    # 2. Metrics (DuPont ROE if non-financial)
+    # 2. Metrics: calculate only when all reported line items are present.
     fund_engine = FundamentalAnalysisEngine()
     metrics = {}
-    if not sec.is_financial:
+    line_items = {
+        item.item_code: item.value
+        for item in (stmt.line_items if stmt else [])
+        if item.value is not None and not item.is_estimated
+    }
+    dupont_inputs = {
+        "net_income": line_items.get("PAT"),
+        "ebt": line_items.get("EBT"),
+        "ebit": line_items.get("EBIT"),
+        "revenue": line_items.get("REVENUE"),
+        "total_assets": line_items.get("TOTAL_ASSETS"),
+        "equity": line_items.get("EQUITY"),
+    }
+    if not sec.is_financial and all(dupont_inputs.values()):
         try:
             dupont = fund_engine.calculate_dupont_5factor(
-                net_income=120.0, ebt=160.0, ebit=200.0, revenue=1000.0,
-                total_assets=2000.0, equity=800.0, is_financial=False
+                **dupont_inputs, is_financial=False
             )
             metrics["dupont_5factor"] = {
                 "formula_id": "DUPONT_ROE_5FACTOR",
@@ -210,32 +299,27 @@ def get_stock_summary(
                 "roe_product": dupont["roe_product"]
             }
         except Exception as e:
-            metrics["dupont_5factor"] = {"error": str(e)}
+            metrics["dupont_5factor"] = {
+                "status": "NOT_CALCULATED", "reason": str(e)
+            }
+    elif not sec.is_financial:
+        metrics["dupont_5factor"] = {
+            "status": "NOT_CALCULATED",
+            "reason": "Complete reported PAT, EBT, EBIT, revenue, assets, and equity are required."
+        }
     else:
         metrics["banking_metrics"] = {
             "formula_id": "BANK_NIM",
             "note": "Banking institutions route to Net Interest Margin & Spread models."
         }
 
-    # 3. Forecasts (DCF model with exact unrounded floating-point calculation)
-    val_engine = ValuationEngine()
-    forecasts = {}
-    if not sec.is_financial:
-        dcf_res = val_engine.calculate_fcff_dcf(
-            fcff_0=60.0,
-            growth_rates_5yr=[0.08] * 5,
-            wacc=0.12,
-            terminal_growth=0.04
-        )
-        forecasts["dcf_valuation"] = {
-            "model_id": "VAL_DCF_FCFF",
-            "wacc_assumption": 0.12,
-            "terminal_growth_assumption": 0.04,
-            "discrete_pv_sum": round(dcf_res["sum_pv_discrete"], 4),
-            "pv_terminal_value": round(dcf_res["pv_terminal_value"], 4),
-            "enterprise_value_cr": round(dcf_res["enterprise_value"], 4),
-            "verification_status": "FORMULA_CORRECTNESS_VERIFIED"
+    # 3. Forecasts require explicit user assumptions and reported base cash flow.
+    forecasts = {
+        "dcf_valuation": {
+            "status": "NOT_CALCULATED",
+            "reason": "Use the valuation endpoint with explicit FCFF, growth, WACC, and terminal-growth assumptions."
         }
+    } if not sec.is_financial else {}
 
     return ProvenanceEnvelope(
         isin=sec.isin,
@@ -243,7 +327,7 @@ def get_stock_summary(
         as_of=query_date.isoformat(),
         metadata={
             "query_mode": pit_mode.value,
-            "watermark": "CODE TEST - SYNTHETIC DATA",
+            "data_policy": "NO_SYNTHETIC_MARKET_DATA",
             "server_timestamp": query_ts.isoformat()
         },
         facts=facts,
@@ -558,28 +642,10 @@ def get_company_research(symbol: str, db: Session = Depends(get_db)):
                 is_fin = s.get("is_financial", False)
                 break
 
-    # 2. Latest Quote Retrieval (TejHQ Keyless or SQLite, zero arbitrary fallbacks)
-    quote = TejHQAdapter.get_latest_quote(clean_sym, isin=isin)
-    if not quote and isin != "N/A":
-        p_row = db.query(PriceRaw).filter(PriceRaw.isin == isin).order_by(PriceRaw.trade_date.desc()).first()
-        if p_row:
-            quote = {
-                "symbol": clean_sym,
-                "isin": isin,
-                "source": "Local SQLite Bhavcopy",
-                "trade_date": p_row.trade_date.isoformat(),
-                "close": p_row.close_raw,
-                "open": p_row.close_raw,
-                "high": p_row.close_raw,
-                "low": p_row.close_raw,
-                "volume": p_row.volume_raw,
-                "turnover": None,
-                "prev_close": p_row.close_raw,
-                "price_basis": "NSE Unadjusted Bhavcopy Close",
-                "freshness": f"Dated Close ({p_row.trade_date.isoformat()})",
-                "status": "VALID",
-                "retrieval_time": datetime.now().isoformat()
-            }
+    # 2. Persisted verified EOD first; a live call is only a last-resort fallback.
+    quote = get_local_quote(db, clean_sym, isin)
+    if not quote:
+        quote = TejHQAdapter.get_latest_quote(clean_sym, isin=isin)
 
     if not quote:
         quote = {
@@ -710,6 +776,12 @@ def get_company_research(symbol: str, db: Session = Depends(get_db)):
                     "note": "Banking institutions evaluated via Price-to-Book & Statutory Capital Retention"
                 }
 
+    shares_outstanding_cr = dossier.get("shares_outstanding_cr")
+    dynamic_market_cap_cr = (
+        round(price * shares_outstanding_cr, 2)
+        if price and shares_outstanding_cr and shares_outstanding_cr > 0 else None
+    )
+
     return {
         "symbol": clean_sym,
         "company_name": company_name,
@@ -718,8 +790,12 @@ def get_company_research(symbol: str, db: Session = Depends(get_db)):
         "industry": dossier.get("industry", "General"),
         "is_financial": is_fin,
         "quote": quote,
-        "market_cap_cr": dossier.get("market_cap_cr"),
-        "shares_outstanding_cr": dossier.get("shares_outstanding_cr"),
+        "market_cap_cr": dynamic_market_cap_cr,
+        "market_cap_basis": (
+            "Latest dated NSE close × reported shares outstanding"
+            if dynamic_market_cap_cr is not None else None
+        ),
+        "shares_outstanding_cr": shares_outstanding_cr,
         "pe_ratio": dossier.get("pe_ratio"),
         "pb_ratio": dossier.get("pb_ratio"),
         "pb_ratio_reason": dossier.get("pb_ratio_reason"),
@@ -731,6 +807,7 @@ def get_company_research(symbol: str, db: Session = Depends(get_db)):
         "industry_profile": ind_profile,
         "valuation": valuation_scenarios,
         "source": dossier.get("source"),
+        "fundamentals_retrieved_at": dossier.get("retrieval_time"),
         "as_of": datetime.now().isoformat()
     }
 
@@ -777,12 +854,20 @@ def get_company_peers(symbol: str, db: Session = Depends(get_db)):
     mcap_list = []
 
     for peer_sym in cluster[:5]:
-        q = TejHQAdapter.get_latest_quote(peer_sym)
+        peer_security = db.query(Security).filter(
+            Security.ticker_current == peer_sym
+        ).first()
+        q = get_local_quote(
+            db, peer_sym, peer_security.isin if peer_security else None
+        )
+        if not q:
+            q = TejHQAdapter.get_latest_quote(peer_sym)
         d = FinancialsAdapter.get_company_dossier(peer_sym)
         c_price = q.get("close") if q else None
         pe = d.get("pe_ratio")
         pb = d.get("pb_ratio")
-        mcap = d.get("market_cap_cr")
+        shares = d.get("shares_outstanding_cr")
+        mcap = round(c_price * shares, 2) if c_price and shares else None
 
         if pe and pe > 0: pe_list.append(pe)
         if pb and pb > 0: pb_list.append(pb)

@@ -11,7 +11,7 @@ def test_api_health():
     assert resp.status_code == 200
     data = resp.json()
     assert data["status"] == "ok"
-    assert data["watermark"] == "CODE TEST - SYNTHETIC DATA"
+    assert data["data_policy"] == "NO_SYNTHETIC_MARKET_DATA"
 
 
 def test_api_valuation_fcff():

@@ -9,7 +9,7 @@ An INR-first, personal equity research and investment analysis platform for the 
 
 - **Zero Installation Required:** Access directly in any modern web browser.
 - **Client-Side Security Master:** Autocomplete search across all 3,392 active NSE listed equities.
-- **Keyless Real-Time Prices:** Direct browser integration with TejHQ open edge APIs (`api.tejhq.dev`) for official NSE end-of-day closing bhavcopies and corporate actions.
+- **Verified Daily EOD Prices:** Direct browser integration with TejHQ (`api.tejhq.dev`) for NSE end-of-day bhavcopy data. This is official-close research data, not an intraday trading feed.
 - **Client-Side Persistence:** Save watchlists, research histories, and export reports via browser storage with zero external database subscriptions.
 
 ---
@@ -28,6 +28,24 @@ powershell -ExecutionPolicy Bypass -File .\run_local.ps1
 ```
 
 The application automatically checks dependencies, launches on `http://127.0.0.1:8000`, and opens your default browser.
+
+### Daily refresh
+
+`run_local.ps1` checks for a newer validated NSE snapshot every time the terminal starts. The refresh is atomic: an incomplete snapshot, impossible OHLC values, duplicate ISIN, stale provider status, or insufficient market coverage leaves the last verified data untouched.
+
+To refresh automatically after market close even when the terminal is closed, register the per-user Windows task once:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File .\scripts\register_daily_refresh.ps1
+```
+
+The default schedule is 19:45 local time with a 22:00 retry and assumes the Windows system time zone is IST, spanning TejHQ's documented 18:30 publication and 21:30 retry windows. Change them with `-DailyTime "20:15" -RetryTime "22:15"`. Manual refresh is also available:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File .\scripts\refresh_daily.ps1
+```
+
+The API endpoint `GET /api/v1/market-data/status` reports the latest local trading date, provider publication time, fetch time, row count, and SHA-256 snapshot hash.
 
 ---
 
@@ -57,7 +75,7 @@ The application automatically checks dependencies, launches on `http://127.0.0.1
 
 ---
 
-## 🧪 Comprehensive Verification Suite (92 / 92 Tests Passing)
+## 🧪 Comprehensive Verification Suite
 
 Execute the full automated test suite verifying all 12 Retail Research Assistant acceptance criteria, valuation models, and statutory Indian tax rules:
 
@@ -65,21 +83,7 @@ Execute the full automated test suite verifying all 12 Retail Research Assistant
 py -m pytest tests/ -v
 ```
 
-```text
-tests/test_retail_research_assistant.py::test_1_stock_autocomplete_and_ambiguous_resolution PASSED
-tests/test_retail_research_assistant.py::test_2_selected_company_propagation PASSED
-tests/test_retail_research_assistant.py::test_3_quote_source_date_freshness_and_missing_handling PASSED
-tests/test_retail_research_assistant.py::test_4_financial_units_periods_and_inr_first PASSED
-tests/test_retail_research_assistant.py::test_5_peer_selection_and_comparative_metrics PASSED
-tests/test_retail_research_assistant.py::test_6_independent_valuation_calculations_and_scenarios PASSED
-tests/test_retail_research_assistant.py::test_7_missing_or_conflicting_data_fails_open_with_disclosure PASSED
-tests/test_retail_research_assistant.py::test_8_ai_provider_absence_fallback_report_generation PASSED
-tests/test_retail_research_assistant.py::test_9_valid_pdf_creation_and_company_identity PASSED
-tests/test_retail_research_assistant.py::test_10_local_startup_and_workflow_without_paid_credentials PASSED
-tests/test_retail_research_assistant.py::test_11_online_static_files_integrity PASSED
-tests/test_retail_research_assistant.py::test_12_no_secrets_exposed PASSED
-================================ 92 passed in 14.06s ================================
-```
+The suite includes offline acceptance tests and atomic daily-refresh tests. The live provider is tested separately because a passing mock cannot prove the provider's current trading date or price.
 
 ---
 

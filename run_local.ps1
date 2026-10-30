@@ -24,18 +24,35 @@ if (Get-Command py -ErrorAction SilentlyContinue) {
 $PyVer = & $PythonCmd --version
 Write-Host "[OK] Detected Python runtime: $PyVer" -ForegroundColor Green
 
+# Install missing packages and enforce the tested API dependency range.
+Write-Host "[INFO] Checking declared Python dependencies..." -ForegroundColor Cyan
+& $PythonCmd -m pip install -r requirements.txt
+if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
+
 # 2. Check Database
 if (-not (Test-Path "data/nse_platform.db")) {
-    Write-Host "[WARN] Local database not found at data/nse_platform.db. Generating..." -ForegroundColor Yellow
-    & $PythonCmd scripts/build_search_index.py
+    Write-Host "[WARN] Local database not found. Initializing bundled NSE history..." -ForegroundColor Yellow
+    & $PythonCmd -m alembic upgrade head
+    if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
+    & $PythonCmd scripts/ingest_real_archives.py
+    if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
 } else {
     Write-Host "[OK] SQLite database verified at data/nse_platform.db" -ForegroundColor Green
+    & $PythonCmd -m alembic upgrade head
+    if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
 }
 
 # 3. Check Search Index
 if (-not (Test-Path "data/securities_search_index.json")) {
     Write-Host "[INFO] Building search index for 3,392 NSE securities..." -ForegroundColor Cyan
     & $PythonCmd scripts/build_search_index.py
+}
+
+# Refresh after-market prices. A provider outage never destroys the last verified snapshot.
+Write-Host "[INFO] Checking for a newer verified NSE EOD snapshot..." -ForegroundColor Cyan
+& $PythonCmd scripts/refresh_market_data.py --export-static
+if ($LASTEXITCODE -ne 0) {
+    Write-Host "[WARN] Daily refresh unavailable. Starting with the last dated local snapshot." -ForegroundColor Yellow
 }
 
 Write-Host ""

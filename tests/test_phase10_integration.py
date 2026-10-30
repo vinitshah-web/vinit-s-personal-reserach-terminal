@@ -168,7 +168,7 @@ def test_full_platform_pipeline_integration(db_session: Session):
 
     assert json_data["isin"] == sec.isin
     assert json_data["ticker"] == "RELIANCE"
-    assert json_data["metadata"]["watermark"] == "CODE TEST - SYNTHETIC DATA"
+    assert json_data["metadata"]["data_policy"] == "NO_SYNTHETIC_MARKET_DATA"
     assert "facts" in json_data
     assert "metrics" in json_data
     assert "forecasts" in json_data

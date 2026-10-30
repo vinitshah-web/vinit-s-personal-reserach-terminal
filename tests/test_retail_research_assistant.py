@@ -9,7 +9,7 @@ from pathlib import Path
 import pytest
 from fastapi.testclient import TestClient
 
-from src.api.main import app
+from src.api.main import app, get_local_quote
 from src.ingestion.providers import TejHQAdapter, FinancialsAdapter, IndustryKnowledgeEngine
 from src.reports.pdf_generator import ResearchReportPDFGenerator
 from src.core.valuation import ValuationEngine
@@ -70,6 +70,10 @@ def eternal_2026_10_28_quote(monkeypatch):
             if symbol.strip().upper() in {"ETERNAL", "ZOMATO"}
             else None
         )
+    )
+    monkeypatch.setattr(
+        "src.api.main.get_local_quote",
+        lambda db, symbol, isin: None if symbol == "ETERNAL" else get_local_quote(db, symbol, isin)
     )
     return quote
 

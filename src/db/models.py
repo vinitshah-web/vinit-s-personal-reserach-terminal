@@ -71,6 +71,33 @@ class PriceRaw(Base):
     )
 
 
+class MarketDataSync(Base):
+    """Immutable audit record for each successfully validated market snapshot."""
+    __tablename__ = "market_data_sync"
+
+    id: Mapped[int] = mapped_column(Integer, primary_key=True, autoincrement=True)
+    provider: Mapped[str] = mapped_column(String(50), nullable=False)
+    exchange: Mapped[str] = mapped_column(String(10), nullable=False)
+    trading_date: Mapped[date] = mapped_column(Date, nullable=False)
+    provider_published_at: Mapped[Optional[datetime]] = mapped_column(DateTime)
+    fetched_at: Mapped[datetime] = mapped_column(DateTime, nullable=False, default=_utc_now)
+    row_count: Mapped[int] = mapped_column(Integer, nullable=False)
+    inserted_count: Mapped[int] = mapped_column(Integer, nullable=False)
+    updated_count: Mapped[int] = mapped_column(Integer, nullable=False)
+    unchanged_count: Mapped[int] = mapped_column(Integer, nullable=False)
+    skipped_count: Mapped[int] = mapped_column(Integer, nullable=False)
+    source_hash: Mapped[str] = mapped_column(String(64), nullable=False)
+    status: Mapped[str] = mapped_column(String(20), nullable=False, default="VERIFIED")
+
+    __table_args__ = (
+        UniqueConstraint(
+            "provider", "exchange", "trading_date", "source_hash",
+            name="uq_market_data_sync_snapshot"
+        ),
+        Index("idx_market_data_sync_date", "trading_date"),
+    )
+
+
 class CorporateAction(Base):
     __tablename__ = "corporate_action"
 

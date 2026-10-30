@@ -127,6 +127,18 @@
       'M&M': 'M&M'
     };
 
+    function isVerifiedEodRow(row, status) {
+      if (!row || !status || !['prices', 'derived'].includes(status.stage)) return false;
+      const open = Number(row.open), high = Number(row.high), low = Number(row.low);
+      const close = Number(row.close), volume = Number(row.volume);
+      return row.date === status.trading_date
+        && [open, high, low, close, volume].every(Number.isFinite)
+        && Math.min(open, high, low, close) > 0
+        && low <= open && open <= high
+        && low <= close && close <= high
+        && volume >= 0;
+    }
+
     const urlParams = new URLSearchParams(window.location.search);
     let rawTarget = (urlParams.get('target') || 'TCS').trim().toUpperCase();
     const targetTicker = SYMBOL_ALIASES[rawTarget] || rawTarget;
@@ -187,42 +199,53 @@
           if (res.ok) dossier = await res.json();
         } catch (e) {}
 
-        // Fetch validated quote (NO 1000 fallback!)
+        // Fetch the validated daily snapshot first, then cross-check live TejHQ.
         let quote = null;
         try {
-          const tejRes = await fetch(`https://api.tejhq.dev/v1/ohlcv/NSE/${encodeURIComponent(p)}`);
-          if (tejRes.ok) {
-            const tejData = await tejRes.json();
-            if (tejData.data && tejData.data.length > 0) {
-              const latest = tejData.data[tejData.data.length - 1];
-              quote = {
-                close: latest.close,
-                trade_date: latest.date,
-                source: 'TejHQ Keyless EOD'
-              };
+          const [quotesRes, statusRes] = await Promise.all([
+            fetch('data/latest_quotes.json', { cache: 'no-store' }),
+            fetch('data/market_data_status.json', { cache: 'no-store' })
+          ]);
+          if (quotesRes.ok && statusRes.ok) {
+            const quotes = await quotesRes.json();
+            const status = await statusRes.json();
+            const saved = quotes[p];
+            if (saved && saved.trade_date === status.trading_date) {
+              quote = { ...saved, freshness: 'LATEST_VERIFIED_EOD' };
             }
           }
-        } catch (err) {}
+        } catch (snapshotErr) {}
 
         if (!quote) {
           try {
-            const refRes = await fetch('data/regression_references.json');
-            if (refRes.ok) {
-              const refs = await refRes.json();
-              if (refs[p]) {
+            const [statusRes, tejRes] = await Promise.all([
+              fetch('https://api.tejhq.dev/v1/status'),
+              fetch(`https://api.tejhq.dev/v1/ohlcv/NSE/${encodeURIComponent(p)}`)
+            ]);
+            if (statusRes.ok && tejRes.ok) {
+              const status = await statusRes.json();
+              const tejData = await tejRes.json();
+              const rows = Array.isArray(tejData.data) ? tejData.data : [];
+              rows.sort((a, b) => String(a.date).localeCompare(String(b.date)));
+              const latest = rows[rows.length - 1];
+              if (isVerifiedEodRow(latest, status)) {
                 quote = {
-                  close: refs[p].close,
-                  trade_date: refs[p].trade_date,
-                  source: refs[p].source
+                  close: Number(latest.close),
+                  trade_date: latest.date,
+                  source: 'TejHQ / NSE EOD',
+                  freshness: 'LATEST_VERIFIED_EOD'
                 };
               }
             }
-          } catch (rErr) {}
+          } catch (tejErr) {}
         }
 
         const pe = dossier ? dossier.pe_ratio : null;
         const pb = dossier ? dossier.pb_ratio : null;
-        const mcap = dossier ? dossier.market_cap_cr : null;
+        const shares = dossier ? dossier.shares_outstanding_cr : null;
+        const mcap = quote && quote.close && shares
+          ? Number((quote.close * shares).toFixed(2))
+          : null;
 
         if (pe && pe > 0) peList.push(pe);
         if (pb && pb > 0) pbList.push(pb);
@@ -235,6 +258,7 @@
           market_cap_cr: mcap,
           pe_ratio: pe,
           pb_ratio: pb,
+          pb_ratio_reason: dossier ? dossier.pb_ratio_reason : null,
           roe_pct: dossier ? dossier.roe_pct : null,
           sector: dossier ? dossier.sector : 'Equities'
         });
@@ -313,7 +337,7 @@
         </tr>
         <tr class="hover:bg-slate-50">
           <td class="py-2.5 px-4 font-sans font-medium text-slate-600">Price to Book (P/B)</td>
-          ${renderCells(p => p.pb_ratio ? `${p.pb_ratio}x` : '<span class="text-slate-400">N/A</span>')}
+          ${renderCells(p => p.pb_ratio ? `${p.pb_ratio}x` : `<span class="text-slate-400" title="${p.pb_ratio_reason || ''}">N/A</span>`)}
         </tr>
         <tr class="hover:bg-slate-50">
           <td class="py-2.5 px-4 font-sans font-medium text-slate-600">Return on Equity (ROE)</td>

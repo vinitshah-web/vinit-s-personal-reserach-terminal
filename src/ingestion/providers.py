@@ -6,14 +6,19 @@ Provides unified interfaces for:
 Strictly zero-budget, no synthetic price fabrication, honest missing data disclosure.
 """
 import logging
-from datetime import date, datetime
+from datetime import date, datetime, timezone
 from typing import Dict, Any, List, Optional
 from pathlib import Path
 import urllib.request
+import urllib.parse
 import json
 import yfinance as yf
 
 logger = logging.getLogger(__name__)
+
+
+class MarketDataProviderError(RuntimeError):
+    """Raised when a provider response cannot be treated as verified market data."""
 
 SYMBOL_ALIASES: Dict[str, str] = {
     "ZOMATO": "ETERNAL",
@@ -51,20 +56,69 @@ class TejHQAdapter:
     """Queries TejHQ's open keyless endpoints for NSE End-of-Day data."""
     BASE_URL = "https://api.tejhq.dev"
     HEADERS = {"User-Agent": "NSE-Research-Terminal/2.0 (Windows; Zero-Budget)"}
+    TIMEOUT_SECONDS = 15
+
+    @classmethod
+    def request_json(cls, path: str, query: Optional[Dict[str, str]] = None) -> Dict[str, Any]:
+        """Fetch and decode one HTTPS provider response, preserving TLS verification."""
+        query_string = urllib.parse.urlencode(query or {})
+        url = f"{cls.BASE_URL}{path}"
+        if query_string:
+            url = f"{url}?{query_string}"
+        request = urllib.request.Request(url, headers=cls.HEADERS)
+
+        try:
+            with urllib.request.urlopen(request, timeout=cls.TIMEOUT_SECONDS) as response:
+                if response.status != 200:
+                    raise MarketDataProviderError(
+                        f"TejHQ returned HTTP {response.status} for {path}."
+                    )
+                payload = json.loads(response.read().decode("utf-8"))
+        except MarketDataProviderError:
+            raise
+        except Exception as exc:
+            raise MarketDataProviderError(f"TejHQ request failed for {path}: {exc}") from exc
+
+        if not isinstance(payload, dict):
+            raise MarketDataProviderError(f"TejHQ returned a non-object payload for {path}.")
+        return payload
+
+    @classmethod
+    def get_pipeline_status(cls) -> Dict[str, Any]:
+        payload = cls.request_json("/v1/status")
+        trading_date = payload.get("trading_date")
+        stage = payload.get("stage")
+        if not trading_date or stage not in {"prices", "derived"}:
+            raise MarketDataProviderError("TejHQ status is missing a valid trading date or stage.")
+        try:
+            date.fromisoformat(trading_date)
+        except ValueError as exc:
+            raise MarketDataProviderError("TejHQ status contains an invalid trading date.") from exc
+        return payload
+
+    @classmethod
+    def get_snapshot(cls, trading_date: date) -> List[Dict[str, Any]]:
+        payload = cls.request_json(
+            "/v1/snapshot/NSE", {"date": trading_date.isoformat()}
+        )
+        rows = payload.get("data")
+        if not isinstance(rows, list):
+            raise MarketDataProviderError("TejHQ snapshot is missing its data array.")
+        return rows
 
     @classmethod
     def get_eod_ohlcv(cls, symbol: str, days: int = 90) -> List[Dict[str, Any]]:
         clean_sym = resolve_canonical_symbol(symbol)
-        url = f"{cls.BASE_URL}/v1/ohlcv/NSE/{clean_sym}"
         try:
-            req = urllib.request.Request(url, headers=cls.HEADERS)
-            with urllib.request.urlopen(req, timeout=5) as res:
-                if res.status == 200:
-                    payload = json.loads(res.read().decode("utf-8"))
-                    data = payload.get("data", [])
-                    return data[-days:] if data else []
-        except Exception as e:
-            logger.warning(f"TejHQ OHLCV query failed for {symbol}: {e}")
+            payload = cls.request_json(f"/v1/ohlcv/NSE/{urllib.parse.quote(clean_sym)}")
+            rows = payload.get("data")
+            if not isinstance(rows, list):
+                raise MarketDataProviderError("TejHQ OHLCV response is missing its data array.")
+            dated_rows = [row for row in rows if isinstance(row, dict) and row.get("date")]
+            dated_rows.sort(key=lambda row: row["date"])
+            return dated_rows[-days:] if days > 0 else dated_rows
+        except MarketDataProviderError as exc:
+            logger.warning("TejHQ OHLCV query failed for %s: %s", symbol, exc)
         return []
 
     @classmethod
@@ -74,39 +128,52 @@ class TejHQAdapter:
         if rows:
             latest = rows[-1]
             close_val = latest.get("close")
-            if close_val is not None:
+            try:
+                trade_date = date.fromisoformat(str(latest.get("date")))
+                open_value = float(latest.get("open"))
+                high_value = float(latest.get("high"))
+                low_value = float(latest.get("low"))
+                close_value = float(close_val)
+                volume = int(latest.get("volume"))
+            except (TypeError, ValueError):
+                return None
+
+            if (
+                min(open_value, high_value, low_value, close_value) > 0
+                and low_value <= open_value <= high_value
+                and low_value <= close_value <= high_value
+                and volume >= 0
+            ):
                 t_date = latest.get("date")
                 return {
                     "symbol": clean_sym,
                     "isin": isin or "N/A",
                     "source": "TejHQ Keyless EOD",
                     "trade_date": t_date,
-                    "close": float(close_val),
-                    "open": float(latest.get("open", close_val)),
-                    "high": float(latest.get("high", close_val)),
-                    "low": float(latest.get("low", close_val)),
-                    "volume": int(latest.get("volume", 0)),
+                    "close": close_value,
+                    "open": open_value,
+                    "high": high_value,
+                    "low": low_value,
+                    "volume": volume,
                     "turnover": float(latest.get("turnover", 0.0)),
                     "prev_close": float(latest.get("prev_close", close_val)),
                     "price_basis": "NSE Unadjusted Bhavcopy Close",
-                    "freshness": f"Dated Close ({t_date})",
+                    "freshness": "DATED_EOD",
                     "status": "VALID",
-                    "retrieval_time": datetime.now().isoformat()
+                    "retrieval_time": datetime.now(timezone.utc).isoformat(),
+                    "source_url": f"{cls.BASE_URL}/v1/ohlcv/NSE/{clean_sym}"
                 }
         return None
 
     @classmethod
     def get_corporate_actions(cls, symbol: str) -> List[Dict[str, Any]]:
         clean_sym = resolve_canonical_symbol(symbol)
-        url = f"{cls.BASE_URL}/v1/actions/{clean_sym}"
         try:
-            req = urllib.request.Request(url, headers=cls.HEADERS)
-            with urllib.request.urlopen(req, timeout=5) as res:
-                if res.status == 200:
-                    payload = json.loads(res.read().decode("utf-8"))
-                    return payload.get("data", [])
-        except Exception as e:
-            logger.warning(f"TejHQ actions query failed for {symbol}: {e}")
+            payload = cls.request_json(f"/v1/actions/{urllib.parse.quote(clean_sym)}")
+            rows = payload.get("data")
+            return rows if isinstance(rows, list) else []
+        except MarketDataProviderError as exc:
+            logger.warning("TejHQ actions query failed for %s: %s", symbol, exc)
         return []
 
 

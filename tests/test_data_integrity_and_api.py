@@ -92,8 +92,8 @@ def test_api_three_part_envelope_and_metadata(db_session):
         assert "forecasts" in data
         assert "metadata" in data
 
-        # 2. Metadata & Watermark
-        assert data["metadata"]["watermark"] == "CODE TEST - SYNTHETIC DATA"
+        # 2. Metadata & data policy
+        assert data["metadata"]["data_policy"] == "NO_SYNTHETIC_MARKET_DATA"
         assert data["metadata"]["query_mode"] == "AS_KNOWN"
 
         # 3. Facts
@@ -102,14 +102,12 @@ def test_api_three_part_envelope_and_metadata(db_session):
         assert data["facts"]["market_observation"]["close_raw"] == 2840.0
         assert data["facts"]["market_observation"]["file_hash"] == "sha256_mock_hash"
 
-        # 4. Metrics (DuPont)
+        # 4. Metrics fail closed when the fixture has no reported statement.
         assert "dupont_5factor" in data["metrics"]
-        assert data["metrics"]["dupont_5factor"]["formula_id"] == "DUPONT_ROE_5FACTOR"
-        assert data["metrics"]["dupont_5factor"]["roe_product"] == 0.1500
+        assert data["metrics"]["dupont_5factor"]["status"] == "NOT_CALCULATED"
 
-        # 5. Forecasts (DCF)
+        # 5. Forecasts require explicit assumptions rather than hard-coded values.
         assert "dcf_valuation" in data["forecasts"]
-        assert data["forecasts"]["dcf_valuation"]["model_id"] == "VAL_DCF_FCFF"
-        assert data["forecasts"]["dcf_valuation"]["enterprise_value_cr"] == 919.6616
+        assert data["forecasts"]["dcf_valuation"]["status"] == "NOT_CALCULATED"
     finally:
         app.dependency_overrides.clear()
