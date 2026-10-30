@@ -1,6 +1,10 @@
 name: Daily verified NSE market data
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/daily-market-data.yml"
   schedule:
     # 20:00 IST on weekdays, after TejHQ's documented 18:30 publication.
     - cron: "30 14 * * 1-5"
