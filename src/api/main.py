@@ -722,6 +722,7 @@ def get_company_research(symbol: str, db: Session = Depends(get_db)):
         "shares_outstanding_cr": dossier.get("shares_outstanding_cr"),
         "pe_ratio": dossier.get("pe_ratio"),
         "pb_ratio": dossier.get("pb_ratio"),
+        "pb_ratio_reason": dossier.get("pb_ratio_reason"),
         "fifty_two_week_high": dossier.get("fifty_two_week_high"),
         "fifty_two_week_low": dossier.get("fifty_two_week_low"),
         "business_summary": dossier.get("business_summary"),
@@ -795,6 +796,7 @@ def get_company_peers(symbol: str, db: Session = Depends(get_db)):
             "market_cap_cr": mcap,
             "pe_ratio": pe,
             "pb_ratio": pb,
+            "pb_ratio_reason": d.get("pb_ratio_reason"),
             "dividend_yield_pct": d.get("dividend_yield_pct"),
             "source": q.get("source") if q else "Missing Quote"
         })

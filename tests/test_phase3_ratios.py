@@ -1,6 +1,93 @@
 """Tests for Phase 3: Fundamental analysis engine, DuPont 5-factor, EV/EBITDA, and Banking metrics."""
+from datetime import date
+
 import pytest
 from src.core.fundamentals.ratios import FundamentalAnalysisEngine
+from src.ingestion.providers import apply_pb_display_rule
+
+
+def pb_result(**overrides):
+    inputs = {
+        "price": 200.0,
+        "price_date": date(2026, 10, 28),
+        "total_equity_cr": 1_000.0,
+        "shares_outstanding_cr": 100.0,
+        "balance_sheet_date": date(2026, 3, 31),
+    }
+    inputs.update(overrides)
+    return FundamentalAnalysisEngine().calculate_pb_ratio(**inputs)
+
+
+def test_pb_ratio_calculates_from_complete_fresh_inputs():
+    assert pb_result() == {"pb_ratio": 20.0, "pb_ratio_reason": None}
+
+
+def test_pb_ratio_is_null_without_price():
+    assert pb_result(price=None) == {
+        "pb_ratio": None,
+        "pb_ratio_reason": "Price is unavailable."
+    }
+
+
+def test_pb_ratio_is_null_without_price_date():
+    assert pb_result(price_date=None) == {
+        "pb_ratio": None,
+        "pb_ratio_reason": "Price date is unavailable."
+    }
+
+
+def test_pb_ratio_is_null_without_total_equity():
+    assert pb_result(total_equity_cr=None) == {
+        "pb_ratio": None,
+        "pb_ratio_reason": "Total equity is unavailable."
+    }
+
+
+def test_pb_ratio_is_null_without_shares_outstanding():
+    assert pb_result(shares_outstanding_cr=None) == {
+        "pb_ratio": None,
+        "pb_ratio_reason": "Shares outstanding are unavailable."
+    }
+
+
+def test_pb_ratio_is_null_without_balance_sheet_date():
+    assert pb_result(balance_sheet_date=None) == {
+        "pb_ratio": None,
+        "pb_ratio_reason": "Balance-sheet date is unavailable."
+    }
+
+
+def test_pb_ratio_is_null_for_balance_sheet_older_than_12_months():
+    assert pb_result(balance_sheet_date=date(2025, 10, 27)) == {
+        "pb_ratio": None,
+        "pb_ratio_reason": "Balance sheet is more than 12 months older than the price date."
+    }
+
+
+def test_pb_ratio_accepts_balance_sheet_exactly_12_months_old():
+    assert pb_result(balance_sheet_date=date(2025, 10, 28)) == {
+        "pb_ratio": 20.0,
+        "pb_ratio_reason": None
+    }
+
+
+@pytest.mark.parametrize(
+    "symbol",
+    [
+        "BHARTIARTL", "BPCL", "DIXON", "ETERNAL", "FEDERALBNK",
+        "ICICIBANK", "INFY", "IOC", "NAZARA", "PAYTM", "POLYCAB",
+        "SBIN", "SWIGGY", "WIPRO"
+    ]
+)
+def test_pb_display_rule_suppresses_unverifiable_cached_ratios(symbol):
+    dossier = {"market_cap_cr": 100.0, "pe_ratio": 20.0, "pb_ratio": 3.0}
+
+    result = apply_pb_display_rule(symbol, dossier)
+
+    assert result["pb_ratio"] is None
+    assert "12-month freshness rule" in result["pb_ratio_reason"]
+    assert result["market_cap_cr"] == 100.0
+    assert result["pe_ratio"] == 20.0
 
 
 def test_dupont_5factor_numerical_fixture():

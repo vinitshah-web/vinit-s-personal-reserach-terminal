@@ -1,8 +1,85 @@
 """Fundamental Accounting Ratio Calculators with Strict Sector Routing."""
-from typing import Dict, Any
+from datetime import date, datetime
+from typing import Any, Dict, Optional, Union
+
+
+DateValue = Union[date, datetime, str]
 
 
 class FundamentalAnalysisEngine:
+    @staticmethod
+    def _parse_date(value: DateValue) -> date:
+        """Normalize supported date inputs without silently accepting timestamps."""
+        if isinstance(value, datetime):
+            return value.date()
+        if isinstance(value, date):
+            return value
+        return date.fromisoformat(value)
+
+    def calculate_pb_ratio(
+        self,
+        price: Optional[float],
+        price_date: Optional[DateValue],
+        total_equity_cr: Optional[float],
+        shares_outstanding_cr: Optional[float],
+        balance_sheet_date: Optional[DateValue]
+    ) -> Dict[str, Any]:
+        """Calculate P/B only from complete, date-aligned source inputs."""
+        if price is None:
+            return {"pb_ratio": None, "pb_ratio_reason": "Price is unavailable."}
+        if price_date is None:
+            return {"pb_ratio": None, "pb_ratio_reason": "Price date is unavailable."}
+        if total_equity_cr is None:
+            return {"pb_ratio": None, "pb_ratio_reason": "Total equity is unavailable."}
+        if shares_outstanding_cr is None:
+            return {"pb_ratio": None, "pb_ratio_reason": "Shares outstanding are unavailable."}
+        if balance_sheet_date is None:
+            return {"pb_ratio": None, "pb_ratio_reason": "Balance-sheet date is unavailable."}
+        if price <= 0:
+            return {"pb_ratio": None, "pb_ratio_reason": "Price must be positive."}
+        if total_equity_cr <= 0:
+            return {"pb_ratio": None, "pb_ratio_reason": "Total equity must be positive."}
+        if shares_outstanding_cr <= 0:
+            return {"pb_ratio": None, "pb_ratio_reason": "Shares outstanding must be positive."}
+
+        try:
+            normalized_price_date = self._parse_date(price_date)
+        except (TypeError, ValueError):
+            return {"pb_ratio": None, "pb_ratio_reason": "Price date is invalid."}
+        try:
+            normalized_balance_sheet_date = self._parse_date(balance_sheet_date)
+        except (TypeError, ValueError):
+            return {"pb_ratio": None, "pb_ratio_reason": "Balance-sheet date is invalid."}
+
+        if normalized_balance_sheet_date > normalized_price_date:
+            return {
+                "pb_ratio": None,
+                "pb_ratio_reason": "Balance-sheet date cannot be after the price date."
+            }
+
+        try:
+            oldest_allowed_date = normalized_price_date.replace(
+                year=normalized_price_date.year - 1
+            )
+        except ValueError:
+            # A 29-Feb price date has 28-Feb as its exact one-year boundary.
+            oldest_allowed_date = normalized_price_date.replace(
+                year=normalized_price_date.year - 1,
+                day=28
+            )
+
+        if normalized_balance_sheet_date < oldest_allowed_date:
+            return {
+                "pb_ratio": None,
+                "pb_ratio_reason": "Balance sheet is more than 12 months older than the price date."
+            }
+
+        book_value_per_share = total_equity_cr / shares_outstanding_cr
+        return {
+            "pb_ratio": round(price / book_value_per_share, 2),
+            "pb_ratio_reason": None
+        }
+
     def calculate_dupont_5factor(
         self,
         net_income: float,
