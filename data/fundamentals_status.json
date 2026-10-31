@@ -1,0 +1,10 @@
+{
+  "failed_batches": [],
+  "refreshed_count": 23,
+  "requested_count": 25,
+  "retrieved_at": "2026-10-31T16:33:08.599834+00:00",
+  "source": "Yahoo Finance quote feed",
+  "source_class": "SECONDARY_AGGREGATOR",
+  "status": "VERIFIED_SECONDARY_SOURCE",
+  "total_cached_count": 23
+}
