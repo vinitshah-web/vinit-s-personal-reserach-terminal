@@ -1,15 +1,1 @@
-{
-  "exchange": "NSE",
-  "fetched_at": "2026-10-31T16:24:07.221292+00:00",
-  "inserted_rows": 2926,
-  "provider": "TejHQ",
-  "provider_published_at": "2026-10-31T13:49:10+00:00",
-  "skipped_unknown_securities": 26,
-  "snapshot_rows": 2952,
-  "source_hash": "98aacaa55324df20e49b911dbfaee82524767dca5613046c1afd2a301514a03c",
-  "status": "VERIFIED",
-  "trading_date": "2026-10-30",
-  "unchanged_rows": 0,
-  "updated_rows": 0,
-  "validated_rows": 2952
-}
+{"exchange": "NSE", "exchanges": {"BSE": {"exchange": "BSE", "fetched_at": "2026-10-31T16:39:32.200131+00:00", "inserted_rows": 0, "provider": "TejHQ", "provider_published_at": "2026-10-31T13:49:10+00:00", "skipped_unknown_securities": 0, "snapshot_rows": 2678, "source_hash": "cdf1d5cf31defe616379a4de915d4c124cf73785a5e34cf7c9ade60447a31fdb", "status": "VERIFIED", "trading_date": "2026-10-30", "unchanged_rows": 0, "updated_rows": 0, "validated_rows": 2678}, "NSE": {"exchange": "NSE", "fetched_at": "2026-10-31T16:39:30.688877+00:00", "inserted_rows": 2926, "provider": "TejHQ", "provider_published_at": "2026-10-31T13:49:10+00:00", "skipped_unknown_securities": 26, "snapshot_rows": 2952, "source_hash": "98aacaa55324df20e49b911dbfaee82524767dca5613046c1afd2a301514a03c", "status": "VERIFIED", "trading_date": "2026-10-30", "unchanged_rows": 0, "updated_rows": 0, "validated_rows": 2952}}, "fetched_at": "2026-10-31T16:39:30.688877+00:00", "inserted_rows": 2926, "provider": "TejHQ", "provider_published_at": "2026-10-31T13:49:10+00:00", "skipped_unknown_securities": 26, "snapshot_rows": 2952, "source_hash": "98aacaa55324df20e49b911dbfaee82524767dca5613046c1afd2a301514a03c", "status": "VERIFIED", "trading_date": "2026-10-30", "unchanged_rows": 0, "updated_rows": 0, "validated_rows": 2952}
