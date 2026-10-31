@@ -39,6 +39,7 @@ jobs:
           python scripts/ingest_real_archives.py
 
       - name: Refresh and validate latest NSE snapshot
+        id: market_refresh
         shell: bash
         run: |
           set +e
@@ -49,18 +50,27 @@ jobs:
           if [ "$refresh_exit" -ne 0 ]; then
             annotation=$(printf '%s' "$refresh_output" | tr '\n' ' ' | sed 's/%/%25/g; s/\r/%0D/g')
             echo "::error title=Market data refresh failed::${annotation}"
-            exit "$refresh_exit"
+            printf '%s' "$refresh_output" | python -c "import json,sys; from datetime import datetime,timezone; from pathlib import Path; Path('data/market_data_status.json').write_text(json.dumps({'status':'FAILED','attempted_at':datetime.now(timezone.utc).isoformat(),'error':sys.stdin.read()}, indent=2), encoding='utf-8')"
+            echo "success=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "success=true" >> "$GITHUB_OUTPUT"
           fi
 
       - name: Commit changed static snapshot
+        if: steps.market_refresh.outcome == 'success'
         run: |
-          git add data/latest_quotes.json data/market_data_status.json
+          git add data/market_data_status.json
+          if [ -f data/latest_quotes.json ]; then git add data/latest_quotes.json; fi
           if git diff --cached --quiet; then
             echo "Provider trading date is already published."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          trading_date=$(python -c "import json; print(json.load(open('data/market_data_status.json'))['trading_date'])")
-          git commit -m "data: refresh NSE EOD snapshot for ${trading_date}"
+          snapshot_label=$(python -c "import json; d=json.load(open('data/market_data_status.json')); print(d.get('trading_date') or 'failed-attempt')")
+          git commit -m "data: refresh NSE EOD snapshot for ${snapshot_label}"
           git push
+
+      - name: Enforce successful market refresh
+        if: always() && steps.market_refresh.outputs.success != 'true'
+        run: exit 1
