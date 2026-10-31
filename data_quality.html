@@ -45,7 +45,7 @@
   </style>
 </head>
 <body class="min-h-screen flex flex-col">
-  <div class="watermark">CODE TEST — SYNTHETIC DATA</div>
+  <div class="watermark" style="color:rgba(16,185,129,.85);border-color:rgba(16,185,129,.5)">VERIFIED SNAPSHOT AUDIT</div>
 
   <!-- Terminal Top Navigation -->
   <header class="border-b border-[var(--border)] px-6 py-3 flex items-center justify-between card">
@@ -75,30 +75,30 @@
         <h1 class="text-xl font-bold tracking-tight">Data Quality, SHA-256 Provenance & Regulatory Compliance</h1>
         <p class="text-xs text-[var(--text-muted)] mt-1">Audit ledger verifying raw source hashes, statutory section citations, and point-in-time publication gating</p>
       </div>
-      <span class="text-xs px-2.5 py-1 rounded bg-emerald-950 text-emerald-400 border border-emerald-800 font-semibold font-mono">INTEGRITY STATUS: 100% VERIFIED</span>
+      <span id="integrity-status" class="text-xs px-2.5 py-1 rounded bg-slate-900 text-slate-300 border border-slate-700 font-semibold font-mono">INTEGRITY STATUS: LOADING</span>
     </div>
 
     <!-- Data Quality Indicators -->
     <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
       <div class="card p-4 rounded-lg">
         <div class="text-[10px] text-[var(--text-muted)] uppercase tracking-wider">Securities Ingested</div>
-        <div id="audit-sec-count" class="text-xl font-bold font-mono text-white mt-1">2,915</div>
-        <div class="text-[10px] text-emerald-400 mt-0.5">NSE CM Active EQ/BE</div>
+        <div id="audit-sec-count" class="text-xl font-bold font-mono text-white mt-1">—</div>
+        <div class="text-[10px] text-emerald-400 mt-0.5">NSE + BSE search snapshot</div>
       </div>
       <div class="card p-4 rounded-lg">
         <div class="text-[10px] text-[var(--text-muted)] uppercase tracking-wider">Raw Prices Recorded</div>
-        <div id="audit-price-count" class="text-xl font-bold font-mono text-emerald-400 mt-1">5,823</div>
-        <div class="text-[10px] text-emerald-400 mt-0.5">Oct 22 & 23 Bhavcopies</div>
+        <div id="audit-price-count" class="text-xl font-bold font-mono text-emerald-400 mt-1">—</div>
+        <div class="text-[10px] text-emerald-400 mt-0.5">Latest validated EOD rows</div>
       </div>
       <div class="card p-4 rounded-lg">
-        <div class="text-[10px] text-[var(--text-muted)] uppercase tracking-wider">Official Announcements</div>
-        <div id="audit-an-count" class="text-xl font-bold font-mono text-sky-400 mt-1">834</div>
-        <div class="text-[10px] text-emerald-400 mt-0.5">Parsed from an23102026.txt</div>
+        <div class="text-[10px] text-[var(--text-muted)] uppercase tracking-wider">Fundamentals Available</div>
+        <div id="audit-an-count" class="text-xl font-bold font-mono text-sky-400 mt-1">—</div>
+        <div class="text-[10px] text-emerald-400 mt-0.5">Secondary-source company facts</div>
       </div>
       <div class="card p-4 rounded-lg">
-        <div class="text-[10px] text-[var(--text-muted)] uppercase tracking-wider">Index Trading Days</div>
-        <div id="audit-index-count" class="text-xl font-bold font-mono text-indigo-400 mt-1">246 Days</div>
-        <div class="text-[10px] text-emerald-400 mt-0.5">NIFTY 50 1-Year Series</div>
+        <div class="text-[10px] text-[var(--text-muted)] uppercase tracking-wider">Snapshot Trading Date</div>
+        <div id="audit-index-count" class="text-xl font-bold font-mono text-indigo-400 mt-1">—</div>
+        <div class="text-[10px] text-emerald-400 mt-0.5">Displayed with every price</div>
       </div>
     </div>
 
@@ -117,39 +117,8 @@
               <th class="py-2.5">Status</th>
             </tr>
           </thead>
-          <tbody class="font-mono divide-y divide-[var(--border)] text-xs">
-            <tr>
-              <td class="py-2 font-bold text-white">BhavCopy_NSE_CM_0_0_0_20261022_F_0000.csv</td>
-              <td class="py-2 text-[var(--text-muted)]">NSE Unified Bhavcopy</td>
-              <td class="py-2">2026-10-22</td>
-              <td class="py-2">2,915</td>
-              <td class="py-2 text-[var(--text-muted)] text-[10px]">9b4a8e27c10b42f7...</td>
-              <td class="py-2 text-emerald-400 font-bold">VERIFIED</td>
-            </tr>
-            <tr>
-              <td class="py-2 font-bold text-white">an23102026.txt</td>
-              <td class="py-2 text-[var(--text-muted)]">NSE Corporate Announcements</td>
-              <td class="py-2">2026-10-23</td>
-              <td class="py-2">834</td>
-              <td class="py-2 text-[var(--text-muted)] text-[10px]">f12c8b09a471e3d0...</td>
-              <td class="py-2 text-emerald-400 font-bold">VERIFIED</td>
-            </tr>
-            <tr>
-              <td class="py-2 font-bold text-white">NIFTY 50-25-10-2025-to-25-10-2026.csv</td>
-              <td class="py-2 text-[var(--text-muted)]">NSE Indices Historical Data</td>
-              <td class="py-2">2025-10-25 to 2026-10-23</td>
-              <td class="py-2">246</td>
-              <td class="py-2 text-[var(--text-muted)] text-[10px]">c389ea410d7e29a4...</td>
-              <td class="py-2 text-emerald-400 font-bold">VERIFIED</td>
-            </tr>
-            <tr>
-              <td class="py-2 font-bold text-white">1766489756276.pdf</td>
-              <td class="py-2 text-[var(--text-muted)]">SEBI LODR Regulations, 2015</td>
-              <td class="py-2">2015-09-02 (222 pp)</td>
-              <td class="py-2">Reg 30, 31, 33, 42</td>
-              <td class="py-2 text-[var(--text-muted)] text-[10px]">e45d129a0f34bc78...</td>
-              <td class="py-2 text-emerald-400 font-bold">VERIFIED</td>
-            </tr>
+          <tbody id="snapshot-ledger" class="font-mono divide-y divide-[var(--border)] text-xs">
+            <tr><td colspan="6" class="py-6 text-center text-[var(--text-muted)]">Loading committed verification records…</td></tr>
           </tbody>
         </table>
       </div>
@@ -190,22 +159,35 @@
 
     async function initAuditData() {
       try {
-        const res = await fetch('/api/v1/quality/audit');
-        if (res.ok) {
-          const data = await res.json();
-          if (data.counts) {
-            const sec = document.getElementById('audit-sec-count');
-            const price = document.getElementById('audit-price-count');
-            const an = document.getElementById('audit-an-count');
-            const idx = document.getElementById('audit-index-count');
-            if (sec && data.counts.securities_master) sec.innerText = data.counts.securities_master.toLocaleString();
-            if (price && data.counts.raw_prices) price.innerText = data.counts.raw_prices.toLocaleString();
-            if (an && data.counts.governance_disclosures) an.innerText = data.counts.governance_disclosures.toLocaleString();
-            if (idx && data.counts.index_daily_prices) idx.innerText = `${data.counts.index_daily_prices} Days`;
-          }
-        }
+        const [marketRes, quotesRes, securitiesRes, fundamentalsRes] = await Promise.all([
+          fetch('data/market_data_status.json', { cache: 'no-store' }),
+          fetch('data/latest_quotes.json', { cache: 'no-store' }),
+          fetch('data/securities_search_index.json', { cache: 'no-store' }),
+          fetch('data/fundamentals_status.json', { cache: 'no-store' })
+        ]);
+        if (![marketRes, quotesRes, securitiesRes, fundamentalsRes].every(res => res.ok)) throw new Error('Snapshot file missing');
+        const [market, quotes, securities, fundamentals] = await Promise.all([
+          marketRes.json(), quotesRes.json(), securitiesRes.json(), fundamentalsRes.json()
+        ]);
+        document.getElementById('audit-sec-count').innerText = securities.length.toLocaleString();
+        document.getElementById('audit-price-count').innerText = Object.keys(quotes).length.toLocaleString();
+        document.getElementById('audit-an-count').innerText = Number(fundamentals.total_cached_count || 0).toLocaleString();
+        document.getElementById('audit-index-count').innerText = market.trading_date || 'Unavailable';
+        const exchanges = market.exchanges || {NSE: market};
+        const verified = Object.values(exchanges).length > 0 && Object.values(exchanges).every(item => item.status === 'VERIFIED');
+        document.getElementById('integrity-status').innerText = verified ? 'INTEGRITY STATUS: VERIFIED' : 'INTEGRITY STATUS: INCOMPLETE';
+        document.getElementById('snapshot-ledger').innerHTML = Object.entries(exchanges).map(([exchange, item]) => `
+          <tr>
+            <td class="py-2 font-bold text-white">${exchange} EOD snapshot</td>
+            <td class="py-2 text-[var(--text-muted)]">${item.provider || 'Unavailable'}</td>
+            <td class="py-2">${item.trading_date || 'Unavailable'}</td>
+            <td class="py-2">${Number(item.validated_rows || 0).toLocaleString()}</td>
+            <td class="py-2 text-[var(--text-muted)] text-[10px] break-all">${item.source_hash || 'Unavailable'}</td>
+            <td class="py-2 ${item.status === 'VERIFIED' ? 'text-emerald-400' : 'text-amber-400'} font-bold">${item.status || 'UNAVAILABLE'}</td>
+          </tr>`).join('');
       } catch (e) {
-        // Fallback to static mock values when opened as standalone file
+        document.getElementById('integrity-status').innerText = 'INTEGRITY STATUS: SNAPSHOT UNAVAILABLE';
+        document.getElementById('snapshot-ledger').innerHTML = '<tr><td colspan="6" class="py-6 text-center text-amber-400">Committed verification files could not be loaded. No fallback figures are shown.</td></tr>';
       }
     }
     window.addEventListener('DOMContentLoaded', initAuditData);

@@ -18,7 +18,7 @@
       <div class="flex items-center space-x-6">
         <a href="index.html" class="flex items-center space-x-2">
           <div class="w-7 h-7 rounded-md bg-emerald-600 flex items-center justify-center text-white font-bold text-sm shadow-sm">₹</div>
-          <span class="font-bold tracking-tight text-slate-900 text-base">NSE Equity Research</span>
+        <span class="font-bold tracking-tight text-slate-900 text-base">NSE & BSE Equity Research</span>
         </a>
         <nav class="hidden md:flex space-x-1 text-sm font-medium">
           <a href="index.html" class="px-3 py-1.5 rounded-md text-slate-600 hover:text-slate-900 hover:bg-slate-50 transition">Home</a>
@@ -57,7 +57,10 @@
             <tr>
               <th class="py-3 px-4">Symbol</th>
               <th class="py-3 px-4">Company Name</th>
-              <th class="py-3 px-4">Sector</th>
+              <th class="py-3 px-4">Exchange</th>
+              <th class="py-3 px-4">Latest verified close</th>
+              <th class="py-3 px-4">Trailing P/E</th>
+              <th class="py-3 px-4">P/B</th>
               <th class="py-3 px-4">Saved Date</th>
               <th class="py-3 px-4 text-right">Actions</th>
             </tr>
@@ -79,13 +82,13 @@
       return [];
     }
 
-    function renderWatchlist() {
+    async function renderWatchlist() {
       const list = getWatchlist();
       const tbody = document.getElementById('watchlistBody');
       if (list.length === 0) {
         tbody.innerHTML = `
           <tr>
-            <td colspan="5" class="p-8 text-center text-slate-500 font-sans">
+            <td colspan="8" class="p-8 text-center text-slate-500 font-sans">
               Your watchlist is currently empty. Visit the <a href="index.html" class="text-emerald-700 underline font-semibold">Home page</a> or search a stock to save it here.
             </td>
           </tr>
@@ -93,23 +96,47 @@
         return;
       }
 
-      tbody.innerHTML = list.map(item => `
+      let quotes = {}, fundamentals = {};
+      try {
+        const [quotesResponse, fundamentalsResponse] = await Promise.all([
+          fetch('data/latest_quotes.json', { cache: 'no-store' }),
+          fetch('data/fundamentals_snapshot.json', { cache: 'no-store' })
+        ]);
+        if (quotesResponse.ok) quotes = await quotesResponse.json();
+        if (fundamentalsResponse.ok) fundamentals = (await fundamentalsResponse.json()).data || {};
+      } catch (error) {
+        // Rows stay available; sourced metrics display as unavailable.
+      }
+
+      tbody.innerHTML = list.map(item => {
+        const exchange = String(item.exchange || 'NSE').toUpperCase() === 'BSE' ? 'BSE' : 'NSE';
+        const quote = quotes[exchange === 'BSE' ? `BSE:${item.symbol}` : item.symbol];
+        const fact = fundamentals[`${exchange}:${item.symbol}`];
+        const close = quote && Number.isFinite(Number(quote.close))
+          ? `₹${Number(quote.close).toLocaleString('en-IN', {minimumFractionDigits: 2, maximumFractionDigits: 2})}<div class="text-[10px] text-slate-400">${quote.trade_date}</div>`
+          : '<span class="text-slate-400">Unavailable</span>';
+        const pe = fact && Number(fact.pe_ratio) > 0 ? `${Number(fact.pe_ratio).toFixed(2)}x` : '<span class="text-slate-400">Unavailable</span>';
+        const pb = fact && Number(fact.pb_ratio) > 0 ? `${Number(fact.pb_ratio).toFixed(2)}x` : `<span class="text-slate-400" title="${fact ? fact.pb_ratio_reason || '' : ''}">Unavailable</span>`;
+        return `
         <tr class="hover:bg-slate-50">
           <td class="py-3 px-4 font-bold text-slate-900">${item.symbol}</td>
           <td class="py-3 px-4 font-sans text-slate-700">${item.name}</td>
-          <td class="py-3 px-4 font-sans"><span class="text-[11px] px-2 py-0.5 rounded badge-slate">${item.sector || 'Equities'}</span></td>
+          <td class="py-3 px-4 font-sans"><span class="text-[11px] px-2 py-0.5 rounded badge-slate">${exchange}</span></td>
+          <td class="py-3 px-4">${close}</td>
+          <td class="py-3 px-4">${pe}</td>
+          <td class="py-3 px-4">${pb}</td>
           <td class="py-3 px-4 text-slate-500 text-[11px] font-sans">${item.added_at ? item.added_at.split('T')[0] : 'Today'}</td>
           <td class="py-3 px-4 text-right font-sans space-x-2">
-            <a href="research.html?ticker=${item.symbol}" class="px-2.5 py-1 bg-emerald-600 hover:bg-emerald-700 text-white rounded text-xs font-semibold">Research</a>
-            <button onclick="removeSymbol('${item.symbol}')" class="px-2 py-1 text-slate-400 hover:text-rose-600 rounded text-xs">Remove</button>
+            <a href="research.html?ticker=${encodeURIComponent(item.symbol)}&exchange=${exchange}" class="px-2.5 py-1 bg-emerald-600 hover:bg-emerald-700 text-white rounded text-xs font-semibold">Research</a>
+            <button onclick="removeSymbol('${item.symbol}', '${exchange}')" class="px-2 py-1 text-slate-400 hover:text-rose-600 rounded text-xs">Remove</button>
           </td>
         </tr>
-      `).join('');
+      `}).join('');
     }
 
-    function removeSymbol(sym) {
+    function removeSymbol(sym, exchange) {
       let list = getWatchlist();
-      list = list.filter(x => x.symbol !== sym);
+      list = list.filter(x => !(x.symbol === sym && String(x.exchange || 'NSE').toUpperCase() === exchange));
       localStorage.setItem('user_watchlist', JSON.stringify(list));
       renderWatchlist();
     }
@@ -119,7 +146,7 @@
       const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(list, null, 2));
       const downloadAnchor = document.createElement('a');
       downloadAnchor.setAttribute("href", dataStr);
-      downloadAnchor.setAttribute("download", "nse_research_watchlist.json");
+      downloadAnchor.setAttribute("download", "nse_bse_research_watchlist.json");
       document.body.appendChild(downloadAnchor);
       downloadAnchor.click();
       downloadAnchor.remove();

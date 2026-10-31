@@ -197,7 +197,9 @@ class FinancialsAdapter:
         
         # 1. Memory Cache
         if clean_sym in cls._CACHE:
-            return apply_pb_display_rule(clean_sym, cls._CACHE[clean_sym])
+            cached = cls._CACHE[clean_sym]
+            _remove_generated_company_summary(cached)
+            return apply_pb_display_rule(clean_sym, cached)
 
         # 2. Disk Cache
         cache_dir = Path("data/dossier_cache")
@@ -207,6 +209,7 @@ class FinancialsAdapter:
             try:
                 with open(cache_file, "r", encoding="utf-8") as f:
                     cached = json.load(f)
+                    _remove_generated_company_summary(cached)
                     apply_pb_display_rule(clean_sym, cached)
                     cls._CACHE[clean_sym] = cached
                     return cached
@@ -218,9 +221,10 @@ class FinancialsAdapter:
         dossier: Dict[str, Any] = {
             "symbol": clean_sym,
             "company_name": clean_sym,
-            "sector": "Diversified",
-            "industry": "General",
-            "business_summary": "Financial statements and filings not yet ingested for this security.",
+            "sector": None,
+            "industry": None,
+            "business_summary": None,
+            "business_summary_reason": "A sourced company overview has not been ingested for this security.",
             "market_cap_cr": None,
             "pe_ratio": None,
             "pb_ratio": None,
@@ -240,9 +244,13 @@ class FinancialsAdapter:
             t = yf.Ticker(yf_ticker)
             info = t.info or {}
             dossier["company_name"] = info.get("shortName") or info.get("longName") or clean_sym
-            dossier["sector"] = info.get("sector") or "Diversified"
-            dossier["industry"] = info.get("industry") or "General"
-            dossier["business_summary"] = info.get("longBusinessSummary") or f"{clean_sym} is an Indian publicly traded enterprise."
+            dossier["sector"] = info.get("sector")
+            dossier["industry"] = info.get("industry")
+            dossier["business_summary"] = info.get("longBusinessSummary")
+            dossier["business_summary_reason"] = (
+                None if dossier["business_summary"]
+                else "The secondary provider returned no company overview."
+            )
             
             mcap = info.get("marketCap")
             dossier["market_cap_cr"] = round(mcap / 1e7, 2) if mcap else None
@@ -333,8 +341,16 @@ class FinancialsAdapter:
             logger.warning(f"FinancialsAdapter extraction error for {symbol}: {e}")
 
         apply_pb_display_rule(clean_sym, dossier)
+        _remove_generated_company_summary(dossier)
         cls._CACHE[clean_sym] = dossier
         return dossier
+
+
+def _remove_generated_company_summary(dossier: Dict[str, Any]) -> None:
+    summary = dossier.get("business_summary")
+    if isinstance(summary, str) and summary.endswith(" is an Indian publicly traded enterprise."):
+        dossier["business_summary"] = None
+        dossier["business_summary_reason"] = "A sourced company overview is unavailable."
 
 
 def pd_not_na(val):

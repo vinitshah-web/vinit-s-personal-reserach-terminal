@@ -127,22 +127,11 @@
       'M&M': 'M&M'
     };
 
-    function isVerifiedEodRow(row, status) {
-      if (!row || !status || !['prices', 'derived'].includes(status.stage)) return false;
-      const open = Number(row.open), high = Number(row.high), low = Number(row.low);
-      const close = Number(row.close), volume = Number(row.volume);
-      return row.date === status.trading_date
-        && [open, high, low, close, volume].every(Number.isFinite)
-        && Math.min(open, high, low, close) > 0
-        && low <= open && open <= high
-        && low <= close && close <= high
-        && volume >= 0;
-    }
-
     const urlParams = new URLSearchParams(window.location.search);
     let rawTarget = (urlParams.get('target') || 'TCS').trim().toUpperCase();
     const targetTicker = SYMBOL_ALIASES[rawTarget] || rawTarget;
-    document.getElementById('targetBadge').innerText = targetTicker;
+    const targetExchange = (urlParams.get('exchange') || 'NSE').trim().toUpperCase() === 'BSE' ? 'BSE' : 'NSE';
+    document.getElementById('targetBadge').innerText = `${targetExchange}:${targetTicker}`;
 
     // Default business model peer clusters
     let currentPeers = ['TCS', 'INFY', 'PERSISTENT', 'HCLTECH', 'WIPRO'];
@@ -161,6 +150,7 @@
     async function loadPeerData() {
       // 1. Try local FastAPI peer endpoint
       try {
+        if (targetExchange !== 'NSE') throw new Error('Static BSE comparison');
         const res = await fetch(`/api/v1/peers/${encodeURIComponent(targetTicker)}`);
         if (res.ok) {
           const data = await res.json();
@@ -192,59 +182,37 @@
       const pbList = [];
       const mcapList = [];
 
+      let quotes = {}, fundamentals = {}, index = [], status = {};
+      try {
+        const responses = await Promise.all([
+          fetch('data/latest_quotes.json', { cache: 'no-store' }),
+          fetch('data/fundamentals_snapshot.json', { cache: 'no-store' }),
+          fetch('data/securities_search_index.json', { cache: 'no-store' }),
+          fetch('data/market_data_status.json', { cache: 'no-store' })
+        ]);
+        if (!responses.every(response => response.ok)) throw new Error('Snapshot unavailable');
+        [quotes, fundamentals, index, status] = await Promise.all(responses.map(response => response.json()));
+        fundamentals = fundamentals.data || {};
+      } catch (error) {
+        document.getElementById('interpretationText').innerText = 'The verified snapshot files could not be loaded. No comparison was calculated.';
+        renderTable([]);
+        return;
+      }
+
       for (const p of currentPeers) {
-        let dossier = null;
-        try {
-          const res = await fetch(`data/dossier_cache/${encodeURIComponent(p)}.json`);
-          if (res.ok) dossier = await res.json();
-        } catch (e) {}
-
-        // Fetch the validated daily snapshot first, then cross-check live TejHQ.
-        let quote = null;
-        try {
-          const [quotesRes, statusRes] = await Promise.all([
-            fetch('data/latest_quotes.json', { cache: 'no-store' }),
-            fetch('data/market_data_status.json', { cache: 'no-store' })
-          ]);
-          if (quotesRes.ok && statusRes.ok) {
-            const quotes = await quotesRes.json();
-            const status = await statusRes.json();
-            const saved = quotes[p];
-            if (saved && saved.trade_date === status.trading_date) {
-              quote = { ...saved, freshness: 'LATEST_VERIFIED_EOD' };
-            }
-          }
-        } catch (snapshotErr) {}
-
-        if (!quote) {
-          try {
-            const [statusRes, tejRes] = await Promise.all([
-              fetch('https://api.tejhq.dev/v1/status'),
-              fetch(`https://api.tejhq.dev/v1/ohlcv/NSE/${encodeURIComponent(p)}`)
-            ]);
-            if (statusRes.ok && tejRes.ok) {
-              const status = await statusRes.json();
-              const tejData = await tejRes.json();
-              const rows = Array.isArray(tejData.data) ? tejData.data : [];
-              rows.sort((a, b) => String(a.date).localeCompare(String(b.date)));
-              const latest = rows[rows.length - 1];
-              if (isVerifiedEodRow(latest, status)) {
-                quote = {
-                  close: Number(latest.close),
-                  trade_date: latest.date,
-                  source: 'TejHQ / NSE EOD',
-                  freshness: 'LATEST_VERIFIED_EOD'
-                };
-              }
-            }
-          } catch (tejErr) {}
-        }
-
-        const pe = dossier ? dossier.pe_ratio : null;
-        const pb = dossier ? dossier.pb_ratio : null;
-        const shares = dossier ? dossier.shares_outstanding_cr : null;
-        const mcap = quote && quote.close && shares
-          ? Number((quote.close * shares).toFixed(2))
+        const quoteKey = targetExchange === 'BSE' ? `BSE:${p}` : p;
+        const fundamentalKey = `${targetExchange}:${p}`;
+        const quote = quotes[quoteKey] || null;
+        const fact = fundamentals[fundamentalKey] || null;
+        const security = index.find(item => item.exchange === targetExchange && item.ticker === p) || null;
+        const expectedDate = status.exchanges && status.exchanges[targetExchange]
+          ? status.exchanges[targetExchange].trading_date : status.trading_date;
+        const validQuote = quote && quote.trade_date === expectedDate ? quote : null;
+        const pe = fact ? fact.pe_ratio : null;
+        const pb = fact ? fact.pb_ratio : null;
+        const shares = fact ? fact.shares_outstanding_cr : null;
+        const mcap = validQuote && validQuote.close && shares
+          ? Number((validQuote.close * shares).toFixed(2))
           : null;
 
         if (pe && pe > 0) peList.push(pe);
@@ -253,14 +221,15 @@
 
         rows.push({
           symbol: p,
-          name: dossier ? dossier.company_name : p,
-          quote: quote,
+          exchange: targetExchange,
+          name: (fact && fact.company_name) || (security && security.name) || p,
+          quote: validQuote,
           market_cap_cr: mcap,
           pe_ratio: pe,
           pb_ratio: pb,
-          pb_ratio_reason: dossier ? dossier.pb_ratio_reason : null,
-          roe_pct: dossier ? dossier.roe_pct : null,
-          sector: dossier ? dossier.sector : 'Equities'
+          pb_ratio_reason: fact ? fact.pb_ratio_reason : 'No dated balance-sheet equity value is available.',
+          roe_pct: null,
+          sector: (fact && fact.sector) || (security && security.sector) || 'Unavailable'
         });
       }
 
@@ -283,18 +252,18 @@
 
       // Interpretation
       const targetItem = rows.find(r => r.symbol === targetTicker);
-      let interp = "Comparable peer metrics retrieved from official disclosures.";
+      let interp = `Comparison uses ${targetExchange} verified EOD closes and Yahoo Finance secondary-source trailing P/E values. P/B remains unavailable without dated balance-sheet equity.`;
       if (targetItem && targetItem.pe_ratio && medPE) {
         const diff = ((targetItem.pe_ratio - medPE) / medPE) * 100.0;
         if (diff > 10.0) {
-          interp = `${targetTicker} trades at a ${diff.toFixed(1)}% valuation premium relative to the peer median P/E of ${medPE.toFixed(1)}x. A premium can be justified if the company delivers superior return on equity (ROE) and faster cash flow expansion than its peer group.`;
+          interp = `${targetTicker}'s trailing P/E is ${diff.toFixed(1)}% above this selected group's median of ${medPE.toFixed(1)}x. This arithmetic comparison does not establish that the premium is justified.`;
         } else if (diff < -10.0) {
-          interp = `${targetTicker} trades at a ${Math.abs(diff).toFixed(1)}% valuation discount relative to the peer median P/E of ${medPE.toFixed(1)}x. This discount offers a relative margin of safety, assuming business margins and balance sheet strength remain intact.`;
+          interp = `${targetTicker}'s trailing P/E is ${Math.abs(diff).toFixed(1)}% below this selected group's median of ${medPE.toFixed(1)}x. This arithmetic comparison does not establish a margin of safety.`;
         } else {
           interp = `${targetTicker} valuation multiple of ${targetItem.pe_ratio}x trades broadly in line (within ±10%) with the sector peer median of ${medPE.toFixed(1)}x.`;
         }
       } else {
-        interp = "Direct earnings multiples are not comparable or reported as negative/N/A. Valuation should be assessed based on balance sheet asset backing and cash generation.";
+        interp = "There are not enough positive sourced trailing P/E values to calculate a comparison. No valuation conclusion was generated.";
       }
       document.getElementById('interpretationText').innerText = interp;
 
@@ -310,7 +279,7 @@
             ${p.symbol === targetTicker ? '<span class="text-[9px] bg-emerald-100 text-emerald-800 px-1 rounded font-sans">Target</span>' : ''}
           </div>
           <div class="text-[11px] text-slate-500 font-sans font-normal truncate max-w-[140px]">${p.name || p.symbol}</div>
-          <a href="research.html?ticker=${encodeURIComponent(p.symbol)}" class="text-[10px] text-emerald-700 font-sans hover:underline mt-0.5 inline-block">Full Research →</a>
+          <a href="research.html?ticker=${encodeURIComponent(p.symbol)}&exchange=${encodeURIComponent(p.exchange || targetExchange)}" class="text-[10px] text-emerald-700 font-sans hover:underline mt-0.5 inline-block">Full Research →</a>
         </th>
       `).join('');
 

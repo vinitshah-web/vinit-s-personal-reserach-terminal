@@ -1,7 +1,11 @@
 """Tests for truthful normalization of batch fundamentals."""
 from datetime import datetime, timezone
 
-from src.ingestion.fundamentals_snapshot import normalize_yahoo_quote, yahoo_symbol
+from src.ingestion.fundamentals_snapshot import (
+    derive_cross_listed_rows,
+    normalize_yahoo_quote,
+    yahoo_symbol,
+)
 
 
 def test_yahoo_symbol_routes_exchange_suffixes():
@@ -50,3 +54,25 @@ def test_normalized_fundamentals_reject_wrong_currency():
         {"exchange": "NSE", "ticker": "ABC", "isin": "INE000A00000"},
     )
     assert row["data_status"] == "REJECTED"
+
+
+def test_cross_listed_fundamentals_require_exact_isin_match():
+    source = {
+        "NSE:RELIANCE": {
+            "key": "NSE:RELIANCE",
+            "exchange": "NSE",
+            "ticker": "RELIANCE",
+            "isin": "INE002A01018",
+            "company_name": "Reliance Industries Limited",
+            "pe_ratio": 21.25,
+            "data_status": "AVAILABLE",
+        }
+    }
+    derived = derive_cross_listed_rows(source, [
+        {"exchange": "BSE", "ticker": "RELIANCE", "isin": "INE002A01018", "name": "RELIANCE INDUSTRIES LTD."},
+        {"exchange": "BSE", "ticker": "OTHER", "isin": "INE000A00000", "name": "Other"},
+    ])
+
+    assert derived["BSE:RELIANCE"]["pe_ratio"] == 21.25
+    assert derived["BSE:RELIANCE"]["identity_basis"] == "Exact ISIN match to NSE:RELIANCE"
+    assert "BSE:OTHER" not in derived

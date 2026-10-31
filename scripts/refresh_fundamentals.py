@@ -13,7 +13,11 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from yfinance.data import YfData
 
-from src.ingestion.fundamentals_snapshot import normalize_yahoo_quote, yahoo_symbol
+from src.ingestion.fundamentals_snapshot import (
+    derive_cross_listed_rows,
+    normalize_yahoo_quote,
+    yahoo_symbol,
+)
 
 
 YAHOO_QUOTE_URL = "https://query1.finance.yahoo.com/v7/finance/quote"
@@ -80,13 +84,29 @@ def main() -> int:
     if not isinstance(existing_rows, dict):
         existing_rows = {}
 
+    # Query one provider listing per company. BSE rows that share an exact ISIN
+    # with an NSE row inherit the same company facts after collection; their
+    # exchange-specific prices continue to come from the BSE EOD snapshot.
+    query_instruments = instruments
+    if args.exchange == "ALL":
+        nse_isins = {
+            str(row.get("isin") or "").strip().upper()
+            for row in instruments
+            if str(row.get("exchange") or "NSE").upper() == "NSE" and row.get("isin")
+        }
+        query_instruments = [
+            row for row in instruments
+            if str(row.get("exchange") or "NSE").upper() == "NSE"
+            or str(row.get("isin") or "").strip().upper() not in nse_isins
+        ]
+
     data_client = YfData()
     retrieved_at = datetime.now(timezone.utc)
     normalized: Dict[str, Dict[str, Any]] = {}
     failed_batches: List[Dict[str, Any]] = []
     requested = 0
 
-    for batch_number, batch in enumerate(chunks(instruments, args.batch_size), start=1):
+    for batch_number, batch in enumerate(chunks(query_instruments, args.batch_size), start=1):
         requested += len(batch)
         try:
             provider_rows = fetch_batch(data_client, batch)
@@ -123,6 +143,21 @@ def main() -> int:
 
     merged = dict(existing_rows)
     merged.update(normalized)
+    cross_listed = derive_cross_listed_rows(merged, instruments)
+    merged.update(cross_listed)
+    selected_keys = {
+        f"{str(row.get('exchange') or 'NSE').upper()}:{str(row.get('ticker') or '').upper()}"
+        for row in instruments
+    }
+    available_selected = selected_keys.intersection(merged)
+    by_exchange = {}
+    for exchange in ("NSE", "BSE"):
+        exchange_keys = {key for key in selected_keys if key.startswith(f"{exchange}:")}
+        by_exchange[exchange] = {
+            "listed_in_snapshot": len(exchange_keys),
+            "fundamentals_available": len(exchange_keys.intersection(merged)),
+            "unavailable": len(exchange_keys - set(merged)),
+        }
     payload = {
         "status": "VERIFIED_SECONDARY_SOURCE",
         "source": "Yahoo Finance quote feed",
@@ -130,6 +165,10 @@ def main() -> int:
         "retrieved_at": retrieved_at.isoformat(),
         "requested_count": requested,
         "refreshed_count": len(normalized),
+        "cross_listed_count": len(cross_listed),
+        "selected_instrument_count": len(selected_keys),
+        "available_selected_count": len(available_selected),
+        "coverage_by_exchange": by_exchange,
         "total_cached_count": len(merged),
         "failed_batches": failed_batches,
         "data": merged,

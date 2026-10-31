@@ -26,6 +26,8 @@ import pandas as pd
 
 SEARCH_INDEX: List[Dict[str, Any]] = []
 FUNDAMENTALS_SNAPSHOT: Dict[str, Dict[str, Any]] = {}
+LATEST_QUOTES: Dict[str, Dict[str, Any]] = {}
+MARKET_DATA_STATUS: Dict[str, Any] = {}
 _index_file = Path("data/securities_search_index.json")
 if _index_file.exists():
     try:
@@ -42,6 +44,20 @@ if _fundamentals_file.exists():
         ).get("data", {})
     except (OSError, json.JSONDecodeError, AttributeError):
         FUNDAMENTALS_SNAPSHOT = {}
+
+for _path, _target in (
+    (Path("data/latest_quotes.json"), "quotes"),
+    (Path("data/market_data_status.json"), "status"),
+):
+    if _path.exists():
+        try:
+            _loaded = json.loads(_path.read_text(encoding="utf-8"))
+            if _target == "quotes" and isinstance(_loaded, dict):
+                LATEST_QUOTES = _loaded
+            elif _target == "status" and isinstance(_loaded, dict):
+                MARKET_DATA_STATUS = _loaded
+        except (OSError, json.JSONDecodeError):
+            pass
 
 app = FastAPI(
     title="Vinit's Self-Made Research Terminal API",
@@ -146,6 +162,24 @@ def get_local_quote(
         "source_file": price.source_file,
         "source_hash": price.file_hash,
     }
+
+
+def get_snapshot_quote(exchange: str, symbol: str, isin: Optional[str] = None) -> Optional[Dict[str, Any]]:
+    """Return a quote only when its date matches the verified exchange status."""
+    normalized_exchange = "BSE" if exchange.upper() == "BSE" else "NSE"
+    key = f"BSE:{symbol}" if normalized_exchange == "BSE" else symbol
+    quote = LATEST_QUOTES.get(key)
+    exchange_status = MARKET_DATA_STATUS.get("exchanges", {}).get(
+        normalized_exchange,
+        MARKET_DATA_STATUS if normalized_exchange == "NSE" else {},
+    )
+    if not quote or exchange_status.get("status") != "VERIFIED":
+        return None
+    if quote.get("trade_date") != exchange_status.get("trading_date"):
+        return None
+    if isin and isin != "N/A" and quote.get("isin") and quote.get("isin") != isin:
+        return None
+    return {**quote, "freshness": "LATEST_VERIFIED_EOD", "price_basis": "RAW_UNADJUSTED"}
 
 
 class ProvenanceEnvelope(BaseModel):
@@ -627,10 +661,11 @@ def search_securities(q: str = "", limit: int = 12, db: Session = Depends(get_db
 
 
 @app.get("/api/v1/research/{symbol}")
-def get_company_research(symbol: str, db: Session = Depends(get_db)):
+def get_company_research(symbol: str, db: Session = Depends(get_db), exchange: str = "NSE"):
     """Compiles complete company research dossier in INR with validated facts and zero fabricated valuations."""
     from src.ingestion.providers import resolve_canonical_symbol
     clean_sym = resolve_canonical_symbol(symbol.strip().upper().replace(".NS", ""))
+    normalized_exchange = "BSE" if exchange.upper() == "BSE" else "NSE"
     
     # 1. Security lookup
     sec = db.query(Security).filter(
@@ -643,18 +678,22 @@ def get_company_research(symbol: str, db: Session = Depends(get_db)):
     is_fin = sec.is_financial if sec else False
 
     # Also check SEARCH_INDEX for metadata if sec was not found in sqlite
-    if not sec and SEARCH_INDEX:
+    if SEARCH_INDEX:
         for s in SEARCH_INDEX:
-            if s["ticker"] == clean_sym or s["isin"] == clean_sym:
+            if (s.get("exchange") or "NSE") == normalized_exchange and (
+                s["ticker"] == clean_sym or s["isin"] == clean_sym
+            ):
                 company_name = s["name"]
                 isin = s["isin"]
-                sector = s.get("sector", "Diversified")
+                sector = s.get("sector") or "Unavailable"
                 is_fin = s.get("is_financial", False)
                 break
 
     # 2. Persisted verified EOD first; a live call is only a last-resort fallback.
-    quote = get_local_quote(db, clean_sym, isin)
-    if not quote:
+    quote = get_snapshot_quote(normalized_exchange, clean_sym, isin)
+    if not quote and normalized_exchange == "NSE":
+        quote = get_local_quote(db, clean_sym, isin)
+    if not quote and normalized_exchange == "NSE":
         quote = TejHQAdapter.get_latest_quote(clean_sym, isin=isin)
 
     if not quote:
@@ -667,12 +706,26 @@ def get_company_research(symbol: str, db: Session = Depends(get_db)):
             "price_basis": "N/A",
             "freshness": "No Quote Found",
             "status": "QUOTE_NOT_FOUND",
-            "explanation": f"No verified closing price found for {clean_sym} across live exchange feeds or local archives."
+            "explanation": f"No verified {normalized_exchange} closing price found for {clean_sym} in the current snapshot or local archive."
         }
 
     # 3. Financial Statements & Profile
-    dossier = FinancialsAdapter.get_company_dossier(clean_sym)
-    batch_fundamentals = FUNDAMENTALS_SNAPSHOT.get(f"NSE:{clean_sym}")
+    same_nse_security = bool(sec and sec.isin == isin)
+    dossier = (
+        FinancialsAdapter.get_company_dossier(clean_sym)
+        if normalized_exchange == "NSE" or same_nse_security
+        else {
+            "company_name": company_name,
+            "sector": sector,
+            "industry": None,
+            "business_summary": None,
+            "financial_statements": [],
+            "has_statements": False,
+            "pb_ratio": None,
+            "pb_ratio_reason": "Dated balance-sheet inputs are unavailable.",
+        }
+    )
+    batch_fundamentals = FUNDAMENTALS_SNAPSHOT.get(f"{normalized_exchange}:{clean_sym}")
     if batch_fundamentals:
         for field in (
             "company_name", "shares_outstanding_cr", "pe_ratio",
@@ -682,13 +735,21 @@ def get_company_research(symbol: str, db: Session = Depends(get_db)):
             dossier[field] = batch_fundamentals.get(field)
         dossier["fundamentals_source"] = batch_fundamentals.get("source")
         dossier["fundamentals_retrieved_at"] = batch_fundamentals.get("retrieved_at")
-    if sec and sec.company_name:
+    if sec and sec.company_name and (normalized_exchange == "NSE" or same_nse_security):
         dossier["company_name"] = sec.company_name
-    if sec and sec.sector:
+    if sec and sec.sector and (normalized_exchange == "NSE" or same_nse_security):
         dossier["sector"] = sec.sector
 
-    # 4. Industry Dynamics
-    ind_profile = IndustryKnowledgeEngine.get_industry_profile(dossier.get("sector", sector))
+    # 4. Industry dynamics require a dated cited source. Curated prose is not
+    # returned as company evidence by the production research endpoint.
+    ind_profile = {
+        "demand_drivers": None,
+        "supply_dynamics": None,
+        "regulatory_framework": None,
+        "key_risks": None,
+        "data_status": "UNAVAILABLE",
+        "reason": "No dated, cited industry source has been ingested.",
+    }
 
     # 5. Valuation requires explicit user assumptions; the research endpoint
     # never silently chooses growth, discount rates, or target multiples.
@@ -726,16 +787,16 @@ def get_company_research(symbol: str, db: Session = Depends(get_db)):
 
     return {
         "symbol": clean_sym,
-        "exchange": "NSE",
+        "exchange": normalized_exchange,
         "company_name": company_name,
         "isin": isin,
-        "sector": dossier.get("sector", sector),
-        "industry": dossier.get("industry", "General"),
+        "sector": dossier.get("sector") or sector,
+        "industry": dossier.get("industry"),
         "is_financial": is_fin,
         "quote": quote,
         "market_cap_cr": dynamic_market_cap_cr,
         "market_cap_basis": (
-            "Latest dated NSE close × reported shares outstanding"
+            f"Latest dated {normalized_exchange} close × reported shares outstanding"
             if dynamic_market_cap_cr is not None else None
         ),
         "shares_outstanding_cr": shares_outstanding_cr,
@@ -746,6 +807,10 @@ def get_company_research(symbol: str, db: Session = Depends(get_db)):
         "fifty_two_week_high": dossier.get("fifty_two_week_high"),
         "fifty_two_week_low": dossier.get("fifty_two_week_low"),
         "business_summary": dossier.get("business_summary"),
+        "business_summary_reason": dossier.get("business_summary_reason") or (
+            "A sourced company overview is unavailable."
+            if not dossier.get("business_summary") else None
+        ),
         "financial_statements": dossier.get("financial_statements", []),
         "has_statements": dossier.get("has_statements", len(dossier.get("financial_statements", [])) > 0),
         "industry_profile": ind_profile,
@@ -784,14 +849,12 @@ def get_company_peers(symbol: str, db: Session = Depends(get_db)):
     if not cluster:
         # Fallback to search index peers in same sector
         cluster = [clean_sym]
-        for s in SEARCH_INDEX:
-            if s["ticker"] != clean_sym and s.get("sector") == sec_sector:
-                cluster.append(s["ticker"])
-                if len(cluster) >= 5:
-                    break
-        if len(cluster) < 5:
-            cluster += ["TCS", "RELIANCE", "HDFCBANK"]
-            cluster = list(dict.fromkeys(cluster))[:5]
+        if sec_sector and sec_sector != "Diversified":
+            for s in SEARCH_INDEX:
+                if s["ticker"] != clean_sym and s.get("sector") == sec_sector:
+                    cluster.append(s["ticker"])
+                    if len(cluster) >= 5:
+                        break
 
     peer_cards = []
     pe_list = []
@@ -808,6 +871,14 @@ def get_company_peers(symbol: str, db: Session = Depends(get_db)):
         if not q:
             q = TejHQAdapter.get_latest_quote(peer_sym)
         d = FinancialsAdapter.get_company_dossier(peer_sym)
+        batch = FUNDAMENTALS_SNAPSHOT.get(f"NSE:{peer_sym}")
+        if batch:
+            for field in (
+                "company_name", "shares_outstanding_cr", "pe_ratio",
+                "pb_ratio", "pb_ratio_reason", "dividend_yield_pct",
+            ):
+                if batch.get(field) is not None or field == "pb_ratio_reason":
+                    d[field] = batch.get(field)
         c_price = q.get("close") if q else None
         pe = d.get("pe_ratio")
         pb = d.get("pb_ratio")
@@ -838,19 +909,22 @@ def get_company_peers(symbol: str, db: Session = Depends(get_db)):
 
     # Target comparison
     target_d = FinancialsAdapter.get_company_dossier(clean_sym)
+    target_batch = FUNDAMENTALS_SNAPSHOT.get(f"NSE:{clean_sym}")
+    if target_batch:
+        target_d["pe_ratio"] = target_batch.get("pe_ratio")
     target_pe = target_d.get("pe_ratio")
     
     interpretation = ""
     if target_pe and median_pe:
         diff_pct = ((target_pe - median_pe) / median_pe) * 100.0
         if diff_pct > 10.0:
-            interpretation = f"Trading at a {diff_pct:.1f}% valuation premium relative to the peer median P/E of {median_pe}x. Whether this premium is justified depends on superior return on equity, market share gains, and sustainable cash generation."
+            interpretation = f"Trailing P/E is {diff_pct:.1f}% above the selected peer median of {median_pe}x. This arithmetic comparison does not establish that the premium is justified."
         elif diff_pct < -10.0:
-            interpretation = f"Trading at a {abs(diff_pct):.1f}% valuation discount relative to the peer median P/E of {median_pe}x. This discount offers a relative margin of safety, assuming revenue growth and profitability hold steady against peer competition."
+            interpretation = f"Trailing P/E is {abs(diff_pct):.1f}% below the selected peer median of {median_pe}x. This arithmetic comparison does not establish a margin of safety."
         else:
             interpretation = f"Valuation multiple of {target_pe}x trades broadly in line (within ±10%) with the sector peer median of {median_pe}x."
     else:
-        interpretation = "Sufficient comparable peer earnings multiples are currently unavailable. Intrinsic company valuation should be evaluated on balance-sheet asset quality and free cash generation."
+        interpretation = "Sufficient positive sourced trailing P/E values are unavailable. No valuation conclusion was generated."
 
     return {
         "target_symbol": clean_sym,
@@ -865,12 +939,13 @@ def get_company_peers(symbol: str, db: Session = Depends(get_db)):
 
 
 @app.get("/api/v1/reports/{symbol}/pdf")
-def export_research_pdf(symbol: str, db: Session = Depends(get_db)):
+def export_research_pdf(symbol: str, db: Session = Depends(get_db), exchange: str = "NSE"):
     """Generates and streams an institutional vector PDF research report in INR."""
-    data = get_company_research(symbol, db=db)
+    normalized_exchange = "BSE" if exchange.upper() == "BSE" else "NSE"
+    data = get_company_research(symbol, db=db, exchange=normalized_exchange)
     pdf_bytes = ResearchReportPDFGenerator.generate_pdf(data)
     
-    filename = f"{symbol.upper()}_NSE_Research_Report.pdf"
+    filename = f"{symbol.upper()}_{normalized_exchange}_Research_Report.pdf"
     return Response(
         content=pdf_bytes,
         media_type="application/pdf",

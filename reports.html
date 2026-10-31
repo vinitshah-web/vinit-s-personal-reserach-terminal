@@ -95,7 +95,7 @@
   </main>
 
   <script>
-    const STOCKS = [
+    let STOCKS = [
       { ticker: "RELIANCE", name: "Reliance Industries Ltd", isin: "INE002A01018", tier: "Large-Cap", sector: "Energy & Retail" },
       { ticker: "TCS", name: "Tata Consultancy Services Ltd", isin: "INE467B01029", tier: "Large-Cap", sector: "IT Services" },
       { ticker: "HDFCBANK", name: "HDFC Bank Limited", isin: "INE040A01034", tier: "Large-Cap", sector: "Banking" },
@@ -112,7 +112,7 @@
       { ticker: "PERSISTENT", name: "Persistent Systems Ltd", isin: "INE262H01021", tier: "Mid-Cap", sector: "IT Services" },
       { ticker: "POLYCAB", name: "Polycab India Limited", isin: "INE455K01017", tier: "Mid-Cap", sector: "Cables & Wires" },
       { ticker: "FEDERALBNK", name: "Federal Bank Limited", isin: "INE171A01029", tier: "Mid-Cap", sector: "Private Bank" }
-    ];
+    ].map(stock => ({...stock, exchange: 'NSE'}));
 
     const SYMBOL_ALIASES = {
       'ZOMATO': 'ETERNAL',
@@ -125,19 +125,20 @@
     let initialTicker = (urlParams.get('ticker') || 'RELIANCE').trim().toUpperCase();
     if (SYMBOL_ALIASES[initialTicker]) initialTicker = SYMBOL_ALIASES[initialTicker];
     let currentTicker = initialTicker;
+    let currentExchange = (urlParams.get('exchange') || 'NSE').toUpperCase() === 'BSE' ? 'BSE' : 'NSE';
 
     function renderStockList(items) {
       const container = document.getElementById('stocksList');
       container.innerHTML = "";
-      items.forEach(st => {
-        const isSelected = st.ticker === currentTicker;
+      items.slice(0, 200).forEach(st => {
+        const isSelected = st.ticker === currentTicker && st.exchange === currentExchange;
         const div = document.createElement('div');
         div.className = `p-2.5 rounded-lg cursor-pointer transition border ${isSelected ? 'bg-emerald-50 border-emerald-500' : 'bg-white border-slate-200 hover:border-slate-300'}`;
-        div.onclick = () => selectTicker(st.ticker);
+        div.onclick = () => selectTicker(st.ticker, st.exchange);
         div.innerHTML = `
           <div class="flex items-center justify-between">
             <span class="font-bold text-xs ${isSelected ? 'text-emerald-800' : 'text-slate-900'} font-mono">${st.ticker}</span>
-            <span class="text-[10px] px-1.5 py-0.5 rounded ${st.tier === 'Large-Cap' ? 'badge-slate' : 'bg-amber-50 text-amber-800 border border-amber-200'}">${st.tier}</span>
+            <span class="text-[10px] px-1.5 py-0.5 rounded badge-slate">${st.exchange}</span>
           </div>
           <div class="text-[11px] text-slate-500 truncate mt-0.5">${st.name}</div>
           <div class="text-[10px] text-slate-400 font-mono mt-0.5">${st.isin} • ${st.sector}</div>
@@ -148,19 +149,20 @@
 
     function filterStocks() {
       const q = document.getElementById('searchInput').value.toLowerCase().trim();
-      const filtered = STOCKS.filter(s => s.ticker.toLowerCase().includes(q) || s.name.toLowerCase().includes(q) || s.isin.toLowerCase().includes(q));
+      const filtered = STOCKS.filter(s => s.ticker.toLowerCase().includes(q) || s.name.toLowerCase().includes(q) || String(s.isin || '').toLowerCase().includes(q));
       renderStockList(filtered);
     }
 
-    async function selectTicker(ticker) {
+    async function selectTicker(ticker, exchange = 'NSE') {
       currentTicker = SYMBOL_ALIASES[ticker] || ticker;
+      currentExchange = exchange === 'BSE' ? 'BSE' : 'NSE';
       renderStockList(STOCKS);
-      const st = STOCKS.find(s => s.ticker === currentTicker);
+      const st = STOCKS.find(s => s.ticker === currentTicker && s.exchange === currentExchange);
       if (st) {
-        document.getElementById('activeTickerBadge').innerText = st.ticker;
-        document.getElementById('activeIsinBadge').innerText = `${st.isin} • ${st.name}`;
+        document.getElementById('activeTickerBadge').innerText = `${st.exchange}:${st.ticker}`;
+        document.getElementById('activeIsinBadge').innerText = `${st.isin || 'ISIN unavailable'} • ${st.name}`;
       } else {
-        document.getElementById('activeTickerBadge').innerText = currentTicker;
+        document.getElementById('activeTickerBadge').innerText = `${currentExchange}:${currentTicker}`;
         document.getElementById('activeIsinBadge').innerText = currentTicker;
       }
 
@@ -169,6 +171,7 @@
 
       // 1. Try local API
       try {
+        if (currentExchange !== 'NSE') throw new Error('Static exchange report');
         const res = await fetch(`/api/v1/reports/${encodeURIComponent(currentTicker)}`);
         if (res.ok) {
           const data = await res.json();
@@ -178,10 +181,10 @@
       } catch (e) {}
 
       // 2. Static hosting fallback (e.g. GitHub Pages)
-      const relPaths = [
+      const relPaths = currentExchange === 'NSE' ? [
         `reports/${encodeURIComponent(currentTicker)}_TEARSHEET.md`,
         `../../reports/${encodeURIComponent(currentTicker)}_TEARSHEET.md`
-      ];
+      ] : [];
       for (const relPath of relPaths) {
         try {
           const staticRes = await fetch(relPath);
@@ -193,32 +196,50 @@
         } catch (err) {}
       }
 
-      // 3. Honest Error Display if no genuine report could be found or generated
-      contentEl.innerHTML = `
-        <div class="p-8 text-center space-y-4 max-w-lg mx-auto">
-          <div class="w-12 h-12 rounded-full bg-rose-50 text-rose-600 flex items-center justify-center mx-auto text-xl font-bold">!</div>
-          <div class="space-y-1">
-            <h3 class="text-base font-bold text-slate-900">Research Tear-Sheet Unavailable for ${st ? st.name : currentTicker}</h3>
-            <p class="text-xs text-slate-500 leading-relaxed">
-              No verified research report currently generated for symbol <b>${currentTicker}</b>.
-              Zero-budget research policy strictly prevents fabricating synthetic narratives.
-            </p>
-          </div>
-          <div class="flex items-center justify-center space-x-3 pt-2">
-            <button onclick="selectTicker('${currentTicker}')" class="px-3.5 py-1.5 bg-emerald-600 hover:bg-emerald-700 text-white rounded-lg text-xs font-semibold shadow-sm transition">
-              Retry Retrieval
-            </button>
-            <a href="research.html?ticker=${encodeURIComponent(currentTicker)}" class="px-3.5 py-1.5 border border-slate-300 hover:bg-slate-50 text-slate-700 rounded-lg text-xs font-medium transition">
-              View Live Metrics →
-            </a>
-          </div>
-        </div>
-      `;
+      await renderSnapshotReport(contentEl, st);
+    }
+
+    async function renderSnapshotReport(contentEl, security) {
+      try {
+        const [quotesRes, fundamentalsRes, statusRes] = await Promise.all([
+          fetch('data/latest_quotes.json', {cache: 'no-store'}),
+          fetch('data/fundamentals_snapshot.json', {cache: 'no-store'}),
+          fetch('data/market_data_status.json', {cache: 'no-store'})
+        ]);
+        if (![quotesRes, fundamentalsRes, statusRes].every(res => res.ok)) throw new Error('snapshot missing');
+        const [quotes, fundamentalsPayload, status] = await Promise.all([quotesRes.json(), fundamentalsRes.json(), statusRes.json()]);
+        const quote = quotes[currentExchange === 'BSE' ? `BSE:${currentTicker}` : currentTicker];
+        const fact = (fundamentalsPayload.data || {})[`${currentExchange}:${currentTicker}`];
+        const name = (security && security.name) || (fact && fact.company_name) || currentTicker;
+        const unavailable = '<span class="text-slate-400">Unavailable from current sourced data</span>';
+        contentEl.innerHTML = `
+          <h1>${name} (${currentExchange}:${currentTicker})</h1>
+          <p><b>Data policy:</b> This report contains sourced fields only. Missing facts remain unavailable.</p>
+          <h2>Market snapshot</h2>
+          <table><tbody>
+            <tr><th>Verified close</th><td>${quote ? `₹${Number(quote.close).toLocaleString('en-IN', {minimumFractionDigits:2})}` : unavailable}</td></tr>
+            <tr><th>Trading date</th><td>${quote ? quote.trade_date : unavailable}</td></tr>
+            <tr><th>Price source</th><td>${quote ? quote.source : unavailable}</td></tr>
+            <tr><th>Trailing P/E</th><td>${fact && fact.pe_ratio ? `${fact.pe_ratio}x` : unavailable}</td></tr>
+            <tr><th>P/B</th><td>${fact && fact.pb_ratio ? `${fact.pb_ratio}x` : unavailable}</td></tr>
+            <tr><th>P/B reason</th><td>${fact ? fact.pb_ratio_reason || unavailable : unavailable}</td></tr>
+            <tr><th>Shares outstanding</th><td>${fact && fact.shares_outstanding_cr ? `${fact.shares_outstanding_cr} crore` : unavailable}</td></tr>
+            <tr><th>52-week range</th><td>${fact && fact.fifty_two_week_low && fact.fifty_two_week_high ? `₹${fact.fifty_two_week_low} – ₹${fact.fifty_two_week_high}` : unavailable}</td></tr>
+          </tbody></table>
+          <h2>Company overview</h2>
+          <p>${fact && fact.business_summary ? fact.business_summary : (fact && fact.business_summary_reason) || 'A verified company overview is unavailable.'}</p>
+          <h2>Sources and limits</h2>
+          <p>Price: ${quote ? quote.source : 'unavailable'}. Fundamentals: ${fact ? `${fact.source} (${fact.source_class}), retrieved ${fact.retrieved_at}` : 'unavailable'}. Financial statements and P/B require dated filing data and are not inferred.</p>
+          <p><a href="research.html?ticker=${encodeURIComponent(currentTicker)}&exchange=${currentExchange}">Open the full research view →</a></p>`;
+      } catch (error) {
+        contentEl.innerHTML = '<div class="p-8 text-center text-slate-500">Verified snapshot files could not be loaded. No report was generated.</div>';
+      }
     }
 
     async function downloadActivePDF() {
       // 1. Try local FastAPI PDF endpoint
       try {
+        if (currentExchange !== 'NSE') throw new Error('Static print-to-PDF');
         const testRes = await fetch(`/api/v1/reports/${encodeURIComponent(currentTicker)}/pdf`, { method: 'HEAD' });
         if (testRes.ok) {
           window.location.href = `/api/v1/reports/${encodeURIComponent(currentTicker)}/pdf`;
@@ -230,9 +251,19 @@
       window.print();
     }
 
-    window.addEventListener('DOMContentLoaded', () => {
+    window.addEventListener('DOMContentLoaded', async () => {
+      try {
+        const response = await fetch('data/securities_search_index.json', {cache: 'no-store'});
+        if (response.ok) {
+          const index = await response.json();
+          STOCKS = index.map(item => ({
+            ticker: item.ticker, name: item.name || item.ticker, isin: item.isin,
+            tier: 'Listed', sector: item.sector || 'Unavailable', exchange: item.exchange || 'NSE'
+          }));
+        }
+      } catch (error) {}
       renderStockList(STOCKS);
-      selectTicker(currentTicker);
+      selectTicker(currentTicker, currentExchange);
     });
   </script>
 </body>

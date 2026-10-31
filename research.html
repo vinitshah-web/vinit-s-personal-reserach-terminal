@@ -267,15 +267,15 @@
           <div class="space-y-3 text-xs text-slate-600">
             <div>
               <div class="font-semibold text-slate-800">Primary Key Risks:</div>
-              <p id="riskText" class="mt-0.5 text-slate-600">Commodity price fluctuations, macroeconomic interest rate shifts, and competitive intensity.</p>
+              <p id="riskText" class="mt-0.5 text-slate-600">Company-specific sourced risk disclosures are unavailable.</p>
             </div>
             <div>
               <div class="font-semibold text-slate-800">Thesis Invalidation Trigger:</div>
-              <p class="mt-0.5 text-slate-600">Operating margins contracting by > 250 bps for 2 consecutive quarters, or RoCE falling below the 10Y GOI hurdle rate (6.82%).</p>
+              <p class="mt-0.5 text-slate-600">No thesis trigger is generated without user-defined assumptions and dated financial statements.</p>
             </div>
             <div>
               <div class="font-semibold text-slate-800">Governance & Pledging:</div>
-              <p class="mt-0.5 text-slate-600">Zero promoter pledge reported in statutory filings; auditor observations verified un-qualified.</p>
+              <p class="mt-0.5 text-slate-600">Promoter pledging and auditor observations are unavailable until dated exchange filings are ingested.</p>
             </div>
           </div>
         </div>
@@ -283,7 +283,7 @@
 
       <!-- Data Transparency & Honest Missing Data Notice -->
       <div class="p-4 rounded-lg bg-slate-50 border border-slate-200 text-xs text-slate-500">
-        <b>Honest Data Transparency:</b> All closing quotes and corporate adjustments are sourced from official exchange bhavcopies. If any quarterly filing or peer multiple is unavailable, it is disclosed cleanly rather than populated with synthetic estimates.
+        <b>Honest Data Transparency:</b> Closing prices come from the dated provider named beside each quote. Fundamentals show their separate source and retrieval time. Missing filings and metrics remain unavailable.
       </div>
     </div>
   </main>
@@ -326,7 +326,7 @@
 
       // 1. Try local FastAPI endpoint first if available on same host
       try {
-        const res = await fetch(`/api/v1/research/${encodeURIComponent(activeTicker)}`);
+        const res = await fetch(`/api/v1/research/${encodeURIComponent(activeTicker)}?exchange=${encodeURIComponent(activeExchange)}`);
         if (res.ok) {
           currentDossier = await res.json();
           renderDossier(currentDossier);
@@ -497,7 +497,7 @@
       loading.innerHTML = `
         <div class="text-rose-600 font-bold text-sm mb-1">Company Data Not Found</div>
         <div class="text-xs text-slate-600 max-w-md mx-auto">
-          Symbol <b>${activeTicker}</b> could not be resolved from NSE security master or bhavcopy.
+          Symbol <b>${activeTicker}</b> could not be resolved from the ${activeExchange} search or price snapshot.
           In accordance with zero-budget policy, we do not fabricate synthetic records.
         </div>
         <div class="mt-4">
@@ -541,7 +541,7 @@
       document.getElementById('fundamentalsSourceText').innerText = d.fundamentals_source
         ? `Fundamentals: ${d.fundamentals_source} • retrieved ${d.fundamentals_retrieved_at || 'date unavailable'}`
         : 'Fundamentals source unavailable; missing fields are not estimated.';
-      document.getElementById('compareLink').href = `compare.html?target=${encodeURIComponent(d.symbol)}`;
+      document.getElementById('compareLink').href = `compare.html?target=${encodeURIComponent(d.symbol)}&exchange=${encodeURIComponent(d.exchange || activeExchange)}`;
 
       // Financials Table
       const stmts = d.financial_statements || [];
@@ -553,7 +553,7 @@
         tbody.innerHTML = `
           <tr>
             <td class="p-6 text-center text-slate-500 font-sans text-xs">
-              Official audited financial statements have not yet been ingested for <b>${d.symbol}</b>.
+              Dated financial statements have not yet been ingested for <b>${d.symbol}</b>.
               Exchange master and price quote are verified above.
             </td>
           </tr>
@@ -617,19 +617,20 @@
 
     function checkWatchlistStatus() {
       const list = JSON.parse(localStorage.getItem('user_watchlist') || '[]');
-      const inList = list.some(x => x.symbol === activeTicker);
+      const inList = list.some(x => x.symbol === activeTicker && String(x.exchange || 'NSE').toUpperCase() === activeExchange);
       const btnText = document.getElementById('watchlistBtnText');
       if (btnText) btnText.innerText = inList ? 'Saved in Watchlist' : 'Add to Watchlist';
     }
 
     function toggleWatchlist() {
       let list = JSON.parse(localStorage.getItem('user_watchlist') || '[]');
-      const idx = list.findIndex(x => x.symbol === activeTicker);
+      const idx = list.findIndex(x => x.symbol === activeTicker && String(x.exchange || 'NSE').toUpperCase() === activeExchange);
       if (idx >= 0) {
         list.splice(idx, 1);
       } else {
         list.push({
           symbol: activeTicker,
+          exchange: activeExchange,
           name: currentDossier ? currentDossier.company_name : activeTicker,
           sector: currentDossier ? currentDossier.sector : 'Equities',
           added_at: new Date().toISOString()
@@ -642,9 +643,9 @@
     async function downloadPDF() {
       // 1. In local FastAPI mode, try downloading vector PDF
       try {
-        const testRes = await fetch(`/api/v1/research/${encodeURIComponent(activeTicker)}`, { method: 'HEAD' });
+        const testRes = await fetch(`/api/v1/research/${encodeURIComponent(activeTicker)}?exchange=${encodeURIComponent(activeExchange)}`, { method: 'HEAD' });
         if (testRes.ok) {
-          window.location.href = `/api/v1/reports/${encodeURIComponent(activeTicker)}/pdf`;
+          window.location.href = `/api/v1/reports/${encodeURIComponent(activeTicker)}/pdf?exchange=${encodeURIComponent(activeExchange)}`;
           return;
         }
       } catch (e) {}

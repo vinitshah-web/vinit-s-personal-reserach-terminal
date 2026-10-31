@@ -103,3 +103,43 @@ def merge_fundamental_rows(
             merged[str(key)] = dict(row)
     return merged
 
+
+def derive_cross_listed_rows(
+    rows: Mapping[str, Mapping[str, Any]],
+    instruments: Iterable[Mapping[str, Any]],
+) -> Dict[str, Dict[str, Any]]:
+    """Copy company facts across exchange listings only when the ISIN matches.
+
+    Shares, earnings and company descriptions belong to the security issuer, so
+    an exact ISIN match is a stronger identity key than an exchange ticker. The
+    exchange-specific closing price is deliberately not part of this snapshot.
+    """
+    by_isin: Dict[str, Mapping[str, Any]] = {}
+    for row in rows.values():
+        isin = str(row.get("isin") or "").strip().upper()
+        if isin and row.get("data_status") == "AVAILABLE":
+            by_isin.setdefault(isin, row)
+
+    derived: Dict[str, Dict[str, Any]] = {}
+    for instrument in instruments:
+        exchange = str(instrument.get("exchange") or "NSE").upper()
+        ticker = str(instrument.get("ticker") or "").upper()
+        isin = str(instrument.get("isin") or "").strip().upper()
+        key = f"{exchange}:{ticker}"
+        source = by_isin.get(isin)
+        if not ticker or key in rows or not source:
+            continue
+        copied = dict(source)
+        copied.update({
+            "key": key,
+            "exchange": exchange,
+            "ticker": ticker,
+            "provider_symbol": source.get("provider_symbol"),
+            "company_name": instrument.get("name") or source.get("company_name"),
+            "sector": instrument.get("sector") or source.get("sector"),
+            "industry": instrument.get("industry") or source.get("industry"),
+            "identity_basis": f"Exact ISIN match to {source.get('key')}",
+        })
+        derived[key] = copied
+    return derived
+
