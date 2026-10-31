@@ -25,6 +25,7 @@ from src.reports.pdf_generator import ResearchReportPDFGenerator
 import pandas as pd
 
 SEARCH_INDEX: List[Dict[str, Any]] = []
+FUNDAMENTALS_SNAPSHOT: Dict[str, Dict[str, Any]] = {}
 _index_file = Path("data/securities_search_index.json")
 if _index_file.exists():
     try:
@@ -32,6 +33,15 @@ if _index_file.exists():
             SEARCH_INDEX = json.load(f)
     except Exception:
         SEARCH_INDEX = []
+
+_fundamentals_file = Path("data/fundamentals_snapshot.json")
+if _fundamentals_file.exists():
+    try:
+        FUNDAMENTALS_SNAPSHOT = json.loads(
+            _fundamentals_file.read_text(encoding="utf-8")
+        ).get("data", {})
+    except (OSError, json.JSONDecodeError, AttributeError):
+        FUNDAMENTALS_SNAPSHOT = {}
 
 app = FastAPI(
     title="Vinit's Self-Made Research Terminal API",
@@ -662,6 +672,16 @@ def get_company_research(symbol: str, db: Session = Depends(get_db)):
 
     # 3. Financial Statements & Profile
     dossier = FinancialsAdapter.get_company_dossier(clean_sym)
+    batch_fundamentals = FUNDAMENTALS_SNAPSHOT.get(f"NSE:{clean_sym}")
+    if batch_fundamentals:
+        for field in (
+            "company_name", "shares_outstanding_cr", "pe_ratio",
+            "pe_ratio_basis", "pb_ratio", "pb_ratio_reason",
+            "fifty_two_week_high", "fifty_two_week_low",
+        ):
+            dossier[field] = batch_fundamentals.get(field)
+        dossier["fundamentals_source"] = batch_fundamentals.get("source")
+        dossier["fundamentals_retrieved_at"] = batch_fundamentals.get("retrieved_at")
     if sec and sec.company_name:
         dossier["company_name"] = sec.company_name
     if sec and sec.sector:
@@ -670,111 +690,33 @@ def get_company_research(symbol: str, db: Session = Depends(get_db)):
     # 4. Industry Dynamics
     ind_profile = IndustryKnowledgeEngine.get_industry_profile(dossier.get("sector", sector))
 
-    # 5. Valuation Calculation (STRICTLY EVIDENCE-BASED, NO FABRICATION)
+    # 5. Valuation requires explicit user assumptions; the research endpoint
+    # never silently chooses growth, discount rates, or target multiples.
     price = quote.get("close")
-    val_engine = ValuationEngine()
-    valuation_scenarios = {}
-
-    if price is None or price <= 0.0:
-        valuation_scenarios = {
-            "status": "NOT_CALCULATED",
-            "can_calculate": False,
-            "reason": "Valid market closing price is required for intrinsic valuation."
-        }
-    else:
-        if not is_fin:
-            # Non-financial: check audited FCFF and shares
-            stmts = dossier.get("financial_statements", [])
-            fcff_base = None
-            for st in stmts:
-                if st.get("fcff_cr") is not None:
-                    fcff_base = st["fcff_cr"]
-                    break
-
-            shares_cr = dossier.get("shares_outstanding_cr")
-
-            if fcff_base is None or fcff_base <= 0.0 or shares_cr is None or shares_cr <= 0.0:
-                reason_msg = (
-                    f"Negative Free Cash Flow to Firm (FCFF = -₹{abs(fcff_base):,.1f} Cr in latest filings). Standard discrete positive-FCFF DCF cannot be applied without speculative turnaround forecasts."
-                    if (fcff_base is not None and fcff_base <= 0.0)
-                    else "Missing audited base FCFF or shares outstanding. Target prices are not manufactured when inputs are absent."
-                )
-                valuation_scenarios = {
-                    "model_type": "FCFF_DISCOUNTED_CASH_FLOW",
-                    "status": "NOT_CALCULATED",
-                    "can_calculate": False,
-                    "reason": reason_msg,
-                    "reported_fcff_cr": fcff_base,
-                    "shares_outstanding_cr": shares_cr,
-                    "bear_fair_value": None,
-                    "base_fair_value": None,
-                    "bull_fair_value": None,
-                    "implied_growth_pct": None
-                }
-            else:
-                try:
-                    base_dcf = val_engine.calculate_fcff_dcf(fcff_0=fcff_base, growth_rates_5yr=[0.10]*5, wacc=0.12, terminal_growth=0.04)
-                    bear_dcf = val_engine.calculate_fcff_dcf(fcff_0=fcff_base*0.85, growth_rates_5yr=[0.05]*5, wacc=0.135, terminal_growth=0.035)
-                    bull_dcf = val_engine.calculate_fcff_dcf(fcff_0=fcff_base*1.15, growth_rates_5yr=[0.16]*5, wacc=0.11, terminal_growth=0.045)
-
-                    bear_fv = round(bear_dcf["enterprise_value"] / shares_cr, 2)
-                    base_fv = round(base_dcf["enterprise_value"] / shares_cr, 2)
-                    bull_fv = round(bull_dcf["enterprise_value"] / shares_cr, 2)
-
-                    implied_g = val_engine.solve_reverse_dcf(
-                        target_enterprise_value=price * shares_cr,
-                        fcff_0=fcff_base,
-                        wacc=0.12,
-                        terminal_growth=0.04
-                    )
-
-                    valuation_scenarios = {
-                        "model_type": "FCFF_DISCOUNTED_CASH_FLOW",
-                        "status": "CALCULATED",
-                        "can_calculate": True,
-                        "currency": "INR",
-                        "base_fcff_cr": fcff_base,
-                        "shares_outstanding_cr": shares_cr,
-                        "bear_fair_value": bear_fv,
-                        "base_fair_value": base_fv,
-                        "bull_fair_value": bull_fv,
-                        "implied_growth_pct": round(implied_g * 100.0, 1),
-                        "bear_upside_pct": round(((bear_fv - price) / price) * 100.0, 1),
-                        "base_upside_pct": round(((base_fv - price) / price) * 100.0, 1),
-                        "bull_upside_pct": round(((bull_fv - price) / price) * 100.0, 1)
-                    }
-                except Exception as e:
-                    valuation_scenarios = {
-                        "model_type": "FCFF_DISCOUNTED_CASH_FLOW",
-                        "status": "NOT_CALCULATED",
-                        "can_calculate": False,
-                        "reason": f"Valuation solver error: {str(e)}"
-                    }
-        else:
-            # Banking DDM Scenarios
-            pb = dossier.get("pb_ratio")
-            bv = dossier.get("book_value")
-            if not bv or not pb or bv <= 0.0:
-                valuation_scenarios = {
-                    "model_type": "BANKING_EQUITY_DDM",
-                    "status": "NOT_CALCULATED",
-                    "can_calculate": False,
-                    "reason": "Missing reported book value per share or price-to-book ratio."
-                }
-            else:
-                valuation_scenarios = {
-                    "model_type": "BANKING_EQUITY_DDM",
-                    "status": "CALCULATED",
-                    "can_calculate": True,
-                    "currency": "INR",
-                    "book_value_per_share": bv,
-                    "price_to_book": pb,
-                    "bear_fair_value": round(bv * max(pb * 0.8, 0.8), 2),
-                    "base_fair_value": round(bv * pb * 1.1, 2),
-                    "bull_fair_value": round(bv * pb * 1.35, 2),
-                    "implied_growth_pct": 10.5,
-                    "note": "Banking institutions evaluated via Price-to-Book & Statutory Capital Retention"
-                }
+    reported_fcff = next(
+        (
+            statement.get("fcff_cr")
+            for statement in dossier.get("financial_statements", [])
+            if statement.get("fcff_cr") is not None
+        ),
+        None,
+    )
+    valuation_reason = (
+        f"Negative Free Cash Flow to Firm (FCFF = ₹{reported_fcff:,.2f} Cr); "
+        "a turnaround valuation requires explicit user assumptions."
+        if not is_fin and reported_fcff is not None and reported_fcff <= 0
+        else (
+            "Use the valuation endpoint with explicit reported base values and user-supplied assumptions. "
+            "The research endpoint does not choose growth, discount rates, or target multiples."
+        )
+    )
+    valuation_scenarios = {
+        "model_type": "BANKING_EQUITY_DDM" if is_fin else "FCFF_DISCOUNTED_CASH_FLOW",
+        "status": "NOT_CALCULATED",
+        "can_calculate": False,
+        "reason": valuation_reason,
+        "reported_fcff_cr": reported_fcff,
+    }
 
     shares_outstanding_cr = dossier.get("shares_outstanding_cr")
     dynamic_market_cap_cr = (
@@ -784,6 +726,7 @@ def get_company_research(symbol: str, db: Session = Depends(get_db)):
 
     return {
         "symbol": clean_sym,
+        "exchange": "NSE",
         "company_name": company_name,
         "isin": isin,
         "sector": dossier.get("sector", sector),
@@ -797,6 +740,7 @@ def get_company_research(symbol: str, db: Session = Depends(get_db)):
         ),
         "shares_outstanding_cr": shares_outstanding_cr,
         "pe_ratio": dossier.get("pe_ratio"),
+        "pe_ratio_basis": dossier.get("pe_ratio_basis"),
         "pb_ratio": dossier.get("pb_ratio"),
         "pb_ratio_reason": dossier.get("pb_ratio_reason"),
         "fifty_two_week_high": dossier.get("fifty_two_week_high"),
@@ -807,7 +751,8 @@ def get_company_research(symbol: str, db: Session = Depends(get_db)):
         "industry_profile": ind_profile,
         "valuation": valuation_scenarios,
         "source": dossier.get("source"),
-        "fundamentals_retrieved_at": dossier.get("retrieval_time"),
+        "fundamentals_source": dossier.get("fundamentals_source") or dossier.get("source"),
+        "fundamentals_retrieved_at": dossier.get("fundamentals_retrieved_at") or dossier.get("retrieval_time"),
         "as_of": datetime.now().isoformat()
     }
 

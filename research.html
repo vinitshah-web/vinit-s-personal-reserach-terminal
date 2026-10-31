@@ -108,19 +108,19 @@
           <div>
             <div class="text-slate-500 font-medium">Market Capitalization</div>
             <div id="metricMcap" class="text-base font-bold text-slate-900 font-mono mt-0.5">₹16,10,364 Cr</div>
-            <div class="text-[11px] text-slate-500 mt-0.5">Reported INR Crores</div>
+            <div id="metricMcapBasis" class="text-[11px] text-slate-500 mt-0.5">Dated price × reported shares</div>
           </div>
 
           <div>
             <div class="text-slate-500 font-medium">Trailing P/E Ratio</div>
             <div id="metricPE" class="text-base font-bold text-slate-900 font-mono mt-0.5">21.5x</div>
-            <div class="text-[11px] text-slate-500 mt-0.5">Earnings Multiple</div>
+            <div id="metricPESource" class="text-[11px] text-slate-500 mt-0.5">Source unavailable</div>
           </div>
 
           <div>
             <div class="text-slate-500 font-medium">Price to Book (P/B)</div>
             <div id="metricPB" class="text-base font-bold text-slate-900 font-mono mt-0.5">1.95x</div>
-            <div class="text-[11px] text-slate-500 mt-0.5">Book Value Multiple</div>
+            <div id="metricPBReason" class="text-[11px] text-slate-500 mt-0.5">Requires dated equity</div>
           </div>
 
           <div>
@@ -148,6 +148,7 @@
         <p id="businessSummaryText" class="text-xs text-slate-600 leading-relaxed">
           Retrieving official business description and product segment breakdown...
         </p>
+        <p id="fundamentalsSourceText" class="text-[11px] text-slate-500"></p>
       </div>
 
       <!-- Section 2: Financial Statements -->
@@ -314,6 +315,7 @@
     const urlParams = new URLSearchParams(window.location.search);
     let rawTicker = (urlParams.get('ticker') || 'RELIANCE').trim().toUpperCase();
     const activeTicker = SYMBOL_ALIASES[rawTicker] || rawTicker;
+    const activeExchange = (urlParams.get('exchange') || 'NSE').trim().toUpperCase() === 'BSE' ? 'BSE' : 'NSE';
     let currentDossier = null;
 
     async function loadResearch() {
@@ -345,13 +347,17 @@
           const idxRes = await fetch('data/securities_search_index.json');
           if (idxRes.ok) {
             const index = await idxRes.json();
-            const found = index.find(x => x.ticker === activeTicker || x.symbol === activeTicker);
+            const found = index.find(x =>
+              (x.ticker === activeTicker || x.symbol === activeTicker)
+              && (x.exchange || 'NSE') === activeExchange
+            );
             if (found) {
               meta = {
                 symbol: found.ticker,
                 name: found.name,
                 isin: found.isin,
-                sector: found.sector
+                sector: found.sector,
+                exchange: found.exchange || 'NSE'
               };
             }
           }
@@ -367,8 +373,10 @@
           if (quotesRes.ok && statusRes.ok) {
             const quotes = await quotesRes.json();
             const status = await statusRes.json();
-            const saved = quotes[activeTicker];
-            if (saved && saved.trade_date === status.trading_date) {
+            const quoteKey = activeExchange === 'NSE' ? activeTicker : `${activeExchange}:${activeTicker}`;
+            const exchangeStatus = status.exchanges ? status.exchanges[activeExchange] : status;
+            const saved = quotes[quoteKey];
+            if (saved && exchangeStatus && saved.trade_date === exchangeStatus.trading_date) {
               quote = {
                 ...saved,
                 freshness: 'LATEST_VERIFIED_EOD'
@@ -381,7 +389,7 @@
           try {
             const [statusRes, tejRes] = await Promise.all([
               fetch('https://api.tejhq.dev/v1/status'),
-              fetch(`https://api.tejhq.dev/v1/ohlcv/NSE/${encodeURIComponent(activeTicker)}`)
+              fetch(`https://api.tejhq.dev/v1/ohlcv/${activeExchange}/${encodeURIComponent(activeTicker)}`)
             ]);
             if (statusRes.ok && tejRes.ok) {
               const status = await statusRes.json();
@@ -397,7 +405,7 @@
                   low: Number(latest.low),
                   volume: Number(latest.volume),
                   trade_date: latest.date,
-                  source: 'TejHQ / NSE EOD',
+                  source: `TejHQ / ${activeExchange} EOD`,
                   price_basis: 'RAW_UNADJUSTED',
                   freshness: 'LATEST_VERIFIED_EOD'
                 };
@@ -406,9 +414,20 @@
           } catch (tejErr) {}
         }
 
-        // Dossier Cache lookup
+        // Broad-coverage batch fundamentals with explicit source metadata.
+        let fundamental = null;
+        try {
+          const fundamentalsRes = await fetch('data/fundamentals_snapshot.json', { cache: 'no-store' });
+          if (fundamentalsRes.ok) {
+            const fundamentals = await fundamentalsRes.json();
+            fundamental = fundamentals.data ? fundamentals.data[`${activeExchange}:${activeTicker}`] : null;
+          }
+        } catch (fundamentalsErr) {}
+
+        // Detailed statements exist only where extraction previously succeeded.
         let dossier = null;
         try {
+          if (activeExchange !== 'NSE') throw new Error('No BSE detailed statement cache');
           const cacheRes = await fetch(`data/dossier_cache/${encodeURIComponent(activeTicker)}.json`);
           if (cacheRes.ok) {
             dossier = await cacheRes.json();
@@ -435,35 +454,35 @@
           }
         }
 
-        const shares = dossier ? dossier.shares_outstanding_cr : null;
+        const shares = fundamental ? fundamental.shares_outstanding_cr : (dossier ? dossier.shares_outstanding_cr : null);
         const currentMarketCap = quote && quote.close && shares
           ? Number((quote.close * shares).toFixed(2))
           : null;
 
         currentDossier = {
           symbol: activeTicker,
-          company_name: dossier ? dossier.company_name : meta.name,
+          company_name: fundamental ? fundamental.company_name : (dossier ? dossier.company_name : meta.name),
           isin: meta.isin,
+          exchange: activeExchange,
           sector: dossier ? dossier.sector : meta.sector,
-          industry: dossier ? dossier.industry : 'General',
+          industry: dossier ? dossier.industry : null,
           market_cap_cr: currentMarketCap,
-          market_cap_basis: currentMarketCap ? 'Latest dated NSE close × reported shares outstanding' : null,
-          pe_ratio: dossier ? dossier.pe_ratio : null,
-          pb_ratio: dossier ? dossier.pb_ratio : null,
-          pb_ratio_reason: dossier ? dossier.pb_ratio_reason : null,
-          fifty_two_week_high: dossier ? dossier.fifty_two_week_high : null,
-          fifty_two_week_low: dossier ? dossier.fifty_two_week_low : null,
+          market_cap_basis: currentMarketCap ? `Latest dated ${activeExchange} close × provider-reported shares` : null,
+          pe_ratio: fundamental ? fundamental.pe_ratio : null,
+          pe_ratio_basis: fundamental ? fundamental.pe_ratio_basis : null,
+          pb_ratio: fundamental ? fundamental.pb_ratio : null,
+          pb_ratio_reason: fundamental ? fundamental.pb_ratio_reason : 'Dated balance-sheet inputs are unavailable.',
+          fifty_two_week_high: fundamental ? fundamental.fifty_two_week_high : null,
+          fifty_two_week_low: fundamental ? fundamental.fifty_two_week_low : null,
           quote: quote,
           has_statements: hasStatements,
-          business_summary: dossier ? dossier.business_summary : `${meta.name} listed on the National Stock Exchange of India (NSE). Official financial statements pending ingestion.`,
+          business_summary: dossier ? dossier.business_summary : null,
+          business_summary_reason: dossier ? null : 'Company overview unavailable from the currently verified sources.',
+          fundamentals_source: fundamental ? fundamental.source : null,
+          fundamentals_retrieved_at: fundamental ? fundamental.retrieved_at : null,
           financial_statements: dossier ? dossier.financial_statements : [],
           valuation: valuation,
-          industry_profile: {
-            demand_drivers: 'Domestic consumption growth and industrial expansion across Indian states.',
-            supply_dynamics: 'Capacity expansions aligned with Make in India and PLI initiatives.',
-            regulatory_framework: 'SEBI LODR disclosures and statutory Indian tax code compliance.',
-            key_risks: 'Input material inflation and global interest rate volatility.'
-          }
+          industry_profile: { data_status: 'UNAVAILABLE' }
         };
 
         renderDossier(currentDossier);
@@ -492,6 +511,7 @@
       document.getElementById('stockTickerBadge').innerText = d.symbol;
       document.getElementById('stockSectorBadge').innerText = d.sector || 'Equities';
       document.getElementById('stockIsin').innerText = d.isin || 'N/A';
+      document.getElementById('stockExchange').innerText = `${d.exchange || 'NSE'} Equity`;
 
       if (d.quote && d.quote.close) {
         document.getElementById('metricPrice').innerText = `₹${parseFloat(d.quote.close).toLocaleString('en-IN', {minimumFractionDigits: 2, maximumFractionDigits: 2})}`;
@@ -508,13 +528,19 @@
       }
 
       document.getElementById('metricMcap').innerText = d.market_cap_cr ? `₹${d.market_cap_cr.toLocaleString('en-IN')} Cr` : 'N/A';
+      document.getElementById('metricMcapBasis').innerText = d.market_cap_basis || 'Shares outstanding unavailable';
       document.getElementById('metricPE').innerText = d.pe_ratio ? `${d.pe_ratio}x` : 'N/A';
+      document.getElementById('metricPESource').innerText = d.pe_ratio_basis || 'Trailing earnings unavailable';
       const pbElement = document.getElementById('metricPB');
       pbElement.innerText = d.pb_ratio ? `${d.pb_ratio}x` : 'N/A';
       pbElement.title = d.pb_ratio_reason || '';
+      document.getElementById('metricPBReason').innerText = d.pb_ratio_reason || 'Dated equity and price';
       document.getElementById('metric52W').innerText = d.fifty_two_week_high ? `₹${d.fifty_two_week_low} – ₹${d.fifty_two_week_high}` : 'N/A';
 
-      document.getElementById('businessSummaryText').innerText = d.business_summary || 'Business details filed with exchange disclosures.';
+      document.getElementById('businessSummaryText').innerText = d.business_summary || d.business_summary_reason || 'Business overview unavailable.';
+      document.getElementById('fundamentalsSourceText').innerText = d.fundamentals_source
+        ? `Fundamentals: ${d.fundamentals_source} • retrieved ${d.fundamentals_retrieved_at || 'date unavailable'}`
+        : 'Fundamentals source unavailable; missing fields are not estimated.';
       document.getElementById('compareLink').href = `compare.html?target=${encodeURIComponent(d.symbol)}`;
 
       // Financials Table

@@ -221,7 +221,7 @@ class FinancialsAdapter:
             "fifty_two_week_high": None,
             "fifty_two_week_low": None,
             "financial_statements": [],
-            "source": "Official Disclosures / Yahoo Finance",
+            "source": "Yahoo Finance (secondary aggregator)",
             "has_statements": False,
             "retrieval_time": datetime.now().isoformat()
         }
@@ -241,10 +241,25 @@ class FinancialsAdapter:
             dossier["shares_outstanding_cr"] = round(shares / 1e7, 4) if shares else None
             
             dossier["pe_ratio"] = round(info.get("trailingPE"), 2) if info.get("trailingPE") else None
-            dossier["pb_ratio"] = round(info.get("priceToBook"), 2) if info.get("priceToBook") else None
-            dossier["pb_ratio_reason"] = None if dossier["pb_ratio"] is not None else "P/B is unavailable from the source."
+            dossier["provider_reported_pb_ratio"] = (
+                round(info.get("priceToBook"), 2) if info.get("priceToBook") else None
+            )
+            dossier["pb_ratio"] = None
+            dossier["pb_ratio_reason"] = (
+                "P/B unavailable because the source does not provide both a price date "
+                "and a dated balance-sheet equity input."
+            )
             dossier["book_value"] = round(info.get("bookValue"), 2) if info.get("bookValue") else None
-            dossier["dividend_yield_pct"] = round(info.get("dividendYield", 0) * 100, 2) if info.get("dividendYield") else None
+            trailing_dividend_yield = info.get("trailingAnnualDividendYield")
+            provider_dividend_yield = info.get("dividendYield")
+            if trailing_dividend_yield is not None:
+                dossier["dividend_yield_pct"] = round(
+                    float(trailing_dividend_yield) * 100, 4
+                )
+            elif provider_dividend_yield is not None:
+                dossier["dividend_yield_pct"] = round(
+                    float(provider_dividend_yield), 4
+                )
             dossier["fifty_two_week_high"] = info.get("fiftyTwoWeekHigh")
             dossier["fifty_two_week_low"] = info.get("fiftyTwoWeekLow")
 
@@ -362,10 +377,11 @@ class IndustryKnowledgeEngine:
     def get_industry_profile(cls, sector: str) -> Dict[str, str]:
         for sec_key, profile in cls.SECTOR_KNOWLEDGE.items():
             if sec_key.lower() in sector.lower() or sector.lower() in sec_key.lower():
-                return profile
+                return {**profile, "data_status": "CURATED_SECTOR_TEMPLATE"}
         return {
-            "demand_drivers": "Driven by Indian GDP macro expansion (6.5-7.0% growth trajectory) and formalization.",
-            "supply_dynamics": "Domestic supply chains adjusting to digital procurement and logistics efficiency.",
-            "regulatory_framework": "Subject to relevant Indian statutory industrial licensing, GST compliance, and SEBI disclosures.",
-            "key_risks": "Macroeconomic interest rate fluctuations, input cost inflation, competitive disruption."
+            "demand_drivers": None,
+            "supply_dynamics": None,
+            "regulatory_framework": None,
+            "key_risks": None,
+            "data_status": "UNAVAILABLE"
         }
