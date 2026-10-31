@@ -1,12 +1,18 @@
 """Validation and atomicity checks for daily NSE EOD refreshes."""
 from datetime import date
+import json
 
 import pytest
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
 from src.db.models import Base, MarketDataSync, PriceRaw, Security
-from src.ingestion.daily_refresh import SnapshotValidationError, refresh_nse_snapshot
+from src.ingestion.daily_refresh import (
+    SnapshotValidationError,
+    export_additional_exchange_snapshot,
+    fetch_exchange_snapshot,
+    refresh_nse_snapshot,
+)
 
 
 REFRESH_DATE = date(2026, 10, 30)
@@ -143,3 +149,49 @@ def test_daily_refresh_rejects_stale_provider_status(refresh_session):
         )
 
     assert refresh_session.query(PriceRaw).count() == 0
+
+
+def test_bse_snapshot_accepts_empty_series_and_exports_composite_key(tmp_path):
+    class BseAdapter(SnapshotAdapter):
+        @classmethod
+        def get_exchange_snapshot(cls, exchange, trading_date):
+            assert exchange == "BSE"
+            return [{
+                "symbol": "500325",
+                "series": "",
+                "isin": "INE002A01018",
+                "name": "Reliance Industries Ltd",
+                "open": 1160.0,
+                "high": 1175.0,
+                "low": 1150.0,
+                "close": 1164.9,
+                "volume": 1000,
+            }]
+
+    result, rows = fetch_exchange_snapshot(
+        BseAdapter,
+        "BSE",
+        minimum_coverage=1,
+        current_date=REFRESH_DATE,
+    )
+    data_dir = tmp_path / "data"
+    data_dir.mkdir()
+    (data_dir / "latest_quotes.json").write_text("{}", encoding="utf-8")
+    (data_dir / "market_data_status.json").write_text(
+        json.dumps({"trading_date": "2026-10-28", "exchange": "NSE"}),
+        encoding="utf-8",
+    )
+    search_path = data_dir / "securities_search_index.json"
+    search_path.write_text(
+        json.dumps([{"ticker": "RELIANCE", "exchange": "NSE"}]),
+        encoding="utf-8",
+    )
+
+    export_additional_exchange_snapshot(result, rows, data_dir, search_path)
+
+    quotes = json.loads((data_dir / "latest_quotes.json").read_text())
+    search = json.loads(search_path.read_text())
+    status = json.loads((data_dir / "market_data_status.json").read_text())
+    assert quotes["BSE:500325"]["close"] == 1164.9
+    assert any(row.get("exchange") == "BSE" for row in search)
+    assert status["exchanges"]["BSE"]["status"] == "VERIFIED"

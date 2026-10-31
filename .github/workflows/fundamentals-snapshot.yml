@@ -8,6 +8,7 @@ on:
       - "scripts/refresh_fundamentals.py"
       - "src/ingestion/fundamentals_snapshot.py"
       - "requirements.txt"
+      - "data/securities_search_index.json"
   schedule:
     # Saturday 21:30 IST. Fundamentals are event-driven, not daily market facts.
     - cron: "0 16 * * 6"

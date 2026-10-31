@@ -10,7 +10,13 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from src.db.connection import get_session_factory
 from src.db.models import PriceRaw, Security
-from src.ingestion.daily_refresh import export_static_snapshot, refresh_nse_snapshot
+from src.ingestion.providers import TejHQAdapter
+from src.ingestion.daily_refresh import (
+    export_additional_exchange_snapshot,
+    export_static_snapshot,
+    fetch_exchange_snapshot,
+    refresh_nse_snapshot,
+)
 
 
 def parse_args():
@@ -48,6 +54,18 @@ def main() -> int:
                 )
             }
             export_static_snapshot(result, rows, securities, Path("data"))
+            bse_result, bse_rows = fetch_exchange_snapshot(
+                adapter=TejHQAdapter,
+                exchange="BSE",
+                minimum_coverage=args.minimum_coverage,
+                maximum_status_age_days=args.maximum_status_age_days,
+            )
+            export_additional_exchange_snapshot(
+                bse_result,
+                bse_rows,
+                Path("data"),
+                Path("data/securities_search_index.json"),
+            )
         print(json.dumps(result.to_dict(), indent=2, sort_keys=True))
         return 0
     except Exception as exc:

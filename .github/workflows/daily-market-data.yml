@@ -5,6 +5,9 @@ on:
     branches: [main]
     paths:
       - ".github/workflows/daily-market-data.yml"
+      - "scripts/refresh_market_data.py"
+      - "src/ingestion/daily_refresh.py"
+      - "src/ingestion/providers.py"
   schedule:
     # 20:00 IST on weekdays, after TejHQ's documented 18:30 publication.
     - cron: "30 14 * * 1-5"
@@ -59,7 +62,7 @@ jobs:
       - name: Commit changed static snapshot
         if: steps.market_refresh.outcome == 'success'
         run: |
-          git add data/market_data_status.json
+          git add data/market_data_status.json data/securities_search_index.json
           if [ -f data/latest_quotes.json ]; then git add data/latest_quotes.json; fi
           if git diff --cached --quiet; then
             echo "Provider trading date is already published."

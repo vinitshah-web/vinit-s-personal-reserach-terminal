@@ -48,6 +48,7 @@ def build_index():
         sec_entry = {
             "isin": r[0],
             "ticker": ticker,
+            "exchange": "NSE",
             "name": r[2],
             "sector": sector or "Diversified",
             "industry": industry or "General",

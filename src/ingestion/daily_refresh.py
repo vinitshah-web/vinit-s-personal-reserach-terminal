@@ -64,6 +64,7 @@ def _canonical_hash(rows: Iterable[Dict[str, Any]]) -> str:
 
 def _validated_snapshot_rows(
     rows: List[Dict[str, Any]],
+    exchange: str = "NSE",
 ) -> List[Dict[str, Any]]:
     validated: List[Dict[str, Any]] = []
     seen_isins = set()
@@ -73,7 +74,7 @@ def _validated_snapshot_rows(
             raise SnapshotValidationError(f"Snapshot row {position} is not an object.")
 
         series = str(row.get("series", "")).strip().upper()
-        if series not in ALLOWED_NSE_SERIES:
+        if exchange == "NSE" and series not in ALLOWED_NSE_SERIES:
             continue
 
         symbol = str(row.get("symbol", "")).strip().upper()
@@ -123,6 +124,54 @@ def _validated_snapshot_rows(
         )
 
     return validated
+
+
+def fetch_exchange_snapshot(
+    adapter: Type[TejHQAdapter],
+    exchange: str,
+    minimum_coverage: int = 1_000,
+    maximum_status_age_days: int = 7,
+    current_date: Optional[date] = None,
+) -> tuple[RefreshResult, List[Dict[str, Any]]]:
+    """Fetch and validate a full exchange snapshot without inventing metadata."""
+    normalized_exchange = exchange.strip().upper()
+    if normalized_exchange not in {"NSE", "BSE"}:
+        raise SnapshotValidationError(f"Unsupported exchange {exchange}.")
+    status_payload = adapter.get_pipeline_status()
+    trading_date = date.fromisoformat(status_payload["trading_date"])
+    india_today = current_date or datetime.now(INDIA_TIMEZONE).date()
+    age_days = (india_today - trading_date).days
+    if age_days < 0:
+        raise SnapshotValidationError("Provider trading date is in the future.")
+    if age_days > maximum_status_age_days:
+        raise SnapshotValidationError(
+            f"Provider pipeline is stale: latest trading date is {trading_date.isoformat()}."
+        )
+    snapshot_rows = adapter.get_exchange_snapshot(normalized_exchange, trading_date)
+    source_hash = _canonical_hash(snapshot_rows)
+    validated_rows = _validated_snapshot_rows(snapshot_rows, normalized_exchange)
+    if len(validated_rows) < minimum_coverage:
+        raise SnapshotValidationError(
+            f"{normalized_exchange} snapshot coverage is too small: "
+            f"{len(validated_rows)} validated rows; minimum is {minimum_coverage}."
+        )
+    fetched_at = datetime.now(timezone.utc)
+    published_at = _parse_provider_timestamp(status_payload.get("prices_published_at"))
+    result = RefreshResult(
+        provider="TejHQ",
+        exchange=normalized_exchange,
+        trading_date=trading_date.isoformat(),
+        source_hash=source_hash,
+        provider_published_at=published_at.isoformat() if published_at else None,
+        fetched_at=fetched_at.isoformat(),
+        snapshot_rows=len(snapshot_rows),
+        validated_rows=len(validated_rows),
+        inserted_rows=0,
+        updated_rows=0,
+        unchanged_rows=0,
+        skipped_unknown_securities=0,
+    )
+    return result, validated_rows
 
 
 def refresh_nse_snapshot(
@@ -312,3 +361,71 @@ def export_static_snapshot(
             json.dumps(payload, indent=2, sort_keys=True), encoding="utf-8"
         )
         temporary.replace(target)
+
+
+def export_additional_exchange_snapshot(
+    result: RefreshResult,
+    rows: Iterable[Dict[str, Any]],
+    output_directory: Path,
+    search_index_path: Path,
+) -> None:
+    """Merge a validated non-NSE snapshot into public quote and search files."""
+    if result.exchange == "NSE":
+        raise ValueError("Use export_static_snapshot for the persisted NSE snapshot.")
+    quotes_path = output_directory / "latest_quotes.json"
+    status_path = output_directory / "market_data_status.json"
+    quotes = json.loads(quotes_path.read_text(encoding="utf-8"))
+    status = json.loads(status_path.read_text(encoding="utf-8"))
+    search_rows = json.loads(search_index_path.read_text(encoding="utf-8"))
+
+    quotes = {
+        key: value for key, value in quotes.items()
+        if not key.startswith(f"{result.exchange}:")
+    }
+    bse_search_rows = []
+    for row in rows:
+        key = f"{result.exchange}:{row['symbol']}"
+        quotes[key] = {
+            "symbol": row["symbol"],
+            "exchange": result.exchange,
+            "isin": row["isin"],
+            "trade_date": result.trading_date,
+            "open": row["open"],
+            "high": row["high"],
+            "low": row["low"],
+            "close": row["close"],
+            "volume": row["volume"],
+            "source": f"TejHQ / {result.exchange} EOD snapshot",
+            "source_hash": result.source_hash,
+        }
+        bse_search_rows.append({
+            "isin": row["isin"],
+            "ticker": row["symbol"],
+            "name": row["name"],
+            "exchange": result.exchange,
+            "sector": None,
+            "industry": None,
+            "series": row["series"] or None,
+            "instrument_type": "UNCLASSIFIED_BSE_SECURITY",
+            "is_financial": False,
+        })
+
+    nse_search_rows = [
+        {**row, "exchange": row.get("exchange") or "NSE"}
+        for row in search_rows
+        if (row.get("exchange") or "NSE") != result.exchange
+    ]
+    status["exchanges"] = {
+        "NSE": {key: value for key, value in status.items() if key != "exchanges"},
+        result.exchange: result.to_dict(),
+    }
+    for path, payload in (
+        (quotes_path, quotes),
+        (status_path, status),
+        (search_index_path, nse_search_rows + bse_search_rows),
+    ):
+        temporary = path.with_suffix(f"{path.suffix}.tmp")
+        temporary.write_text(
+            json.dumps(payload, indent=None, sort_keys=True), encoding="utf-8"
+        )
+        temporary.replace(path)

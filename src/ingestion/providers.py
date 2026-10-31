@@ -98,8 +98,18 @@ class TejHQAdapter:
 
     @classmethod
     def get_snapshot(cls, trading_date: date) -> List[Dict[str, Any]]:
+        return cls.get_exchange_snapshot("NSE", trading_date)
+
+    @classmethod
+    def get_exchange_snapshot(
+        cls, exchange: str, trading_date: date
+    ) -> List[Dict[str, Any]]:
+        normalized_exchange = exchange.strip().upper()
+        if normalized_exchange not in {"NSE", "BSE"}:
+            raise MarketDataProviderError(f"Unsupported exchange {exchange}.")
         payload = cls.request_json(
-            "/v1/snapshot/NSE", {"date": trading_date.isoformat()}
+            f"/v1/snapshot/{normalized_exchange}",
+            {"date": trading_date.isoformat()},
         )
         rows = payload.get("data")
         if not isinstance(rows, list):
