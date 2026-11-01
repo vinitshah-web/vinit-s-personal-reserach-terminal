@@ -4,18 +4,21 @@
   "sector": "Communication Services",
   "industry": "Electronic Gaming & Multimedia",
   "business_summary": "Nazara Technologies Limited operates a gaming and sports media platform in India, Africa, the Middle East, the Asia Pacific, the United States, and internationally. It operates through Gaming, eSports, and Ad tech segments. The company offers subscriptions, download of games, and support services. It also provides gamified early learning; mobile gaming; PC and console publishing; offline entertainment; esports, indoor kids soft play/gaming and entertainment; sports medial; and digital advertising technology. In addition, the company owns various IPs, including Kiddopia, Animal Jam, World Cricket Championship, Love Island, Big Brother, Bigg Boss, Funky Monkeys, SMAAASH, Ultimate Teen Patti, Crash Arena Turbo Stars, King of Thieves (KOT), Curve Games, Nazara Telco Distribution, Datawrkz, Space & Time, Sportskeeda, Pro Football Network, PrimeTimer, TJR Wrestling, and Soap Central. The company was incorporated in 1999 and is based in Mumbai, India.",
-  "market_cap_cr": 16430.95,
-  "pe_ratio": null,
+  "business_summary_reason": null,
+  "market_cap_cr": 16294.08,
+  "pe_ratio": 1049.47,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because dated price and balance-sheet inputs are not both available to verify the 12-month freshness rule.",
-  "book_value": 79.2,
-  "dividend_yield_pct": null,
+  "book_value": 100.33,
+  "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 40.8578,
   "fifty_two_week_high": 419.9,
   "fifty_two_week_low": 215.7,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
+      "period_end": "2026-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 1828.98,
       "ebitda_cr": 298.32,
       "net_income_cr": 95.85,
@@ -29,6 +32,8 @@
     },
     {
       "period": "FY25 (2025)",
+      "period_end": "2025-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 1623.91,
       "ebitda_cr": 205.5,
       "net_income_cr": 75.82,
@@ -42,6 +47,8 @@
     },
     {
       "period": "FY24 (2024)",
+      "period_end": "2024-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 1138.28,
       "ebitda_cr": 177.23,
       "net_income_cr": 56.57,
@@ -55,6 +62,8 @@
     },
     {
       "period": "FY23 (2023)",
+      "period_end": "2023-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 1091.02,
       "ebitda_cr": 150.67,
       "net_income_cr": 39.39,
@@ -68,6 +77,8 @@
     },
     {
       "period": "FY22 (2022)",
+      "period_end": "2022-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": null,
       "ebitda_cr": null,
       "net_income_cr": null,
@@ -80,7 +91,10 @@
       "cash_cr": null
     }
   ],
-  "source": "Official Disclosures / Yahoo Finance",
+  "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-10-25T16:35:10.305844"
+  "retrieval_time": "2026-11-01T07:10:25.625444",
+  "provider_reported_pb_ratio": 3.97,
+  "statements_retrieved_at": "2026-11-01T07:10:25.625444",
+  "retained_fields": []
 }

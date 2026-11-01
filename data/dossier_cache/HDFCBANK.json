@@ -4,17 +4,21 @@
   "sector": "Financial Services",
   "industry": "Banks - Regional",
   "business_summary": "HDFC Bank Limited provides banking and financial products and services to individuals and businesses in India, Bahrain, Hong Kong, Singapore, and Dubai. The company operates through Treasury, Retail Banking, Wholesale Banking, Other Banking Business, Insurance Business, and Other segments. It offers savings, salary, current, rural, public provident fund, pension, and demat accounts; fixed and recurring deposits; and safe deposit lockers, as well as offshore accounts and deposits, and overdrafts against fixed deposits. The company also provides personal, home, car and pre owned car, marriage, two-wheeler, business, doctor, educational, gold, consumer, and rural loans; loans against properties, securities, mutual funds, and car; loans for professionals; government sponsored programs; and loans on credit card, as well as working capital, term loans, supply chain management, project finance, export finance, commercial vehicle / equipment finance, tractor finance, infrastructure, and agriculture finance. In addition, it offers credit, debit, prepaid, forex, and kisan gold cards; payment and collection, export, import, remittance, bank guarantee, letter of credit, trade, hedging, and merchant and cash management services; and insurance and investment products. Further, the company provides short term finance, bill discounting, structured finance, export credit, loan repayment, custodial, and documents collection services; online, mobile, and phone banking services; unified payment interface, immediate payment, national electronic funds transfer, and real time gross settlement services; channel financing, vendor financing, money market, derivatives, employee trusts, cash surplus corporates, tax payment, and bankers to rights/public issue services; and financial solutions for supply chain partners and agricultural customers. It operates branches and automated teller machines in various cities/towns. The company was incorporated in 1994 and is headquartered in Mumbai, India.",
-  "market_cap_cr": 1068825.37,
+  "business_summary_reason": null,
+  "market_cap_cr": 1069149.27,
   "pe_ratio": 15.14,
-  "pb_ratio": 1.75,
+  "pb_ratio": null,
+  "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 394.84,
-  "dividend_yield_pct": 188.0,
-  "shares_outstanding_cr": 1542.7618,
+  "dividend_yield_pct": 1.9025,
+  "shares_outstanding_cr": 1543.2293,
   "fifty_two_week_high": 1017.5,
-  "fifty_two_week_low": 681.9,
+  "fifty_two_week_low": 669.2,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
+      "period_end": "2026-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 249561.75,
       "ebitda_cr": null,
       "net_income_cr": 70479.34,
@@ -28,6 +32,8 @@
     },
     {
       "period": "FY25 (2025)",
+      "period_end": "2025-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 237150.82,
       "ebitda_cr": null,
       "net_income_cr": 67350.83,
@@ -41,6 +47,8 @@
     },
     {
       "period": "FY24 (2024)",
+      "period_end": "2024-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 198693.43,
       "ebitda_cr": null,
       "net_income_cr": 62265.66,
@@ -54,6 +62,8 @@
     },
     {
       "period": "FY23 (2023)",
+      "period_end": "2023-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 120537.5,
       "ebitda_cr": null,
       "net_income_cr": 49544.69,
@@ -66,6 +76,10 @@
       "cash_cr": 236392.02
     }
   ],
-  "source": "Official Disclosures / Yahoo Finance",
-  "retrieval_time": "2026-10-25T15:18:43.919184"
+  "source": "Yahoo Finance (secondary aggregator)",
+  "has_statements": true,
+  "retrieval_time": "2026-11-01T06:55:00.658741",
+  "provider_reported_pb_ratio": 1.75,
+  "statements_retrieved_at": "2026-11-01T06:55:00.658741",
+  "retained_fields": []
 }

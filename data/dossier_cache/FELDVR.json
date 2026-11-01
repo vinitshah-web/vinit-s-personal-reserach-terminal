@@ -1,0 +1,40 @@
+{
+  "symbol": "FELDVR",
+  "company_name": "FUTURE ENTERPRISES LTD",
+  "sector": "Consumer Cyclical",
+  "industry": "Department Stores",
+  "business_summary": "Future Enterprises Limited, together with its subsidiaries, engages in the retail business in India. The company offers integrated and IT enabled end-to-end supply chain and logistic services, which include modern warehousing, cold chain, and express and e-commerce logistics to food and beverages, lifestyle, consumer electronics and high tech, automotive and engineering, home and furniture, healthcare, general merchandise, and e-commerce industries. It also provides out-of-home media solutions to advertisers. The company was formerly known as Future Retail Limited and changed its name to Future Enterprises Limited in May 2016. The company was incorporated in 1987 and is based in Mumbai, India. Future Enterprises Limited is in reorganization.",
+  "business_summary_reason": null,
+  "market_cap_cr": 92.93,
+  "pe_ratio": null,
+  "pb_ratio": null,
+  "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
+  "book_value": 52.91,
+  "dividend_yield_pct": 0.0,
+  "shares_outstanding_cr": 3.9375,
+  "fifty_two_week_high": 3.59,
+  "fifty_two_week_low": 1.81,
+  "financial_statements": [
+    {
+      "period": "FY22 (2022)",
+      "period_end": "2022-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
+      "revenue_cr": 2193.37,
+      "ebitda_cr": -1745.18,
+      "net_income_cr": -2877.43,
+      "operating_cash_flow_cr": 399.94,
+      "capex_cr": 10.03,
+      "fcff_cr": 389.91,
+      "total_assets_cr": 8437.74,
+      "total_equity_cr": -262.57,
+      "total_debt_cr": 7459.5,
+      "cash_cr": 6.44
+    }
+  ],
+  "source": "Yahoo Finance (secondary aggregator)",
+  "has_statements": true,
+  "retrieval_time": "2026-11-01T06:50:02.589985",
+  "provider_reported_pb_ratio": 0.04,
+  "statements_retrieved_at": "2026-11-01T06:50:02.589985",
+  "retained_fields": []
+}

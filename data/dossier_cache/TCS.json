@@ -4,17 +4,21 @@
   "sector": "Technology",
   "industry": "Information Technology Services",
   "business_summary": "Tata Consultancy Services Limited provides information technology (IT) and IT enabled services. It offers TCS ADD, a suite of AI powered life sciences platforms; TCS BaNCS, a financial services platform; TCS BFSI Platforms, a cloud-native, subscription-based as-a-service digital ecosystem for insurers and financial firms; TCS Chroma, a cloud-based AI-led hire-to-retire modular platform; TCS Customer Intelligence & Insights, an AI-powered, real-time customer data analytics solution; TCS ERP on Cloud, SAP transformation with AI-powered smart solutions; ignio, a cognitive automation software product; TCS iON, a learning ecosystem; and TCS HOBS, a cloud-native, catalog-centric platform with composable architecture and insights-led personalization capabilities. It also offers TCS Intelligent Urban Exchange for enterprises and smart cities; TCS OmniStore, a retail commerce platform; TCS Optumera, a strategic intelligence platform; TCS Tap, a platform for intelligent procurement; Quartz, a distributed ledger technology; TCS TwinX, a risk-free experimentation platform; TCS MasterCraft, an AI-driven cognitive automation product; Jile, an enterprise agile planning and delivery tool; TCS DigiBOLT, an end-to-end, organization-wide enterprise platform; and TCS AI WisdomNext, an enterprise grade GenAI platform. In addition, the company provides AI, data and analytics, cloud, cognitive business, consulting, cybersecurity, enterprise solutions, industrial autonomy and engineering, network solutions and services, TCS interactive, and sustainability services. It serves banking; capital markets; consumer packaged goods and distribution; communications, media, and information services; education; energy, resources, and utilities; healthcare; high tech; insurance; life sciences; manufacturing; public services; retail; and travel and logistics industries. The company was founded in 1968 and is based in Mumbai, India. The company operates as a subsidiary of Tata Sons Private Limited.",
+  "business_summary_reason": null,
   "market_cap_cr": 915376.12,
-  "pe_ratio": 17.73,
-  "pb_ratio": 7.69,
+  "pe_ratio": 17.54,
+  "pb_ratio": null,
+  "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 328.86,
-  "dividend_yield_pct": 190.0,
+  "dividend_yield_pct": 2.6634,
   "shares_outstanding_cr": 361.8088,
   "fifty_two_week_high": 3350.0,
   "fifty_two_week_low": 1976.8,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
+      "period_end": "2026-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 267021.0,
       "ebitda_cr": 72274.0,
       "net_income_cr": 49210.0,
@@ -28,6 +32,8 @@
     },
     {
       "period": "FY25 (2025)",
+      "period_end": "2025-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 255324.0,
       "ebitda_cr": 71369.0,
       "net_income_cr": 48553.0,
@@ -41,6 +47,8 @@
     },
     {
       "period": "FY24 (2024)",
+      "period_end": "2024-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 240893.0,
       "ebitda_cr": 67760.0,
       "net_income_cr": 45908.0,
@@ -54,6 +62,8 @@
     },
     {
       "period": "FY23 (2023)",
+      "period_end": "2023-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 225458.0,
       "ebitda_cr": 62708.0,
       "net_income_cr": 42147.0,
@@ -66,6 +76,14 @@
       "cash_cr": 7115.0
     }
   ],
-  "source": "Official Disclosures / Yahoo Finance",
-  "retrieval_time": "2026-10-25T15:18:35.878620"
+  "source": "Yahoo Finance (secondary aggregator)",
+  "has_statements": true,
+  "retrieval_time": "2026-11-01T07:28:48.526556",
+  "provider_reported_pb_ratio": 7.61,
+  "statements_retrieved_at": "2026-11-01T07:28:48.526556",
+  "retained_fields": [
+    "market_cap_cr",
+    "shares_outstanding_cr"
+  ],
+  "previous_retrieval_time": "2026-10-25T15:18:35.878620"
 }

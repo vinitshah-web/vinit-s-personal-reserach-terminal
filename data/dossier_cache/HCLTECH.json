@@ -4,17 +4,21 @@
   "sector": "Technology",
   "industry": "Information Technology Services",
   "business_summary": "HCL Technologies Limited provides IT and business services, engineering, research and development services, software products, and IP-led offerings. It operates through IT and Business Services, Engineering and R&D Services, and HCL Software segments. The company provides application development, management, modernization, and testing services, as well as commercial applications; automation services, including digital integration, business process management, robotic process automation for intelligent automation, and low and no-code services; digital process operations; and data and AI services that consist of strategy and advisory, modernize data, simplify insights, and scale AI. It also offers commercial applications for sales, accounting, finance, HR, inventory, and manufacturing operations; cybersecurity services; systems engineering, simulation process and data management, manufacturing engineering, supplier collaboration, and digital thread and twin; HCLTech Career Shaper, a learning and assessment platform; and HCLTech Pulse, a unit focused on helping enterprise for AI transformation. In addition, the company provides cloud engineering, digital platform engineering, digital commerce and manufacturing, silicon platform solutions, 5G engineering, SemiCloud, and AITech services; and IT enablement and service desk, unified communication and collaboration, workplace assessment and automation, mobility, and cloud office services. Further, it offers intelligent operations, internet of things, marketing services, operational technology, product engineering, supply chain, unified service management, and enterprise network solutions. The company has a strategic partnership with Cisco Systems, Inc. to launch a Fluid Contact Center solution that features AI and cloud-enabled capabilities to help enterprises transform customer engagement. The company was founded in 1976 and is headquartered in Noida, India.",
-  "market_cap_cr": 384936.26,
-  "pe_ratio": 21.04,
-  "pb_ratio": 5.14,
+  "business_summary_reason": null,
+  "market_cap_cr": 386533.19,
+  "pe_ratio": 21.13,
+  "pb_ratio": null,
+  "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 276.71,
-  "dividend_yield_pct": 338.0,
+  "dividend_yield_pct": 0.0437,
   "shares_outstanding_cr": 270.6625,
   "fifty_two_week_high": 1780.1,
   "fifty_two_week_low": 1030.0,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
+      "period_end": "2026-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 130144.0,
       "ebitda_cr": 27326.0,
       "net_income_cr": 16642.0,
@@ -28,6 +32,8 @@
     },
     {
       "period": "FY25 (2025)",
+      "period_end": "2025-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 117055.0,
       "ebitda_cr": 27989.0,
       "net_income_cr": 17390.0,
@@ -41,6 +47,8 @@
     },
     {
       "period": "FY24 (2024)",
+      "period_end": "2024-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 109913.0,
       "ebitda_cr": 25693.0,
       "net_income_cr": 15702.0,
@@ -54,6 +62,8 @@
     },
     {
       "period": "FY23 (2023)",
+      "period_end": "2023-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 101456.0,
       "ebitda_cr": 23986.0,
       "net_income_cr": 14851.0,
@@ -67,6 +77,8 @@
     },
     {
       "period": "FY22 (2022)",
+      "period_end": "2022-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": null,
       "ebitda_cr": null,
       "net_income_cr": null,
@@ -79,6 +91,10 @@
       "cash_cr": null
     }
   ],
-  "source": "Official Disclosures / Yahoo Finance",
-  "retrieval_time": "2026-10-25T15:20:34.030039"
+  "source": "Yahoo Finance (secondary aggregator)",
+  "has_statements": true,
+  "retrieval_time": "2026-11-01T06:54:57.333986",
+  "provider_reported_pb_ratio": 5.16,
+  "statements_retrieved_at": "2026-11-01T06:54:57.333986",
+  "retained_fields": []
 }

@@ -4,17 +4,21 @@
   "sector": "Industrials",
   "industry": "Integrated Freight & Logistics",
   "business_summary": "Delhivery Limited provides supply chain solutions in India. It offers express parcel services; part truckload services; supply chain services that provide integrated warehousing and transportation services; point-to-point and multi-point full-truckload services; and cross-border services comprising door-to-door and port-to-port parcel and freight shipping services. The company also provides Delhivery Rapid, a network of shared in-city forward fulfillment centers, as well as Delhivery Direct, an on-demand intra-city pickup and delivery service. In addition, it offers SaaS and data solutions, such as the OS1 platform that provides APIs and SDKs; TransportOne, a transport management system solution; and LocateOne and RTOne data solutions for e-commerce companies. The company provides its services to e-commerce marketplaces, direct-to-consumer e-tailers, enterprises, FMCG, consumer durables, consumer electronics, lifestyle, retail, automotive, and manufacturing industries. Delhivery Limited was incorporated in 2011 and is based in Gurugram, India.",
-  "market_cap_cr": 27732.33,
-  "pe_ratio": 305.79,
-  "pb_ratio": 2.85,
-  "book_value": 129.79,
-  "dividend_yield_pct": null,
+  "business_summary_reason": null,
+  "market_cap_cr": 28931.57,
+  "pe_ratio": 159.5,
+  "pb_ratio": null,
+  "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
+  "book_value": 129.4,
+  "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 74.9522,
   "fifty_two_week_high": 524.0,
-  "fifty_two_week_low": 365.9,
+  "fifty_two_week_low": 364.65,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
+      "period_end": "2026-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 10488.31,
       "ebitda_cr": 979.53,
       "net_income_cr": 152.68,
@@ -28,6 +32,8 @@
     },
     {
       "period": "FY25 (2025)",
+      "period_end": "2025-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 8931.9,
       "ebitda_cr": 817.38,
       "net_income_cr": 162.11,
@@ -41,6 +47,8 @@
     },
     {
       "period": "FY24 (2024)",
+      "period_end": "2024-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 8141.54,
       "ebitda_cr": 564.86,
       "net_income_cr": -249.19,
@@ -54,6 +62,8 @@
     },
     {
       "period": "FY23 (2023)",
+      "period_end": "2023-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 7225.3,
       "ebitda_cr": -133.6,
       "net_income_cr": -1007.78,
@@ -67,6 +77,8 @@
     },
     {
       "period": "FY22 (2022)",
+      "period_end": "2022-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": null,
       "ebitda_cr": null,
       "net_income_cr": null,
@@ -79,7 +91,10 @@
       "cash_cr": null
     }
   ],
-  "source": "Official Disclosures / Yahoo Finance",
+  "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-10-25T16:35:03.957142"
+  "retrieval_time": "2026-11-01T06:45:52.931019",
+  "provider_reported_pb_ratio": 2.98,
+  "statements_retrieved_at": "2026-11-01T06:45:52.931019",
+  "retained_fields": []
 }

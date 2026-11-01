@@ -4,18 +4,21 @@
   "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
   "business_summary": "Swiggy Limited, together with its subsidiary, operates a convenience platform for accessing food and everyday essentials in India. It operates through Food Delivery, Out of Home Consumption, Quick-Commerce, Supply Chain and Distribution, and Platform Innovations segments. The company operates Swiggy, a platform that enables customers to browse, select, order, and pay for food, groceries, and household essentials, with deliveries made directly to their doorstep through its delivery partner network. It also provides food delivery services through a network of restaurant partners and delivery partners; restaurant discovery and table reservation services through the Swiggy DineOut platform; curated in-restaurant event booking services through the Swiggy Scenes platform; and grocery and household essentials delivery services through the Swiggy Instamart platform, as well as a membership program through the Swiggy One platform. In addition, the company offers supply chain and distribution solutions comprising warehousing services, including inventory management, in-warehousing processing, and packaging solutions to wholesalers, retailers, and fast-moving consumer goods brands; logistics services; B2B trading services for fast-moving consumer goods; and an advertising platform for partner merchants and brands to promote their offerings. Further, it provides Toing, a marketplace designed for affordable food delivery; and Crew, a concierge-style assistance platform that helps users plan, coordinate, and simplify everyday tasks and experiences, as well as private brands, Swiggy Genie, Swiffy Minis, Swiggy Sports, and Snacc. The company serves micro, small, medium, and institutional food service establishments, including traditional restaurants and cloud kitchens, as well as end consumers. Swiggy Limited was incorporated in 2013 and is headquartered in Bengaluru, India.",
-  "market_cap_cr": 46162.18,
+  "business_summary_reason": null,
+  "market_cap_cr": 46319.56,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because dated price and balance-sheet inputs are not both available to verify the 12-month freshness rule.",
   "book_value": 63.5,
-  "dividend_yield_pct": null,
+  "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 262.2851,
-  "fifty_two_week_high": 434.0,
-  "fifty_two_week_low": 174.95,
+  "fifty_two_week_high": 421.6,
+  "fifty_two_week_low": 174.2,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
+      "period_end": "2026-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 22828.0,
       "ebitda_cr": -2737.0,
       "net_income_cr": -4154.0,
@@ -29,6 +32,8 @@
     },
     {
       "period": "FY25 (2025)",
+      "period_end": "2025-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 15046.0,
       "ebitda_cr": -2404.0,
       "net_income_cr": -3117.0,
@@ -42,6 +47,8 @@
     },
     {
       "period": "FY24 (2024)",
+      "period_end": "2024-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 11072.64,
       "ebitda_cr": -1858.26,
       "net_income_cr": -2350.24,
@@ -55,6 +62,8 @@
     },
     {
       "period": "FY23 (2023)",
+      "period_end": "2023-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 8138.5,
       "ebitda_cr": -3835.51,
       "net_income_cr": -4179.31,
@@ -68,6 +77,8 @@
     },
     {
       "period": "FY22 (2022)",
+      "period_end": "2022-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": null,
       "ebitda_cr": null,
       "net_income_cr": null,
@@ -80,7 +91,10 @@
       "cash_cr": null
     }
   ],
-  "source": "Official Disclosures / Yahoo Finance",
+  "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-10-25T16:35:01.073550"
+  "retrieval_time": "2026-11-01T07:27:50.781401",
+  "provider_reported_pb_ratio": 2.78,
+  "statements_retrieved_at": "2026-11-01T07:27:50.781401",
+  "retained_fields": []
 }

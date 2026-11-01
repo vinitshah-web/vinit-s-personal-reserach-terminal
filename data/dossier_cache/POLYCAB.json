@@ -4,18 +4,21 @@
   "sector": "Industrials",
   "industry": "Electrical Equipment & Parts",
   "business_summary": "Polycab India Limited manufactures and sells wires and cables under the POLYCAB brand in India and internationally. The company operates through three segments: Wires and Cables; Fast Moving Electrical Goods (FMEG); and Engineering, Procurement and Construction (EPC). The Wires and Cables segment provides wires, such as PolycabSuprema house wires, PolycabMaxima+ Green wire, PolycabPrimma house wires, ETIRA house wires, PolycabOptima+, GREENWIRE 180m, and POLYCAB LF FR 180m; and cables, such as control, rubber, defense, special, fire protection, marine offshore/onshore, domestic appliance and lighting, aerial bunched, industrial, high temperature, LV power, MV power, EHV power, communication and data, and instrumentation. The Fast Moving Electrical Goods segment offers ceiling, table, pedestal, wall, exhaust, farrata, and air circulated fans; LED lighting and luminaires, such as LED Bulb, downlight, panel light, led batten, outdoor lights, and rope and strip lights; water heaters; switches and accessories; switchgears consisting of isolators, MCB, RCCB, RCBO, distribution board, ACCL, and MCB changeover switches; solar products, including solar panel and invertors; and pumps, conduits, and domestic appliances. The EPC segment designs, engineers, and supplies materials; and engages in the survey, execution, and commissioning of turn-key power distribution, transmission, and rural electrification projects. The company provides coolers and iron appliances. It operates a distribution network through authorized dealers and distributors, and retail outlets. The company was founded in 1964 and is based in Mumbai, India.",
-  "market_cap_cr": 112118.18,
-  "pe_ratio": 35.45,
+  "business_summary_reason": null,
+  "market_cap_cr": 117347.35,
+  "pe_ratio": 37.11,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because dated price and balance-sheet inputs are not both available to verify the 12-month freshness rule.",
   "book_value": 868.93,
-  "dividend_yield_pct": 63.0,
+  "dividend_yield_pct": 0.6068,
   "shares_outstanding_cr": 15.0696,
   "fifty_two_week_high": 10126.0,
   "fifty_two_week_low": 6663.0,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
+      "period_end": "2026-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 28269.51,
       "ebitda_cr": 4194.26,
       "net_income_cr": 2672.03,
@@ -29,6 +32,8 @@
     },
     {
       "period": "FY25 (2025)",
+      "period_end": "2025-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 22031.42,
       "ebitda_cr": 3138.92,
       "net_income_cr": 2019.99,
@@ -42,6 +47,8 @@
     },
     {
       "period": "FY24 (2024)",
+      "period_end": "2024-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 17760.41,
       "ebitda_cr": 2695.79,
       "net_income_cr": 1784.05,
@@ -55,6 +62,8 @@
     },
     {
       "period": "FY23 (2023)",
+      "period_end": "2023-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 13941.89,
       "ebitda_cr": 1960.58,
       "net_income_cr": 1270.78,
@@ -68,6 +77,8 @@
     },
     {
       "period": "FY22 (2022)",
+      "period_end": "2022-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": null,
       "ebitda_cr": null,
       "net_income_cr": null,
@@ -80,6 +91,10 @@
       "cash_cr": null
     }
   ],
-  "source": "Official Disclosures / Yahoo Finance",
-  "retrieval_time": "2026-10-25T15:19:58.301061"
+  "source": "Yahoo Finance (secondary aggregator)",
+  "has_statements": true,
+  "retrieval_time": "2026-11-01T07:15:23.213397",
+  "provider_reported_pb_ratio": 8.96,
+  "statements_retrieved_at": "2026-11-01T07:15:23.213397",
+  "retained_fields": []
 }

@@ -4,17 +4,21 @@
   "sector": "Consumer Defensive",
   "industry": "Tobacco",
   "business_summary": "ITC Limited engages in the fast-moving consumer goods, paperboards, paper and packaging, and agri businesses in India and internationally. The company offers cigarettes and cigars; foods, including staples, spices, biscuits, confectionery and gums, snacks, noodles and pasta, beverages, dairy products, ready-to-eat meals, chocolates, coffee, and frozen foods; personal care products; education and stationery, such as balls, gels and roller pens, mechanical pencils, geometry boxes, erasers, sharpeners and rulers, wax crayons, plastic crayons, and sketch pens and oil pastels; safety matches; and agarbattis and dhoops under various brands, as well as operates a hotel under the ITC Grand Central name in Mumbai. It also provides virgin, recycled, coated barrier, cupstock base, liner, liquid packaging, antifungal, solid, and graphic boards, as well as specialty papers; surfacing, print base, barrier, overlay, and liner papers; plastic substitution products; and packaging products, including cartons, flexible, tobacco, and green packaging products. In addition, the company exports feed ingredients, food grains, marine products, processed fruits, coffee products, leaf tobacco products, and spices; and offers information technology services for the banking and financial services, healthcare, manufacturing, consumer goods, travel, and hospitality industries, as well as produces and commercializes seed potato technology products. Further, it provides property infrastructure maintenance; engineering, procurement and construction management and project management consultancy services; business consulting; and agro-forestry and other related services, as well as engages in the fabrication and assembly of machinery for tube filling, cartoning, wrapping, and conveyor solutions and engineering activities. ITC Limited was incorporated in 1910 and is headquartered in Kolkata, India.",
-  "market_cap_cr": 323198.02,
-  "pe_ratio": 16.28,
-  "pb_ratio": 4.46,
+  "business_summary_reason": null,
+  "market_cap_cr": 332847.62,
+  "pe_ratio": 16.77,
+  "pb_ratio": null,
+  "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 57.87,
-  "dividend_yield_pct": 620.0,
+  "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1253.1913,
-  "fifty_two_week_high": 426.4,
-  "fifty_two_week_low": 253.15,
+  "fifty_two_week_high": 421.65,
+  "fifty_two_week_low": 252.8,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
+      "period_end": "2026-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 78213.28,
       "ebitda_cr": 29829.09,
       "net_income_cr": 20689.47,
@@ -28,6 +32,8 @@
     },
     {
       "period": "FY25 (2025)",
+      "period_end": "2025-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 74653.32,
       "ebitda_cr": 28922.58,
       "net_income_cr": 34746.63,
@@ -41,6 +47,8 @@
     },
     {
       "period": "FY24 (2024)",
+      "period_end": "2024-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 67391.04,
       "ebitda_cr": 28255.78,
       "net_income_cr": 20458.78,
@@ -54,6 +62,8 @@
     },
     {
       "period": "FY23 (2023)",
+      "period_end": "2023-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 70245.22,
       "ebitda_cr": 27767.33,
       "net_income_cr": 19191.66,
@@ -67,6 +77,8 @@
     },
     {
       "period": "FY22 (2022)",
+      "period_end": "2022-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": null,
       "ebitda_cr": null,
       "net_income_cr": null,
@@ -79,6 +91,10 @@
       "cash_cr": null
     }
   ],
-  "source": "Official Disclosures / Yahoo Finance",
-  "retrieval_time": "2026-10-25T15:19:06.682218"
+  "source": "Yahoo Finance (secondary aggregator)",
+  "has_statements": true,
+  "retrieval_time": "2026-11-01T06:59:13.881753",
+  "provider_reported_pb_ratio": 4.59,
+  "statements_retrieved_at": "2026-11-01T06:59:13.881753",
+  "retained_fields": []
 }

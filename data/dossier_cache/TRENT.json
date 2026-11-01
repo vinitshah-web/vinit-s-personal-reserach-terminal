@@ -4,17 +4,21 @@
   "sector": "Consumer Cyclical",
   "industry": "Apparel Retail",
   "business_summary": "Trent Limited engages in the retailing and trading of apparels, footwear, accessories, food, grocery, and non-food products in India. The company provides apparel, footwear, and accessories for men, women, and children, as well as furnishings, decor, and a range of home accessories under the Westside brand; apparels and footwear for men, women, and children under the Zudio brand; apparel, footwear, innerwear, beauty, and accessories for women under the Utsa brand; and luxurious, differentiated, and elevated occasion wear for men and women under the Samoh brand. It also operates Star Hypermarket, a convenience store chain that offers a range of products, including staple foods, beverages, health and beauty products, apparel, home furnishings, vegetables, fruits, dairy, and non-vegetarian products; and Booker Wholesale, a cash and carry chain of stores, which provides various products, such as staple foods, beverages, health and beauty products, dairy, non-vegetarian products, and non-food products to caterers, retailers, and other businesses. In addition, the company engages in the operation of StarQuik for online grocery retailing. Further, it operates a youth-focused fashion brand under the Burnt Toast brand name. Additionally, the company engages in the provision of business support and outsourcing services relating to accounting, merchandising, human resources, payroll, sourcing, warehousing, distribution, etc.; franchisee business; invest and deploy funds related to acquisition, purchase, development, construction, leasing, sale, or otherwise dealing in real estate properties; and investment activities. It offers its products online through Westside.com, Tata CliQ, and Tata Neu, as well as My Star App. Trent Limited was incorporated in 1952 and is based in Mumbai, India.",
-  "market_cap_cr": 145439.1,
-  "pe_ratio": 81.76,
-  "pb_ratio": 20.82,
-  "book_value": 130.99,
-  "dividend_yield_pct": 15.0,
+  "business_summary_reason": null,
+  "market_cap_cr": 160892.18,
+  "pe_ratio": 84.87,
+  "pb_ratio": null,
+  "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
+  "book_value": 145.75,
+  "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 53.3232,
-  "fifty_two_week_high": 4831.7,
+  "fifty_two_week_high": 4724.9,
   "fifty_two_week_low": 2183.6667,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
+      "period_end": "2026-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 19850.11,
       "ebitda_cr": 3766.75,
       "net_income_cr": 1719.65,
@@ -28,6 +32,8 @@
     },
     {
       "period": "FY25 (2025)",
+      "period_end": "2025-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 16873.72,
       "ebitda_cr": 3064.24,
       "net_income_cr": 1546.72,
@@ -41,6 +47,8 @@
     },
     {
       "period": "FY24 (2024)",
+      "period_end": "2024-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 12205.31,
       "ebitda_cr": 2911.77,
       "net_income_cr": 1486.8,
@@ -54,6 +62,8 @@
     },
     {
       "period": "FY23 (2023)",
+      "period_end": "2023-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 8112.33,
       "ebitda_cr": 1415.64,
       "net_income_cr": 444.63,
@@ -67,6 +77,8 @@
     },
     {
       "period": "FY22 (2022)",
+      "period_end": "2022-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": null,
       "ebitda_cr": null,
       "net_income_cr": null,
@@ -79,6 +91,10 @@
       "cash_cr": null
     }
   ],
-  "source": "Official Disclosures / Yahoo Finance",
-  "retrieval_time": "2026-10-25T15:19:57.161442"
+  "source": "Yahoo Finance (secondary aggregator)",
+  "has_statements": true,
+  "retrieval_time": "2026-11-01T07:30:28.738433",
+  "provider_reported_pb_ratio": 20.7,
+  "statements_retrieved_at": "2026-11-01T07:30:28.738433",
+  "retained_fields": []
 }

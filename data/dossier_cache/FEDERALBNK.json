@@ -4,18 +4,21 @@
   "sector": "Financial Services",
   "industry": "Banks - Regional",
   "business_summary": "The Federal Bank Limited provides various banking and financial services in India. It operates through four segments: Treasury, Corporate/Wholesale Banking, Retail Banking, and Other Banking Operations segments. The company offers savings, current, salary, GBD super 51, RFC domestic, RFC, EEFC, and gilt accounts, as well as fixed and recurring deposits, and cash certificates; fintech partnership products; and credit card, debit card, smart key chain flash pay, prepaid cards, and tokenization of cards. It also provides personal, gold, car, housing, property, education and career, digital personal, SME business, instant digital, and other loans as well as loans for NRIs and loans against fixed deposits; financing joint liability group; insurance, wealth management, Fed-e-Trade for online trading, national pension system, NPS Vatsalya, and Demat accounts; and priority banking, transfer fund, pay fees and bills, shop online and other, and invest and donate services. In addition, the company offers remittance services; FX retail, forward contracts, options, and swaps; term loans, project finance, bill discounting, working capital loans, packing credit limit, PCFC, and EBRD; bank guarantee, LC bill discounting, merchant banking services, cash management services, and Fed eSCF; and transaction banking services. Further, it provides payment and collection services; online and e-commerce services; and internet banking, mobile banking, conversational banking, ATMs, and open banking. The company was formerly known as Travancore Federal Bank Limited and changed its name to The Federal Bank Limited in March 1947. The Federal Bank Limited was incorporated in 1931 and is headquartered in Aluva, India.",
-  "market_cap_cr": 84215.67,
-  "pe_ratio": 16.65,
+  "business_summary_reason": null,
+  "market_cap_cr": 83919.23,
+  "pe_ratio": 16.59,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because dated price and balance-sheet inputs are not both available to verify the 12-month freshness rule.",
   "book_value": 173.17,
-  "dividend_yield_pct": 35.0,
+  "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 247.0392,
   "fifty_two_week_high": 371.7,
-  "fifty_two_week_low": 228.02,
+  "fifty_two_week_low": 232.42,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
+      "period_end": "2026-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 16297.58,
       "ebitda_cr": null,
       "net_income_cr": 4345.3,
@@ -29,6 +32,8 @@
     },
     {
       "period": "FY25 (2025)",
+      "period_end": "2025-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 14247.89,
       "ebitda_cr": null,
       "net_income_cr": 4158.85,
@@ -42,6 +47,8 @@
     },
     {
       "period": "FY24 (2024)",
+      "period_end": "2024-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 12130.07,
       "ebitda_cr": null,
       "net_income_cr": 3880.43,
@@ -55,6 +62,8 @@
     },
     {
       "period": "FY23 (2023)",
+      "period_end": "2023-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 10278.63,
       "ebitda_cr": null,
       "net_income_cr": 3164.72,
@@ -68,6 +77,8 @@
     },
     {
       "period": "FY22 (2022)",
+      "period_end": "2022-03-31",
+      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": null,
       "ebitda_cr": null,
       "net_income_cr": null,
@@ -80,6 +91,10 @@
       "cash_cr": null
     }
   ],
-  "source": "Official Disclosures / Yahoo Finance",
-  "retrieval_time": "2026-10-25T15:19:59.497864"
+  "source": "Yahoo Finance (secondary aggregator)",
+  "has_statements": true,
+  "retrieval_time": "2026-11-01T06:49:59.181093",
+  "provider_reported_pb_ratio": 1.96,
+  "statements_retrieved_at": "2026-11-01T06:49:59.181093",
+  "retained_fields": []
 }
