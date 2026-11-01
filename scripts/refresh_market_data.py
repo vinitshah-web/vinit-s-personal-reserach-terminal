@@ -4,6 +4,8 @@ from datetime import date
 import json
 from pathlib import Path
 import sys
+import shutil
+import tempfile
 
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
@@ -53,19 +55,25 @@ def main() -> int:
                     Security.isin.in_([row.isin for row in rows])
                 )
             }
-            export_static_snapshot(result, rows, securities, Path("data"))
             bse_result, bse_rows = fetch_exchange_snapshot(
                 adapter=TejHQAdapter,
                 exchange="BSE",
                 minimum_coverage=args.minimum_coverage,
                 maximum_status_age_days=args.maximum_status_age_days,
             )
-            export_additional_exchange_snapshot(
-                bse_result,
-                bse_rows,
-                Path("data"),
-                Path("data/securities_search_index.json"),
-            )
+            # Validate both exchanges before touching the published snapshot set.
+            # Stage all exports: any provider, parsing or serialization failure
+            # leaves the previous complete set available to static consumers.
+            with tempfile.TemporaryDirectory(prefix="snapshot-", dir="data") as staging:
+                stage = Path(staging)
+                staged_index = stage / "securities_search_index.json"
+                shutil.copyfile("data/securities_search_index.json", staged_index)
+                export_static_snapshot(result, rows, securities, stage)
+                export_additional_exchange_snapshot(
+                    bse_result, bse_rows, stage, staged_index,
+                )
+                for filename in ("latest_quotes.json", "securities_search_index.json", "market_data_status.json"):
+                    (stage / filename).replace(Path("data") / filename)
         print(json.dumps(result.to_dict(), indent=2, sort_keys=True))
         return 0
     except Exception as exc:

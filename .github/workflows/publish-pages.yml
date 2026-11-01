@@ -1,0 +1,50 @@
+name: Publish research website
+on:
+  push:
+    branches: [main]
+    paths:
+      - '*.html'
+      - 'assets/**'
+      - 'data/**'
+      - '.github/workflows/publish-pages.yml'
+  workflow_run:
+    workflows: ['Daily verified NSE market data', 'Daily fundamentals and company statements']
+    types: [completed]
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: research-pages
+  cancel-in-progress: false
+jobs:
+  deploy:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/configure-pages@v5
+      - name: Prepare public website
+        run: |
+          mkdir -p public/data/dossier_cache
+          cp ./*.html public/
+          cp -R assets public/assets
+          cp data/latest_quotes.json data/market_data_status.json data/fundamentals_snapshot.json data/fundamentals_status.json data/securities_search_index.json public/data/
+          cp data/dossier_cache/*.json public/data/dossier_cache/
+          for file in company_profiles_status.json market_data_refresh_status.json; do
+            if [ -f "data/$file" ]; then cp "data/$file" public/data/; fi
+          done
+          touch public/.nojekyll
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+      - name: Deploy updated website
+        id: deployment
+        uses: actions/deploy-pages@v4

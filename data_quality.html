@@ -4,7 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Vinit's Self-Made Research Terminal — Data Quality</title>
-  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="assets/tailwind.css">
+  <link rel="stylesheet" href="assets/app.css">
+  <script src="assets/app.js"></script>
   <style>
     :root {
       --bg: #090d16;
@@ -124,6 +126,7 @@
       </div>
     </div>
 
+    <section class="card p-5 rounded-lg space-y-3"><h2 class="text-sm font-semibold">Field-level coverage</h2><div id="fieldCoverage" class="text-xs">Loading field coverage…</div><p class="text-xs text-[var(--text-muted)]">A fundamentals record can contain missing fields. P/B needs dated equity inputs; business descriptions and statements need separate profile extraction. Last verified snapshots remain available when a refresh fails.</p></section>
     <!-- Statutory Authority & Citation Registry -->
     <div class="card p-5 rounded-lg space-y-4">
       <h2 class="text-sm font-semibold uppercase text-emerald-400 tracking-wider">Statutory Authority & Legislation Registry</h2>
@@ -160,15 +163,17 @@
     async function initAuditData() {
       try {
         const [marketRes, quotesRes, securitiesRes, fundamentalsRes] = await Promise.all([
-          fetch('data/market_data_status.json', { cache: 'no-store' }),
-          fetch('data/latest_quotes.json', { cache: 'no-store' }),
-          fetch('data/securities_search_index.json', { cache: 'no-store' }),
-          fetch('data/fundamentals_status.json', { cache: 'no-store' })
+          AppData.fetch('data/market_data_status.json', { cache: 'no-store' }),
+          AppData.fetch('data/latest_quotes.json', { cache: 'no-store' }),
+          AppData.fetch('data/securities_search_index.json', { cache: 'no-store' }),
+          AppData.fetch('data/fundamentals_status.json', { cache: 'no-store' })
         ]);
         if (![marketRes, quotesRes, securitiesRes, fundamentalsRes].every(res => res.ok)) throw new Error('Snapshot file missing');
         const [market, quotes, securities, fundamentals] = await Promise.all([
           marketRes.json(), quotesRes.json(), securitiesRes.json(), fundamentalsRes.json()
         ]);
+        const fundamentalRows = (await (await AppData.fetch('data/fundamentals_snapshot.json')).json()).data || {};
+        document.getElementById('fieldCoverage').textContent = ['pe_ratio','shares_outstanding_cr','fifty_two_week_high','pb_ratio'].map(field => `${field.replaceAll('_',' ')}: ${Object.values(fundamentalRows).filter(row => row[field] != null).length.toLocaleString('en-IN')} listings`).join(' · ');
         document.getElementById('audit-sec-count').innerText = securities.length.toLocaleString();
         document.getElementById('audit-price-count').innerText = Object.keys(quotes).length.toLocaleString();
         document.getElementById('audit-an-count').innerText = Number(fundamentals.total_cached_count || 0).toLocaleString();

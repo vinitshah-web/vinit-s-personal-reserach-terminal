@@ -4,7 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Your Watchlist — NSE Equity Research Assistant</title>
-  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="assets/tailwind.css">
+  <link rel="stylesheet" href="assets/app.css">
+  <script src="assets/app.js"></script>
   <style>
     body { background-color: #fcfbf9; color: #1e293b; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Inter", sans-serif; }
     .card { background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; box-shadow: 0 1px 3px 0 rgba(0,0,0,0.03); }
@@ -77,7 +79,7 @@
     function getWatchlist() {
       const stored = localStorage.getItem('user_watchlist');
       if (stored) {
-        try { return JSON.parse(stored); } catch (e) {}
+        try { return AppData.watchlist(JSON.parse(stored)); } catch (e) {}
       }
       return [];
     }
@@ -96,12 +98,14 @@
         return;
       }
 
-      let quotes = {}, fundamentals = {};
+      let quotes = {}, fundamentals = {}, status = {};
       try {
-        const [quotesResponse, fundamentalsResponse] = await Promise.all([
-          fetch('data/latest_quotes.json', { cache: 'no-store' }),
-          fetch('data/fundamentals_snapshot.json', { cache: 'no-store' })
+        const [quotesResponse, fundamentalsResponse, statusResponse] = await Promise.all([
+          AppData.fetch('data/latest_quotes.json', { cache: 'no-store' }),
+          AppData.fetch('data/fundamentals_snapshot.json', { cache: 'no-store' }),
+          AppData.fetch('data/market_data_status.json', { cache: 'no-store' })
         ]);
+        if (statusResponse.ok) status = await statusResponse.json();
         if (quotesResponse.ok) quotes = await quotesResponse.json();
         if (fundamentalsResponse.ok) fundamentals = (await fundamentalsResponse.json()).data || {};
       } catch (error) {
@@ -110,17 +114,17 @@
 
       tbody.innerHTML = list.map(item => {
         const exchange = String(item.exchange || 'NSE').toUpperCase() === 'BSE' ? 'BSE' : 'NSE';
-        const quote = quotes[exchange === 'BSE' ? `BSE:${item.symbol}` : item.symbol];
+        const quote = AppData.quote(quotes, status, item.symbol, exchange);
         const fact = fundamentals[`${exchange}:${item.symbol}`];
         const close = quote && Number.isFinite(Number(quote.close))
           ? `₹${Number(quote.close).toLocaleString('en-IN', {minimumFractionDigits: 2, maximumFractionDigits: 2})}<div class="text-[10px] text-slate-400">${quote.trade_date}</div>`
           : '<span class="text-slate-400">Unavailable</span>';
         const pe = fact && Number(fact.pe_ratio) > 0 ? `${Number(fact.pe_ratio).toFixed(2)}x` : '<span class="text-slate-400">Unavailable</span>';
-        const pb = fact && Number(fact.pb_ratio) > 0 ? `${Number(fact.pb_ratio).toFixed(2)}x` : `<span class="text-slate-400" title="${fact ? fact.pb_ratio_reason || '' : ''}">Unavailable</span>`;
+        const pb = fact && Number(fact.pb_ratio) > 0 ? `${Number(fact.pb_ratio).toFixed(2)}x` : `<span class="text-slate-400" title="${AppData.escape(fact ? fact.pb_ratio_reason || '' : '')}">Unavailable</span>`;
         return `
         <tr class="hover:bg-slate-50">
           <td class="py-3 px-4 font-bold text-slate-900">${item.symbol}</td>
-          <td class="py-3 px-4 font-sans text-slate-700">${item.name}</td>
+          <td class="py-3 px-4 font-sans text-slate-700">${AppData.escape(item.name)}</td>
           <td class="py-3 px-4 font-sans"><span class="text-[11px] px-2 py-0.5 rounded badge-slate">${exchange}</span></td>
           <td class="py-3 px-4">${close}</td>
           <td class="py-3 px-4">${pe}</td>
@@ -155,17 +159,18 @@
     function importWatchlist(event) {
       const file = event.target.files[0];
       if (!file) return;
+      if (file.size > 1024 * 1024) { alert('Choose a JSON file under 1 MB.'); return; }
       const reader = new FileReader();
       reader.onload = function(e) {
         try {
-          const imported = JSON.parse(e.target.result);
+          const imported = AppData.watchlist(JSON.parse(e.target.result));
           if (Array.isArray(imported)) {
             localStorage.setItem('user_watchlist', JSON.stringify(imported));
             renderWatchlist();
             alert(`Imported ${imported.length} securities to your watchlist!`);
           }
         } catch (err) {
-          alert("Invalid JSON format.");
+          alert(err.message || "Invalid watchlist JSON.");
         }
       };
       reader.readAsText(file);

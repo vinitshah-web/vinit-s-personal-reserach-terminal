@@ -1,4 +1,4 @@
-name: Verified fundamentals snapshot
+name: Daily fundamentals and company statements
 
 on:
   push:
@@ -7,11 +7,13 @@ on:
       - ".github/workflows/fundamentals-snapshot.yml"
       - "scripts/refresh_fundamentals.py"
       - "src/ingestion/fundamentals_snapshot.py"
+      - "scripts/refresh_company_profiles.py"
       - "requirements.txt"
       - "data/securities_search_index.json"
   schedule:
-    # Saturday 21:30 IST. Fundamentals are event-driven, not daily market facts.
-    - cron: "0 16 * * 6"
+    # 20:15 IST after market close; 22:15 IST retry, weekdays.
+    - cron: "45 14 * * 1-5"
+    - cron: "45 16 * * 1-5"
   workflow_dispatch:
 
 permissions:
@@ -24,6 +26,7 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 240
     steps:
       - uses: actions/checkout@v4
 
@@ -52,10 +55,19 @@ jobs:
             echo "success=true" >> "$GITHUB_OUTPUT"
           fi
 
+      - name: Refresh all company profiles and annual statements
+        id: company_refresh
+        continue-on-error: true
+        run: python scripts/refresh_company_profiles.py --refresh-all --limit 10000 --maximum-seconds 10800 --status-output data/company_profiles_status.json
+
+      - name: Validate retained snapshot identities and prices
+        run: python scripts/audit_snapshots.py
+
       - name: Commit provider result
         if: steps.fundamentals_refresh.outcome == 'success'
         run: |
-          git add data/fundamentals_status.json
+          git add data/fundamentals_status.json data/dossier_cache
+          if [ -f data/company_profiles_status.json ]; then git add data/company_profiles_status.json; fi
           if [ -f data/fundamentals_snapshot.json ]; then git add data/fundamentals_snapshot.json; fi
           if git diff --cached --quiet; then exit 0; fi
           git config user.name "github-actions[bot]"
@@ -64,6 +76,6 @@ jobs:
           git pull --rebase origin main
           git push
 
-      - name: Enforce successful fundamentals refresh
-        if: always() && steps.fundamentals_refresh.outputs.success != 'true'
+      - name: Enforce successful daily refresh
+        if: always() && (steps.fundamentals_refresh.outputs.success != 'true' || steps.company_refresh.outcome == 'failure')
         run: exit 1

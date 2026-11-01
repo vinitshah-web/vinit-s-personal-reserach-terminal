@@ -53,7 +53,7 @@ jobs:
           if [ "$refresh_exit" -ne 0 ]; then
             annotation=$(printf '%s' "$refresh_output" | tr '\n' ' ' | sed 's/%/%25/g; s/\r/%0D/g')
             echo "::error title=Market data refresh failed::${annotation}"
-            printf '%s' "$refresh_output" | python -c "import json,sys; from datetime import datetime,timezone; from pathlib import Path; Path('data/market_data_status.json').write_text(json.dumps({'status':'FAILED','attempted_at':datetime.now(timezone.utc).isoformat(),'error':sys.stdin.read()}, indent=2), encoding='utf-8')"
+            printf '%s' "$refresh_output" | python -c "import json,sys; from datetime import datetime,timezone; from pathlib import Path; Path('data/market_data_refresh_status.json').write_text(json.dumps({'status':'FAILED','attempted_at':datetime.now(timezone.utc).isoformat(),'error':sys.stdin.read()}, indent=2), encoding='utf-8')"
             echo "success=false" >> "$GITHUB_OUTPUT"
           else
             echo "success=true" >> "$GITHUB_OUTPUT"
@@ -63,6 +63,7 @@ jobs:
         if: steps.market_refresh.outcome == 'success'
         run: |
           git add data/market_data_status.json data/securities_search_index.json
+          if [ -f data/market_data_refresh_status.json ]; then git add data/market_data_refresh_status.json; fi
           if [ -f data/latest_quotes.json ]; then git add data/latest_quotes.json; fi
           if git diff --cached --quiet; then
             echo "Provider trading date is already published."
@@ -72,6 +73,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           snapshot_label=$(python -c "import json; d=json.load(open('data/market_data_status.json')); print(d.get('trading_date') or 'failed-attempt')")
           git commit -m "data: refresh NSE EOD snapshot for ${snapshot_label}"
+          git pull --rebase origin main
           git push
 
       - name: Enforce successful market refresh

@@ -8,6 +8,7 @@ import json
 from fastapi import FastAPI, HTTPException, Depends
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import RedirectResponse, Response, FileResponse
+from fastapi.middleware.gzip import GZipMiddleware
 from pydantic import BaseModel, Field
 from sqlalchemy.orm import Session
 
@@ -66,6 +67,8 @@ app = FastAPI(
 )
 
 
+app.add_middleware(GZipMiddleware, minimum_size=1000)
+
 # Mount static directories
 data_dir = Path("data")
 if data_dir.exists():
@@ -104,6 +107,34 @@ def get_reports_page():
 def get_overview_page():
     return FileResponse("index.html")
 
+
+
+@app.get("/{page}.html", include_in_schema=False)
+def get_application_page(page: str):
+    if page not in {"stock_intelligence", "valuation_lab", "quant_lab", "data_quality"}:
+        raise HTTPException(status_code=404, detail="Page not found")
+    return FileResponse(f"{page}.html")
+
+
+if Path("assets").exists():
+    app.mount("/assets", StaticFiles(directory="assets"), name="assets")
+
+
+def merge_available_fundamentals(dossier, batch):
+    """Merge field-by-field without erasing a usable cached value with null."""
+    result = dict(dossier)
+    if batch:
+        for field in ("company_name", "shares_outstanding_cr", "pe_ratio", "pe_ratio_basis",
+                      "fifty_two_week_high", "fifty_two_week_low", "dividend_yield_pct",
+                      "business_summary", "sector", "industry"):
+            if batch.get(field) is not None:
+                result[field] = batch[field]
+        # Undated P/B is deliberately suppressed even when an older cache has one.
+        result["pb_ratio"] = batch.get("pb_ratio")
+        result["pb_ratio_reason"] = batch.get("pb_ratio_reason")
+        result["fundamentals_source"] = batch.get("source")
+        result["fundamentals_retrieved_at"] = batch.get("retrieved_at")
+    return result
 
 
 def get_db():
@@ -683,6 +714,7 @@ def get_company_research(symbol: str, db: Session = Depends(get_db), exchange: s
             if (s.get("exchange") or "NSE") == normalized_exchange and (
                 s["ticker"] == clean_sym or s["isin"] == clean_sym
             ):
+                clean_sym = s["ticker"]
                 company_name = s["name"]
                 isin = s["isin"]
                 sector = s.get("sector") or "Unavailable"
@@ -693,8 +725,6 @@ def get_company_research(symbol: str, db: Session = Depends(get_db), exchange: s
     quote = get_snapshot_quote(normalized_exchange, clean_sym, isin)
     if not quote and normalized_exchange == "NSE":
         quote = get_local_quote(db, clean_sym, isin)
-    if not quote and normalized_exchange == "NSE":
-        quote = TejHQAdapter.get_latest_quote(clean_sym, isin=isin)
 
     if not quote:
         quote = {
@@ -710,9 +740,13 @@ def get_company_research(symbol: str, db: Session = Depends(get_db), exchange: s
         }
 
     # 3. Financial Statements & Profile
+    if normalized_exchange == "BSE":
+        sec = db.query(Security).filter(Security.isin == isin).first()
     same_nse_security = bool(sec and sec.isin == isin)
+    if same_nse_security:
+        is_fin = sec.is_financial
     dossier = (
-        FinancialsAdapter.get_company_dossier(clean_sym)
+        FinancialsAdapter.get_company_dossier(sec.ticker_current if same_nse_security else clean_sym)
         if normalized_exchange == "NSE" or same_nse_security
         else {
             "company_name": company_name,
@@ -726,15 +760,7 @@ def get_company_research(symbol: str, db: Session = Depends(get_db), exchange: s
         }
     )
     batch_fundamentals = FUNDAMENTALS_SNAPSHOT.get(f"{normalized_exchange}:{clean_sym}")
-    if batch_fundamentals:
-        for field in (
-            "company_name", "shares_outstanding_cr", "pe_ratio",
-            "pe_ratio_basis", "pb_ratio", "pb_ratio_reason",
-            "fifty_two_week_high", "fifty_two_week_low",
-        ):
-            dossier[field] = batch_fundamentals.get(field)
-        dossier["fundamentals_source"] = batch_fundamentals.get("source")
-        dossier["fundamentals_retrieved_at"] = batch_fundamentals.get("retrieved_at")
+    dossier = merge_available_fundamentals(dossier, batch_fundamentals)
     if sec and sec.company_name and (normalized_exchange == "NSE" or same_nse_security):
         dossier["company_name"] = sec.company_name
     if sec and sec.sector and (normalized_exchange == "NSE" or same_nse_security):
@@ -841,7 +867,7 @@ def get_company_peers(symbol: str, db: Session = Depends(get_db)):
         "POLYCAB": ["POLYCAB", "HAVELLS", "KEI", "RRKABEL", "FINCABLES"]
     }
 
-    target_d = FinancialsAdapter.get_company_dossier(clean_sym)
+    target_d = dict(FinancialsAdapter.get_company_dossier(clean_sym))
     sec = db.query(Security).filter((Security.ticker_current == clean_sym) | (Security.isin == clean_sym)).first()
     sec_sector = (sec.sector if sec and sec.sector and sec.sector != "Diversified" else None) or target_d.get("sector") or "Diversified"
 
@@ -865,12 +891,11 @@ def get_company_peers(symbol: str, db: Session = Depends(get_db)):
         peer_security = db.query(Security).filter(
             Security.ticker_current == peer_sym
         ).first()
-        q = get_local_quote(
-            db, peer_sym, peer_security.isin if peer_security else None
+        peer_isin = peer_security.isin if peer_security else None
+        q = get_snapshot_quote("NSE", peer_sym, peer_isin) or get_local_quote(
+            db, peer_sym, peer_isin
         )
-        if not q:
-            q = TejHQAdapter.get_latest_quote(peer_sym)
-        d = FinancialsAdapter.get_company_dossier(peer_sym)
+        d = dict(FinancialsAdapter.get_company_dossier(peer_sym))
         batch = FUNDAMENTALS_SNAPSHOT.get(f"NSE:{peer_sym}")
         if batch:
             for field in (
@@ -891,6 +916,10 @@ def get_company_peers(symbol: str, db: Session = Depends(get_db)):
 
         peer_cards.append({
             "symbol": peer_sym,
+            "exchange": "NSE",
+            "name": d.get("company_name", peer_sym),
+            "sector": d.get("sector") or (peer_security.sector if peer_security else None),
+            "quote": q,
             "company_name": d.get("company_name", peer_sym),
             "close": c_price,
             "quote_date": q.get("trade_date") if q else "Unavailable",
@@ -908,7 +937,7 @@ def get_company_peers(symbol: str, db: Session = Depends(get_db)):
     median_mcap = round(statistics.median(mcap_list), 1) if mcap_list else None
 
     # Target comparison
-    target_d = FinancialsAdapter.get_company_dossier(clean_sym)
+    target_d = dict(FinancialsAdapter.get_company_dossier(clean_sym))
     target_batch = FUNDAMENTALS_SNAPSHOT.get(f"NSE:{clean_sym}")
     if target_batch:
         target_d["pe_ratio"] = target_batch.get("pe_ratio")

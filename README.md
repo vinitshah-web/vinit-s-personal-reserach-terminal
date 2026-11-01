@@ -90,3 +90,69 @@ The suite includes offline acceptance tests and atomic daily-refresh tests. The 
 ## 🏛️ Indian Statutory Taxation & Currency Framework
 - **INR-First:** All prices in ₹, company values in ₹ Crores, and readable Indian numbering (`₹16,10,364 Cr`, `₹1.25 Lakh`).
 - **Direct Tax Code (2025):** STCG 20% (Sec 196), LTCG 12.5% (Sec 198) with ₹1.25L exemption, intra-head loss set-off rules (Sec 108), and dividend withholding rules (Sec 393).
+
+## Linux/cloud development and website validation
+
+From the repository root with Python 3.12:
+
+```bash
+python3 -m venv .venv
+.venv/bin/python -m pip install -r requirements.txt
+.venv/bin/python -m alembic upgrade head
+.venv/bin/python scripts/ingest_real_archives.py # first database initialization only
+.venv/bin/python -m uvicorn src.api.main:app --host 127.0.0.1 --port 8000
+```
+
+Run `.venv/bin/python -m pytest tests/ -q` and
+`.venv/bin/python scripts/audit_snapshots.py` to check functionality and field-level
+coverage. The screener, research, watchlist, reports, calculator and data-quality
+pages also work on static hosting. SQLite initialization is unnecessary for static
+hosting. The former Stock Intelligence prototype opens the real research page.
+
+CSS is committed under `assets/`; browsing no longer depends on the Tailwind CDN.
+After changing utility classes, rebuild with:
+
+```bash
+npm exec --yes --package=tailwindcss@3.4.17 -- tailwindcss --content './*.html,./assets/*.js' -o assets/tailwind.css --minify
+```
+
+For real-browser checks, install the optional `playwright` Python package and use
+system Chromium. Start the API and a static server, then run
+`python scripts/browser_smoke.py --api-url <API base URL> --static-url <static base URL>`.
+The check exercises desktop/mobile pages, saved watchlists, reports, comparison
+prices, screening and invalid calculator inputs in both modes.
+
+Interactive research uses retained snapshots and caches; it does not wait for
+Yahoo to scrape missing statements. To intentionally enrich missing company
+profiles and statements with public secondary-source extracts, run:
+
+```bash
+.venv/bin/python scripts/refresh_company_profiles.py --limit 25
+# Or refresh explicitly selected issuers:
+.venv/bin/python scripts/refresh_company_profiles.py --symbols RELIANCE TCS --limit 2
+```
+
+Live enrichment requires `query1.finance.yahoo.com`, `query2.finance.yahoo.com`
+and `fc.yahoo.com`; market refresh needs `api.tejhq.dev`. No paid key is required.
+Provider denial or absent fields do not establish that financial facts are zero.
+Enrichment keeps existing caches when the provider returns no profile/statements.
+Unlevered FCFF is distinct from CFO less capex, and P/B remains blank until dated
+balance-sheet inputs support it. Existing archives and secondary-source extracts
+are not independently audited company filings.
+
+### Automatic after-market updates (IST)
+
+GitHub Actions checks NSE/BSE EOD prices on weekdays at **20:00 and 22:00 IST**.
+Fundamentals and all NSE company profiles/statements are checked at **20:15 and
+22:15 IST**. Daily refresh means checking for new provider data; financial
+statements change when the provider publishes them. Missing facts remain blank.
+Profile collection is paced and has a three-hour budget; an incomplete attempt
+is recorded and fails the job while retaining prior records. Both workflows can
+also be run manually from Actions. GitHub can delay scheduled jobs.
+
+The Pages workflow publishes after website pushes and successful data workflows,
+including updates committed by the GitHub Actions bot. In repository Settings →
+Pages, select **GitHub Actions** as the build source if it is not already selected.
+Actions requires repository write permission for data commits. The job logs and
+`data/company_profiles_status.json` expose completed attempts and coverage gaps;
+a configured schedule does not prove that a provider refresh or deployment ran.

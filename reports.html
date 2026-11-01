@@ -4,8 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Research Tear-Sheets — NSE Equity Research Assistant</title>
-  <script src="https://cdn.tailwindcss.com"></script>
-  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <link rel="stylesheet" href="assets/tailwind.css">
+  <link rel="stylesheet" href="assets/app.css">
+  <script src="assets/app.js"></script>
   <style>
     body { background-color: #fcfbf9; color: #1e293b; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Inter", sans-serif; }
     .card { background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; box-shadow: 0 1px 3px 0 rgba(0,0,0,0.03); }
@@ -169,48 +170,33 @@
       const contentEl = document.getElementById('reportContent');
       contentEl.innerHTML = '<div class="text-center py-12 text-slate-500">Fetching research tear-sheet...</div>';
 
-      // 1. Try local API
-      try {
-        if (currentExchange !== 'NSE') throw new Error('Static exchange report');
-        const res = await fetch(`/api/v1/reports/${encodeURIComponent(currentTicker)}`);
-        if (res.ok) {
-          const data = await res.json();
-          contentEl.innerHTML = window.marked ? marked.parse(data.content_markdown) : data.content_markdown;
-          return;
-        }
-      } catch (e) {}
-
-      // 2. Static hosting fallback (e.g. GitHub Pages)
-      const relPaths = currentExchange === 'NSE' ? [
-        `reports/${encodeURIComponent(currentTicker)}_TEARSHEET.md`,
-        `../../reports/${encodeURIComponent(currentTicker)}_TEARSHEET.md`
-      ] : [];
-      for (const relPath of relPaths) {
-        try {
-          const staticRes = await fetch(relPath);
-          if (staticRes.ok) {
-            const md = await staticRes.text();
-            contentEl.innerHTML = window.marked ? marked.parse(md) : md;
-            return;
-          }
-        } catch (err) {}
-      }
-
       await renderSnapshotReport(contentEl, st);
     }
 
     async function renderSnapshotReport(contentEl, security) {
       try {
         const [quotesRes, fundamentalsRes, statusRes] = await Promise.all([
-          fetch('data/latest_quotes.json', {cache: 'no-store'}),
-          fetch('data/fundamentals_snapshot.json', {cache: 'no-store'}),
-          fetch('data/market_data_status.json', {cache: 'no-store'})
+          AppData.fetch('data/latest_quotes.json', {cache: 'no-store'}),
+          AppData.fetch('data/fundamentals_snapshot.json', {cache: 'no-store'}),
+          AppData.fetch('data/market_data_status.json', {cache: 'no-store'})
         ]);
         if (![quotesRes, fundamentalsRes, statusRes].every(res => res.ok)) throw new Error('snapshot missing');
         const [quotes, fundamentalsPayload, status] = await Promise.all([quotesRes.json(), fundamentalsRes.json(), statusRes.json()]);
-        const quote = quotes[currentExchange === 'BSE' ? `BSE:${currentTicker}` : currentTicker];
+        const quote = AppData.quote(quotes, status, currentTicker, currentExchange, security?.isin);
         const fact = (fundamentalsPayload.data || {})[`${currentExchange}:${currentTicker}`];
-        const name = (security && security.name) || (fact && fact.company_name) || currentTicker;
+        let dossier = null;
+        try {
+          const indexRes = await AppData.fetch('data/securities_search_index.json');
+          const index = await indexRes.json();
+          const issuer = index.find(row => (row.exchange || 'NSE') === 'NSE' && row.isin && row.isin === security?.isin);
+          if (issuer) {
+            const response = await AppData.fetch(`data/dossier_cache/${encodeURIComponent(issuer.ticker)}.json`);
+            if (response.ok) dossier = await response.json();
+          }
+        } catch (error) {}
+        const statements = (dossier?.financial_statements || []);
+        const statementRows = statements.map(row => `<tr><th>${AppData.escape(row.period)}</th><td>${row.revenue_cr ?? '—'}</td><td>${row.net_income_cr ?? '—'}</td><td>${row.operating_cash_flow_cr ?? '—'}</td><td>${row.capex_cr ?? '—'}</td><td>${row.total_debt_cr ?? '—'}</td></tr>`).join('');
+        const name = AppData.escape((security && security.name) || (fact && fact.company_name) || currentTicker);
         const unavailable = '<span class="text-slate-400">Unavailable from current sourced data</span>';
         contentEl.innerHTML = `
           <h1>${name} (${currentExchange}:${currentTicker})</h1>
@@ -227,9 +213,11 @@
             <tr><th>52-week range</th><td>${fact && fact.fifty_two_week_low && fact.fifty_two_week_high ? `₹${fact.fifty_two_week_low} – ₹${fact.fifty_two_week_high}` : unavailable}</td></tr>
           </tbody></table>
           <h2>Company overview</h2>
-          <p>${fact && fact.business_summary ? fact.business_summary : (fact && fact.business_summary_reason) || 'A verified company overview is unavailable.'}</p>
+          <p>${AppData.escape(dossier?.business_summary || fact?.business_summary || fact?.business_summary_reason || 'A sourced company overview is unavailable.')}</p>
+          <h2>Available annual statements (₹ Cr)</h2>
+          ${statements.length ? `<table><thead><tr><th>Period</th><th>Revenue</th><th>Net income</th><th>CFO</th><th>Capex</th><th>Debt</th></tr></thead><tbody>${statementRows}</tbody></table><p>Statement source: ${AppData.escape(dossier?.source || 'Cached secondary-source extraction')} · retrieved ${AppData.escape(dossier?.retrieval_time || 'date unavailable')}. These are provider extracts, not independently audited filings.</p>` : '<p>No dated statements have been ingested for this issuer. Available price and ratio data remain above.</p>'}
           <h2>Sources and limits</h2>
-          <p>Price: ${quote ? quote.source : 'unavailable'}. Fundamentals: ${fact ? `${fact.source} (${fact.source_class}), retrieved ${fact.retrieved_at}` : 'unavailable'}. Financial statements and P/B require dated filing data and are not inferred.</p>
+          <p>Price: ${quote ? quote.source : 'unavailable'}. Fundamentals: ${fact ? `${fact.source} (${fact.source_class}), retrieved ${fact.retrieved_at}` : 'unavailable'}. Missing financial statements and P/B require dated source inputs and are not inferred.</p>
           <p><a href="research.html?ticker=${encodeURIComponent(currentTicker)}&exchange=${currentExchange}">Open the full research view →</a></p>`;
       } catch (error) {
         contentEl.innerHTML = '<div class="p-8 text-center text-slate-500">Verified snapshot files could not be loaded. No report was generated.</div>';
@@ -239,10 +227,9 @@
     async function downloadActivePDF() {
       // 1. Try local FastAPI PDF endpoint
       try {
-        if (currentExchange !== 'NSE') throw new Error('Static print-to-PDF');
-        const testRes = await fetch(`/api/v1/reports/${encodeURIComponent(currentTicker)}/pdf`, { method: 'HEAD' });
+        const testRes = await fetch('/health', { signal: AbortSignal.timeout(3000) });
         if (testRes.ok) {
-          window.location.href = `/api/v1/reports/${encodeURIComponent(currentTicker)}/pdf`;
+          window.location.href = `/api/v1/reports/${encodeURIComponent(currentTicker)}/pdf?exchange=${currentExchange}`;
           return;
         }
       } catch (e) {}
@@ -253,7 +240,7 @@
 
     window.addEventListener('DOMContentLoaded', async () => {
       try {
-        const response = await fetch('data/securities_search_index.json', {cache: 'no-store'});
+        const response = await AppData.fetch('data/securities_search_index.json', {cache: 'no-store'});
         if (response.ok) {
           const index = await response.json();
           STOCKS = index.map(item => ({

@@ -4,7 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Vinit's Self-Made Research Terminal — Valuation Lab</title>
-  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="assets/tailwind.css">
+  <link rel="stylesheet" href="assets/app.css">
+  <script src="assets/app.js"></script>
   <style>
     :root {
       --bg: #090d16;
@@ -45,7 +47,7 @@
   </style>
 </head>
 <body class="min-h-screen flex flex-col">
-  <div class="watermark">CODE TEST — SYNTHETIC DATA</div>
+  <div class="watermark">SCENARIO CALCULATOR — USER ASSUMPTIONS</div>
 
   <!-- Terminal Top Navigation -->
   <header class="border-b border-[var(--border)] px-6 py-3 flex items-center justify-between card">
@@ -81,6 +83,8 @@
       </div>
     </div>
 
+    <p role="status" id="modelError" class="text-amber-600 text-sm" aria-live="polite"></p>
+    <p class="text-xs text-[var(--text-muted)]">Example inputs are editable assumptions, not company facts. Enter reported unlevered FCFF for corporate valuation; CFO less capex alone is insufficient.</p>
     <!-- Corporate FCFF Model Section -->
     <div id="corporateSection" class="grid grid-cols-1 lg:grid-cols-3 gap-6">
       <!-- Input Controls -->
@@ -105,7 +109,7 @@
         <div>
           <label class="text-xs text-[var(--text-muted)] block mb-1">Terminal Growth (%): <span id="termVal" class="text-white font-mono font-bold">4.0%</span></label>
           <input type="range" id="termInput" min="1" max="5.5" step="0.1" value="4.0" class="w-full accent-sky-500" oninput="recalculateDCF()">
-          <span class="text-[10px] text-amber-400 block mt-0.5">Statutory Cap: 5.5% (Indian Long-Term Real GDP + Inflation target)</span>
+          <span class="text-[10px] text-amber-400 block mt-0.5">Model constraint: terminal growth must remain below the discount rate.</span>
         </div>
 
         <div class="pt-2 border-t border-[var(--border)]">
@@ -269,6 +273,11 @@
       const wacc = parseFloat(document.getElementById('waccInput').value) / 100.0;
       const termG = parseFloat(document.getElementById('termInput').value) / 100.0;
 
+      if (![targetEV,fcff0,wacc,termG].every(Number.isFinite) || targetEV <= 0 || fcff0 <= 0 || wacc <= termG) {
+        document.getElementById('reverseResult').textContent = 'Enter positive EV and FCFF, with WACC above terminal growth.'; return;
+      }
+      const valueAt = growth => { let cash=fcff0,pv=0; for(let t=1;t<=5;t++){cash*=1+growth;pv+=cash/(1+wacc)**t;} return pv+cash*(1+termG)/(wacc-termG)/(1+wacc)**5; };
+      if (targetEV < valueAt(-0.10) || targetEV > valueAt(0.50)) { document.getElementById('reverseResult').textContent='Target EV is outside the solver range (−10% to 50% growth).'; return; }
       // Numerical bisection
       let low = -0.10, high = 0.50;
       for (let i = 0; i < 60; i++) {
@@ -297,6 +306,12 @@
       const g = parseFloat(document.getElementById('bankGrowth').value) / 100.0;
       const ke = parseFloat(document.getElementById('bankKe').value) / 100.0;
 
+      if (![ni,roe,g,ke].every(Number.isFinite) || ni <= 0 || roe <= 0 || g < 0 || g >= ke || g > roe) {
+        document.getElementById('modelError').textContent = 'Use positive income and ROE, with growth below cost of equity and no higher than ROE.';
+        for (const id of ['bankRetentionOut','bankPayoutOut','bankD1Out','bankFairValOut']) document.getElementById(id).textContent = '—';
+        return;
+      }
+      document.getElementById('modelError').textContent = '';
       const retention = g / roe;
       const payout = 1.0 - retention;
       const d1 = ni * (1.0 + g) * payout;
@@ -310,6 +325,7 @@
 
     // Initialize
     recalculateDCF();
+    recalcBanking();
   </script>
 </body>
 </html>

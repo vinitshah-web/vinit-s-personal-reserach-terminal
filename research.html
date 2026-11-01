@@ -4,7 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Company Research — NSE Equity Research Assistant</title>
-  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="assets/tailwind.css">
+  <link rel="stylesheet" href="assets/app.css">
+  <script src="assets/app.js"></script>
   <style>
     body { background-color: #fcfbf9; color: #1e293b; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Inter", sans-serif; }
     .card { background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; box-shadow: 0 1px 3px 0 rgba(0,0,0,0.03); }
@@ -62,7 +64,7 @@
     <div id="loadingState" class="card p-12 text-center space-y-3">
       <div class="w-8 h-8 border-2 border-emerald-600 border-t-transparent rounded-full animate-spin mx-auto"></div>
       <div class="text-sm font-semibold text-slate-800">Retrieving company filings & exchange quotes...</div>
-      <div class="text-xs text-slate-500">Checking verified EOD bhavcopy & official corporate disclosures</div>
+      <div class="text-xs text-slate-500">Loading dated EOD prices and available secondary-source company data</div>
     </div>
 
     <!-- Loaded Container -->
@@ -286,6 +288,7 @@
         <b>Honest Data Transparency:</b> Closing prices come from the dated provider named beside each quote. Fundamentals show their separate source and retrieval time. Missing filings and metrics remain unavailable.
       </div>
     </div>
+  <a href="valuation_lab.html" class="inline-block px-4 py-2 rounded bg-emerald-600 text-white text-sm no-print">Open valuation calculator →</a>
   </main>
 
   <!-- Research Page Script -->
@@ -314,7 +317,7 @@
 
     const urlParams = new URLSearchParams(window.location.search);
     let rawTicker = (urlParams.get('ticker') || 'RELIANCE').trim().toUpperCase();
-    const activeTicker = SYMBOL_ALIASES[rawTicker] || rawTicker;
+    const activeTicker = /^[A-Z0-9&_.-]{1,40}$/.test(SYMBOL_ALIASES[rawTicker] || rawTicker) ? (SYMBOL_ALIASES[rawTicker] || rawTicker) : 'UNKNOWN';
     const activeExchange = (urlParams.get('exchange') || 'NSE').trim().toUpperCase() === 'BSE' ? 'BSE' : 'NSE';
     let currentDossier = null;
 
@@ -326,7 +329,7 @@
 
       // 1. Try local FastAPI endpoint first if available on same host
       try {
-        const res = await fetch(`/api/v1/research/${encodeURIComponent(activeTicker)}?exchange=${encodeURIComponent(activeExchange)}`);
+        const res = await fetch(`/api/v1/research/${encodeURIComponent(activeTicker)}?exchange=${encodeURIComponent(activeExchange)}`, {signal: AbortSignal.timeout(5000)});
         if (res.ok) {
           currentDossier = await res.json();
           renderDossier(currentDossier);
@@ -340,11 +343,11 @@
 
       // 2. Static / GitHub Pages Mode
       try {
-        let meta = { symbol: activeTicker, name: activeTicker, isin: 'INE...' + activeTicker, sector: 'Diversified' };
+        let meta = { symbol: activeTicker, name: activeTicker, isin: null, sector: 'Diversified' };
         
         // Search master lookup
         try {
-          const idxRes = await fetch('data/securities_search_index.json');
+          const idxRes = await AppData.fetch('data/securities_search_index.json');
           if (idxRes.ok) {
             const index = await idxRes.json();
             const found = index.find(x =>
@@ -367,8 +370,8 @@
         let quote = null;
         try {
           const [quotesRes, statusRes] = await Promise.all([
-            fetch('data/latest_quotes.json', { cache: 'no-store' }),
-            fetch('data/market_data_status.json', { cache: 'no-store' })
+            AppData.fetch('data/latest_quotes.json', { cache: 'no-store' }),
+            AppData.fetch('data/market_data_status.json', { cache: 'no-store' })
           ]);
           if (quotesRes.ok && statusRes.ok) {
             const quotes = await quotesRes.json();
@@ -376,7 +379,7 @@
             const quoteKey = activeExchange === 'NSE' ? activeTicker : `${activeExchange}:${activeTicker}`;
             const exchangeStatus = status.exchanges ? status.exchanges[activeExchange] : status;
             const saved = quotes[quoteKey];
-            if (saved && exchangeStatus && saved.trade_date === exchangeStatus.trading_date) {
+            if (AppData.quote(quotes, status, activeTicker, activeExchange, meta.isin)) {
               quote = {
                 ...saved,
                 freshness: 'LATEST_VERIFIED_EOD'
@@ -388,8 +391,8 @@
         if (!quote) {
           try {
             const [statusRes, tejRes] = await Promise.all([
-              fetch('https://api.tejhq.dev/v1/status'),
-              fetch(`https://api.tejhq.dev/v1/ohlcv/${activeExchange}/${encodeURIComponent(activeTicker)}`)
+              fetch('https://api.tejhq.dev/v1/status', {signal: AbortSignal.timeout(5000)}),
+              fetch(`https://api.tejhq.dev/v1/ohlcv/${activeExchange}/${encodeURIComponent(activeTicker)}`, {signal: AbortSignal.timeout(5000)})
             ]);
             if (statusRes.ok && tejRes.ok) {
               const status = await statusRes.json();
@@ -417,7 +420,7 @@
         // Broad-coverage batch fundamentals with explicit source metadata.
         let fundamental = null;
         try {
-          const fundamentalsRes = await fetch('data/fundamentals_snapshot.json', { cache: 'no-store' });
+          const fundamentalsRes = await AppData.fetch('data/fundamentals_snapshot.json', { cache: 'no-store' });
           if (fundamentalsRes.ok) {
             const fundamentals = await fundamentalsRes.json();
             fundamental = fundamentals.data ? fundamentals.data[`${activeExchange}:${activeTicker}`] : null;
@@ -427,8 +430,15 @@
         // Detailed statements exist only where extraction previously succeeded.
         let dossier = null;
         try {
-          if (activeExchange !== 'NSE') throw new Error('No BSE detailed statement cache');
-          const cacheRes = await fetch(`data/dossier_cache/${encodeURIComponent(activeTicker)}.json`);
+          // Company facts can cross listings only through an exact ISIN match.
+          if (activeExchange === 'BSE') {
+            const response = await AppData.fetch('data/securities_search_index.json');
+            const index = await response.json();
+            const match = index.find(row => (row.exchange || 'NSE') === 'NSE' && row.isin && row.isin === meta.isin);
+            if (!match) throw new Error('No matching NSE issuer');
+            meta.dossierTicker = match.ticker;
+          }
+          const cacheRes = await fetch(`data/dossier_cache/${encodeURIComponent(meta.dossierTicker || activeTicker)}.json`);
           if (cacheRes.ok) {
             dossier = await cacheRes.json();
           }
@@ -440,8 +450,8 @@
 
         if (hasStatements && quote && quote.close) {
           const latestFin = dossier.financial_statements[0];
-          const fcff = latestFin.fcff_cr != null ? latestFin.fcff_cr : 0;
-          if (fcff <= 0) {
+          const fcff = latestFin.fcff_cr;
+          if (fcff != null && fcff <= 0) {
             valuation = {
               can_calculate: false,
               reason: `Negative Free Cash Flow to Firm (FCFF = ₹${fcff.toLocaleString('en-IN')} Cr). Traditional DCF cannot be applied without speculative projections.`
@@ -449,34 +459,34 @@
           } else {
             valuation = {
               can_calculate: false,
-              reason: 'Auditable DCF assumptions are available in local API mode. Static mode does not manufacture target prices from the market price.'
+              reason: 'Open the valuation calculator to enter your own reported FCFF and assumptions. CFO less capex is not automatically treated as unlevered FCFF.'
             };
           }
         }
 
-        const shares = fundamental ? fundamental.shares_outstanding_cr : (dossier ? dossier.shares_outstanding_cr : null);
+        const shares = fundamental?.shares_outstanding_cr ?? dossier?.shares_outstanding_cr ?? null;
         const currentMarketCap = quote && quote.close && shares
           ? Number((quote.close * shares).toFixed(2))
           : null;
 
         currentDossier = {
           symbol: activeTicker,
-          company_name: fundamental ? fundamental.company_name : (dossier ? dossier.company_name : meta.name),
+          company_name: fundamental?.company_name || dossier?.company_name || meta.name,
           isin: meta.isin,
           exchange: activeExchange,
-          sector: dossier ? dossier.sector : meta.sector,
-          industry: dossier ? dossier.industry : null,
+          sector: dossier?.sector || fundamental?.sector || meta.sector,
+          industry: dossier?.industry || fundamental?.industry || null,
           market_cap_cr: currentMarketCap,
           market_cap_basis: currentMarketCap ? `Latest dated ${activeExchange} close × provider-reported shares` : null,
           pe_ratio: fundamental ? fundamental.pe_ratio : null,
           pe_ratio_basis: fundamental ? fundamental.pe_ratio_basis : null,
           pb_ratio: fundamental ? fundamental.pb_ratio : null,
           pb_ratio_reason: fundamental ? fundamental.pb_ratio_reason : 'Dated balance-sheet inputs are unavailable.',
-          fifty_two_week_high: fundamental ? fundamental.fifty_two_week_high : null,
-          fifty_two_week_low: fundamental ? fundamental.fifty_two_week_low : null,
+          fifty_two_week_high: fundamental?.fifty_two_week_high ?? dossier?.fifty_two_week_high ?? null,
+          fifty_two_week_low: fundamental?.fifty_two_week_low ?? dossier?.fifty_two_week_low ?? null,
           quote: quote,
           has_statements: hasStatements,
-          business_summary: dossier ? dossier.business_summary : null,
+          business_summary: dossier?.business_summary || fundamental?.business_summary || null,
           business_summary_reason: dossier ? null : 'Company overview unavailable from the currently verified sources.',
           fundamentals_source: fundamental ? fundamental.source : null,
           fundamentals_retrieved_at: fundamental ? fundamental.retrieved_at : null,
@@ -554,7 +564,7 @@
           <tr>
             <td class="p-6 text-center text-slate-500 font-sans text-xs">
               Dated financial statements have not yet been ingested for <b>${d.symbol}</b>.
-              Exchange master and price quote are verified above.
+              Available price and identity sources are shown above.
             </td>
           </tr>
         `;
@@ -570,11 +580,11 @@
 
         tbody.innerHTML = `
           ${renderRow('Revenue', 'revenue_cr')}
-          ${renderRow('EBITDA / Operating Income', 'ebitda_cr')}
+          ${renderRow('EBITDA (provider reported)', 'ebitda_cr')}
           ${renderRow('Net Income (PAT)', 'net_income_cr')}
           ${renderRow('Operating Cash Flow (CFO)', 'operating_cash_flow_cr')}
           ${renderRow('Capital Expenditure (Capex)', 'capex_cr')}
-          ${renderRow('Free Cash Flow (FCFF)', 'fcff_cr')}
+          ${renderRow('CFO less capex (not unlevered FCFF)', 'fcff_cr')}
           ${renderRow('Total Debt', 'total_debt_cr')}
           ${renderRow('Cash & Equivalents', 'cash_cr')}
         `;
@@ -616,14 +626,16 @@
     }
 
     function checkWatchlistStatus() {
-      const list = JSON.parse(localStorage.getItem('user_watchlist') || '[]');
+      let list = [];
+      try { list = AppData.watchlist(JSON.parse(localStorage.getItem('user_watchlist') || '[]')); } catch (error) {}
       const inList = list.some(x => x.symbol === activeTicker && String(x.exchange || 'NSE').toUpperCase() === activeExchange);
       const btnText = document.getElementById('watchlistBtnText');
       if (btnText) btnText.innerText = inList ? 'Saved in Watchlist' : 'Add to Watchlist';
     }
 
     function toggleWatchlist() {
-      let list = JSON.parse(localStorage.getItem('user_watchlist') || '[]');
+      let list = [];
+      try { list = AppData.watchlist(JSON.parse(localStorage.getItem('user_watchlist') || '[]')); } catch (error) {}
       const idx = list.findIndex(x => x.symbol === activeTicker && String(x.exchange || 'NSE').toUpperCase() === activeExchange);
       if (idx >= 0) {
         list.splice(idx, 1);
@@ -643,7 +655,7 @@
     async function downloadPDF() {
       // 1. In local FastAPI mode, try downloading vector PDF
       try {
-        const testRes = await fetch(`/api/v1/research/${encodeURIComponent(activeTicker)}?exchange=${encodeURIComponent(activeExchange)}`, { method: 'HEAD' });
+        const testRes = await fetch('/health', { signal: AbortSignal.timeout(3000) });
         if (testRes.ok) {
           window.location.href = `/api/v1/reports/${encodeURIComponent(activeTicker)}/pdf?exchange=${encodeURIComponent(activeExchange)}`;
           return;
@@ -659,7 +671,7 @@
       if (e.key === 'Enter') {
         const val = headerSearch.value.trim().toUpperCase();
         const canon = SYMBOL_ALIASES[val] || val;
-        if (canon) window.location.href = `research.html?ticker=${encodeURIComponent(canon)}`;
+        if (canon) window.location.href = `research.html?ticker=${encodeURIComponent(canon)}&exchange=${activeExchange}`;
       }
     });
 

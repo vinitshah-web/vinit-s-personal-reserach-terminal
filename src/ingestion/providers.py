@@ -192,11 +192,11 @@ class FinancialsAdapter:
     _CACHE: Dict[str, Dict[str, Any]] = {}
 
     @classmethod
-    def get_company_dossier(cls, symbol: str) -> Dict[str, Any]:
+    def get_company_dossier(cls, symbol: str, *, allow_live: bool = False) -> Dict[str, Any]:
         clean_sym = resolve_canonical_symbol(symbol)
         
         # 1. Memory Cache
-        if clean_sym in cls._CACHE:
+        if not allow_live and clean_sym in cls._CACHE:
             cached = cls._CACHE[clean_sym]
             _remove_generated_company_summary(cached)
             return apply_pb_display_rule(clean_sym, cached)
@@ -205,7 +205,7 @@ class FinancialsAdapter:
         cache_dir = Path("data/dossier_cache")
         cache_dir.mkdir(parents=True, exist_ok=True)
         cache_file = cache_dir / f"{clean_sym}.json"
-        if cache_file.exists():
+        if not allow_live and cache_file.exists():
             try:
                 with open(cache_file, "r", encoding="utf-8") as f:
                     cached = json.load(f)
@@ -239,6 +239,9 @@ class FinancialsAdapter:
             "has_statements": False,
             "retrieval_time": datetime.now().isoformat()
         }
+
+        if not allow_live:
+            return dossier
 
         try:
             t = yf.Ticker(yf_ticker)
@@ -297,9 +300,9 @@ class FinancialsAdapter:
                             return round(float(val) / 1e7, 2) if pd_not_na(val) else None
                         return None
 
-                    rev = get_val(inc, "Total Revenue") or get_val(inc, "Operating Revenue")
+                    rev = get_val(inc, "Total Revenue") if get_val(inc, "Total Revenue") is not None else get_val(inc, "Operating Revenue")
                     op_inc = get_val(inc, "Operating Income") or get_val(inc, "EBIT")
-                    ebitda = get_val(inc, "EBITDA") or (op_inc if op_inc else None)
+                    ebitda = get_val(inc, "EBITDA")
                     ni = get_val(inc, "Net Income") or get_val(inc, "Net Income Common Stockholders")
                     
                     tot_assets = get_val(bs, "Total Assets")
@@ -313,6 +316,8 @@ class FinancialsAdapter:
 
                     periods.append({
                         "period": year_str,
+                        "period_end": col.date().isoformat() if hasattr(col, "date") else str(col),
+                        "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
                         "revenue_cr": rev,
                         "ebitda_cr": ebitda,
                         "net_income_cr": ni,
@@ -329,13 +334,30 @@ class FinancialsAdapter:
 
             apply_pb_display_rule(clean_sym, dossier)
 
-            # Write to disk cache
-            cls._CACHE[clean_sym] = dossier
+            if not dossier.get("business_summary") and not dossier.get("financial_statements"):
+                return dossier
+
+            # Keep existing facts when one provider section is temporarily absent.
+            dossier["statements_retrieved_at"] = dossier["retrieval_time"] if dossier.get("financial_statements") else None
             try:
-                with open(cache_file, "w", encoding="utf-8") as f:
-                    json.dump(dossier, f, indent=2)
-            except Exception:
-                pass
+                previous = json.loads(cache_file.read_text(encoding="utf-8")) if cache_file.exists() else {}
+                retained = []
+                for field, value in previous.items():
+                    if field not in {"pb_ratio", "pb_ratio_reason", "retrieval_time", "statements_retrieved_at", "retained_fields"} and value is not None and (dossier.get(field) is None or dossier.get(field) == []):
+                        dossier[field] = value
+                        retained.append(field)
+                if "financial_statements" in retained:
+                    dossier["statements_retrieved_at"] = previous.get("statements_retrieved_at") or previous.get("retrieval_time")
+                dossier["has_statements"] = bool(dossier.get("financial_statements"))
+                dossier["retained_fields"] = retained
+                if retained:
+                    dossier["previous_retrieval_time"] = previous.get("retrieval_time")
+                temporary = cache_file.with_suffix(".json.tmp")
+                temporary.write_text(json.dumps(dossier, indent=2), encoding="utf-8")
+                temporary.replace(cache_file)
+            except (OSError, ValueError):
+                logger.warning("Could not persist company profile for %s", clean_sym)
+            cls._CACHE[clean_sym] = dossier
 
         except Exception as e:
             logger.warning(f"FinancialsAdapter extraction error for {symbol}: {e}")

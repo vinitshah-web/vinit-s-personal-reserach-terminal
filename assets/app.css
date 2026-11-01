@@ -1,0 +1,10 @@
+/* Shared responsive navigation and keyboard affordances. */
+:focus-visible { outline: 2px solid #059669; outline-offset: 3px; }
+header nav { flex-wrap: wrap; }
+@media(max-width: 767px) {
+  header > div, header > div > div:first-child { flex-wrap: wrap; gap: .75rem; }
+  header nav.hidden { display: flex; font-size: .75rem; width: 100%; overflow-x: auto; }
+  header { position: relative !important; padding: .75rem !important; }
+  main { padding: 1rem !important; }
+}
+@media print { header, .no-print { display:none !important; } main { padding:0 !important; } }
