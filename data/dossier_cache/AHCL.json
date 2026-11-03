@@ -6,7 +6,7 @@
   "business_summary": "Anlon Healthcare Limited manufactures and sells active pharmaceutical ingredients in India and internationally. The company also offers bulk drugs; advanced pharmaceutical intermediates; nutraceutical API products; and drug intermediates. It also manufactures loxoprofen sodium dihydrate, ketoprofen, and dexketoprofen trometamol products for pain management and anti-inflammatory therapies. Anlon Healthcare Limited was incorporated in 2013 and is based in Rajkot, India.",
   "business_summary_reason": null,
   "market_cap_cr": 1350.05,
-  "pe_ratio": 37.35,
+  "pe_ratio": 47.92,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 6.16,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T20:41:28.393866",
+  "retrieval_time": "2026-11-03T22:06:33.971624",
   "provider_reported_pb_ratio": 4.12,
-  "statements_retrieved_at": "2026-11-03T20:41:28.393866",
+  "statements_retrieved_at": "2026-11-03T22:06:33.971624",
   "retained_fields": []
 }

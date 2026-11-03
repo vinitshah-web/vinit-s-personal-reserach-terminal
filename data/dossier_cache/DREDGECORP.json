@@ -6,7 +6,7 @@
   "business_summary": "Dredging Corporation of India Limited provides dredging services to various ports, the Indian navy, fishing harbors, and other maritime organizations in India. The company offers capital dredging, maintenance dredging, beach nourishment, land reclamation, inland/shallow water dredging, project management consultancy, hydrographic and survey services, and marine construction services. It operates through a fleet of 10 trailer suction hopper dredgers, one cutter suction dredger, one backhoe dredger, and one inland cutter suction dredger, as well as other ancillary crafts. Dredging Corporation of India Limited was incorporated in 1976 and is headquartered in Visakhapatnam, India.",
   "business_summary_reason": null,
   "market_cap_cr": 2383.64,
-  "pe_ratio": 46.93,
+  "pe_ratio": 48.31,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 444.19,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T20:56:01.505700",
+  "retrieval_time": "2026-11-03T22:22:29.824756",
   "provider_reported_pb_ratio": 1.92,
-  "statements_retrieved_at": "2026-11-03T20:56:01.505700",
+  "statements_retrieved_at": "2026-11-03T22:22:29.824756",
   "retained_fields": []
 }

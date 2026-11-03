@@ -6,7 +6,7 @@
   "business_summary": "NTPC Limited operates as an integrated power company in India and Mauritius. It operates through two segments: Generation and Others. The company generates power from fossil fuels, hydro, solar, wind, nuclear, and renewable energy sources. It also engages in the coal mining and energy trading business. NTPC Limited was incorporated in 1975 and is based in New Delhi, India.",
   "business_summary_reason": null,
   "market_cap_cr": 311796.3,
-  "pe_ratio": 11.23,
+  "pe_ratio": 10.49,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 220.17,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T21:24:49.640563",
+  "retrieval_time": "2026-11-03T22:53:36.097654",
   "provider_reported_pb_ratio": 1.46,
-  "statements_retrieved_at": "2026-11-03T21:24:49.640563",
+  "statements_retrieved_at": "2026-11-03T22:53:36.097654",
   "retained_fields": []
 }

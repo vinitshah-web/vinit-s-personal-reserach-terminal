@@ -6,7 +6,7 @@
   "business_summary": "Accelya Solutions India Limited engages in the provision of software solutions to the airline, cargo, and travel industries in the Asia Pacific, the Middle East, Africa, the Americas, and Europe. The company provides retailing solutions, including FLX ONE, FLX One Offer Management, and FLX One delivery; Accelya financial solutions, as well as FLX one cargo. The company was founded in 1976 and is based in Mumbai, India. Accelya Solutions India Limited operates as a subsidiary of Accelya Holding World S.L.U.",
   "business_summary_reason": null,
   "market_cap_cr": 1408.67,
-  "pe_ratio": 14.75,
+  "pe_ratio": 14.89,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 167.59,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T20:40:03.672192",
+  "retrieval_time": "2026-11-03T22:05:07.611728",
   "provider_reported_pb_ratio": 5.63,
-  "statements_retrieved_at": "2026-11-03T20:40:03.672192",
+  "statements_retrieved_at": "2026-11-03T22:05:07.611728",
   "retained_fields": []
 }
