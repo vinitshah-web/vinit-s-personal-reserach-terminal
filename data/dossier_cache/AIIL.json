@@ -5,8 +5,8 @@
   "industry": "Capital Markets",
   "business_summary": "Authum Investment & Infrastructure Limited, a non-banking finance company, engages in investment, trading, and lending activities in India. It operates through the Investment Activity, Lending Activity, Rental Business, and ARC segments. The company is involved in investment and trading in shares and securities. It also invests in publicly listed and unlisted companies. In addition, it offers a range of credit and financing solutions, as well as engages in credit business. The company was formerly known as Pentium Investments and Infrastructures Limited and changed its name to Authum Investment & Infrastructure Limited. Authum Investment & Infrastructure Limited was incorporated in 1982 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 43875.23,
-  "pe_ratio": 20.87,
+  "market_cap_cr": 44800.89,
+  "pe_ratio": 21.31,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 173.43,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T22:56:16.882030",
-  "provider_reported_pb_ratio": 2.98,
-  "statements_retrieved_at": "2026-11-02T22:56:16.882030",
+  "retrieval_time": "2026-11-03T20:41:35.797425",
+  "provider_reported_pb_ratio": 3.04,
+  "statements_retrieved_at": "2026-11-03T20:41:35.797425",
   "retained_fields": []
 }

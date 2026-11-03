@@ -5,8 +5,8 @@
   "industry": "Building Materials",
   "business_summary": "UltraTech Cement Limited, together with its subsidiaries, engages in the manufacturing, marketing, and distribution of building materials in India and internationally. It offers grey cement, including ordinary Portland, composite, and weather plus, as well as Portland pozzolana, pozzolana super, and slag cement; white cement, wall care putty, and value-added products; and ready-mix concrete. The company also provides tile adhesives, gouts, cleaners, and fixing accessories; waterproof coatings, preformed membranes, and repair and integral waterproofing solutions; and ready-mix plasters and industrial and precision grouts. It also provides building solutions and support services; and infrastructure solutions, such as decorative, durability multiplayer, smart repair, advance structural, and floor and slab solutions. The company was formerly known as UltraTech CemCo Limited and changed its name to UltraTech Cement Limited in October 2004. UltraTech Cement Limited was incorporated in 2000 and is based in Mumbai, India. The company operates as a subsidiary of Grasim Industries Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 334851.37,
-  "pe_ratio": 38.08,
+  "market_cap_cr": 344055.59,
+  "pe_ratio": 39.12,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 2501.56,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:56:08.803691",
-  "provider_reported_pb_ratio": 4.55,
-  "statements_retrieved_at": "2026-11-02T23:56:08.803691",
+  "retrieval_time": "2026-11-03T21:46:21.041603",
+  "provider_reported_pb_ratio": 4.68,
+  "statements_retrieved_at": "2026-11-03T21:46:21.041603",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Bimetal Bearings Limited manufactures and sells engine bearings, bushings, thrust washers, alloy powder, and bimetallic strips in India and internationally. The company provides crankshaft bearings/connecting rod bearings, thrust bearings, thrust washers; pre alloyed and metal powders, conrod and camshaft bush, and bimetallic strips; and battery packs. It also offers rocker levers, idler gears, and more; as well as ID-plated bushings. In addition, the company provides its products for passenger cars, MUVs, LCVs, M&HCVs, tractors, industrial engines, and two wheelers, as well as defense and railway establishments. It services automotive, defense, railways, agriculture, and services sectors. Bimetal Bearings Limited was incorporated in 1961 and is based in Coimbatore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 235.58,
-  "pe_ratio": 20.63,
+  "market_cap_cr": 228.35,
+  "pe_ratio": 19.99,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 599.0,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:02:50.710265",
-  "provider_reported_pb_ratio": 1.03,
-  "statements_retrieved_at": "2026-11-02T23:02:50.710265",
+  "retrieval_time": "2026-11-03T20:48:42.697289",
+  "provider_reported_pb_ratio": 1.0,
+  "statements_retrieved_at": "2026-11-03T20:48:42.697289",
   "retained_fields": []
 }

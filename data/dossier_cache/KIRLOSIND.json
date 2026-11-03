@@ -5,8 +5,8 @@
   "industry": "Metal Fabrication",
   "business_summary": "Kirloskar Industries Limited engages in the manufacturing and sale of iron castings in India. It operates through Investments (Securities & Properties); Real Estate; Iron Casting; Tube; and Steel segments. The company also manufactures seamless tubes, cylinder tubes, components, and engineering steels. In addition, it is involved in real estate development and leasing; owns real estate properties that include lands and buildings, apartments, and offices; and invests in properties and securities. The company was formerly known as Kirloskar Oil Engines Ltd and changed its name to Kirloskar Industries Limited in March 2010. Kirloskar Industries Limited was founded in 1888 and is headquartered in Pune, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3410.86,
-  "pe_ratio": 22.94,
+  "market_cap_cr": 3433.89,
+  "pe_ratio": 23.1,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 5946.68,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:25:38.262927",
+  "retrieval_time": "2026-11-03T21:13:31.082895",
   "provider_reported_pb_ratio": 0.55,
-  "statements_retrieved_at": "2026-11-02T23:25:38.262927",
+  "statements_retrieved_at": "2026-11-03T21:13:31.082895",
   "retained_fields": []
 }

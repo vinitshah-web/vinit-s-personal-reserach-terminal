@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Digjam Limited engages in the manufactures and sells polyester viscose and pure wool fabrics for suiting and casual wear in India and internationally. The company offers its fabrics under the DIGJAM brand. Digjam Limited was formerly known as Digjam Textiles Limited and changed its name to Digjam Limited in March 2016. The company was founded in 1948 and is based in Mumbai, India. Digjam Limited operates as a subsidiary of Finquest Financial Solutions Private Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 110.0,
-  "pe_ratio": 25.0,
+  "market_cap_cr": 105.5,
+  "pe_ratio": 23.98,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 3.31,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:09:10.968651",
-  "provider_reported_pb_ratio": 16.61,
-  "statements_retrieved_at": "2026-11-02T23:09:10.968651",
+  "retrieval_time": "2026-11-03T20:55:23.524649",
+  "provider_reported_pb_ratio": 15.93,
+  "statements_retrieved_at": "2026-11-03T20:55:23.524649",
   "retained_fields": []
 }

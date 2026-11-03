@@ -5,14 +5,14 @@
   "industry": "Steel",
   "business_summary": "Prakash Industries Limited manufactures and sells steel products in India. The company produces sponge iron; steel blooms and billets; ferro alloys; wire rods and HB wire products for use in binding wires, GI wires, fencing barbed wires, and armored sealed wires for heavy electrical cables, nut bolts, nails, screws, alpine products, wire ropes, wire mesh products, etc.; and TMT bars and structurals. It also engages in the generation of wind power, and mining of iron ore and coal. Prakash Industries Limited was incorporated in 1980 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2036.34,
-  "pe_ratio": 6.51,
+  "market_cap_cr": 2047.26,
+  "pe_ratio": 6.54,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 200.38,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 17.9082,
-  "fifty_two_week_high": 172.9,
+  "fifty_two_week_high": 170.56,
   "fifty_two_week_low": 110.02,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:39:57.792122",
+  "retrieval_time": "2026-11-03T21:28:45.201875",
   "provider_reported_pb_ratio": 0.57,
-  "statements_retrieved_at": "2026-11-02T23:39:57.792122",
+  "statements_retrieved_at": "2026-11-03T21:28:45.201875",
   "retained_fields": []
 }

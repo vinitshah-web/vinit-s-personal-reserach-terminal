@@ -5,8 +5,8 @@
   "industry": "Chemicals",
   "business_summary": "TGV SRAAC Limited engages in the manufacture and sale of chlor-alkali chemicals, chloromethane, castor oil derivatives, and fatty acids in India and internationally. It operates through Chemicals and Oils and Fats segments. The Chemicals segment offers caustic soda, caustic potash, chlorine, and chloro methanes. Its Oils and Fats segment produces castor oil derivatives, soap noodles, hydroxy stearic acid, and glycerine. The company was formerly known as Sree Rayalaseema Alkalies and Allied Chemicals Ltd. and changed its name to TGV SRAAC Limited in October 2017. TGV SRAAC Limited was incorporated in 1981 and is based in Kurnool, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1183.77,
-  "pe_ratio": 8.53,
+  "market_cap_cr": 1180.77,
+  "pe_ratio": 8.51,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 120.97,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:54:11.092894",
+  "retrieval_time": "2026-11-03T21:44:13.669252",
   "provider_reported_pb_ratio": 0.91,
-  "statements_retrieved_at": "2026-11-02T23:54:11.092894",
+  "statements_retrieved_at": "2026-11-03T21:44:13.669252",
   "retained_fields": []
 }

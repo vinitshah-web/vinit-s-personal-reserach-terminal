@@ -5,8 +5,8 @@
   "industry": "Confectioners",
   "business_summary": "Balrampur Chini Mills Limited manufactures and sells of sugar in India. It operates through Sugar, Distillery, Polylactic Acid, and Others segments. The company offers molasses, industrial alcohol, ethanol, extra neutral alcohol, CO2, dry ice, and bagasse products. It also provides agricultural fertilizers, such as granulated potash and bio-pesticides. In addition, the company is involved in the generation and sale of electricity with a saleable capacity of 175.7 megawatts. It also exports its sugar products. The company was incorporated in 1975 and is headquartered in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 12696.39,
-  "pe_ratio": 32.94,
+  "market_cap_cr": 13858.3,
+  "pe_ratio": 35.96,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 204.87,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:01:12.660156",
-  "provider_reported_pb_ratio": 2.93,
-  "statements_retrieved_at": "2026-11-02T23:01:12.660156",
+  "retrieval_time": "2026-11-03T20:46:58.422553",
+  "provider_reported_pb_ratio": 3.2,
+  "statements_retrieved_at": "2026-11-03T20:46:58.422553",
   "retained_fields": []
 }

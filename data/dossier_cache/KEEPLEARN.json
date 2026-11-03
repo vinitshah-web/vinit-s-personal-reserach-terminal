@@ -5,7 +5,7 @@
   "industry": "Education & Training Services",
   "business_summary": "DSJ Keep Learning Limited provides technical services to educational institution in India. It offers support services to educational institutions and software solutions for managing the administrative tasks related to the onboarding of students to educational institutions. The company also provides keeplearning.live, a learning platform, which offers career-aligned programs for working professionals, as well as kOS, a SaaS product suite that enables institutional and learner success across administrative and planning tools. It serves institutions, universities, and the learner community. The company was formerly known as DSJ Communications Limited and changed its name to DSJ Keep Learning Limited in June 2021. The company was incorporated in 1989 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 20.4,
+  "market_cap_cr": 20.55,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:25:09.050172",
-  "provider_reported_pb_ratio": 3.22,
-  "statements_retrieved_at": "2026-11-02T23:25:09.050172",
+  "retrieval_time": "2026-11-03T21:12:58.361614",
+  "provider_reported_pb_ratio": 3.24,
+  "statements_retrieved_at": "2026-11-03T21:12:58.361614",
   "retained_fields": []
 }

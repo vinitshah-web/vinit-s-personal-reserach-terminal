@@ -5,8 +5,8 @@
   "industry": "Aerospace & Defense",
   "business_summary": "Rossell Techsys Limited provides engineering and manufacturing solutions for the global aerospace and defense industry in India and internationally. The company provides electrical wiring interconnection system (EWIS) services to rotary and fixed wing military platforms, commercial platforms, weapon systems, avionics, land systems, and marine and space systems, as well as EWIS installation services. It also offers custom electronics assemblies, including hardware, software, firmware, systems engineering, and others for data acquisition and control, power management, signal conditioning interfaces and high-fidelity processing, instrumentation, control systems, communication systems, avionics systems, and electronic systems; and test systems and solutions, as well as fully automatic, semi-automatic, and manual test equipment. In addition, the company provides aftermarket services which include customer training, site surveys and preparation, installation, testing and commissioning, spare parts coordination and liaison, laboratory setup, repairs and rework, obsolescence management, reverse engineering, alternate sourcing, conversions, service life extensions, localizations and indigenization, and modernization, as well as serving as a single point of contact (SPOC) for and representing global OEMs. The company was founded in 2011 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 5212.87,
-  "pe_ratio": 201.99,
+  "market_cap_cr": 5321.85,
+  "pe_ratio": 206.22,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 41.18,
@@ -63,8 +63,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:43:41.185104",
-  "provider_reported_pb_ratio": 33.45,
-  "statements_retrieved_at": "2026-11-02T23:43:41.185104",
+  "retrieval_time": "2026-11-03T21:32:46.260155",
+  "provider_reported_pb_ratio": 34.15,
+  "statements_retrieved_at": "2026-11-03T21:32:46.260155",
   "retained_fields": []
 }

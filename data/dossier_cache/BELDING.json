@@ -5,7 +5,7 @@
   "industry": "Aluminum",
   "business_summary": "Belding India Limited engages in engineering, manufacturing, and technology-led infrastructure solutions services in India. It operates through EPC projects, Battery Energy Storage Systems (BESS), Edge Data Centres, Integrated Engineering Solutions, Advanced Manufacturing, and Security Solutions. The company provides end-to-end EPC solutions for data centres, industrial infrastructure and integrated solar farm projects, covering engineering, design, procurement, construction, commissioning and project management; design, engineers, manufactures, installs, tests, commissions and lifecycle management of BESS supported by warranty and maintenance solutions; develops and deliver brick-and-mortar as well as prefabricated and containerised edge data centre solutions; precision engineered equipment, integrated engineering systems and critical industrial components. In addition, it also offers X-ray inspection and security screening systems, including baggage, cargo and vehicle scanners, under-vehicle surveillance systems and other intelligent security screening solutions. The company was formerly known as Synthiko Foils Limited and changed its name to Belding India Limited in February 2026. Belding India Limited was incorporated in 1984 and is based in Pune, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1142.6,
+  "market_cap_cr": 1126.24,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:02:08.409651",
-  "provider_reported_pb_ratio": 1.09,
-  "statements_retrieved_at": "2026-11-02T23:02:08.409651",
+  "retrieval_time": "2026-11-03T20:47:59.078731",
+  "provider_reported_pb_ratio": 1.07,
+  "statements_retrieved_at": "2026-11-03T20:47:59.078731",
   "retained_fields": []
 }

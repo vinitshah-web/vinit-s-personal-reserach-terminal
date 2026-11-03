@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Dhoot Transmission Limited operates as a manufacturer of wiring harnesses, automotive switches, electronic sensors and controllers, connectors, terminals, automotive cables, power cords, and related components. The company provides wiring harnesses for two-wheelers, three-wheelers, commercial vehicles, off-road vehicles, farm equipment, earth movers, medical equipment, and domestic appliances. It manufactures electronic sensors and controllers, automotive switches, connection systems, connectors and terminals, automotive cables, and power cords. The company offers electric vehicle products, including charging guns, inlets, off-board chargers, residual current devices, high voltage and low voltage wiring harnesses, and lithium-ion battery assembly, serving both internal combustion engine and electric vehicle segments. The company supplies its products to original equipment manufacturers in the automotive, medical equipment, and domestic appliances sectors. The company was incorporated in 1998 and is based in Aurangabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 31162.26,
-  "pe_ratio": 71.94,
+  "market_cap_cr": 30454.31,
+  "pe_ratio": 70.31,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 129.17,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:08:55.589565",
-  "provider_reported_pb_ratio": 11.79,
-  "statements_retrieved_at": "2026-11-02T23:08:55.589565",
+  "retrieval_time": "2026-11-03T20:55:06.298167",
+  "provider_reported_pb_ratio": 11.52,
+  "statements_retrieved_at": "2026-11-03T20:55:06.298167",
   "retained_fields": []
 }

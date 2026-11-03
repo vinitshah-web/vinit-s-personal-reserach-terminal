@@ -5,8 +5,8 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "Gujarat Apollo Industries Limited, together with its subsidiaries, manufactures and sells crushing and screening equipment for road and building construction, mining, and general infrastructure development in India and internationally. The company offers jaw crushers; hydro and GP cone crushers; horizontal shaft primary and secondary impact crushers; vertical shaft impact crushers; vibrating screens; mobile crushing plants; crushing and screening plants; bucket crushers; and coal sampling units. It also provides spare management services. The company was formerly known as Gujarat Apollo Equipments Limited and changed its name to Gujarat Apollo Industries Limited in November 2006. Gujarat Apollo Industries Limited was incorporated in 1986 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 453.76,
-  "pe_ratio": 77.74,
+  "market_cap_cr": 452.52,
+  "pe_ratio": 77.53,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 388.23,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:17:13.584235",
+  "retrieval_time": "2026-11-03T21:04:18.002503",
   "provider_reported_pb_ratio": 0.9,
-  "statements_retrieved_at": "2026-11-02T23:17:13.584235",
+  "statements_retrieved_at": "2026-11-03T21:04:18.002503",
   "retained_fields": []
 }

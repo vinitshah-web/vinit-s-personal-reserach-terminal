@@ -5,15 +5,15 @@
   "industry": "Beverages - Wineries & Distilleries",
   "business_summary": "Globus Spirits Limited manufactures and sells bulk alcohol and alcoholic products in India and internationally. It operates through two segments: Manufacturing and Consumer. The company offers Indian-made Indian liquor and Indian-made foreign liquor products; and produces and sells ethanol, extra neutral alcohol, rectified spirit, and premium spirits. It also provides distillery products, including grain-neutral alcohol, bioethanol, special denatured spirit, technical alcohol, and fusel oil, as well as other industrial spirits and by-products, etc.; and alcoholic beverages, including prestige and value spirits. In addition, the company is involved in franchise bottling business. Globus Spirits Limited was founded in 1992 and is headquartered in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2105.07,
-  "pe_ratio": 5.74,
+  "market_cap_cr": 2070.15,
+  "pe_ratio": 5.65,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 428.23,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 3.1461,
   "fifty_two_week_high": 1252.8,
-  "fifty_two_week_low": 660.1,
+  "fifty_two_week_low": 656.0,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:15:02.434381",
-  "provider_reported_pb_ratio": 1.56,
-  "statements_retrieved_at": "2026-11-02T23:15:02.434381",
+  "retrieval_time": "2026-11-03T21:01:54.849882",
+  "provider_reported_pb_ratio": 1.54,
+  "statements_retrieved_at": "2026-11-03T21:01:54.849882",
   "retained_fields": []
 }

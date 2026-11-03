@@ -5,14 +5,14 @@
   "industry": "Telecom Services",
   "business_summary": "Mahanagar Telephone Nigam Limited, together with its subsidiaries, provides telecommunication services in India. It operates through three segments: Basic, Cellular, and Infrastructure Leasing. The company offers mobile, voice, roaming, and internet services; and international long distance services. It also provides remote monitoring; capacity building and skill development programme; ICT Solution with operation and maintenance services; launch, operate, provide, and maintains cloud and managed services; surveillance and perimeter security services, including emergency communication; wi-fi, surveillance projects, infrastructure sharing, web hosting, and cloud computing services. The company was incorporated in 1986 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1423.8,
+  "market_cap_cr": 1489.95,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": -475.33,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 63.0,
-  "fifty_two_week_high": 44.67,
+  "fifty_two_week_high": 42.8,
   "fifty_two_week_low": 21.26,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:33:31.107668",
+  "retrieval_time": "2026-11-03T21:21:55.860019",
   "provider_reported_pb_ratio": -0.05,
-  "statements_retrieved_at": "2026-11-02T23:33:31.107668",
+  "statements_retrieved_at": "2026-11-03T21:21:55.860019",
   "retained_fields": []
 }

@@ -5,15 +5,15 @@
   "industry": "Furnishings, Fixtures & Appliances",
   "business_summary": "Priti International Limited engages in the manufacture, sale, and export of wooden, metal, and textile based furniture and handicraft products in India. The company operates through Wooden and Iron Handicraft, Textile Handicraft, and Solar Product segments. It offers solid wooden and metal furniture articles, home furnishing items, and wooden and metal articles; and textile-based products, including cushions, pillow cover, rugs and carpets, handbags, travel bags and backpacks, and pet products. The company provides wooden cabinet, sideboards, chest of drawers, tv cabinet, side table, coffee and console table, day beds, and wall shelve; beds, bedside table, and wardrobe; dining chair, table, and set; and chair, wooden swings, sofas, arm chairs, and bench, as well as poufs and ottoman. In addition, it offers kitchen racks and trolley, storage shelve, trunk, apron, tray/chopping board, and home decor; study and computer table, laptop table, and bookshelves and organizer; and bar furniture. Further, the company is involved in the upcycling and recycling of various raw, unusable, and waste metal and wooden articles. Additionally, it engages in trading of solar products. It also sells its products online. Priti International Limited was founded in 2005 and is based in Jodhpur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 36.29,
-  "pe_ratio": 46.86,
+  "market_cap_cr": 35.69,
+  "pe_ratio": 46.09,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 54.13,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.3353,
   "fifty_two_week_high": 77.99,
-  "fifty_two_week_low": 26.8,
+  "fifty_two_week_low": 26.11,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:40:32.689161",
-  "provider_reported_pb_ratio": 0.5,
-  "statements_retrieved_at": "2026-11-02T23:40:32.689161",
+  "retrieval_time": "2026-11-03T21:29:22.027117",
+  "provider_reported_pb_ratio": 0.49,
+  "statements_retrieved_at": "2026-11-03T21:29:22.027117",
   "retained_fields": []
 }

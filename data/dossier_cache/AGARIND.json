@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Agarwal Industrial Corporation Limited manufactures and trades in petrochemicals in India and internationally. It operates through five segments: Ancillary Infra - Bitumen & Allied Products, Petroleum Vessels Operating and Chartering, Petroleum Products, Logistics, and Windmill. The company provides various bituminous products, including viscosity grade bitumen and industrial grade bitumen; paving grade bitumen and crumb rubber modified bitumen; polymer modified bitumen, such as ethylene vinyl acetate, ethylene butyl acrylate, ethylene ter polymer, styrene-butadiene styrene, and styrene isoprene styrene; byproducts waterproof materials comprising bitubond, bituplast, bituminous black, bitukote, bituprimer, bitufelt, and cable compound; bitumen insulation materials; and bitumen emulsions. It is involved in the transportation of bulk bitumen and liquefied petroleum gas; rubber processing oil; and generation of power through windmills, as well as imports and stores bitumen. The company was formerly known as Bombay Baroda Roadways (India) Limited and changed its name to Agarwal Industrial Corporation Limited in March 2008. Agarwal Industrial Corporation Limited was incorporated in 1995 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 486.88,
-  "pe_ratio": 11.91,
+  "market_cap_cr": 493.31,
+  "pe_ratio": 12.06,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 460.71,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T22:55:55.861680",
-  "provider_reported_pb_ratio": 0.71,
-  "statements_retrieved_at": "2026-11-02T22:55:55.861680",
+  "retrieval_time": "2026-11-03T20:41:13.219288",
+  "provider_reported_pb_ratio": 0.72,
+  "statements_retrieved_at": "2026-11-03T20:41:13.219288",
   "retained_fields": []
 }

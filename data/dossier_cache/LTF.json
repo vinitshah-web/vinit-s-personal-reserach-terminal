@@ -5,8 +5,8 @@
   "industry": "Credit Services",
   "business_summary": "L&T Finance Limited, a non-banking financial company, provides various financial products and services in India. It offers housing loans; personal loans for medical emergencies, home renovation, wedding, vacation, education, and debt consolidation; two-wheeler loans; business loans, such as SME, doctor, chartered accountant, and professional loans, as well as supply chain financing solutions; rural loans comprising vikaas loans, vishwas loans, pragati loans, RLAP balance transfer, and micro loans against property; farmer loans, including new tractor loans, agri-implement loans, kisan suvidha top up, kisan suvidha top up plus, refinance loan, and warehouse receipt finance services; gold loans, such as sukhad loan, sampati loan, saraswati loan, safalta loan, sugam loan, and shubh loan; and loans against property. The company was formerly known as L&T Finance Holdings Limited and changed its name to L&T Finance Limited in March 2024. The company was incorporated in 1994 and is headquartered in Mumbai, India. L&T Finance Limited operates as a subsidiary of Larsen & Toubro Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 63037.34,
-  "pe_ratio": 18.45,
+  "market_cap_cr": 63318.06,
+  "pe_ratio": 18.53,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 116.76,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:28:33.287728",
-  "provider_reported_pb_ratio": 2.15,
-  "statements_retrieved_at": "2026-11-02T23:28:33.287728",
+  "retrieval_time": "2026-11-03T21:16:37.254967",
+  "provider_reported_pb_ratio": 2.16,
+  "statements_retrieved_at": "2026-11-03T21:16:37.254967",
   "retained_fields": []
 }

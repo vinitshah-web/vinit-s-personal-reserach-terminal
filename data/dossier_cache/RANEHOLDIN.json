@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Rane Holdings Limited, together with its subsidiaries, engages in the manufacturing and marketing of automotive components for the transportation industry in India and internationally. It manufactures steering and suspension systems, brake components, engine components, occupant safety systems, and light metal casting products for the transportation industry, including passenger vehicles, commercial vehicles, farm tractors, two-wheelers, railways and stationary engines. The company also provides steering suspension linkages; engine valves, valve guides and tappets, brake linings, disc pads, clutch facing, and clutch button, as well as light metal casting products and other articles of aluminium; and manual steering columns and electric power steering. In addition, it is involved in the investments in steering and linkage auto components; provision of business development services. The company was formerly known as Rane (Madras) Limited and changed its name to Rane Holdings Limited in July 2004. Rane Holdings Limited was founded in 1929 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2112.54,
-  "pe_ratio": 25.02,
+  "market_cap_cr": 2137.1,
+  "pe_ratio": 25.31,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 808.13,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:42:11.766130",
-  "provider_reported_pb_ratio": 1.83,
-  "statements_retrieved_at": "2026-11-02T23:42:11.766130",
+  "retrieval_time": "2026-11-03T21:31:10.375816",
+  "provider_reported_pb_ratio": 1.85,
+  "statements_retrieved_at": "2026-11-03T21:31:10.375816",
   "retained_fields": []
 }

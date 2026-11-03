@@ -5,15 +5,15 @@
   "industry": "Asset Management",
   "business_summary": "Industrial & Prudential Investment Company Limited is a publicly owned investment manager. The firm is zero debt company and has equity investment portfolios. Industrial & Prudential Investment Company Limited is based in Mumbai, India with an additional office in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1037.26,
-  "pe_ratio": 17.03,
+  "market_cap_cr": 989.08,
+  "pe_ratio": 16.24,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 5071.54,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 0.1676,
   "fifty_two_week_high": 6509.0,
-  "fifty_two_week_low": 5910.0,
+  "fifty_two_week_low": 5895.0,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:21:19.442783",
-  "provider_reported_pb_ratio": 1.22,
-  "statements_retrieved_at": "2026-11-02T23:21:19.442783",
+  "retrieval_time": "2026-11-03T21:08:46.077584",
+  "provider_reported_pb_ratio": 1.16,
+  "statements_retrieved_at": "2026-11-03T21:08:46.077584",
   "retained_fields": []
 }

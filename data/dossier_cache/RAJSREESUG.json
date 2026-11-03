@@ -5,7 +5,7 @@
   "industry": "Confectioners",
   "business_summary": "Rajshree Sugars & Chemicals Limited engages in the sugar, distillery, power, and biotechnology businesses in India. It operates in three segments: Sugar, Cogeneration, and Distillery. The company offers plantation white sugar, demerara sugar, natural brown sugar, and natural jaggery powder; rectified spirit, extra neutral alcohol, and anhydrous alcohol; and organic manure. It also generates power through cogeneration plants. Rajshree Sugars & Chemicals Limited was incorporated in 1985 and is based in Coimbatore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 87.71,
+  "market_cap_cr": 89.33,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:41:56.392558",
-  "provider_reported_pb_ratio": 0.33,
-  "statements_retrieved_at": "2026-11-02T23:41:56.392558",
+  "retrieval_time": "2026-11-03T21:30:53.174353",
+  "provider_reported_pb_ratio": 0.34,
+  "statements_retrieved_at": "2026-11-03T21:30:53.174353",
   "retained_fields": []
 }

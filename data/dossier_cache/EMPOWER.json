@@ -5,8 +5,8 @@
   "industry": "Electronics & Computer Distribution",
   "business_summary": "Empower India Limited, together with its subsidiaries, provides IT infrastructure management and sustainable power solutions in India. It offers IT solutions, including IT infrastructure management, network infrastructure design and optimization, and data backup and disaster recovery services for data center operations. The company also provides renewable energy solutions, such as solar module installation, solar collector servicing, consultations, and diagnostic report services. In addition, it is also involved in the solar power generation, wind power generation, green power, biofuel production, and various recycling initiatives; and dealing and trading of IT related products. Empower India Limited was incorporated in 1981 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 151.29,
-  "pe_ratio": 8.12,
+  "market_cap_cr": 157.11,
+  "pe_ratio": 8.44,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 2.77,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:11:19.500752",
-  "provider_reported_pb_ratio": 0.47,
-  "statements_retrieved_at": "2026-11-02T23:11:19.500752",
+  "retrieval_time": "2026-11-03T20:57:40.031408",
+  "provider_reported_pb_ratio": 0.49,
+  "statements_retrieved_at": "2026-11-03T20:57:40.031408",
   "retained_fields": []
 }

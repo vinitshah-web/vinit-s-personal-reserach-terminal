@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Kronox Lab Sciences Limited manufactures and sells fine chemicals, inorganic chemicals, phosphates, and metallic chemicals in India and internationally. The company provides bulk reagents comprising ACS reagents, as well as LR, AR, and GR reagents; bulk ingredients that includes oral care, pharmacopoeia, food and nutraceutical, personal care and cosmetics, and veterinary pharma and animal health; and specialty chemicals, such as tartrates, citrates, hypophosphites, phosphates, hydroxides, EDTA and derivatives, ultra high purity chemicals, and custom specification. Kronox Lab Sciences Limited was incorporated in 2008 and is based in Vadodara, India. As of September 29, 2026, Kronox Lab Sciences Limited operates as a subsidiary of Indo Borax & Chemicals Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 721.23,
-  "pe_ratio": 25.15,
+  "market_cap_cr": 733.55,
+  "pe_ratio": 25.58,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 31.64,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:26:35.096362",
-  "provider_reported_pb_ratio": 6.14,
-  "statements_retrieved_at": "2026-11-02T23:26:35.096362",
+  "retrieval_time": "2026-11-03T21:14:30.276349",
+  "provider_reported_pb_ratio": 6.25,
+  "statements_retrieved_at": "2026-11-03T21:14:30.276349",
   "retained_fields": []
 }

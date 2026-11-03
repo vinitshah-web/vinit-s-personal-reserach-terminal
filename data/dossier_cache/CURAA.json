@@ -5,7 +5,7 @@
   "industry": "Software - Application",
   "business_summary": "Cura Technologies Limited provides information technology services in India. The company offers software development, information technology enabled services, e-CRM services, customer acquisition and retention services, customer contact / call centers, transcription services, business process outsourcing services, back office operation and management services, application development, marketing software, information systems network management support and services, electronic publishing, e-commerce applications, e-governance, analytics, learning and management, data warehousing, data mining, and data modelling services, as well as system, internet, intranet, and ID card solutions. It also provides software training, BPO domains training, customer contact centre training, training in behavioral sciences, organization behavioral training, soft skills training, culture training, accent training, management development, technical skills development and training, and induction and orientation training for new hires. In addition, the company offers consultancy and technical services; manpower services, including recruiting, selecting, interviewing, training, and employing; and end-to-end IT solutions, such as system integration of software and hardware products, artificial intelligence solutions, machine learning, and computer science, as well as acquires, establishes, maintains, operates, runs, manages, and administers hospitals, medi care, nursing homes, health care, diagnostic, health aids, and research centres. The company was formerly known as Softpro Systems Ltd and changed its name to CURA Technologies Limited in October 2010. Cura Technologies Limited was incorporated in 1991 and is based in Hyderabad, India. Cura Technologies Limited is a subsidiary of KBR Holdings Private Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 69.74,
+  "market_cap_cr": 66.25,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:07:24.679144",
-  "provider_reported_pb_ratio": 10.93,
-  "statements_retrieved_at": "2026-11-02T23:07:24.679144",
+  "retrieval_time": "2026-11-03T20:53:32.285925",
+  "provider_reported_pb_ratio": 10.38,
+  "statements_retrieved_at": "2026-11-03T20:53:32.285925",
   "retained_fields": []
 }

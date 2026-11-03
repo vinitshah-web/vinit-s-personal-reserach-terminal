@@ -5,14 +5,14 @@
   "industry": "Luxury Goods",
   "business_summary": "Kanani Industries Limited manufactures and exports diamond studded jewellery in India. The company also offers labs grown polished diamonds and lab grown rough diamonds. The company was formerly known as IMP Finance Limited and changed its name to Kanani Industries Limited in October 2007. Kanani Industries Limited was incorporated in 1983 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 31.66,
-  "pe_ratio": 13.33,
+  "market_cap_cr": 31.07,
+  "pe_ratio": 13.08,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 3.8,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 19.7868,
-  "fifty_two_week_high": 1.94,
+  "fifty_two_week_high": 1.93,
   "fifty_two_week_low": 1.02,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:24:38.883123",
-  "provider_reported_pb_ratio": 0.42,
-  "statements_retrieved_at": "2026-11-02T23:24:38.883123",
+  "retrieval_time": "2026-11-03T21:12:26.241547",
+  "provider_reported_pb_ratio": 0.41,
+  "statements_retrieved_at": "2026-11-03T21:12:26.241547",
   "retained_fields": []
 }

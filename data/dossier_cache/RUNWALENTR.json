@@ -5,8 +5,8 @@
   "industry": "Real Estate - Development",
   "business_summary": "Runwal Enterprises Limited engages in residential and commercial real estate development in India. Its portfolio includes residential projects, apartments, retail spaces, offices, schools, hospitals, and town halls. The company also engages in the lease of commercial and shopping complexes. The company was incorporated in 2016 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3073.86,
-  "pe_ratio": 22.81,
+  "market_cap_cr": 3031.0,
+  "pe_ratio": 22.49,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 66.65,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:44:15.643657",
-  "provider_reported_pb_ratio": 3.12,
-  "statements_retrieved_at": "2026-11-02T23:44:15.643657",
+  "retrieval_time": "2026-11-03T21:33:24.251084",
+  "provider_reported_pb_ratio": 3.08,
+  "statements_retrieved_at": "2026-11-03T21:33:24.251084",
   "retained_fields": []
 }

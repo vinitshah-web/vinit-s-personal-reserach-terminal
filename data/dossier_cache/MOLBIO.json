@@ -5,8 +5,8 @@
   "industry": "Medical Devices",
   "business_summary": "Molbio Diagnostics Limited, a point-of-care diagnostics company, provides healthcare technologies to diagnose infectious and non-communicable diseases. It manufactures and sells chip based diagnostic devices, chips and reagents, X-ray equipment's, and single/dual detectors. It also offers disposable POCT devices, which includes dengue, malaria, and COVID-19 tests; Tabletop analysers, a portable machine that are used to perform molecular or immunodiagnostic tests to detect infectious diseases, such as tuberculosis, human papillomavrus, STIs, and GI disorders. In addition, the company offers Truenat, a multi-disease real-time polymerase chain reaction platform that enables treatment decisions for various infectious and non-communicable diseases, such as tuberculosis, human immunodeficiency virus, malaria, viral hepatitis, COVID-19, dengue, chikungunya, influenza, H1N1, HPV/cervical cancer, cholera, leprosy, etc.; and Truenat assays. The company was incorporated in 2000 and is based in Verna, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 15143.69,
-  "pe_ratio": 90.88,
+  "market_cap_cr": 15566.62,
+  "pe_ratio": 93.42,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 103.7,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:32:19.656362",
-  "provider_reported_pb_ratio": 12.67,
-  "statements_retrieved_at": "2026-11-02T23:32:19.656362",
+  "retrieval_time": "2026-11-03T21:20:40.487739",
+  "provider_reported_pb_ratio": 13.03,
+  "statements_retrieved_at": "2026-11-03T21:20:40.487739",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Software - Application",
   "business_summary": "Amagi Media Labs Limited operates as a software-as-a-service company that connects media companies to their audiences through cloud-native technology in India, the United States, Europe, the Asia Pacific, and the Middle East. The company offers Cloud Modernization products, such as Amagi STUDIO, a cloud-based live video production suite that allows media teams to create and produce live shows, sports events, and news coverage using a browser; Amagi CLOUDPORT, a cloud-based broadcast operations platform that allows television networks and content owners to replace hardware-intensive playout systems with software-defined environment; Amagi CLIP, a Short-form video creation platform; Amagi DYNAMIC that enables Amagi CLOUDPORT to manage one-off live events; and managed services. It also provides streaming unification products, including Media Management; VOD Distribution; Amagi THUNDERSTORM, an ad insertion platform; Smart Scheduler, an AI-powered scheduling platform; Amagi CONNECT, a content distribution and syndication marketplace; FAST Distribution; Amagi PLANNER; Amagi ADS PLUS, a CTV advertising marketplace; and Amagi ANALYTICS, a streaming analytics platform that provides actionable viewership and advertising performance insights. In addition, the company offers monetization products comprising server-side ad insertion and ad marketplace. Further, it provides Amagi NOW Platform, an agentic industry cloud platform that enables media organizations to modernize and monetize content, including through the deployment of artificial intelligence-enabled solutions. The company was incorporated in 2008 and is headquartered in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 11824.01,
-  "pe_ratio": 115.31,
+  "market_cap_cr": 12209.09,
+  "pe_ratio": 119.06,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 78.96,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T22:57:12.149315",
-  "provider_reported_pb_ratio": 6.92,
-  "statements_retrieved_at": "2026-11-02T22:57:12.149315",
+  "retrieval_time": "2026-11-03T20:42:35.256121",
+  "provider_reported_pb_ratio": 7.15,
+  "statements_retrieved_at": "2026-11-03T20:42:35.256121",
   "retained_fields": []
 }

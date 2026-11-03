@@ -5,8 +5,8 @@
   "industry": "Electronic Components",
   "business_summary": "Syrma SGS Technology Limited operates as an electronics system design and manufacturing company in India, the United States, Germany, and internationally. The company offers electronic manufacturing services, such as PCBAs for industries and end applications; assemblies, including PCBAs, enclosures, wire harnesses, testing, and custom packing; EOL and functional testers based on customer specifications; cables with cutting, stripping, tinning, crimping, over molding, and ultrasonic welding; and injection molding. It also provides engineering and technology services comprising product engineering, digital engineering, design studio, and prototyping; and medtech ODM services consisting of homogenization, electrotherapy, colorimetry, laser therapy, RF therapy, and spectrophotometry. In addition, the company offers standard and application-specific components, which include transformers, chokes, inductors, and induction elements for the test and instrumentation, telecommunications, consumer goods, industrial products, factory automation, and aerospace and defense industries. Syrma SGS Technology Limited was founded in 1978 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 29124.9,
-  "pe_ratio": 69.1,
+  "market_cap_cr": 28720.39,
+  "pe_ratio": 68.14,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 157.65,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:52:49.730136",
-  "provider_reported_pb_ratio": 9.59,
-  "statements_retrieved_at": "2026-11-02T23:52:49.730136",
+  "retrieval_time": "2026-11-03T21:42:47.214388",
+  "provider_reported_pb_ratio": 9.46,
+  "statements_retrieved_at": "2026-11-03T21:42:47.214388",
   "retained_fields": []
 }

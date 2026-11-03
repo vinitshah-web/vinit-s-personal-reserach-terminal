@@ -5,8 +5,8 @@
   "industry": "Apparel Manufacturing",
   "business_summary": "Brahm Virat Industries Corporation Limited manufactures and sells dress and sports socks for men, ladies, and children in India. The company offers combed cotton, viscose, wool, organic cotton, acrylic, wool/cashmere, coolmax, marl yarn, cotton/silk, and special yarns. It also provides football socks for many clubs in Europe. The company exports its products to the United Kingdom, Switzerland, the United Arab Emirates, and internationally. The company was formerly known as Virat Industries Limited and changed its name to Brahm Virat Industries Corporation Limited in September 2026. The company was incorporated in 1990 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 622.4,
-  "pe_ratio": 100.84,
+  "market_cap_cr": 621.67,
+  "pe_ratio": 100.72,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 90.02,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:58:18.749701",
+  "retrieval_time": "2026-11-03T21:48:38.041924",
   "provider_reported_pb_ratio": 4.76,
-  "statements_retrieved_at": "2026-11-02T23:58:18.749701",
+  "statements_retrieved_at": "2026-11-03T21:48:38.041924",
   "retained_fields": []
 }

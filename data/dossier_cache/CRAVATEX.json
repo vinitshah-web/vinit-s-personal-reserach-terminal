@@ -5,8 +5,8 @@
   "industry": "Leisure",
   "business_summary": "Cravatex Limited, through its subsidiaries, engages in trading in branded sports goods and fitness equipment textiles in India and internationally. It also operates a license of FILA and Sergio Tacchini brand. The company was incorporated in 1951 and is headquartered in Mumbai, India. Cravatex Limited is a subsidiary of R.B. Fitness and Trading Private Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 83.51,
-  "pe_ratio": 9.71,
+  "market_cap_cr": 80.5,
+  "pe_ratio": 9.36,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 462.19,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:06:58.340280",
-  "provider_reported_pb_ratio": 0.7,
-  "statements_retrieved_at": "2026-11-02T23:06:58.340280",
+  "retrieval_time": "2026-11-03T20:53:04.673865",
+  "provider_reported_pb_ratio": 0.67,
+  "statements_retrieved_at": "2026-11-03T20:53:04.673865",
   "retained_fields": []
 }

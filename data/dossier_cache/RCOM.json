@@ -5,7 +5,7 @@
   "industry": "Telecom Services",
   "business_summary": "Reliance Communications Limited provides wireline and wireless telecom services to the business and government segments. The company was formerly known as Reliance Communication Ventures Limited and changed its name to Reliance Communications Limited in June 2006. Reliance Communications Limited was incorporated in 2004 and is based in Navi Mumbai, India. Reliance Communications Limited is in corporate insolvency resolution process under the provisions of the Insolvency and Bankruptcy Code, 2016.",
   "business_summary_reason": null,
-  "market_cap_cr": 221.15,
+  "market_cap_cr": 223.92,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:42:31.665200",
+  "retrieval_time": "2026-11-03T21:31:32.667442",
   "provider_reported_pb_ratio": -0.0,
-  "statements_retrieved_at": "2026-11-02T23:42:31.665200",
+  "statements_retrieved_at": "2026-11-03T21:31:32.667442",
   "retained_fields": []
 }

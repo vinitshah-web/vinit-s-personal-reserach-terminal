@@ -5,8 +5,8 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "JNK India Limited, a heating equipment company, engages in designing, engineering, manufacturing, fabricating, procurement, erection, supplying, installing, and commissioning of process-fired heaters, reformers, and cracking furnaces in India and internationally. The company also offers waste gas handling systems, including flare systems and incinerators; and renewable energy systems, which include engineering, procurement, and construction of solar solutions, as well as hydrogen production and distribution systems, and process plant development. Its products are used in process industries, such as oil and gas refineries, petrochemicals, fertilizers, steel, renewable energy, and chemical and pharma sectors. The company was formerly known as JNK India Private Limited. The company was incorporated in 2010 and is based in Thane, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2135.2,
-  "pe_ratio": 28.14,
+  "market_cap_cr": 2185.56,
+  "pe_ratio": 28.81,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 101.53,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:23:48.855611",
-  "provider_reported_pb_ratio": 3.76,
-  "statements_retrieved_at": "2026-11-02T23:23:48.855611",
+  "retrieval_time": "2026-11-03T21:11:29.819811",
+  "provider_reported_pb_ratio": 3.85,
+  "statements_retrieved_at": "2026-11-03T21:11:29.819811",
   "retained_fields": []
 }

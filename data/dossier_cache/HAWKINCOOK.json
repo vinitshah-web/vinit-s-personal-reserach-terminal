@@ -5,8 +5,8 @@
   "industry": "Furnishings, Fixtures & Appliances",
   "business_summary": "Hawkins Cookers Limited manufactures, trades, and sells kitchenware in India and internationally. The company offers pressure cookers; and cookware, including tavas, frying pans, deep-fry pans, saucepans, cook-n-serve bowls, handis, stewpots, saut\u00e9 pans, Uttapam pan, Tpan, casserole and mini casserole, appe pan, grill pan, dutch ovens, shallow kadhai, pizza makers and cake bakers, spatula, and cookware sets, as well as offers kitchen electricals and accessories; and parts and repair services for its products. It also provides cook-n-serve frying pan; handi; metro patila; tasla; tadka pan; multi snack pan; pasta pans; and CNS bowl products, as well as kitchen gift sets. The company also exports its products. Hawkins Cookers Limited was incorporated in 1959 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4126.08,
-  "pe_ratio": 30.42,
+  "market_cap_cr": 4104.67,
+  "pe_ratio": 30.26,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 842.02,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:17:47.447482",
-  "provider_reported_pb_ratio": 9.27,
-  "statements_retrieved_at": "2026-11-02T23:17:47.447482",
+  "retrieval_time": "2026-11-03T21:04:55.692175",
+  "provider_reported_pb_ratio": 9.22,
+  "statements_retrieved_at": "2026-11-03T21:04:55.692175",
   "retained_fields": []
 }

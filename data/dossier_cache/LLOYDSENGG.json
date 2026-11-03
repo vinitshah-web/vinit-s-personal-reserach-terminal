@@ -5,8 +5,8 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "Lloyds Engineering Works Limited provides engineering products and services in India. It designs, engineers, manufactures, fabricates, supplies, erects, installs, and commissions mechanical, hydraulic, structural, process plants, metallurgical, and chemical plants equipment, including marine loading/unloading arms, truck/wagon loading/unloading arms, columns, pressure vessels, dryers, boilers, power plant, steel plant, and capital equipment, as well as executes turnkey. The company also provides engineering, procurement, and construction projects; and manufactures and sells elevators, motors, and submersible pumps. It serves hydrocarbon, steel, nuclear, marine, and power industries; port, jetty, and refineries; and oil and gas industries. The company was formerly known as Lloyds Steels Industries Limited and changed its name to Lloyds Engineering Works Limited in July 2023. Lloyds Engineering Works Limited was founded in 1974 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 13138.7,
-  "pe_ratio": 50.47,
+  "market_cap_cr": 12353.08,
+  "pe_ratio": 47.74,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 11.29,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:28:10.461751",
-  "provider_reported_pb_ratio": 7.51,
-  "statements_retrieved_at": "2026-11-02T23:28:10.461751",
+  "retrieval_time": "2026-11-03T21:16:13.201480",
+  "provider_reported_pb_ratio": 7.06,
+  "statements_retrieved_at": "2026-11-03T21:16:13.201480",
   "retained_fields": []
 }

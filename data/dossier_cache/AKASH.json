@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "Akash Infra-Projects Limited engages in the civil construction business in India. The company undertakes various government contracts for the construction, resurfacing, widening, and repair of roads and bridges. It also constructs and develops commercial complex, hotels, and hospitals, as well as trades in lubricants. The company was incorporated in 1999 and is based in Gandhinagar, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 40.94,
-  "pe_ratio": 63.89,
+  "market_cap_cr": 39.73,
+  "pe_ratio": 62.0,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 50.09,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T22:56:30.576796",
-  "provider_reported_pb_ratio": 0.48,
-  "statements_retrieved_at": "2026-11-02T22:56:30.576796",
+  "retrieval_time": "2026-11-03T20:41:50.375187",
+  "provider_reported_pb_ratio": 0.47,
+  "statements_retrieved_at": "2026-11-03T20:41:50.375187",
   "retained_fields": []
 }

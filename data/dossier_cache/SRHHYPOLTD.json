@@ -5,8 +5,8 @@
   "industry": "Chemicals",
   "business_summary": "Sree Rayalaseema Hi-Strength Hypo Limited produces and sells industrial chemicals in India. The company operates in two segments, Chemical Manufacturing and Wind Power Energy. It offers chloramine, purichlor, oleum, sodium dichloroisocyanurate, hydrogen gas, aluminum sulphate, stable bleaching powder, sodium hydride, sodium methoxide powder and solution, and water treatment chemicals, as well as sulphuric, chlorosulphonic, hydrochloric, and monochloro acetic acids. The company is also involved in the generation and distribution of power through wind and solar plants, as well as in coal trading activities. In addition, it exports its products. Sree Rayalaseema Hi-Strength Hypo Limited was incorporated in 2005 and is based in Kurnool, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 865.45,
-  "pe_ratio": 9.34,
+  "market_cap_cr": 841.42,
+  "pe_ratio": 9.08,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 565.75,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:50:40.617384",
-  "provider_reported_pb_ratio": 0.89,
-  "statements_retrieved_at": "2026-11-02T23:50:40.617384",
+  "retrieval_time": "2026-11-03T21:40:30.009858",
+  "provider_reported_pb_ratio": 0.87,
+  "statements_retrieved_at": "2026-11-03T21:40:30.009858",
   "retained_fields": []
 }

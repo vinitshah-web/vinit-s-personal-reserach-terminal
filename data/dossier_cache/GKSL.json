@@ -5,8 +5,8 @@
   "industry": "Medical Care Facilities",
   "business_summary": "Gujarat Kidney and Super Speciality Limited operates multi-specialty and super-specialty hospitals in India. It provides treatment for Oncology, Neurology, Gastroenterology, Urology, Nephrology, and Physiotherapy. It also offers Renal Surgery, Vascular Surgery, Gynecology and obstetrics, Robotic Surgery, Bariatric Surgery, Laparoscopic Surgery, Endocrine Surgery, Neurosurgery, and Joint Replacement services. Its facilities include intensive care unit, rooms, patient counselling, operation theatres, and dialysis center. Gujarat Kidney And Super Speciality Limited was founded in 2014 and is headquartered in Vadodara, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1289.8,
-  "pe_ratio": 64.41,
+  "market_cap_cr": 1269.77,
+  "pe_ratio": 63.41,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 40.57,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:14:47.956759",
-  "provider_reported_pb_ratio": 4.03,
-  "statements_retrieved_at": "2026-11-02T23:14:47.956759",
+  "retrieval_time": "2026-11-03T21:01:38.960521",
+  "provider_reported_pb_ratio": 3.97,
+  "statements_retrieved_at": "2026-11-03T21:01:38.960521",
   "retained_fields": []
 }

@@ -5,7 +5,7 @@
   "industry": "Farm & Heavy Construction Machinery",
   "business_summary": "HMT Limited engages in the manufacture and sale of food processing machines in India and internationally. It offers dairy machines, including pasteurizers/chiller, cream separators, homogenizers, butter-making machine, centrifugal pumps, plate heat exchangers, non-dairy applications, and watches. The company was incorporated in 1953 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1883.62,
+  "market_cap_cr": 1885.4,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:19:27.437248",
+  "retrieval_time": "2026-11-03T21:06:46.870338",
   "provider_reported_pb_ratio": -0.93,
-  "statements_retrieved_at": "2026-11-02T23:19:27.437248",
+  "statements_retrieved_at": "2026-11-03T21:06:46.870338",
   "retained_fields": []
 }

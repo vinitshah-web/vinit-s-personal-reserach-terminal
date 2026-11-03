@@ -5,8 +5,8 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "Shilp Gravures Limited, together with its subsidiary, Etone India Private Limited, manufactures and sells engraved copper rollers using electronic, laser, and chemical etching technologies in India. It operates through Engraved Copper Roller and Energy Generation segments. The company's products are used in flexible packaging, coating rollers/anilox rollers, embossed/laser engraving, scanning services, and special applications. It also exports its products. In addition, the company generates energy through windmills with a total capacity of 2800 KW, solar farms with a total capacity of 2000 KW, and rooftop systems with a total capacity of 425 KW. Shilp Gravures Limited was incorporated in 1993 and is based in Kalol, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 78.88,
-  "pe_ratio": 11.88,
+  "market_cap_cr": 81.3,
+  "pe_ratio": 12.24,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 169.25,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:47:39.061712",
-  "provider_reported_pb_ratio": 0.76,
-  "statements_retrieved_at": "2026-11-02T23:47:39.061712",
+  "retrieval_time": "2026-11-03T21:37:15.987889",
+  "provider_reported_pb_ratio": 0.78,
+  "statements_retrieved_at": "2026-11-03T21:37:15.987889",
   "retained_fields": []
 }

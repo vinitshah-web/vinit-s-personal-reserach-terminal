@@ -5,15 +5,15 @@
   "industry": "Banks - Regional",
   "business_summary": "DCB Bank Limited engages in the provision of various banking and financial products and services in India. It operates through Treasury Operations, Corporate/Wholesale Banking, Retail Banking, and Other Banking Operations segments. The company offers deposit products, including current and saving, NRI, recurring, and fixed deposit accounts; debit, travel smart, and credit cards; and payment services, such as bill/utility payment, remittances, tax payment, and POS terminal services, as well as IMPS, RTGS, NEFT, and UPI services. It also provides secured lending services, including loan against property, overdraft/working capital, co-lending, commercial vehicle, construction equipment and finance, dealer trade advances, kisan credit card, school finance, and retail microfinance; and home, auto, gold, tractor, and term loans, as well as ODTD services. In addition, the company offers corporate banking services, which include trade current accounts, foreign exchange, guarantee, import and export, letter of credit, supply chain, bill collection, and invoice discounting services; and capital management services comprising working capital and cash management services. Further, the company provides life, general, and health insurance products, as well as mutual funds; and locker facility and ASBA online services. DCB Bank Limited was incorporated in 1995 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 6061.91,
-  "pe_ratio": 7.25,
+  "market_cap_cr": 5955.88,
+  "pe_ratio": 7.13,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 215.51,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 32.2271,
   "fifty_two_week_high": 234.8,
-  "fifty_two_week_low": 156.55,
+  "fifty_two_week_low": 157.14,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:07:57.683845",
-  "provider_reported_pb_ratio": 0.87,
-  "statements_retrieved_at": "2026-11-02T23:07:57.683845",
+  "retrieval_time": "2026-11-03T20:54:04.018143",
+  "provider_reported_pb_ratio": 0.86,
+  "statements_retrieved_at": "2026-11-03T20:54:04.018143",
   "retained_fields": []
 }

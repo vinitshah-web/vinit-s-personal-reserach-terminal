@@ -5,8 +5,8 @@
   "industry": "Electrical Equipment & Parts",
   "business_summary": "Aartech Solonics Limited operates as a system solution oriented research and development enterprise in the field of specialized and selected energy appliances in India and internationally. The company offers BTS 2000, a fast bus transfer system; control and relay panels, including main and auxiliary relays, annunciation relays, fuses, switches, wiring, terminal blocks; kranking ultracapacitors, built for engine cranking tasks; CLIP fault current limiters; best case; AC and DC UPS; flywheel, a mechanical energy storage device; load checker, a system for cutting off the mains supply if it detects excessive current; solar design and engineering services; and solid waste treatment. It also provides engineering solutions to utilities, industries, railways, renewable energy developers, and institutional customers in India and overseas. The company serves renewable and non-renewable energy, power T&D, heavy engineering, defense and exploration, healthcare, IT & telecom, waste management, non-renewables, and transportation industries. Aartech Solonics Limited was incorporated in 1982 and is based in Bhopal, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 124.41,
-  "pe_ratio": 25.43,
+  "market_cap_cr": 137.03,
+  "pe_ratio": 28.01,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 9.76,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T22:54:17.098316",
-  "provider_reported_pb_ratio": 4.01,
-  "statements_retrieved_at": "2026-11-02T22:54:17.098316",
+  "retrieval_time": "2026-11-03T20:39:21.712983",
+  "provider_reported_pb_ratio": 4.42,
+  "statements_retrieved_at": "2026-11-03T20:39:21.712983",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Himadri Speciality Chemical Limited manufactures and sells carbon materials and chemicals in India and internationally. The company operates through Carbon Materials and Chemicals and Power segments. It offers anode materials, LFP cathodes, and recycling materials. The company also provides SDS, TDS, ASTM, lithium mining and refining, and carbon black; tyre, MRG, plastics, ink, and coatings; refined naphthalene, coal tar pitch, specialty oils, clean energy, and anti-corrosion products. It serves lithium-ion batteries, paints, plastics, tyres, technical rubber goods, aluminium, graphite electrodes, agrochemicals, defence, and construction chemicals industries. It also engages in industrial chemicals trading and petrochemicals trading. Himadri Speciality Chemical Limited was formerly known as Himadri Chemicals & Industries Limited and changed its name to Himadri Speciality Chemical Limited in July 2016. The company was incorporated in 1987 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 26265.61,
-  "pe_ratio": 30.67,
+  "market_cap_cr": 26691.97,
+  "pe_ratio": 31.17,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 101.77,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:19:48.119062",
-  "provider_reported_pb_ratio": 5.12,
-  "statements_retrieved_at": "2026-11-02T23:19:48.119062",
+  "retrieval_time": "2026-11-03T21:07:08.120446",
+  "provider_reported_pb_ratio": 5.2,
+  "statements_retrieved_at": "2026-11-03T21:07:08.120446",
   "retained_fields": []
 }

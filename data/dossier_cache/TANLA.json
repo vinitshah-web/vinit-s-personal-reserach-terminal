@@ -5,14 +5,14 @@
   "industry": "Software - Application",
   "business_summary": "Tanla Platforms Limited, together with its subsidiaries, provides cloud communication platforms as a service solution to enterprises in India and internationally. The company operates Wisely Platform, an API-led intelligent platform-of-platforms, which serves as a unified hub for digital interactions to craft solutions and provide experiences in the realm of communication, privacy, and security. It also offers Wisely Anti-Phishing Platform against SMS phishing; Trubloq for protecting customers from spam; Wisely Consent, a consent management solution that ensures compliance for enterprise customer communications on SMS and voice channels; messaging as a platform, which deliver business messaging with ai-powered automation; and Surbo that elevates customer engagement with surbo's conversation ai. In addition, the company offers Wise Albert for digital interactions, as well as email, RCS business messaging, SMS, Truecaller business messaging, voice, and WhatsApp business API solutions. The company was formerly known as Tanla Solutions Limited and changed its name to Tanla Platforms Limited in October 2020. Tanla Platforms Limited was incorporated in 1995 and is headquartered in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 8523.21,
-  "pe_ratio": 15.42,
+  "market_cap_cr": 8742.42,
+  "pe_ratio": 15.81,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 205.25,
-  "dividend_yield_pct": 1.9134,
+  "dividend_yield_pct": 1.8592,
   "shares_outstanding_cr": 13.2051,
-  "fifty_two_week_high": 656.0,
+  "fifty_two_week_high": 677.9,
   "fifty_two_week_low": 365.9,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:53:03.404752",
-  "provider_reported_pb_ratio": 3.14,
-  "statements_retrieved_at": "2026-11-02T23:53:03.404752",
+  "retrieval_time": "2026-11-03T21:43:02.675496",
+  "provider_reported_pb_ratio": 3.23,
+  "statements_retrieved_at": "2026-11-03T21:43:02.675496",
   "retained_fields": []
 }

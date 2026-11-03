@@ -5,14 +5,14 @@
   "industry": "Capital Markets",
   "business_summary": "Master Trust Limited provides financial services in India. It offers multi-asset brokerage and trading solutions, research and advisory services, wealth management, merchant banking, depository and custody services, and NBFC lending services. In addition, it also provides equity trading, derivatives trading, wealth management, currency trading, insurance, commodity trading, algo trading systems, merchant banking, depository services, and NBFC related services. The company also offers lending, broking, and portfolio management services, as well as engages in sale and purchase of securities and lands; and construction and real estate services. Master Trust Limited was incorporated in 1985 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 962.31,
-  "pe_ratio": 6.96,
+  "market_cap_cr": 968.86,
+  "pe_ratio": 7.0,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 67.96,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 12.3516,
-  "fifty_two_week_high": 134.0,
+  "fifty_two_week_high": 133.5,
   "fifty_two_week_low": 55.6,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:30:10.499884",
+  "retrieval_time": "2026-11-03T21:18:23.880591",
   "provider_reported_pb_ratio": 1.15,
-  "statements_retrieved_at": "2026-11-02T23:30:10.499884",
+  "statements_retrieved_at": "2026-11-03T21:18:23.880591",
   "retained_fields": []
 }

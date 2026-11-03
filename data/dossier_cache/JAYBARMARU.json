@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Jay Bharat Maruti Limited engages in the manufacture and sale of auto components and assembly systems in India. The company offers sheet metal components and assemblies, welded and muffler assemblies, tools and dies, exhaust systems, fuel fillers, front and rear axle, chassis and suspension systems, tubular components, engine mounting, cross-car beam, frame assemblies, progressive tooling, and hot stamping components and assembly. It also offers fuel neck, and tools and dies for motor vehicles; and components and spare parts. Jay Bharat Maruti Limited was founded in 1983 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1407.36,
-  "pe_ratio": 10.18,
+  "market_cap_cr": 1307.66,
+  "pe_ratio": 9.46,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 64.31,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:23:11.935988",
-  "provider_reported_pb_ratio": 2.02,
-  "statements_retrieved_at": "2026-11-02T23:23:11.935988",
+  "retrieval_time": "2026-11-03T21:10:48.953919",
+  "provider_reported_pb_ratio": 1.88,
+  "statements_retrieved_at": "2026-11-03T21:10:48.953919",
   "retained_fields": []
 }

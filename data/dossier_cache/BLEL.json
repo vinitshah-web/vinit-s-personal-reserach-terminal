@@ -6,7 +6,7 @@
   "business_summary": "Behari Lal Engineering Limited engages in the manufacturing and trading of iron and steel products in India. The company manufactures metal rolls for rolling mills across various grades including alloy cast steel rolls, alloy steel base adamite rolls, graphitic steel rolls, S. G. Iron Pearlitic Rolls, S. G. Iron Bainitic/Accicular Rolls, alloyed indefinite chill rolls, and forged rolls used in rolling processes to produce finished steel products such as TMT rebar and structural steel. It also offers engineering castings in various grades for industries including steel, iron, mining and aggregate crushers, power, and sugar; carbon, alloy steel, tool steel, valve steel, and stainless steel bars in various sections such as rounds, round corner square, flats and hex, with different sizes; forging ingots and forged shafts/ blocks for application in industries, such as automotive, aerospace, oil & gas, energy, and heavy engineering. The company caters to industries such as automobile, steel, mining, infrastructure and construction, power, aerospace and defence, and cement. It sells its products in India, Afghanistan, Brazil, Finland, France, Germany, Ireland, Mexico, Nepal, Nigeria, South Africa, Tanzania, Togo, Uganda, UAE, and the USA. Behari Lal Engineering Limited was incorporated in 1995 and is based in Delhi, India.",
   "business_summary_reason": null,
   "market_cap_cr": null,
-  "pe_ratio": 27.58,
+  "pe_ratio": 27.39,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 78.41,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:03:04.669051",
-  "provider_reported_pb_ratio": 5.69,
-  "statements_retrieved_at": "2026-11-02T23:03:04.669051",
+  "retrieval_time": "2026-11-03T20:48:57.988613",
+  "provider_reported_pb_ratio": 5.65,
+  "statements_retrieved_at": "2026-11-03T20:48:57.988613",
   "retained_fields": []
 }

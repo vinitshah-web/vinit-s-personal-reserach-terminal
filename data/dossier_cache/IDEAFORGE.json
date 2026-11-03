@@ -5,8 +5,8 @@
   "industry": "Aerospace & Defense",
   "business_summary": "ideaForge Technology Limited engages in the manufacture and marketing of unmanned aerial vehicle (UAV) systems for security and surveillance applications in India and internationally. The company provides BlueFire Touch, a ground control software for controlling and managing UAVs and autopilot subsystems; and BlueFire Live, a live streaming and payload control software, as well as autopilot and related software and artificial intelligence. It also offers Unmanned Aerial Vehicles, such as NETRA V4PRO, Q4i, Q6, NETRA V4+, SWITCH, NETRA 5, SWITCH V2, UAV- ZOLT tactical class, and YETI, a long-range logistics UAV; surveillance payloads - daylight sensors, thermal sensors, day and night integrated sensors, photogrammetry payloads, megaphones, LiDAR, Hyperspectral payloads, Multispectral payloads, synthetic aperture radar payload, and delivery payloads; and battery systems, communication systems, ground control stations, packaging systems, and other products. In addition, the company provides after-sales services, including training, product support, extended warranties, repairs and fleet maintenance, expert consulting, etc. ideaForge Technology Limited was incorporated in 2007 and is based in Navi Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3178.66,
-  "pe_ratio": 81.43,
+  "market_cap_cr": 3290.04,
+  "pe_ratio": 48.09,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 138.42,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:20:16.217197",
-  "provider_reported_pb_ratio": 4.62,
-  "statements_retrieved_at": "2026-11-02T23:20:16.217197",
+  "retrieval_time": "2026-11-03T21:07:38.596489",
+  "provider_reported_pb_ratio": 4.78,
+  "statements_retrieved_at": "2026-11-03T21:07:38.596489",
   "retained_fields": []
 }

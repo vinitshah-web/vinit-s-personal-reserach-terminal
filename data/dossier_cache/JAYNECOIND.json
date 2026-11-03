@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "Jayaswal Neco Industries Limited engages in the manufacture and sale of ally steel, and iron and steel castings in India. It operates through Steel; Iron and Steel Castings; and Other segments. The company offers steel products, including pellets, sponge and pig iron, billets, bright bar, alloy steel bars, and wire rods, as well as metallic products used in axles, fasteners, springs, connecting rods, pistons, shock absorbers, crankshafts, gears, bearings, stabiliser bars, ball joints, tyre cord, and tyre bead wire. It also provides automotive castings, such as differential and clutch housings, axles housings, cylinder heads, gear box housing, and cast axles products used for backhoe loaders, kingposts, and KP carriage assemblies; and carrier housing, axle end caps, backing rings and other precision-engineered castings for use in heavy commercial vehicles, railways, automotive components, and OEM applications. Further, the company offers ductile and cast iron manhole covers, frames, gratings, centrifugally cast CI spigot and socket pipes and fittings; hubless pipes and fittings; ductile iron castings; slag pots; heavy ingot mould; mould assembly with trumpet; duplex ingot moulds; and counter weights. Additionally, it mines for iron ore and limestone through advanced steel processing; and trades in coal and PVC pipes. The company serves automotive, engineering, railways, infrastructure, oil and gas, power, defence, agriculture, and other industrial sectors. The company was formerly known as Jayaswals Neco Ltd. and changed its name to Jayaswal Neco Industries Limited in November 2007. The company was incorporated in 1972 and is headquartered in Nagpur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 8725.39,
-  "pe_ratio": 12.67,
+  "market_cap_cr": 8704.03,
+  "pe_ratio": 12.64,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 34.2,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:23:16.393293",
-  "provider_reported_pb_ratio": 2.63,
-  "statements_retrieved_at": "2026-11-02T23:23:16.393293",
+  "retrieval_time": "2026-11-03T21:10:53.815319",
+  "provider_reported_pb_ratio": 2.62,
+  "statements_retrieved_at": "2026-11-03T21:10:53.815319",
   "retained_fields": []
 }

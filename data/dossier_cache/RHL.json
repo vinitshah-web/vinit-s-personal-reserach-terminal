@@ -5,14 +5,14 @@
   "industry": "Lodging",
   "business_summary": "Robust Hotels Limited engages in the hotel business in India. The company operates Hyatt Regency Chennai hotel. It also provides concierge and spa, electric vehicle charging stations, fitness center, multi-cuisine restaurants, pet-friendly stays, pool and room service, and conference and banquet facilities. The company serves business travelers, global guests and grand events. Robust Hotels Limited was incorporated in 2007 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 271.5,
+  "market_cap_cr": 271.46,
   "pe_ratio": 10.13,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 428.71,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.7292,
-  "fifty_two_week_high": 249.0,
+  "fifty_two_week_high": 247.2,
   "fifty_two_week_low": 155.0,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:43:08.393258",
+  "retrieval_time": "2026-11-03T21:32:11.346616",
   "provider_reported_pb_ratio": 0.37,
-  "statements_retrieved_at": "2026-11-02T23:43:08.393258",
+  "statements_retrieved_at": "2026-11-03T21:32:11.346616",
   "retained_fields": []
 }

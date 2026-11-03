@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "Lloyds Metals and Energy Limited manufactures and sells sponge iron and iron ore in India and the Isle of Man. The company operates through four segments: Mining, Steel and related value added products, Mine Developer and Operator (MDO), and Others. It offers wire rods, round and TMT bars, as well as flat steel products. The company is also involved in the generation of power; and trading of pellets. Lloyds Metals and Energy Limited was incorporated in 1977 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 102710.94,
-  "pe_ratio": 21.4,
+  "market_cap_cr": 100189.74,
+  "pe_ratio": 20.88,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 246.47,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:28:12.793292",
-  "provider_reported_pb_ratio": 7.4,
-  "statements_retrieved_at": "2026-11-02T23:28:12.793292",
+  "retrieval_time": "2026-11-03T21:16:15.991364",
+  "provider_reported_pb_ratio": 7.22,
+  "statements_retrieved_at": "2026-11-03T21:16:15.991364",
   "retained_fields": []
 }

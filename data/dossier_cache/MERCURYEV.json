@@ -5,8 +5,8 @@
   "industry": "Auto Manufacturers",
   "business_summary": "Mercury Ev-Tech Limited manufactures and trades electronic vehicles and other related parts in India. It offers electric cars, two-wheelers, commercial vehicles, and industrial fleets. The company was formerly known as Mercury Metals Limited and changed its name to Mercury Ev-Tech Limited in March 2023. Mercury Ev-Tech Limited was incorporated in 1986 and is based in Vadodara, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 608.67,
-  "pe_ratio": 133.5,
+  "market_cap_cr": 628.43,
+  "pe_ratio": 137.83,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 14.61,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:30:54.830304",
-  "provider_reported_pb_ratio": 2.19,
-  "statements_retrieved_at": "2026-11-02T23:30:54.830304",
+  "retrieval_time": "2026-11-03T21:19:11.646566",
+  "provider_reported_pb_ratio": 2.26,
+  "statements_retrieved_at": "2026-11-03T21:19:11.646566",
   "retained_fields": []
 }

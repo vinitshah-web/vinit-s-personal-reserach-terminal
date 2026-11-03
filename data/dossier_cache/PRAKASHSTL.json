@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "Prakash Steelage Limited manufactures and trades in stainless steel welded pipes and tubes in India. The company offers stainless steel large diameter pipes; stainless steel welded tubes; stainless steel instrumentation tubes; stainless steel welded heat exchanger tubes, condenser tubes, and tubes for critical applications; and stainless steel welded EFW pipes. It serves the boilers, automobiles, breweries, chemical and fertilizers, condensers, pharmaceuticals, and pump valves industries. The company exports its products. Prakash Steelage Limited was incorporated in 1991 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 58.1,
-  "pe_ratio": 110.67,
+  "market_cap_cr": 58.8,
+  "pe_ratio": 112.0,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 0.51,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:39:58.930775",
-  "provider_reported_pb_ratio": 6.47,
-  "statements_retrieved_at": "2026-11-02T23:39:58.930775",
+  "retrieval_time": "2026-11-03T21:28:46.542552",
+  "provider_reported_pb_ratio": 6.55,
+  "statements_retrieved_at": "2026-11-03T21:28:46.542552",
   "retained_fields": []
 }

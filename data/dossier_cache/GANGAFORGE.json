@@ -5,7 +5,7 @@
   "industry": "Metal Fabrication",
   "business_summary": "Ganga Forging Limited manufactures and sells steel forging parts and machine components for automotive and non-automotive sectors in India. It offers forged crankshafts, crankshaft single and double cylinders, straight and inclined connecting rods, forged and big yokes, trunnion-pins, spiders/crosses, trunnion shafts, forged flanges and clamps, and blind flanges, as well as half connecting incline rod; and socket clevises, anchor shackles, and dead-end pin electrical power transmission parts. The company also provides aluminum forging products. It serves clients in railways, construction equipment, agricultural machinery and equipment, earth moving and other industries. The company was incorporated in 1988 and is based in Rajkot, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 46.84,
+  "market_cap_cr": 46.17,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:13:58.450737",
-  "provider_reported_pb_ratio": 0.75,
-  "statements_retrieved_at": "2026-11-02T23:13:58.450737",
+  "retrieval_time": "2026-11-03T21:00:41.366520",
+  "provider_reported_pb_ratio": 0.74,
+  "statements_retrieved_at": "2026-11-03T21:00:41.366520",
   "retained_fields": []
 }

@@ -5,7 +5,7 @@
   "industry": "Packaging & Containers",
   "business_summary": "Pearl Polymers Limited engages in the manufacture and trading of PET bottles, jars, and containers to consumers and industries in India. The company provides storage jars, water bottles, kitchen essentials, gift sets, and other exclusive products. The company sells its products under the Pearlpet brand name. Pearl Polymers Limited was incorporated in 1971 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 26.26,
+  "market_cap_cr": 26.58,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:38:33.072136",
-  "provider_reported_pb_ratio": 0.91,
-  "statements_retrieved_at": "2026-11-02T23:38:33.072136",
+  "retrieval_time": "2026-11-03T21:27:16.604120",
+  "provider_reported_pb_ratio": 0.92,
+  "statements_retrieved_at": "2026-11-03T21:27:16.604120",
   "retained_fields": []
 }

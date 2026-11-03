@@ -5,7 +5,7 @@
   "industry": "Department Stores",
   "business_summary": "Future Enterprises Limited, together with its subsidiaries, engages in the retail business in India. The company offers integrated and IT enabled end-to-end supply chain and logistic services, which include modern warehousing, cold chain, and express and e-commerce logistics to food and beverages, lifestyle, consumer electronics and high tech, automotive and engineering, home and furniture, healthcare, general merchandise, and e-commerce industries. It also provides out-of-home media solutions to advertisers. The company was formerly known as Future Retail Limited and changed its name to Future Enterprises Limited in May 2016. The company was incorporated in 1987 and is based in Mumbai, India. Future Enterprises Limited is in reorganization.",
   "business_summary_reason": null,
-  "market_cap_cr": 14.33,
+  "market_cap_cr": 13.84,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -13,7 +13,7 @@
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 45.493,
   "fifty_two_week_high": 0.52,
-  "fifty_two_week_low": 0.29,
+  "fifty_two_week_low": 0.28,
   "financial_statements": [
     {
       "period": "FY22 (2022)",
@@ -33,8 +33,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:12:46.337030",
+  "retrieval_time": "2026-11-03T20:59:16.639358",
   "provider_reported_pb_ratio": 0.01,
-  "statements_retrieved_at": "2026-11-02T23:12:46.337030",
+  "statements_retrieved_at": "2026-11-03T20:59:16.639358",
   "retained_fields": []
 }

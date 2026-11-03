@@ -5,8 +5,8 @@
   "industry": "Farm Products",
   "business_summary": "Apex Frozen Foods Limited engages in the farming, processing, production, and sale of shrimps in India. It provides ready-to-cook whiteleg and black tiger shrimps, which include head on and whole, headless and shell-on, easy peel, peeled, and cooked peeled & deveined-tail-on, cooked in shell, dusted and breaded, par-fried, butterfly, skewered, seasoned, peeled and deveined-tail-on, peeled and un-deveined-tail-on, peeled and deveined-tail-off, peeled and un-deveined, and peeled and deveined shrimps, as well as shrimp rings. The company offers ready-to-cook products under Bay Fresh, Bay Harvest, and Bay Premium brand names to food companies, retail chains, restaurants, club stores, and distributors. It also exports its products to the United States, the European Union, and China. Apex Frozen Foods Limited was founded in 1995 and is based in Kakinada, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 955.0,
-  "pe_ratio": 18.58,
+  "market_cap_cr": 969.53,
+  "pe_ratio": 18.86,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 168.84,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T22:58:07.800450",
-  "provider_reported_pb_ratio": 1.81,
-  "statements_retrieved_at": "2026-11-02T22:58:07.800450",
+  "retrieval_time": "2026-11-03T20:43:36.351687",
+  "provider_reported_pb_ratio": 1.84,
+  "statements_retrieved_at": "2026-11-03T20:43:36.351687",
   "retained_fields": []
 }

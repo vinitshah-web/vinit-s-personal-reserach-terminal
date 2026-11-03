@@ -5,7 +5,7 @@
   "industry": "Capital Markets",
   "business_summary": "Onelife Capital Advisors Limited, together with its subsidiaries, provides advisory services to corporates, high net worth individuals, and family offices in India. It operates through Advisory Services, Broking Services, Trading Services, and Other Business segments. The company offers advisory services for fund raising, as well as acquisition financing and structuring the deal; brokerage on the buying/selling of commodities futures; and seamless execution and personalized support services. It also provides research services for castor oil and derivatives, food processing, glass, infrastructure, metals, oil and gas, oral care, packaging, payment gateway, pharma, power, and recycle sectors. In addition, the company is involved in the business of financing and financing arrangements. Onelife Capital Advisors Limited was incorporated in 2007 and is based in Thane, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 203.61,
+  "market_cap_cr": 207.61,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:36:54.515007",
-  "provider_reported_pb_ratio": 2.66,
-  "statements_retrieved_at": "2026-11-02T23:36:54.515007",
+  "retrieval_time": "2026-11-03T21:25:34.643355",
+  "provider_reported_pb_ratio": 2.71,
+  "statements_retrieved_at": "2026-11-03T21:25:34.643355",
   "retained_fields": []
 }

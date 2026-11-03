@@ -5,7 +5,7 @@
   "industry": "Information Technology Services",
   "business_summary": "GVP Infotech Limited provides information technology goods and services in India. The company offers payment aggregation and merchant acquiring services; UPI and digital payment processing; and QR-based payment acceptance solutions. It also provides project management; consulting and solutioning for deployment of IT, network, IoT, and power infrastructure solutions; cyber and network security solutions for IT and network devices; and document management solutions for legal, administrative, and operational documents. The company was formerly known as Fourth Dimension Solutions Limited and changed its name to GVP Infotech Limited in July 2023. GVP Infotech Limited was incorporated in 2011 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 117.23,
+  "market_cap_cr": 118.7,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:17:25.339561",
-  "provider_reported_pb_ratio": 1.31,
-  "statements_retrieved_at": "2026-11-02T23:17:25.339561",
+  "retrieval_time": "2026-11-03T21:04:30.767287",
+  "provider_reported_pb_ratio": 1.32,
+  "statements_retrieved_at": "2026-11-03T21:04:30.767287",
   "retained_fields": []
 }

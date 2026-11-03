@@ -5,14 +5,14 @@
   "industry": "Integrated Freight & Logistics",
   "business_summary": "Transport Corporation of India Limited provides end-to-end integrated supply chain and logistics solutions in India. The company operates through Freight Division, Supply Chain Solutions Division, Seaways Division, and Energy Division segments. It offers surface transport solutions, such as full truck load, less than truck load, over-dimensional cargo, and project heavy haul. In addition, the company provides supply chain solutions, such as supply chain network design, warehousing management, multimodal transportation, and inventory management services, as well as offers coastal shipping, container cargo movements, and transportation services. Further, it offers logistics and supply chain solutions, including port logistics, control tower consultancy, inbound /outbound logistics, reefer storage and TPT, liquid and gas bulk logistics, rail and container movement, handling services of heavy haulage, freight transportation, rail logistics, and streamlined logistics management services. The company serves automotive, chemicals, engineering, retail, e-commerce, pharmaceuticals, healthcare, FMCG, consumer durables, and defense industries. Transport Corporation of India Limited was founded in 1958 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 6729.77,
-  "pe_ratio": 14.95,
+  "market_cap_cr": 6553.26,
+  "pe_ratio": 14.55,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 363.37,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 7.5269,
-  "fifty_two_week_high": 1225.8,
+  "fifty_two_week_high": 1224.0,
   "fifty_two_week_low": 797.0,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:53:32.561436",
-  "provider_reported_pb_ratio": 2.46,
-  "statements_retrieved_at": "2026-11-02T23:53:32.561436",
+  "retrieval_time": "2026-11-03T21:43:33.001223",
+  "provider_reported_pb_ratio": 2.4,
+  "statements_retrieved_at": "2026-11-03T21:43:33.001223",
   "retained_fields": []
 }

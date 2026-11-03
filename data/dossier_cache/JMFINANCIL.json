@@ -5,8 +5,8 @@
   "industry": "Capital Markets",
   "business_summary": "JM Financial Limited, together with its subsidiaries, provides various integrated and diversified financial services to corporations, financial institutions, government organizations, high net-worth individuals, and retail customers in India and internationally. It operates through Corporate Advisory and Capital Markets; Wealth and Asset Management; Private Markets; and Affordable Home Loans segments. The Corporate Advisory and Capital Markets segment caters to institutional, corporate, promoters, government and clients, including investment banking, and institutional equities and research. The Wealth and Asset Management segment provides wealth management business, broking, PMS, Equity and Debt AIFs, and mutual fund business. The Private Market segment comprises of private credit, such as corporate, bespoke, real estate and distressed credit; and Private equity funds, REITs, etc. The Affordable Home Loans segment provides affordable home loans including the affordable housing finance business. The company also provides real estate consulting and capital market lending services. The company was formerly known as J.M. Share and Stock Brokers Private Limited and changed its name to JM Financial Limited in September 2004. JM Financial Limited was founded in 1973 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 10697.4,
-  "pe_ratio": 10.28,
+  "market_cap_cr": 10714.63,
+  "pe_ratio": 10.3,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 111.44,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:23:47.736099",
+  "retrieval_time": "2026-11-03T21:11:28.525996",
   "provider_reported_pb_ratio": 1.0,
-  "statements_retrieved_at": "2026-11-02T23:23:47.736099",
+  "statements_retrieved_at": "2026-11-03T21:11:28.525996",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Aerospace & Defense",
   "business_summary": "Cochin Shipyard Limited, together with its subsidiaries, engages in the building and repair of ships and offshore structures in India and internationally. The company operates through two segments, Shipbuilding and Ship Repair. It offers shipbuilding products, including aircraft carriers, missile vessels, anti-submarine warfare shallow water crafts, technology demonstration vessels, floating border outpost vessels, fast patrol vessels, hydrographic survey vessels, offshore patrol vessels, and pollution control vessels for the defence market; oil tankers, bulk carriers, dredgers, pax vessels, tugs, special purpose vessels, deck cargo/jacket launch barges, electric autonomous vessels and passenger ferries, ro-pax vessels, specialised fishing vessels, marine ambulances, zero emission feeder container vessels, and commissioning and hybrid operation vessels for the commercial market; and platform supply vessels and anchor handling/tug supply vessels for the offshore market, as well as product carriers, passenger vessels, high bollard pull tugs, and air defence ships. The company also provides ship repair services, such as maintenance and repair of aircraft carriers and other defense vessels, as well as tankers, bulk carriers, and other commercial and specialized vessels; oil rig upgradation, repair projects, and conversion services; and upgradation of ships for oil exploration, periodical maintenance, and life extension services. In addition, the company offers marine engineering training services. It exports its products in the United Arab Emirates, Bahamas, Cyprus, Germany, Saudi Arabia, the Netherlands, Norway, the United States, and Liberia. Cochin Shipyard Limited was founded in 1969 and is based in Ernakulam, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 30701.53,
-  "pe_ratio": 45.13,
+  "market_cap_cr": 31596.0,
+  "pe_ratio": 44.35,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 223.24,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:06:09.924798",
-  "provider_reported_pb_ratio": 5.23,
-  "statements_retrieved_at": "2026-11-02T23:06:09.924798",
+  "retrieval_time": "2026-11-03T20:52:14.869966",
+  "provider_reported_pb_ratio": 5.38,
+  "statements_retrieved_at": "2026-11-03T20:52:14.869966",
   "retained_fields": []
 }

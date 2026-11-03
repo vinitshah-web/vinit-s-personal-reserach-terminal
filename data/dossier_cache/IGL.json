@@ -5,8 +5,8 @@
   "industry": "Utilities - Regulated Gas",
   "business_summary": "Indraprastha Gas Limited distributes and sells natural gas in India. It supplies compressed natural gas (CNG) to the transport sector; and piped natural gas to domestic, industrial, and commercial sectors. The company operates CNG stations, as well as steel pipeline and MDPE networks. It serves households; hotels, restaurants, malls, commercial complexes, educational/religious institutions, and hospitals; and metal, textiles, food and beverages, pharmaceuticals, chemical, auto and ancillary, and packaging industries. The company was incorporated in 1998 and is headquartered in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 18608.82,
-  "pe_ratio": 18.62,
+  "market_cap_cr": 18659.22,
+  "pe_ratio": 18.67,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 71.44,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:20:31.338057",
-  "provider_reported_pb_ratio": 1.86,
-  "statements_retrieved_at": "2026-11-02T23:20:31.338057",
+  "retrieval_time": "2026-11-03T21:07:54.194794",
+  "provider_reported_pb_ratio": 1.87,
+  "statements_retrieved_at": "2026-11-03T21:07:54.194794",
   "retained_fields": []
 }

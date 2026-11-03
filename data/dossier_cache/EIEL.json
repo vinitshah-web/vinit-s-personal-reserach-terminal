@@ -5,14 +5,14 @@
   "industry": "Engineering & Construction",
   "business_summary": "Enviro Infra Engineers Limited engages in the design, construction, operation, and maintenance of water and wastewater treatment plants (WWTPs) and water supply scheme projects (WSSPs) for government authorities/bodies in India. Its WWTPs include sewage treatment plants, sewerage schemes, and common effluent treatment plants; and WSSPs comprise water treatment plants along with pumping stations, as well as laying of pipelines for the supply of water. The company is also involved in engineering, procurement, and construction (EPC) execution of renewable power plant projects; and sale of renewable energy. Enviro Infra Engineers Limited was incorporated in 2009 and is based in Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2938.37,
-  "pe_ratio": 16.24,
+  "market_cap_cr": 2945.04,
+  "pe_ratio": 15.64,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 70.27,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 17.553,
-  "fifty_two_week_high": 254.5,
+  "fifty_two_week_high": 254.45,
   "fifty_two_week_low": 134.71,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:10:37.503409",
-  "provider_reported_pb_ratio": 2.38,
-  "statements_retrieved_at": "2026-11-02T23:10:37.503409",
+  "retrieval_time": "2026-11-03T20:56:55.970089",
+  "provider_reported_pb_ratio": 2.39,
+  "statements_retrieved_at": "2026-11-03T20:56:55.970089",
   "retained_fields": []
 }

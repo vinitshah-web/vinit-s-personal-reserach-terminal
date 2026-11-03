@@ -5,14 +5,14 @@
   "industry": "Marine Shipping",
   "business_summary": "Transworld Shipping Lines Limited provides ship owning and chartering services in India, the United Arab Emeritus, and internationally. It owns and operates container feeder ships. As of March 31, 2026, the company owned and operated a fleet of 12 vessels comprising 10 container vessels and 2 dry bulk vessels. It serves industries, including steel, road and infrastructure, defence, thermal power plants, oil and energy, consumer goods, and public sector undertakings. The company was formerly known as Shreyas Shipping and Logistics Limited and changed its name to Transworld Shipping Lines Limited in September 2024. Transworld Shipping Lines Limited was incorporated in 1988 and is headquartered in Navi Mumbai, India. Transworld Shipping Lines Limited operates as a subsidiary of Transworld Holdings Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 341.24,
+  "market_cap_cr": 341.68,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 306.85,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 2.1958,
-  "fifty_two_week_high": 253.14,
+  "fifty_two_week_high": 251.89,
   "fifty_two_week_low": 111.56,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:55:17.360400",
+  "retrieval_time": "2026-11-03T21:45:24.597459",
   "provider_reported_pb_ratio": 0.51,
-  "statements_retrieved_at": "2026-11-02T23:55:17.360400",
+  "statements_retrieved_at": "2026-11-03T21:45:24.597459",
   "retained_fields": []
 }

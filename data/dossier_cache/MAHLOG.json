@@ -5,8 +5,8 @@
   "industry": "Integrated Freight & Logistics",
   "business_summary": "Mahindra Logistics Limited provides integrated logistics solutions in India and internationally. It operates through two segments, Supply Chain Management (SCM) and Enterprise Mobility Services. The company offers logistics solutions and services, including warehousing, transportation, inventory management, inbound and outbound logistics, in-plant logistics, just-in-time, returns, and value-added services; and contract logistics, B2B express, last-mile delivery, freight forwarding, and mobility services. It also provides distribution, full truck load, and part truck load transportation services. The company serves automobile, engineering and manufacturing, fmcg and consumer durables, e-commerce, pharmaceuticals, telecom, and commodities sectors. Mahindra Logistics Limited was founded in 2000 and is based in Mumbai, India. The company is a subsidiary of Mahindra & Mahindra Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 4072.36,
-  "pe_ratio": 54.33,
+  "market_cap_cr": 4053.0,
+  "pe_ratio": 54.07,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 121.18,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:29:13.869276",
-  "provider_reported_pb_ratio": 3.39,
-  "statements_retrieved_at": "2026-11-02T23:29:13.869276",
+  "retrieval_time": "2026-11-03T21:17:19.969818",
+  "provider_reported_pb_ratio": 3.37,
+  "statements_retrieved_at": "2026-11-03T21:17:19.969818",
   "retained_fields": []
 }

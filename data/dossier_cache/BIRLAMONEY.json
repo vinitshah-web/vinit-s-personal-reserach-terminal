@@ -5,8 +5,8 @@
   "industry": "Capital Markets",
   "business_summary": "Aditya Birla Money Limited provides financial services in India. The company operates through three segments: Broking, Wholesale Debt Market, and Others. It offers stock and commodity broking; portfolio management services; depository and e-insurance repository solutions; and various financial products, as well as research and investment advisory services. The company was formerly known as Apollo Sindhoori Capital Investments Ltd and changed its name to Aditya Birla Money Limited in August 2009. Aditya Birla Money Limited was incorporated in 1995 and is based in Chennai, India. The company operates as a subsidiary of Aditya Birla Capital Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 603.57,
-  "pe_ratio": 10.98,
+  "market_cap_cr": 611.83,
+  "pe_ratio": 11.13,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 57.26,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:02:56.825303",
-  "provider_reported_pb_ratio": 1.87,
-  "statements_retrieved_at": "2026-11-02T23:02:56.825303",
+  "retrieval_time": "2026-11-03T20:48:48.826953",
+  "provider_reported_pb_ratio": 1.89,
+  "statements_retrieved_at": "2026-11-03T20:48:48.826953",
   "retained_fields": []
 }

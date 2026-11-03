@@ -5,8 +5,8 @@
   "industry": "Agricultural Inputs",
   "business_summary": "GSP Crop Science Limited, together with its subsidiaries, engages in the manufacture and sale of agro chemicals in India and internationally. It offers insecticides, pesticides, and herbicides; and plant growth regulators and fungicides. The company serves farmers and institutional customers. It also exports its products. The company was incorporated in 1985 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2040.31,
-  "pe_ratio": 17.17,
+  "market_cap_cr": 2020.31,
+  "pe_ratio": 17.0,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 191.78,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:17:00.817353",
-  "provider_reported_pb_ratio": 2.29,
-  "statements_retrieved_at": "2026-11-02T23:17:00.817353",
+  "retrieval_time": "2026-11-03T21:04:05.285252",
+  "provider_reported_pb_ratio": 2.26,
+  "statements_retrieved_at": "2026-11-03T21:04:05.285252",
   "retained_fields": []
 }

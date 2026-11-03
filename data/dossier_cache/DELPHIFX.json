@@ -5,8 +5,8 @@
   "industry": "Capital Markets",
   "business_summary": "Delphi World Money Limited operates as a foreign exchange services company in India. The company is involved in buying and selling forex; prepaid forex card and forex for students; and provision of money transfer/remittances, miscellaneous remittances, and cash to master services. It also provides travel insurance services, as well as financial solutions. The company serves corporate and retail sectors. The company was formerly known as Ebixcash World Money India Limited and changed its name to Delphi World Money Limited in August 2021. The company was incorporated in 1985 and is based in Mumbai, India. Delphi World Money Limited operates as a subsidiary of EbixCash World Money Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 135.39,
-  "pe_ratio": 23.0,
+  "market_cap_cr": 136.12,
+  "pe_ratio": 23.13,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 13.31,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:08:28.427372",
-  "provider_reported_pb_ratio": 0.41,
-  "statements_retrieved_at": "2026-11-02T23:08:28.427372",
+  "retrieval_time": "2026-11-03T20:54:37.390719",
+  "provider_reported_pb_ratio": 0.42,
+  "statements_retrieved_at": "2026-11-03T20:54:37.390719",
   "retained_fields": []
 }

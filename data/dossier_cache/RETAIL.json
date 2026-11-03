@@ -5,7 +5,7 @@
   "industry": "Grocery Stores",
   "business_summary": "JHS Svendgaard Retail Ventures Limited operates a chain of retail outlets in India. It offers lifestyle and fashion, personal care and wellness, food and beverages, digital and e-commerce retail, and other consumer categories. The company provides its services through store-based retail presence across high-street locations, shopping centres, and commercial developments, as well as digital channels, e-commerce and other technology-enabled platforms. The company was formerly known as JHS Svendgaard Retail Ventures Private Limited. JHS Svendgaard Retail Ventures Limited was incorporated in 2007 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 22.97,
+  "market_cap_cr": 22.13,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -63,8 +63,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:42:59.928930",
-  "provider_reported_pb_ratio": 1.15,
-  "statements_retrieved_at": "2026-11-02T23:42:59.928930",
+  "retrieval_time": "2026-11-03T21:32:02.903958",
+  "provider_reported_pb_ratio": 1.1,
+  "statements_retrieved_at": "2026-11-03T21:32:02.903958",
   "retained_fields": []
 }

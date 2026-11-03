@@ -5,14 +5,14 @@
   "industry": "Capital Markets",
   "business_summary": "Gretex Corporate Services Limited, a merchant banking company, provides financial and consultancy services in the areas of capital markets advisory, corporate finance, corporate restructuring, debt syndication, and compliance advisory in India. The company offers initial public offerings, follow-on public offers, rights issues and qualified institutional placements, and open offers, exit offers, and delisting; corporate finance advisory services, such as capital structuring and fundraising strategy, private equity and venture capital advisory, structured debt, and bank financing debt issuance; strategic and restructuring advisory comprising mergers and acquisitions, takeovers and open offers, demergers and reorganizations, and financial restructuring; and compliance advisory which includes post-listing compliance, corporate governance advisory, and ongoing regulatory monitoring. It serves small and medium enterprises. Gretex Corporate Services Limited was incorporated in 2008 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1927.04,
-  "pe_ratio": 49.91,
+  "market_cap_cr": 1933.79,
+  "pe_ratio": 50.09,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 70.27,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 2.5005,
-  "fifty_two_week_high": 777.5,
+  "fifty_two_week_high": 788.55,
   "fifty_two_week_low": 226.5,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:14:12.258757",
-  "provider_reported_pb_ratio": 10.97,
-  "statements_retrieved_at": "2026-11-02T23:14:12.258757",
+  "retrieval_time": "2026-11-03T21:00:58.578099",
+  "provider_reported_pb_ratio": 11.01,
+  "statements_retrieved_at": "2026-11-03T21:00:58.578099",
   "retained_fields": []
 }

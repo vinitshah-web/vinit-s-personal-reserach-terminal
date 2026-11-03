@@ -5,14 +5,14 @@
   "industry": "Credit Services",
   "business_summary": "Tourism Finance Corporation of India Limited, a financing institution, engages in the provision of financial assistance services in India. The company offers financial assistance by way of loans and investment in debt instruments to tourism/ hospitality, manufacturing, residential/commercial real estate, NBFCs/HFCs/MFIs, and other sectors, as well as social infrastructure, such as educational institutions, hospitals, etc, It also provides finance to non-banking and housing finance companies for secured onward lending. Tourism Finance Corporation of India Limited was incorporated in 1989 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 7313.19,
-  "pe_ratio": 47.44,
+  "market_cap_cr": 7495.14,
+  "pe_ratio": 48.62,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 28.34,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 46.2977,
-  "fifty_two_week_high": 161.95,
+  "fifty_two_week_high": 162.0,
   "fifty_two_week_low": 51.0,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:54:06.898459",
-  "provider_reported_pb_ratio": 5.57,
-  "statements_retrieved_at": "2026-11-02T23:54:06.898459",
+  "retrieval_time": "2026-11-03T21:44:08.862224",
+  "provider_reported_pb_ratio": 5.71,
+  "statements_retrieved_at": "2026-11-03T21:44:08.862224",
   "retained_fields": []
 }

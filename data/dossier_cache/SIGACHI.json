@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Sigachi Industries Limited manufactures and sells microcrystalline cellulose and cellulose powder in India. The company provides cellulose-based products under the HiCel, AceCel, CoatCel, GloCel, and BARETab brand names to pharmaceutical, nutraceutical, cosmetic, and chemical industries. It also provides croscarmellose sodium, pharmaceutical coatings, nutritional premix and food solutions, and allied trade business, as well as operations and maintenance services. In addition, the company exports its products. Sigachi Industries Limited was incorporated in 1989 and is headquartered in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 989.11,
-  "pe_ratio": 38.6,
+  "market_cap_cr": 1014.35,
+  "pe_ratio": 39.58,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 14.31,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:48:33.740339",
-  "provider_reported_pb_ratio": 1.81,
-  "statements_retrieved_at": "2026-11-02T23:48:33.740339",
+  "retrieval_time": "2026-11-03T21:38:16.543121",
+  "provider_reported_pb_ratio": 1.85,
+  "statements_retrieved_at": "2026-11-03T21:38:16.543121",
   "retained_fields": []
 }

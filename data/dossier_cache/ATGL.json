@@ -5,8 +5,8 @@
   "industry": "Utilities - Regulated Gas",
   "business_summary": "Adani Total Gas Limited engages in the city gas distribution (CGD) business in India. It supplies piped natural gas and compressed natural gas to the domestic, commercial, industrial, and transportation sectors. The company also provides biogas, biofuel, biomass, LCNG, HCNG, EV, and hydrogen. In addition, it manufactures various equipment; and offers value-added services related to the CGD business. The company was formerly known as Adani Gas Limited and changed its name to Adani Total Gas Limited in January 2021. Adani Total Gas Limited was founded in 2004 and is headquartered in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 60445.56,
-  "pe_ratio": 94.27,
+  "market_cap_cr": 60478.55,
+  "pe_ratio": 94.32,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 47.21,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T22:59:43.675836",
-  "provider_reported_pb_ratio": 11.64,
-  "statements_retrieved_at": "2026-11-02T22:59:43.675836",
+  "retrieval_time": "2026-11-03T20:45:17.431206",
+  "provider_reported_pb_ratio": 11.65,
+  "statements_retrieved_at": "2026-11-03T20:45:17.431206",
   "retained_fields": []
 }

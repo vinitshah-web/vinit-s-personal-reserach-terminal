@@ -5,8 +5,8 @@
   "industry": "Utilities - Independent Power Producers",
   "business_summary": "Orient Green Power Company Limited, an independent power producer of renewable power, engages in the generation and sale of wind energy in India and Croatia. As of March 31, 2026, it had an aggregate installed capacity of 396 megawatt. The company was incorporated in 2006 and is headquartered in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1055.73,
-  "pe_ratio": 16.36,
+  "market_cap_cr": 1006.46,
+  "pe_ratio": 15.6,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 9.82,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:16:17.461172",
-  "provider_reported_pb_ratio": 0.92,
-  "statements_retrieved_at": "2026-11-02T23:16:17.461172",
+  "retrieval_time": "2026-11-03T21:03:16.788697",
+  "provider_reported_pb_ratio": 0.87,
+  "statements_retrieved_at": "2026-11-03T21:03:16.788697",
   "retained_fields": []
 }

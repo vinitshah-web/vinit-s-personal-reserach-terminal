@@ -5,8 +5,8 @@
   "industry": "Footwear & Accessories",
   "business_summary": "Sreeleathers Limited engages in the trading of footwear and accessories in India. The company offers formal, nagra, and casual, as well as school shoes; slipper and chappals; sandals; and accessories, such as trolley, belts, wallets, bags, leather garments, socks and shoe care kit, and jewelry and watch boxes for men, women, and kids. It sells its products through retail and wholesale networks. The company was formerly known as CAT Financial Services Ltd and changed its name to Sreeleathers Limited in October 2010. Sreeleathers Limited was incorporated in 1991 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 598.67,
-  "pe_ratio": 18.02,
+  "market_cap_cr": 608.05,
+  "pe_ratio": 18.3,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 215.12,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:50:37.317364",
-  "provider_reported_pb_ratio": 1.2,
-  "statements_retrieved_at": "2026-11-02T23:50:37.317364",
+  "retrieval_time": "2026-11-03T21:40:26.387766",
+  "provider_reported_pb_ratio": 1.22,
+  "statements_retrieved_at": "2026-11-03T21:40:26.387766",
   "retained_fields": []
 }

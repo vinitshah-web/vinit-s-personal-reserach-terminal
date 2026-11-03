@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "Shri Bajrang Alliance Limited manufactures and sells structural steel products in India and internationally. The company operates in two segments, Steel and Agro. The company offers structural steel products, including angles, channels, joists, beams, rounds, flats, and H-beams. It also provides ready-to-eat frozen food products, as well as extracts oils and oleoresin essential oils. It serves its products through retail and quick commerce channels; quick service restaurants; hotels, restaurants, and cafes; and other food service operators. The company was formerly known as Shri Bajrang Alloys Limited and changed its name to Shri Bajrang Alliance Limited in December 2019. The company was incorporated in 1990 and is based in Raipur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 144.81,
-  "pe_ratio": 3.19,
+  "market_cap_cr": 142.27,
+  "pe_ratio": 3.14,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 426.31,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:47:29.971091",
-  "provider_reported_pb_ratio": 0.38,
-  "statements_retrieved_at": "2026-11-02T23:47:29.971091",
+  "retrieval_time": "2026-11-03T21:37:06.370987",
+  "provider_reported_pb_ratio": 0.37,
+  "statements_retrieved_at": "2026-11-03T21:37:06.370987",
   "retained_fields": []
 }

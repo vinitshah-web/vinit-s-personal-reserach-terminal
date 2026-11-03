@@ -5,7 +5,7 @@
   "industry": "Consulting Services",
   "business_summary": "Rudrabhishek Enterprises Limited operates as an urban development and infrastructure consultant in India. It operates through three segments: Advisory & Consultancy Services; Engineering, Procurement & Construction Contracts; and Sale of Software License. The company provides consultancy services including infrastructure, environment, urban designing, urban housing planning, GIS, BIM & project management, civil designing, construction management including civil, mechanical, electrical, and all other types of erection. Rudrabhishek Enterprises Limited was incorporated in 1992 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 114.84,
+  "market_cap_cr": 114.37,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:42:56.362825",
+  "retrieval_time": "2026-11-03T21:31:59.210268",
   "provider_reported_pb_ratio": 0.82,
-  "statements_retrieved_at": "2026-11-02T23:42:56.362825",
+  "statements_retrieved_at": "2026-11-03T21:31:59.210268",
   "retained_fields": []
 }

@@ -5,7 +5,7 @@
   "industry": "Software - Application",
   "business_summary": "Quick Heal Technologies Limited engages in the provision of security software products and solutions to consumers, small businesses, government establishments, and corporate houses in India and internationally. It offers antivirus solutions, including total security, internet security, antivirus pro, security for mac, total security for android, mobile security, total security multi-device, and internet security essentials under the Quick Heal brand, as well as consumer fraud prevention products comprising the Quick Heal AntiFraud.AI. The company also provides endpoint protection, endpoint detection and response, extended detection and response, mobile device management, BYOD, zero trust network access, and data privacy, as well as malware analysis platform and threat intel under the Seqrite brand. In addition, it offers enterprise services, including DPDP compliance and managed detection and response. Quick Heal Technologies Limited was incorporated in 1995 and is headquartered in Pune, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 793.57,
+  "market_cap_cr": 785.37,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:41:30.347682",
-  "provider_reported_pb_ratio": 1.89,
-  "statements_retrieved_at": "2026-11-02T23:41:30.347682",
+  "retrieval_time": "2026-11-03T21:30:25.239543",
+  "provider_reported_pb_ratio": 1.87,
+  "statements_retrieved_at": "2026-11-03T21:30:25.239543",
   "retained_fields": []
 }

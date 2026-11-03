@@ -5,8 +5,8 @@
   "industry": "Real Estate Services",
   "business_summary": "ICDS Limited engages in trading shares and securities, and mobiles and accessories in India. It also engages in the rental of investment properties; and marketing of life and general insurance products. The company was formerly known as Industrial Credit and Development Syndicate Ltd. and changed its name to ICDS Limited in December 1992. ICDS Limited was incorporated in 1971 and is headquartered in Manipal, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 65.13,
-  "pe_ratio": 98.04,
+  "market_cap_cr": 63.83,
+  "pe_ratio": 96.08,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": null,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:20:02.347033",
+  "retrieval_time": "2026-11-03T21:07:23.118243",
   "provider_reported_pb_ratio": null,
-  "statements_retrieved_at": "2026-11-02T23:20:02.347033",
+  "statements_retrieved_at": "2026-11-03T21:07:23.118243",
   "retained_fields": []
 }

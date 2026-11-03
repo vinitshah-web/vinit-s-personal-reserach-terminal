@@ -5,14 +5,14 @@
   "industry": "Apparel Retail",
   "business_summary": "Heads UP Ventures Limited operates fashion apparels and accessories business in India and internationally. It retails and distributes shirts, t-shirt, jackets, hoodies, sweatshirts, caps, hats, socks, underwear, belts, bags, and flip flops. It offers its products under the HUP and Device of Turtle brand names and, as well as through e-commerce platform. The company was formerly known as The Mandhana Retail Ventures Limited and changed its name to Heads UP Ventures Limited in May 2022. Heads UP Ventures Limited was incorporated in 2011 and is based in Palghar, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 13.01,
+  "market_cap_cr": 12.65,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 6.94,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 2.2083,
-  "fifty_two_week_high": 11.0,
+  "fifty_two_week_high": 10.96,
   "fifty_two_week_low": 4.73,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:18:29.338753",
-  "provider_reported_pb_ratio": 0.85,
-  "statements_retrieved_at": "2026-11-02T23:18:29.338753",
+  "retrieval_time": "2026-11-03T21:05:45.195571",
+  "provider_reported_pb_ratio": 0.83,
+  "statements_retrieved_at": "2026-11-03T21:05:45.195571",
   "retained_fields": []
 }

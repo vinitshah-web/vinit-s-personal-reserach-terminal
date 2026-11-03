@@ -5,13 +5,13 @@
   "industry": "Internet Retail",
   "business_summary": "Meesho Limited operates an e-commerce marketplace in India. It operates in two segments, Marketplace and New Initiatives. The company operates Meesho, an online platform that connects consumers, sellers, logistics partners, and content creators; displays ads; and provides logistics services comprising order management, order pickup, transportation, and delivery. It also provides digital financial and AI agentic services. The company was incorporated in 2015 and is based in Bengaluru, India. Meesho Limited operates as a subsidiary of Meesho Inc.",
   "business_summary_reason": null,
-  "market_cap_cr": 102858.01,
+  "market_cap_cr": 103225.18,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 8.89,
   "dividend_yield_pct": 0.0,
-  "shares_outstanding_cr": 462.8865,
+  "shares_outstanding_cr": 463.1009,
   "fifty_two_week_high": 254.4,
   "fifty_two_week_low": 125.56,
   "financial_statements": [
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:30:45.778075",
-  "provider_reported_pb_ratio": 24.99,
-  "statements_retrieved_at": "2026-11-02T23:30:45.778075",
+  "retrieval_time": "2026-11-03T21:19:00.678485",
+  "provider_reported_pb_ratio": 25.07,
+  "statements_retrieved_at": "2026-11-03T21:19:00.678485",
   "retained_fields": []
 }

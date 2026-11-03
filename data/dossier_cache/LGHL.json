@@ -5,8 +5,8 @@
   "industry": "Luxury Goods",
   "business_summary": "Laxmi Goldorna House Limited, a real estate company, engages in the construction of commercial and residential projects in India. It also engages in the processing, wholesaling, and trading of gold jewelry and ornaments, including gold jewelry with or without studded precious and semi-precious stones, as well as diamond jewelry. The company was incorporated in 2010 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1297.25,
-  "pe_ratio": 294.28,
+  "market_cap_cr": 1237.84,
+  "pe_ratio": 280.81,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 14.1,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:27:36.382819",
-  "provider_reported_pb_ratio": 18.37,
-  "statements_retrieved_at": "2026-11-02T23:27:36.382819",
+  "retrieval_time": "2026-11-03T21:15:36.298252",
+  "provider_reported_pb_ratio": 17.53,
+  "statements_retrieved_at": "2026-11-03T21:15:36.298252",
   "retained_fields": []
 }

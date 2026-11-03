@@ -5,7 +5,7 @@
   "industry": "Utilities - Regulated Water",
   "business_summary": "Concord Enviro Systems Limited engages in providing water and wastewater treatment, and reuse solutions in India and internationally. It offers effluent treatment plants, sewage treatment plants, anaerobic digesters, ultrafiltration, nanofiltration, reverse osmosis, membrane bio-reactors, desalination systems, waste heat evaporators, zero liquid discharge solutions, and consolidation of final waste to achieve zero discharge. The company also provides plant operations and maintenance; consumables and spare parts, including decantation, filtration, membrane filtration, sludge treatment, equipment overhaul, and maintenance; and consumables; and rehabilitation and modification services. It serves customers in pharmaceuticals, textiles, chemicals, distillery, food and beverage, automobiles, leachate, steel, textiles, oil and gas, tanneries, cement, paper, paint, electronics, mining and minerals, real estate, and sea water desalination solutions industries. The company was founded in 1992 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 469.08,
+  "market_cap_cr": 489.84,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:05:13.807939",
-  "provider_reported_pb_ratio": 0.82,
-  "statements_retrieved_at": "2026-11-02T23:05:13.807939",
+  "retrieval_time": "2026-11-03T20:51:15.294196",
+  "provider_reported_pb_ratio": 0.86,
+  "statements_retrieved_at": "2026-11-03T20:51:15.294196",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Credit Services",
   "business_summary": "Starteck Finance Limited operates as a non-banking financial company in India. It offers financing solutions to retail, small and medium enterprises (SMEs), and commercial customers in urban and semi-urban areas. The company was formerly known as Nivedita Mercantile and Financing Limited and changed its name to Starteck Finance Limited in November 2018. Starteck Finance Limited was incorporated in 1985 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 242.19,
-  "pe_ratio": 9.93,
+  "market_cap_cr": 243.01,
+  "pe_ratio": 9.96,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 265.41,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:51:00.237755",
+  "retrieval_time": "2026-11-03T21:40:51.229410",
   "provider_reported_pb_ratio": 0.92,
-  "statements_retrieved_at": "2026-11-02T23:51:00.237755",
+  "statements_retrieved_at": "2026-11-03T21:40:51.229410",
   "retained_fields": []
 }

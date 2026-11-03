@@ -5,14 +5,14 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Welspun Living Limited manufactures and sells home textile products in India and internationally. It operates through two segments, Home Textiles and Flooring. The company offers bath solutions, such as towels, bathrobes, and bath rugs; bed linen, duvet covers, pillows, pillowcases, top-of-bed products, utility and fashion bedding, and bed sheets; mats, carpet tiles, broadloom, area rugs, artificial turf, wall to wall carpets, SPC tiles, and artificial grass; and wet wipes, beaty sheet masks, and other nonwoven fabrics. It also engages in the power generation, real estate, and industrial park development businesses, as well as trading of home textile products. The company sells its products under the owned and licensed brands, such as Christy, Spaces, Welspun, Welspun Flooring, SPUN, Welhome, and Martha Stewart. It sells its products through online and offline stores. The company was formerly known as Welspun India Limited and changed its name to Welspun Living Limited in September 2023. Welspun Living Limited was incorporated in 1985 and is headquartered in Mumbai, India. Welspun Living Limited is a subsidiary of Welspun Group Master Trust.",
   "business_summary_reason": null,
-  "market_cap_cr": 22814.98,
-  "pe_ratio": 53.03,
+  "market_cap_cr": 23827.03,
+  "pe_ratio": 55.38,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 53.93,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 94.1445,
-  "fifty_two_week_high": 245.5,
+  "fifty_two_week_high": 257.09,
   "fifty_two_week_low": 107.1,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:59:30.972274",
-  "provider_reported_pb_ratio": 4.49,
-  "statements_retrieved_at": "2026-11-02T23:59:30.972274",
+  "retrieval_time": "2026-11-03T21:49:55.310736",
+  "provider_reported_pb_ratio": 4.69,
+  "statements_retrieved_at": "2026-11-03T21:49:55.310736",
   "retained_fields": []
 }

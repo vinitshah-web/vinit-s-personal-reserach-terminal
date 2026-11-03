@@ -5,7 +5,7 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Sun Pharmaceutical Industries Limited, a generic pharmaceutical company, develops, manufactures, and markets branded and generic formulations, and active pharmaceutical ingredients (APIs) in India, the United States, and internationally. The company offers formulations in various therapeutic areas, including neuropsychiatry, cardiology, diabetes, gastroenterology, pain/analgesics, gynecology, ophthalmology, urology, dermatology, respiratory, anti-infectives, oncology, psychiatry, neurology, orthopaedic, nephrology, dental, and nutritionals. It also provides generic medications, such as tablets, capsules, injectables, inhalers, ointments, creams, and liquids; specialty medications; antiretrovirals medications; and over-the-counter products, such as vitamins, analgesics, digestives, and lifestyle. In addition, the company offers generics and APIs for anti-cancers, peptides, steroids, sex hormones, immunosuppressant drugs, and controlled substances. Sun Pharmaceutical Industries Limited was founded in 1983 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 424682.27,
+  "market_cap_cr": 424658.29,
   "pe_ratio": 38.73,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:51:48.750690",
+  "retrieval_time": "2026-11-03T21:41:41.552514",
   "provider_reported_pb_ratio": 4.75,
-  "statements_retrieved_at": "2026-11-02T23:51:48.750690",
+  "statements_retrieved_at": "2026-11-03T21:41:41.552514",
   "retained_fields": []
 }

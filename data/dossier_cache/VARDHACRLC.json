@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Vardhman Acrylics Limited manufactures and supplies acrylic fibers and tows in India. The company's products are used in hosiery, weaving, home furnishing, industrial, and other applications. It offers its products under the Varlan brand name. The company was incorporated in 1990 and is headquartered in Gurugram, India. Vardhman Acrylics Limited is a subsidiary of Vardhman Textiles Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 316.87,
-  "pe_ratio": 3.9,
+  "market_cap_cr": 320.65,
+  "pe_ratio": 3.94,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 33.0,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:57:09.522728",
-  "provider_reported_pb_ratio": 1.19,
-  "statements_retrieved_at": "2026-11-02T23:57:09.522728",
+  "retrieval_time": "2026-11-03T21:47:25.017797",
+  "provider_reported_pb_ratio": 1.21,
+  "statements_retrieved_at": "2026-11-03T21:47:25.017797",
   "retained_fields": []
 }

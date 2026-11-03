@@ -5,8 +5,8 @@
   "industry": "Paper & Paper Products",
   "business_summary": "Shree Ajit Pulp and Paper Limited manufactures and sells kraft paper in India. The company offers multilayer test liner and test liner paper used as packaging material for making corrugated boxes, paper carry bags, paper food boxes, reel wraps, duplex cartons, and corrugated small e-flute. It serves textiles, automobiles, appliances and consumer durables, retail, logistics, foods and beverages, fruits and vegetables, and pharmaceutical industries. Shree Ajit Pulp and Paper Limited was incorporated in 1995 and is based in Vapi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 291.1,
-  "pe_ratio": 7.01,
+  "market_cap_cr": 277.53,
+  "pe_ratio": 6.69,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 312.48,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:45:26.309154",
-  "provider_reported_pb_ratio": 1.05,
-  "statements_retrieved_at": "2026-11-02T23:45:26.309154",
+  "retrieval_time": "2026-11-03T21:34:39.850973",
+  "provider_reported_pb_ratio": 1.0,
+  "statements_retrieved_at": "2026-11-03T21:34:39.850973",
   "retained_fields": []
 }

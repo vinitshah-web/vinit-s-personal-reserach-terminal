@@ -5,7 +5,7 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Mohite Industries Limited engages in the textile and power generation businesses in India. The company operates through Textiles and Hydro Power segments. It offers compact cotton and slub yarns, as well as gray knitted fabrics. The company also operates a hydro power project with a capacity of 10 MW located in Fegivade village; and a 3.5 MW hydro power project located in Ambai, Maharashtra. It exports its products. The company was formerly known as R M Mohite Industries Limited and changed its name to Mohite Industries Limited in March 2015. The company was founded in 1966 and is based in Kolhapur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 47.64,
+  "market_cap_cr": 45.22,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:32:10.848626",
-  "provider_reported_pb_ratio": 0.37,
-  "statements_retrieved_at": "2026-11-02T23:32:10.848626",
+  "retrieval_time": "2026-11-03T21:20:32.151815",
+  "provider_reported_pb_ratio": 0.35,
+  "statements_retrieved_at": "2026-11-03T21:20:32.151815",
   "retained_fields": []
 }

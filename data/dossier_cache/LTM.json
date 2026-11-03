@@ -5,8 +5,8 @@
   "industry": "Information Technology Services",
   "business_summary": "LTM Limited engages in technology consulting and digital solutions company, provides information technology services and solutions in India, North America, Europe, and internationally. It operates through Banking, Financial Services & Insurance; Technology, Media & Communications; Manufacturing & Resources; Consumer Business; and Health, Life Sciences & Public Services. The company offers BlueVerse; Voicing.AI; application management services; cognitive infrastructure services (cis); cybersecurity; data and analytics; interactive, such as craftstudio, marketing, commerce, service, consulting, x-nnovation, and app world; ai-led engineering; industry. NXT; and enterprise application services, such as sap, and oracle. It also offers enterprise cloud applications, such as ServiceNow, and Microsoft business applications; enterprise integration & business process orchestration, including enterprise application integration, business process management, API management, enterprise content management (ECM), cloud and hybrid integration, and event streaming; integration services, and orchestration services; disruptive SaaS (DsaaS); and gcc-as-a-service. It serves travel, transport, hospitality, logistics & real estate, public services, manufacturing, healthcare, life sciences, energy, utilities, retail and consumer packaged goods, insurance, banking & financial services, communications, media, and entertainment, hi-tech & services. The company has a strategic collaboration with the Indian Institute of Creative Technologies for the development of industry-aligned skilling and workforce readiness in creative technologies across advertising, films, immersive media, and digital storytelling. The company was formerly known as LTIMindtree Limited and changed its name to LTM Limited in March 2026. The company was incorporated in 1996 and is based in Mumbai, India. LTM Limited is a subsidiary of Larsen & Toubro Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 125521.99,
-  "pe_ratio": 24.03,
+  "market_cap_cr": 124914.17,
+  "pe_ratio": 23.91,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 872.71,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:28:37.980640",
-  "provider_reported_pb_ratio": 4.85,
-  "statements_retrieved_at": "2026-11-02T23:28:37.980640",
+  "retrieval_time": "2026-11-03T21:16:41.511198",
+  "provider_reported_pb_ratio": 4.83,
+  "statements_retrieved_at": "2026-11-03T21:16:41.511198",
   "retained_fields": []
 }

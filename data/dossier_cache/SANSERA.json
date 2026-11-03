@@ -5,15 +5,15 @@
   "industry": "Auto Parts",
   "business_summary": "Sansera Engineering Limited engages in the manufacture and sale of precision engineered components in India, Europe, the United States, and internationally. The company offers automotive components, such as connecting rods, rocker arms, finger followers, balancer shafts, gear shifter forks, suspension and steering parts, assembly components, aluminum parts, drivetrain and rotar parts, sprockets, adapters, rocker shafts, housing shift lever shafts, lever and arm shifts, shaft propellers, spacer input gears, shaft controls, braking system parts, tans axle parts, generator shafts, valve bridges, braking assembly parts, transmission parts, and chassis parts for two- wheelers, passenger vehicles, four-wheelers, and commercial vehicles, as well as crank shafts. It also provides non-automotive products, including off-road vehicles; industrial and stationery engines; agriculture; aerospace; and medical implants. In addition, the company offers forging and other related services. Sansera Engineering Limited was incorporated in 1981 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 25949.56,
-  "pe_ratio": 80.09,
+  "market_cap_cr": 26372.75,
+  "pe_ratio": 81.39,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 496.13,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 6.2418,
   "fifty_two_week_high": 4743.5,
-  "fifty_two_week_low": 1487.4,
+  "fifty_two_week_low": 1488.0,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:45:21.206883",
-  "provider_reported_pb_ratio": 8.38,
-  "statements_retrieved_at": "2026-11-02T23:45:21.206883",
+  "retrieval_time": "2026-11-03T21:34:34.487889",
+  "provider_reported_pb_ratio": 8.52,
+  "statements_retrieved_at": "2026-11-03T21:34:34.487889",
   "retained_fields": []
 }

@@ -5,7 +5,7 @@
   "industry": "Auto Parts",
   "business_summary": "UCAL Limited engages in the manufacturing of fuel management systems for the automotive sector in India. The company offers air & fuel systems emission controls, including fuel injection system parts, mechanical carburetor, mechanical throttle body assembly, intake throttle valve, electronic throttle body, hydro carbon doser, fuel rails assemblies, electric air suction valve, electric purge valve, and fuel pump; and powertrain, such as oil pump, variable pressure oil pump, variable displacement oil pump, vacuum pump, electric vacuum pump, electric coolant pump, electric oil pump, solenoid variable valve timing systems, water outlet systems, and diesel fuel filter housing. It also provides automotive electronics comprising 3-in-1 sensors, t-map sensors, fuel level sensors, tyre pressure monitoring sensors, reverse parking sensors, hall / inductive sensors, CR controllers, timers, relays & controllers, DC DC converters, ecu speed modules, reverse speed modules, sound alerts (e-horn), indicators, ems services, and buzzer / hooter; manufacturing services, including pressure die casting products, precision machined parts, components for automotive, and applications; and built-to-print curated products, such as water outlet and crankcase components. In addition, the company offers engineering services, which include analysis and benchmarking; design, drawing, and modelling; computational analysis and simulation; testing and validation; design for manufacturing; system calibration; and value addition/value engineering services. It sells its products under the UCAL brand. It also exports its products. The company was formerly known as UCAL Fuel Systems Limited and changed its name to UCAL Limited in June 2023. UCAL Limited was incorporated in 1985 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 306.45,
+  "market_cap_cr": 306.74,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:55:55.938373",
+  "retrieval_time": "2026-11-03T21:46:07.206070",
   "provider_reported_pb_ratio": 0.9,
-  "statements_retrieved_at": "2026-11-02T23:55:55.938373",
+  "statements_retrieved_at": "2026-11-03T21:46:07.206070",
   "retained_fields": []
 }

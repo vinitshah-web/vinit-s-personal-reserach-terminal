@@ -5,8 +5,8 @@
   "industry": "Other Industrial Metals & Mining",
   "business_summary": "Nile Limited engages in the manufacture and sale of pure lead for battery consumption in India and internationally. The company offers lead antimony, lead selenium, lead calcium, lead tin, and pure lead. It serves its products to manufacturers of lead acid batteries, PVC stabilizers, and lead-oxide. Nile Limited is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 399.16,
-  "pe_ratio": 8.37,
+  "market_cap_cr": 394.96,
+  "pe_ratio": 8.28,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 1050.13,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:35:34.635431",
-  "provider_reported_pb_ratio": 1.27,
-  "statements_retrieved_at": "2026-11-02T23:35:34.635431",
+  "retrieval_time": "2026-11-03T21:24:08.662233",
+  "provider_reported_pb_ratio": 1.25,
+  "statements_retrieved_at": "2026-11-03T21:24:08.662233",
   "retained_fields": []
 }

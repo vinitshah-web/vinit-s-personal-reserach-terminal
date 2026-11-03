@@ -5,8 +5,8 @@
   "industry": "Capital Markets",
   "business_summary": "Shardul Securities Limited, a non-banking financial company, engages in the investment and financing business in India. The company invests in equity; and trades in bonds, mutual funds, government securities and treasury bills, commercial papers, and certificates of deposit, as well as derivatives, including options and futures. It also provides IPO funding, forex advisory, and loan syndications services. The company was formerly known as Shriyam Securities & Finance Limited. The company was incorporated in 1985 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 426.52,
-  "pe_ratio": 14.77,
+  "market_cap_cr": 424.25,
+  "pe_ratio": 14.69,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 87.73,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:47:26.621181",
-  "provider_reported_pb_ratio": 0.56,
-  "statements_retrieved_at": "2026-11-02T23:47:26.621181",
+  "retrieval_time": "2026-11-03T21:37:02.428596",
+  "provider_reported_pb_ratio": 0.55,
+  "statements_retrieved_at": "2026-11-03T21:37:02.428596",
   "retained_fields": []
 }

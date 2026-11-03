@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Mittal Life Style Limited engages in supply of bottom weight fabrics and denims primarily in India. It provides fashion fabrics, cotton canvas denims, dupion bottom fabrics, polyester and cotton fabrics, knit fabrics to textile industry. The company was incorporated in 2005 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 29.74,
-  "pe_ratio": 13.4,
+  "market_cap_cr": 30.63,
+  "pe_ratio": 13.8,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 1.45,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:31:41.796742",
-  "provider_reported_pb_ratio": 0.46,
-  "statements_retrieved_at": "2026-11-02T23:31:41.796742",
+  "retrieval_time": "2026-11-03T21:20:00.724198",
+  "provider_reported_pb_ratio": 0.48,
+  "statements_retrieved_at": "2026-11-03T21:20:00.724198",
   "retained_fields": []
 }

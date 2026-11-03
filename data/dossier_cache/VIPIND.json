@@ -5,7 +5,7 @@
   "industry": "Footwear & Accessories",
   "business_summary": "V.I.P. Industries Limited manufactures and retails luggage, backpacks, handbags, and accessories in India and internationally. It offers hard luggage, soft luggage, duffle bags, backpacks, business satchels, and ladies' handbags. The company sells its products under the VIP, Caprese, Carlton, Skybags, Alfa, and Aristocrat brands through exclusive brand outlets and e-commerce platforms. It also exports its products. The company was incorporated in 1968 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3472.54,
+  "market_cap_cr": 3476.81,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -13,7 +13,7 @@
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 14.2055,
   "fifty_two_week_high": 435.0,
-  "fifty_two_week_low": 243.0,
+  "fifty_two_week_low": 242.2,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:58:16.337181",
-  "provider_reported_pb_ratio": 16.64,
-  "statements_retrieved_at": "2026-11-02T23:58:16.337181",
+  "retrieval_time": "2026-11-03T21:48:35.258864",
+  "provider_reported_pb_ratio": 16.66,
+  "statements_retrieved_at": "2026-11-03T21:48:35.258864",
   "retained_fields": []
 }

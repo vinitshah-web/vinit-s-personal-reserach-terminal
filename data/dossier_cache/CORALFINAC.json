@@ -5,8 +5,8 @@
   "industry": "Real Estate Services",
   "business_summary": "Coral India Finance and Housing Limited provides investment services in India. The company operates in two segments: Construction, Development and Maintenance of Properties and Related Services; and Investment. It also provides lending services; and invests in capital market. Coral India Finance and Housing Limited was incorporated in 1995 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 111.56,
-  "pe_ratio": 7.73,
+  "market_cap_cr": 112.12,
+  "pe_ratio": 7.77,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 51.58,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:06:38.676586",
+  "retrieval_time": "2026-11-03T20:52:44.831747",
   "provider_reported_pb_ratio": 0.54,
-  "statements_retrieved_at": "2026-11-02T23:06:38.676586",
+  "statements_retrieved_at": "2026-11-03T20:52:44.831747",
   "retained_fields": []
 }

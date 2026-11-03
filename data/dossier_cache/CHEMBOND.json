@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Chembond Material Technologies Limited manufactures, sells, and trades specialty chemicals in India and internationally. It offers high performance coatings, automotive sealants, metal treatment chemicals, engineering adhesives, and animal health and industrial biotech products. The company also provides material technologies, metal treatment chemicals, automotive sealants, engineering adhesives, coatings, and paint booth solutions, as well as maintenance repair and overhaul products; and bioscience products, including poultry, feed supplements, feed additives, growth promoters, feed supplements, feed additives, rumen buffer, milk booster, ammonia binder, soil probiotic, water probiotic, enzymes, and disinfectant, as well as biosecurity, and specialty products. Chembond Material Technologies Limited was formerly known as Chembond Chemicals Limited and changed its name to Chembond Material Technologies Limited in May 2025. The company was founded in 1973 and is based in Navi Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 240.56,
-  "pe_ratio": 17.61,
+  "market_cap_cr": 237.73,
+  "pe_ratio": 17.4,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 124.14,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:05:27.171165",
-  "provider_reported_pb_ratio": 1.44,
-  "statements_retrieved_at": "2026-11-02T23:05:27.171165",
+  "retrieval_time": "2026-11-03T20:51:29.857909",
+  "provider_reported_pb_ratio": 1.42,
+  "statements_retrieved_at": "2026-11-03T20:51:29.857909",
   "retained_fields": []
 }

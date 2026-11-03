@@ -6,7 +6,7 @@
   "business_summary": "Manipal Payment and Identity Solutions Limited operates as a smart card manufacturer. It provides payments, identifications, secure, smart tagging, and Internet of Things solutions to banks, fintechs, non-banking finance companies, and governments across domestic and international jurisdictions. The company offers various payment solutions, such as payment cards, cheque solutions, near-field communication/quick response (QR) codes, payment-enabled wearables, and digital automation solutions; identification solutions that include driving licenses, registration certificates, national identity cards, and transit management solutions; secure solutions, such as secure logistics, premium notices, renewal letters, and marketing collateral; and security-enhanced packaging solutions, such as tamper-evident envelopes, holograms, and coated products. It also offers smart tagging and IOT solutions that include printing of excise labels with holograms and encrypted QR codes for various state excise departments, IOT and track and trace solutions with radio-frequency identification tags, and anti-counterfeiting solutions. The company was formerly known as MCT Cards and Technology Private Limited and changed its name to Manipal Payment and Identity Solutions Limited in August 2024. The company was incorporated in 2008 and is based in Manipal, India. Manipal Payment and Identity Solutions Limited operates as a subsidiary of Manipal Technologies Limited.",
   "business_summary_reason": null,
   "market_cap_cr": null,
-  "pe_ratio": 28.06,
+  "pe_ratio": 30.22,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 35.61,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:33:14.743114",
-  "provider_reported_pb_ratio": 8.61,
-  "statements_retrieved_at": "2026-11-02T23:33:14.743114",
+  "retrieval_time": "2026-11-03T21:21:38.967500",
+  "provider_reported_pb_ratio": 9.27,
+  "statements_retrieved_at": "2026-11-03T21:21:38.967500",
   "retained_fields": []
 }

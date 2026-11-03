@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - General",
   "business_summary": "Sanofi Consumer Healthcare India Limited operates as a fast-moving consumer healthcare company in India. The company offers products in the allergy, physical wellness, and pain care segments under Allegra, Combiflam, Avil, DePURA, Festal, and other brand names through distributors, wholesalers, government institutions and hospitals, pharmacy chains, and e-commerce platforms. The company was incorporated in 2023 and is based in Mumbai, India. Sanofi Consumer Healthcare India Limited operates as a subsidiary of Opella Healthcare Participations B.V.",
   "business_summary_reason": null,
-  "market_cap_cr": 8118.81,
-  "pe_ratio": 28.99,
+  "market_cap_cr": 8062.76,
+  "pe_ratio": 28.79,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 151.04,
@@ -63,8 +63,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:45:19.902918",
-  "provider_reported_pb_ratio": 23.31,
-  "statements_retrieved_at": "2026-11-02T23:45:19.902918",
+  "retrieval_time": "2026-11-03T21:34:33.124235",
+  "provider_reported_pb_ratio": 23.15,
+  "statements_retrieved_at": "2026-11-03T21:34:33.124235",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Luxury Goods",
   "business_summary": "Asian Star Company Limited manufactures and sells diamond jewelry worldwide. It operates through two segments, Diamonds and Jewellery. The company provides generic, certified, mine-origin programme, and special-cut diamonds. In addition, it offers cocktail, European fashion, Indian fashion, men's, petite bridals, wedding, and ceramic indulgence jewellery. Further, it provides various cut and polished diamonds, and diamond studded jewelry. The company retails diamond jewelry through its jewellery boutique. Asian Star Company Limited was founded in 1971 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1072.38,
-  "pe_ratio": 33.72,
+  "market_cap_cr": 1040.44,
+  "pe_ratio": 32.71,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 1037.74,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T22:59:31.837411",
-  "provider_reported_pb_ratio": 0.65,
-  "statements_retrieved_at": "2026-11-02T22:59:31.837411",
+  "retrieval_time": "2026-11-03T20:45:04.591124",
+  "provider_reported_pb_ratio": 0.63,
+  "statements_retrieved_at": "2026-11-03T20:45:04.591124",
   "retained_fields": []
 }

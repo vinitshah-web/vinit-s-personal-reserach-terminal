@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "NRB Bearings Limited, together with its subsidiaries, manufactures, markets, and trades in bearing products in India and internationally. It offers drawn cup needle, cylindrical roller, drawn cup cylindrical roller, full-complement needle, special ball, thrust, tapered and spherical roller, and rocker-arm bearings, as well as planetary shafts and other special pins, polyamide and steel needle bearing cages, crank pins, and formed strip cages for heavy gearboxes. The company also provides customer support services. Its products are used in mobility applications. The company was incorporated in 1965 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4543.73,
-  "pe_ratio": 30.82,
+  "market_cap_cr": 4515.14,
+  "pe_ratio": 30.63,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 99.32,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:36:05.636134",
-  "provider_reported_pb_ratio": 4.72,
-  "statements_retrieved_at": "2026-11-02T23:36:05.636134",
+  "retrieval_time": "2026-11-03T21:24:42.530330",
+  "provider_reported_pb_ratio": 4.69,
+  "statements_retrieved_at": "2026-11-03T21:24:42.530330",
   "retained_fields": []
 }

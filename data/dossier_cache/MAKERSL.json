@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Makers Laboratories Limited, an integrated pharmaceutical company, manufactures and markets formulations in India. It operates in two segments, Pharmaceutical and Chemical Manufacturing. The company offers general health therapeutic products, including acid regulatory, anthelmintic, anti-allergic, anti-asthmatic, anti-biotic, anti-diabetics, anti-diarrhoeals, anti-emetics and anti-nauseants, anti-fungal, anti-hypertensive, anti\u0096inflammatory, analgesic, anti-spasmodic, anti-malarial, and anti-thyroid. It also provides cough and cold control, digestives, neurotonics, nutritional supplements, topical anti-biotic/anti-microbial, and other specialty drugs. The company sells its products under the Duramol, Artemak-AB, Loroquin, Nimuwin, Coffwin, and Exylin brands. It distributes its products through agents, stockiest, doctors, and retailers. The company also exports its products. Makers Laboratories Limited was incorporated in 1984 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 124.1,
-  "pe_ratio": 36.32,
+  "market_cap_cr": 119.13,
+  "pe_ratio": 34.87,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 123.59,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:29:22.054060",
-  "provider_reported_pb_ratio": 1.7,
-  "statements_retrieved_at": "2026-11-02T23:29:22.054060",
+  "retrieval_time": "2026-11-03T21:17:29.600314",
+  "provider_reported_pb_ratio": 1.63,
+  "statements_retrieved_at": "2026-11-03T21:17:29.600314",
   "retained_fields": []
 }

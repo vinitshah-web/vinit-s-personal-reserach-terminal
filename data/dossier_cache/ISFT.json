@@ -5,14 +5,14 @@
   "industry": "Internet Retail",
   "business_summary": "IntraSoft Technologies Limited, through its subsidiaries, multichannel online retail platform, engages in the development and delivery of e-commerce and e-cards through internet platforms in India and internationally. The company owns and operates 123stores.com, an e-commerce retail portal that provides sports and outdoor, home and kitchen, garden and outdoor, and tool and home. It also sells its products through online marketplaces. IntraSoft Technologies Limited was incorporated in 1996 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 192.43,
-  "pe_ratio": 14.03,
+  "market_cap_cr": 192.3,
+  "pe_ratio": 14.02,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 163.21,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.6312,
-  "fifty_two_week_high": 119.0,
+  "fifty_two_week_high": 121.99,
   "fifty_two_week_low": 54.05,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:22:22.923234",
+  "retrieval_time": "2026-11-03T21:09:55.003674",
   "provider_reported_pb_ratio": 0.72,
-  "statements_retrieved_at": "2026-11-02T23:22:22.923234",
+  "statements_retrieved_at": "2026-11-03T21:09:55.003674",
   "retained_fields": []
 }

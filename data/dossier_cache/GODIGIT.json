@@ -5,8 +5,8 @@
   "industry": "Insurance - Property & Casualty",
   "business_summary": "Go Digit General Insurance Limited provides various insurance products and services in India. It offers car, bike, and commercial vehicle insurance; health and property insurance; fire, marine cargo and hull, travel, miscellaneous, and business insurance; and workmen's compensation, public/product liability, engineering, aviation, personal accident, crop, and other insurance. The company was formerly known as Oben General Insurance Limited and changed its name to Go Digit General Insurance Limited in June 2017. The company was incorporated in 2016 and is based in Bengaluru, India. Go Digit General Insurance Limited operates as a subsidiary of Go Digit Infoworks Services Private Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 24335.98,
-  "pe_ratio": 49.54,
+  "market_cap_cr": 23396.96,
+  "pe_ratio": 47.63,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 50.69,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:15:21.405782",
-  "provider_reported_pb_ratio": 5.19,
-  "statements_retrieved_at": "2026-11-02T23:15:21.405782",
+  "retrieval_time": "2026-11-03T21:02:15.982547",
+  "provider_reported_pb_ratio": 4.99,
+  "statements_retrieved_at": "2026-11-03T21:02:15.982547",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Credit Services",
   "business_summary": "Baid Finserv Limited operates as a non-banking finance company in India. The company provides car, new and used commercial vehicle, gold, small and medium enterprises, tractors, construction equipment, and other asset backed loans, as well as loan against property. It also offers life, dwelling, and motor insurance products. The company was formerly known as Baid Leasing and Finance Co. Ltd. and changed its name to Baid Finserv Limited in July 2022. Baid Finserv Limited was incorporated in 1991 and is based in Jaipur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 159.99,
-  "pe_ratio": 9.14,
+  "market_cap_cr": 156.42,
+  "pe_ratio": 8.94,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 15.03,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:00:45.866573",
-  "provider_reported_pb_ratio": 0.66,
-  "statements_retrieved_at": "2026-11-02T23:00:45.866573",
+  "retrieval_time": "2026-11-03T20:46:29.694284",
+  "provider_reported_pb_ratio": 0.64,
+  "statements_retrieved_at": "2026-11-03T20:46:29.694284",
   "retained_fields": []
 }

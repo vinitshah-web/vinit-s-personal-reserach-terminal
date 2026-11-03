@@ -5,8 +5,8 @@
   "industry": "Furnishings, Fixtures & Appliances",
   "business_summary": "Parin Enterprises Limited engages in the manufacture, supply, and trade of furniture and lifestyle products in India. It offers health care furniture, such as accessories, general ward care and gynaec solutions, over bed/cardiac table, patient examination solution, saline stand, smart patient transfer solutions, stools, wheelchairs, ICU full and semi motorized beds, ICU manual beds, and trolleys; educational furniture, including school benches; and institute furniture, which includes door cabinets, open self-book cabinets, and filling lockers. The company also provides office furniture; public seating furniture; and cafeteria furniture comprising cafe tables and chairs. In addition, it offers household furniture, such as sofa-sets, dining tables with chairs, center tables, motorized and non-motorized recliner chairs, etc. Further, the company engages in the operations of dealing in trading of FMCG products; and dealership operations for motor vehicles, including sale of automobiles, spare parts, accessories, and services. It serves government, retail, and institutional customers. The company was formerly known as Parin Furniture Limited and changed its name to Parin Enterprises Limited in October 2024. The company was founded in 1983 and is based in Rajkot, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 751.35,
-  "pe_ratio": 120.46,
+  "market_cap_cr": 741.13,
+  "pe_ratio": 118.82,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 69.78,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:38:05.841182",
-  "provider_reported_pb_ratio": 9.68,
-  "statements_retrieved_at": "2026-11-02T23:38:05.841182",
+  "retrieval_time": "2026-11-03T21:26:48.659712",
+  "provider_reported_pb_ratio": 9.55,
+  "statements_retrieved_at": "2026-11-03T21:26:48.659712",
   "retained_fields": []
 }

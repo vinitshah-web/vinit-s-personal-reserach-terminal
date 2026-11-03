@@ -5,8 +5,8 @@
   "industry": "Packaging & Containers",
   "business_summary": "TCPL Packaging Limited manufactures and sells paperboard-based packaging, flexible packaging, rigid boxes, and gravure printing cylinders in India. The company offers folding cartons, printed blanks and outers, litho-laminated cartons, shaped cartons, metallized paperboard cartons, coated food packaging, and secure document envelope cartons; flexible packaging products, such as printed laminates, pouches, wrap-around labels, and shrink sleeves; MDO Polyethylene (PE) / PE structures, PE-based barrier formats, paper cups with compostable coatings, paper / compostable PE structures, recyclable films and other selected mono-material or recyclable packaging solutions; and rigid boxes and premium gift packaging solutions, as well as films and specialty applications. It serves FMCG, food and beverages, pharmaceuticals, tobacco, e-commerce, consumer durables, and electronics industries. The company was formerly known as Twenty First Century Printers Ltd and changed its name to TCPL Packaging Limited in September 2008. The company was incorporated in 1987 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3870.28,
-  "pe_ratio": 33.58,
+  "market_cap_cr": 3803.17,
+  "pe_ratio": 33.0,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 789.87,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:53:37.403869",
-  "provider_reported_pb_ratio": 5.4,
-  "statements_retrieved_at": "2026-11-02T23:53:37.403869",
+  "retrieval_time": "2026-11-03T21:43:38.118731",
+  "provider_reported_pb_ratio": 5.3,
+  "statements_retrieved_at": "2026-11-03T21:43:38.118731",
   "retained_fields": []
 }

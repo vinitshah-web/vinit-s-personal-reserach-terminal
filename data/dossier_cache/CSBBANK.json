@@ -5,15 +5,15 @@
   "industry": "Banks - Regional",
   "business_summary": "CSB Bank Limited provides banking and financial services for small and mid-sized enterprises, large corporates and conglomerates, and domestic and non-resident individuals in India. It operates through Treasury, Corporate/Wholesale Banking, Retail Banking, and Other Banking Operations segments. The company offers savings, current, salary/payroll, and fixed and recurring deposit accounts, as well as safe deposit lockers, family banking, and segmented products; life, general, and health insurance, as well as social security schemes; personal, gold, retail, vehicle, home, MSME-small business, agriculture, educational, MFI, and two-wheeler loans, as well as healthcare finance; loans against securities and property; doorstep banking services, such as pickup and delivery of cash and cheques, and pickup of cheques; and corporate net banking. It also provides investment services, such as e-trade and sovereign gold bonds; credit and debit cards; NRI banking services, including NRO, NRE, and RFC accounts and deposits, as well as FCNR deposits; premier banking products; digital access and value-added services; foreign exchange services, including outward remittances and foreign currency cash; and agri-banking and financial inclusion services. In addition, the company offers term and working capital loans, export and import finance, letters of credit, buyers' and suppliers' credit, commercial vehicle loans, inland and trade receivables discounting system bill discounting, factoring, cash credit/overdraft, trade and bill finance, cash management, and bank guarantees; treasury products, such as forex hedging solutions and advisory services; ATMs and CDMs; internet, mobile, and WhatsApp banking; POS/QR solutions; RTGS/NEFT; and utility and bill payments services. The company was formerly known as The Catholic Syrian Bank Limited and changed its name to CSB Bank Limited in June 2019. CSB Bank Limited was incorporated in 1920 and is headquartered in Thrissur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 5030.38,
-  "pe_ratio": 7.47,
+  "market_cap_cr": 5017.64,
+  "pe_ratio": 7.46,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 300.04,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 16.9945,
   "fifty_two_week_high": 574.4,
-  "fifty_two_week_low": 294.15,
+  "fifty_two_week_low": 294.05,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:07:12.950710",
-  "provider_reported_pb_ratio": 0.99,
-  "statements_retrieved_at": "2026-11-02T23:07:12.950710",
+  "retrieval_time": "2026-11-03T20:53:20.033260",
+  "provider_reported_pb_ratio": 0.98,
+  "statements_retrieved_at": "2026-11-03T20:53:20.033260",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Credit Services",
   "business_summary": "Muthoot Microfin Limited, a non-deposit taking non-banking financial company, provides micro loans to women entrepreneurs in rural regions of India. The company offers income generating, Pragathi, Suvidha, and individual loans; education, mobile phones, solar lighting product, and household appliances product loans; sanitation improvement loans; and secured loans. It also provides value-added services, such as wellness combo and property insurance. The company was formerly known as Panchratna Securities Limited and changed its name to Muthoot Microfin Limited in October 2012. The company was incorporated in 1992 and is based in Kochi, India. Muthoot Microfin Limited operates as a subsidiary of Muthoot Fincorp Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 2392.02,
-  "pe_ratio": 9.82,
+  "market_cap_cr": 2487.64,
+  "pe_ratio": 10.21,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 170.14,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:33:46.607815",
-  "provider_reported_pb_ratio": 0.84,
-  "statements_retrieved_at": "2026-11-02T23:33:46.607815",
+  "retrieval_time": "2026-11-03T21:22:12.113581",
+  "provider_reported_pb_ratio": 0.87,
+  "statements_retrieved_at": "2026-11-03T21:22:12.113581",
   "retained_fields": []
 }

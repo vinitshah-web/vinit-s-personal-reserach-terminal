@@ -5,14 +5,14 @@
   "industry": "Lodging",
   "business_summary": "Oriental Hotels Limited owns, operates, and manages hotels and resorts in India and Hong Kong. The company's hotel portfolio includes the Taj Coromandel, Chennai; Taj Fisherman's Cove Resort & Spa, Chennai; Taj Malabar Resort & Spa, Cochin; Vivanta, Coimbatore; Gateway Madurai and Coonoor; and Vivanta, Mangalore. It provides accommodation, restaurant, food, and catering services. Oriental Hotels Limited was incorporated in 1970 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2921.7,
-  "pe_ratio": 43.51,
+  "market_cap_cr": 2923.85,
+  "pe_ratio": 43.54,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 43.85,
-  "dividend_yield_pct": 0.4041,
+  "dividend_yield_pct": 0.3973,
   "shares_outstanding_cr": 17.8599,
-  "fifty_two_week_high": 164.65,
+  "fifty_two_week_high": 165.0,
   "fifty_two_week_low": 80.0,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:37:22.848271",
+  "retrieval_time": "2026-11-03T21:26:04.353700",
   "provider_reported_pb_ratio": 3.73,
-  "statements_retrieved_at": "2026-11-02T23:37:22.848271",
+  "statements_retrieved_at": "2026-11-03T21:26:04.353700",
   "retained_fields": []
 }

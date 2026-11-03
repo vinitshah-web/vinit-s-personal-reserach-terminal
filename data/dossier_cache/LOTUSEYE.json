@@ -5,8 +5,8 @@
   "industry": "Medical Care Facilities",
   "business_summary": "Lotus Eye Hospital and Institute Limited, a specialty eye care hospital, provides eye care and related services in India. The company offers ReLEx SMILE, a refractive lenticule extraction small incision lenticule extraction; touch-free laser; lasik eye surgery; Epi-LASIK, an epithelial laser in situ keratomileusis; Intralase, a blade-free technique to create the corneal flap; Zyoptix Supracor laser technology; robotic femto laser cataract surgery; phacoemulsification; paediatric eye care and squint surgery; and micro incision cataract surgery treatments. It provides treatment services for various eye problems, such as refractive errors, cataract, glaucoma, retinal disease/diabetic eye care, neuro ophthalmology, binocular vision, and corneal infections, as well as various eye-related courses. The company was formerly known as Lotus Eye Care Hospital Limited and changed its name to Lotus Eye Hospital and Institute Limited in April 2013. Lotus Eye Hospital and Institute Limited was founded in 1989 and is based in Coimbatore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 226.6,
-  "pe_ratio": 1362.0,
+  "market_cap_cr": 226.04,
+  "pe_ratio": 1358.62,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 28.23,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:28:22.807811",
-  "provider_reported_pb_ratio": 3.86,
-  "statements_retrieved_at": "2026-11-02T23:28:22.807811",
+  "retrieval_time": "2026-11-03T21:16:26.062511",
+  "provider_reported_pb_ratio": 3.85,
+  "statements_retrieved_at": "2026-11-03T21:16:26.062511",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Integrated Freight & Logistics",
   "business_summary": "Allcargo Logistics Limited provides integrated logistics solutions in India. It offers express logistics comprising ground and air express, and retail services; consultive logistics, including warehousing and storage, transportation management, in-plant management, stores and line feed, distribution and inbound logistics, and ecommerce order fulfillment. The company also offers express distribution, air freight, e-commerce logistics, and first and last mile delivery; B2C services, such as laabh, bike express, and student express solutions. Allcargo Logistics Limited was founded in 1989 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1455.84,
-  "pe_ratio": 57.18,
+  "market_cap_cr": 1463.33,
+  "pe_ratio": 57.47,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 3.73,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T22:56:54.076456",
-  "provider_reported_pb_ratio": 2.61,
-  "statements_retrieved_at": "2026-11-02T22:56:54.076456",
+  "retrieval_time": "2026-11-03T20:42:15.918184",
+  "provider_reported_pb_ratio": 2.62,
+  "statements_retrieved_at": "2026-11-03T20:42:15.918184",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Amanta Healthcare Limited operates as a pharmaceutical company engaged in developing, manufacturing and marketing a diverse range of sterile liquid products and parenteral products in Africa, Latin America, the United Kingdom, and internationally. The company manufactures its products in three product group segments Large Volume Parenteral, Nipple Head (Single Port), SteriPort (Two Ports), and Small Volume Parenteral. Additionally, it manufactures medical devices and fluid therapy - (IV Fluid), formulations, diluents, ophthalmic, respiratory care and irrigation solutions in therapeutic segment and products, such as irrigation, first-aid solution, and eye lubricants in medical device segment. It also offers a wide range of closure systems, such as nipple head, twist-off, and screw types and container fill-volume ranging from 2ml to 1000 ml. Its markets its products through three strategic business units including national sales, international sales, and product partnering with various foreign and Indian pharmaceutical companies. Amanta Healthcare Limited was formerly known as Marck Biosciences Limited and changed its name to Amanta Healthcare Limited in June 2014. Amanta Healthcare Limited was incorporated in 1994 and is headquartered in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 634.08,
-  "pe_ratio": 39.25,
+  "market_cap_cr": 669.73,
+  "pe_ratio": 41.46,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 64.09,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T22:57:14.458293",
-  "provider_reported_pb_ratio": 2.55,
-  "statements_retrieved_at": "2026-11-02T22:57:14.458293",
+  "retrieval_time": "2026-11-03T20:42:37.949817",
+  "provider_reported_pb_ratio": 2.69,
+  "statements_retrieved_at": "2026-11-03T20:42:37.949817",
   "retained_fields": []
 }

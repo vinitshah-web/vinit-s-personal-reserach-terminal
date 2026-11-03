@@ -5,15 +5,15 @@
   "industry": "Broadcasting",
   "business_summary": "Zee Entertainment Enterprises Limited, together with its subsidiaries, engages in broadcasting satellite television channels and digital media in India and internationally. The company broadcasts Hindi general entertainment channels, such as Zee TV, Zee TV HD, &tv, &tv HD, and BIG Magic; Hindi movie channels comprising Zee Anmol Cinema, Zee Cinema, Zee Action, Zee Classic, &pictures, and Zee Bollywood, as well as Zee Cinema HD, &xplor HD, and &pictures HD; and regional entertainment channels, including Zee Marathi, Zee Yuva, Zee Bangla, Zee Tamil, Zee Telegu, Zee Kannada, Zee Sarthak, Zee Ganga, Zee Talkies, Zee Bangla Cinema, Zee Bioskop, Zee Marathi HD, Zee Talkies HD, Zee Telugu HD, and Zee Bangla HD. It also broadcasts Zee Caf\u00e9, Zee Caf\u00e9 HD, &priv\u00e9 HD, Zee Studio, &flix, &flix HD, Zeezest, Zeezest HD, Zee TV Canada, Zee TV Caribbean, Zee Magic, Zee World, Zee One, and Zee Bollymovies. In addition, it produces and distributes movies through Zee Studios and Zee Plex; publishes music through Zee Music CO; operates Zee5 OTT platform; act as a space selling agent for other satellite television channels; and sells media content, which include programs/film rights/feeds/music rights. The company was formerly known as Zee Telefilms Limited and changed its name to Zee Entertainment Enterprises Limited in January 2007. Zee Entertainment Enterprises Limited was incorporated in 1982 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 5914.88,
-  "pe_ratio": 33.65,
+  "market_cap_cr": 5923.52,
+  "pe_ratio": 33.7,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 129.76,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 96.0519,
   "fifty_two_week_high": 118.35,
-  "fifty_two_week_low": 61.06,
+  "fifty_two_week_low": 60.91,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T00:00:16.134996",
-  "provider_reported_pb_ratio": 0.47,
-  "statements_retrieved_at": "2026-11-03T00:00:16.134996",
+  "retrieval_time": "2026-11-03T21:50:42.417823",
+  "provider_reported_pb_ratio": 0.48,
+  "statements_retrieved_at": "2026-11-03T21:50:42.417823",
   "retained_fields": []
 }

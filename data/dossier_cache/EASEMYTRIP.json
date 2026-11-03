@@ -5,7 +5,7 @@
   "industry": "Travel Services",
   "business_summary": "Easy Trip Planners Limited, together with its subsidiaries, operates as an online travel agency in India, the Philippines, Singapore, Thailand, the United Arab Emirates, the United Kingdom, Saudi Arabia, New Zealand, Brazil, and the United States. It operates through Air Ticketing; Hotels Packages; and Other Services segments. The company provides reservation and booking services related to travel and tourism through ease-my-trip portal and app or in-house call centre, which includes a range of travel-related products and services, such as airline tickets, hotels, and holiday and travel packages; and train and bus tickets, air charter services, taxi rentals, and cruise packages. The company also offers travel guides and updates, and other reservation activities; travel insurance, visa processing, and activity ticketing; and upskilling, professional, and vocational training services. Easy Trip Planners Limited was incorporated in 2008 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2450.56,
+  "market_cap_cr": 2374.85,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:10:09.214419",
-  "provider_reported_pb_ratio": 2.61,
-  "statements_retrieved_at": "2026-11-02T23:10:09.214419",
+  "retrieval_time": "2026-11-03T20:56:26.727324",
+  "provider_reported_pb_ratio": 2.53,
+  "statements_retrieved_at": "2026-11-03T20:56:26.727324",
   "retained_fields": []
 }

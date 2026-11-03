@@ -5,14 +5,14 @@
   "industry": "Financial Data & Stock Exchanges",
   "business_summary": "CRISIL Limited, an analytical company, provides ratings, research, and risk and policy consulting services in India, Europe, North America, and internationally. It operates through two segment, Rating Services; and Research, Analytics and Solutions. The company offers credit ratings for corporates, banks, and bank loans; credit analysis services; grading services; and analytical services. It also provides research and risk solutions, industry reports, customized research assignments, subscription to data services, training, and advisory services; and a range of risk management tools, analytics, and solutions for financial institutions, banks, and corporates. The company was formerly known as The Credit Rating Information Services of India Limited and changed its name to CRISIL Limited in December 2003. CRISIL Limited was incorporated in 1987 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 33262.46,
-  "pe_ratio": 37.13,
+  "market_cap_cr": 32319.08,
+  "pe_ratio": 36.08,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 447.35,
-  "dividend_yield_pct": 1.417,
+  "dividend_yield_pct": 1.4071,
   "shares_outstanding_cr": 7.313,
-  "fifty_two_week_high": 4955.3,
+  "fifty_two_week_high": 4894.6,
   "fifty_two_week_low": 3686.0,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:07:06.928840",
-  "provider_reported_pb_ratio": 10.17,
-  "statements_retrieved_at": "2026-11-02T23:07:06.928840",
+  "retrieval_time": "2026-11-03T20:53:13.595862",
+  "provider_reported_pb_ratio": 9.88,
+  "statements_retrieved_at": "2026-11-03T20:53:13.595862",
   "retained_fields": []
 }

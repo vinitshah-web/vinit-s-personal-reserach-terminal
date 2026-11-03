@@ -6,7 +6,7 @@
   "business_summary": "Central Mine Planning & Design Institute Limited provides consultancy and support services in India and internationally. The company offers geological exploration and drilling, project planning and design, engineering, research and development, laboratory, environmental, information technology, human resource development, and specialised services, including geomatics including remote Sensing, ventilation and gas survey in mines, controlled blasting, performance evaluation of new explosives, mining electronics, mine capacity assessment, mine support design, rock mass rating non-destructive testing, management system consultancy, and measurement of coal and OBR. It also provides coal preparation, management, infrastructure civil engineering, and contract management cell services. Central Mine Planning and Design Institute Limited was incorporated in 1975 and is headquartered in Ranchi, India. Central Mine Planning and Design Institute Limited operates as a subsidiary of Coal India Limited.",
   "business_summary_reason": null,
   "market_cap_cr": null,
-  "pe_ratio": 19.38,
+  "pe_ratio": 19.05,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 34.24,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:06:01.980180",
-  "provider_reported_pb_ratio": 5.33,
-  "statements_retrieved_at": "2026-11-02T23:06:01.980180",
+  "retrieval_time": "2026-11-03T20:52:05.991277",
+  "provider_reported_pb_ratio": 5.24,
+  "statements_retrieved_at": "2026-11-03T20:52:05.991277",
   "retained_fields": []
 }

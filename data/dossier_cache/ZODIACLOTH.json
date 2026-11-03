@@ -5,7 +5,7 @@
   "industry": "Apparel Manufacturing",
   "business_summary": "Zodiac Clothing Company Limited manufactures, retails, and trades men's clothing and accessories in India and internationally. The company provides shirts, ties, trousers, innerwear, suits, polos, and jackets, as well as accessories, including cufflinks, pocket squares, belts, socks, gift boxes, and handkerchiefs. It offers its products under the Zodiac, Zod, and Z3 brands names. It operates a chain of retail stores. The company was founded in 1954 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 179.77,
+  "market_cap_cr": 176.42,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T00:00:29.608677",
-  "provider_reported_pb_ratio": 0.95,
-  "statements_retrieved_at": "2026-11-03T00:00:29.608677",
+  "retrieval_time": "2026-11-03T21:50:56.660545",
+  "provider_reported_pb_ratio": 0.93,
+  "statements_retrieved_at": "2026-11-03T21:50:56.660545",
   "retained_fields": []
 }

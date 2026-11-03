@@ -5,8 +5,8 @@
   "industry": "Information Technology Services",
   "business_summary": "Inspirisys Solutions Limited provides information technology services in India and internationally. It offers endpoint, network, application, data, and mobile security; and malware defense, risk and compliance, and consulting services, as well as a securities operation center, and vulnerability assessment and penetration testing services. The company also provides cloud solutions, including infrastructure as a service, platform as a service, application services, and management services; and Internet of Things (IoT) solutions, such as digital transformation, support for IoT applications systems, custom IoT, and development support for IoT systems. In addition, it offers infrastructure solutions consist of data center solutions and manages services, digital kiosks, staff augmentation, tools and services automation, workplace transformation, managed IT services, and network services, as well as audit, consulting, and professional services. Further, the company provides product engineering and development solutions, such as banking solutions, digital transformation, integration and mitigation, enterprise software, test automation, intelligence payment suite for government, business solutions, artificial intelligence solutions, robotic process automation solutions, multi-function banking kiosks, and application development and maintenance services. Additionally, it offers warranty management services, including return to bench, onsite warranty support, extended warranty, warehouse support, logistics, test services, repairs and refurbishments, data recovery, and customized CRM software services. It serves BFSI, telecom, government/PSU, manufacturing, and healthcare industries. The company was formerly known as Accel Frontline Limited and changed its name to Inspirisys Solutions Limited in September 2018. The company was founded in 1991 and is based in Chennai, India. Inspirisys Solutions Limited is a subsidiary of CAC Holdings Corporation.",
   "business_summary_reason": null,
-  "market_cap_cr": 343.87,
-  "pe_ratio": 9.34,
+  "market_cap_cr": 351.92,
+  "pe_ratio": 9.56,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 25.3,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:21:49.651007",
-  "provider_reported_pb_ratio": 3.43,
-  "statements_retrieved_at": "2026-11-02T23:21:49.651007",
+  "retrieval_time": "2026-11-03T21:09:20.707469",
+  "provider_reported_pb_ratio": 3.51,
+  "statements_retrieved_at": "2026-11-03T21:09:20.707469",
   "retained_fields": []
 }

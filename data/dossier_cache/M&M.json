@@ -5,8 +5,8 @@
   "industry": "Auto Manufacturers",
   "business_summary": "Mahindra & Mahindra Limited provides mobility products and farm solutions in India and internationally. It operates through Automotive; Farm Equipment; Auto Investments; Farm Investments; and Investments in Industrial Businesses and Consumer Services segments. The Automotive segment provides automobiles, two wheelers, spares, construction equipment and related services. The Farm Equipment segment sells tractors, implements, spares, powerol, and related services. The Auto Investments segment invests in automotive-related subsidiaries, associates and joint ventures. The Farm Investments segment is involved in the investment of farm equipment related subsidiaries, associates, and joint ventures. The Industrial Businesses and Consumer Services' segment invests in automotive & farm related subsidiaries, associates and joint ventures. The company was incorporated in 1945 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 344474.67,
-  "pe_ratio": 17.46,
+  "market_cap_cr": 349181.65,
+  "pe_ratio": 17.7,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 833.02,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:28:48.191704",
-  "provider_reported_pb_ratio": 3.44,
-  "statements_retrieved_at": "2026-11-02T23:28:48.191704",
+  "retrieval_time": "2026-11-03T21:16:52.416211",
+  "provider_reported_pb_ratio": 3.49,
+  "statements_retrieved_at": "2026-11-03T21:16:52.416211",
   "retained_fields": []
 }

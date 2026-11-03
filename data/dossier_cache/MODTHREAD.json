@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Modern Threads (India) Limited manufactures and sells wool and blended worsted yarn products in India. It offers merino raw white and dyed re-combed wool tops; polyester/wool blended dyed re-combed tops; specialty and worsted woolen yarns; lanolin; wool grease; synthetic yarn; and wool noil and spinning waste products. It also exports its products to Europe and the Middle East, as well as Latin American, the Far eastern, and African countries. Modern Threads (India) Limited was founded in 1973 and is based in Bhilwara, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 158.47,
-  "pe_ratio": 8.78,
+  "market_cap_cr": 156.7,
+  "pe_ratio": 8.68,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": null,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:32:04.701996",
+  "retrieval_time": "2026-11-03T21:20:26.672769",
   "provider_reported_pb_ratio": null,
-  "statements_retrieved_at": "2026-11-02T23:32:04.701996",
+  "statements_retrieved_at": "2026-11-03T21:20:26.672769",
   "retained_fields": []
 }

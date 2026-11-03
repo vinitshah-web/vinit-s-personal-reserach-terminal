@@ -5,8 +5,8 @@
   "industry": "Luxury Goods",
   "business_summary": "Radhika Jeweltech Limited engages in the manufacture and retail of jewelry in India. The company operates retail outlets that sell platinum, bespoke, gold and gold jewellery, loose diamond and diamond jewellery, as well as customized and polki jewelry. Radhika Jeweltech Limited was founded in 1987 and is based in Rajkot, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 711.0,
-  "pe_ratio": 8.93,
+  "market_cap_cr": 730.85,
+  "pe_ratio": 9.18,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 33.72,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:41:38.738464",
-  "provider_reported_pb_ratio": 1.78,
-  "statements_retrieved_at": "2026-11-02T23:41:38.738464",
+  "retrieval_time": "2026-11-03T21:30:34.136000",
+  "provider_reported_pb_ratio": 1.83,
+  "statements_retrieved_at": "2026-11-03T21:30:34.136000",
   "retained_fields": []
 }

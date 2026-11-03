@@ -5,7 +5,7 @@
   "industry": "Oil & Gas Equipment & Services",
   "business_summary": "Jindal Drilling & Industries Limited engages in providing drilling and related services to the oil and gas exploration companies in India. It operates through three segments: o\u00acffshore drilling jack-up rigs built for efficiency, reliability and safety; directional / horizontal drilling / MWD services; and mud logging services. The company was incorporated in 1983 and is headquartered in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1481.95,
+  "market_cap_cr": 1481.66,
   "pe_ratio": 7.73,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:23:31.376415",
+  "retrieval_time": "2026-11-03T21:11:09.967880",
   "provider_reported_pb_ratio": 0.81,
-  "statements_retrieved_at": "2026-11-02T23:23:31.376415",
+  "statements_retrieved_at": "2026-11-03T21:11:09.967880",
   "retained_fields": []
 }

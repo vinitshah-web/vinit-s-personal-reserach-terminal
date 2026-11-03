@@ -5,7 +5,7 @@
   "industry": "Packaged Foods",
   "business_summary": "McLeod Russel India Limited, together with its subsidiaries, engages in the cultivation and production, and sale of tea in India, the United Kingdom, and Europe. It operates tea estates and blending units. The company was founded in 1869 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 471.1,
+  "market_cap_cr": 457.62,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:30:31.954992",
-  "provider_reported_pb_ratio": -9.34,
-  "statements_retrieved_at": "2026-11-02T23:30:31.954992",
+  "retrieval_time": "2026-11-03T21:18:46.849811",
+  "provider_reported_pb_ratio": -9.07,
+  "statements_retrieved_at": "2026-11-03T21:18:46.849811",
   "retained_fields": []
 }

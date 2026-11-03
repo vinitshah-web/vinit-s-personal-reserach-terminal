@@ -5,8 +5,8 @@
   "industry": "Aerospace & Defense",
   "business_summary": "Sigma Advanced Systems Limited, a defence and aerospace company, designs, develops, and manufactures mission-critical platforms, sub-systems, and components. The company provides multi-axis precision machining solutions, including turning and mill turning, multi-axis milling, solid machining, CNC grinding, and water jet cutting solutions; fabrication and assemblies, structures and precision welding, fusion welding, resistance welding, sheet metal details and assemblies, hydraulic press forming, metal manipulation, precision fabricated structures, thermal and acoustic lagging, and thermal conversion solutions; and surface and metal treatments, such as chromic and tartaric anodizing, alocrom, dry film lubricants, epoxy prime and finish schemes, etch primer, pain spray and stoving, polyurethane finish schemes, rock hard lacquer, magnetic particle inspection, fluorescent penetrant inspection, masking, multi-finishing masking, and water-based primer solutions. It also offers counter UAS, unmanned aerial, missile, naval, radar and electronic warfare, and avionics systems. The company was formerly known as Megasoft Limited and changed its name to Sigma Advanced Systems Limited in January 2026. Sigma Advanced Systems Limited was incorporated in 1994 and is headquartered in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 17113.55,
-  "pe_ratio": 97.52,
+  "market_cap_cr": 16994.84,
+  "pe_ratio": 96.84,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 26.58,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:48:37.345947",
-  "provider_reported_pb_ratio": 33.89,
-  "statements_retrieved_at": "2026-11-02T23:48:37.345947",
+  "retrieval_time": "2026-11-03T21:38:20.627221",
+  "provider_reported_pb_ratio": 33.66,
+  "statements_retrieved_at": "2026-11-03T21:38:20.627221",
   "retained_fields": []
 }

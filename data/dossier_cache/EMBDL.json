@@ -5,7 +5,7 @@
   "industry": "Real Estate - Diversified",
   "business_summary": "Embassy Developments Limited operates as a real estate company in India. The company engages in developing real estate, specializing in the construction and development of residential, commercial, and special economic zone (SEZ) projects. The company was formerly known as Equinox India Developments Limited and changed its name to Embassy Developments Limited in February 2025. Embassy Developments Limited was incorporated in 2006 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 7478.36,
+  "market_cap_cr": 7576.51,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:11:09.089053",
-  "provider_reported_pb_ratio": 0.74,
-  "statements_retrieved_at": "2026-11-02T23:11:09.089053",
+  "retrieval_time": "2026-11-03T20:57:28.788249",
+  "provider_reported_pb_ratio": 0.75,
+  "statements_retrieved_at": "2026-11-03T20:57:28.788249",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Chemicals",
   "business_summary": "Ishan Dyes and Chemicals Limited manufactures, trades, exports, imports, and deals in chemicals used in dyes and pigments in India. The company's product portfolio includes CPC Blue, pigment alpha blue, and pigment beta blue range of products like copper phthalocyanine crude blue, solvent dye, and pigment alpha, beta blue. Its products are used in paints, textiles, inks, plastics, rubber and other industries. Ishan Dyes and Chemicals Limited was incorporated in 1993 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 118.52,
-  "pe_ratio": 49.28,
+  "market_cap_cr": 119.28,
+  "pe_ratio": 49.6,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 54.48,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:22:26.688055",
+  "retrieval_time": "2026-11-03T21:09:58.780303",
   "provider_reported_pb_ratio": 0.8,
-  "statements_retrieved_at": "2026-11-02T23:22:26.688055",
+  "statements_retrieved_at": "2026-11-03T21:09:58.780303",
   "retained_fields": []
 }

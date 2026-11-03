@@ -6,13 +6,13 @@
   "business_summary": "Multi Commodity Exchange of India Limited, a commodity derivatives exchange, provides a platform to facilitate online trading of commodity derivatives in India. The company offers iCOMDEX, a real-time commodity futures price indices; and trades in bullion, base metals, energy, and agricultural commodities. It also provides clearing and settlement services; and data feed subscription and membership services. The company has strategic alliances, consultancy, and collaboration agreements with various exchanges, such as Dalian Commodity Exchange, Taiwan Futures Exchange, Zhengzhou Commodity Exchange, Jakarta Futures Exchange, European Energy Exchange AG, CME Group, and London Metal Exchange. Multi Commodity Exchange of India Limited was incorporated in 2002 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
   "market_cap_cr": null,
-  "pe_ratio": 67.86,
+  "pe_ratio": 72.89,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 165.34,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": null,
-  "fifty_two_week_high": 3481.4,
+  "fifty_two_week_high": 3538.0,
   "fifty_two_week_low": 1762.1,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:30:35.608273",
-  "provider_reported_pb_ratio": 19.65,
-  "statements_retrieved_at": "2026-11-02T23:30:35.608273",
+  "retrieval_time": "2026-11-03T21:18:50.616766",
+  "provider_reported_pb_ratio": 21.11,
+  "statements_retrieved_at": "2026-11-03T21:18:50.616766",
   "retained_fields": []
 }

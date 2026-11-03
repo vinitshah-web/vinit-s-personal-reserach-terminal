@@ -5,8 +5,8 @@
   "industry": "Information Technology Services",
   "business_summary": "Redington Limited distributes information technology, mobility, and other technology products in India, the Middle East, Turkey, Africa, and South Asian countries. It provides AI and automation, software applications, security, digital printing, data and analytics, infrastructure, 3D printing, network modernization, cyber security, solar, gaming, AR and VR, home automation, wearables, and displays; and firewalls, access service edge, endpoint security, and identity and access management solutions. The company also offers software and hardware solutions, such as laptops, tablets, servers, software, notebooks, workstations, networking, power supply, desktops, accessories, components, and lighting products for mobility, computing, printing, automation, gaming, and solar applications. In addition, it is involved in the marketing, sale, and maintenance of computer hardware, accessories and spare parts; wholesale of mobile phones and devices, electronic household appliances, telecommunication products, and cosmetics; artificial intelligence activities; distribution of renewable energy products, information technology, spare parts, and telecommunication products; cloud services and software sales; public materials transportation; requisites trading of computer software, computer equipment, telephones and telecommunication equipment, and data processing; and import and export of computers, computer peripherals, and components. Further, the company provides supply chain management, logistics, payment intermediation, hardware support and maintenance, and business and knowledge process outsourcing services; and cloud consulting, managed, and security solutions. It serves resellers, retailers, system integrators, and independent service vendors of technology products and solutions. The company was formerly known as Redington (India) Limited and changed its name to Redington Limited in August 2022. The company was incorporated in 1961 and is headquartered in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 25833.74,
-  "pe_ratio": 15.19,
+  "market_cap_cr": 26208.99,
+  "pe_ratio": 15.41,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 129.97,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:42:35.329318",
-  "provider_reported_pb_ratio": 2.54,
-  "statements_retrieved_at": "2026-11-02T23:42:35.329318",
+  "retrieval_time": "2026-11-03T21:31:36.723825",
+  "provider_reported_pb_ratio": 2.58,
+  "statements_retrieved_at": "2026-11-03T21:31:36.723825",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Credit Services",
   "business_summary": "Mangal Credit and Fincorp Limited operates as a non-banking financial company in India. The company offers small and medium enterprises, gold, and personal loans, as well as loan against property. The company was formerly known as Tak Machinery & Leasing Limited and changed its name to Mangal Credit and Fincorp Limited in June 2013. Mangal Credit and Fincorp Limited was incorporated in 1961 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 506.93,
-  "pe_ratio": 28.11,
+  "market_cap_cr": 506.06,
+  "pe_ratio": 28.07,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 81.79,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:29:35.683557",
-  "provider_reported_pb_ratio": 2.94,
-  "statements_retrieved_at": "2026-11-02T23:29:35.683557",
+  "retrieval_time": "2026-11-03T21:17:45.201192",
+  "provider_reported_pb_ratio": 2.93,
+  "statements_retrieved_at": "2026-11-03T21:17:45.201192",
   "retained_fields": []
 }

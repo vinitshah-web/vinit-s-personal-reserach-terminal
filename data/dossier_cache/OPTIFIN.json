@@ -5,8 +5,8 @@
   "industry": "Chemicals",
   "business_summary": "Optimus Finance Limited, a non-banking financial company, engages in the financing and investment activities in India. The company operates in two segments, Financing and Investment activities, and Trading of Chemicals. It primarily invests in shares and securities, as well as other investments. The company manufactures, distributes, and trades in lubricant oils, base oils, and other petro-chemical products for use in the automotive, metal working, refrigeration, electrical, paint, and ink industries. Optimus Finance Limited was formerly known as Transpek Finance Limited and changed its name to Optimus Finance Limited in September 2015. The company was incorporated in 1991 and is based in Vadodara, India. Optimus Finance Limited is a subsidiary of Sukruti Infratech Private Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 124.94,
-  "pe_ratio": 21.71,
+  "market_cap_cr": 125.01,
+  "pe_ratio": 21.73,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 8.99,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:37:06.121845",
+  "retrieval_time": "2026-11-03T21:25:47.562341",
   "provider_reported_pb_ratio": 1.86,
-  "statements_retrieved_at": "2026-11-02T23:37:06.121845",
+  "statements_retrieved_at": "2026-11-03T21:25:47.562341",
   "retained_fields": []
 }

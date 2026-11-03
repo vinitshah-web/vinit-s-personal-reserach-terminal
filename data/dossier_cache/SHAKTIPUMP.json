@@ -5,14 +5,14 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "Shakti Pumps (India) Limited, together with its subsidiaries, manufactures and sells pumping solutions in India and internationally. It offers submersible, solar, vertical multistage centrifugal, monoblock end suction, pressure booster, waste water, open well, positive displacement submersible, shallow well and slow speed, immersible, single shaft vertical multistage, solar open well, plug and play, sero vertical multi stage, mechanical seal, vertical turbine, SCRI EE, and immersible coolant pumps, as well as hydro pneumatic boosters systems and inverter submersible, micro surface, and firefighting pump sets. The company also provides submersible, EV, surface, and slip start synchronous motors; and universal drives, universal solar pump controllers, smart controllers, smart starters, grid tie inverters, hybrid inverters, hybrid controllers, RMS/IoT dongles, micro RMS 4G, DU/DT filters, solar tracker controllers, electronics and control plants, and soft starters. In addition, it offers mechanical seals, hydro pneumatic PLC parameter setting manuals, solar structures, and all products, as well as mounting structures, EV steering and compressor motors, electronic controllers, and EV chargers. The company serves the agriculture, water management, industrial, residential, commercial, solar solution, and renewable energy industries. It exports its products. The company was founded in 1982 and is headquartered in Pithampur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4450.35,
-  "pe_ratio": 27.81,
+  "market_cap_cr": 4405.31,
+  "pe_ratio": 27.53,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 144.79,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 12.3398,
-  "fifty_two_week_high": 823.3,
+  "fifty_two_week_high": 813.0,
   "fifty_two_week_low": 345.0,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:47:13.643376",
-  "provider_reported_pb_ratio": 2.49,
-  "statements_retrieved_at": "2026-11-02T23:47:13.643376",
+  "retrieval_time": "2026-11-03T21:36:48.739960",
+  "provider_reported_pb_ratio": 2.47,
+  "statements_retrieved_at": "2026-11-03T21:36:48.739960",
   "retained_fields": []
 }

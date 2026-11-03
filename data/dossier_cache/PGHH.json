@@ -5,8 +5,8 @@
   "industry": "Household & Personal Products",
   "business_summary": "Procter & Gamble Hygiene and Health Care Limited manufactures and sells branded packaged fast-moving consumer goods in the feminine care and healthcare businesses in India and internationally. It operates through Health care Products and Hygiene Products segments. The company offers health care products, including ointments and creams, cough drops, and tablets; and hygiene products, such as feminine hygiene and other skin care hygiene products, as well as feminine care pads. It also provides baby care products comprising nappies, pants, and baby wipes; grooming products; laundry products; hair care products; home, personal and skin care, and oral products. The company sells its products under the Vicks, Whisper, Pampers, Ariel, Tide, Gillette, Head & Shoulders, Herbal Essences, Pantene, Ambi Pur, Oral-B, Olay, and Old Spice brands through mass merchandisers, as well as grocery, membership club, drug, department, and high frequency stores. The company was incorporated in 1964 and is based in Mumbai, India. Procter & Gamble Hygiene and Health Care Limited operates as a subsidiary of The Procter & Gamble Company.",
   "business_summary_reason": null,
-  "market_cap_cr": 22349.22,
-  "pe_ratio": 28.26,
+  "market_cap_cr": 22905.92,
+  "pe_ratio": 28.97,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 232.1,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:38:48.794173",
-  "provider_reported_pb_ratio": 29.66,
-  "statements_retrieved_at": "2026-11-02T23:38:48.794173",
+  "retrieval_time": "2026-11-03T21:27:32.759920",
+  "provider_reported_pb_ratio": 30.4,
+  "statements_retrieved_at": "2026-11-03T21:27:32.759920",
   "retained_fields": []
 }

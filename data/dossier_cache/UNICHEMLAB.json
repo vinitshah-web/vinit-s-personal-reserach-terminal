@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Unichem Laboratories Limited, a pharmaceutical company, manufactures and sells pharmaceutical products in Asia, Europe, Africa, CIS, the United States, and internationally. The company offers formulation products that address various therapeutic areas, such as gastroenterology, cardiology, diabetology, psychiatry, neurology, anti-bacterial, anti-infective, and pain management. It also offers active pharmaceutical ingredients, as well as contract manufacturing services. In addition, the company manufactures allopathic medicines, formulations, bulk drugs, and chemicals. It serves distributors, health care professionals, and government institutions. The company was founded in 1944 and is based in Mumbai, India. Unichem Laboratories Limited is a subsidiary of Ipca Laboratories Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 3547.39,
-  "pe_ratio": 11.66,
+  "market_cap_cr": 3543.87,
+  "pe_ratio": 11.65,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 385.97,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:56:14.886615",
-  "provider_reported_pb_ratio": 1.31,
-  "statements_retrieved_at": "2026-11-02T23:56:14.886615",
+  "retrieval_time": "2026-11-03T21:46:27.116988",
+  "provider_reported_pb_ratio": 1.3,
+  "statements_retrieved_at": "2026-11-03T21:46:27.116988",
   "retained_fields": []
 }

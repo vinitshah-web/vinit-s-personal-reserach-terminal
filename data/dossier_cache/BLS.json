@@ -5,8 +5,8 @@
   "industry": "Specialty Business Services",
   "business_summary": "BLS International Services Limited provides outsourcing and administrative tasks of visa, passport, and consular services to diplomatic missions in the Middle East, Asia-Pacific, North America, Europe, Africa, South America, China, and India. It operates in two segments, Rendering of Visa and Other Allied Services; and Digital Services. The company offers visa processing, such as end-to-end outsourced visa application intake and processing; appointment scheduling and queue management; document completeness verification and quality checks; biometric data collection, including fingerprints and photographs; and secure transmission of application data to embassy/consulate systems. It also provides retrieval, consolidation, and dispatch of processed applications; and day-end reconciliation and reporting at Visa Application Centres. In addition, the company offers value-added services comprising courier and document delivery, form filling assistance, travel insurance, SMS and email alerts, lounge access, photocopy and print services, internet access facility, translation services, home biometrics collection, document attestation services, and applicant assistance. BLS International Services Limited was incorporated in 1983 and is headquartered in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 9044.76,
-  "pe_ratio": 12.85,
+  "market_cap_cr": 8873.16,
+  "pe_ratio": 12.6,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 59.86,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:03:09.374799",
-  "provider_reported_pb_ratio": 3.67,
-  "statements_retrieved_at": "2026-11-02T23:03:09.374799",
+  "retrieval_time": "2026-11-03T20:49:03.301677",
+  "provider_reported_pb_ratio": 3.6,
+  "statements_retrieved_at": "2026-11-03T20:49:03.301677",
   "retained_fields": []
 }

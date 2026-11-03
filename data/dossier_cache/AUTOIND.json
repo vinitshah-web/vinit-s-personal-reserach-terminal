@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Autoline Industries Limited manufactures and sells sheet metal stampings, welded assemblies, and molds for the automotive industries in India and internationally. The company offers small mechanical assemblies, including pedal boxes, parking brakes, door hinges, cab stay and cab tilt assemblies, and battery brackets; exhaust systems; medium stamp parts/assemblies; large stamp assemblies; non-automotive assemblies; hospital beds and steel furniture; and sub-assemblies and assemblies, foot control modules, load body, tubular structures, fabrications, etc. It also provides design and engineering services, such as product engineering, product re-engineering, sheet metal-BIW design and engineering, and jigs and fixture services, as well as reverse engineering and legacy data conversion. In addition, the company offers manufacturing services comprising tool room, and prototype and mass manufacturing services, as well as contract engineering manpower for onsite and offsite deployment. Further, it provides engineering and designing software services and business solutions. Autoline Industries Limited was founded in 1995 and is based in Pune, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 333.96,
-  "pe_ratio": 8.37,
+  "market_cap_cr": 335.1,
+  "pe_ratio": 8.4,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 43.43,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:00:09.088183",
-  "provider_reported_pb_ratio": 1.69,
-  "statements_retrieved_at": "2026-11-02T23:00:09.088183",
+  "retrieval_time": "2026-11-03T20:45:44.420426",
+  "provider_reported_pb_ratio": 1.7,
+  "statements_retrieved_at": "2026-11-03T20:45:44.420426",
   "retained_fields": []
 }

@@ -5,14 +5,14 @@
   "industry": "Lodging",
   "business_summary": "The Indian Hotels Company Limited, together with its subsidiaries, owns, operates, and manages hotels, palaces and resorts in India and internationally. It operates through two segments: Hotel Services and Air and Institutional Catering. The company operates hotels under the Taj, Claridges Collection, SeleQtions, Atmanan, Brij, Tajsats, GATEWAY, Vivanta, Ginger, Tree of Life, am\u00e3 Stays & Trails, Qmin, and Taj Sats brand names. It also provides trails, stays, restaurants, bars, clubs, spas, salons, food and beverages, and boutique services. The Indian Hotels Company Limited was founded in 1868 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 117077.3,
-  "pe_ratio": 52.96,
+  "market_cap_cr": 119006.05,
+  "pe_ratio": 53.83,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 95.83,
-  "dividend_yield_pct": 0.4004,
+  "dividend_yield_pct": 0.3951,
   "shares_outstanding_cr": 142.3432,
-  "fifty_two_week_high": 830.8,
+  "fifty_two_week_high": 836.05,
   "fifty_two_week_low": 565.0,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:20:51.308374",
-  "provider_reported_pb_ratio": 8.58,
-  "statements_retrieved_at": "2026-11-02T23:20:51.308374",
+  "retrieval_time": "2026-11-03T21:08:15.692504",
+  "provider_reported_pb_ratio": 8.72,
+  "statements_retrieved_at": "2026-11-03T21:08:15.692504",
   "retained_fields": []
 }

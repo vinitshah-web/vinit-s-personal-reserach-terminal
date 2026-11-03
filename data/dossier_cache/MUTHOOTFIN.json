@@ -5,8 +5,8 @@
   "industry": "Credit Services",
   "business_summary": "Muthoot Finance Limited, a non-banking financing company, provides gold loans in India. The company offers various loans, including personal, small business, home, corporate business, SME, and vehicle loans, as well as loans against property; insurance products, such as health, home, vehicle, life, travel, shop, bike, and group insurance; housing and micro finance; and mutual funds. It also provides PAN card services; money transfer; non-convertible debentures; national pension scheme; digital and cashless payments; bank mapping; milligram rewards; WhatsApp services; and other custom offerings. In addition, the company generates electric power through three windmills with a combined capacity of 3.75 MW in Tamil Nadu. It serves small business owners, vendors, traders, farmers, and salaried individuals through its network of branches. Muthoot Finance Limited was founded in 1887 and is headquartered in Kochi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 100957.28,
-  "pe_ratio": 8.88,
+  "market_cap_cr": 101499.26,
+  "pe_ratio": 8.32,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 1011.32,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:33:45.297823",
-  "provider_reported_pb_ratio": 2.49,
-  "statements_retrieved_at": "2026-11-02T23:33:45.297823",
+  "retrieval_time": "2026-11-03T21:22:10.669702",
+  "provider_reported_pb_ratio": 2.5,
+  "statements_retrieved_at": "2026-11-03T21:22:10.669702",
   "retained_fields": []
 }

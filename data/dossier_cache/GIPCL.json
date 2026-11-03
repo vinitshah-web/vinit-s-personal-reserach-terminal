@@ -5,8 +5,8 @@
   "industry": "Utilities - Regulated Electric",
   "business_summary": "Gujarat Industries Power Company Limited engages in the generation, transmission, and distribution of electricity to power purchasing companies in India. The company generates power through gas, lignite, wind, and solar power plants with combined installed capacity of 1859.40 MW, as well as engages in the development of hybrid renewable energy parks. The company was incorporated in 1985 and is based in Vadodara, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2518.53,
-  "pe_ratio": 5.01,
+  "market_cap_cr": 2512.79,
+  "pe_ratio": 5.0,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 247.44,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:14:42.049837",
-  "provider_reported_pb_ratio": 0.66,
-  "statements_retrieved_at": "2026-11-02T23:14:42.049837",
+  "retrieval_time": "2026-11-03T21:01:32.837906",
+  "provider_reported_pb_ratio": 0.65,
+  "statements_retrieved_at": "2026-11-03T21:01:32.837906",
   "retained_fields": []
 }

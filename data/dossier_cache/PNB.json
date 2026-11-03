@@ -5,8 +5,8 @@
   "industry": "Banks - Regional",
   "business_summary": "Punjab National Bank provides various banking and financial products and services in India and internationally. The company operates through Treasury, Corporate/Wholesale Banking, Retail Banking, and Other Banking Operations segments. The company offers personal banking products and services, including saving fund accounts, current accounts, fixed deposit, and capital gain account and gold monetization schemes; and housing, vehicle, education, personal, gold, and mortgage and other loans. It also provides various micro, small, and medium enterprises schemes and loans; banking products for government customers; agricultural schemes and loans; corporate banking products and services consist of loans against future lease rentals, working capital financing, and term loans; EXIM finance and cash management services, as well as gold card schemes for exporters; and international banking products and services. In addition, the company offers life and general insurance services; depository, mutual funds, merchant banking, and application supported by blocked amount services; and NRI banking and services. Further, the company provides mobile and internet banking, UPI, SMS banking, missed call, e-statement, ATM, passbook updating machine, and electronic cheque deposit machine services; and point of sale (PoS) is the payment acceptance solutions, NFC-enabled terminals facilitating quick payments, as well as debit and credit cards. Punjab National Bank was incorporated in 1894 and is headquartered in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 141432.15,
-  "pe_ratio": 6.2,
+  "market_cap_cr": 139030.13,
+  "pe_ratio": 6.09,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 140.01,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:39:19.400651",
-  "provider_reported_pb_ratio": 0.88,
-  "statements_retrieved_at": "2026-11-02T23:39:19.400651",
+  "retrieval_time": "2026-11-03T21:28:05.203461",
+  "provider_reported_pb_ratio": 0.86,
+  "statements_retrieved_at": "2026-11-03T21:28:05.203461",
   "retained_fields": []
 }

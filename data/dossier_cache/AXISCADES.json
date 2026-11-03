@@ -5,13 +5,13 @@
   "industry": "Engineering & Construction",
   "business_summary": "AXISCADES Technologies Limited operates as an engineering solutions company in Europe, the United States, the Asia Pacific, and Canada. It operates through Technology Services and Solutions, and Defence segments. The Technology Services and Solutions segment provides product design, engineering, research and development services. Its Defence segment provides the integration services for defence and offsets business. This segment includes partnering with major original equipment manufacturers (OEM's) in the areas of strategic electronics, avionics, radar data processing and electronic warfare etc. It serves aerospace, defense and homeland security, automotive, heavy engineering, electronics, energy, semiconductor, and medical sectors. The company was formerly known as AXISCADES Engineering Technologies Limited and changed its name to AXISCADES Technologies Limited in November 2020. The company was incorporated in 1990 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 7832.12,
-  "pe_ratio": 178.95,
+  "market_cap_cr": 7889.04,
+  "pe_ratio": 179.23,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 170.78,
   "dividend_yield_pct": 0.0,
-  "shares_outstanding_cr": 4.2533,
+  "shares_outstanding_cr": 4.2775,
   "fifty_two_week_high": 2360.0,
   "fifty_two_week_low": 1063.3,
   "financial_statements": [
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:00:32.973226",
-  "provider_reported_pb_ratio": 10.78,
-  "statements_retrieved_at": "2026-11-02T23:00:32.973226",
+  "retrieval_time": "2026-11-03T20:46:15.643526",
+  "provider_reported_pb_ratio": 10.8,
+  "statements_retrieved_at": "2026-11-03T20:46:15.643526",
   "retained_fields": []
 }

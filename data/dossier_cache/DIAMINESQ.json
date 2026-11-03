@@ -5,7 +5,7 @@
   "industry": "Chemicals",
   "business_summary": "Diamines and Chemicals Limited manufactures and markets organic chemical compounds in India. It operates through two segments, Specialty Chemicals and Trading in Fruits and Vegetables. The company offers piperazine anhydrous, piperazine 68% solutions, triethylenediamine, ethylenediamine, monoethanolamine, diethylenetriamine, and polyamine-mix. Its products are used in active pharmaceutical ingredients and pharma-intermediates, specialty chemicals, agro-chemicals, resins, water treatment chemicals, petroleum production chemicals, and additives applications. The company exports its products. Diamines and Chemicals Limited was incorporated in 1976 and is based in Vadodara, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 230.64,
+  "market_cap_cr": 228.65,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:09:01.255230",
-  "provider_reported_pb_ratio": 1.48,
-  "statements_retrieved_at": "2026-11-02T23:09:01.255230",
+  "retrieval_time": "2026-11-03T20:55:12.789228",
+  "provider_reported_pb_ratio": 1.46,
+  "statements_retrieved_at": "2026-11-03T20:55:12.789228",
   "retained_fields": []
 }

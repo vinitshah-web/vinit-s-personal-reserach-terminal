@@ -5,14 +5,14 @@
   "industry": "Lodging",
   "business_summary": "Leela Palaces Hotels & Resorts Limited operates in the hospitality industry in India. The company owns, operates, and manages hotels and resorts under The Leela brand name. It also offers gift cards. The company was formerly known as Schloss Bangalore Limited and changed its name to Leela Palaces Hotels & Resorts Limited in September 2025. The company was founded in 1986 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 22410.24,
-  "pe_ratio": 36.06,
+  "market_cap_cr": 21802.44,
+  "pe_ratio": 35.08,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 196.17,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 33.3958,
-  "fifty_two_week_high": 683.0,
+  "fifty_two_week_high": 685.0,
   "fifty_two_week_low": 384.5,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:54:18.015921",
-  "provider_reported_pb_ratio": 3.42,
-  "statements_retrieved_at": "2026-11-02T23:54:18.015921",
+  "retrieval_time": "2026-11-03T21:44:21.388701",
+  "provider_reported_pb_ratio": 3.33,
+  "statements_retrieved_at": "2026-11-03T21:44:21.388701",
   "retained_fields": []
 }

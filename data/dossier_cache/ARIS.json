@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "Arisinfra Solutions Limited, together with its subsidiaries, engages in the trading, procuring, supplying, and distributing of raw materials for the creation of infrastructure, buildings, and construction in India. Its product portfolio includes aggregates, ready-mix concrete, walling, construction, chemicals, steel, cement, tiles, electricals, plumbing and other allied construction materials solutions. The company's solutions enable developers, EPC contractors, infrastructure players, manufacturers and other institutional customers to procure construction materials. The company was incorporated in 2021 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1147.98,
-  "pe_ratio": 16.51,
+  "market_cap_cr": 1173.91,
+  "pe_ratio": 16.88,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 90.4,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T22:58:43.092174",
-  "provider_reported_pb_ratio": 1.55,
-  "statements_retrieved_at": "2026-11-02T22:58:43.092174",
+  "retrieval_time": "2026-11-03T20:44:13.391104",
+  "provider_reported_pb_ratio": 1.59,
+  "statements_retrieved_at": "2026-11-03T20:44:13.391104",
   "retained_fields": []
 }

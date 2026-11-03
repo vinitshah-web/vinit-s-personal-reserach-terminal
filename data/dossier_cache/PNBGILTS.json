@@ -5,7 +5,7 @@
   "industry": "Capital Markets",
   "business_summary": "PNB Gilts Ltd. operates as a government securities dealer in India. The company involved in underwriting and bidding government securities issuances; trading of fixed income instruments, such as government securities, treasury bills, state development loans, corporate bonds, and interest rate swaps, as well as various money market instruments, including certificates of deposits, commercial papers, etc.; and provision of custodian services to its constituents. It also provides gilts accounts; debt solutions comprising bond and debenture issuances; and retailing services. It serves provident fund trusts, regional rural banks, cooperative banks, corporates, educational institutions, and individuals etc. PNB Gilts Ltd. was incorporated in 1996 and is based in New Delhi, India. PNB Gilts Ltd. is a subsidiary of Punjab National Bank.",
   "business_summary_reason": null,
-  "market_cap_cr": 1389.14,
+  "market_cap_cr": 1388.42,
   "pe_ratio": 7.22,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:39:20.673981",
+  "retrieval_time": "2026-11-03T21:28:06.344816",
   "provider_reported_pb_ratio": 0.77,
-  "statements_retrieved_at": "2026-11-02T23:39:20.673981",
+  "statements_retrieved_at": "2026-11-03T21:28:06.344816",
   "retained_fields": []
 }

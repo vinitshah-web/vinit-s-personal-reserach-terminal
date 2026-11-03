@@ -5,7 +5,7 @@
   "industry": "Broadcasting",
   "business_summary": "Next Mediaworks Limited does not have significant operations. Previously, it was engaged in the media and entertainment business, including multimedia; broadcasting; marketing of television programs, films, and software; and advertising agent activities. It also provides online and interactive information and news for business and general use; deals in internet commerce and all internet-related activities; and prints and publishes newspapers, journals, magazine books, and other literary works, etc. The company was formerly known as Mid-Day Multimedia Limited and changed its name to Next Mediaworks Limited in April 2011. Next Mediaworks Limited was incorporated in 1981 and is based in New Delhi, India. Next Mediaworks Limited operates as a subsidiary of HT Media Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 22.07,
+  "market_cap_cr": 21.0,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -13,7 +13,7 @@
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 6.6893,
   "fifty_two_week_high": 7.7,
-  "fifty_two_week_low": 3.15,
+  "fifty_two_week_low": 3.14,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:35:00.875940",
-  "provider_reported_pb_ratio": -0.62,
-  "statements_retrieved_at": "2026-11-02T23:35:00.875940",
+  "retrieval_time": "2026-11-03T21:23:29.745515",
+  "provider_reported_pb_ratio": -0.59,
+  "statements_retrieved_at": "2026-11-03T21:23:29.745515",
   "retained_fields": []
 }

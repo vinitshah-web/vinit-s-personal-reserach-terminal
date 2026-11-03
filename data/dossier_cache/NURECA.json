@@ -5,8 +5,8 @@
   "industry": "Medical Devices",
   "business_summary": "Nureca Limited provides home healthcare and wellness products in India. The company offers chronic disease products, such as nebulizers, blood pressure monitors, finger pulse oximeters, glucose meters, and thermometers, as well as connected products; orthopedic products, including massagers, pain management products, posture correctors, and rehabilitation products; and humidifiers and steamers, personal scales, yoga and exercise products, fitness tracking products, and dental and personal care products. It also provides mother and baby care products comprising baby feeding products, carry cots, baby skincare products, and bottle warmers and steamers; nutritional supplements and weight management products; and ECG products, fitness trackers, and smart weighing scales. In addition, the company provides orthopedic cushions, heating pads, and breast pumps. The company offers its products under the Dr Trust, Dr Physio, and Trumom brands. It markets its products through e-commerce platforms, distributors, retailers, and its websites. Nureca Limited was incorporated in 2016 and is based in Chandigarh, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 298.45,
-  "pe_ratio": 60.67,
+  "market_cap_cr": 304.95,
+  "pe_ratio": 61.99,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 197.11,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:36:16.445047",
-  "provider_reported_pb_ratio": 1.51,
-  "statements_retrieved_at": "2026-11-02T23:36:16.445047",
+  "retrieval_time": "2026-11-03T21:24:53.400846",
+  "provider_reported_pb_ratio": 1.55,
+  "statements_retrieved_at": "2026-11-03T21:24:53.400846",
   "retained_fields": []
 }

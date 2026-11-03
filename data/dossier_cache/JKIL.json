@@ -5,14 +5,14 @@
   "industry": "Engineering & Construction",
   "business_summary": "J. Kumar Infraprojects Limited engages in the construction business in India. The company executes contracts of various infrastructure projects, including transportation engineering, irrigation projects, civil construction, piling work, etc. Its transportation engineering projects includes roads, underground and elevated metros, bridges, flyovers, subways, road over bridges, skywalks, railway terminus/stations etc.; civil construction projects comprising hospitals and medical colleges, commercial complexes, sports infrastructure, institutional buildings, and other civil constructions. The company also offers sewage treatment plants, riverfronts, tunnels and other projects, as well as undertaking residential and commercial properties projects. In addition, the company serves government departments, public sector entities across central, state, and municipal levels, metro rail corporations, public works departments, urban development authorities, municipal corporations, private sector companies, and other government-affiliated bodies. J. Kumar Infraprojects Limited was incorporated in 1980 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3128.39,
-  "pe_ratio": 8.21,
+  "market_cap_cr": 3070.88,
+  "pe_ratio": 8.06,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 447.92,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 7.5666,
-  "fifty_two_week_high": 672.0,
+  "fifty_two_week_high": 660.0,
   "fifty_two_week_low": 400.0,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:23:39.469475",
-  "provider_reported_pb_ratio": 0.92,
-  "statements_retrieved_at": "2026-11-02T23:23:39.469475",
+  "retrieval_time": "2026-11-03T21:11:18.990096",
+  "provider_reported_pb_ratio": 0.91,
+  "statements_retrieved_at": "2026-11-03T21:11:18.990096",
   "retained_fields": []
 }

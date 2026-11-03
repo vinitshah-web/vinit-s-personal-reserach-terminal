@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Pasupati Acrylon Limited manufactures and sells acrylic fibers, and cast polypropylene (CPP) films in India and internationally. It operates through Acrylic Fibre, CPP, and Ethanol segments. The company offers acrylic tows and tops, including gel dyed, low pill fiber, shrinkable fiber, soft feel fiber, tow dyed, and super bright fiber products for the use in sweaters, shawls, apparel, blankets, carpets, and upholstery. It also provides metalized, natural, and white CPP films. In addition, the company operates an ethanol plant; and produces ethanol and dried distillers grains with solubles. Pasupati Acrylon Limited was incorporated in 1982 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 643.54,
-  "pe_ratio": 6.74,
+  "market_cap_cr": 640.33,
+  "pe_ratio": 6.7,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 48.88,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T23:38:14.529844",
-  "provider_reported_pb_ratio": 1.48,
-  "statements_retrieved_at": "2026-11-02T23:38:14.529844",
+  "retrieval_time": "2026-11-03T21:26:58.419417",
+  "provider_reported_pb_ratio": 1.47,
+  "statements_retrieved_at": "2026-11-03T21:26:58.419417",
   "retained_fields": []
 }

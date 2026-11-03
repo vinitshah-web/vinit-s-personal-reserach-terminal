@@ -5,7 +5,7 @@
   "industry": "Building Materials",
   "business_summary": "Andhra Cements Limited engages in the manufacture and sale of cement worldwide. It sells its products under the SAGAR CEMENT brand name. The company was formerly known as Andhra Cement Company Limited and changed its name to Andhra Cements Limited in December 1990. The company was incorporated in 1936 and is based in Hyderabad, India. Andhra Cements Limited operates as a subsidiary of Sagar Cements Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 325.46,
+  "market_cap_cr": 333.48,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -13,7 +13,7 @@
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 9.2172,
   "fifty_two_week_high": 83.84,
-  "fifty_two_week_low": 35.0,
+  "fifty_two_week_low": 34.3,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-02T22:55:08.591207",
-  "provider_reported_pb_ratio": 19.69,
-  "statements_retrieved_at": "2026-11-02T22:55:08.591207",
+  "retrieval_time": "2026-11-03T20:40:21.870589",
+  "provider_reported_pb_ratio": 20.18,
+  "statements_retrieved_at": "2026-11-03T20:40:21.870589",
   "retained_fields": []
 }
