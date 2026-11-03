@@ -5,7 +5,7 @@
   "industry": "Tools & Accessories",
   "business_summary": "NRB Industrial Bearings Limited manufactures and sells industrial bearings in India and internationally. The company provides deep groove, angular contact, and self-aligned ball bearings; needle and roller thrust, magneto, super precision, and combined bearings; cylindrical, spherical, needle, bottom, full complement needle, and tapper roller bearings; wide inner ring ball bearings and housed units; needle bushes and cages; inner rings; and thrust washers, as well as rollers, needles, and balls. It serves textile, fluid machinery, industrial transmission, machine tool, material handling, mining and mineral processing, metals, paper and pulp, food and beverage, oil and gas, power generation, renewable, medical, industrial electrical, and factory automation industries. NRB Industrial Bearings Limited was incorporated in 2011 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 71.75,
+  "market_cap_cr": 72.06,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:11:13.440167",
-  "provider_reported_pb_ratio": -1.15,
-  "statements_retrieved_at": "2026-11-01T07:11:13.440167",
+  "retrieval_time": "2026-11-02T23:35:10.222562",
+  "provider_reported_pb_ratio": -1.16,
+  "statements_retrieved_at": "2026-11-02T23:35:10.222562",
   "retained_fields": []
 }

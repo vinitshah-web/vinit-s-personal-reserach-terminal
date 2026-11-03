@@ -5,8 +5,8 @@
   "industry": "Aluminum",
   "business_summary": "Hind Aluminium Industries Limited manufactures and sells aluminium wire rods and alloy conductors in India. It operates in two segments, Aluminium Products and Power. The company engages in the production and marketing of alloy, EC, and flipped wire rods, as well as aluminium conductors. It is also involved in the operation of wind turbine generators and solar power plants; and engineering, procurement, and construction of electrical sub-station projects. The company was formerly known as Associated Profiles and Aluminum Limited and changed its name to Hind Aluminium Industries Limited in September 2007. Hind Aluminium Industries Limited was incorporated in 1987 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 55.28,
-  "pe_ratio": 14.92,
+  "market_cap_cr": 54.18,
+  "pe_ratio": 14.63,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 144.26,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:56:01.265158",
-  "provider_reported_pb_ratio": 0.61,
-  "statements_retrieved_at": "2026-11-01T06:56:01.265158",
+  "retrieval_time": "2026-11-02T23:19:07.335056",
+  "provider_reported_pb_ratio": 0.6,
+  "statements_retrieved_at": "2026-11-02T23:19:07.335056",
   "retained_fields": []
 }

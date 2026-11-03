@@ -5,8 +5,8 @@
   "industry": "Medical Care Facilities",
   "business_summary": "Park Medi World Limited operates a network of hospitals. The company provides cardiac sciences, neurosciences - brain and spine, plastic and cosmetic surgery, general and laparoscopic surgery, renal sciences and kidney transplant, bone, orthopaedics, joint replacement and sports medicine, gastroenterology and surgical gastroenterology, cancer care, bone marrow transplant, iMARS / robot-assisted surgery. It also offers bariatric surgery, anaesthesiology, critical care, chest and respiratory diseases, dental care, dermatology, endocrinology, paediatrics, internal medicine and geriatrics, rheumatology, ENT, ophthalmology, obstetrics and gynaecology, interventional radiology and imaging, psychiatry, pathology and microbiology, paediatric surgery, fertility management, nuclear medicine services. It operates NABH accredited multi-super specialty hospitals under the Park brand name. Park Medi World Limited was founded in 2005 and is headquartered in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 9489.52,
-  "pe_ratio": 33.44,
+  "market_cap_cr": 9669.64,
+  "pe_ratio": 34.07,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 50.79,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:14:01.371208",
-  "provider_reported_pb_ratio": 4.33,
-  "statements_retrieved_at": "2026-11-01T07:14:01.371208",
+  "retrieval_time": "2026-11-02T23:38:06.955754",
+  "provider_reported_pb_ratio": 4.41,
+  "statements_retrieved_at": "2026-11-02T23:38:06.955754",
   "retained_fields": []
 }

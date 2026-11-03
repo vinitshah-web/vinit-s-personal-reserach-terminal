@@ -5,7 +5,7 @@
   "industry": "Telecom Services",
   "business_summary": "OnMobile Global Limited provides telecom value added services in India, Europe, Africa, Latin America, the United States, and internationally. It offers ONMO and ONMO+ paltforms; Digital Content Store, a mobile solution for digital content comprising videos, games, music, and images; mobile entertainment and content services, such as ring back tones, contests, and games; converged value-added services; and Infotainment that offers music, contest, news, and sports over the mobile. OnMobile Global Limited was formerly known as OnMobile Asia Pacific Private limited and changed its name to OnMobile Global Limited in August 2007. The company was incorporated in 2000 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 503.91,
+  "market_cap_cr": 543.05,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:12:59.407795",
-  "provider_reported_pb_ratio": 0.85,
-  "statements_retrieved_at": "2026-11-01T07:12:59.407795",
+  "retrieval_time": "2026-11-02T23:37:01.640047",
+  "provider_reported_pb_ratio": 0.92,
+  "statements_retrieved_at": "2026-11-02T23:37:01.640047",
   "retained_fields": []
 }

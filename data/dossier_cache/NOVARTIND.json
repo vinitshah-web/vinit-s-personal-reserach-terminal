@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Evonile Pharma Limited is involved in the pharmaceutical business in India and internationally. It operates Pharma International (Commercial operations), Development (Drug development), Biomedical Research, and Operations. The company offers therapeutic products in the areas of bone and pain under the Voveran brand; transplantation immunology under the Simulect, Certican, Sandimmun, Neoral, and Myfortic brands. It also offers neuroscience products under the Tegrital and Exelon brands. The company was incorporated in 1947 and is based in Mumbai, India. As of July 29, 2026, Evonile Pharma Limited operates as a subsidiary of Waverise Investments Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 4178.67,
-  "pe_ratio": 42.73,
+  "market_cap_cr": 4241.14,
+  "pe_ratio": 43.37,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 331.34,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:12:02.594709",
-  "provider_reported_pb_ratio": 5.11,
-  "statements_retrieved_at": "2026-11-01T07:12:02.594709",
+  "retrieval_time": "2026-11-02T23:36:01.027015",
+  "provider_reported_pb_ratio": 5.18,
+  "statements_retrieved_at": "2026-11-02T23:36:01.027015",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Capital Markets",
   "business_summary": "The Investment Trust of India Limited, together with its subsidiaries, provides investment banking and corporate finance activities in India. The company operates through Broking and Related Services; Investment and Advisory Services; Trading Activities; Asset Management Activities; and Financing Activities segments. It provides 3-wheeler and commercial vehicle finance, gold loan, micro business loan, personal loan for students and faculty, and educational institutional loan, as well as KapitalTech-SME finance; investment solutions, including debt securities-ITI gilts, growth opportunity funds for entrepreneurs, and ITI long short equity funds. It also offers equity, debt, and hybrid mutual funds; broking solutions comprising buying or selling of securities for institutional investors. In addition, it provides services related to capital markets, such as IPO, rights and GDR issues, and buyback, as well as corporate and start-up advisory services. Further, it offers lending, equities and derivatives trading, equity research, commodities trading, and portfolio management services; and IPO, insurance products, and investment banking services. The company was formerly known as Fortune Financial Services (India) Limited and changed its name to The Investment Trust of India Limited in June 2018. The Investment Trust of India Limited was incorporated in 1991 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 449.65,
-  "pe_ratio": 13.49,
+  "market_cap_cr": 454.46,
+  "pe_ratio": 13.63,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 141.26,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:29:24.371505",
-  "provider_reported_pb_ratio": 0.61,
-  "statements_retrieved_at": "2026-11-01T07:29:24.371505",
+  "retrieval_time": "2026-11-02T23:54:15.828514",
+  "provider_reported_pb_ratio": 0.62,
+  "statements_retrieved_at": "2026-11-02T23:54:15.828514",
   "retained_fields": []
 }

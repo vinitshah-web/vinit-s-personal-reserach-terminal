@@ -5,7 +5,7 @@
   "industry": "Information Technology Services",
   "business_summary": "AION-TECH Solutions Limited provides business intelligence (BI), data analytics, and information technology (IT) consulting services in India and internationally. It operates through two segments, Information Technology/Software Services and Software License. The company offers Alteryx, a self-service data analytics platform; Fivetran, an automated data integration solution that enables data sync from various databases and cloud applications; Snowflake data cloud platform; and Tableau, an analytics platform for data-driven decision making. It also provides consulting services, including BI an analytic, cloud, sustainability, data science and analytics, tableau support as a service, data lifecycle diagnostics, digital automation, and AI and NLP; ATS Akademia; Zoom; AWS BI-in-a-Box solution; and Salesforce, client relationship management platform. It serves banking financial and insurance; automotive and manufacturing; telecom, media, and entertainment; retail and e-commerce; hitech; travel and hospitality; and healthcare industries. The company was formerly known as Goldstone Technologies Limited and changed its name to AION-TECH Solutions Limited in January 2024. AION-TECH Solutions Limited was incorporated in 1994 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 207.24,
+  "market_cap_cr": 211.48,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:52:50.890866",
-  "provider_reported_pb_ratio": 0.68,
-  "statements_retrieved_at": "2026-11-01T06:52:50.890866",
+  "retrieval_time": "2026-11-02T23:15:45.567159",
+  "provider_reported_pb_ratio": 0.69,
+  "statements_retrieved_at": "2026-11-02T23:15:45.567159",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Real Estate - Development",
   "business_summary": "Supreme Holdings & Hospitality (India) Limited, together with its subsidiaries, constructs and develops commercial and residential projects in India. The company develops townships under the Belmac Residences, Belmac Riverside, Belmac Codename, and Belmac Infinity brands. Supreme Holdings & Hospitality (India) Limited was founded in 1982 and is based in Pune, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 116.56,
-  "pe_ratio": 158.11,
+  "market_cap_cr": 120.6,
+  "pe_ratio": 163.58,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 103.33,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:27:12.721503",
-  "provider_reported_pb_ratio": 0.29,
-  "statements_retrieved_at": "2026-11-01T07:27:12.721503",
+  "retrieval_time": "2026-11-02T23:52:00.370718",
+  "provider_reported_pb_ratio": 0.3,
+  "statements_retrieved_at": "2026-11-02T23:52:00.370718",
   "retained_fields": []
 }

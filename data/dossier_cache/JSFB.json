@@ -5,8 +5,8 @@
   "industry": "Banks - Regional",
   "business_summary": "Jana Small Finance Bank Limited provides banking and financial services to individuals and enterprises in India. It operates through Treasury, Corporate/Wholesale Banking, Retail Banking, and Other Banking Operations segments. The company offers current and savings accounts; fixed, recurring, and other deposits; and loans, such as two-wheeler, group, business, gold, home improvement, agri group and individual, and home loans, as well as consumer education on loan overdue concepts. It also offers life, general, and health insurance products; and investment and payment services, as well as mobile, internet, and corporate internet banking services. The company was formerly known as Janalakshmi Financial Services Limited and changed its name to Jana Small Finance Bank Limited in March 2018. Jana Small Finance Bank Limited was founded in 1999 and is headquartered in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3953.12,
-  "pe_ratio": 8.34,
+  "market_cap_cr": 4075.37,
+  "pe_ratio": 8.6,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 465.6,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:00:33.448467",
-  "provider_reported_pb_ratio": 0.8,
-  "statements_retrieved_at": "2026-11-01T07:00:33.448467",
+  "retrieval_time": "2026-11-02T23:23:54.611225",
+  "provider_reported_pb_ratio": 0.83,
+  "statements_retrieved_at": "2026-11-02T23:23:54.611225",
   "retained_fields": []
 }

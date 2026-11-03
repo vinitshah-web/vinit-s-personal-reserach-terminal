@@ -5,8 +5,8 @@
   "industry": "Capital Markets",
   "business_summary": "Prime Securities Limited provides corporate advisory and investment banking services in India and internationally. It offers corporate advisory services, such as fund raising, merger and acquisition, equity and debt private placements, initial public offerings, corporate advisory, and capital restructuring, as well as balance sheets, business restructuring, debt placement, and loan syndication services. It also provides investment banking and corporate finance comprising listed equity services, such as PIPEs, rights issues, initial public offerings (IPO), and local advisory to overseas offerings; unlisted equity services that include pre-IPO and private equity, as well as SEBI registered category and merchant banker. In addition, the company engages in the wealth management business. Prime Securities Limited was incorporated in 1982 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 980.6,
-  "pe_ratio": 183.92,
+  "market_cap_cr": 966.34,
+  "pe_ratio": 181.24,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 91.74,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:16:12.604306",
-  "provider_reported_pb_ratio": 3.15,
-  "statements_retrieved_at": "2026-11-01T07:16:12.604306",
+  "retrieval_time": "2026-11-02T23:40:26.878610",
+  "provider_reported_pb_ratio": 3.1,
+  "statements_retrieved_at": "2026-11-02T23:40:26.878610",
   "retained_fields": []
 }

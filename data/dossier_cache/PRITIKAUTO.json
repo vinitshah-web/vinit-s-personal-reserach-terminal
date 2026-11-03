@@ -5,8 +5,8 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "Pritika Auto Industries Limited manufactures and sells tractor and automobile components in India. The company offers axle housing, wheel housing, hydraulic lift housing, end cover, plate differential carrier, brake housing, cylinder blocks, crank cases, and others. It also exports machine casting products. It serves tractor segment and original equipment manufacturers. The company was formerly known as Shivkrupa Machineries and Engineering Services Limited and changed its name to Pritika Auto Industries Limited in March 2017. Pritika Auto Industries Limited was founded in 1973 and is based in Mohali, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 231.29,
-  "pe_ratio": 10.68,
+  "market_cap_cr": 228.79,
+  "pe_ratio": 10.57,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 15.0,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:16:20.161114",
-  "provider_reported_pb_ratio": 0.93,
-  "statements_retrieved_at": "2026-11-01T07:16:20.161114",
+  "retrieval_time": "2026-11-02T23:40:34.949006",
+  "provider_reported_pb_ratio": 0.92,
+  "statements_retrieved_at": "2026-11-02T23:40:34.949006",
   "retained_fields": []
 }

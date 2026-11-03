@@ -5,8 +5,8 @@
   "industry": "Internet Content & Information",
   "business_summary": "Just Dial Limited engages in the search engine business in India. The company offers local search, search related, and software services through various platforms, including internet, mobile internet, over the telephone, and text. The company provides Ask Anything for multilingual and voice search and review summarization; JD Business for profile and lead management, JD Omni for transaction-ready websites, JD Pay for integrated payments, JD Analytics for performance insight, and JD Mart for B2B commerce. It also provides JD omni, a cloud-based solution; JD pay for digital payments; JD Social, a social sharing platform; and JD Xperts, a one stop solution for user's on demand service needs, such as salon, repairs and services, plumbing, electrical needs, cleaning services, pest control service, fitness and yoga, etc. The company's users reach the platform through Android and iOS apps, mobile site, desktop, conversational interfaces. Just Dial Limited was incorporated in 1993 and is based in Mumbai, India. As of October 6, 2021, Just Dial Limited operates as a subsidiary of Reliance Retail Ventures Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 5481.41,
-  "pe_ratio": 10.68,
+  "market_cap_cr": 5683.83,
+  "pe_ratio": 11.08,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 632.15,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:00:54.016460",
-  "provider_reported_pb_ratio": 1.02,
-  "statements_retrieved_at": "2026-11-01T07:00:54.016460",
+  "retrieval_time": "2026-11-02T23:24:15.151024",
+  "provider_reported_pb_ratio": 1.06,
+  "statements_retrieved_at": "2026-11-02T23:24:15.151024",
   "retained_fields": []
 }

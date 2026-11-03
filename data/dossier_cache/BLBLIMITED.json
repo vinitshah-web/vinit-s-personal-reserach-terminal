@@ -5,8 +5,8 @@
   "industry": "Capital Markets",
   "business_summary": "BLB Limited engages in trading and investments business in shares, and securities and commodities in India. The company was founded in 1965 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 80.41,
-  "pe_ratio": 2.94,
+  "market_cap_cr": 80.94,
+  "pe_ratio": 2.96,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 24.65,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:40:56.727979",
+  "retrieval_time": "2026-11-02T23:03:03.616043",
   "provider_reported_pb_ratio": 0.62,
-  "statements_retrieved_at": "2026-11-01T06:40:56.727979",
+  "statements_retrieved_at": "2026-11-02T23:03:03.616043",
   "retained_fields": []
 }

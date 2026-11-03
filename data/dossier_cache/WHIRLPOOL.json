@@ -5,8 +5,8 @@
   "industry": "Furnishings, Fixtures & Appliances",
   "business_summary": "Whirlpool of India Limited manufactures and markets home appliances in India and internationally. It offers refrigerators, washing machines, air conditioners, microwave ovens, air fryer, kitchen, built-in, and small appliances, as well as dishwasher. The company sells its products through Internet. The company was incorporated in 1960 and is headquartered in Gurugram, India. Whirlpool of India Limited operates as a subsidiary of Whirlpool Corporation.",
   "business_summary_reason": null,
-  "market_cap_cr": 10337.66,
-  "pe_ratio": 41.18,
+  "market_cap_cr": 10422.7,
+  "pe_ratio": 41.52,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 327.87,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:34:33.625584",
-  "provider_reported_pb_ratio": 2.48,
-  "statements_retrieved_at": "2026-11-01T07:34:33.625584",
+  "retrieval_time": "2026-11-02T23:59:39.295051",
+  "provider_reported_pb_ratio": 2.5,
+  "statements_retrieved_at": "2026-11-02T23:59:39.295051",
   "retained_fields": []
 }

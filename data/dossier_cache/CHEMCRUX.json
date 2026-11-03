@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Chemcrux Enterprises Limited engages in the manufacture and sale of intermediates and chemicals in India. Its chemicals and intermediates products are used in the manufacture of bulk drugs active pharmaceutical ingredients, electro-plating, pharmaceuticals, dyes, and pigments. The company offers chloro benzoic, nitro benzoic acid, nitro salicylic, dichloro benzoic acid, chloro nitro benzoic acid, lasamide, arabonic acid sodium salt, chloro benzoic acid sulfonamide, BPEA sulfonamide, para and ortho chloro benzoyl chloride, and chloro benzoyl chloride. It serves multinationals and pharmaceutical organizations. The company also exports its products. Chemcrux Enterprises Limited was founded in 1983 and is based in Vadodara, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 118.9,
-  "pe_ratio": 28.78,
+  "market_cap_cr": 122.32,
+  "pe_ratio": 29.61,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 51.94,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:43:11.839024",
-  "provider_reported_pb_ratio": 1.55,
-  "statements_retrieved_at": "2026-11-01T06:43:11.839024",
+  "retrieval_time": "2026-11-02T23:05:30.776693",
+  "provider_reported_pb_ratio": 1.59,
+  "statements_retrieved_at": "2026-11-02T23:05:30.776693",
   "retained_fields": []
 }

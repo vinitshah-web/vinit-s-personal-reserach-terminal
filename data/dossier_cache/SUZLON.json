@@ -5,8 +5,8 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "Suzlon Energy Limited, together with its subsidiaries, manufactures and sells wind turbine generators and related components in India and internationally. The company operates through the WTG, Foundry & Forging, O&M services, and Others segments. It offers onshore wind turbine generators with capacities ranging from 2 MW to 6 MW, and classic fleet turbines; and services including project development through its RE DevCo business, energy storage solutions, and renewable energy asset management. The company also provides operation and maintenance services for wind turbine generators, as well as project execution, procurement, and marketing services. In addition, it is involved in the sale/sub-lease of land; manufacture and sale of forging rings and casting articles, as well as power generation and evacuation infrastructure facilities. The company was incorporated in 1995 and is headquartered in Pune, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 46600.38,
-  "pe_ratio": 20.67,
+  "market_cap_cr": 48456.14,
+  "pe_ratio": 21.49,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 7.56,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:27:36.963170",
-  "provider_reported_pb_ratio": 4.48,
-  "statements_retrieved_at": "2026-11-01T07:27:36.963170",
+  "retrieval_time": "2026-11-02T23:52:25.345346",
+  "provider_reported_pb_ratio": 4.66,
+  "statements_retrieved_at": "2026-11-02T23:52:25.345346",
   "retained_fields": []
 }

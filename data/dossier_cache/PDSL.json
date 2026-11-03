@@ -5,8 +5,8 @@
   "industry": "Specialty Business Services",
   "business_summary": "PDS Limited, together its subsidiaries, designs, develops, sources, manufactures, markets, and distributes various readymade garments and other consumer products worldwide. The company operates through Sourcing, Manufacturing, and Others segments. It offers various apparel solutions for women, men, essentials, children, and babies. The company also provides licensed apparel products; footwear; accessories for women, men, and children, including bags, belts, hats, scarves, and winter warmers; and home products. The company was formerly known as PDS Multinational Fashions Limited and changed its name to PDS Limited in January 2022. PDS Limited was founded in 1987 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4669.25,
-  "pe_ratio": 39.89,
+  "market_cap_cr": 4938.26,
+  "pe_ratio": 42.18,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 124.88,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:14:25.172224",
-  "provider_reported_pb_ratio": 2.65,
-  "statements_retrieved_at": "2026-11-01T07:14:25.172224",
+  "retrieval_time": "2026-11-02T23:38:31.725025",
+  "provider_reported_pb_ratio": 2.8,
+  "statements_retrieved_at": "2026-11-02T23:38:31.725025",
   "retained_fields": []
 }

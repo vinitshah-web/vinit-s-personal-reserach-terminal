@@ -5,8 +5,8 @@
   "industry": "Building Products & Equipment",
   "business_summary": "Sejal Glass Limited manufactures and sells value added glass in India and internationally. It offers solid, kool, tone, fort, armor, decor, fireban, body tinted, and pyrolytic coated solar control glass. The company was formerly known as Sezal Glass Limited and changed its name to Sejal Glass Limited in March 2014. Sejal Glass Limited was founded in 1991 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 906.81,
-  "pe_ratio": 23.49,
+  "market_cap_cr": 912.79,
+  "pe_ratio": 23.65,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 152.03,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:22:00.912853",
-  "provider_reported_pb_ratio": 5.09,
-  "statements_retrieved_at": "2026-11-01T07:22:00.912853",
+  "retrieval_time": "2026-11-02T23:46:30.116731",
+  "provider_reported_pb_ratio": 5.12,
+  "statements_retrieved_at": "2026-11-02T23:46:30.116731",
   "retained_fields": []
 }

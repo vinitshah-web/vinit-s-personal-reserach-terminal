@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Albert David Limited manufactures and trades in pharmaceutical formulations, infusion solutions, herbal dosage forms, and bulk drugs in India and internationally. It offers formulations for parenterals, oral/enterals, topical agents, aerosol, and vision care products. The company exports its products to Latin American, South East Asian and North African countries Albert David Limited was incorporated in 1938 and is headquartered in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 435.34,
-  "pe_ratio": 19.3,
+  "market_cap_cr": 438.57,
+  "pe_ratio": 19.44,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 686.04,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:34:52.389060",
-  "provider_reported_pb_ratio": 1.11,
-  "statements_retrieved_at": "2026-11-01T06:34:52.389060",
+  "retrieval_time": "2026-11-02T22:56:42.582643",
+  "provider_reported_pb_ratio": 1.12,
+  "statements_retrieved_at": "2026-11-02T22:56:42.582643",
   "retained_fields": []
 }

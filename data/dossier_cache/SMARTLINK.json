@@ -5,8 +5,8 @@
   "industry": "Communication Equipment",
   "business_summary": "Smartlink Holdings Limited, together with its subsidiaries, sources, develops, manufactures, markets, distributes, and services networking products in India and internationally. The company offers XPON ONUs, EPON/ GPON OLTs, GEPON OLTs, and PON transceivers; Wi-Fi 6 indoor/outdoor/enterprise access points, controllers, USB adapters, and range extenders; switching solutions, such as managed, unmanaged, fully managed, lite/smart managed, chassis, industrial and multigig switches, transceivers, and media converters; and structured cabling products, including solid cable, keystones, patch panels, copper patch cords, faceplates, and rj45 connectors; and fiber patch cords, pigtails, fiber LIUS, fiber cables, distribution boxes, and splitters. It also manufactures chargers for electric vehicles, telecom equipment, and defense electronics. In addition, it offers networking products, such as switches, broadband routers, wireless LANs, and GPON and GePON under the DIGISOL brand name; industrial networking products; and enterprise wireless products. Further, the company provides technical support services; and invests in securities and properties. It serves distributors, original equipment manufacturers, and system integrators. The company was formerly known as Smartlink Network Systems Limited and changed its name to Smartlink Holdings Limited in April 2018. Smartlink Holdings Limited was incorporated in 1993 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 195.14,
-  "pe_ratio": 11.77,
+  "market_cap_cr": 197.28,
+  "pe_ratio": 11.9,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 210.33,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:24:59.168728",
-  "provider_reported_pb_ratio": 0.93,
-  "statements_retrieved_at": "2026-11-01T07:24:59.168728",
+  "retrieval_time": "2026-11-02T23:49:38.130123",
+  "provider_reported_pb_ratio": 0.94,
+  "statements_retrieved_at": "2026-11-02T23:49:38.130123",
   "retained_fields": []
 }

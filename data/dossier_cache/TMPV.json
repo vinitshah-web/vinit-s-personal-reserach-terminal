@@ -5,7 +5,7 @@
   "industry": "Auto Manufacturers",
   "business_summary": "Tata Motors Passenger Vehicles Limited designs, develops, manufactures, and sells various automotive vehicles. The company offers passenger and electric vehicles, as well as related spare parts and accessories. It also manufactures engines for industrial applications. In addition, the company provides information technology and vehicle financing services. Further, it engages in the design, production, marketing, sale, servicing, and financing of trucks, commercial vehicles, buses, specialty vehicles, combustion engines, alternative propulsion systems, transmissions, axles, and engines. It operates in India, China, the United States, the United Kingdom, rest of Europe, and internationally. The company was formerly known as Tata Motors Limited and changed its name to Tata Motors Passenger Vehicles Limited in October 2025. Tata Motors Passenger Vehicles Limited was incorporated in 1945 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 97746.61,
+  "market_cap_cr": 100324.7,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:29:56.522419",
-  "provider_reported_pb_ratio": 0.87,
-  "statements_retrieved_at": "2026-11-01T07:29:56.522419",
+  "retrieval_time": "2026-11-02T23:54:49.674074",
+  "provider_reported_pb_ratio": 0.9,
+  "statements_retrieved_at": "2026-11-02T23:54:49.674074",
   "retained_fields": []
 }

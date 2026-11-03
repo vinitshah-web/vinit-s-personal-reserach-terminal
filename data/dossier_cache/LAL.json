@@ -5,8 +5,8 @@
   "industry": "Apparel Manufacturing",
   "business_summary": "Lorenzini Apparels Limited designs, manufactures, markets, and distributes ready-made garments in India. The company offers formal, semi-formal, and casual wears for men and women under the Monteil brand name. It sells its products through retail outlets, online, and third-party e-commerce marketplaces. The company was incorporated in 2007 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 149.94,
-  "pe_ratio": 27.13,
+  "market_cap_cr": 148.04,
+  "pe_ratio": 26.78,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 2.98,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:03:32.842744",
-  "provider_reported_pb_ratio": 2.91,
-  "statements_retrieved_at": "2026-11-01T07:03:32.842744",
+  "retrieval_time": "2026-11-02T23:27:00.599644",
+  "provider_reported_pb_ratio": 2.87,
+  "statements_retrieved_at": "2026-11-02T23:27:00.599644",
   "retained_fields": []
 }

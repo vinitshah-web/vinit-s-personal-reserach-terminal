@@ -5,7 +5,7 @@
   "industry": "Integrated Freight & Logistics",
   "business_summary": "Allcargo Global Limited operates as a logistics company in India and internationally. The company engages in non-vessel operating common carriers in less-than-container load logistics; and operation of the ECU360, an end-to-end LCL digital platform. It also provides end-to-end multimodal logistics solutions in LCL, FCL, air freight, and door-to-door services; value-added services, including customs clearance, dangerous goods handling, trucking, and warehousing solutions; and e-commerce and turnkey logistics solutions. The company was formerly known as Allcargo Worldwide Limited and changed its name to Allcargo Global Limited in August 2025. Allcargo Global Limited was founded in 1993 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1022.09,
+  "market_cap_cr": 1109.56,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -17,8 +17,11 @@
   "financial_statements": [],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": false,
-  "retrieval_time": "2026-11-01T06:34:15.828102",
-  "provider_reported_pb_ratio": 0.79,
-  "statements_retrieved_at": null,
-  "retained_fields": []
+  "retrieval_time": "2026-11-02T22:56:02.554328",
+  "provider_reported_pb_ratio": 0.86,
+  "statements_retrieved_at": "2026-11-01T06:34:15.828102",
+  "retained_fields": [
+    "financial_statements"
+  ],
+  "previous_retrieval_time": "2026-11-01T06:34:15.828102"
 }

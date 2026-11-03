@@ -5,7 +5,7 @@
   "industry": "Software - Infrastructure",
   "business_summary": "AGS Transact Technologies Limited, together with its subsidiaries, provides integrated omni-channel payment solutions. It operates through three segments: Payment Solutions, Banking Automation Solutions, and Other Automation Solutions. The company offers payment solutions, such as automated teller machine (ATM) and cash recycler machine (CRM) outsourcing and managed, cash management, transaction switching and electronic payment, merchant, fastlane, and agency banking services, as well as intelligent cash deposit machines, integrated payment processing, toll and transit solutions, and fraud management solutions. It also provides ATMs and CRMs, currency technology products, software, and self-service terminals, as well as annual maintenance services and spare parts; and cash management services, including ATM, cash in transit, cash pick-up, doorstep banking, cash processing, and vault services, as well as operates cash vans. In addition, the company offers cash billing terminals and digital signage software solutions. Further, it provides petroleum outlet automation and automatic vehicle identification solutions; automatic paint dispensers; and automatic fare collection and national electronic toll collection systems-FASTAG. The company serves retail, petroleum, color, e-commerce, and fintech sectors, as well as banks and corporate clients. It has operations in India, Sri Lanka, Singapore, Cambodia, the Philippines, and Indonesia. AGS Transact Technologies Limited was incorporated in 2002 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 24.85,
+  "market_cap_cr": 26.01,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -63,8 +63,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:34:21.369526",
-  "provider_reported_pb_ratio": 0.04,
-  "statements_retrieved_at": "2026-11-01T06:34:21.369526",
+  "retrieval_time": "2026-11-02T22:56:08.433209",
+  "provider_reported_pb_ratio": 0.05,
+  "statements_retrieved_at": "2026-11-02T22:56:08.433209",
   "retained_fields": []
 }

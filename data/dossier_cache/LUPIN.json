@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Lupin Limited, together with its subsidiaries, operates as a pharmaceutical company in India, the United States, and internationally. The company operates in two segments: Pharmaceuticals and Others. It produces, develops, and markets various branded and generic formulations, biotechnology products, and active pharmaceutical ingredients (APIs). The company also offers products in the therapeutic areas of cardiovascular, diabetology, asthama, pediatrics, central nervous system, gastro-intestinal, anti-infectives, anti-TB, cephalosporins, and nonsteroidal anti-inflammatory drug therapies. In addition, it provides chronic therapies, and hospital-based products; products for diabetes and iron supplements for anemia, and a Budesonide-Formoterol combination for asthma. Further, the company is involved in the provision of diagnostics services, and digital healthcare services; and neuro rehabilition business. It operates through network consisting of labs and collection centers. The company has a strategic collaboration with TB Alliance to support the clinical development and commercialization of Telacebec for the treatment of tuberculosis, leprosy, and buruli ulcer. The company was formerly known as Lupin Chemicals Limited and changed its name to Lupin Limited in 2001. Lupin Limited was founded in 1968 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 91961.01,
-  "pe_ratio": 16.66,
+  "market_cap_cr": 91297.95,
+  "pe_ratio": 16.54,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 491.02,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:05:10.042960",
-  "provider_reported_pb_ratio": 4.1,
-  "statements_retrieved_at": "2026-11-01T07:05:10.042960",
+  "retrieval_time": "2026-11-02T23:28:43.926838",
+  "provider_reported_pb_ratio": 4.07,
+  "statements_retrieved_at": "2026-11-02T23:28:43.926838",
   "retained_fields": []
 }

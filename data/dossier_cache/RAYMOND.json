@@ -5,8 +5,8 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "Raymond Limited engages in the engineering businesses in India. It operates through Precision technology and auto component; Aerospace and defence; and Others segments. The company also engages non-scheduled airline operations. In addition, it manufactures and distributes steel files, cutting tools, hand tools, power tool accessories, and machines; and precision components, such as ring gears, flexplates, and water pump bearings, as well as machined components and sensor rings. The company serves automotive, industrial systems, aerospace, and defense industries; and non-automotive industries, including construction, marine, lawn equipment, and power generation. Raymond Limited was incorporated in 1925 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 7339.24,
-  "pe_ratio": 156.06,
+  "market_cap_cr": 7504.67,
+  "pe_ratio": 159.57,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 474.69,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:17:58.420018",
-  "provider_reported_pb_ratio": 2.32,
-  "statements_retrieved_at": "2026-11-01T07:17:58.420018",
+  "retrieval_time": "2026-11-02T23:42:20.015597",
+  "provider_reported_pb_ratio": 2.37,
+  "statements_retrieved_at": "2026-11-02T23:42:20.015597",
   "retained_fields": []
 }

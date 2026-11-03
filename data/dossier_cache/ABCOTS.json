@@ -1,12 +1,12 @@
 {
   "symbol": "ABCOTS",
-  "company_name": "A B COTSPIN INDIA LIMITED",
+  "company_name": "ABC INDUSTRIES INDIA LTD",
   "sector": "Consumer Cyclical",
   "industry": "Textile Manufacturing",
   "business_summary": "ABC Industries India Limited engages in the manufacturing and sale of cotton yarns and knitted fabrics in India. It also offers cotton seed oil, mustard oil, and oil cakes. ABC Industries India Limited was formerly known as A B Cotspin India Limited and changed its name to ABC Industries India Limited in October 2026. ABC Industries India Limited was incorporated in 1997 and is based in Faridkot, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 356.51,
-  "pe_ratio": 25.32,
+  "market_cap_cr": 357.35,
+  "pe_ratio": 25.38,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 69.73,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:32:52.034384",
+  "retrieval_time": "2026-11-02T22:54:33.658328",
   "provider_reported_pb_ratio": 2.33,
-  "statements_retrieved_at": "2026-11-01T06:32:52.034384",
+  "statements_retrieved_at": "2026-11-02T22:54:33.658328",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Aurobindo Pharma Limited, a pharmaceutical company, develops, manufactures, and commercializes generic pharmaceuticals in India, the United States, Europe, and internationally. The company manufactures a range of finished formulation products in various forms, such as oral solids, liquids, injectables for generic pharmaceuticals, branded specialty pharmaceuticals, and active pharmaceutical ingredients for CNS, anti-retroviral, cardiovascular, antibiotics, gastroenterology, anti-diabetics, and anti-allergic therapeutic areas. It also provides ointments, creams, gels, powders, transdermal, and lotions; antiretroviral drugs for PLHIV & CLHIV; and injectable products, including Penems, Penicillin, Cephalosporin, ophthalmic, inhalation, oncology, and hormone products. The company was incorporated in 1986 and is headquartered in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 96744.05,
-  "pe_ratio": 26.27,
+  "market_cap_cr": 96882.14,
+  "pe_ratio": 26.31,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 652.39,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:38:02.175342",
+  "retrieval_time": "2026-11-02T22:59:58.204739",
   "provider_reported_pb_ratio": 2.58,
-  "statements_retrieved_at": "2026-11-01T06:38:02.175342",
+  "statements_retrieved_at": "2026-11-02T22:59:58.204739",
   "retained_fields": []
 }

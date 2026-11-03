@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Kanchi Karpooram Limited engages in the manufacture and sale of camphor and allied products in India. The company operates through two segments: Manufacture and Sale of Camphor and allied products and Real Estate. It provides camphor, camphene, dipentene, double distilled turpentine, ester gum, fortified rosin, gum rosin, isoborneol, isobornyl, pine oil, pine pitch, pine tar, and sodium acetate trihydrate. The company is also involved in the trading of raw cashew nuts and other agro products. It serves tyres, paint, paper, rubber, fragrance, and camphor industries. The company was incorporated in 1992 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 163.05,
-  "pe_ratio": 21.33,
+  "market_cap_cr": 161.72,
+  "pe_ratio": 21.15,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 493.23,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:01:18.226677",
-  "provider_reported_pb_ratio": 0.76,
-  "statements_retrieved_at": "2026-11-01T07:01:18.226677",
+  "retrieval_time": "2026-11-02T23:24:40.120148",
+  "provider_reported_pb_ratio": 0.75,
+  "statements_retrieved_at": "2026-11-02T23:24:40.120148",
   "retained_fields": []
 }

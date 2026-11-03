@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "GRP Limited manufactures and sells reclaimed rubber products in India and internationally. It operates in Reclaim Rubber and Others segments. The company offers reclaim natural and synthetic rubber products for use in inner liners and tubes, tyre side walls and piles, tyre treads and retreads, conveyor belts, moulded goods, adhesives, and footwear, as well as mattings, profiles, and roofing; and POLYCOAT, an elastic powder in compounded form, which is used in NBR based molded products, metal to rubber bonded parts, NBR based oil seals, NBR matting/sheeting, and NBR-PVC blend. It also provides engineering plastics comprising glass filled and unfilled reprocessed nylon 6, nylon 66, and PBT used in automotive, electrical and electronics, consumer, and industrial applications; repurposed polyolefins used in paint and lubricant pails, automotive, furniture, battery covers, and electricals; custom die forms; heavy duty wheel chock and coil saddle for coil storage and transport; rear bumper guard use in warehousing, logistics, and docks; and car parking stopper. In addition, the company offers tyre pyrolysis oil and recovered carbon black for petrochemical, industrial heating, paint and coating, virgin carbon black, tyre and rubber, automotive tyre, industrial rubber, converyor belt, plastic masterbatch, ink and pigment applications. Further, it generates power from windmill and solar energy. The company was formerly known as Gujarat Reclaim and Rubber Products Limited and changed its name to GRP Limited in June 2012. GRP Limited was incorporated in 1974 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1028.64,
-  "pe_ratio": 181.44,
+  "market_cap_cr": 1066.13,
+  "pe_ratio": 188.05,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 355.9,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:53:51.933198",
-  "provider_reported_pb_ratio": 5.42,
-  "statements_retrieved_at": "2026-11-01T06:53:51.933198",
+  "retrieval_time": "2026-11-02T23:16:49.277570",
+  "provider_reported_pb_ratio": 5.62,
+  "statements_retrieved_at": "2026-11-02T23:16:49.277570",
   "retained_fields": []
 }

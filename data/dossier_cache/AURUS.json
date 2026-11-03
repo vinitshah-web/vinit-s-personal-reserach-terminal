@@ -5,8 +5,8 @@
   "industry": "Luxury Goods",
   "business_summary": "Aurus Gem Corporation Limited trades cut and polished diamonds, and diamond-studded jewellery in India and internationally. It sells its products through wholesale channels. The company was formerly known as Lypsa Gems & Jewellery Limited and changed its name to Aurus Gem Corporation Limited in May 2026. Aurus Gem Corporation Limited was incorporated in 1995 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 11.56,
-  "pe_ratio": 6.43,
+  "market_cap_cr": 11.88,
+  "pe_ratio": 6.61,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 6.29,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:38:04.484934",
-  "provider_reported_pb_ratio": 0.62,
-  "statements_retrieved_at": "2026-11-01T06:38:04.484934",
+  "retrieval_time": "2026-11-02T23:00:00.528541",
+  "provider_reported_pb_ratio": 0.64,
+  "statements_retrieved_at": "2026-11-02T23:00:00.528541",
   "retained_fields": []
 }

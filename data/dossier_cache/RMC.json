@@ -5,8 +5,8 @@
   "industry": "Electrical Equipment & Parts",
   "business_summary": "RMC Switchgears Limited engages in the switchgear engineering business in India. The company also manufactures smart-meter enclosures, feeder pillars, distribution and junction boxes, fibre-reinforced plastic safety products, V-cross arms, gratings, cable trays, transformer fencing, electrical panels and bus bars. In addition, it is involved in the turnkey projects: and transmission and distribution infrastructure, substation automation, underground cabling and solar engineering, procurement, and construction activities. Further, the company provides service and distribution boxes with circuit breakers, spring loaded boxes, LT distribution boxes, 3 phase metal meter boxes, SMC LTDB 63, meter boxes, single and three phase meter boxes, and FRP fencing. Additionally, it is involved in the undertaking of ECI contracts for power distribution and transmission sector. The company was formerly known as RMC Switch Gears Limited and changed its name to RMC Switchgears Limited in July 2016. RMC Switchgears Limited was incorporated in 1994 and is based in Jaipur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 192.15,
-  "pe_ratio": 9.43,
+  "market_cap_cr": 195.16,
+  "pe_ratio": 9.58,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 124.05,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:19:05.516671",
-  "provider_reported_pb_ratio": 1.46,
-  "statements_retrieved_at": "2026-11-01T07:19:05.516671",
+  "retrieval_time": "2026-11-02T23:43:25.321416",
+  "provider_reported_pb_ratio": 1.49,
+  "statements_retrieved_at": "2026-11-02T23:43:25.321416",
   "retained_fields": []
 }

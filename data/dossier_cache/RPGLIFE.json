@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "RPG Life Sciences Limited, an integrated pharmaceutical company, develops, manufactures, and markets branded formulations, generic, and synthetic active pharmaceutical ingredients (APIs) in India and internationally. The company offers synthetic APIs in various therapeutic categories, including immunosuppressants, anti-psychotic, anti-anginal, anthelmintics, anti-convulsant, anti-spasmodic, etc. It also provides generics for immunosuppressant therapy; and domestic and international finished dosage formulations for various therapies, which include nephrology, rheumatology, oncology, gastroenterology, cardiology, orthopedics, nutritional, diabetology, respiratory, neuropsychiatry, urology, vitamins and minerals, gastrointestinal, pain management, anti-diabetic, gynecology and pediatrics, cardiovascular, pediatrics, neurology, anti-dengue, dermatology, etc. The company was formerly known as RPG Pharmaceuticals Limited and changed its name to RPG Life Sciences Limited in February 2008. RPG Life Sciences Limited was founded in 1968 and is headquartered in Mumbai, India. RPG Life Sciences Limited is a subsidiary of Nucleus Life Trust.",
   "business_summary_reason": null,
-  "market_cap_cr": 4259.95,
-  "pe_ratio": 35.61,
+  "market_cap_cr": 4216.62,
+  "pe_ratio": 35.24,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 374.36,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:19:25.881267",
-  "provider_reported_pb_ratio": 6.88,
-  "statements_retrieved_at": "2026-11-01T07:19:25.881267",
+  "retrieval_time": "2026-11-02T23:43:47.007161",
+  "provider_reported_pb_ratio": 6.81,
+  "statements_retrieved_at": "2026-11-02T23:43:47.007161",
   "retained_fields": []
 }

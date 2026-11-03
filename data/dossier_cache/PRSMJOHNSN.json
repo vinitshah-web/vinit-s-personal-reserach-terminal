@@ -5,8 +5,8 @@
   "industry": "Building Materials",
   "business_summary": "Prism Johnson Limited, an integrated building materials company, manufactures and sells cement, tiles, and ready-mixed concrete in India and internationally. It operates through three segments: Cement, HRJ, and Ready Mixed Concrete (RMC). The company offers Portland pozzolana and ordinary Portland cement under the Champion, Champion Plus, Champion Duratech, and Champion All Weather brands. It also provides ceramic, industrial, and vitrified tiles and slabs; sanitaryware, bath fittings, and accessories; and engineered marble and quartz products under the Johnson Tiles, Johnson Marbonite, Johnson Porselano, Johnson Bathware, Johnson Endura, Johnson Marble & Quartz, and Johnson International brand names. In addition, the company offers construction chemicals; manufacturing and trading of tiles; and manufacturing of concrete. Further, it engages in the general insurance business, including health, motor, home, office, and commercial insurance products. The company was formerly known as Prism Cement Limited and changed its name to Prism Johnson Limited in April 2018. Prism Johnson Limited was incorporated in 1992 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4757.22,
-  "pe_ratio": 35.0,
+  "market_cap_cr": 4920.31,
+  "pe_ratio": 36.2,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 30.36,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:16:30.245276",
-  "provider_reported_pb_ratio": 3.11,
-  "statements_retrieved_at": "2026-11-01T07:16:30.245276",
+  "retrieval_time": "2026-11-02T23:40:46.002311",
+  "provider_reported_pb_ratio": 3.22,
+  "statements_retrieved_at": "2026-11-02T23:40:46.002311",
   "retained_fields": []
 }

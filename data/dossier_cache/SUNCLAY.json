@@ -5,8 +5,8 @@
   "industry": "Metal Fabrication",
   "business_summary": "Sundaram-Clayton Limited engages in manufacturing and sale of non-ferrous gravity and pressure die castings in India. The company offers flywheel, gear, and clutch housing; and filter head, air connector, lube oil cooler cover assembly, filtration module casting, turbo charger, compressor cover assembly, charge air pipe, and intake manifold products, as well as cover coolant ducts for the truck segment. It also provides cylinder head, case transaxle assembly, oil pan, chain case, cylinder head cover, adaptor oil filter, fuel pump housing, fork gear shift, starter housing, and A/C compressor housing products for passenger cars. In addition, the company offers crank case, cylinder head and barrel, and wheel hub products for powered two wheelers and brake equipment valve bodies. Sundaram-Clayton Limited was formerly known as Sundaram - Clayton DCD Limited and changed its name to Sundaram-Clayton Limited in August 2023. The company was founded in 1962 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2257.53,
-  "pe_ratio": 9.0,
+  "market_cap_cr": 2313.3,
+  "pe_ratio": 9.22,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 587.59,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:26:52.561874",
-  "provider_reported_pb_ratio": 1.74,
-  "statements_retrieved_at": "2026-11-01T07:26:52.561874",
+  "retrieval_time": "2026-11-02T23:51:39.330249",
+  "provider_reported_pb_ratio": 1.79,
+  "statements_retrieved_at": "2026-11-02T23:51:39.330249",
   "retained_fields": []
 }

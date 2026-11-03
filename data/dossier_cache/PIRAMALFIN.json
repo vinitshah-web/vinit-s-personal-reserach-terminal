@@ -5,8 +5,8 @@
   "industry": "Credit Services",
   "business_summary": "Piramal Finance Limited, a housing finance company, provides financing solutions to corporate and private customers in India. It offers housing loans, such as home, construction, and home renovation and extension loan; business loans, which include working capital loan, loan against property and secured business loan, as well as loans for growing business, consolidate business needs, and professionals; and real estate financing, corporate finance, emerging corporate lending, and capital markets and advisory services. Piramal Finance Limited was formerly known as Piramal Capital & Housing Finance Limited and changed its name to Piramal Finance Limited in March 2022. The company was incorporated in 1984 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 42977.18,
-  "pe_ratio": 21.74,
+  "market_cap_cr": 45271.5,
+  "pe_ratio": 22.91,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 1360.41,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:14:59.549279",
-  "provider_reported_pb_ratio": 1.34,
-  "statements_retrieved_at": "2026-11-01T07:14:59.549279",
+  "retrieval_time": "2026-11-02T23:39:08.279361",
+  "provider_reported_pb_ratio": 1.41,
+  "statements_retrieved_at": "2026-11-02T23:39:08.279361",
   "retained_fields": []
 }

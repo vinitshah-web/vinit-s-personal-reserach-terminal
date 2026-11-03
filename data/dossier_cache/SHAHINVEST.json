@@ -5,8 +5,8 @@
   "industry": "Capital Markets",
   "business_summary": "Shah Investor's Home Limited, a retail brokering company, provides equity and derivatives brokerage services in India. It facilitates the buying and selling of financial products, such as equities, initial public offering investing, mutual funds distribution, and other securities. The company also offers secondary market brokering services. Shah Investor's Home Limited was incorporated in 1994 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 292.46,
-  "pe_ratio": 21.77,
+  "market_cap_cr": 296.27,
+  "pe_ratio": 22.06,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 114.07,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:22:40.037596",
-  "provider_reported_pb_ratio": 1.21,
-  "statements_retrieved_at": "2026-11-01T07:22:40.037596",
+  "retrieval_time": "2026-11-02T23:47:11.387981",
+  "provider_reported_pb_ratio": 1.23,
+  "statements_retrieved_at": "2026-11-02T23:47:11.387981",
   "retained_fields": []
 }

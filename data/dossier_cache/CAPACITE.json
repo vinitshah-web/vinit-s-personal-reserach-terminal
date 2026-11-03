@@ -5,15 +5,15 @@
   "industry": "Engineering & Construction",
   "business_summary": "Capacit'e Infraprojects Limited, together with its subsidiaries, engages in the engineering, procurement, and construction business in India. The company offers design, build, and contracting services for high-rise and super high-rise structures, retail and commercial complexes, institutional buildings, office spaces, gated communities, hospitals, malls, factories, hotels, data centers, industrial facilities, mass housing, and multi-level car parks. Capacit'e Infraprojects Limited was incorporated in 2012 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1232.34,
-  "pe_ratio": 6.69,
+  "market_cap_cr": 1287.5,
+  "pe_ratio": 6.99,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 225.62,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 8.4604,
   "fifty_two_week_high": 314.25,
-  "fifty_two_week_low": 144.7,
+  "fifty_two_week_low": 144.2,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:42:17.577106",
-  "provider_reported_pb_ratio": 0.65,
-  "statements_retrieved_at": "2026-11-01T06:42:17.577106",
+  "retrieval_time": "2026-11-02T23:04:30.927916",
+  "provider_reported_pb_ratio": 0.67,
+  "statements_retrieved_at": "2026-11-02T23:04:30.927916",
   "retained_fields": []
 }

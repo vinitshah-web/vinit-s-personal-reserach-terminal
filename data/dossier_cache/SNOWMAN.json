@@ -5,8 +5,8 @@
   "industry": "Integrated Freight & Logistics",
   "business_summary": "Snowman Logistics Limited provides temperature-controlled warehousing and distribution services in India. The company operates through three segments: Warehousing Services, Transportation Services, and Trading and Distribution. It offers warehousing solutions and services, including ambient, chilled, frozen, and blast freezing facilities. The company also provides primary transportation services, such as door-to-door, customized milk run, and part cargo consolidation services; and secondary transportation services comprising last mile distribution supplying to QSRs, retail outlets, restaurants, and hotels. In addition, the company offers value added services, which include kitting, labelling, sorting, stuffing, and de-stuffing of containers, repacking, and bulk breaking; and sorts, grades, packs, and washes selected fruits and vegetables. Additionally, it engages in trading and distribution that includes sourcing, vendor development, inventory planning, procurement, and sales. It serves pharmaceuticals, meat and poultry, seafood fresh produce, ice cream, confectionery, dairy, quick service restaurants, ready-to-eat meals, processed foods, and industrial goods industries. The company was formerly known as Snowman Frozen Foods Limited and changed its name to Snowman Logistics Limited in March 2011. Snowman Logistics Limited was incorporated in 1993 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 552.3,
-  "pe_ratio": 61.17,
+  "market_cap_cr": 556.65,
+  "pe_ratio": 61.65,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 25.57,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:25:07.867649",
-  "provider_reported_pb_ratio": 1.29,
-  "statements_retrieved_at": "2026-11-01T07:25:07.867649",
+  "retrieval_time": "2026-11-02T23:49:47.264618",
+  "provider_reported_pb_ratio": 1.3,
+  "statements_retrieved_at": "2026-11-02T23:49:47.264618",
   "retained_fields": []
 }

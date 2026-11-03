@@ -5,8 +5,8 @@
   "industry": "Luxury Goods",
   "business_summary": "Goldiam International Limited, together with its subsidiaries, manufactures and sells diamond-studded gold and silver jewelry products in India. It operates in two segments: Jewellery Manufacturing Activity and Investment Activity. The company offers lab-grown diamond jewellery, engagement and anniversary rings, wedding bands, bridal sets, earrings, pendants, and necklaces. It also exports its products to the United States, the Middle East, Europe, Australia, and Canada. The company offers its products to retailers, department stores, and wholesalers through e-commerce drop shipments and a B2B website. Goldiam International Limited was incorporated in 1986 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4301.42,
-  "pe_ratio": 20.58,
+  "market_cap_cr": 4377.45,
+  "pe_ratio": 20.95,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 73.46,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:52:47.601210",
-  "provider_reported_pb_ratio": 3.89,
-  "statements_retrieved_at": "2026-11-01T06:52:47.601210",
+  "retrieval_time": "2026-11-02T23:15:42.093335",
+  "provider_reported_pb_ratio": 3.96,
+  "statements_retrieved_at": "2026-11-02T23:15:42.093335",
   "retained_fields": []
 }

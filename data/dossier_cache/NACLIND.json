@@ -5,8 +5,8 @@
   "industry": "Agricultural Inputs",
   "business_summary": "NACL Industries Limited manufactures and sells agrochemicals in India. The company offers a range of technical products, including myclobutanil, propiconazole, profenofos, tricyclazole, pretilachlors, thiamethoxam, lambda cyhalothrin, bifenthrin, azoxystrobin, tebuconazole, difenoconazole, thifluzamide, bispyribac sodium, clodinafop propargyl, metribuzin, quizalofop ethyl, haloxyfop r methyl, and glufosinate ammonium; and formulations, such as insecticides, fungicides, herbicides, and plant growth regulators and nematicides, as well as pesticides and acaricides. It also provides toll manufacturing services for various multinational companies. The company also exports its products. It markets and sells its products through a network of retail dealers. The company was formerly known as Nagarjuna Agrichem Limited and changed its name to NACL Industries Limited in September 2017. The company was incorporated in 1986 and is based in Hyderabad, India. NACL Industries Limited is a subsidiary of Coromandel International Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 2589.09,
-  "pe_ratio": 221.06,
+  "market_cap_cr": 2726.59,
+  "pe_ratio": 232.8,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 29.16,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:10:00.817217",
-  "provider_reported_pb_ratio": 3.79,
-  "statements_retrieved_at": "2026-11-01T07:10:00.817217",
+  "retrieval_time": "2026-11-02T23:33:54.997531",
+  "provider_reported_pb_ratio": 3.99,
+  "statements_retrieved_at": "2026-11-02T23:33:54.997531",
   "retained_fields": []
 }

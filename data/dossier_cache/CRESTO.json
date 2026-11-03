@@ -5,7 +5,7 @@
   "industry": "Entertainment",
   "business_summary": "Cresto Techno Limited designs and develops Ignitium Energy OS, an operating system for energy infrastructure management. The company's platform manages fuel, electricity, solar, storage, electric vehicles, and hydrogen. It serves India's energy infrastructure sector. The company was formerly known as Silly Monks Entertainment Limited and changed its name to Cresto Techno Limited in September 2026. Cresto Techno Limited was incorporated in 2013 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 24.77,
+  "market_cap_cr": 25.03,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:44:39.184353",
-  "provider_reported_pb_ratio": 2.06,
-  "statements_retrieved_at": "2026-11-01T06:44:39.184353",
+  "retrieval_time": "2026-11-02T23:07:05.849499",
+  "provider_reported_pb_ratio": 2.09,
+  "statements_retrieved_at": "2026-11-02T23:07:05.849499",
   "retained_fields": []
 }

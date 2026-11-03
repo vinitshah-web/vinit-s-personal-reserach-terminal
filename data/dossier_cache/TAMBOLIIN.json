@@ -5,8 +5,8 @@
   "industry": "Metal Fabrication",
   "business_summary": "Tamboli Industries Limited manufactures and sells fully machined precision components in India. It operates through three segments: Investment Activities, Trading Activities, and Manufacturing Activities. The company is involved in financial investment activities; and trading precious metal goods. Its products are used in pneumatics and automation, pumps, valves and turbo parts, general engineering, automobile, and aerospace applications. The company was formerly known as Tamboli Capital Limited and changed its name to Tamboli Industries Limited in September 2023. Tamboli Industries Limited was founded in 2004 and is based in Bhavnagar, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 310.0,
-  "pe_ratio": 29.18,
+  "market_cap_cr": 288.13,
+  "pe_ratio": 27.12,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 123.44,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:28:11.379207",
-  "provider_reported_pb_ratio": 2.53,
-  "statements_retrieved_at": "2026-11-01T07:28:11.379207",
+  "retrieval_time": "2026-11-02T23:53:00.263120",
+  "provider_reported_pb_ratio": 2.35,
+  "statements_retrieved_at": "2026-11-02T23:53:00.263120",
   "retained_fields": []
 }

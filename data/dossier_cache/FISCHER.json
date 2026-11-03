@@ -5,8 +5,8 @@
   "industry": "Medical Devices",
   "business_summary": "Fischer Medical Ventures Limited engages in the manufacture, distribution, leasing, and maintenance of medical equipment in India and internationally. Its product portfolio includes magnetic resonance imaging (MRI) systems; preventive health kiosks; e-health access points; software solutions; cancer, TB screening, and handheld x-ray; spincare technology; nutraceuticals; mental health solutions; contactless screening solutions; and CT scan systems, as well as preventive diagnostic devices and ancillary medical instruments. The company was formerly known as Fischer Chemic Limited and changed its name to Fischer Medical Ventures Limited in March 2024. Fischer Medical Ventures Limited was incorporated in 1993 and is headquartered in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1732.04,
-  "pe_ratio": 10.59,
+  "market_cap_cr": 1722.96,
+  "pe_ratio": 10.54,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 5.96,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:50:20.179302",
-  "provider_reported_pb_ratio": 4.16,
-  "statements_retrieved_at": "2026-11-01T06:50:20.179302",
+  "retrieval_time": "2026-11-02T23:13:06.355340",
+  "provider_reported_pb_ratio": 4.14,
+  "statements_retrieved_at": "2026-11-02T23:13:06.355340",
   "retained_fields": []
 }

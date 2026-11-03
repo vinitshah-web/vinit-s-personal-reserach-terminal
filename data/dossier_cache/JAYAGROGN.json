@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Jayant Agro-Organics Limited, an oleochemical company, engages in manufacturing and trading of castor oil and its derivatives in India and internationally. The company operates through three segments: Castor Oil, Castor Derivatives, and Power Generation. It offers dehydrated, hydrogenated, and cold pressed castor oil; and ethoxylates, pragati, hydrogenated castor oil fatty acid, 2-octanol PAC, Jagroflow-13, Jagroflow-15, sebacic acid, dehydrated castor oil fatty acid, and 2-octanone, as well as pharma grade castor oil. The company also provides Jagrocos, Jagromul, Dermcare, Jagroil COCG series, Jagrolatum, Jagrowax CHS, Jagrosorb, and Jagrocid products. In addition, it engages in the power generation business. It serves agriculture, cosmetics, electronics, lubricants, paints, perfumeries, pharmaceuticals, polymers and plastics, textiles, and rubber and construction industries. The company was incorporated in 1992 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 634.59,
-  "pe_ratio": 11.68,
+  "market_cap_cr": 642.15,
+  "pe_ratio": 11.82,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 203.2,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:59:48.827224",
-  "provider_reported_pb_ratio": 1.04,
-  "statements_retrieved_at": "2026-11-01T06:59:48.827224",
+  "retrieval_time": "2026-11-02T23:23:10.741284",
+  "provider_reported_pb_ratio": 1.05,
+  "statements_retrieved_at": "2026-11-02T23:23:10.741284",
   "retained_fields": []
 }

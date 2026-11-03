@@ -5,8 +5,8 @@
   "industry": "Rental & Leasing Services",
   "business_summary": "Crown Lifters Limited engages in the hiring of cranes in India. Its fleet includes lattice boom cranes; telescopic boom cranes, and aerial work platforms in India. The company serves various sectors, such as oil and gas, refineries, steel, cement, fabrication, renewal, solar, thermal, nuclear energy, water/gas pipeline, breakwater, pile drive/caging, and dredging, as well as bridges, metros, bullet trains, and coastal roads. Crown Lifters Limited was founded in 1984 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 121.01,
-  "pe_ratio": 14.26,
+  "market_cap_cr": 123.24,
+  "pe_ratio": 14.53,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 67.41,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:44:43.660241",
-  "provider_reported_pb_ratio": 1.55,
-  "statements_retrieved_at": "2026-11-01T06:44:43.660241",
+  "retrieval_time": "2026-11-02T23:07:10.514232",
+  "provider_reported_pb_ratio": 1.58,
+  "statements_retrieved_at": "2026-11-02T23:07:10.514232",
   "retained_fields": []
 }

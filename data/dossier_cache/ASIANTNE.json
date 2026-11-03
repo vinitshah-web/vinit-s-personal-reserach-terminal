@@ -5,8 +5,8 @@
   "industry": "Food Distribution",
   "business_summary": "Asian Tea & Exports Limited engages in the plantation, manufacture, trade, and export of tea in India and internationally. It offers black tea, green tea, and oolong tea in the form of leaf tea, broken tea, fannings, and dust. The company also trades in pulses, including whole pigeon and yellow peas, red lentil, urhat, green peas, and chickpeas; and various foodstuff products, such as raw cashew nuts, sugar, soyabean, sesame seeds, spices, etc., as well as rice and tea bags. The company exports its products to Africa, Kazakhstan, the Middle East, Russia, Iran, the United Arab Emirates, Iraq, Uzbekistan, Pakistan, Afghanistan, Egypt, the Kingdom of Saudi Arabia, Germany, Kenya, Sri Lanka, Hong Kong, the United Kingdom, and Japan. Asian Tea & Exports Limited was incorporated in 1987 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 21.72,
-  "pe_ratio": 67.0,
+  "market_cap_cr": 22.37,
+  "pe_ratio": 69.0,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 27.56,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:37:31.111245",
-  "provider_reported_pb_ratio": 0.32,
-  "statements_retrieved_at": "2026-11-01T06:37:31.111245",
+  "retrieval_time": "2026-11-02T22:59:25.975890",
+  "provider_reported_pb_ratio": 0.33,
+  "statements_retrieved_at": "2026-11-02T22:59:25.975890",
   "retained_fields": []
 }

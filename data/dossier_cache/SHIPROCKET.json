@@ -5,7 +5,7 @@
   "industry": "Software - Application",
   "business_summary": "Shiprocket Limited provides e-commerce enablement platform solutions in India. It offers Shiprocket Shipping, an e-commerce shipping platform that automates workflows across sales channels; ShiprocketX, an end-to-end cross border solution; fastrr, AI native growth suite for commerce brands; Shiprocket Fulfillment, a warehousing, and packaging and shipping solution; Shiprocket Trends; and Shiprocket Capital, a revenue-based financing platform. The company also provides Shiprocket Packaging for packaging solutions; Shiprocket Cargo, a platform that offers end-to-end logistics partner for domestic freight movement; Shiprocket Omuni, an unified commerce platform; Shiprocket Promise for shopping; Shiprocket Amplify, an influencer marketing solution; Shiprocket Quick, a delivery solution; Delivery Boost, a delivery solutions; and Shiprocket Sense for address and risk intelligence to minimise address inaccuracies and delivery failuresa. It serves small businesses, retail brands, direct-to-consumer merchants, and social commerce retailers. Shiprocket Limited was incorporated in 2011 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 9172.57,
+  "market_cap_cr": 9161.66,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:23:09.822294",
-  "provider_reported_pb_ratio": 5.2,
-  "statements_retrieved_at": "2026-11-01T07:23:09.822294",
+  "retrieval_time": "2026-11-02T23:47:42.523580",
+  "provider_reported_pb_ratio": 5.19,
+  "statements_retrieved_at": "2026-11-02T23:47:42.523580",
   "retained_fields": []
 }

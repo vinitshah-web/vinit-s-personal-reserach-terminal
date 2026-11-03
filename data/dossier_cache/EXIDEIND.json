@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Exide Industries Limited designs, manufactures, markets, and sells lead acid batteries and accumulators in India and internationally. It offers automotive, infrastructural, genset, solar, inverter, institutional uninterrupted power supply (UPS), and submarine batteries, as well as home UPS systems, integrated power back-up systems, and e-rickshaw vehicles. The company also manufactures and supplies recycled lead and lead alloys; offers lithium-ion batteries; produces and distributes industrial battery chargers and rectifiers; and provides energy storage solutions, as well as engages in the non-conventional energy business. It sells batteries under the Exide, Index, Dynex, SF Sonic, Chloride, Dagenite, Jupiter, Black panther, and CEIL brand names through a distribution network of dealers. The company was formerly known as Chloride Industries Ltd. and changed its name to Exide Industries Limited in August 1995. Exide Industries Limited was founded in 1916 and is headquartered in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 28517.5,
-  "pe_ratio": 30.61,
+  "market_cap_cr": 28747.0,
+  "pe_ratio": 30.86,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 163.59,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:49:44.355134",
-  "provider_reported_pb_ratio": 2.05,
-  "statements_retrieved_at": "2026-11-01T06:49:44.355134",
+  "retrieval_time": "2026-11-02T23:12:28.700851",
+  "provider_reported_pb_ratio": 2.07,
+  "statements_retrieved_at": "2026-11-02T23:12:28.700851",
   "retained_fields": []
 }

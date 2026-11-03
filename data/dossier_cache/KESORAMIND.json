@@ -5,7 +5,7 @@
   "industry": "Building Materials",
   "business_summary": "Kesoram Industries Limited manufactures and sells viscose rayon, filament yarn, transparent paper, and chemicals in India. It sells its rayon under the Kesoram Rayon brand name; and transparent paper and films under the Kesophane brand name. The company was formerly known as Kesoram Industries & Cotton Mills Ltd. and changed its name to Kesoram Industries Limited in 1986. Kesoram Industries Limited was incorporated in 1919 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 373.73,
+  "market_cap_cr": 373.42,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:01:53.090683",
+  "retrieval_time": "2026-11-02T23:25:16.289945",
   "provider_reported_pb_ratio": 1.01,
-  "statements_retrieved_at": "2026-11-01T07:01:53.090683",
+  "statements_retrieved_at": "2026-11-02T23:25:16.289945",
   "retained_fields": []
 }

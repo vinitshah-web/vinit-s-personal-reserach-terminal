@@ -5,8 +5,8 @@
   "industry": "Metal Fabrication",
   "business_summary": "DEE Development Engineers Limited manufactures and sells prefabricated engineering products, pipe fittings, and piping systems in India and internationally. It operates in three segments: Piping, Power, and Heavy Fabrication. The company offers pressure piping systems, piping spools, induction pipe bends, longitudinally submerged arc welding pipes, industrial pipe fittings, pressure vessels, industrial stacks, and modular skids, as well as boiler superheater coils, de-super heaters, and other customized manufactured components. It also provides engineering services comprising support, pre-bid, basic, layout, material, detailed, and pipe support engineering, as well as power and process piping, shop fabricated piping, stress analysis, and Indian boiler regulations; and wind turbine towers. In addition, the company generates biomass-based power; and manufactures windmill tower. It serves thermal and nuclear power, oil and gas, petrochemical refinery, bio refineries, fertilizer and chemical, subsea, marine and offshore, process, desalination plant, cement, and other industries. DEE Development Engineers Limited was incorporated in 1988 and is headquartered in Faridabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3818.4,
-  "pe_ratio": 43.98,
+  "market_cap_cr": 3940.29,
+  "pe_ratio": 45.38,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 127.16,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:45:42.782810",
-  "provider_reported_pb_ratio": 3.99,
-  "statements_retrieved_at": "2026-11-01T06:45:42.782810",
+  "retrieval_time": "2026-11-02T23:08:16.572770",
+  "provider_reported_pb_ratio": 4.12,
+  "statements_retrieved_at": "2026-11-02T23:08:16.572770",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Packaging & Containers",
   "business_summary": "TPL Plastech Limited engages in the manufacture and sale of polymer products in India. The company provides intermediate bulk containers (IBC) under QuBC and re-bottled IBC under COBO brand names, as well as offers medium and large blow moulded packaging. It offers narrow mouth drums; narrow mouth and wide mouth carboys for specialty chemical and adhesive industries; and bulk and medium open top drums that are used for packing powder, paste type, and semi liquid/solid products. In addition, the company offers HDPE packaging products, such as bottles for packing lubricant oil, pesticides, cosmetics, food and beverages, and cleaning and hygiene products; packaging solutions for pharma and agro-based products, and cosmetics and personal care products; and caps and closures, small containers, promotional packaging solutions, etc. The company was formerly known as Tainwala Polycontainers Limited and changed its name to TPL Plastech Limited in January 2007. The company was incorporated in 1992 and is based in Mumbai, India. TPL Plastech Limited operates as a subsidiary of Time Technoplast Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 472.39,
-  "pe_ratio": 15.69,
+  "market_cap_cr": 499.06,
+  "pe_ratio": 16.58,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 21.6,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:30:16.150693",
-  "provider_reported_pb_ratio": 2.8,
-  "statements_retrieved_at": "2026-11-01T07:30:16.150693",
+  "retrieval_time": "2026-11-02T23:55:09.727042",
+  "provider_reported_pb_ratio": 2.96,
+  "statements_retrieved_at": "2026-11-02T23:55:09.727042",
   "retained_fields": []
 }

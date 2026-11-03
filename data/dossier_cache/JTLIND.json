@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "JTL Industries Limited manufactures and sells iron and steel products in India and internationally. It offers DFT structural steel pipes, galvanized steel tubes and pipes, solar module mounting structures, hollow steel section, solar mounting structures, steel tubular poles, and metal crash barriers. The company sells products under the TL Ultra, JTL Hulk, JTL Harvest, JTL Aqua, JTL Galv-Coat, JTL Agnirodhi, JTL Solarium, JTL Guard, JTL Unio, JTL Jumbo, JTL Jal Jaan, JTL Galva Flow, JTL Surya Kiran, JTL Road Guard, and JTL Uniq brand name. It serves power, oil and gas, infrastructure, agriculture and irrigation, construction, petrochemicals, automotive, and water transportation sectors. The company was formerly known as JTL Infra Limited and changed its name to JTL Industries Limited in November 2022. JTL Industries Limited was incorporated in 1991 and is based in Chandigarh, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2998.82,
-  "pe_ratio": 24.69,
+  "market_cap_cr": 3002.75,
+  "pe_ratio": 24.72,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 41.47,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:00:46.480243",
+  "retrieval_time": "2026-11-02T23:24:07.143338",
   "provider_reported_pb_ratio": 1.84,
-  "statements_retrieved_at": "2026-11-01T07:00:46.480243",
+  "statements_retrieved_at": "2026-11-02T23:24:07.143338",
   "retained_fields": []
 }

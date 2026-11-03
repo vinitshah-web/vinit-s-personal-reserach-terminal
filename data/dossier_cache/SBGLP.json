@@ -5,8 +5,8 @@
   "industry": "Real Estate - Development",
   "business_summary": "Suratwwala Business Group Limited engages in the construction of residential, commercial, and IT parks properties in India. The company provides maintenance and management of services for its developed properties. It also engages in renting of immovable properties; and provision of auxiliary services related to real estate development, as well as leasing spaces for mobile towers, hoardings, and advertising displays. In addition, the company engages in solar power generating activities. Suratwwala Business Group Limited was incorporated in 2008 and is headquartered in Pune, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 357.93,
-  "pe_ratio": 8.71,
+  "market_cap_cr": 359.84,
+  "pe_ratio": 8.76,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 5.97,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:21:23.147130",
-  "provider_reported_pb_ratio": 3.45,
-  "statements_retrieved_at": "2026-11-01T07:21:23.147130",
+  "retrieval_time": "2026-11-02T23:45:50.804933",
+  "provider_reported_pb_ratio": 3.47,
+  "statements_retrieved_at": "2026-11-02T23:45:50.804933",
   "retained_fields": []
 }

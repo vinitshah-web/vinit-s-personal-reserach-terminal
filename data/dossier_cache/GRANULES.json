@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Granules India Limited manufactures and sells active pharmaceutical ingredients (APIs), pharmaceutical formulation intermediates (PFIs), finished dosages (FDs), and peptides CDMO in India and internationally. It offers paracetamol, metformin, guaifenesin, ibuprofen, and methocarbamol, as well as prescription and over-the-counter products. The company also develops and manufactures tablets, capsules, press fits, oral solutions, suspensions, and powder for oral solutions. In addition, it provides development and manufacturing solutions for peptides, peptide fragments, and amino acid derivatives. The company offers its products in various therapeutic categories, including antiretroviral, anti-depressant, antihistamine, anti-diabetic, anti-cancer, multiple sclerosis, anti-thrombocytopenia, anti-ulcer, anti-convulsant, mucolytic/expectorant, anti-hypertensive, muscle relaxant, NSAIDs, anti-fibrotic, and anti-microbial, as well as anti-arrhythmic, CNS stimulant, anti-diarrheal, antihypertensive, uterine stimulant, chelating agent, mineral supplements, CNS depressant, PDE inhibitor, antispasmodic, and anti-viral. Granules India Limited was incorporated in 1984 and is headquartered in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 22906.69,
-  "pe_ratio": 31.19,
+  "market_cap_cr": 22387.04,
+  "pe_ratio": 30.49,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 205.21,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:53:05.878795",
-  "provider_reported_pb_ratio": 4.09,
-  "statements_retrieved_at": "2026-11-01T06:53:05.878795",
+  "retrieval_time": "2026-11-02T23:16:00.312473",
+  "provider_reported_pb_ratio": 4.0,
+  "statements_retrieved_at": "2026-11-02T23:16:00.312473",
   "retained_fields": []
 }

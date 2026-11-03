@@ -5,7 +5,7 @@
   "industry": "Real Estate - Development",
   "business_summary": "Emami Realty Limited engages in the real estate development business in India. Its portfolio includes residential, commercial, and mixed-use developments. The company was formerly known as Emami Infrastructure Limited and changed its name to Emami Realty Limited in October 2018. Emami Realty Limited was incorporated in 2006 and is headquartered in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 350.5,
+  "market_cap_cr": 351.33,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:48:25.825616",
+  "retrieval_time": "2026-11-02T23:11:06.601550",
   "provider_reported_pb_ratio": -1.19,
-  "statements_retrieved_at": "2026-11-01T06:48:25.825616",
+  "statements_retrieved_at": "2026-11-02T23:11:06.601550",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "Rajratan Global Wire Limited engages in manufacturing and sale of tyre bead wires in India, Thailand, the United States, and internationally. It also offers high carbon steel wires that are used in construction, engineering, and automobile industries. The company was incorporated in 1988 and is based in Indore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2154.72,
-  "pe_ratio": 25.88,
+  "market_cap_cr": 2084.4,
+  "pe_ratio": 25.03,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 135.07,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:17:34.383645",
-  "provider_reported_pb_ratio": 3.14,
-  "statements_retrieved_at": "2026-11-01T07:17:34.383645",
+  "retrieval_time": "2026-11-02T23:41:53.871480",
+  "provider_reported_pb_ratio": 3.04,
+  "statements_retrieved_at": "2026-11-02T23:41:53.871480",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "Diffusion Engineers Limited manufactures and sells welding consumables, wear plates and parts, and heavy engineering equipment for various industries in India and internationally. The company provides specialized and customized repairs and reconditioning services for heavy machinery and equipment. It also trades in anti-wear powders, welding, and cutting machinery. The company was incorporated in 1982 and is based in Nagpur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1471.31,
-  "pe_ratio": 26.9,
+  "market_cap_cr": 1509.37,
+  "pe_ratio": 27.6,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 108.71,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:46:28.838442",
-  "provider_reported_pb_ratio": 3.65,
-  "statements_retrieved_at": "2026-11-01T06:46:28.838442",
+  "retrieval_time": "2026-11-02T23:09:05.113638",
+  "provider_reported_pb_ratio": 3.74,
+  "statements_retrieved_at": "2026-11-02T23:09:05.113638",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Agricultural Inputs",
   "business_summary": "Bayer CropScience Limited, together with its subsidiaries, engages in the agriculture business in India, Germany, Bangladesh, and internationally. The company manufactures, sells, and distributes agrochemical products, including insecticides, fungicides, herbicides, seed treatment solutions, and biologicals; produces, sells, and distributes hybrid corn seeds, as well as rice, fruits, and vegetables; and integrates digital farming solutions, such as remote sensing, artificial intelligence, IoT, drones, and data analytics. It also offers medicines for various therapeutic areas comprising cardiology, diabetes, kidney health, women's health, oncology, ophthalmology, and radiology; and over-the-counter products, including analgesics, nutrition, allergy, dermatology, and digestives. Bayer CropScience Limited was founded in 1896 and is based in Thane, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 14636.29,
-  "pe_ratio": 19.99,
+  "market_cap_cr": 14740.56,
+  "pe_ratio": 20.13,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 659.89,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:39:44.443121",
-  "provider_reported_pb_ratio": 4.94,
-  "statements_retrieved_at": "2026-11-01T06:39:44.443121",
+  "retrieval_time": "2026-11-02T23:01:46.382708",
+  "provider_reported_pb_ratio": 4.97,
+  "statements_retrieved_at": "2026-11-02T23:01:46.382708",
   "retained_fields": []
 }

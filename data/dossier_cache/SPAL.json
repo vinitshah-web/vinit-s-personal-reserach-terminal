@@ -5,8 +5,8 @@
   "industry": "Apparel Manufacturing",
   "business_summary": "S.P. Apparels Limited, together with its subsidiaries, manufactures and exports knitted garments for infant wear, children's apparel, and intimate wear in India and internationally. The company offers yarns, fabrics, and cotton waste products under the Angel & Rocket brand. The company also provides dyeing, embroidery, and printing services. In addition, it engages in the manufacture, distribution, marketing, and retail sale of menswear garments under the Crocodile brand name. S.P. Apparels Limited was founded in 1988 and is headquartered in Tirupur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2044.92,
-  "pe_ratio": 19.5,
+  "market_cap_cr": 2128.51,
+  "pe_ratio": 20.29,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 376.72,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:25:32.630034",
-  "provider_reported_pb_ratio": 2.16,
-  "statements_retrieved_at": "2026-11-01T07:25:32.630034",
+  "retrieval_time": "2026-11-02T23:50:13.591425",
+  "provider_reported_pb_ratio": 2.25,
+  "statements_retrieved_at": "2026-11-02T23:50:13.591425",
   "retained_fields": []
 }

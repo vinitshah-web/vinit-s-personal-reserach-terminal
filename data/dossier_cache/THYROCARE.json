@@ -5,8 +5,8 @@
   "industry": "Diagnostics & Research",
   "business_summary": "Thyrocare Technologies Limited provides diagnostic testing services to patients, laboratories, and hospitals in India. It operates through three segments: Diagnostic Testing Services, Imaging Services, and Others. The Diagnostic Testing Services segment engages in the selling of consumables used for collection, and promotion of pathology. The Imaging Services segment sells radio-pharmaceutical and consumables for reporting. The Others segment engages in the sale of glucometer and glucostrips under the brand name sugarscan. The company offers diagnostic and pathological services. The company was founded in 1996 and is based in Navi Mumbai, India. Thyrocare Technologies Limited is a subsidiary of Docon Technologies Private Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 7262.71,
-  "pe_ratio": 50.87,
+  "market_cap_cr": 7600.14,
+  "pe_ratio": 53.23,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 36.79,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:29:33.028938",
-  "provider_reported_pb_ratio": 12.4,
-  "statements_retrieved_at": "2026-11-01T07:29:33.028938",
+  "retrieval_time": "2026-11-02T23:54:25.174705",
+  "provider_reported_pb_ratio": 12.98,
+  "statements_retrieved_at": "2026-11-02T23:54:25.174705",
   "retained_fields": []
 }

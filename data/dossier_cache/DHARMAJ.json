@@ -5,8 +5,8 @@
   "industry": "Agricultural Inputs",
   "business_summary": "Dharmaj Crop Guard Limited engages in manufacturing, distributing, and marketing of a range of agro chemical formulations in India. The company's agro chemical formulations include insecticides, fungicides, herbicides, plant growth regulators, micronutrient fertilizers, and antibiotics to the B2C and B2B customers. It also manufactures and sells general insect and pest control chemicals for public and animal health protection applications; and offers crop protection solutions, and agrochemical active ingredients and intermediates. The company exports its products to Latin America, East African countries, the Middle East, and Far East Asia. Dharmaj Crop Guard Limited was incorporated in 2015 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 861.83,
-  "pe_ratio": 14.33,
+  "market_cap_cr": 865.72,
+  "pe_ratio": 14.39,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 132.4,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:46:17.441007",
+  "retrieval_time": "2026-11-02T23:08:53.184069",
   "provider_reported_pb_ratio": 1.93,
-  "statements_retrieved_at": "2026-11-01T06:46:17.441007",
+  "statements_retrieved_at": "2026-11-02T23:08:53.184069",
   "retained_fields": []
 }

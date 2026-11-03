@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Lincoln Pharmaceuticals Limited engages in manufacturing and trading of pharmaceutical products in India and internationally. The company offers products in the areas of anticold, antibiotic, otolaryngology, pain management, gastro, anti-malarial, anti-fungal, corticosteroids and cosmo-derma, anti-diabetic, anti-hypertensive, anti-infective, anti-bacterial, gynecology, cardio and CNS, respiratory system, and dyslipidemic; and branded generics in the form of tablets, capsules, injectables, dry syrups, sprays, ointments etc. It exports its products to Europe, Canada, Latin and North America, Africa, Asia, and South East Asia. Lincoln Pharmaceuticals Limited was incorporated in 1979 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1000.08,
-  "pe_ratio": 10.37,
+  "market_cap_cr": 1025.92,
+  "pe_ratio": 10.64,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 378.25,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:04:20.744350",
-  "provider_reported_pb_ratio": 1.32,
-  "statements_retrieved_at": "2026-11-01T07:04:20.744350",
+  "retrieval_time": "2026-11-02T23:27:51.366622",
+  "provider_reported_pb_ratio": 1.35,
+  "statements_retrieved_at": "2026-11-02T23:27:51.366622",
   "retained_fields": []
 }

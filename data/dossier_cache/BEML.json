@@ -5,8 +5,8 @@
   "industry": "Conglomerates",
   "business_summary": "BEML Limited provides products and services to the mining and construction, rail and metro, power, and defense and aerospace sectors in India. The company offers high mobility vehicles, combat mobility vehicles, 1500 horsepower engines, aggregates for combat vehicles, aircraft towing tractors, aircraft weapon loaders, ground support and handling equipment, tank transportation trailers, milrail wagons, rocket motor casings for missiles, airborne structures and assemblies, and construction equipment for the defense and aerospace industries. It also provides bulldozers, dump trucks, excavators, shovels/walking dragline, water sprinklers, motor graders, loaders, pipe layers, wheeled dozers, and tyre handlers to the mining and construction industries. In addition, the company offers metro cars, electrical multiple units, maintenance vehicles, passenger trains, steel and aluminum wagons, and treasury vans to the rail and metro industries. Further, it exports its products. The company was formerly known as Bharat Earth Movers Limited. BEML Limited was incorporated in 1964 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 16562.85,
-  "pe_ratio": 27.84,
+  "market_cap_cr": 16915.16,
+  "pe_ratio": 28.44,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 352.25,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:40:08.579064",
-  "provider_reported_pb_ratio": 5.65,
-  "statements_retrieved_at": "2026-11-01T06:40:08.579064",
+  "retrieval_time": "2026-11-02T23:02:12.050404",
+  "provider_reported_pb_ratio": 5.77,
+  "statements_retrieved_at": "2026-11-02T23:02:12.050404",
   "retained_fields": []
 }

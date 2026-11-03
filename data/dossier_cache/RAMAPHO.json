@@ -5,8 +5,8 @@
   "industry": "Agricultural Inputs",
   "business_summary": "Rama Phosphates Limited manufactures and sales phosphatic fertilizers, chemicals, soya, and micronutrients in India. The company offers powder and granular single super phosphate fertilizers; various grades of nitrogen phosphorus potash mixed fertilizers; fortified fertilizers, such as boronated and zincated single super phosphate fertilizers, and zincated boronated GSSP; potash derived from molasses and boron; water soluble fertilizers, calcium nitrate, and sulphur DP; micronutrients; water-soluble fertilizers; phospho gypsum and mixed micronutrients. It also provides chemicals comprising sulphuric acid, soya oil, oleum, sodium silico fluoride, Labsa, and chlorosulphonic acid; and edible soya, lecithin, and soya de oiled cakes. It offers its products under the Girnar, Suryaphool, and Sampurn brand names. Rama Phosphates Limited was incorporated in 1984 and is headquartered in Mumbai, India. Rama Phosphates Limited is a subsidiary of Silver Eagle Inc.",
   "business_summary_reason": null,
-  "market_cap_cr": 364.69,
-  "pe_ratio": 6.79,
+  "market_cap_cr": 367.49,
+  "pe_ratio": 6.84,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 119.39,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:17:40.985792",
-  "provider_reported_pb_ratio": 0.86,
-  "statements_retrieved_at": "2026-11-01T07:17:40.985792",
+  "retrieval_time": "2026-11-02T23:42:01.168937",
+  "provider_reported_pb_ratio": 0.87,
+  "statements_retrieved_at": "2026-11-02T23:42:01.168937",
   "retained_fields": []
 }

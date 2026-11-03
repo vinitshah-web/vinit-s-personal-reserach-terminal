@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "Viviana Power Tech Limited engages in power transmission, distribution, and industrial engineering, procurement, and construction (EPC) space project businesses in India. The company offers a range of services, such as supply, erection, testing, and commissioning of power transmission lines and EHV substations, power distribution networks; distribution network establishment; underground cable laying; and liaison services for government authorities and utilities. It is also involved in the upgradation and modification of existing power systems; manufacturing transformers; and real estate development. The company was incorporated in 2014 and is headquartered in Vadodara, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 713.04,
-  "pe_ratio": 12.78,
+  "market_cap_cr": 761.23,
+  "pe_ratio": 13.64,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 107.49,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:33:31.572398",
-  "provider_reported_pb_ratio": 6.55,
-  "statements_retrieved_at": "2026-11-01T07:33:31.572398",
+  "retrieval_time": "2026-11-02T23:58:33.760178",
+  "provider_reported_pb_ratio": 6.99,
+  "statements_retrieved_at": "2026-11-02T23:58:33.760178",
   "retained_fields": []
 }

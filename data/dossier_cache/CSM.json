@@ -5,8 +5,8 @@
   "industry": "Information Technology Services",
   "business_summary": "CSM Technologies Limited provides information technology (IT) consulting and software development services in India and internationally. The company specializes in providing government technology solutions and digital transformation services. The company also engages in designing, developing, and implementing e-governance platforms and digital infrastructure, as well as operates as a long-term digital transformation partner to government agencies. In addition, it offers technology solutions across sectors such as mining and allied services, government & public services, agriculture and allied services, industry and trade facilitation, education, healthcare, and tourism. Additionally, the company offers consulting and advisory services and provides self-service technologies that enable government organizations and corporate clients to migrate, automate, and manage customer-facing business processes through self-service channels. Further, it offers projects focused on the development of public digital infrastructure and implementation of e-governance platforms across various economic and social sectors, as well as AI and allied services; data and analytics; engineering, application and transformation; and IT facilities, cybersecurity, and partner services. CSM Technologies Limited was founded in 1998 and is based in Bhubaneswar, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 412.67,
-  "pe_ratio": 18.05,
+  "market_cap_cr": 433.57,
+  "pe_ratio": 18.97,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 26.53,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:44:48.242609",
-  "provider_reported_pb_ratio": 3.01,
-  "statements_retrieved_at": "2026-11-01T06:44:48.242609",
+  "retrieval_time": "2026-11-02T23:07:15.178340",
+  "provider_reported_pb_ratio": 3.17,
+  "statements_retrieved_at": "2026-11-02T23:07:15.178340",
   "retained_fields": []
 }

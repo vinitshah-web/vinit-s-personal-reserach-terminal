@@ -5,8 +5,8 @@
   "industry": "Specialty Business Services",
   "business_summary": "Krystal Integrated Services Limited provides integrated and technical facility management, staffing, payroll and solid and liquid waste management, private security, manned guarding, solar EPC, and catering services in India. It operates through the Manpower and Related Service, Catering Service, and Information Technology Enabled Services segments. The company offers housekeeping, janitorial, disinfection and sanitation, landscaping, industrial and commercial cleaning, pest control, and hygiene services; mechanical, electrical, and plumbing (MEP) maintenance services; solid, liquid and biomedical waste management, fa\u00e7ade cleaning, HVAC maintenance, fire safety system inspections, and other engineering services; and warehouse management, and airport management services, including airport housekeeping, multi-level parking management, and airport traffic management services. It also provides staffing and payroll management services, such as recruitment, payroll processing, temporary staffing, and executive search; production support for manufacturing, logistics, and material handling operations; surveillance, access control, security audits, event security, and traffic management services; hygienic and nutritious food services; waste management solutions, including effluent treatment, CETP development, bio-mining of legacy waste, and Zero Liquid Discharge technologies; level maintenance, HVAC and AHU maintenance, fire, smoke and carbon monoxide detection systems, automated firefighting systems, and electrical systems; event management and beverage services; and specialised cleaning, maintenance, and allied home services. The company serves healthcare, education, public administration, airports, railways, metro infrastructure, manufacturing, entertainment, commercial spaces, and retail industries. The company was incorporated in 2000 and is based in Mumbai, India. Krystal Integrated Services Limited operates as a subsidiary of Krystal Family Holdings Private Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 790.67,
-  "pe_ratio": 12.88,
+  "market_cap_cr": 781.31,
+  "pe_ratio": 12.73,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 357.25,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:03:11.091393",
-  "provider_reported_pb_ratio": 1.58,
-  "statements_retrieved_at": "2026-11-01T07:03:11.091393",
+  "retrieval_time": "2026-11-02T23:26:38.851685",
+  "provider_reported_pb_ratio": 1.57,
+  "statements_retrieved_at": "2026-11-02T23:26:38.851685",
   "retained_fields": []
 }

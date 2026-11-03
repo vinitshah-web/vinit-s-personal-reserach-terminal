@@ -5,8 +5,8 @@
   "industry": "Asset Management",
   "business_summary": "Lakshmi Finance & Industrial Corporation Limited, a non-banking finance company, invests in equity shares, mutual funds, and other securities in India. The company was formerly known as The Andhra Bank Ltd. and changed its name to Lakshmi Finance & Industrial Corporation Limited in April 1980. The company was incorporated in 1923 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 35.03,
-  "pe_ratio": 25.44,
+  "market_cap_cr": 35.46,
+  "pe_ratio": 25.75,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 190.82,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:04:03.514034",
-  "provider_reported_pb_ratio": 0.61,
-  "statements_retrieved_at": "2026-11-01T07:04:03.514034",
+  "retrieval_time": "2026-11-02T23:27:32.764611",
+  "provider_reported_pb_ratio": 0.62,
+  "statements_retrieved_at": "2026-11-02T23:27:32.764611",
   "retained_fields": []
 }

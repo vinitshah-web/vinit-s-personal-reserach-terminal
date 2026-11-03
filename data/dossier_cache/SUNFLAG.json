@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "Sunflag Iron and Steel Company Limited manufactures and sells steel rolled products in India and internationally. The company offers super alloys, tool steels, SSR 550, spring steels, free cutting steels, forging steels, forging ingots, microalloyed steels, engine value steels, cold forging steels, and bearing steels. It also provides flat steel, round bars and coils, rolled bars and wires, round cornered squares, and hexagonal steel products. The company's products are used for automobile, general engineering, machinery, projects, railway, defence, and construction applications. Sunflag Iron and Steel Company Limited was incorporated in 1984 and is headquartered in Nagpur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 7063.7,
-  "pe_ratio": 34.32,
+  "market_cap_cr": 7073.61,
+  "pe_ratio": 34.37,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 491.91,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:26:59.281407",
+  "retrieval_time": "2026-11-02T23:51:46.423667",
   "provider_reported_pb_ratio": 0.8,
-  "statements_retrieved_at": "2026-11-01T07:26:59.281407",
+  "statements_retrieved_at": "2026-11-02T23:51:46.423667",
   "retained_fields": []
 }

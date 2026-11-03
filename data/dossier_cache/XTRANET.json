@@ -5,8 +5,8 @@
   "industry": "Information Technology Services",
   "business_summary": "Xtranet Technologies Limited provides integrated information technology solutions. It offers enterprise applications, digital services, managed services, proprietary platforms, and technology partnerships for clients across industries and geographies. The company's IT system integration services include network and security solutions, virtualization and cloud integration, infrastructure management services, testing, commissioning, and training, data centre, and application development and maintenance; managed services include infrastructure management; and digital services include digital transformation, AI, IoT, cloud, and blockchain; and proprietary platform comprise synergy low-code digital transformation. Xtranet Technologies Limited was incorporated in 2002 and is headquartered in Bhopal, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1476.03,
-  "pe_ratio": 34.47,
+  "market_cap_cr": 1520.99,
+  "pe_ratio": 35.52,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 34.74,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:34:56.144191",
-  "provider_reported_pb_ratio": 8.13,
-  "statements_retrieved_at": "2026-11-01T07:34:56.144191",
+  "retrieval_time": "2026-11-03T00:00:03.989348",
+  "provider_reported_pb_ratio": 8.37,
+  "statements_retrieved_at": "2026-11-03T00:00:03.989348",
   "retained_fields": []
 }

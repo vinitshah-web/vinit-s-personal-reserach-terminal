@@ -5,7 +5,7 @@
   "industry": "Furnishings, Fixtures & Appliances",
   "business_summary": "Symphony Limited, together with its subsidiaries, manufactures and trades in air coolers and other appliances under the Symphony brand for residential, commercial, and industrial customers in India and internationally. The company offers household coolers, such as desert, room, personal, and spot; air cooler; industrial air coolers; portable cooler; commercial coolers; large space venti-cooling; tower fans; and water heaters, including spa, sauna, and soul geysers. The company was formerly known as Symphony Comfort Systems Limited and changed its name to Symphony Limited in March 2010. Symphony Limited was founded in 1939 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3370.74,
+  "market_cap_cr": 3451.77,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:27:56.572414",
-  "provider_reported_pb_ratio": 6.18,
-  "statements_retrieved_at": "2026-11-01T07:27:56.572414",
+  "retrieval_time": "2026-11-02T23:52:45.283021",
+  "provider_reported_pb_ratio": 6.33,
+  "statements_retrieved_at": "2026-11-02T23:52:45.283021",
   "retained_fields": []
 }

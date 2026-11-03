@@ -5,7 +5,7 @@
   "industry": "Software - Application",
   "business_summary": "SecureKloud Technologies Limited provides information and technology services in India and the United States. It provides cloud automation data platform, an unified platform for cloud and data transformation; custom LLM integration, enterprise AI co-pilots, AI content generation, document intelligence, conversational AI, and AI app development; robotic process automation services, including end-to-end RPA implementation, AI-augmented RPA, cloud-ready and scalable bot's, and bot lifecycle management; and machine learning services, such as ML model development, ML strategy and consulting, ML as a service (MLaaS), MLOps and model monitoring, and responsible AI enablement. The company also provides AI-fication of applications, end-to-end application modernization, cloud-native and scalable architectures, data-driven transformation, seamless CI/CD and DevOps enablement, and UI/UX with AI personalization; cybersecurity services; blockchain services; cloud managed services; and professional staffing services. It serves Healthcare organizations, manufacturing, banking and financial, and logistics sectors. The company was formerly known as 8K Miles Software Services Limited and changed its name to SecureKloud Technologies Limited in January 2021. SecureKloud Technologies Limited was incorporated in 1985 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 49.15,
+  "market_cap_cr": 51.02,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:21:57.594401",
-  "provider_reported_pb_ratio": -0.95,
-  "statements_retrieved_at": "2026-11-01T07:21:57.594401",
+  "retrieval_time": "2026-11-02T23:46:26.615689",
+  "provider_reported_pb_ratio": -0.99,
+  "statements_retrieved_at": "2026-11-02T23:46:26.615689",
   "retained_fields": []
 }

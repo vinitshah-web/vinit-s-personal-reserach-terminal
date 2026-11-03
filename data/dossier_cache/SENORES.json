@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - General",
   "business_summary": "Senores Pharmaceuticals Limited develops, manufactures, sells, and trades in pharmaceutical and allied products in India, the United States, the United Kingdom, Canada, and internationally. It offers pharmaceutical solutions, such as analgesic/antipyretic, anesthetics and allied products, antibacterial/antibiotic, antiviral, antifungal, antioxidants, antineoplastic, blood line, cardiovascular, neurology, antacid, and vitamin and mineral preparation solutions; and analgesic/anti-inflammatory/antipyretic, anti-diabetic, antimalarial, nutritional supplements, and urinary tract generics, as well as management and consultancy services. The company was incorporated in 2017 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 5222.02,
-  "pe_ratio": 37.24,
+  "market_cap_cr": 5156.16,
+  "pe_ratio": 36.77,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 202.72,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:22:07.414232",
-  "provider_reported_pb_ratio": 5.59,
-  "statements_retrieved_at": "2026-11-01T07:22:07.414232",
+  "retrieval_time": "2026-11-02T23:46:37.122741",
+  "provider_reported_pb_ratio": 5.52,
+  "statements_retrieved_at": "2026-11-02T23:46:37.122741",
   "retained_fields": []
 }

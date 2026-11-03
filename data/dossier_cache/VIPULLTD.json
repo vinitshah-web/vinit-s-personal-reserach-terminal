@@ -5,7 +5,7 @@
   "industry": "Real Estate - Diversified",
   "business_summary": "Vipul Limited engages in the development of real estate properties in India. The company's project portfolio includes a range of residential properties, such as integrated townships, villas, and lifestyle gated communities, as well as commercial and retail properties. The company was formerly known as Vipul Infrastructure Developers Ltd and changed its name to Vipul Limited in January 2006. Vipul Limited was incorporated in 1991 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 123.06,
+  "market_cap_cr": 124.61,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:33:16.030791",
+  "retrieval_time": "2026-11-02T23:58:17.635784",
   "provider_reported_pb_ratio": 0.34,
-  "statements_retrieved_at": "2026-11-01T07:33:16.030791",
+  "statements_retrieved_at": "2026-11-02T23:58:17.635784",
   "retained_fields": []
 }

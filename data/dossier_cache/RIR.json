@@ -5,15 +5,15 @@
   "industry": "Semiconductors",
   "business_summary": "Rir Power Electronics Limited engages in the manufacture and sale of power semiconductor devices and high-power equipment in India. It offers semiconductor devices, including phase control and inverter grade thyristors, and standard and fast recovery diodes; power modules, such as high voltage modules, diode bridge rectifiers and modules, and IGBT and power modules; power equipment, such as power rectifiers, battery chargers, power stacks and assemblies, AC voltage regulators, and universal control cards; and green hydrogen solutions for green hydrogen production, electrochlorination, and refinery electrolysis projects, as well as Si thyristors and diodes, silicon carbide (SiC) MOSFETs and diodes, intelligent power modules, and equipment. The company's products are used in various industrial applications, such as railways, induction furnace, electricity and power generation, engineering, water treatment, metals, defense, automobiles, oil and gas plants, welding equipment, aviation sectors, etc. It also exports its products. The company was formerly known as Ruttonsha International Rectifier Ltd. and changed its name to Rir Power Electronics Limited in November 2022. Rir Power Electronics Limited was incorporated in 1969 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1051.55,
-  "pe_ratio": 111.99,
+  "market_cap_cr": 1072.87,
+  "pe_ratio": 114.26,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 18.8,
-  "dividend_yield_pct": 0.0727,
+  "dividend_yield_pct": 0.0757,
   "shares_outstanding_cr": 7.9572,
   "fifty_two_week_high": 213.94,
-  "fifty_two_week_low": 131.21,
+  "fifty_two_week_low": 130.93,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:18:55.641187",
-  "provider_reported_pb_ratio": 7.03,
-  "statements_retrieved_at": "2026-11-01T07:18:55.641187",
+  "retrieval_time": "2026-11-02T23:43:14.333169",
+  "provider_reported_pb_ratio": 7.17,
+  "statements_retrieved_at": "2026-11-02T23:43:14.333169",
   "retained_fields": []
 }

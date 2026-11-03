@@ -5,8 +5,8 @@
   "industry": "Lumber & Wood Production",
   "business_summary": "Greenply Industries Limited, an interior infrastructure company, engages in the manufacture, sale, and trading of plywood and allied products in India and internationally. The company provides plywood, medium density fibreboard, WPC/PVC boards, frame and doors, flooring boards, pre-laminated boards, blockboards, decorative veneers, flush doors, and allied interior products under Green, Ecotec, Optima G, Green Ndure, Wood Crest, Greenply MDF, and Club Crests brand names. It operates through a network of distributors, dealers, and retailers. The company was formerly known as Mittal Laminates Private Limited and changed its name to Greenply Industries Limited in 1995. Greenply Industries Limited was founded in 1984 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3530.98,
-  "pe_ratio": 35.74,
+  "market_cap_cr": 3306.16,
+  "pe_ratio": 33.46,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 77.75,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:53:21.033446",
-  "provider_reported_pb_ratio": 3.64,
-  "statements_retrieved_at": "2026-11-01T06:53:21.033446",
+  "retrieval_time": "2026-11-02T23:16:16.255815",
+  "provider_reported_pb_ratio": 3.4,
+  "statements_retrieved_at": "2026-11-02T23:16:16.255815",
   "retained_fields": []
 }

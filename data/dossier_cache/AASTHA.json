@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Aastha Spintex Limited manufactures and trades in cotton yarns and bales for knitting and weaving applications in India. The company offers carded, FLAT, combed, and compact combed cotton yarns; and cotton waste by-products, such as comber, licker-in, and hard waste and cotton seeds. Its products are used in denim, terry towels, shirting, sheeting, sweaters, socks, bottom wear, home textiles, and industrial fabrics. The company also exports its products. Aastha Spintex Limited was incorporated in 2013 and is based in Surendranagar, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 198.82,
-  "pe_ratio": 8.37,
+  "market_cap_cr": 201.29,
+  "pe_ratio": 8.48,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 19.69,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:32:42.895101",
-  "provider_reported_pb_ratio": 1.14,
-  "statements_retrieved_at": "2026-11-01T06:32:42.895101",
+  "retrieval_time": "2026-11-02T22:54:24.152378",
+  "provider_reported_pb_ratio": 1.16,
+  "statements_retrieved_at": "2026-11-02T22:54:24.152378",
   "retained_fields": []
 }

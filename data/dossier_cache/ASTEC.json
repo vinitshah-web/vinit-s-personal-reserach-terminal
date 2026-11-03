@@ -5,7 +5,7 @@
   "industry": "Agricultural Inputs",
   "business_summary": "Astec LifeSciences Limited, together with its subsidiaries, manufactures and sells agrochemical active ingredients and pharmaceutical intermediates in India. The company provides triazole fungicides for use in field crops; foliar treatment for the control of scab, powdery mildew, shot-hole, blossom blight, and rust; seed treatment for the control of seed and soil-borne diseases in cotton and maize, as well as grains, such as barley, rice, and wheat; post-harvest drench; and food additive and wood preservatives. It also provides herbicides, insecticides, and agrochemical intermediates. The company also exports its products. Further, it offers contract development and manufacturing operations. The company was incorporated in 1994 and is based in Mumbai, India. Astec LifeSciences Limited operates as a subsidiary of Godrej Agrovet Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 1215.61,
+  "market_cap_cr": 1222.29,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:37:38.001299",
-  "provider_reported_pb_ratio": 3.63,
-  "statements_retrieved_at": "2026-11-01T06:37:38.001299",
+  "retrieval_time": "2026-11-02T22:59:32.908934",
+  "provider_reported_pb_ratio": 3.65,
+  "statements_retrieved_at": "2026-11-02T22:59:32.908934",
   "retained_fields": []
 }

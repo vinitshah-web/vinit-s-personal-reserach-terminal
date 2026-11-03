@@ -5,7 +5,7 @@
   "industry": "Confectioners",
   "business_summary": "Simbhaoli Sugars Limited primarily manufactures and sells sugar in India. The company operates through Sugar and Alcohol segments. It produces sugar under the TRUST brand name; spirit and liquor; denatured spirit; bagasse; molasses; extra neutral alcohol (ENA); ethanol; brown mineral and coffee sugar, and jaggery and jaggery powder under the Sunehra brand; and cane sugar under the G-Low brand. The company also provides powdered fruit drink mixes and coconut water under the SIPP brand; hand sanitizers and multi surface disinfectants under the TRUST brand; and organic bio-manures, bio-compost, plant nutrients, plant growth regulators, and herbicides under the SOM brand name. In addition, it offers logistics and transport services; agriculture advisory services; and technology and engineering consulting services, as well as trades ENA and corogen and others. Further, the company operates co-generation power plants to generate bio-mass based power. The company was founded in 1933 and is based in Noida, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 27.5,
+  "market_cap_cr": 26.99,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:24:27.016485",
+  "retrieval_time": "2026-11-02T23:49:04.349983",
   "provider_reported_pb_ratio": -0.15,
-  "statements_retrieved_at": "2026-11-01T07:24:27.016485",
+  "statements_retrieved_at": "2026-11-02T23:49:04.349983",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Software - Application",
   "business_summary": "Trejhara Solutions Limited provides supply chain software services in the India and internationally. It offers logistics and ancillary services, including freight forwarding and distribution solutions across various industries; operates as a freight forwarding agent and holds a multimodal transport operator (MTO) license; offers warehousing and technology-enabled supply chain management through its software platform \u0093SCMProFit; and engages in the business of organizing and managing exhibitions and trade fairs, and providing event management and related support services. The company was incorporated in 2017 and is headquartered in Navi Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 275.65,
-  "pe_ratio": 21.25,
+  "market_cap_cr": 272.16,
+  "pe_ratio": 20.98,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 130.48,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:30:26.580161",
-  "provider_reported_pb_ratio": 0.88,
-  "statements_retrieved_at": "2026-11-01T07:30:26.580161",
+  "retrieval_time": "2026-11-02T23:55:20.917594",
+  "provider_reported_pb_ratio": 0.86,
+  "statements_retrieved_at": "2026-11-02T23:55:20.917594",
   "retained_fields": []
 }

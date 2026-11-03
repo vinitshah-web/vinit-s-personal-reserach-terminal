@@ -5,8 +5,8 @@
   "industry": "Real Estate - Development",
   "business_summary": "Ashiana Housing Limited, through its subsidiaries, engages in the real estate development business in India. The company develops senior living, kid centric, premium, and elite homes. It also engages in the identification and acquisition of land; planning, designing, construction, and marketing of its projects; and provision of facilities management services, including identification of third-party lessees/buyers. In addition, the company provides rental and resale services for properties. Further, it operates hotels and clubs, which include rooms, a restaurant, banquets, and other services. The company was formerly known as Ashiana Housing & Finance India Ltd and changed its name to Ashiana Housing Limited in May 2007. Ashiana Housing Limited was founded in 1979 and is headquartered in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3387.19,
-  "pe_ratio": 27.99,
+  "market_cap_cr": 3534.45,
+  "pe_ratio": 29.2,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 90.58,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:37:16.855998",
-  "provider_reported_pb_ratio": 3.72,
-  "statements_retrieved_at": "2026-11-01T06:37:16.855998",
+  "retrieval_time": "2026-11-02T22:59:11.694661",
+  "provider_reported_pb_ratio": 3.88,
+  "statements_retrieved_at": "2026-11-02T22:59:11.694661",
   "retained_fields": []
 }

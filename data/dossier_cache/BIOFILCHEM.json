@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Biofil Chemicals and Pharmaceuticals Limited engages in the manufacturing and trading of pharmaceutical products in India. It operates through Pharma and Chemical segments. The company offers basic drugs and chemicals, including sodium chloride, potassium chloride, sodium citrate, diethyl carbamazine citrate, ferrous sulphate, dried ferrous sulphate, ferrus fumerate, micro crystalline cellulose, and dicyclomine hydrochloride. It also provides ferrous sulphate in crystal, exsiccated, and granular form; microcrystalline cellulose powder; cellulose powder; calcium carbonate; and sodium chloride. In addition, the company offers job work facility for manufacturing of pharmaceuticals drug. Biofil Chemicals and Pharmaceuticals Limited was founded in 1985 and is based in Indore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 46.67,
-  "pe_ratio": 168.71,
+  "market_cap_cr": 47.31,
+  "pe_ratio": 171.0,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 13.21,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:40:46.652958",
-  "provider_reported_pb_ratio": 2.17,
-  "statements_retrieved_at": "2026-11-01T06:40:46.652958",
+  "retrieval_time": "2026-11-02T23:02:53.250203",
+  "provider_reported_pb_ratio": 2.2,
+  "statements_retrieved_at": "2026-11-02T23:02:53.250203",
   "retained_fields": []
 }

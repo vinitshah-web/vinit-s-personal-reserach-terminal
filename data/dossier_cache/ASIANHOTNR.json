@@ -5,7 +5,7 @@
   "industry": "Lodging",
   "business_summary": "Asian Hotels (North) Limited engages in the hospitality/hotel business in India. The company owns and operates Hyatt Regency Delhi, a five-star deluxe hotel, including rooms and suites, a spa, a unisex salon, a fitness center, restaurants, lounge bars, and an outdoor swimming pool in New Delhi. It also engages in the real estate business. Asian Hotels (North) Limited was incorporated in 1980 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1325.89,
+  "market_cap_cr": 1293.71,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:37:27.504443",
-  "provider_reported_pb_ratio": 1.22,
-  "statements_retrieved_at": "2026-11-01T06:37:27.504443",
+  "retrieval_time": "2026-11-02T22:59:22.360500",
+  "provider_reported_pb_ratio": 1.19,
+  "statements_retrieved_at": "2026-11-02T22:59:22.360500",
   "retained_fields": []
 }

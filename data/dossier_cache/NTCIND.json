@@ -5,8 +5,8 @@
   "industry": "Tobacco",
   "business_summary": "ntc industries limited manufactures and sells cigarettes and tobacco products in India. The company offers matchboxes under the Regent brand name and incense sticks under the Agardeep brand name. The company sells tobacco products under the Loose Tabacco, GENERAL, Carlton, Derby, GOLDMANS, MACPOLE, Jaipur, Maypole, FX AMERICAN BLEND, Aadie, VALENTINO, PATRONCITO, El Patron, DOS, DOS II, and ROYAL KING brands. In addition, the company offers flue-cured virginia tobacco, a virginia tobacco or bright leaf. It also exports its products. The company was formerly known as RDB Industries Ltd and changed its name to ntc industries limited in March 2011. ntc industries limited was incorporated in 1931 and is headquartered in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 179.99,
-  "pe_ratio": 8.51,
+  "market_cap_cr": 179.37,
+  "pe_ratio": 8.48,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 144.57,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:12:12.502812",
-  "provider_reported_pb_ratio": 0.86,
-  "statements_retrieved_at": "2026-11-01T07:12:12.502812",
+  "retrieval_time": "2026-11-02T23:36:11.642710",
+  "provider_reported_pb_ratio": 0.85,
+  "statements_retrieved_at": "2026-11-02T23:36:11.642710",
   "retained_fields": []
 }

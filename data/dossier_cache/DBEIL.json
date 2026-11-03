@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "Deepak Builders & Engineers India Limited operates as an integrated engineering and construction company in India. It engages in the construction of luxury homes, flats, institutional buildings, education institutions, judicial complex, railways, commercial buildings, residential buildings/apartments, highways, hospitals, flyovers/ROB/RUB, museums/memorials, stadiums/sports complex, and undertakes development work. In addition, it executes turnkey projects comprising of architectural, structural, civil, mechanical, electrical, and plumbing works, HVAC, firefighting and fire alarm systems, public health services, information technology systems, modular operation theatres, medical gas pipeline systems, and external development works. The company was formerly known as Deepak Builders & Engineers India Private Limited and changed its name to Deepak Builders & Engineers India Limited in October 2022. Deepak Builders & Engineers India Limited was founded in 1990 and is based in Ludhiana, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 286.47,
-  "pe_ratio": 10.42,
+  "market_cap_cr": 287.87,
+  "pe_ratio": 10.47,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 9.55,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:45:18.583735",
-  "provider_reported_pb_ratio": 0.64,
-  "statements_retrieved_at": "2026-11-01T06:45:18.583735",
+  "retrieval_time": "2026-11-02T23:07:50.779158",
+  "provider_reported_pb_ratio": 0.65,
+  "statements_retrieved_at": "2026-11-02T23:07:50.779158",
   "retained_fields": []
 }

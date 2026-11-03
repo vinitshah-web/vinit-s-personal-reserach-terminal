@@ -5,8 +5,8 @@
   "industry": "Consumer Electronics",
   "business_summary": "LG Electronics India Limited manufactures and sells home appliances and consumer electronics in India, rest of Asia, Africa, Europe, the Middle East, South-Central America, and internationally. It operates in two segments, Home Appliances and Air Solution, and Home Entertainment. The Home Appliances and Air Solution segment offers refrigerators, washing machines, air conditioners, water purifiers, air purifiers, dishwashers, microwave ovens, and compressors and motors. The Home Entertainment segment provides televisions comprising flat panel, signage, projectors, monitor TV, etc., as well as vacuum cleaners, ceiling fan, monitor, audio visual, personal computer, and security camera. In addition, it offers installation, repair, and maintenance services; and after-sales services. The company sells its products through traditional stores, third parties under a franchise model, multi-brand outlets, distributors, sub-dealers, regional specialty stores, and modern trade outlets, as well as its website and e-commerce marketplaces. The company was incorporated in 1997 and is based in Noida, India. LG Electronics India Limited is a subsidiary of LG Electronics Inc.",
   "business_summary_reason": null,
-  "market_cap_cr": 112771.26,
-  "pe_ratio": 61.79,
+  "market_cap_cr": 114169.52,
+  "pe_ratio": 62.55,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 112.93,
@@ -48,8 +48,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:04:05.616662",
-  "provider_reported_pb_ratio": 14.71,
-  "statements_retrieved_at": "2026-11-01T07:04:05.616662",
+  "retrieval_time": "2026-11-02T23:27:35.119347",
+  "provider_reported_pb_ratio": 14.89,
+  "statements_retrieved_at": "2026-11-02T23:27:35.119347",
   "retained_fields": []
 }

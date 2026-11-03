@@ -5,8 +5,8 @@
   "industry": "Medical Instruments & Supplies",
   "business_summary": "GKB Ophthalmics Limited engages in the manufacture and sale of unfinished ophthalmic lenses in India and internationally. It offers semifinished organic lenses, such as single vision, bifocal, and progressive. The company was incorporated in 1981 and is based in Mapusa, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 29.39,
-  "pe_ratio": 9.07,
+  "market_cap_cr": 30.24,
+  "pe_ratio": 9.33,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 104.82,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:51:53.980811",
-  "provider_reported_pb_ratio": 0.56,
-  "statements_retrieved_at": "2026-11-01T06:51:53.980811",
+  "retrieval_time": "2026-11-02T23:14:45.566832",
+  "provider_reported_pb_ratio": 0.57,
+  "statements_retrieved_at": "2026-11-02T23:14:45.566832",
   "retained_fields": []
 }

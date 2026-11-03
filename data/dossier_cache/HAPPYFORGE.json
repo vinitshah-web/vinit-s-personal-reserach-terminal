@@ -5,8 +5,8 @@
   "industry": "Metal Fabrication",
   "business_summary": "Happy Forgings Limited manufactures and sells forgings and machined components for the automotive and industrial sectors in India and internationally. The company offers crankshafts; differential cases; front axle beams and steering knuckles; railway parts, including camshafts, connecting rods, piston pins, spacers, and others; brake flanges and suspension brackets; and transmission parts, such as shafts and spindles, crown wheels and pinions, and rings. It also offers windmill application products, including planet carrier, pinion shaft, and housing; oil and gas components, such as valve body; and bicycle pedals. It serves the original equipment manufacturers, manufacturers of commercial and passenger vehicles, farm equipment, and off highway and industrial equipment, as well as machinery for oil and gas, aerospace, power generation, railways, and wind turbine industries. Happy Forgings Limited was incorporated in 1979 and is based in Ludhiana, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 16503.21,
-  "pe_ratio": 50.53,
+  "market_cap_cr": 16545.69,
+  "pe_ratio": 50.66,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 225.56,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:54:36.362916",
-  "provider_reported_pb_ratio": 7.75,
-  "statements_retrieved_at": "2026-11-01T06:54:36.362916",
+  "retrieval_time": "2026-11-02T23:17:36.703165",
+  "provider_reported_pb_ratio": 7.77,
+  "statements_retrieved_at": "2026-11-02T23:17:36.703165",
   "retained_fields": []
 }

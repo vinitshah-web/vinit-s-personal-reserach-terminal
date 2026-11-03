@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Munjal Auto Industries Limited manufactures and sells auto components for motor vehicles in India. It operates through Auto Components and Composite Products & Moulds segments. The company offers cross bars, exhaust systems, steel and spoke wheel rim, and accessories; and complete assembly including BIW parts, B&C pillars, cross car beam, battery tray, control arm, and tie end bars, as well as accelerator, brake, and clutch. It also provides fuel tank and BIW assemblies; and sheet metal components, such as mild and stainless-steel parts, welded and tri-nickel chrome plated components, liquid painted oven baked and heat resistant painted parts, tubular components, and roll formed parts. Munjal Auto Industries Limited was incorporated in 1985 and is based in Gurugram, India. Munjal Auto Industries Limited is a subsidiary of Thakurdevi Investments Private Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 974.1,
-  "pe_ratio": 19.4,
+  "market_cap_cr": 997.0,
+  "pe_ratio": 19.86,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 44.76,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:09:47.013581",
-  "provider_reported_pb_ratio": 2.18,
-  "statements_retrieved_at": "2026-11-01T07:09:47.013581",
+  "retrieval_time": "2026-11-02T23:33:40.519313",
+  "provider_reported_pb_ratio": 2.23,
+  "statements_retrieved_at": "2026-11-02T23:33:40.519313",
   "retained_fields": []
 }

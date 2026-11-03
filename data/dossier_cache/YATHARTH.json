@@ -5,8 +5,8 @@
   "industry": "Medical Care Facilities",
   "business_summary": "Yatharth Hospital & Trauma Care Services Limited, together with its subsidiaries, owns and operates super-specialty hospitals in India. The company offers services in the areas of medicine, cardiology, neurosciences, general surgery, nephrology and urology, pediatrics, gastroenterology, pulmonology, gynecology, orthopedics, spine and rheumatology, plastic and cosmetic surgery, ear, nose, throat, endocrinology, critical care, dermatology, nuclear medicine, and cancer and bone marrow transplant. It also provides services in the areas of GI surgery and liver transplant, robotic surgery, kidney transplant, IVF and fertility, emergency medicine, ophthalmology, dentistry, psychology and psychiatry, physiotherapy and rehabilitation, anesthesiology, radiology, pathology and laboratory medicine, nutrition and health, interventional spine and pain medicine, and transfusion medicine and cellular therapy. In addition, the company sells medicines, as well as provide cafeteria services. The company was incorporated in 2008 and is based in Noida, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 8931.09,
-  "pe_ratio": 49.3,
+  "market_cap_cr": 9041.89,
+  "pe_ratio": 49.91,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 184.73,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:35:00.461139",
-  "provider_reported_pb_ratio": 5.02,
-  "statements_retrieved_at": "2026-11-01T07:35:00.461139",
+  "retrieval_time": "2026-11-03T00:00:08.814158",
+  "provider_reported_pb_ratio": 5.08,
+  "statements_retrieved_at": "2026-11-03T00:00:08.814158",
   "retained_fields": []
 }

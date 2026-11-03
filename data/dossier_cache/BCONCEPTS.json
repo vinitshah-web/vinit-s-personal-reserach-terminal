@@ -5,8 +5,8 @@
   "industry": "Footwear & Accessories",
   "business_summary": "Brand Concepts Limited manufactures and retails bags, travel gear, and fashion accessories in India and internationally. It offers travel gears, such as luggage trolleys, backpacks, business cases, overnighter, crossbody, duffels/gym bags, messenger bags, reporter and rucksacks, gift sets, and reporter bags; clutches, wallets, totes, satchels, and handbags for women; and small leather goods for men comprising belts and wallets, as well as socks under the Superdry, Juicy Couture, Off White, Tommy Hilfiger Travel Gear, United Colors of Benetton, Sugarush, Aeropostale, and The Vertical brands. The company sells its products through brand outlets, bagline stores, large-format retailers, multi-brand outlets, institutional sales and leading e-commerce platforms, including Bagline.com. Brand Concepts Limited was incorporated in 2007 and is based in Indore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 172.69,
-  "pe_ratio": 177.37,
+  "market_cap_cr": 170.38,
+  "pe_ratio": 175.0,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 66.41,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:39:55.137002",
-  "provider_reported_pb_ratio": 2.08,
-  "statements_retrieved_at": "2026-11-01T06:39:55.137002",
+  "retrieval_time": "2026-11-02T23:01:57.505624",
+  "provider_reported_pb_ratio": 2.06,
+  "statements_retrieved_at": "2026-11-02T23:01:57.505624",
   "retained_fields": []
 }

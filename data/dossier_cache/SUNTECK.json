@@ -5,8 +5,8 @@
   "industry": "Real Estate - Development",
   "business_summary": "Sunteck Realty Limited, together with its subsidiaries, engages in real estate construction and development in India. The company develops residential, office spaces, commercial and retail, and mixed-use properties under the Signature Island, Signia Isles, Signia Pearl, Sunteck Crescent Park, Sunteck Sky Park, Sunteck City, Sunteck World, and Sunteck Beach Residence names. It also leases real estate properties and provides incidental services. The company was incorporated in 1981 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4115.25,
-  "pe_ratio": 18.94,
+  "market_cap_cr": 4178.39,
+  "pe_ratio": 18.78,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 251.57,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:27:07.112767",
-  "provider_reported_pb_ratio": 1.11,
-  "statements_retrieved_at": "2026-11-01T07:27:07.112767",
+  "retrieval_time": "2026-11-02T23:51:54.475253",
+  "provider_reported_pb_ratio": 1.13,
+  "statements_retrieved_at": "2026-11-02T23:51:54.475253",
   "retained_fields": []
 }

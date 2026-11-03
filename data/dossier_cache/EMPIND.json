@@ -5,15 +5,15 @@
   "industry": "Conglomerates",
   "business_summary": "Empire Industries Limited engages in manufacturing and selling of container glass, trading in frozen food, and indenting and property development businesses in India and internationally. The company manufactures and sells amber glass bottles for the pharmaceutical industry. It also offers heavy-duty and high precision portal milling machines, mill turn centers, high precision five axis machining centers, horizontal boring machines, gear cutting machines, grinding machines for cylindrical and profile applications, center less grinding machines, special application grinding centers, and high precision and profile broaching machines for defense, railways, heavy engineering, automobile, tool rooms, steel, fabricators, machine tools manufacturers, and aerospace and aircraft, as well as energy and power industries. In addition, the company provides consultancy services to oil and gas, steel and metallurgy, ports, and shipyard; and packaged solutions for fuel storage tanks and terminals, fire and safety equipment and systems, SMART CITY initiatives, renewable power, and water and waste management industries. Further, it offers vending machines that offer snacks, beverages, perishables, stationery, coins, sanitary pads, personal care products, and PPE's under the GRABBIT+ brand; markets and distributes frozen and chilled food, including marine food and meat products to hotels, restaurants, catering, and retail chains; builds and manages flexible and customized furnished offices, and meeting and conference room facilities, as well as provides business support services; owns commercial properties and IT spaces; and develops property for micro, small, and medium enterprises, as well as residential complexes. The company was incorporated in 1900 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 562.5,
-  "pe_ratio": 10.03,
+  "market_cap_cr": 555.3,
+  "pe_ratio": 9.9,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 585.86,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 0.6,
   "fifty_two_week_high": 1248.0,
-  "fifty_two_week_low": 921.7,
+  "fifty_two_week_low": 917.55,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:48:36.916727",
-  "provider_reported_pb_ratio": 1.6,
-  "statements_retrieved_at": "2026-11-01T06:48:36.916727",
+  "retrieval_time": "2026-11-02T23:11:18.395650",
+  "provider_reported_pb_ratio": 1.58,
+  "statements_retrieved_at": "2026-11-02T23:11:18.395650",
   "retained_fields": []
 }

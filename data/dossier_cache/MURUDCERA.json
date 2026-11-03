@@ -5,8 +5,8 @@
   "industry": "Building Products & Equipment",
   "business_summary": "Murudeshwar Ceramics Ltd. manufactures and trades in ceramic and vitrified floor and wall tiles in India, the Americas, Europe, and internationally. The company offers wall tiles, such as bathroom, kitchen, and outdoor tiles; digital wall tiles; and floor tiles, including glazed and polished glazed vitrified, double charge, soluble salt, full body, and exterior tiles under the Naveen Ceramic Tiles and Naveen Diamontile brands. Murudeshwar Ceramics Ltd. was incorporated in 1983 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 160.26,
-  "pe_ratio": 16.14,
+  "market_cap_cr": 160.51,
+  "pe_ratio": 16.16,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 72.02,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:09:49.371049",
+  "retrieval_time": "2026-11-02T23:33:42.881328",
   "provider_reported_pb_ratio": 0.37,
-  "statements_retrieved_at": "2026-11-01T07:09:49.371049",
+  "statements_retrieved_at": "2026-11-02T23:33:42.881328",
   "retained_fields": []
 }

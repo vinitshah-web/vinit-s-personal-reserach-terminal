@@ -5,8 +5,8 @@
   "industry": "Real Estate - Development",
   "business_summary": "Alembic Limited engages in real estate business in India and internationally. It operates through Active Pharmaceutical Ingredient (API) and Real Estate segments. The company constructs residential and commercial real estate projects; provides project management and marketing consultancy services; and leases commercial properties. It also manufactures and markets fermentation and chemistry based active pharmaceutical ingredients; and research and development activities. In addition, the company is involved in power generation through co-generation plants and wind power sources. It serves individuals, entrepreneurs, corporates, business houses, HNIs, NRIs, and pharmaceutical companies. The company was incorporated in 1907 and is based in Vadodara, India. Alembic Limited is a subsidiary of Nirayu Pvt. Ltd.",
   "business_summary_reason": null,
-  "market_cap_cr": 2239.65,
-  "pe_ratio": 6.99,
+  "market_cap_cr": 2305.9,
+  "pe_ratio": 7.2,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 95.22,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:34:54.589155",
-  "provider_reported_pb_ratio": 0.92,
-  "statements_retrieved_at": "2026-11-01T06:34:54.589155",
+  "retrieval_time": "2026-11-02T22:56:44.972642",
+  "provider_reported_pb_ratio": 0.94,
+  "statements_retrieved_at": "2026-11-02T22:56:44.972642",
   "retained_fields": []
 }

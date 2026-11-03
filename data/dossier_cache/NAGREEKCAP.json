@@ -5,8 +5,8 @@
   "industry": "Asset Management",
   "business_summary": "Nagreeka Capital & Infrastructure Ltd. is a publicly owned investment manager. The firm invests in equity markets, private equity, mutual funds, real estate, and renewable energy. The firm was founded Nagreeka Securities Ltd. and changed its name to Nagreeka Software Technologies Limited in September 2001. Nagreeka Software Technologies Limited further changed its name to Nagreeka Capital & Infrastructure Ltd. in July 2006. Nagreeka Capital & Infrastructure Ltd. was founded in 1953 is based in Mumbai, India with an additional office in Kolkata, India. Nagreeka Capital & Infrastructure Ltd. operates independently of Nagreeka Exports Ltd. as of September 18, 2007.",
   "business_summary_reason": null,
-  "market_cap_cr": 29.76,
-  "pe_ratio": 4.03,
+  "market_cap_cr": 30.5,
+  "pe_ratio": 4.13,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 22.62,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:10:01.985437",
-  "provider_reported_pb_ratio": 1.04,
-  "statements_retrieved_at": "2026-11-01T07:10:01.985437",
+  "retrieval_time": "2026-11-02T23:33:56.032983",
+  "provider_reported_pb_ratio": 1.07,
+  "statements_retrieved_at": "2026-11-02T23:33:56.032983",
   "retained_fields": []
 }

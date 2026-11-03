@@ -5,8 +5,8 @@
   "industry": "Metal Fabrication",
   "business_summary": "Bharat Forge Limited engages in the manufacture and sale of forged and machined components in India and internationally. It operates through three segments: Forgings, Defence, and Others. The company offers automotive components comprising crankshafts, connecting rods, emission/after treatment, and fuel injection systems; chassis, such as front axle beams, steering knuckles, control arms, knuckle, forks, and reinforcement brackets; transmission and driveline components; and power generation components for thermal, hydro, and wind energy. It provides oil and gas forging products, such as subsea, surface, and drilling components; rail products, including engine and bogie components, turbochargers, and power electronics; and marine products that include propellers, marine motor, stern tube, crankshaft, conrod, piston rod, stock, trunk, and pintle. In addition, the company offers various components, such as turbochargers and superchargers, rotor assembly, and air cycle machine for land, marine, and aviation application; construction and mining products, including machined crankshafts, injector bodies, front spindles, and track links; and e-mobility, castings, and defense products. Further, it provides aerostructures, landing gear, and critical engine components. The company was incorporated in 1961 and is headquartered in Pune, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 84051.36,
-  "pe_ratio": 116.45,
+  "market_cap_cr": 85683.52,
+  "pe_ratio": 118.71,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 200.38,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:40:29.185399",
-  "provider_reported_pb_ratio": 8.58,
-  "statements_retrieved_at": "2026-11-01T06:40:29.185399",
+  "retrieval_time": "2026-11-02T23:02:34.078686",
+  "provider_reported_pb_ratio": 8.75,
+  "statements_retrieved_at": "2026-11-02T23:02:34.078686",
   "retained_fields": []
 }

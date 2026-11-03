@@ -5,8 +5,8 @@
   "industry": "Lodging",
   "business_summary": "EIH Associated Hotels Limited operates as a luxury hospitality company in India. The company offers hotel services, including accommodation, food and beverages, laundry, spa, guest transfer, membership, loyalty program, and other allied services. It operates the Oberoi Cecil hotel in Shimla and the Oberoi Rajvilas resort in Jaipur, as well as hotels under the Trident name in Bhubaneswar, Chennai, Jaipur, Udaipur, and Agra. The company serves individuals, groups and discerning travelers, corporate clients, travel agencies, and event managers. The company was formerly known as Oberoi Associated Hotels Limited and changed its name to EIH Associated Hotels Limited in November 1996. EIH Associated Hotels Limited was incorporated in 1983 and is based in Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1693.11,
-  "pe_ratio": 19.27,
+  "market_cap_cr": 1725.41,
+  "pe_ratio": 19.64,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 98.86,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:47:59.208767",
-  "provider_reported_pb_ratio": 2.81,
-  "statements_retrieved_at": "2026-11-01T06:47:59.208767",
+  "retrieval_time": "2026-11-02T23:10:39.760005",
+  "provider_reported_pb_ratio": 2.86,
+  "statements_retrieved_at": "2026-11-02T23:10:39.760005",
   "retained_fields": []
 }

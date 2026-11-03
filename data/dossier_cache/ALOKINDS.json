@@ -5,7 +5,7 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Alok Industries Limited manufactures and sells textile products in India and internationally. The company provides polyester yarns, including recycled drawn textured yarns (DTY), biodegradable DTY, specialty DTY, fully dyed yarn, polyester staple fiber, polyester chips, and partially oriented yarns; ring spun, gassed, two-for-one, and open-end yarns; apparel fabrics, such as piece dyed, yarn dyed, printed fabrics, and specialty fiber blends; and bed and bath home textiles comprising sheet sets, duvet sets, and quilts. It also offers garments, including shirts, dresses, nightwear, polos, t-shirts, boxers, blouses, and loungewear; textile accessories that consist of bags and handkerchiefs; technical textiles, such as fire-retardant solutions, high visibility fabrics, healthcare uniforms, camouflage defense fabrics, and workwear solutions; and corrugated packaging comprising corrugated boxes and textile tubes. The company was incorporated in 1986 and is based in Navi Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4011.91,
+  "market_cap_cr": 4051.64,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:35:09.763213",
+  "retrieval_time": "2026-11-02T22:57:00.016268",
   "provider_reported_pb_ratio": -0.18,
-  "statements_retrieved_at": "2026-11-01T06:35:09.763213",
+  "statements_retrieved_at": "2026-11-02T22:57:00.016268",
   "retained_fields": []
 }

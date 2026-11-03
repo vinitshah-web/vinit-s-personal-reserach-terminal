@@ -5,8 +5,8 @@
   "industry": "Metal Fabrication",
   "business_summary": "DCM Limited, together with its subsidiaries, provides information technology (IT) infrastructure services in India and internationally. It operates through Real Estate, Grey Iron Casting, IT Services, and Others segments. The company offers IT infrastructure services, such as networking, analytics, cloud, and digital technologies services. It also manufactures and supplies grey iron castings for the automotive market, such as cars, multi-utility vehicles, tractors, light commercial vehicles, heavy commercial vehicles, and earth moving equipment. In addition, the company develops real estate sites; and is involved in the textile business. The company was formerly known as Delhi Cloth & General Mills Co. Limited and changed its name to DCM Limited in October 1983. DCM Limited was incorporated in 1889 and is based in Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 141.6,
-  "pe_ratio": 114.86,
+  "market_cap_cr": 139.13,
+  "pe_ratio": 112.86,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 25.02,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:45:29.672894",
-  "provider_reported_pb_ratio": 3.03,
-  "statements_retrieved_at": "2026-11-01T06:45:29.672894",
+  "retrieval_time": "2026-11-02T23:08:02.339784",
+  "provider_reported_pb_ratio": 2.98,
+  "statements_retrieved_at": "2026-11-02T23:08:02.339784",
   "retained_fields": []
 }

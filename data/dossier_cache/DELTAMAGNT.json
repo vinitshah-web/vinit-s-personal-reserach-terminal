@@ -5,7 +5,7 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Delta Manufacturing Limited manufactures and sells hard ferrites, soft ferrites, textile woven labels, heat transfer labels, fabric printed labels, and elastic/woven tape in India and internationally. The company provides sector magnets for use in automotive magnetos and alternators; motor magnets for starter motors of automotive and motorcycles; ferrofluid-liquid magnets for applications in loudspeakers, electronic devices, mechanical engineering, aerospace, analytical instrumentation, biomedical, heat transfer-cooling, and display and education kits; and ring magnets for loudspeakers and lifting devices, etc. It also offers isotropic magnets for toys games and micro motors; low energy embedding powder magnets for use in bonded applications; and rare earth magnets that are used in electric vehicle drive motors, solar pumps, and drone motors. The company was formerly known as Delta Magnets Limited and changed its name to Delta Manufacturing Limited in October 2008. Delta Manufacturing Limited was incorporated in 1982 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 58.96,
+  "market_cap_cr": 59.08,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:45:56.341341",
-  "provider_reported_pb_ratio": 25.51,
-  "statements_retrieved_at": "2026-11-01T06:45:56.341341",
+  "retrieval_time": "2026-11-02T23:08:30.856513",
+  "provider_reported_pb_ratio": 25.56,
+  "statements_retrieved_at": "2026-11-02T23:08:30.856513",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Electrical Equipment & Parts",
   "business_summary": "Hirect Limited designs, develops, manufactures, and markets power semiconductors, power electronic equipment, and railway transportation equipment in India and internationally. The company provides traction and AUX transformers for railways, IGBT propulsion systems manufacturers and suppliers, auxillary converters and battery chargers, on-board AC to DC rectifiers systems, traction motor, electrical switch boards and railway equipments, electronic safety protection device for railways, rolling stock HVAC systems for railway, industrial electrostatic precipitator system manufacturer, high current rectifiers manufacturers, power quality improvement, and special rectifiers. It also provides servicing, AMC and erectioning, and commissioning services. Its products are used in electro static precipitator, electro chemicals, and other applications. The company was formerly know as Hind Rectifiers Limited and change its name to Hirect Limited in July 2026. Hirect Limited was incorporated in 1958 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3381.69,
-  "pe_ratio": 77.54,
+  "market_cap_cr": 3301.91,
+  "pe_ratio": 75.71,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 60.69,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:56:11.649525",
-  "provider_reported_pb_ratio": 15.71,
-  "statements_retrieved_at": "2026-11-01T06:56:11.649525",
+  "retrieval_time": "2026-11-02T23:19:18.095818",
+  "provider_reported_pb_ratio": 15.34,
+  "statements_retrieved_at": "2026-11-02T23:19:18.095818",
   "retained_fields": []
 }

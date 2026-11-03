@@ -5,8 +5,8 @@
   "industry": "Packaging & Containers",
   "business_summary": "Mold-Tek Packaging Limited engages in the manufacture and sale of plastic packaging containers in India. It offers sanitizer and food containers; dispensing pumps; and lubricant and paint pails packaging products. It also exports its products. The company was formerly known as Moldtek Plastics Limited and changed its name to Mold-Tek Packaging Limited in March 2010. Mold-Tek Packaging Limited was founded in 1986 and is headquartered in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1813.3,
-  "pe_ratio": 23.85,
+  "market_cap_cr": 1943.89,
+  "pe_ratio": 25.57,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 103.8,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:08:33.588887",
-  "provider_reported_pb_ratio": 2.63,
-  "statements_retrieved_at": "2026-11-01T07:08:33.588887",
+  "retrieval_time": "2026-11-02T23:32:22.050255",
+  "provider_reported_pb_ratio": 2.82,
+  "statements_retrieved_at": "2026-11-02T23:32:22.050255",
   "retained_fields": []
 }

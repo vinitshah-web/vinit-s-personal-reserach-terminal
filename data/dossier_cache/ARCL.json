@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "ARCL Organics Ltd. manufactures and sells resins, additives, hardeners, and specialized one-shot resins in India. The company offers amino and melamine resins, phenolic resins, and formaldehydes. It serves panel, animal feed, rubber, pharma, engineering, textile, paper, foundries, refractories, paints, tire, and various other industries. The company also exports its products to approximately 50 countries. The company was formerly known as AAREM Chemicals (P) Ltd. and changed its name to ARCL Organics Ltd. in April 2011. ARCL Organics Ltd. was founded in 1959 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 166.34,
-  "pe_ratio": 16.27,
+  "market_cap_cr": 169.6,
+  "pe_ratio": 16.59,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": null,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:36:40.056207",
+  "retrieval_time": "2026-11-02T22:58:32.424529",
   "provider_reported_pb_ratio": null,
-  "statements_retrieved_at": "2026-11-01T06:36:40.056207",
+  "statements_retrieved_at": "2026-11-02T22:58:32.424529",
   "retained_fields": []
 }

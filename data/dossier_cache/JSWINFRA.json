@@ -5,8 +5,8 @@
   "industry": "Marine Shipping",
   "business_summary": "JSW Infrastructure Limited, an infrastructure development company, operates commercial ports in India and internationally. It operates in two segments, Port Operations and Logistic Operation. The company's activities include developing, operating, and maintaining port services; ports related infrastructure development activities; and developing infrastructure projects. It also provides terminal-related, cargo handling, storage, logistics, transportation, and other value-added services. In addition, the company develops and operates ports and port terminals. JSW Infrastructure Limited was formerly known as JSW Infrastructure & Logistics Limited and changed its name to JSW Infrastructure Limited in March 2008. The company was founded in 1999 and is based in Mumbai, India. JSW Infrastructure Limited is a subsidiary of Sajjan Jindal Family Trust.",
   "business_summary_reason": null,
-  "market_cap_cr": 73528.49,
-  "pe_ratio": 47.04,
+  "market_cap_cr": 73609.9,
+  "pe_ratio": 47.09,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 76.46,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:00:43.063912",
-  "provider_reported_pb_ratio": 4.13,
-  "statements_retrieved_at": "2026-11-01T07:00:43.063912",
+  "retrieval_time": "2026-11-02T23:24:03.707558",
+  "provider_reported_pb_ratio": 4.14,
+  "statements_retrieved_at": "2026-11-02T23:24:03.707558",
   "retained_fields": []
 }

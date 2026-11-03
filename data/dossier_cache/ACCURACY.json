@@ -5,8 +5,8 @@
   "industry": "Integrated Freight & Logistics",
   "business_summary": "Accuracy Shipping Limited provides third party logistics solutions in India and internationally. The company offers custom clearance, sea cargo, and air cargo; vessel and train chartering; road, rail, and project cargo transportation; and normal, bonded, and cold storage warehousing services. It also sells petroleum and petroleum products; and motor vehicles. It serves marbles and granite, ceramic tiles, paper, agriculture, wood, steel, rubber, chemical, textiles, and other industries. The company was incorporated in 2000 and is based in Anjar, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 57.06,
-  "pe_ratio": 14.58,
+  "market_cap_cr": 58.87,
+  "pe_ratio": 15.04,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 8.5,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:33:17.780157",
-  "provider_reported_pb_ratio": 0.45,
-  "statements_retrieved_at": "2026-11-01T06:33:17.780157",
+  "retrieval_time": "2026-11-02T22:55:01.544922",
+  "provider_reported_pb_ratio": 0.46,
+  "statements_retrieved_at": "2026-11-02T22:55:01.544922",
   "retained_fields": []
 }

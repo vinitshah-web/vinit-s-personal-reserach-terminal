@@ -5,7 +5,7 @@
   "industry": "Real Estate - Development",
   "business_summary": "Parsvnath Developers Limited, together with its subsidiaries, engages in the real estate development business in India. It promotes, constructs, and develops integrated townships, residential and commercial complexes, multistoried buildings, flats, houses, apartments, shopping malls, IT parks, hotels, DMRC station, special economic zones, and third-party contracting projects. The company is also involved in the real estate leasing; and hotel business. Parsvnath Developers Limited was incorporated in 1990 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 129.68,
+  "market_cap_cr": 131.86,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:14:04.626449",
+  "retrieval_time": "2026-11-02T23:38:10.008553",
   "provider_reported_pb_ratio": -0.06,
-  "statements_retrieved_at": "2026-11-01T07:14:04.626449",
+  "statements_retrieved_at": "2026-11-02T23:38:10.008553",
   "retained_fields": []
 }

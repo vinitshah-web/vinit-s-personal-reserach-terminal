@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Viyash Scientific Limited operates as a veterinary pharmaceutical Company in India, the United States, Spain, and internationally. The company provides active pharmaceutical ingredients, finished dosage formulations, analytical services, and VET formulation services for cattle and poultry. The company was formerly known as Sequent Scientific Limited and changed its name to Viyash Scientific Limited in January 2026. The company was incorporated in 1985 and is headquartered in Hyderabad, India. Viyash Scientific Limited operates as a subsidiary of CA Harbor Investments.",
   "business_summary_reason": null,
-  "market_cap_cr": 9638.67,
-  "pe_ratio": 53.4,
+  "market_cap_cr": 9723.41,
+  "pe_ratio": 53.87,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 66.7,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:33:36.857647",
-  "provider_reported_pb_ratio": 3.27,
-  "statements_retrieved_at": "2026-11-01T07:33:36.857647",
+  "retrieval_time": "2026-11-02T23:58:39.574697",
+  "provider_reported_pb_ratio": 3.3,
+  "statements_retrieved_at": "2026-11-02T23:58:39.574697",
   "retained_fields": []
 }

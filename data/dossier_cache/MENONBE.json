@@ -5,14 +5,14 @@
   "industry": "Auto Parts",
   "business_summary": "Menon Bearings Limited manufactures and sells auto components in India. The company offers bi-metallic engine bearings; engine bushing and PTFE bushings; thrust washers; and flange bearings. Its products are used in automotive, agriculture, industrial, and heavy engineering applications. The company also exports its products to the United States, Japan, the United Kingdom, Italy, France, China, Mexico, Brazil, the Netherland, UAE, Belgium, etc. Menon Bearings Limited was incorporated in 1991 and is based in Kolhapur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1547.82,
-  "pe_ratio": 35.23,
+  "market_cap_cr": 1743.4,
+  "pe_ratio": 39.68,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 35.81,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 5.604,
-  "fifty_two_week_high": 330.0,
+  "fifty_two_week_high": 331.4,
   "fifty_two_week_low": 101.5,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:07:12.101548",
-  "provider_reported_pb_ratio": 7.71,
-  "statements_retrieved_at": "2026-11-01T07:07:12.101548",
+  "retrieval_time": "2026-11-02T23:30:51.581372",
+  "provider_reported_pb_ratio": 8.69,
+  "statements_retrieved_at": "2026-11-02T23:30:51.581372",
   "retained_fields": []
 }

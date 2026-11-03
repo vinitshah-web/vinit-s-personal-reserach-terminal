@@ -5,8 +5,8 @@
   "industry": "Real Estate Services",
   "business_summary": "Rollatainers Limited, a packaging company, provides packaging solutions in India. It also provides lined cartons; and manufactures and installs packaging machines. The company was incorporated in 1968 and is headquartered in Rewari, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 101.05,
-  "pe_ratio": 5.94,
+  "market_cap_cr": 101.55,
+  "pe_ratio": 5.97,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 0.36,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:19:15.463404",
-  "provider_reported_pb_ratio": 11.22,
-  "statements_retrieved_at": "2026-11-01T07:19:15.463404",
+  "retrieval_time": "2026-11-02T23:43:36.129512",
+  "provider_reported_pb_ratio": 11.28,
+  "statements_retrieved_at": "2026-11-02T23:43:36.129512",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "ZF Commercial Vehicle Control Systems India Limited manufactures and sells air brake actuation systems for commercial vehicles in India and internationally. The company offers various products for trucks, trailers, buses, coaches, and light commercial vehicles comprising advanced driver assistance systems (ADAS) and air disc brakes; intelligent trailer programs and tire pressure monitoring systems; collision mitigation systems, autonomous emergency braking systems, electro-pneumatic handbrakes (EPH), advanced braking system technologies, automatic transmissions, digital solutions, electric portal axles, integrated and modular electric central drives, air compressors, and software updates; continuous damping control products; and the SCALAR fleet orchestration platform for cargo transport, as well as auto ancillary parts. It also engages in software development and other services. The company exports its products to approximately 18 countries, including the Americas, Asia, Europe, and Africa. It serves automotive original equipment manufacturers (OEMs), distributors, government agencies, and retailers. The company was formerly known as WABCO India Limited and changed its name to ZF Commercial Vehicle Control Systems India Limited in March 2022. The company was incorporated in 2004 and is headquartered in Chennai, India. ZF Commercial Vehicle Control Systems India Limited operates as a subsidiary of WABCO Asia Private Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 23916.23,
-  "pe_ratio": 2.21,
+  "market_cap_cr": 24321.37,
+  "pe_ratio": 2.24,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 324.29,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:35:15.434005",
-  "provider_reported_pb_ratio": 6.48,
-  "statements_retrieved_at": "2026-11-01T07:35:15.434005",
+  "retrieval_time": "2026-11-03T00:00:24.875943",
+  "provider_reported_pb_ratio": 6.59,
+  "statements_retrieved_at": "2026-11-03T00:00:24.875943",
   "retained_fields": []
 }

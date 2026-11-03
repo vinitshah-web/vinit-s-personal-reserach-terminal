@@ -5,7 +5,7 @@
   "industry": "Engineering & Construction",
   "business_summary": "Supreme Infrastructure India Limited, together with its subsidiaries, engages in the engineering and construction of roads, highways, buildings, and bridges in India. The company also engages in railways, power, water-infrastructure and drainage, and other projects. In addition, it owns and operates ready mix concrete, wet mix plant, quarries, paver block unit, asphalt, crusher, and other equipment plants. The company was incorporated in 1983 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 527.65,
+  "market_cap_cr": 580.39,
   "pe_ratio": 0.06,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:27:15.943178",
-  "provider_reported_pb_ratio": 1.85,
-  "statements_retrieved_at": "2026-11-01T07:27:15.943178",
+  "retrieval_time": "2026-11-02T23:52:03.788069",
+  "provider_reported_pb_ratio": 2.04,
+  "statements_retrieved_at": "2026-11-02T23:52:03.788069",
   "retained_fields": []
 }

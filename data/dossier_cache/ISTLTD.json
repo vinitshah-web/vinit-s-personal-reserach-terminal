@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "IST Limited engages in the manufacture and sale of auto components in India. It operates through Manufacturing and SEZ segments. The company offers piston cooling nozzles assembly parts for four-wheelers; throttle shafts and valves; carburetor and automotive assembly components; CNG kit components; and tractor and automotive assembly components. It also offers precision engineering components/assemblies for automobile and consumer goods industries, as well as develops and operates IT / ITES SEZ. The company was incorporated in 1976 and is headquartered in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 701.01,
-  "pe_ratio": 4.26,
+  "market_cap_cr": 739.56,
+  "pe_ratio": 4.49,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 1451.38,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:59:07.836981",
-  "provider_reported_pb_ratio": 0.41,
-  "statements_retrieved_at": "2026-11-01T06:59:07.836981",
+  "retrieval_time": "2026-11-02T23:22:27.992257",
+  "provider_reported_pb_ratio": 0.44,
+  "statements_retrieved_at": "2026-11-02T23:22:27.992257",
   "retained_fields": []
 }

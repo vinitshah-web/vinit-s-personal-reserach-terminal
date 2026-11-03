@@ -5,7 +5,7 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "Premier Limited manufactures and sells CNC machines and mechanical components for the wind energy and infrastructure sectors in India. It engages in the engineering business, as well as provides professional and engineering-related services. The company was formerly known as The Premier Automobiles Ltd. and changed its name to Premier Limited in March 2005. Premier Limited was incorporated in 1944 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 8.39,
+  "market_cap_cr": 8.71,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:16:03.347435",
+  "retrieval_time": "2026-11-02T23:40:17.214971",
   "provider_reported_pb_ratio": -0.02,
-  "statements_retrieved_at": "2026-11-01T07:16:03.347435",
+  "statements_retrieved_at": "2026-11-02T23:40:17.214971",
   "retained_fields": []
 }

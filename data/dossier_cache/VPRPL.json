@@ -5,7 +5,7 @@
   "industry": "Engineering & Construction",
   "business_summary": "Vishnu Prakash R Punglia Limited engages in engineering, procurement, and construction of infrastructure projects in India. The company undertakes various projects, including water supply and sewerage networks; railways, highways, and bridges; roads; irrigation network projects; multistorey buildings and warehouses; and tunnels in hydropower, railways, metro rail, roads, and highways, as well as operation and maintenance works. The company is also involved in development of multi-dimensional smart city projects; and automation work involving PLC and SCADA. It serves central and state government, local bodies, public sector companies, world bank projects, and private bodies. Vishnu Prakash R Punglia Limited was founded in 1986 and is based in Jodhpur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 304.72,
+  "market_cap_cr": 304.22,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:33:54.674007",
+  "retrieval_time": "2026-11-02T23:58:57.946548",
   "provider_reported_pb_ratio": 0.48,
-  "statements_retrieved_at": "2026-11-01T07:33:54.674007",
+  "statements_retrieved_at": "2026-11-02T23:58:57.946548",
   "retained_fields": []
 }

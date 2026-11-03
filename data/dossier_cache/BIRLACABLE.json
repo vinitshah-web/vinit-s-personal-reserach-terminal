@@ -5,8 +5,8 @@
   "industry": "Communication Equipment",
   "business_summary": "Birla Cable Limited engages in the manufacture and sale of cables in India and internationally. The company offers wires and cables, lighting poles, solar energy systems and components trading, and fiber optic products and requisites trading.It also provides structured cable accessories, including patch cords, keystones, patch panels, faceplates, and connectors; telecom fibre accessories, such as adapter, pigtail, patch cord, fibre management, and joint closure; and fibre optic cables, including aerial, underground duct microduct, micromodule, FFTX, specialist, indoor products. The company was formerly known as Birla Ericsson Optical Limited and changed its name to Birla Cable Limited in September 2016. Birla Cable Limited was incorporated in 1992 and is based in Rewa, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 947.25,
-  "pe_ratio": 20.49,
+  "market_cap_cr": 903.15,
+  "pe_ratio": 19.54,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 93.63,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:40:47.786500",
-  "provider_reported_pb_ratio": 3.37,
-  "statements_retrieved_at": "2026-11-01T06:40:47.786500",
+  "retrieval_time": "2026-11-02T23:02:54.342712",
+  "provider_reported_pb_ratio": 3.22,
+  "statements_retrieved_at": "2026-11-02T23:02:54.342712",
   "retained_fields": []
 }

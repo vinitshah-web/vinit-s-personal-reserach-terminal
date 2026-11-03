@@ -5,7 +5,7 @@
   "industry": "Agricultural Inputs",
   "business_summary": "Kothari Industrial Corporation Limited engages in the manufacturing and mixing of fertilizers in India and internationally. It operates through Fertilizers, Drone, FMCG, Hotel, and Leather segments. The company offers NPK mixtures; sainten and mask and rusk; and food products. In addition, the company engages in the provision of drone services; and hotel, footwear, and leather activities; and mining and minerals activities. It also offers food, including snacks, butter cookies, and rusks; and influencer partnership services, as well as operates school. In addition, the company offers digital services, such as integrated marketing solutions, content creation and SEO, video production and photography, technology and design, and data analytics services. Kothari Industrial Corporation Limited offers footwear under the Kickers brand. The company was founded in 1917 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1134.01,
+  "market_cap_cr": 1080.54,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -13,7 +13,7 @@
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 10.8022,
   "fifty_two_week_high": 168.87,
-  "fifty_two_week_low": 104.02,
+  "fifty_two_week_low": 98.15,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:02:43.688802",
-  "provider_reported_pb_ratio": 4.16,
-  "statements_retrieved_at": "2026-11-01T07:02:43.688802",
+  "retrieval_time": "2026-11-02T23:26:09.731336",
+  "provider_reported_pb_ratio": 3.97,
+  "statements_retrieved_at": "2026-11-02T23:26:09.731336",
   "retained_fields": []
 }

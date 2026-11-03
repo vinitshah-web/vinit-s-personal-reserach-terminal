@@ -5,8 +5,8 @@
   "industry": "Communication Equipment",
   "business_summary": "MRO-TEK Networks Limited engages in the manufacture, supply, and distribution of access and networking equipment and solutions in India and internationally. It operates through the Products, Real Estate Development, and Solutions segments. It offers telecom products, modems, converters, ethernet switches, multiplexers, routers, and other products; SDWAN, UTM, and cloud services; and WIFI bridges and legacy interface converters. In addition, the company provides enterprise networks, software defined WAN, managed network, and network function visualization services. It also engages in real estate construction and leasing, as well as the operation of network operations centers. The company was formerly known as Umiya Buildcon Limited and changed its name to MRO-TEK Networks Limited in August 2026. MRO-TEK Networks Limited was incorporated in 1984 and is headquartered in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 167.28,
-  "pe_ratio": 44.99,
+  "market_cap_cr": 162.37,
+  "pe_ratio": 43.67,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 62.41,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:31:16.904222",
-  "provider_reported_pb_ratio": 1.43,
-  "statements_retrieved_at": "2026-11-01T07:31:16.904222",
+  "retrieval_time": "2026-11-02T23:56:13.772918",
+  "provider_reported_pb_ratio": 1.39,
+  "statements_retrieved_at": "2026-11-02T23:56:13.772918",
   "retained_fields": []
 }

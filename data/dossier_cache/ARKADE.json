@@ -5,7 +5,7 @@
   "industry": "Real Estate - Development",
   "business_summary": "Arkade Developers Limited operates as a real estate development company in India. It engages in the identification and acquisition of land, as well as the planning, execution, construction, and marketing of commercial and residential projects. The company was incorporated in 1986 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1987.9,
+  "market_cap_cr": 1989.76,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:36:52.239609",
-  "provider_reported_pb_ratio": 2.25,
-  "statements_retrieved_at": "2026-11-01T06:36:52.239609",
+  "retrieval_time": "2026-11-02T22:58:45.303849",
+  "provider_reported_pb_ratio": 2.26,
+  "statements_retrieved_at": "2026-11-02T22:58:45.303849",
   "retained_fields": []
 }

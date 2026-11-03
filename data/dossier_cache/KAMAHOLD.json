@@ -5,8 +5,8 @@
   "industry": "Conglomerates",
   "business_summary": "KAMA Holdings Limited engages in technical textiles, chemicals and polymers, aluminum foils, and packaging film businesses. The company operates through Technical Textiles Business, Chemicals Business, Performance Films & Foil Business, and Others segments. It offers nylon tyre cord, belting, coated, laminated, and polyester tyre cord fabrics and industrial yarns. The company also provides refrigerant gases, industrial and specialty chemicals, fluorochemicals, packaging films, and related products; and manufactures aluminium films, and BOPP and metallized BOPP films. In addition, it operates schools; provides educationalservices; and invests in securities of other companies. Further, the company engages in the investment activities; non-banking finance activities; real estate and related activities, as well as develops and leases industrial, commercial, and residential complexes; and trading of packaging films and chemical products. It operates in India, the United States, South Africa, the United Kingdom, Italy, Indonesia, the United Arab Emirates, South Korea, Germany, Thailand, Hungary, Switzerland, Belgium, and internationally. The company was formerly known as SRF Polymers Limited. KAMA Holdings Limited was incorporated in 2000 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 6835.29,
-  "pe_ratio": 6.25,
+  "market_cap_cr": 7015.64,
+  "pe_ratio": 6.42,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 2496.62,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:01:11.049014",
-  "provider_reported_pb_ratio": 0.85,
-  "statements_retrieved_at": "2026-11-01T07:01:11.049014",
+  "retrieval_time": "2026-11-02T23:24:33.038478",
+  "provider_reported_pb_ratio": 0.88,
+  "statements_retrieved_at": "2026-11-02T23:24:33.038478",
   "retained_fields": []
 }

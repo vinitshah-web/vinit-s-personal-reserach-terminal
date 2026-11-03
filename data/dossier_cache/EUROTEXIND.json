@@ -5,7 +5,7 @@
   "industry": "Real Estate - Development",
   "business_summary": "Eurotex Industries and Exports Limited engages in the textile business in India. It operates through Real Estate Development and Textiles segments. The company develops and sells residential flats and shops. It also manufactures and sells cotton yarns and knitted fabrics. The company also exports its products. The company was incorporated in 1987 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 13.61,
+  "market_cap_cr": 14.28,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:49:34.680366",
-  "provider_reported_pb_ratio": -0.38,
-  "statements_retrieved_at": "2026-11-01T06:49:34.680366",
+  "retrieval_time": "2026-11-02T23:12:18.150734",
+  "provider_reported_pb_ratio": -0.4,
+  "statements_retrieved_at": "2026-11-02T23:12:18.150734",
   "retained_fields": []
 }

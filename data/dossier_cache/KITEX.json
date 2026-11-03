@@ -5,7 +5,7 @@
   "industry": "Apparel Manufacturing",
   "business_summary": "Kitex Garments Limited manufactures and sells fabric and readymade garments for infants and children in India, the United States, and internationally. It also manufactures and exports knitted fabrics and infant garments. Kitex Garments Limited was incorporated in 1992 and is headquartered in Ernakulam, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2251.56,
+  "market_cap_cr": 2309.61,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:02:17.922259",
-  "provider_reported_pb_ratio": 2.14,
-  "statements_retrieved_at": "2026-11-01T07:02:17.922259",
+  "retrieval_time": "2026-11-02T23:25:41.934146",
+  "provider_reported_pb_ratio": 2.2,
+  "statements_retrieved_at": "2026-11-02T23:25:41.934146",
   "retained_fields": []
 }

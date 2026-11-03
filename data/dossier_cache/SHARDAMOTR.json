@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Sharda Motor Industries Limited manufactures, assembles, trades in, and sells auto components to automobiles and electronics original equipment manufacturers in India. The company provides exhaust systems for passenger vehicles, commercial vehicles, tractors, and generators; and suspensions systems, such as arm lower control comp, upper arm assy, rear and front suspension, front axle assy, and assy lower link complete RH products. It also offers as catalytic convertors and sheet metal components. In addition, the company provides supply chain management and procurement services. It also exports its products. The company was incorporated in 1986 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4639.69,
-  "pe_ratio": 13.98,
+  "market_cap_cr": 4773.45,
+  "pe_ratio": 14.38,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 228.77,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:22:53.560697",
-  "provider_reported_pb_ratio": 3.53,
-  "statements_retrieved_at": "2026-11-01T07:22:53.560697",
+  "retrieval_time": "2026-11-02T23:47:25.497865",
+  "provider_reported_pb_ratio": 3.63,
+  "statements_retrieved_at": "2026-11-02T23:47:25.497865",
   "retained_fields": []
 }

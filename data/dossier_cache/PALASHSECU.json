@@ -5,15 +5,15 @@
   "industry": "Asset Management",
   "business_summary": "Palash Securities Limited, an investment company, engages in the food processing business in India and internationally. It operates through two segments, Investing business and Food Processing Business. The company offers canned fruits, vegetables, and food products, such as jams, squashes, crushes, vegetable sauces, juices, and breakfast cereals, as well as tomato ketchup, pasta, and vermicelli under the Morton brand name. It also invests in and deals in shares and securities; and immovable properties. The company was incorporated in 2015 and is headquartered in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 81.89,
-  "pe_ratio": 5.06,
+  "market_cap_cr": 78.02,
+  "pe_ratio": 4.82,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 483.62,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.0003,
   "fifty_two_week_high": 122.79,
-  "fifty_two_week_low": 77.11,
+  "fifty_two_week_low": 76.0,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:13:41.949947",
-  "provider_reported_pb_ratio": 0.17,
-  "statements_retrieved_at": "2026-11-01T07:13:41.949947",
+  "retrieval_time": "2026-11-02T23:37:46.985434",
+  "provider_reported_pb_ratio": 0.16,
+  "statements_retrieved_at": "2026-11-02T23:37:46.985434",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Agricultural Inputs",
   "business_summary": "Indogulf Cropsciences Limited manufactures and sells crop protection products, plant nutrients, and biological products to retail and institutional customers in India and internationally. It offers crop protection products, including insecticides, herbicides, fungicides, and plant growth regulators; biostimulants; and plant supplements. The company also manufactures water dispersible granules, suspension concentrate, capsule suspension, ultra-low volume, emulsion in water, soluble granule, and flowable suspension in powder, granule, and liquid forms. It also exports its products. The company was formerly known as Jai Shree Rasayan Udyog Limited and changed its name to Indogulf Cropsciences Limited in April 2015. Indogulf Cropsciences Limited was incorporated in 1993 and is headquartered in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 390.98,
-  "pe_ratio": 11.94,
+  "market_cap_cr": 389.65,
+  "pe_ratio": 11.9,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 90.98,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:57:17.709629",
+  "retrieval_time": "2026-11-02T23:20:28.937048",
   "provider_reported_pb_ratio": 0.68,
-  "statements_retrieved_at": "2026-11-01T06:57:17.709629",
+  "statements_retrieved_at": "2026-11-02T23:20:28.937048",
   "retained_fields": []
 }

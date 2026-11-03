@@ -5,15 +5,15 @@
   "industry": "Steel",
   "business_summary": "Sarda Energy & Minerals Limited produces and sells steel products in India and internationally. The company product portfolio includes pellets, sponge iron, steel billets and wire rods, ferro alloys, eco-bricks, and HB wires. It is also involved in coal and iron ore mining, as well as operation of hydro, thermal, and solar power plants. Sarda Energy & Minerals Limited was incorporated in 1973 and is headquartered in Raipur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 15534.73,
-  "pe_ratio": 13.76,
+  "market_cap_cr": 15122.44,
+  "pe_ratio": 13.39,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
-  "book_value": 208.99,
+  "book_value": 209.15,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 35.2381,
   "fifty_two_week_high": 624.0,
-  "fifty_two_week_low": 435.5,
+  "fifty_two_week_low": 424.05,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:21:00.671489",
-  "provider_reported_pb_ratio": 2.11,
-  "statements_retrieved_at": "2026-11-01T07:21:00.671489",
+  "retrieval_time": "2026-11-02T23:45:27.315755",
+  "provider_reported_pb_ratio": 2.05,
+  "statements_retrieved_at": "2026-11-02T23:45:27.315755",
   "retained_fields": []
 }

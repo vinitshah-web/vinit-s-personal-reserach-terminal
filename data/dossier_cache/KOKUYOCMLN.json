@@ -5,8 +5,8 @@
   "industry": "Business Equipment & Supplies",
   "business_summary": "Kokuyo Camlin Limited engages in the manufacturing, selling, and trading of scholastic, writing instruments, notebooks, marker pens, inks, fine-art colours and accessories, hobby colours, pencils and other stationery products in India. The company provides colour, drawing materials, canvases, kids, painting kits, brushes, hobby, mediums, sketchbooks, markers, and photo colours under the Camel brand name; and pencils and accessories, geometry box, adhesives, office supplies, markers and pens, notebooks, paper, and early learning products under the Camlin brand name. It also exports its products to SAARC countries, the Middle East, the Far East, Mauritius, Ghana, the United States, and Japan. The company was formerly known as Camlin Limited and changed its name to Kokuyo Camlin Limited in January 2012. The company was founded in 1931 and is based in Mumbai, India. Kokuyo Camlin Limited is a subsidiary of Kokuyo Co., Ltd.",
   "business_summary_reason": null,
-  "market_cap_cr": 747.87,
-  "pe_ratio": 33.89,
+  "market_cap_cr": 750.97,
+  "pe_ratio": 34.03,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 32.1,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:02:33.234967",
-  "provider_reported_pb_ratio": 2.32,
-  "statements_retrieved_at": "2026-11-01T07:02:33.234967",
+  "retrieval_time": "2026-11-02T23:25:58.900919",
+  "provider_reported_pb_ratio": 2.33,
+  "statements_retrieved_at": "2026-11-02T23:25:58.900919",
   "retained_fields": []
 }

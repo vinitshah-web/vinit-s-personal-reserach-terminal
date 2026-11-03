@@ -5,8 +5,8 @@
   "industry": "Confectioners",
   "business_summary": "Bannari Amman Sugars Limited engages in the manufacture and sale of sugar in India. The company operates through Sugar, Power, Distillery, and Granite Products segments. It manufactures and sells cane crush; industrial alcohol and extra neutral spirits; polished granite products; and bio and agri natural fertilizer products, including capsules, fertilizers, fungicides, insecticides, nematicides, stimulants, decomposing cultures, enriched organic manures, micronutrient mixtures, organic manures. The company also generates power through co-generation power plants and windmills. It also exports its products. It sells its products to traders, institutions, and retail customers through distributors and direct sales channels. Bannari Amman Sugars Limited was incorporated in 1983 and is based in Coimbatore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3887.68,
-  "pe_ratio": 31.93,
+  "market_cap_cr": 3962.04,
+  "pe_ratio": 32.54,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 1525.65,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:39:16.093357",
-  "provider_reported_pb_ratio": 2.03,
-  "statements_retrieved_at": "2026-11-01T06:39:16.093357",
+  "retrieval_time": "2026-11-02T23:01:15.983579",
+  "provider_reported_pb_ratio": 2.07,
+  "statements_retrieved_at": "2026-11-02T23:01:15.983579",
   "retained_fields": []
 }

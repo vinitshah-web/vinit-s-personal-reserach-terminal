@@ -5,8 +5,8 @@
   "industry": "Credit Services",
   "business_summary": "Paisalo Digital Limited, a non-banking financial company, engages in providing loans through its financial products in India. It offers small income generation loans, including Umeed loans, Pragati loans, and Vikas loans for self-employed individuals and small business owners in rural and semi-urban areas, supporting sectors like agriculture, retail, and handicrafts. The company also provides mobility loans, such as Gati loans for auto and electric rickshaw drivers, Raftaar loans for small vehicle owners, Do Ka Dum loans for two-wheeler purchase, and Ready Steady Go loans to purchase pre-owned cars; and entrepreneurial loans, including Udaan loans to empower entrepreneurs for business growth and expansion for commercial vehicles, used cars, two-wheelers, three-wheelers, agricultural equipment, and medical equipment. In addition, it provides SME and MSME loans, and corporate loans across the manufacturing, services, and trading sectors. The company was formerly known as S. E. Investments Limited and changed its name to Paisalo Digital Limited in January 2018. Paisalo Digital Limited was incorporated in 1992 and is headquartered in Agra, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 7391.7,
-  "pe_ratio": 26.93,
+  "market_cap_cr": 7459.39,
+  "pe_ratio": 27.17,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 21.23,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:13:39.614913",
-  "provider_reported_pb_ratio": 3.7,
-  "statements_retrieved_at": "2026-11-01T07:13:39.614913",
+  "retrieval_time": "2026-11-02T23:37:44.733939",
+  "provider_reported_pb_ratio": 3.74,
+  "statements_retrieved_at": "2026-11-02T23:37:44.733939",
   "retained_fields": []
 }

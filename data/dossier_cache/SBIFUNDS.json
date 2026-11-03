@@ -5,8 +5,8 @@
   "industry": "Asset Management",
   "business_summary": "SBI Funds Management Limited is a privately owned investment manager. The firm primarily provides its services to individual and retail investors. It also caters to institutional investors and other domestic and foreign investors. The firm invests in equities, debt securities, hybrid strategies, exchange-traded funds, fund of funds, and other diversified investment assets. The firm employs fundamental analysis, active portfolio management, securities selection, internal forecasting, and intensive research to make its investments. The firm employs a combination of in-house and external research to make its investments. The firm was formerly known as SBI Funds Management Private Limited. SBI Funds Management Limited was founded on February 7, 1992 and is based in Mumbai, India. SBI Funds Management Limited operates as a subsidiary of State Bank of India.",
   "business_summary_reason": null,
-  "market_cap_cr": 95364.27,
-  "pe_ratio": 31.26,
+  "market_cap_cr": 97462.2,
+  "pe_ratio": 31.94,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 37.08,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:21:30.973787",
-  "provider_reported_pb_ratio": 12.63,
-  "statements_retrieved_at": "2026-11-01T07:21:30.973787",
+  "retrieval_time": "2026-11-02T23:45:59.052807",
+  "provider_reported_pb_ratio": 12.91,
+  "statements_retrieved_at": "2026-11-02T23:45:59.052807",
   "retained_fields": []
 }

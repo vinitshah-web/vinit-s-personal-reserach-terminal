@@ -5,8 +5,8 @@
   "industry": "Consumer Electronics",
   "business_summary": "Virtuoso Optoelectronics Limited engages in the manufacturing, selling and marketing of white goods in India. The company offers indoor units (IDUs), outdoor units (ODUs), and complete air conditioning systems; LED lighting products; table top dispensers, floor standing water dispensers, floor standing cabinet models, and floor standing refrigerator dispensers; commercial freezers; washing machines, such as semi-automatic models, glass-top designs, and top-loading; and compressors. It also provides plastic molding, sheet metal, powder coating, copper tubing systems, heat exchangers, electronics manufacturing, and wire harnessing services. It serves original equipment manufacturers, original design manufacturers, and Tier 1 companies. Virtuoso Optoelectronics Limited was incorporated in 2015 and is based in Nashik, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1654.0,
-  "pe_ratio": 82.62,
+  "market_cap_cr": 1710.43,
+  "pe_ratio": 85.44,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 135.22,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:33:48.050971",
-  "provider_reported_pb_ratio": 3.4,
-  "statements_retrieved_at": "2026-11-01T07:33:48.050971",
+  "retrieval_time": "2026-11-02T23:58:51.002088",
+  "provider_reported_pb_ratio": 3.52,
+  "statements_retrieved_at": "2026-11-02T23:58:51.002088",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Beverages - Wineries & Distilleries",
   "business_summary": "BCL Industries Limited, an agro-processing and manufacturing company, engages in the edible oil, rice milling, grain-based distillery, and real estate businesses in India. It provides grain-based ethanol production, extra neutral alcohol, country liquor, and biofuels. The company also constructs residential houses. The company was incorporated in 1976 and is based in Chandigarh, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 890.21,
-  "pe_ratio": 7.64,
+  "market_cap_cr": 853.91,
+  "pe_ratio": 7.32,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 30.84,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:39:53.981626",
-  "provider_reported_pb_ratio": 0.98,
-  "statements_retrieved_at": "2026-11-01T06:39:53.981626",
+  "retrieval_time": "2026-11-02T23:01:56.380978",
+  "provider_reported_pb_ratio": 0.94,
+  "statements_retrieved_at": "2026-11-02T23:01:56.380978",
   "retained_fields": []
 }

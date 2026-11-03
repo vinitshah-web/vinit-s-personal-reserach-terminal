@@ -5,8 +5,8 @@
   "industry": "Medical Care Facilities",
   "business_summary": "Krishna Institute of Medical Sciences Limited provides medical and health care services under the KIMS Hospitals brand in India. The company offers arthroscopy and shoulder, cardiology, cardiothoracic and cardiovascular, organ transplant, medical and surgical gastroenterology, hepatology, orthopaedic, neurology, neurosurgery, nephrology, urology, oncology, pediatric, neonatology, obstetrics and gynaecology, fertility, dental science, emergency and critical care, vascular, rehabilitation and physiotherapy services. It also provides pulmonology, diagnostic and imaging, ophthalmology, ENT, rheumatology and clinical immunology, internal medicine, interventional radiology, diabetology, endocrinology, general surgery, infectious disease, dermatology, thoracic surgery, psychiatry, plastic and reconstructive surgery, transfusion medicine, clinical psychology, anesthesiology, and tele medicine services. In addition, the company operates clinical immunology allergy, bone marrow transplantation, hair transplant, andrology, fertility, alzheimer, arthroscopy, bone and joint, breast, dialysis, female urology, IUI, IVF, joint replacement, kidney health and transplant, ICU, spine, stroke, TAVR/TAVI, hepatobiliary surgery, and trauma centers, as well as pain and wellness clinics. Further, it provides bariatric, thoracic, oral maxillofacial, and endovascular surgery services. Krishna Institute of Medical Sciences Limited was incorporated in 1973 and is based in Secunderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 29476.05,
-  "pe_ratio": 137.61,
+  "market_cap_cr": 30278.27,
+  "pe_ratio": 141.35,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 56.16,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:02:05.826452",
-  "provider_reported_pb_ratio": 12.5,
-  "statements_retrieved_at": "2026-11-01T07:02:05.826452",
+  "retrieval_time": "2026-11-02T23:25:29.207232",
+  "provider_reported_pb_ratio": 12.84,
+  "statements_retrieved_at": "2026-11-02T23:25:29.207232",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Sunshield Chemicals Limited manufactures and sells specialty chemicals in India and internationally. The company offers alkyl phenol, fatty amine, fatty alcohol, fatty acid, and vegetable oil ethoxylates; fatty alcohol ethoxylates\u0096propoxylates and block/random co-polymers; tris 2-hydroxyethyl isocyanurate (THEIC); hydroquinone bis(2-hydroxyethyl) ether (HQEE); aminic antioxidants in solid and liquid forms, including di-octylated, di-cumylated, nonylated, styrenated, and butylated octylated diphenylamine; and urea formaldehyde resins. Its products are used in industrial formulations and applications, paints and coatings, home and personal care, agrochemicals, lubricants, and additives. The company was incorporated in 1986 and is based in Mumbai, India. Sunshield Chemicals Limited operates as a subsidiary of Indus Petrochem Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 882.21,
-  "pe_ratio": 23.26,
+  "market_cap_cr": 874.12,
+  "pe_ratio": 23.05,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 286.75,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:27:03.741566",
-  "provider_reported_pb_ratio": 3.5,
-  "statements_retrieved_at": "2026-11-01T07:27:03.741566",
+  "retrieval_time": "2026-11-02T23:51:51.130743",
+  "provider_reported_pb_ratio": 3.47,
+  "statements_retrieved_at": "2026-11-02T23:51:51.130743",
   "retained_fields": []
 }

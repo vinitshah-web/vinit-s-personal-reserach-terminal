@@ -5,7 +5,7 @@
   "industry": "Education & Training Services",
   "business_summary": "MT Educare Limited, together with its subsidiaries, provides education support and coaching services in India and internationally. It offers courses for students in the secondary and higher secondary school, and pursuing graduation degree in commerce and science, as well as preparing for various competitive and chartered accountancy examinations under the Robomate+, Lakshya, Mahesh Tutorials Commerce, Mahesh Tutorials Science, and Mahesh Tutorials \u0096 School Section brand names. MT Educare Limited was founded in 1988 and is based in Mumbai, India. MT Educare Limited operates as a subsidiary of Zee Learn Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 11.56,
+  "market_cap_cr": 11.12,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:09:37.006229",
-  "provider_reported_pb_ratio": -2.24,
-  "statements_retrieved_at": "2026-11-01T07:09:37.006229",
+  "retrieval_time": "2026-11-02T23:33:30.091818",
+  "provider_reported_pb_ratio": -2.16,
+  "statements_retrieved_at": "2026-11-02T23:33:30.091818",
   "retained_fields": []
 }

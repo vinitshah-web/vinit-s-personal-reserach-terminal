@@ -5,7 +5,7 @@
   "industry": "Paper & Paper Products",
   "business_summary": "Orient Paper & Industries Limited manufactures and sells paper and paper-related products in India and internationally. The company operates in two segments, Paper and Tissue, and Chemicals. It offers facial, toilet, napkin, kitchen towel, hand towel, maxi towel, and feminine and baby care tissue papers. The company also provides writing, printing, copier, sketching and drawing papers; education, envelopes and covers, lamination and absorbent kraft, and ice cream cone wrapping papers; and carry bags and cup stocks. In addition, it offers caustic soda, liquid chlorine, hydrochloric acid, bleaching powder, and sodium and calcium hypochlorite. The company was incorporated in 1936 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 311.49,
+  "market_cap_cr": 316.58,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:13:21.505546",
-  "provider_reported_pb_ratio": 0.21,
-  "statements_retrieved_at": "2026-11-01T07:13:21.505546",
+  "retrieval_time": "2026-11-02T23:37:25.186843",
+  "provider_reported_pb_ratio": 0.22,
+  "statements_retrieved_at": "2026-11-02T23:37:25.186843",
   "retained_fields": []
 }

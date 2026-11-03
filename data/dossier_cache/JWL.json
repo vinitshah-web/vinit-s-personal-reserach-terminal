@@ -5,8 +5,8 @@
   "industry": "Railroads",
   "business_summary": "Jupiter Wagons Limited manufactures and sells railway wagons, wagon components, and railway transportation equipment in India and internationally. It provides open, covered, flat, hopper, container, and special purpose wagons; and wagon accessories, such as alloy steel cast bogies, high tensile center buffer couplers, and high-capacity draft gears. The company also offers train sets, passenger, and metro coaches; and passenger coach accessories, including fabricated bogies, couplers and draft gears for passenger trains, axle mounted disc brake systems, brake discs and split brake discs, and brake pads. In addition, it offers track solutions, such as CMS crossings and weldable CMS crossings on PSC slipper; commercial vehicles; commercial electric vehicles; and containers, such as marine, refrigerated, and truck mounted containers, as well as cold chain transport solution. Further, the company engages in letting out of property; and manufacturing of electrical equipment, as well as provides drone delivery services. It serves railways, private wagon aggregators, commercial vehicles OEMs, and defense and logistics companies. The company was formerly known as Commercial Engineers & Body Builders Co Limited and changed its name to Jupiter Wagons Limited in May 2022. The company was incorporated in 1979 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 7768.74,
-  "pe_ratio": 48.35,
+  "market_cap_cr": 8046.53,
+  "pe_ratio": 50.07,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 69.22,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:00:55.149733",
-  "provider_reported_pb_ratio": 2.63,
-  "statements_retrieved_at": "2026-11-01T07:00:55.149733",
+  "retrieval_time": "2026-11-02T23:24:16.290682",
+  "provider_reported_pb_ratio": 2.72,
+  "statements_retrieved_at": "2026-11-02T23:24:16.290682",
   "retained_fields": []
 }

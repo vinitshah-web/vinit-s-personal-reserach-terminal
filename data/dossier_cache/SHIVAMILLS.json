@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Shiva Mills Limited engages in the manufacturing and marketing of cotton yarns in India. It operates spinning unit and owns 22 windmills with a total installed capacity of 10.65 MW. The company also exports its products. The company was formerly known as STYL Textile Ventures Limited and changed its name to Shiva Mills Limited in March 2017. Shiva Mills Limited was incorporated in 2015 and is based in Coimbatore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 49.51,
-  "pe_ratio": 14.73,
+  "market_cap_cr": 48.29,
+  "pe_ratio": 14.37,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 107.03,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:23:15.486487",
-  "provider_reported_pb_ratio": 0.54,
-  "statements_retrieved_at": "2026-11-01T07:23:15.486487",
+  "retrieval_time": "2026-11-02T23:47:48.606062",
+  "provider_reported_pb_ratio": 0.52,
+  "statements_retrieved_at": "2026-11-02T23:47:48.606062",
   "retained_fields": []
 }

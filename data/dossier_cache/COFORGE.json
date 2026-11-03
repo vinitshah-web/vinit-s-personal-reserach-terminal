@@ -5,14 +5,14 @@
   "industry": "Information Technology Services",
   "business_summary": "Coforge Limited provides information technology (IT) and IT-enabled services in India, the Americas, Europe, the Middle East and Africa, Latin America, and the Asia Pacific. The company offers Artificial intelligence services and platforms; and AI (artificial intelligence) and ML (machine learning) services, including predictive analytics, model risk management, and recommendation engine; intelligent automation solutions, such as enterprise and intelligent process automation, and smart application; data analytics solutions, such as data migration, cloud data engineering, master and meta data management, data quality management, data governance, self-service BI, descriptive and customer analytics, and workforce analytics; process consulting services. It also provides engineering services, such as digital and product engineering, legacy modernization, agile transformation, and enterprise integration; quality engineering services, including enterprise package assurance, data and intelligence, digital quality engineering, quality engineering lifecycle automation, and advisory; and in application development and maintenance, managed services, cloud computing, and business process outsourcing services. Additionally, it offers vehicle software development, system architecture, integration, simulation and validation, OTA management, vehicle connectivity, mobile applications, edge-cloud technologies, V2X, navigation, and vehicle data platform services. It serves banking and financial, travel, transportation, hospitality, insurance, healthcare, life science, retail, consumer goods, public sector, technology, telecom, media, automotive, and energy. The company was formerly known as NIIT Technologies Limited and changed its name to Coforge Limited in August 2020. Coforge Limited was incorporated in 1992 and is based in Gautam Buddha Nagar, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 90606.35,
-  "pe_ratio": 40.12,
+  "market_cap_cr": 92998.89,
+  "pe_ratio": 41.18,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 504.57,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 44.3063,
-  "fifty_two_week_high": 2061.8,
+  "fifty_two_week_high": 2112.2,
   "fifty_two_week_low": 1008.1,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T06:43:51.517692",
-  "provider_reported_pb_ratio": 4.05,
-  "statements_retrieved_at": "2026-11-01T06:43:51.517692",
+  "retrieval_time": "2026-11-02T23:06:13.581584",
+  "provider_reported_pb_ratio": 4.16,
+  "statements_retrieved_at": "2026-11-02T23:06:13.581584",
   "retained_fields": []
 }

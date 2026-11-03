@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Lagnam Spintex Limited engages in the manufacturing and sale of cotton yarns in India and internationally. The company offers cotton compact ring spun combed yarns and carded yarns; cotton ring spun carded yarns and combed yarns; cotton open end yarn; compact eli twist yarn; compact slub yarn; organic cotton yarn; and yarn spun on perforated tubes/soft package for direct dyeing, and OE yarn. Its products are used in various applications, such as denims, terry towels, knitting, shirting, sheeting, sweaters, socks, weaving, bottom wear, home textile, and industrial fabrics. Lagnam Spintex Limited was incorporated in 2010 and is based in Bhilwara, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 141.76,
-  "pe_ratio": 7.74,
+  "market_cap_cr": 148.26,
+  "pe_ratio": 8.1,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 84.62,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-01T07:03:27.301771",
-  "provider_reported_pb_ratio": 0.95,
-  "statements_retrieved_at": "2026-11-01T07:03:27.301771",
+  "retrieval_time": "2026-11-02T23:26:54.901448",
+  "provider_reported_pb_ratio": 0.99,
+  "statements_retrieved_at": "2026-11-02T23:26:54.901448",
   "retained_fields": []
 }
