@@ -17,10 +17,10 @@
   "financial_statements": [],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": false,
-  "retrieval_time": "2026-11-04T21:57:45.803183",
+  "retrieval_time": "2026-11-04T23:12:47.363698",
   "provider_reported_pb_ratio": null,
   "statements_retrieved_at": "2026-11-01T07:24:17.767270",
-  "previous_retrieval_time": "2026-11-03T23:08:30.978910",
+  "previous_retrieval_time": "2026-11-04T21:57:45.803183",
   "retained_fields": [
     "financial_statements",
     "previous_retrieval_time"
