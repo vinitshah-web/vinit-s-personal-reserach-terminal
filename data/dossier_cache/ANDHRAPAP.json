@@ -5,8 +5,8 @@
   "industry": "Paper & Paper Products",
   "business_summary": "Andhra Paper Limited engages in the manufacture and sale of pulp, paper, and paperboard in India and internationally. The company offers writing and printing grades for book, notebook, notepad, diary, calendar, journals, annual report, envelopes, and commercial printing applications; copier products for high-speed copying, printing, and office documentation applications; and industrial grades for paper cups, straw, pharma leaflet, POS rolls, outer cover of blade, drawing and cartridge, pouches, envelopes, soap inner layer, bill book, file covers, chart papers, and wedding cards. It also provides packaging board products for e-commerce, FMCG, food processing, and organized retail; and tissue and hygiene papers. The company was formerly known as International Paper APPM Limited and changed its name to Andhra Paper Limited in January 2020. The company was founded in 1921 and is based in Kolkata, India. Andhra Paper Limited operates as a subsidiary of West Coast Paper Mills Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 1261.51,
-  "pe_ratio": 45.64,
+  "market_cap_cr": 1274.83,
+  "pe_ratio": 24.38,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 96.54,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:08:12.734496",
+  "retrieval_time": "2026-11-04T21:00:34.751046",
   "provider_reported_pb_ratio": 0.66,
-  "statements_retrieved_at": "2026-11-03T22:08:12.734496",
+  "statements_retrieved_at": "2026-11-04T21:00:34.751046",
   "retained_fields": []
 }

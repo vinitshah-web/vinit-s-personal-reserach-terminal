@@ -5,8 +5,8 @@
   "industry": "Electrical Equipment & Parts",
   "business_summary": "HBL Engineering Limited manufactures and sells batteries and electronic equipment in India and internationally. It operates through Industrial batteries, Defense and Aviation batteries, and Electronics segments. The company offers lead acid batteries, nickel-cadmium batteries, silver zinc batteries, and lithium batteries. It also provides rail signaling electronics, electronic fuzes for ammunition, train collision avoidance systems, train management system, and electric drive trains. The company serves system integrators, EPC's, railway, aviation, and defense companies, as well as government sector. The company was formerly HBL Power Systems Limited and changed its name to HBL Engineering Limited in November 2024. The company was founded in 1977 and is headquartered in Hyderabad, India. HBL Engineering Limited is a subsidiary of Aluru Family Private Trust.",
   "business_summary_reason": null,
-  "market_cap_cr": 22533.18,
-  "pe_ratio": 28.87,
+  "market_cap_cr": 23184.59,
+  "pe_ratio": 29.7,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 80.58,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:32:03.520872",
-  "provider_reported_pb_ratio": 10.09,
-  "statements_retrieved_at": "2026-11-03T22:32:03.520872",
+  "retrieval_time": "2026-11-04T21:23:17.724145",
+  "provider_reported_pb_ratio": 10.38,
+  "statements_retrieved_at": "2026-11-04T21:23:17.724145",
   "retained_fields": []
 }

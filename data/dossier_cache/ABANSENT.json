@@ -5,8 +5,8 @@
   "industry": "Capital Markets",
   "business_summary": "ABans Enterprises Limited, together with its subsidiaries, engages in the trading of precious metal, agricultural and non-agricultural commodities in India, the United Arab Emirates, and Mauritius. The company trades in agricultural commodities, such as castor seeds, guar-gum, guar seeds, turmeric, chana, cotton oil seeds, coriander, and jeera; and non-agricultural commodities, including gold and silver bars, as well as base metals, including aluminum, lead, copper, and zinc. It is also involved in trading of commodities and derivatives; and trading and manufacturing of precious/semi-precious stone studded gold and diamond jewelry products, as well as trading and import/export of gold, jewellery, pearls, and precious stones. The company was formerly known as Matru-Smriti Traders Limited and changed its name to ABans Enterprises Limited in March 2016. The company was incorporated in 1985 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 189.37,
-  "pe_ratio": 5.92,
+  "market_cap_cr": 191.18,
+  "pe_ratio": 5.97,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 31.03,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:04:35.118453",
-  "provider_reported_pb_ratio": 0.87,
-  "statements_retrieved_at": "2026-11-03T22:04:35.118453",
+  "retrieval_time": "2026-11-04T20:57:10.146083",
+  "provider_reported_pb_ratio": 0.88,
+  "statements_retrieved_at": "2026-11-04T20:57:10.146083",
   "retained_fields": []
 }

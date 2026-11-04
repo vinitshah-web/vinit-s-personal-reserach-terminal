@@ -5,14 +5,14 @@
   "industry": "Integrated Freight & Logistics",
   "business_summary": "Gateway Distriparks Limited, together with its subsidiaries, provides integrated inter-modal logistics services in India. The company offers general and bonded warehousing, rail and road transportation, first- and last-mile connectivity, and container handling services, as well as other value-added services, such as palletization and sheet wrapping. It also provides temperature-controlled warehousing, transportation, distribution, and supply chain solutions services. In addition, the company owns and operates rail rakes and a fleet of trailers. It serves food, pharmaceuticals, e-commerce, dairy, seafood, and other temperature-sensitive industries. The company was formerly known as GatewayRail Freight Limited. Gateway Distriparks Limited was incorporated in 2005 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2317.85,
-  "pe_ratio": 9.83,
+  "market_cap_cr": 2319.85,
+  "pe_ratio": 9.84,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 46.79,
-  "dividend_yield_pct": 4.4189,
+  "dividend_yield_pct": 4.3113,
   "shares_outstanding_cr": 49.9644,
-  "fifty_two_week_high": 65.3,
+  "fifty_two_week_high": 65.28,
   "fifty_two_week_low": 42.44,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:27:39.496034",
+  "retrieval_time": "2026-11-04T21:18:43.915577",
   "provider_reported_pb_ratio": 0.99,
-  "statements_retrieved_at": "2026-11-03T22:27:39.496034",
+  "statements_retrieved_at": "2026-11-04T21:18:43.915577",
   "retained_fields": []
 }

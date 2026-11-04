@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Automotive Axles Limited manufactures and sells automotive components in India. It offers drive axles, non-drive axles, defense axles, front steer axles, off-highway axles, drum and disc brakes, and suspension related products. The company primarily serves trucks and buses manufacturers, original equipment manufacturers, and military and off-highway vehicle sectors. It also exports its products to the United States, China, France, Italy, Brazil, Australia, and internationally. Automotive Axles Limited was incorporated in 1981 and is based in Mysore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2358.37,
-  "pe_ratio": 13.54,
+  "market_cap_cr": 2398.57,
+  "pe_ratio": 13.77,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 727.09,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:11:14.380650",
-  "provider_reported_pb_ratio": 2.15,
-  "statements_retrieved_at": "2026-11-03T22:11:14.380650",
+  "retrieval_time": "2026-11-04T21:03:28.745295",
+  "provider_reported_pb_ratio": 2.18,
+  "statements_retrieved_at": "2026-11-04T21:03:28.745295",
   "retained_fields": []
 }

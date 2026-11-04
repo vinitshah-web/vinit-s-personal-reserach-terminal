@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "Shah Metacorp Limited manufactures and sells stainless steel and mild steel long products in India. The company offers stainless steel products, including equal angle bars, bright bars, flat bars, flats, and ingots. It also provides mild steel products, such as mild steel angle bars. The company also exports its products. The company was formerly known as Gyscoal Alloys Limited and changed its name to Shah Metacorp Limited in June 2023. Shah Metacorp Limited was incorporated in 1999 and is headquartered in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 259.67,
-  "pe_ratio": 16.87,
+  "market_cap_cr": 281.23,
+  "pe_ratio": 18.27,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 3.31,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T23:06:27.682462",
-  "provider_reported_pb_ratio": 0.76,
-  "statements_retrieved_at": "2026-11-03T23:06:27.682462",
+  "retrieval_time": "2026-11-04T21:55:53.205705",
+  "provider_reported_pb_ratio": 0.83,
+  "statements_retrieved_at": "2026-11-04T21:55:53.205705",
   "retained_fields": []
 }

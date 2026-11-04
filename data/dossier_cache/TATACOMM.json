@@ -5,8 +5,8 @@
   "industry": "Telecom Services",
   "business_summary": "Tata Communications Limited operates as a communications technology company worldwide. It offers voice and data transmission services, internet connectivity services, and other value-added services, such as unified conferencing and collaboration services, managed hosting, mobile global roaming and signaling services, transponder lease, television uplinking and other managed services, data center colocation services, network management and support, and other related services. The company also provides IZO, a self-healing network for interconnection between data centre; IZO+, a multi cloud network; Vayu Cloud, an enterprise sovereign cloud platform, which integrates infrastructure, AI, data, and security; AI Studio, an end-to-end platform to discover, build, deploy, and scale AI workloads; and ThreadSpan, an AI-powered control platform for observability, automated configuration, and closed-loop automation. In addition, it offers TC, a single-pane-of-glass view and control in network, cloud, and cybersecurity environments; Kaleyra AI platforms for conversational AI, omnichannel engagement and hyper-personalized experiences; cybersecurity products, including managed detection and response, cloud security, advanced network security, security assessment and consulting services, OT security, SD-WAN, security service edge, hosted and managed SASE, and edge distribution platform. Further, the company provides move, an IoT product; TX Hub, an AI powered and no-code platform for customer and agent experience; and Kaleyra.ai, a CX platform for data, automation, and engagement. Additionally, it is involved in the sale and leasing of bandwidth on undersea cable systems; leasing, letting out, licensing, or developing immovable properties. The company was formerly known as Videsh Sanchar Nigam Limited and changed its name to Tata Communications Limited in 2008. Tata Communications Limited was incorporated in 1986 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 50152.26,
-  "pe_ratio": 45.5,
+  "market_cap_cr": 50021.13,
+  "pe_ratio": 45.39,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 119.28,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T23:13:34.652970",
-  "provider_reported_pb_ratio": 14.75,
-  "statements_retrieved_at": "2026-11-03T23:13:34.652970",
+  "retrieval_time": "2026-11-04T22:02:46.321624",
+  "provider_reported_pb_ratio": 14.71,
+  "statements_retrieved_at": "2026-11-04T22:02:46.321624",
   "retained_fields": []
 }

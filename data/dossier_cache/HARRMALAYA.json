@@ -5,8 +5,8 @@
   "industry": "Farm Products",
   "business_summary": "Harrisons Malayalam Limited engages in the plantations for tea and rubber in India and internationally. The company operates in three segments: Tea, Rubber, and Others. It offers custom blended tea, latex, pale latex crepe, crumb rubber, and special grades rubber products; CTC and Orthodox Tea, as well as pineapple. The company also produces exotic horticultural crops, including areca nut, banana, cardamom, cocoa, coffee, coconut, pepper, and vanilla, as well as organic tea and spices. Harrisons Malayalam Limited was incorporated in 1978 and is based in Kochi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 301.25,
-  "pe_ratio": 11.11,
+  "market_cap_cr": 307.28,
+  "pe_ratio": 11.33,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 97.03,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:31:50.296056",
-  "provider_reported_pb_ratio": 1.68,
-  "statements_retrieved_at": "2026-11-03T22:31:50.296056",
+  "retrieval_time": "2026-11-04T21:23:06.162634",
+  "provider_reported_pb_ratio": 1.72,
+  "statements_retrieved_at": "2026-11-04T21:23:06.162634",
   "retained_fields": []
 }

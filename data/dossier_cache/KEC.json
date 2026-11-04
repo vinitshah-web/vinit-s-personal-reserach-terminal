@@ -5,15 +5,15 @@
   "industry": "Engineering & Construction",
   "business_summary": "KEC International Limited engages in the engineering, procurement, and construction (EPC) business. It designs, manufactures, supplies, and erects transmission lines on turnkey basis; executes gas insulated transmission lines; undertakes EPC projects of high voltage electrical switching and distribution substations, as well as transmission lines in oil field areas; and turnkey solutions for railway contracts. The company also provides civil engineering solutions for transportation; urban infrastructure; industrial; residential and defense; commercial, public space, and datacenters; water; and international projects. In addition, it is involved in the provision of solar EPC services for large solar PV projects and PV solutions for industrial and commercial consumers; and design and engineering, project execution and management, bid management, and project feasibility analysis for large-scale solar photovoltaic power plants, as well as roof-top solar PV projects. Further, the company undertakes the construction of oil and gas / slurry pipelines and composite mechanical, civil, electrical, and instrumentation work in hydrocarbon facilities. The company manufactures and exports power cables, including EHV, HT and LV, telecom and optical fiber cables, control and instrumentation cables, and railway cables and conductors; special-purpose cables, such as cathodic protection, concentric, flat submersible, electric vehicle charging, hybrid, and green cables; and provides turnkey cabling solutions. KEC International Limited was founded in 1945 and is headquartered in Mumbai, India. KEC International Limited is a subsidiary of RPG Enterprises Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 8421.24,
-  "pe_ratio": 19.92,
+  "market_cap_cr": 8559.66,
+  "pe_ratio": 20.25,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 229.4,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 26.62,
-  "fifty_two_week_high": 814.4,
-  "fifty_two_week_low": 311.0,
+  "fifty_two_week_high": 811.1,
+  "fifty_two_week_low": 299.0,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:40:38.989679",
-  "provider_reported_pb_ratio": 1.38,
-  "statements_retrieved_at": "2026-11-03T22:40:38.989679",
+  "retrieval_time": "2026-11-04T21:31:30.070241",
+  "provider_reported_pb_ratio": 1.4,
+  "statements_retrieved_at": "2026-11-04T21:31:30.070241",
   "retained_fields": []
 }

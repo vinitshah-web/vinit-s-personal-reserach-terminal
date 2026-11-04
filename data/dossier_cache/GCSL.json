@@ -5,15 +5,15 @@
   "industry": "Capital Markets",
   "business_summary": "Gretex Corporate Services Limited, a merchant banking company, provides financial and consultancy services in the areas of capital markets advisory, corporate finance, corporate restructuring, debt syndication, and compliance advisory in India. The company offers initial public offerings, follow-on public offers, rights issues and qualified institutional placements, and open offers, exit offers, and delisting; corporate finance advisory services, such as capital structuring and fundraising strategy, private equity and venture capital advisory, structured debt, and bank financing debt issuance; strategic and restructuring advisory comprising mergers and acquisitions, takeovers and open offers, demergers and reorganizations, and financial restructuring; and compliance advisory which includes post-listing compliance, corporate governance advisory, and ongoing regulatory monitoring. It serves small and medium enterprises. Gretex Corporate Services Limited was incorporated in 2008 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1933.79,
-  "pe_ratio": 50.09,
+  "market_cap_cr": 1961.67,
+  "pe_ratio": 50.81,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 70.27,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 2.5005,
   "fifty_two_week_high": 788.55,
-  "fifty_two_week_low": 226.5,
+  "fifty_two_week_low": 240.32,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:27:46.211389",
-  "provider_reported_pb_ratio": 11.01,
-  "statements_retrieved_at": "2026-11-03T22:27:46.211389",
+  "retrieval_time": "2026-11-04T21:18:50.448896",
+  "provider_reported_pb_ratio": 11.16,
+  "statements_retrieved_at": "2026-11-04T21:18:50.448896",
   "retained_fields": []
 }

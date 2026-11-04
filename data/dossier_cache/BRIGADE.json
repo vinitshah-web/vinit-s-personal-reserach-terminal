@@ -5,14 +5,14 @@
   "industry": "Real Estate - Development",
   "business_summary": "Brigade Enterprises Limited engages in the provision of real estate development, leasing, and related services in India. It operates through Real Estate, Hospitality, and Leasing segments. The company develops and sells various residential and commercial, and retail properties. It also manages star-rated hotels, clubs, and convention centres, as well as the Baking Company. Brigade Enterprises Limited was founded in 1986 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 17183.86,
-  "pe_ratio": 23.69,
+  "market_cap_cr": 17648.64,
+  "pe_ratio": 24.33,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 219.52,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 32.6162,
-  "fifty_two_week_high": 775.65,
+  "fifty_two_week_high": 765.675,
   "fifty_two_week_low": 450.75,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:15:42.897249",
-  "provider_reported_pb_ratio": 2.4,
-  "statements_retrieved_at": "2026-11-03T22:15:42.897249",
+  "retrieval_time": "2026-11-04T21:07:39.382862",
+  "provider_reported_pb_ratio": 2.46,
+  "statements_retrieved_at": "2026-11-04T21:07:39.382862",
   "retained_fields": []
 }

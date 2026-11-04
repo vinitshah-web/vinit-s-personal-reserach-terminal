@@ -5,14 +5,14 @@
   "industry": "Entertainment",
   "business_summary": "Network18 Media & Investments Limited engages in broadcasting, digital content, print, and allied businesses in India. The company operates business news channels, such as CNBC-TV18, CNBC Awaaz, and CNBC Bajar; general news channels, including CNN News18 and News18 India; and regional news channels comprising News18 network. It also operates factual entertainment and lifestyle channels, such as HistoryTV18. In addition, the company operates digital content websites, including MoneyControl, CNBCTV18.com, and Firstpost. Further, it publishes Forbes India and Overdrive magazines; and engages in film distribution and syndication. The company was formerly known as Network18 Fincap Private Limited and changed its name to Network18 Media & Investments Limited in December 2007. Network18 Media & Investments Limited was incorporated in 1996 and is based in Mumbai, India. Network18 Media & Investments Limited operates as a subsidiary of Reliance Industries Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 3929.18,
+  "market_cap_cr": 4078.99,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 32.57,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 154.2,
-  "fifty_two_week_high": 50.24,
+  "fifty_two_week_high": 48.93,
   "fifty_two_week_low": 22.86,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:51:55.496605",
-  "provider_reported_pb_ratio": 0.78,
-  "statements_retrieved_at": "2026-11-03T22:51:55.496605",
+  "retrieval_time": "2026-11-04T21:42:09.291931",
+  "provider_reported_pb_ratio": 0.81,
+  "statements_retrieved_at": "2026-11-04T21:42:09.291931",
   "retained_fields": []
 }

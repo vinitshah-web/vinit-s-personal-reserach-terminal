@@ -5,8 +5,8 @@
   "industry": "Lodging",
   "business_summary": "Advent Hotels International Limited operates as a hospitality company in India. It focuses, creates and owns luxury and upper-upscale hospitality assets. The company was incorporated in 2006 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 659.56,
-  "pe_ratio": 63.68,
+  "market_cap_cr": 629.46,
+  "pe_ratio": 60.78,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 167.66,
@@ -63,8 +63,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:05:50.138203",
-  "provider_reported_pb_ratio": 0.73,
-  "statements_retrieved_at": "2026-11-03T22:05:50.138203",
+  "retrieval_time": "2026-11-04T20:58:18.913669",
+  "provider_reported_pb_ratio": 0.7,
+  "statements_retrieved_at": "2026-11-04T20:58:18.913669",
   "retained_fields": []
 }

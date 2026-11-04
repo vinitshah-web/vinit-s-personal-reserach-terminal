@@ -5,7 +5,7 @@
   "industry": "Building Materials",
   "business_summary": "Anjani Portland Cement Limited manufactures and trades in cement in India. It operates through the Cement and Power Plant segments. The company offers ordinary Portland, Portland pozzolana, rapid hardening Portland, and composite cement. It is also involved in power generation activities. The company sells its products through dealers and distributors. It serves commercial, private, trade-non-trade, government, and retail customers. The company was formerly known as Shez Cement Limited and changed its name to Anjani Portland Cement Limited in October 1999. The company was incorporated in 1983 and is based in Hyderabad, India. Anjani Portland Cement Limited operates as a subsidiary of Chettinad Cement Corporation Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 244.78,
+  "market_cap_cr": 247.01,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:08:51.818927",
-  "provider_reported_pb_ratio": 0.67,
-  "statements_retrieved_at": "2026-11-03T22:08:51.818927",
+  "retrieval_time": "2026-11-04T21:01:17.064170",
+  "provider_reported_pb_ratio": 0.68,
+  "statements_retrieved_at": "2026-11-04T21:01:17.064170",
   "retained_fields": []
 }

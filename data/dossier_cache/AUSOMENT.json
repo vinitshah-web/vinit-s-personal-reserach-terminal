@@ -5,8 +5,8 @@
   "industry": "Capital Markets",
   "business_summary": "AuSom Enterprise Limited operates as a trading company in India. It trades in commodities, bullions, gold jewelry, diamonds, derivatives, shares and securities, and units of mutual funds; manufactures and sells gold bars; and generates and distributes electric power through solar or wind power and other energy generation plant. The company was formerly known as Core Emballage Limited. AuSom Enterprise Limited was incorporated in 1984 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 195.06,
-  "pe_ratio": 7.86,
+  "market_cap_cr": 195.88,
+  "pe_ratio": 7.9,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 118.47,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:11:11.659295",
+  "retrieval_time": "2026-11-04T21:03:26.055747",
   "provider_reported_pb_ratio": 1.21,
-  "statements_retrieved_at": "2026-11-03T22:11:11.659295",
+  "statements_retrieved_at": "2026-11-04T21:03:26.055747",
   "retained_fields": []
 }

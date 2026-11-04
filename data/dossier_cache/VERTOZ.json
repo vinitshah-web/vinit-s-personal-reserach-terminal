@@ -5,8 +5,8 @@
   "industry": "Software - Infrastructure",
   "business_summary": "Vertoz Limited operates as a digital advertising and media technology company that provides digital advertising, marketing, media, and monetization solutions in India. The company offers Ingenious Plex, a marketing and advertising technology cloud platform that uses advanced AI technology, machine learning, and programmatic advertising for data-driven decisions, automate workflows, and real-time optimize campaigns; IncrementX, a media representation platform; Webimax that operates as digital advertising and performance services provider; Qualispace, a cloud infrastructure platform that delivers web-presence solutions comprising cloud servers, web hosting, advanced enterprise email solutions, security certificates, etc.; and ConnectReseller, which offers domain registration services for resellers, and SSL certificates. It serves BFSI, education, real estate, e-commerce, and automobile sectors. The company was formerly known as Vertoz Advertising Limited and changed its name to Vertoz Limited in July 2024. Vertoz Limited was incorporated in 2012 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 255.09,
-  "pe_ratio": 9.3,
+  "market_cap_cr": 269.5,
+  "pe_ratio": 9.82,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 25.35,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T23:18:39.996722",
-  "provider_reported_pb_ratio": 1.18,
-  "statements_retrieved_at": "2026-11-03T23:18:39.996722",
+  "retrieval_time": "2026-11-04T22:07:46.596422",
+  "provider_reported_pb_ratio": 1.25,
+  "statements_retrieved_at": "2026-11-04T22:07:46.596422",
   "retained_fields": []
 }

@@ -6,7 +6,7 @@
   "business_summary": "Asset Reconstruction Company (India) Limited operates as an asset reconstruction company, acquiring and resolving distressed assets and non-performing loans. The company acquires, manages, and resolves stressed assets across corporate, SME, and retail segments, providing asset reconstruction services that include acquisition of non-performing assets, restructuring, settlement, and sale of assets. It conducts property auctions, manages settlement processes related to distressed assets, and engages in insolvency and bankruptcy resolution processes under the Insolvency and Bankruptcy Code, 2016, in partnership with insolvency professionals and legal firms. The company also undertakes corporate social responsibility initiatives focused on education, vocational skills, livelihood enhancement, and environmental sustainability. The company serves corporate, SME, and retail clients with stressed assets, as well as banks, non-banking financial companies, legal professionals, advocates, and law firms involved in asset recovery and insolvency processes. The company was founded in 2002 and is based in Mumbai, India. Asset Reconstruction Company (India) Limited operates as a subsidiary of Avenue India Resurgence Pte Limited.",
   "business_summary_reason": null,
   "market_cap_cr": null,
-  "pe_ratio": 9.29,
+  "pe_ratio": 9.48,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 126.67,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:09:22.617225",
-  "provider_reported_pb_ratio": 0.96,
-  "statements_retrieved_at": "2026-11-03T22:09:22.617225",
+  "retrieval_time": "2026-11-04T21:01:45.893704",
+  "provider_reported_pb_ratio": 0.98,
+  "statements_retrieved_at": "2026-11-04T21:01:45.893704",
   "retained_fields": []
 }

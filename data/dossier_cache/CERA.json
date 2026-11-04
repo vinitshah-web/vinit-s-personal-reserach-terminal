@@ -5,8 +5,8 @@
   "industry": "Building Products & Equipment",
   "business_summary": "Cera Sanitaryware Limited manufactures, sells, and trades in building material products in India. The company offers sanitaryware, including toilets, wash basins, cisterns, seat covers, and fittings; faucets, showers, health faucets, allied products, and bath accessories; urinals; special needs bathroom products, shower chairs, and grab bars and handrails; green bathroom products; floor and wall tiles; shower partitions; kitchen sinks; bathtubs; and vanity cabinets and mirrors under the Senator, CERA Luxe, CERA, and Polipluz brands. It also exports its products. The company serves individual homeowners, small-scale buyers, construction companies, real estate developers, government bodies, and large entities through dealer and sub-dealer networks and direct engagement channels. The company was formerly known as Madhusudan Oils & Fats Ltd and changed its name to Cera Sanitaryware Limited in January 2003. Cera Sanitaryware Limited was founded in 1980 and is headquartered in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 6012.93,
-  "pe_ratio": 29.63,
+  "market_cap_cr": 6160.32,
+  "pe_ratio": 30.36,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 1141.57,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:17:12.643591",
-  "provider_reported_pb_ratio": 4.08,
-  "statements_retrieved_at": "2026-11-03T22:17:12.643591",
+  "retrieval_time": "2026-11-04T21:09:02.387531",
+  "provider_reported_pb_ratio": 4.18,
+  "statements_retrieved_at": "2026-11-04T21:09:02.387531",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "Jindal Steel Limited manufactures steel in India and internationally. It offers TMT rebars under the Jindal Panther brand; structural sections, rails, wire rods, round bars, and cut and bend rebars; and flat products, such as hot rolled coils, cast rounds, cold rolled and coated products, plates and coils, rockhard plates, and hollow sections. The company also provides semi-finished and specialized products, including cathode bars, fabricated sections, track shoes, sheet piles, sin beams, and value-added billets and blooms. In addition, it is involved in design and manufacturing of EOT and gantry cranes for steel plants, ports, infrastructure, and heavy engineering applications; manufactures pressure-retaining equipment for high-pressure and high-temperature industrial applications; and manufactures ferrous cast components for metallurgical and thermal processing industries. Further, the company engages in the operation of iron ore mines in Kasia, Roida, and Tensa in India; coal assets; pellet plants; and captive power facilities. It serves infrastructure, distribution, automotive, defense, building and construction, and engineering and packing. The company was formerly known as Jindal Steel & Power Limited and changed its name to Jindal Steel Limited in July 2025. Jindal Steel Limited was incorporated in 1979 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 112485.95,
-  "pe_ratio": 39.39,
+  "market_cap_cr": 116965.02,
+  "pe_ratio": 40.96,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 514.58,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:38:42.536737",
-  "provider_reported_pb_ratio": 2.15,
-  "statements_retrieved_at": "2026-11-03T22:38:42.536737",
+  "retrieval_time": "2026-11-04T21:29:32.614535",
+  "provider_reported_pb_ratio": 2.23,
+  "statements_retrieved_at": "2026-11-04T21:29:32.614535",
   "retained_fields": []
 }

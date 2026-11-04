@@ -5,14 +5,14 @@
   "industry": "Utilities - Regulated Gas",
   "business_summary": "Mahanagar Gas Limited operates as a natural gas distribution company in India. The company supplies piped natural gas (PNG) to domestic households, domestic households, and commercial establishments and industries used for cooking and water heating, as well as by hospitals, nursing homes, hotels, flight kitchens, restaurants, and places of worship. It also supplies compressed natural gas (CNG) and liquefied natural gas (LNG) to vehicles; and sells pipes and fittings required for construction of pipeline infrastructure. The company operates 518 CNG stations connected to 32.14 lakh households; and 5,924 industrial and commercial customers through a pipeline network of 8320 kilometers comprising of carbon steel and polyethylene pipelines. Mahanagar Gas Limited was incorporated in 1995 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 10429.95,
-  "pe_ratio": 14.58,
+  "market_cap_cr": 10462.54,
+  "pe_ratio": 15.86,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
-  "book_value": 650.7,
+  "book_value": 650.71,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 9.8778,
-  "fifty_two_week_high": 1284.0,
+  "fifty_two_week_high": 1267.0,
   "fifty_two_week_low": 900.0,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:47:41.397746",
-  "provider_reported_pb_ratio": 1.62,
-  "statements_retrieved_at": "2026-11-03T22:47:41.397746",
+  "retrieval_time": "2026-11-04T21:38:06.915522",
+  "provider_reported_pb_ratio": 1.63,
+  "statements_retrieved_at": "2026-11-04T21:38:06.915522",
   "retained_fields": []
 }

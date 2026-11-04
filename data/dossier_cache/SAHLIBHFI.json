@@ -5,8 +5,8 @@
   "industry": "Credit Services",
   "business_summary": "Shalibhadra Finance Limited operates as an asset finance company in India. The company offers new and used two-wheeler, used three/four-wheeler, auto rickshaw, cars, property, and consumer durable loans. It sells its products through its branches. The company serves the salaried class, agriculturists, and self-employed customers in the rural, semi-urban, and other under banked areas of Gujarat, Maharashtra, Madhya Pradesh, and Rajasthan. Shalibhadra Finance Limited was incorporated in 1992 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 220.11,
-  "pe_ratio": 11.12,
+  "market_cap_cr": 219.8,
+  "pe_ratio": 11.1,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 55.65,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T23:03:36.741708",
+  "retrieval_time": "2026-11-04T21:53:13.656880",
   "provider_reported_pb_ratio": 1.28,
-  "statements_retrieved_at": "2026-11-03T23:03:36.741708",
+  "statements_retrieved_at": "2026-11-04T21:53:13.656880",
   "retained_fields": []
 }

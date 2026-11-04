@@ -5,8 +5,8 @@
   "industry": "Building Products & Equipment",
   "business_summary": "Oriental Trimex Limited engages in importing and processing of natural stones in India. The company offers marble, granite, quartzite, travertine, quartz, tiles, onyx, and marble artifact products. It sells its products to developers, contractors, hotels, and institutional buyers. The company was incorporated in 1996 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 33.37,
-  "pe_ratio": 10.81,
+  "market_cap_cr": 35.06,
+  "pe_ratio": 11.36,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 21.92,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:54:49.039190",
-  "provider_reported_pb_ratio": 0.21,
-  "statements_retrieved_at": "2026-11-03T22:54:49.039190",
+  "retrieval_time": "2026-11-04T21:44:56.310745",
+  "provider_reported_pb_ratio": 0.22,
+  "statements_retrieved_at": "2026-11-04T21:44:56.310745",
   "retained_fields": []
 }

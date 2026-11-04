@@ -5,14 +5,14 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Jai Corp Limited primarily engages in the plastic processing business in India and internationally. The company operates through five segments: Steel, Plastic Processing, Spinning, Other Investments/Assets, and Real Estate. It offers polypropylene and polyethylene woven products, including discharge, filling, lift loop, liner, and stites type flexible intermediate bulk containers and woven sacks; and fabrics, such as geo-textiles, industrial fabrics, and landscape textiles, as well as open, duffel, rigid standalone loop, and customized bags. The company also produces, processes, and trades in steel products comprising galvanized coils, and plain and corrugated sheets. In addition, it produces yarn in blends that consists of polyester, polyester/viscose, viscose, acrylic, polyester/acrylic, and polyester/viscose/acrylic for various applications comprising apparel, home furnishings, carpets, industrial applications, etc. Further, the company engages in the special economic zone development, infrastructure, venture capital, land and buildings development, and investment advisory activities; and provision of masterbatches. It also exports its products. The company was incorporated in 1985 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1539.53,
-  "pe_ratio": 9.08,
+  "market_cap_cr": 1578.84,
+  "pe_ratio": 9.31,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 85.58,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 17.5505,
-  "fifty_two_week_high": 172.4,
+  "fifty_two_week_high": 168.2,
   "fifty_two_week_low": 83.32,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:38:05.429092",
-  "provider_reported_pb_ratio": 1.03,
-  "statements_retrieved_at": "2026-11-03T22:38:05.429092",
+  "retrieval_time": "2026-11-04T21:28:57.298775",
+  "provider_reported_pb_ratio": 1.05,
+  "statements_retrieved_at": "2026-11-04T21:28:57.298775",
   "retained_fields": []
 }

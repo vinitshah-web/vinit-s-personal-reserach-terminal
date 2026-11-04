@@ -5,14 +5,14 @@
   "industry": "Information Technology Services",
   "business_summary": "Cambridge Technology Enterprises Limited, a business and technology services company, provides IT solutions to enterprise services in India, the united states, the Middle East, Malaysia, the Philippines, and internationally. The company offers pre-built and pre-integrated artificial intelligence solutions and machine learning models, which enables businesses to build, deploy, and configure solutions; data advisory, transformation, and real time data streaming services; and data strategy, potential, and analytics, as well as data Ops. It also provides application services, such as end-to-end development, migration, testing, and mobility; identity and access management advisory, transformation, and managed services; and SaaS solutions and custom apps, as well as IoT services. In addition, the company offers infrastructure and cloud services, including cloud migration and transformation, DevOps, infrastructure managed, and AWS well-architected review, as well as cyber security services. Further, it sells software licenses. Cambridge Technology Enterprises Limited was incorporated in 1999 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 66.68,
-  "pe_ratio": 9.76,
+  "market_cap_cr": 67.09,
+  "pe_ratio": 9.82,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 41.01,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.9251,
-  "fifty_two_week_high": 55.42,
+  "fifty_two_week_high": 54.25,
   "fifty_two_week_low": 20.51,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:19:37.704110",
-  "provider_reported_pb_ratio": 0.84,
-  "statements_retrieved_at": "2026-11-03T22:19:37.704110",
+  "retrieval_time": "2026-11-04T21:11:16.682534",
+  "provider_reported_pb_ratio": 0.85,
+  "statements_retrieved_at": "2026-11-04T21:11:16.682534",
   "retained_fields": []
 }

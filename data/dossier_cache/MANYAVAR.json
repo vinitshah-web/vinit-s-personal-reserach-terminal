@@ -5,14 +5,14 @@
   "industry": "Apparel Manufacturing",
   "business_summary": "Vedant Fashions Limited engages in the manufacture, trading, and sale of wedding and celebration wear in India, Nepal, the United States, Canada, the United Arab Emirates, the United Kingdom, and internationally. The company offers kurta sets, indo-western, sherwani sets, jackets, accessories, jodhpuris suits, and short kurtas for men; lehengas, sarees, stitched suits, crop top lehengas, gowns, and accessories for women; and kurta sets, jacket sets, and indo-western outfits. It provides its products under the Manyavar, Mohey, Twamev, Diwas, and Mebaz brands through franchised stores, multi-brand outlets, large format stores, and e-commerce. Vedant Fashions Limited was founded in 1999 and is headquartered in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 12073.6,
-  "pe_ratio": 31.29,
+  "market_cap_cr": 12071.17,
+  "pe_ratio": 31.28,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 80.94,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 24.2979,
-  "fifty_two_week_high": 651.7,
+  "fifty_two_week_high": 648.55,
   "fifty_two_week_low": 329.2,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:46:15.650598",
+  "retrieval_time": "2026-11-04T21:36:47.388730",
   "provider_reported_pb_ratio": 6.14,
-  "statements_retrieved_at": "2026-11-03T22:46:15.650598",
+  "statements_retrieved_at": "2026-11-04T21:36:47.388730",
   "retained_fields": []
 }

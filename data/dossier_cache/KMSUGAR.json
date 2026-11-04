@@ -5,8 +5,8 @@
   "industry": "Confectioners",
   "business_summary": "K.M. Sugar Mills Limited engages in manufacturing and sells of sugar in India. The company operates through Sugar and Distillery segments. It also produces and sells various grades of sugar in jute bags and PP bags; and rectified spirit, ethanol, and extra neutral alcohol. In addition, the company offers molasses, bagasse, and industrial alcohol. Further, it operates a 25 MW bagasse-based co-generation power plant at Motinagar, Ayodhya, Uttar Pradesh. K.M. The company was founded in 1942 and is based in Faizabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 296.52,
-  "pe_ratio": 6.16,
+  "market_cap_cr": 304.52,
+  "pe_ratio": 6.33,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 42.6,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:41:32.351670",
-  "provider_reported_pb_ratio": 0.76,
-  "statements_retrieved_at": "2026-11-03T22:41:32.351670",
+  "retrieval_time": "2026-11-04T21:32:20.811945",
+  "provider_reported_pb_ratio": 0.78,
+  "statements_retrieved_at": "2026-11-04T21:32:20.811945",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Conglomerates",
   "business_summary": "Nava Limited, together with its subsidiaries, engages in ferroalloy manufacturing, energy, mining, agribusiness, and operation and maintenance services in India, Zambia, the United States, Hong Kong, Japan, the United Arab Emirates, and internationally. It operates through Ferro Alloys, Energy, Mining, and Other segments. The company operates 150 MW and 114 MW coal power plants in Paloncha, Telangana; 150 MW coal power plant in Dhenkanal, Odisha; 20 MW coal/bagasse power plant in Dharmavaram, Andhra Pradesh; and 300 MW power plant in Zambia. It also engages in the production of various alloy metals, including ferro chrome and silicon, and silico manganese; generation of power from thermal sources and related ancillary services; mining and selling of coal; distribution of pharmaceutical products; operation of avocado and sugar cane plantations; and provision of operation and maintenance services for power plants. The company was formerly known as Nava Bharat Ventures Limited and changed its name to Nava Limited in July 2022. Nava Limited was incorporated in 1972 and is headquartered in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 14597.68,
-  "pe_ratio": 19.27,
+  "market_cap_cr": 14787.5,
+  "pe_ratio": 19.52,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 309.02,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:51:16.838425",
-  "provider_reported_pb_ratio": 1.67,
-  "statements_retrieved_at": "2026-11-03T22:51:16.838425",
+  "retrieval_time": "2026-11-04T21:41:30.144772",
+  "provider_reported_pb_ratio": 1.69,
+  "statements_retrieved_at": "2026-11-04T21:41:30.144772",
   "retained_fields": []
 }

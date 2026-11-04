@@ -5,14 +5,14 @@
   "industry": "Apparel Retail",
   "business_summary": "Go Fashion (India) Limited engages in designing, developing, sourcing, marketing, and retailing of women's and girl's bottom-wear products under the Go Colors brand in India. It offers ankle length leggings, palazzos, wide pants, kurti pants, skirts and skorts, joggers, cargos, super stretch jeggings, ethnics, printed shirts, solid shirts, short dresses, midi dresses, long dresses, t-shirts and knit tops, blouses, kurtis/kurtas, pants and trousers, chinos, shirts, jeans and denims, polos, shorts, and t-shirts, offering versatile bottomwear, tops, dresses, ethnic wear, and menswear for a wide range of styles and occasions. The company also sells its products through retail and department stores, exclusive business outlets, and multi-brand outlets, as well as through its website and online marketplaces. Go Fashion (India) Limited was incorporated in 2010 and is headquartered in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1389.9,
-  "pe_ratio": 34.54,
+  "market_cap_cr": 1398.79,
+  "pe_ratio": 34.76,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 135.71,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 5.2596,
-  "fifty_two_week_high": 645.95,
+  "fifty_two_week_high": 645.1,
   "fifty_two_week_low": 232.7,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:29:04.072685",
-  "provider_reported_pb_ratio": 1.95,
-  "statements_retrieved_at": "2026-11-03T22:29:04.072685",
+  "retrieval_time": "2026-11-04T21:20:03.196265",
+  "provider_reported_pb_ratio": 1.96,
+  "statements_retrieved_at": "2026-11-04T21:20:03.196265",
   "retained_fields": []
 }

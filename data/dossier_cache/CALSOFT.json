@@ -5,8 +5,8 @@
   "industry": "Software - Application",
   "business_summary": "California Software Company Limited provides customized software, smart CRM and ERP tools, and robust enterprise solutions. It offers e-commerce website development services, food delivery app, pharmacy website development, billing software, WhatsApp automation, ERP solution, and restaurant POS. The company also provides marketing, ecommerce mobile app development, software product development, software architecture developments, mobile application developments, and SAAS application developments services. It serves healthcare, manufacturing, retail and ecommerce, real estate, education and edtech, and logistics industries. California Software Company Limited was incorporated in 1992 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 175.41,
-  "pe_ratio": 11.97,
+  "market_cap_cr": 178.31,
+  "pe_ratio": 12.17,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 6.68,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:16:14.399537",
-  "provider_reported_pb_ratio": 4.25,
-  "statements_retrieved_at": "2026-11-03T22:16:14.399537",
+  "retrieval_time": "2026-11-04T21:08:07.471424",
+  "provider_reported_pb_ratio": 4.32,
+  "statements_retrieved_at": "2026-11-04T21:08:07.471424",
   "retained_fields": []
 }

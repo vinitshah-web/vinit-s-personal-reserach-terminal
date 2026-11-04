@@ -5,14 +5,14 @@
   "industry": "Steel",
   "business_summary": "Ratnaveer Precision Engineering Limited engages in the manufacture, export, and supply of stainless-steel products in India, Germany, Italy, Spain, France, the Netherlands, Poland, Sweden, the United Kingdom, the United States, and the United Arab Emirates. The company offers finished sheets, washers, solar roofing hooks, and pipes and tubes. Its products are used in various industries, including automotive, solar power, wind energy, power plants, water treatment, food processing, oil and gas, and pharmaceuticals. The company was formerly known as Ratnaveer Metals Limited and changed its name to Ratnaveer Precision Engineering Limited in November 2022. The company was founded in 2000 and is based in Vadodara, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3184.17,
-  "pe_ratio": 19.56,
+  "market_cap_cr": 3193.4,
+  "pe_ratio": 32.49,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 145.68,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 8.3926,
-  "fifty_two_week_high": 387.9,
+  "fifty_two_week_high": 389.9,
   "fifty_two_week_low": 130.5,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T23:00:44.874042",
-  "provider_reported_pb_ratio": 2.6,
-  "statements_retrieved_at": "2026-11-03T23:00:44.874042",
+  "retrieval_time": "2026-11-04T21:50:32.050629",
+  "provider_reported_pb_ratio": 2.61,
+  "statements_retrieved_at": "2026-11-04T21:50:32.050629",
   "retained_fields": []
 }

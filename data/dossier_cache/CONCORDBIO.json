@@ -5,15 +5,15 @@
   "industry": "Biotechnology",
   "business_summary": "Concord Biotech Limited, a, biopharma company, engages in the research and development, manufacture, and sale of pharmaceutical products in India and internationally. It operates through Active Pharmaceutical Ingredients (APIs) and Formulations segments. The company provides fermentation based active pharmaceutical ingredients in immunosuppressants, anti-bacterial, oncology, antifungal, and other therapeutic areas. It also offers tacrolimus, mycophenolate mofetil, mycophenolate sodium, cyclosporine, sirolimus, voclosporin, and pimecrolimus for immunosuppressants therapeutic segment; and temsirolimus, everolimus, romidepsin, doxorubicin, mitomycin, midostaurin, and dactinomycin for oncology therapeutic segment. In addition, the company provides mupirocin, mupirocin calcium, polymyxin B sulfate, fidaxomicin, vancomycin hydrochloride, daptomycin, fusidic acid, colistimethate sodium, and teicoplanin for anti-bacterial applications; anidulafungin, caspofungi acetate, micafungin sodium, and nystatin for anti-fungal therapeutic segment; and lovastatin and pravastatin sodium for other applications. Further, the company provides contract research and manufacturing services in the areas of fermentation and semi-synthesis products. Concord Biotech Limited was incorporated in 1984 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 12845.82,
-  "pe_ratio": 45.97,
+  "market_cap_cr": 13715.18,
+  "pe_ratio": 49.06,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
-  "book_value": 195.37,
+  "book_value": 97.69,
   "dividend_yield_pct": 0.0,
-  "shares_outstanding_cr": 10.4616,
-  "fifty_two_week_high": 1615.0,
-  "fifty_two_week_low": 987.0,
+  "shares_outstanding_cr": 20.9232,
+  "fifty_two_week_high": 807.5,
+  "fifty_two_week_low": 493.5,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:18:38.902731",
-  "provider_reported_pb_ratio": 6.28,
-  "statements_retrieved_at": "2026-11-03T22:18:38.902731",
+  "retrieval_time": "2026-11-04T21:10:21.850447",
+  "provider_reported_pb_ratio": 6.71,
+  "statements_retrieved_at": "2026-11-04T21:10:21.850447",
   "retained_fields": []
 }

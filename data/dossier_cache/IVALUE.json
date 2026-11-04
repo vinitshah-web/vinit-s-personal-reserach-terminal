@@ -5,15 +5,15 @@
   "industry": "Information Technology Services",
   "business_summary": "iValue Infosolutions Limited operates as an enterprise technology solutions provider in India and internationally. The company provides digital assets protection and data, network and application management with associated services through channel networks. It also offers managed security, professional, enterprise security management, infrastructure managed, and big data services, as well as product licensing and support services to OEMs. In addition, the company provides solutions across cybersecurity, including Cloud, network, IT, OT, IoT, endpoint, authentication and authorization, application, DSPM, API, data security, and database security and SIEM security solutions; and information lifecycle management, such as storage systems, data protection, backup, recovery, archival, and data classification solutions, as well as monitoring and management tools. Further, it offers data centre infrastructure solutions comprising Edge data centers, hyperconverged infrastructure, software-defined data centers, sustainable data center, storage systems, recovery, and backup; and application lifecycle management, hybrid cloud management, hyperconverged infrastructure, Operational Technology (OT) and Internet of Things (IoT), Database services, DevOps, DevSecOps, API security, data, and security Lakes. Additionally, the company provides technical services and a wide range of associated services to System Integrators, enterprise customers, and OEMs. iValue Infosolutions Limited was incorporated in 2008 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1023.46,
-  "pe_ratio": 9.84,
+  "market_cap_cr": 1036.87,
+  "pe_ratio": 9.97,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 103.95,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 5.4754,
   "fifty_two_week_high": 340.0,
-  "fifty_two_week_low": 183.5,
+  "fifty_two_week_low": 182.35,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:37:44.473203",
-  "provider_reported_pb_ratio": 1.8,
-  "statements_retrieved_at": "2026-11-03T22:37:44.473203",
+  "retrieval_time": "2026-11-04T21:28:37.922450",
+  "provider_reported_pb_ratio": 1.82,
+  "statements_retrieved_at": "2026-11-04T21:28:37.922450",
   "retained_fields": []
 }

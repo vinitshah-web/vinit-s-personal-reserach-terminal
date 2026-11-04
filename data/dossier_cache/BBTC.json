@@ -5,8 +5,8 @@
   "industry": "Packaged Foods",
   "business_summary": "The Bombay Burmah Trading Corporation Limited engages in the tea and coffee plantations, auto electric components, healthcare, and real estate businesses in India and internationally. It operates through six segments: Plantation- Tea, Health Care, Auto Electric Components, Investments, Horticulture, Food -Bakery & Dairy Products, and Others. The company produces and trades in tea, coffee, cardamom, and pepper; and manufactures and trades in dental products. It also manufactures solenoids, switches, valves, and slip rings for automobile and other industries; and invests in various listed and unlisted securities primarily on a long-term basis. In addition, the company manufactures and trades in analytical, precision balances, and weighing scales; and engages in the property development activities. Further, the company deals with decorative plants and landscaping services; and offers bakery and dairy products. The Bombay Burmah Trading Corporation Limited was incorporated in 1863 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 8696.37,
-  "pe_ratio": 6.74,
+  "market_cap_cr": 8890.34,
+  "pe_ratio": 6.89,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 1009.29,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:13:23.107693",
-  "provider_reported_pb_ratio": 1.23,
-  "statements_retrieved_at": "2026-11-03T22:13:23.107693",
+  "retrieval_time": "2026-11-04T21:05:27.024835",
+  "provider_reported_pb_ratio": 1.26,
+  "statements_retrieved_at": "2026-11-04T21:05:27.024835",
   "retained_fields": []
 }

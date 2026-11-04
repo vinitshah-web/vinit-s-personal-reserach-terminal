@@ -5,7 +5,7 @@
   "industry": "Communication Equipment",
   "business_summary": "Shyam Telecom Limited engages in the trading of mobile accessories and home appliances in India. It offers indoor and outdoor RF repeaters, optical distributed antenna system repeaters, and IP cellular backhaul solutions. The company also provides signal enhancement accessories for communication systems, such as antennas, splitters/couplers, filters, duplexers, and triplexers. Further, it offers IBS solutions, including optical DAS and RF survey and design, planning, implementation, commissioning, and training services, as well as warranties and remote monitoring services. The company was founded in 1976 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 12.93,
+  "market_cap_cr": 11.78,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T23:07:59.387099",
-  "provider_reported_pb_ratio": -0.36,
-  "statements_retrieved_at": "2026-11-03T23:07:59.387099",
+  "retrieval_time": "2026-11-04T21:57:17.471315",
+  "provider_reported_pb_ratio": -0.33,
+  "statements_retrieved_at": "2026-11-04T21:57:17.471315",
   "retained_fields": []
 }

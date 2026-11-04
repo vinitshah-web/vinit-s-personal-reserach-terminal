@@ -6,7 +6,7 @@
   "business_summary": "Taneja Aerospace and Aviation Limited provides aerospace and aviation services in India. The company manufactures and sells various aerospace parts and components; and offers airfield and aircraft maintenance, repair, and overhaul, as well as allied services. It also provides manufacturing engineering lifecycle services, including CAD design and 3D modelling, CAM programming and CNC machining support, tooling design and development, methods and process engineering, CMM programming and metrology services, first article inspection services, and production support and improvement. The company was incorporated in 1988 and is based in Krishnagiri, India. Taneja Aerospace and Aviation Limited operates as a subsidiary of Indian Seamless Enterprises Limited.",
   "business_summary_reason": null,
   "market_cap_cr": null,
-  "pe_ratio": 41.45,
+  "pe_ratio": 41.68,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 65.59,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T23:13:17.952609",
-  "provider_reported_pb_ratio": 4.71,
-  "statements_retrieved_at": "2026-11-03T23:13:17.952609",
+  "retrieval_time": "2026-11-04T22:02:31.172593",
+  "provider_reported_pb_ratio": 4.73,
+  "statements_retrieved_at": "2026-11-04T22:02:31.172593",
   "retained_fields": []
 }

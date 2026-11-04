@@ -5,14 +5,14 @@
   "industry": "Textile Manufacturing",
   "business_summary": "The Bombay Dyeing and Manufacturing Company Limited manufactures and sells polyester staple fibre products in India and internationally. The company operates through three segments: Real Estate, Polyester, and Retail/Textile. It offers polyester staple fibre and specialty products, including micro, optical white, dope dyed black, trilobal, hollow, spun lace, and high tenacity fibers, as well as textile grade PET chips. The company also engages in the retail of textiles and home furnishings; and development of real estate properties, such as residences, offices, hotels, serviced apartments, hospitals, schools, and retail. It exports its products. The company was incorporated in 1879 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1913.55,
-  "pe_ratio": 95.52,
+  "market_cap_cr": 1970.14,
+  "pe_ratio": 98.34,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 110.62,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 20.6535,
-  "fifty_two_week_high": 165.26,
+  "fifty_two_week_high": 163.0,
   "fifty_two_week_low": 85.12,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:15:22.444704",
-  "provider_reported_pb_ratio": 0.84,
-  "statements_retrieved_at": "2026-11-03T22:15:22.444704",
+  "retrieval_time": "2026-11-04T21:07:19.496160",
+  "provider_reported_pb_ratio": 0.86,
+  "statements_retrieved_at": "2026-11-04T21:07:19.496160",
   "retained_fields": []
 }

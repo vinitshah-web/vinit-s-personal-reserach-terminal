@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Granules India Limited manufactures and sells active pharmaceutical ingredients (APIs), pharmaceutical formulation intermediates (PFIs), finished dosages (FDs), and peptides CDMO in India and internationally. It offers paracetamol, metformin, guaifenesin, ibuprofen, and methocarbamol, as well as prescription and over-the-counter products. The company also develops and manufactures tablets, capsules, press fits, oral solutions, suspensions, and powder for oral solutions. In addition, it provides development and manufacturing solutions for peptides, peptide fragments, and amino acid derivatives. The company offers its products in various therapeutic categories, including antiretroviral, anti-depressant, antihistamine, anti-diabetic, anti-cancer, multiple sclerosis, anti-thrombocytopenia, anti-ulcer, anti-convulsant, mucolytic/expectorant, anti-hypertensive, muscle relaxant, NSAIDs, anti-fibrotic, and anti-microbial, as well as anti-arrhythmic, CNS stimulant, anti-diarrheal, antihypertensive, uterine stimulant, chelating agent, mineral supplements, CNS depressant, PDE inhibitor, antispasmodic, and anti-viral. Granules India Limited was incorporated in 1984 and is headquartered in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 21756.92,
-  "pe_ratio": 27.92,
+  "market_cap_cr": 21675.09,
+  "pe_ratio": 27.81,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 260.73,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:29:53.899671",
-  "provider_reported_pb_ratio": 3.06,
-  "statements_retrieved_at": "2026-11-03T22:29:53.899671",
+  "retrieval_time": "2026-11-04T21:21:16.631135",
+  "provider_reported_pb_ratio": 3.05,
+  "statements_retrieved_at": "2026-11-04T21:21:16.631135",
   "retained_fields": []
 }

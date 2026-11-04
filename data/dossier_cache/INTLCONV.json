@@ -5,14 +5,14 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "International Conveyors Limited manufactures and markets PVC conveyor belting products in India and internationally. It operates through Conveyor Belting, Wind Energy, Trading Goods, and Treasury segments. The company offers mineplast and Mineplast Pro fire-resistant belting for conveying coal, potash, phosphate, fertilizer, clay, gypsum, and salt, as well as in timber industry applications. It is also involved in the trading of ply conveyor belting, steel cord conveyor belting, and fitting and accessories; generation, supply, and sale of wind power; and investment activities. In addition, the company offers solid woven fabric reinforced PVC impregnated and PVC covered fire-retardant, anti-static conveyor beltings. International Conveyors Limited was incorporated in 1973 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 479.44,
-  "pe_ratio": 3.53,
+  "market_cap_cr": 488.88,
+  "pe_ratio": 3.6,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 66.53,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 6.3781,
-  "fifty_two_week_high": 98.37,
+  "fifty_two_week_high": 96.3,
   "fifty_two_week_low": 60.0,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:36:53.115472",
-  "provider_reported_pb_ratio": 1.13,
-  "statements_retrieved_at": "2026-11-03T22:36:53.115472",
+  "retrieval_time": "2026-11-04T21:27:49.939434",
+  "provider_reported_pb_ratio": 1.15,
+  "statements_retrieved_at": "2026-11-04T21:27:49.939434",
   "retained_fields": []
 }

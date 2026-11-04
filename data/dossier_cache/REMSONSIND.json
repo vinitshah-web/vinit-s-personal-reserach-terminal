@@ -5,14 +5,14 @@
   "industry": "Auto Parts",
   "business_summary": "Remsons Industries Limited, together with its subsidiaries, manufactures and sells automotive components parts and related products in India and internationally. The company offers cables, such as parking brake, clutch, door, seat, throttle, sunroof, retainer, window regulator, and winch cables; hood and fuel flap release cable with mechanism, and boot release mechanism with cable; flexible shafts, pull to stop, decompressor, and choke; handle assemblies; and brake slack adjusters, air brake components for wagons, defense brakes, and steering systems. It also provides gear shift and combi brake systems; parking brake mechanisms; winches; jack kits; pedal box assemblies; sensors, including contactless, panel setting, brush mounting, angle sensing, hollow shaft, linear, and multi turn pots, as well as joystick controllers, resenso, advance control sensors, and other automotive products; automotive exterior and interior lighting; and other electronics. The company's products are used in two and three-wheelers, passenger and commercial vehicles, and off-highway vehicles. It exports its products to United States, Brazil, the United Kingdom, France, Germany, Austria, Sweden, Italy, Spain, Turkey, Kenya, Nepal, Bangladesh, Bhutan, Sri Lanka, and Singapore, and others. Remsons Industries Limited was founded in 1959 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 316.56,
-  "pe_ratio": 18.24,
+  "market_cap_cr": 325.99,
+  "pe_ratio": 18.78,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 42.73,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 3.4879,
-  "fifty_two_week_high": 152.45,
+  "fifty_two_week_high": 149.2,
   "fifty_two_week_low": 75.23,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T23:01:24.406158",
-  "provider_reported_pb_ratio": 2.11,
-  "statements_retrieved_at": "2026-11-03T23:01:24.406158",
+  "retrieval_time": "2026-11-04T21:51:08.272799",
+  "provider_reported_pb_ratio": 2.18,
+  "statements_retrieved_at": "2026-11-04T21:51:08.272799",
   "retained_fields": []
 }

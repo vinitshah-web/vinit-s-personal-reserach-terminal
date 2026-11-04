@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Bannari Amman Spinning Mills Ltd engages in the textile business in India and internationally. The company offers cotton yarns, polyester and cotton blended yarns, grey and bleached woven fabrics, knitted fabrics, made-ups, processed knit fabrics, finished garments, and home textiles, as well as wind power generation services. It also processes fabrics. The company was incorporated in 1989 and is based in Coimbatore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 164.64,
-  "pe_ratio": 6.94,
+  "market_cap_cr": 167.99,
+  "pe_ratio": 7.08,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 59.26,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:13:09.630886",
+  "retrieval_time": "2026-11-04T21:05:14.532136",
   "provider_reported_pb_ratio": 0.35,
-  "statements_retrieved_at": "2026-11-03T22:13:09.630886",
+  "statements_retrieved_at": "2026-11-04T21:05:14.532136",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "Simplex Infrastructures Limited, together with its subsidiaries, operates as a diversified infrastructure company in India and internationally. The company offers construction and engineering services for the piling, energy and power, building and housing, marine, roads and highways, railways, urban infrastructure, real estate, and other sectors. It also builds rail infrastructure, including rail tracks, station buildings, bridges, and culverts; and designs and constructs high-rise infrastructure, such as multistoried residential towers, institutional/IT buildings, hotels, hospitals, and mass housing projects. In addition, the company builds industrial structures comprising steel and power plants; and undertakes projects for cement, aluminum, copper, engineering, automobiles, petrochemicals, fertilizers, paper textiles, pharmaceuticals, chemicals, and other industrial plants. Further, it engages in erecting various types of power infrastructures that include thermal, hydel, and nuclear, as well as ultra-mega power projects; underwater piling; and building bridges across rivers; and undertakes ground engineering projects, including pre-cast and jointed piling, cast-in-situ, and driven and bored piling, as well as soil investigation, soil compaction, diaphragm walls, grouting, and stone columns. Additionally, the company offers airport renovation and modernization; and mining and oil drilling services, as well as leases equipment; and sells scraps. Simplex Infrastructures Limited was incorporated in 1924 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2156.93,
-  "pe_ratio": 46.54,
+  "market_cap_cr": 2137.55,
+  "pe_ratio": 46.12,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 125.46,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T23:08:45.304772",
-  "provider_reported_pb_ratio": 2.17,
-  "statements_retrieved_at": "2026-11-03T23:08:45.304772",
+  "retrieval_time": "2026-11-04T21:57:59.205531",
+  "provider_reported_pb_ratio": 2.15,
+  "statements_retrieved_at": "2026-11-04T21:57:59.205531",
   "retained_fields": []
 }

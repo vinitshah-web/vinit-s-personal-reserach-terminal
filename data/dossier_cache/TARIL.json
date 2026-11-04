@@ -5,14 +5,14 @@
   "industry": "Electrical Equipment & Parts",
   "business_summary": "Transformers and Rectifiers (India) Limited, together with its subsidiaries, manufactures and sells transformers in India. The company provides power transformers, such as generator transformers, unit and station auxiliary transformers, small and medium power transformers, and trackside transformers for railways; and rectifier transformers, including 6 and 12/24 pulse transformers with IPT, as well as transformers for bridge construction. It also offers distribution transformers, including energy efficient transformers, transformers with packaged substations, copper and aluminum wounds, hermitically sealed type transformers, and transformers with corrugated cooling fins. In addition, the company provides furnace transformers consisting of electric arc furnace and submerged arc furnace transformers, ladle refining furnace transformers, induction furnace transformers, and DC arc furnace transformers; specialty transformers, including testing and earthing transformers and transformers having multiple secondaries; and shunt and series reactors. It exports its products. It serves power transmission, cement, paper and pulp, metal processing, mining, railways, pharmaceutical, petrochemical, distribution, and green energy industries. The company was formerly known as Triveni Electric Company Limited and changed its name to Transformers and Rectifiers (India) Limited in March 1995. Transformers and Rectifiers (India) Limited was founded in 1981 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 9051.5,
-  "pe_ratio": 29.71,
+  "market_cap_cr": 9531.77,
+  "pe_ratio": 31.29,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 55.09,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 30.0166,
-  "fifty_two_week_high": 449.65,
+  "fifty_two_week_high": 421.5,
   "fifty_two_week_low": 224.05,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T23:13:26.101725",
-  "provider_reported_pb_ratio": 5.47,
-  "statements_retrieved_at": "2026-11-03T23:13:26.101725",
+  "retrieval_time": "2026-11-04T22:02:38.395965",
+  "provider_reported_pb_ratio": 5.76,
+  "statements_retrieved_at": "2026-11-04T22:02:38.395965",
   "retained_fields": []
 }

@@ -5,7 +5,7 @@
   "industry": "Building Materials",
   "business_summary": "Kakatiya Cement Sugar and Industries Limited produces, manufactures, refines, and sells Portland cement in India. It operates through Cement, Sugar, and Power segments. The company produces, manufactures, refines, and prepares Portland cement; and generates and distributes power. It is also involved in the crushing of sugarcane. The company was formerly known as Kakatiya Cements Limited. Kakatiya Cement Sugar and Industries Limited was incorporated in 1979 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 74.47,
+  "market_cap_cr": 73.97,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:39:50.926746",
-  "provider_reported_pb_ratio": 0.41,
-  "statements_retrieved_at": "2026-11-03T22:39:50.926746",
+  "retrieval_time": "2026-11-04T21:30:43.826392",
+  "provider_reported_pb_ratio": 0.4,
+  "statements_retrieved_at": "2026-11-04T21:30:43.826392",
   "retained_fields": []
 }

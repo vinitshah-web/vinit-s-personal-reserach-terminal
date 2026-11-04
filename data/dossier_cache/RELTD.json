@@ -5,8 +5,8 @@
   "industry": "Solar",
   "business_summary": "Ravindra Energy Limited sells solar pumps and setting up of solar generation power plants in India. The company undertakes various projects relating to solar photo voltaic power pumping systems, rooftop solar, and ground-mount solar power projects. It also generates and sells power. The company was formerly known as Ravindra Trading and Agencies Limited and changed its name to Ravindra Energy Limited. Ravindra Energy Limited was incorporated in 1980 and is based in Belgaum, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2784.83,
-  "pe_ratio": 51.94,
+  "market_cap_cr": 2815.21,
+  "pe_ratio": 52.51,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 23.77,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T23:01:22.971456",
-  "provider_reported_pb_ratio": 5.9,
-  "statements_retrieved_at": "2026-11-03T23:01:22.971456",
+  "retrieval_time": "2026-11-04T21:51:07.050820",
+  "provider_reported_pb_ratio": 5.96,
+  "statements_retrieved_at": "2026-11-04T21:51:07.050820",
   "retained_fields": []
 }

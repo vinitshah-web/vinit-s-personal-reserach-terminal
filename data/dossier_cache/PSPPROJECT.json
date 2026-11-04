@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "PSP Projects Limited, a construction company, provides construction and allied services for industrial, institutional, commercial, residential, hospitality, hospital, and landmark government projects in India. It constructs industrial buildings for pharmaceutical plants, food processing units, engineering, manufacturing and processing facilities; and buildings for hospitals and healthcare services, educational institutes, shopping malls, hospitality services, and corporate offices. The company also undertakes government projects and government residential projects; and constructs buildings for group housing and townships and bespoke luxury homes, as well as independent residences for select private customers. In addition, the company designs, civil works, MEP (mechanical, electrical, and plumbing) services, fa\u00e7ade development, interior fit-outs, and allied offerings. PSP Projects Limited was incorporated in 2008 and is headquartered in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2863.92,
-  "pe_ratio": 39.01,
+  "market_cap_cr": 2998.31,
+  "pe_ratio": 40.84,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 331.12,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:58:59.680204",
-  "provider_reported_pb_ratio": 2.18,
-  "statements_retrieved_at": "2026-11-03T22:58:59.680204",
+  "retrieval_time": "2026-11-04T21:48:56.383645",
+  "provider_reported_pb_ratio": 2.28,
+  "statements_retrieved_at": "2026-11-04T21:48:56.383645",
   "retained_fields": []
 }

@@ -6,7 +6,7 @@
   "business_summary": "Pranav Constructions Limited engages in redevelopment of cooperative housing societies in India. It also involved in commerce, art, science, sports, education, research, social welfare activity, and other socio-economic development activities; and real estate development. The company was incorporated in 2003 and is based in Mumbai, India.",
   "business_summary_reason": null,
   "market_cap_cr": null,
-  "pe_ratio": 13.31,
+  "pe_ratio": 12.15,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 61.69,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:58:03.374427",
-  "provider_reported_pb_ratio": 1.45,
-  "statements_retrieved_at": "2026-11-03T22:58:03.374427",
+  "retrieval_time": "2026-11-04T21:48:01.268091",
+  "provider_reported_pb_ratio": 1.43,
+  "statements_retrieved_at": "2026-11-04T21:48:01.268091",
   "retained_fields": []
 }

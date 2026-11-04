@@ -5,14 +5,14 @@
   "industry": "Real Estate - Development",
   "business_summary": "Shriram Properties Limited, a real estate development company, engages in the business of construction, development, and sale of residential and commercial properties in India. It provides development management services, including sales and marketing, project management and consultancy, customer relationship management, and financial management services to other real estate developers, as well as administrative services. The company was founded in 1995 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1108.57,
-  "pe_ratio": 12.14,
+  "market_cap_cr": 1142.19,
+  "pe_ratio": 12.51,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 85.53,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 17.0654,
-  "fifty_two_week_high": 99.44,
+  "fifty_two_week_high": 98.89,
   "fifty_two_week_low": 60.57,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T23:07:46.859417",
-  "provider_reported_pb_ratio": 0.76,
-  "statements_retrieved_at": "2026-11-03T23:07:46.859417",
+  "retrieval_time": "2026-11-04T21:57:06.295063",
+  "provider_reported_pb_ratio": 0.78,
+  "statements_retrieved_at": "2026-11-04T21:57:06.295063",
   "retained_fields": []
 }

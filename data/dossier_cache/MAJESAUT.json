@@ -5,8 +5,8 @@
   "industry": "Real Estate Services",
   "business_summary": "Majestic Auto Limited provides facility management and rental services in India. The company engages in planning, design, workplace, construction, lease, occupancy, maintenance and furniture services, as well as catering, cleaning, ICT, HR, accounting, marketing, and hospitality services. It is also involved in lease of owned property; and purchases, acquires, builds, and constructs properties. The company was formerly known as Majestic Gears (P) Limited and changed its name to Majestic Auto Limited in August 1977. The company was incorporated in 1973 and is based in New Delhi, India. Majestic Auto Limited is a subsidiary of Anadi Investments Private Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 383.3,
-  "pe_ratio": 3.97,
+  "market_cap_cr": 393.39,
+  "pe_ratio": 4.06,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 642.96,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:45:36.348407",
-  "provider_reported_pb_ratio": 0.57,
-  "statements_retrieved_at": "2026-11-03T22:45:36.348407",
+  "retrieval_time": "2026-11-04T21:36:10.234509",
+  "provider_reported_pb_ratio": 0.59,
+  "statements_retrieved_at": "2026-11-04T21:36:10.234509",
   "retained_fields": []
 }

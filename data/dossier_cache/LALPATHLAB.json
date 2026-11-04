@@ -5,14 +5,14 @@
   "industry": "Diagnostics & Research",
   "business_summary": "Dr. Lal PathLabs Limited operates laboratories for carrying out pathological investigations in India and internationally. The company provides pathological investigations of various branches of bio-chemistry, hematology, histopathology, microbiology, electrophoresis, immuno-chemistry, immunology, virology, cytology, and other pathological and radiological investigations. It also offers phlebotomist training programs. The company was founded in 1949 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 32199.77,
-  "pe_ratio": 59.44,
+  "market_cap_cr": 33933.74,
+  "pe_ratio": 62.66,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 150.21,
-  "dividend_yield_pct": 0.8478,
+  "dividend_yield_pct": 0.8309,
   "shares_outstanding_cr": 16.7211,
-  "fifty_two_week_high": 2038.6,
+  "fifty_two_week_high": 2049.0,
   "fifty_two_week_low": 1272.6,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:42:55.640641",
-  "provider_reported_pb_ratio": 12.82,
-  "statements_retrieved_at": "2026-11-03T22:42:55.640641",
+  "retrieval_time": "2026-11-04T21:33:41.112498",
+  "provider_reported_pb_ratio": 13.51,
+  "statements_retrieved_at": "2026-11-04T21:33:41.112498",
   "retained_fields": []
 }

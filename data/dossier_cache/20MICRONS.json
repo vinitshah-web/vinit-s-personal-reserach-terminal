@@ -5,8 +5,8 @@
   "industry": "Other Industrial Metals & Mining",
   "business_summary": "20 Microns Limited manufactures and markets micronized industrial minerals and specialty chemicals primarily in India and internationally. It offers industrial minerals, including ball clay, barytes, bentonite, bleaching earth, calcined kaolin, calcium carbonate, diatomaceous earth, dolomite, feldspar, fuller's earth, hydrated sodium calcium aluminosilicate, kaolin, mica, perlite, ramming mass silica, talc, wollastonite, and graphite. The company also provides specialty chemicals, such as precipitated silica, fumed silica, mullite, performance mineral additives, rheology modifiers, semi-reinforcing eco-green fillers, titanium dioxide (white), titanium dioxide (buff and grey), flame retardants and smoke suppressants, magnesium oxide activators, organoclay rheological additive synthetic barytes, white pigment opacifier zinc oxide, aluminum silicate, ATPGEL, corrosion-resistant AR Mica, wax and wax additives, desiccants, and DIATOFIL 570. Its products are used in agro, adhesives and sealants, animal feed, batteries, brake composites, cosmetics, ceramics, construction, detergents and soaps, edible oil refining, foundry, foundry coatings, filtration, inks and pigments, leather, oil and gas, paper and boards, paints and coatings, plastics and polymers, rubber, textiles, welding electrodes, and other applications. The company was incorporated in 1987 and is headquartered in Vadodara, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 616.91,
-  "pe_ratio": 9.64,
+  "market_cap_cr": 638.93,
+  "pe_ratio": 9.98,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 144.81,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:03:56.248701",
-  "provider_reported_pb_ratio": 1.21,
-  "statements_retrieved_at": "2026-11-03T22:03:56.248701",
+  "retrieval_time": "2026-11-04T20:56:34.277951",
+  "provider_reported_pb_ratio": 1.25,
+  "statements_retrieved_at": "2026-11-04T20:56:34.277951",
   "retained_fields": []
 }

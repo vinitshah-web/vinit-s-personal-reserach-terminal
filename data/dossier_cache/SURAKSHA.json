@@ -5,8 +5,8 @@
   "industry": "Diagnostics & Research",
   "business_summary": "Suraksha Diagnostic Limited provides pathological and radiological services through diagnostic centers in India. It offers home collection services; pathology services, such as microbiology, serology, molecular biology, histopathology, cytopathology, clinical pathology, haematology, clinical biochemistry and immunology, immunohistochemistry, fluorescence in-situ hybridization, cytogenetics, flow cytometry, newborn screening, and NGS. The company also provides microarray, QF-PCR, FISH, karyotyping, and NIPT services; X-Ray, MRI scan, CT scan, USG, DEXA scan, Mammography, OPG radiology services; ECG, echocardiogram, stress test and treadmill test, wireless holter monitoring, and PFT cardiology services; EEG, EMG, and NCV neurology services; and upper GI and lower GI endoscopy, sigmoidoscopy, proctoscopy, colonoscopy, and proctosigmoidoscopy gastroenterology services. In addition, it offers clinic services, including dental, physiotherapy, immunology and rheumatology, ENT, eye, and specialty clinics, as well as fetal care; home doctor visit services; online doctor consultation; and doctor curated lab packages for bone and health, men's and women's health, senior citizens, diabetes care, fever, full-body checkups, and at-home packages. The company was founded in 1992 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1685.85,
-  "pe_ratio": 47.05,
+  "market_cap_cr": 1734.55,
+  "pe_ratio": 48.41,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 47.17,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T23:12:17.666746",
-  "provider_reported_pb_ratio": 6.86,
-  "statements_retrieved_at": "2026-11-03T23:12:17.666746",
+  "retrieval_time": "2026-11-04T22:01:35.030299",
+  "provider_reported_pb_ratio": 7.06,
+  "statements_retrieved_at": "2026-11-04T22:01:35.030299",
   "retained_fields": []
 }

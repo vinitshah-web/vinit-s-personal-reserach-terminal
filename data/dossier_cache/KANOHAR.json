@@ -5,8 +5,8 @@
   "industry": "Electrical Equipment & Parts",
   "business_summary": "Kanohar Electricals Limited engages in the transformer manufacturing business for industries including power transmission, railways, renewable energy, and power distribution in India. The company operates through two segments; transformer manufacturing business; and Engineering, Procurement, and Construction Business. It manufactures transformers across various capacities ranging from 132 kV to 400 kV. The company's products include power transformers, traction transformers, Scott transformers, Shunt reactors, and distribution transformers. Its EPC Business services for substations include turnkey installation of air and gas insulated substations and bay augmentation in existing substations, and turnkey installation of transmission lines across 132 kV, 220 kV and 400 kV. Kanohar Electricals Limited was incorporated in 1972 and is headquartered in Meerut, India. Kanohar Electricals Limited operates as a subsidiary of K Sons Family Trust.",
   "business_summary_reason": null,
-  "market_cap_cr": 8121.4,
-  "pe_ratio": 55.74,
+  "market_cap_cr": 8477.74,
+  "pe_ratio": 45.87,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 97.93,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:40:09.646709",
-  "provider_reported_pb_ratio": 10.47,
-  "statements_retrieved_at": "2026-11-03T22:40:09.646709",
+  "retrieval_time": "2026-11-04T21:31:00.989801",
+  "provider_reported_pb_ratio": 10.93,
+  "statements_retrieved_at": "2026-11-04T21:31:00.989801",
   "retained_fields": []
 }

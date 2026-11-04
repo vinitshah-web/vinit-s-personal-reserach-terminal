@@ -5,8 +5,8 @@
   "industry": "Real Estate Services",
   "business_summary": "Texmaco Infrastructure & Holdings Limited engages in the business of real estate, hydro power generation, and job work services in India. It operates a mini hydel power project located in Neora, West Bengal. It serves fertilizers and agrochemicals, engineering, infrastructure, real estate, and consumer durables sectors. Texmaco Infrastructure & Holdings Limited was formerly known as Texmaco Limited and changed its name to Texmaco Infrastructure & Holdings Limited in February 2012. The company was incorporated in 1939 and is based in Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1463.62,
-  "pe_ratio": 159.53,
+  "market_cap_cr": 1507.97,
+  "pe_ratio": 164.36,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 87.9,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T23:14:31.094995",
-  "provider_reported_pb_ratio": 1.31,
-  "statements_retrieved_at": "2026-11-03T23:14:31.094995",
+  "retrieval_time": "2026-11-04T22:03:39.321219",
+  "provider_reported_pb_ratio": 1.35,
+  "statements_retrieved_at": "2026-11-04T22:03:39.321219",
   "retained_fields": []
 }

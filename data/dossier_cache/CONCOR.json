@@ -5,14 +5,14 @@
   "industry": "Railroads",
   "business_summary": "Container Corporation of India Limited engages in handling, transportation, and warehousing activities in India. The company provides inland transport by rail for containers; manages ports and air cargo complexes; develops multimodal logistics support for containerization and trade; and operates logistics facilities, including dry ports, container freight stations, and private freight terminals. It also engages in the cold-chain business for fruits and vegetables; handling of air cargos and containers; and rail and road transportation and handling of containers. In addition, the company provides air cargo; bonded warehousing; discount schemes; factory stuffing/destuffing; LCL consolidation; and cabotage of ISO containers, as well as door-to-door services. Container Corporation of India Limited was incorporated in 1988 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 31923.21,
-  "pe_ratio": 26.15,
+  "market_cap_cr": 32376.38,
+  "pe_ratio": 26.52,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
-  "book_value": 169.93,
-  "dividend_yield_pct": 0.0,
+  "book_value": 175.53,
+  "dividend_yield_pct": 1.8848,
   "shares_outstanding_cr": 76.1618,
-  "fifty_two_week_high": 551.0,
+  "fifty_two_week_high": 543.7,
   "fifty_two_week_low": 404.25,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:18:37.586636",
-  "provider_reported_pb_ratio": 2.47,
-  "statements_retrieved_at": "2026-11-03T22:18:37.586636",
+  "retrieval_time": "2026-11-04T21:10:20.640544",
+  "provider_reported_pb_ratio": 2.42,
+  "statements_retrieved_at": "2026-11-04T21:10:20.640544",
   "retained_fields": []
 }

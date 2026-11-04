@@ -5,14 +5,14 @@
   "industry": "Advertising Agencies",
   "business_summary": "Affle 3i Limited, together with its subsidiaries, provides mobile advertisement services through information technology and software development services for mobiles in India. It offers various solutions, such as appnext; Jampp; mDSP; MEDIASMART; newton; RevX; ultra; YouAppi; and AdColony. The company was formerly known as Affle (India) Limited and changed its name to Affle 3i Limited in April 2025. Affle 3i Limited was incorporated in 1994 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 22741.78,
-  "pe_ratio": 45.16,
+  "market_cap_cr": 23330.83,
+  "pe_ratio": 46.33,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 300.77,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 14.3672,
-  "fifty_two_week_high": 1900.0,
+  "fifty_two_week_high": 1832.8,
   "fifty_two_week_low": 1251.3,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:06:10.914079",
-  "provider_reported_pb_ratio": 5.26,
-  "statements_retrieved_at": "2026-11-03T22:06:10.914079",
+  "retrieval_time": "2026-11-04T20:58:37.910811",
+  "provider_reported_pb_ratio": 5.4,
+  "statements_retrieved_at": "2026-11-04T20:58:37.910811",
   "retained_fields": []
 }

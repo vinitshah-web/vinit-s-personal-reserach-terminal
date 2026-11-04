@@ -5,8 +5,8 @@
   "industry": "Real Estate - Development",
   "business_summary": "Modi's Navnirman Limited engages in the real estate business in India. The company develops residential and commercial and other projects. Modi's Navnirman Limited was founded in 2010 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 763.27,
-  "pe_ratio": 21.13,
+  "market_cap_cr": 764.94,
+  "pe_ratio": 20.8,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 89.74,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:48:44.230158",
-  "provider_reported_pb_ratio": 4.34,
-  "statements_retrieved_at": "2026-11-03T22:48:44.230158",
+  "retrieval_time": "2026-11-04T21:39:05.909133",
+  "provider_reported_pb_ratio": 4.35,
+  "statements_retrieved_at": "2026-11-04T21:39:05.909133",
   "retained_fields": []
 }

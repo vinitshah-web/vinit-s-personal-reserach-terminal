@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Orbit Exports Limited manufactures and sells novelty fabrics in India and internationally. It operates through Manufacturing of Textile, Investments, and Windmill Power Generation segments. The company offers everyday home textile products, such as pillows, table linens, window panels, and beddings; and seasonal products, including stockings, tree skirts, and table runners. It also provides fashion fabrics that includes silky aspects and fashion jacquards, tailoring fabrics, and casual fashion. The company exports its products. Orbit Exports Limited was incorporated in 1983 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 642.0,
-  "pe_ratio": 15.73,
+  "market_cap_cr": 641.23,
+  "pe_ratio": 13.28,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 125.62,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:54:42.558745",
+  "retrieval_time": "2026-11-04T21:44:49.976456",
   "provider_reported_pb_ratio": 1.99,
-  "statements_retrieved_at": "2026-11-03T22:54:42.558745",
+  "statements_retrieved_at": "2026-11-04T21:44:49.976456",
   "retained_fields": []
 }

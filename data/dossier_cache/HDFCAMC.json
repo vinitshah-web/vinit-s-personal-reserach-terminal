@@ -5,8 +5,8 @@
   "industry": "Asset Management",
   "business_summary": "HDFC Asset Management Company Limited is a publicly owned investment manager. The firm launches and manages equity, fixed income, and balanced mutual funds for its clients. It manages equity, fixed income, balanced, and real estate portfolios. The firm invests in public equity and fixed income markets. The firm employs fundamental analysis to make its investments. HDFC Asset Management Company Limited was founded on December 10,1999 and is based in Mumbai, Maharashtra. HDFC Asset Management Company Limited operates as a subsidiary of HDFC Bank Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 104693.91,
-  "pe_ratio": 35.24,
+  "market_cap_cr": 107482.89,
+  "pe_ratio": 36.18,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 200.96,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:32:14.622263",
-  "provider_reported_pb_ratio": 12.14,
-  "statements_retrieved_at": "2026-11-03T22:32:14.622263",
+  "retrieval_time": "2026-11-04T21:23:27.815504",
+  "provider_reported_pb_ratio": 12.46,
+  "statements_retrieved_at": "2026-11-04T21:23:27.815504",
   "retained_fields": []
 }

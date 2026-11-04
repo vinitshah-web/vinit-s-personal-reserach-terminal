@@ -5,8 +5,8 @@
   "industry": "Chemicals",
   "business_summary": "Lords Chloro Alkali Limited engages in the manufacture and sale of caustic soda and other chemical products in India. It offers caustic soda lye, hydrogen gas, sodium hypochlorite, hydrochloric acid, liquid chlorine, and chlorinated paraffin wax. The company serves various industries, including paper, soap, dye, chemical, plastic, and textile industries. It also exports its products. The company was incorporated in 1979 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 391.15,
-  "pe_ratio": 11.53,
+  "market_cap_cr": 371.47,
+  "pe_ratio": 11.4,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 84.54,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:44:23.094379",
-  "provider_reported_pb_ratio": 1.61,
-  "statements_retrieved_at": "2026-11-03T22:44:23.094379",
+  "retrieval_time": "2026-11-04T21:35:03.728781",
+  "provider_reported_pb_ratio": 1.53,
+  "statements_retrieved_at": "2026-11-04T21:35:03.728781",
   "retained_fields": []
 }

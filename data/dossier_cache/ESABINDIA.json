@@ -5,8 +5,8 @@
   "industry": "Tools & Accessories",
   "business_summary": "ESAB India Limited manufactures and sells welding and cutting equipment and consumables in India and internationally. The company offers gas equipment, such as cutting machines, H/VAC and plumbing, outfits, regulators, safety accessories, torches, and wear parts; arc gouging and exothermic cutting; manual plasma cutting products; filler metals, including aluminum, copper, hardfacing, low alloy, mild and stainless steel, nickel, and other; cutting automation products comprising controls, cutting machines, gas cutting torches, plasma systems, process tools, and software; general supplies; plasma and welding equipment accessories; PPE products and accessories consisting of helmets and head protection products, gloves, clothes, eye protection products, and accessories; cobots; robotic feeders, power sources, torch cleaning stations, and torches, as well as weld data monitoring and software; standard, and air and water cooled torches; welders and wire feeders; power supplies; welding tractors; and digital solutions. It also provides engineering, support, and consulting services. The company sells its products under the AlcoTec, AMI, Arcair, Cigweld, Conarco, Condor, Exaton, Ewac, Firepower, Gasarc, GCE, InduSuite, Losarc, Octopuz, Soldexa, Stoody, Swift-Cut, TBi Industries, Thermal Dynamics, Thermal Dynamics Automation, Turbotorch, Tweco, Victor, and Westarco brands. It serves nuclear welding, wind energy, petrochemical, pipeline, LNG, repair and maintenance, mobile machinery, and shipbuilding solutions industries. The company was incorporated in 1987 and is headquartered in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 8405.36,
-  "pe_ratio": 37.87,
+  "market_cap_cr": 8204.48,
+  "pe_ratio": 36.97,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 278.94,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:25:01.650524",
-  "provider_reported_pb_ratio": 19.58,
-  "statements_retrieved_at": "2026-11-03T22:25:01.650524",
+  "retrieval_time": "2026-11-04T21:16:15.153426",
+  "provider_reported_pb_ratio": 19.11,
+  "statements_retrieved_at": "2026-11-04T21:16:15.153426",
   "retained_fields": []
 }

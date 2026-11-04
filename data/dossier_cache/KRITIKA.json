@@ -5,14 +5,14 @@
   "industry": "Steel",
   "business_summary": "Kritika Wires Limited engages in the manufacturing, exporting and supplying various industrial steel, galvanized, and aluminum wires in India. The company offers mild steel, GI stay, A.C.S.R core, cotton bailing, indented PC, spring steel, barbed, umbrella rib, and rolling shutter wires, as well as galvanized strands for earthing, ACSR core wire strands, and PC strands for railway sleepers. It exports its products. The company was incorporated in 2004 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 130.48,
-  "pe_ratio": 20.42,
+  "market_cap_cr": 133.41,
+  "pe_ratio": 20.88,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 3.79,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 26.628,
-  "fifty_two_week_high": 8.6,
+  "fifty_two_week_high": 8.44,
   "fifty_two_week_low": 4.41,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:42:16.624104",
-  "provider_reported_pb_ratio": 1.29,
-  "statements_retrieved_at": "2026-11-03T22:42:16.624104",
+  "retrieval_time": "2026-11-04T21:33:03.874748",
+  "provider_reported_pb_ratio": 1.32,
+  "statements_retrieved_at": "2026-11-04T21:33:03.874748",
   "retained_fields": []
 }

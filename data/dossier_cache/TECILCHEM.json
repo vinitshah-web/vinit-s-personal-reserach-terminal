@@ -5,14 +5,14 @@
   "industry": "Shell Companies",
   "business_summary": "Tecil Chemicals and Hydro Power Ltd. does not have significant operations. Previously, it was produced electro-chemical and electro thermal furnace products. The company was incorporated in 1945 and is based in Kochi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 15.38,
+  "market_cap_cr": 15.36,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": null,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.8964,
-  "fifty_two_week_high": 21.99,
+  "fifty_two_week_high": 21.38,
   "fifty_two_week_low": 7.75,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T23:14:19.966877",
+  "retrieval_time": "2026-11-04T22:03:28.646566",
   "provider_reported_pb_ratio": null,
-  "statements_retrieved_at": "2026-11-03T23:14:19.966877",
+  "statements_retrieved_at": "2026-11-04T22:03:28.646566",
   "retained_fields": []
 }

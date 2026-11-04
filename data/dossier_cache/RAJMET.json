@@ -5,7 +5,7 @@
   "industry": "Copper",
   "business_summary": "Rajnandini Metal Limited manufactures and trades copper continuous casting rods and wires in India. The company offers copper, brass, zinc, aluminium, and ferrous and nonferrous metals. It also provides copper rods, annealed bare copper wires, fine copper wires, bunched copper wires, and submersible wires and flat cables. The company offers its products to recycling, steel raw materials, plastics, chemicals, petrochemicals, and construction industries. Rajnandini Metal Limited was incorporated in 2010 and is based in Rewari, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 81.01,
+  "market_cap_cr": 79.9,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -13,7 +13,7 @@
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 27.648,
   "fifty_two_week_high": 5.28,
-  "fifty_two_week_low": 2.72,
+  "fifty_two_week_low": 2.56,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T23:00:08.831589",
-  "provider_reported_pb_ratio": 1.47,
-  "statements_retrieved_at": "2026-11-03T23:00:08.831589",
+  "retrieval_time": "2026-11-04T21:50:00.848456",
+  "provider_reported_pb_ratio": 1.45,
+  "statements_retrieved_at": "2026-11-04T21:50:00.848456",
   "retained_fields": []
 }

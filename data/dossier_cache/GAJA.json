@@ -6,7 +6,7 @@
   "business_summary": "Gaja Alternative Asset Management Limited is a private equity and venture capital firm specializing in turnaround, series C and investments in smaller end of middle market. The firm prefers to invest through growth capital and buyout. It also invests in acquisitions and shareholder settlement and considers buy-outs, turnarounds, and pre-IPO deals given an underlying growth thesis. It also invests in listed companies. The firm seeks to invest in technology and technology-enabled companies in software, consumer, services, SaaS, broad consumer services, manufacturing, infrastructure services, healthcare, human resource, financial services, education, and retail. It focuses on domestic sectors within India. It investments in mid-market companies and small and medium enterprises (SMEs). The firm invests between $5 million and $18.36 million in its portfolio companies and between $5 million and $30 million per company and enterprise value of maximum $150 million. It seeks minority investments and co-invests with global investor and India's successful entrepreneurs and leading business families. The firm exits its investments between three and seven years through initial public offerings, sale of the entire company, and sale of stake in the company. The firm seeks to take controlling stake. Gaja Alternative Asset Management Limited was founded in 2004 and is based in Mumbai, India with an additional office in Mumbai, India and Delhi India.",
   "business_summary_reason": null,
   "market_cap_cr": null,
-  "pe_ratio": 22.57,
+  "pe_ratio": 25.28,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 53.73,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:27:14.273492",
-  "provider_reported_pb_ratio": 2.37,
-  "statements_retrieved_at": "2026-11-03T22:27:14.273492",
+  "retrieval_time": "2026-11-04T21:18:19.516113",
+  "provider_reported_pb_ratio": 2.66,
+  "statements_retrieved_at": "2026-11-04T21:18:19.516113",
   "retained_fields": []
 }

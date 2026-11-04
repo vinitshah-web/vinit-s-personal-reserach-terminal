@@ -5,14 +5,14 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "Inox Wind Limited engages in the manufacture and sale of wind turbine generators and components for independent power producers, utilities, public sector undertakings, businesses, and private investors in India. It provides rotor, generator, braking system, gear box, and towers. The company also offers infrastructure services, such as wind resource assessment and site screening, land acquisition and infra development, development and construction of power evacuation infrastructure, commissioning and stabilization; and operations and maintenance services; and value-added services, as well as involved in the environment, health, and safety initiatives. Inox Wind Limited was incorporated in 2009 and is based in Noida, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 10269.19,
-  "pe_ratio": 24.66,
+  "market_cap_cr": 10974.31,
+  "pe_ratio": 26.35,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 42.66,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 172.8238,
-  "fifty_two_week_high": 157.83,
+  "fifty_two_week_high": 155.73,
   "fifty_two_week_low": 55.1,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:36:39.525721",
-  "provider_reported_pb_ratio": 1.39,
-  "statements_retrieved_at": "2026-11-03T22:36:39.525721",
+  "retrieval_time": "2026-11-04T21:27:37.096605",
+  "provider_reported_pb_ratio": 1.49,
+  "statements_retrieved_at": "2026-11-04T21:27:37.096605",
   "retained_fields": []
 }

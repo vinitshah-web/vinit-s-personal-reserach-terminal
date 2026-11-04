@@ -5,14 +5,14 @@
   "industry": "Aerospace & Defense",
   "business_summary": "DCX Systems Limited, together with its subsidiaries, manufactures and sells electronic systems and cable harnesses in India and Internationally. It offers cable and harness, fine wire cable, flex flat cable, backplane, and conduit assemblies; and EMI shield cable harnesses, wired enclosures, diagnostic test sets, missile switching units, mission control systems, antenna assemblies, radar processor units, electronic subsystems, and radar-related systems, and special/customized connectors. The company also provides electronic manufacturing services, including printed circuit board and electro-mechanical assemblies, design for manufacturability analysis, conformal coating and special processes, flashing/burning of programmable ICs and FPGAs, in-circuit and functional testing, burn-in/environmental stress screening, vibration testing, and repair and revision upgrading services. In addition, it offers aerospace, defense, and industrial automation equipment; subsystem assembly; and integration and testing services, as well as kitting services. The company serves the aerospace, land and naval defense systems, and satellite and civil aviation sectors. The company was formerly known as DCX Cable Assemblies Pvt. Ltd. and changed its name to DCX Systems Limited. DCX Systems Limited was incorporated in 2011 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1543.37,
+  "market_cap_cr": 1579.13,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 150.3,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 11.1386,
-  "fifty_two_week_high": 227.98,
+  "fifty_two_week_high": 225.96,
   "fifty_two_week_low": 128.96,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:20:37.559386",
-  "provider_reported_pb_ratio": 0.92,
-  "statements_retrieved_at": "2026-11-03T22:20:37.559386",
+  "retrieval_time": "2026-11-04T21:12:11.436329",
+  "provider_reported_pb_ratio": 0.94,
+  "statements_retrieved_at": "2026-11-04T21:12:11.436329",
   "retained_fields": []
 }

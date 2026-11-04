@@ -5,8 +5,8 @@
   "industry": "Credit Services",
   "business_summary": "Muthoot Capital Services Limited, a non-banking finance company, provides fund and non-fund-based financial services in India. The company offers two-wheelers, new and used cars, secure business, used commercial vehicle loans, construction equipment loans, and loyalty loans; fixed deposits; and subordinated debentures. The Company also provides personal loans and business/corporate loans. It serves retail, corporate, and institutional clients through a network of branches. Muthoot Capital Services Limited was founded in 1994 and is based in Kochi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 314.71,
-  "pe_ratio": 13.13,
+  "market_cap_cr": 325.28,
+  "pe_ratio": 13.57,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 407.61,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:50:40.877600",
-  "provider_reported_pb_ratio": 0.47,
-  "statements_retrieved_at": "2026-11-03T22:50:40.877600",
+  "retrieval_time": "2026-11-04T21:40:57.097693",
+  "provider_reported_pb_ratio": 0.49,
+  "statements_retrieved_at": "2026-11-04T21:40:57.097693",
   "retained_fields": []
 }

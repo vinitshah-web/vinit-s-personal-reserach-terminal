@@ -5,8 +5,8 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "Alfred Herbert (India) Limited operates as a non-banking finance company in India. The company provides financial services. It also offers rubber machinery focusing on the tyre and rubber industry, including tyre curing presses, tyre building machines, mixers, two roll mills, tube presses etc. In addition, the company provides various systems related to hydraulic equipment for the automobile industry; cabin-tilting systems to truck manufacturers, as well as manufactures and fits tipper bodies; and undertakes various subcontract and reconditioning works for medium and heavy machinery in heavy engineering, automobile, aeronautical, defense, space industries, etc. Further, it undertake erection/assembly of structures, hydraulics, and control systems services, as well as involved in developing, holding, and letting out real estate properties; investing in shares, immovable properties, fixed deposits, and securities, including equity, bonds, and mutual funds; conducting treasury operations; and trading and marketing of various types of machinery and spares. Alfred Herbert (India) Limited was incorporated in 1919 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 198.83,
-  "pe_ratio": 5.4,
+  "market_cap_cr": 199.11,
+  "pe_ratio": 5.41,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 7436.22,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:07:14.906804",
+  "retrieval_time": "2026-11-04T20:59:38.658466",
   "provider_reported_pb_ratio": 0.35,
-  "statements_retrieved_at": "2026-11-03T22:07:14.906804",
+  "statements_retrieved_at": "2026-11-04T20:59:38.658466",
   "retained_fields": []
 }

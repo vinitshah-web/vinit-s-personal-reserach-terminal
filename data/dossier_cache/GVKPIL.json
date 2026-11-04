@@ -5,7 +5,7 @@
   "industry": "Utilities - Independent Power Producers",
   "business_summary": "GVK Power & Infrastructure Limited, together with its subsidiaries, engages in the operation and maintenance, manpower and consultancy, and incidental services to owners of power plants, airports, and infrastructure companies in India and Indonesia. It operates through Power, Roads, and Other segments. The company is involved in transportation, hospitality, and life sciences businesses. It also constructs and operates gas/naphtha, thermal, and hydro independent power plants, as well as highway projects; engages in exploration of oil and gas; and invests in SEZ and other assets. The company was formerly known as Jegurupadu Operation & Maintenance Company and changed its name to GVK Power & Infrastructure Limited in July 2005. GVK Power & Infrastructure Limited was founded in 1992 and is based in Secunderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 314.26,
+  "market_cap_cr": 319.0,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:31:29.498984",
-  "provider_reported_pb_ratio": -0.2,
-  "statements_retrieved_at": "2026-11-03T22:31:29.498984",
+  "retrieval_time": "2026-11-04T21:22:46.487454",
+  "provider_reported_pb_ratio": -0.21,
+  "statements_retrieved_at": "2026-11-04T21:22:46.487454",
   "retained_fields": []
 }

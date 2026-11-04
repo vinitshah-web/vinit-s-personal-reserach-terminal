@@ -5,8 +5,8 @@
   "industry": "Oil & Gas Integrated",
   "business_summary": "Oil and Natural Gas Corporation Limited, together with its subsidiaries, engages in the exploration, development, and production of crude oil, natural gas, and value-added products in India and internationally. It operates through Exploration and Production, Refining & Marketing, and Petrochemicals segments. The company offers LPG, naptha, ethane, propane and butane, superior kerosene oil, LSHS, high-speed diesel, aviation turbine fuel, liquefied petroleum gas, light diesel oil, MTO, and other products. It also engages in the refining and marketing of petroleum products; provision of petrochemicals, as well as helicopter services; power generation; LNG supply; pipeline transportation; SEZ development; manufacturing of ethanol and sugar; green and renewable energy business; and operating and chartering of fleets. The company also exports its products. Oil and Natural Gas Corporation Limited was founded in 1955 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 292076.34,
-  "pe_ratio": 6.71,
+  "market_cap_cr": 295636.57,
+  "pe_ratio": 6.79,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 295.5,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:54:28.739619",
-  "provider_reported_pb_ratio": 0.79,
-  "statements_retrieved_at": "2026-11-03T22:54:28.739619",
+  "retrieval_time": "2026-11-04T21:44:37.080165",
+  "provider_reported_pb_ratio": 0.8,
+  "statements_retrieved_at": "2026-11-04T21:44:37.080165",
   "retained_fields": []
 }

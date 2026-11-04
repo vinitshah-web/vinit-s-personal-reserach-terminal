@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Apcotex Industries Limited manufactures and sells specialty emulsion polymers in India and internationally. The company offers synthetic rubber products, including nitrile butadiene rubber (NBR), NBR-PVC polyblends, high styrene rubber (HSR), and powdered nitrile butadiene rubber (PNBR); synthetic latexes, such as styrene-butadiene latex, nitrile latex, vinyl pyridine latex, pure acrylic and styrene acrylic latex, specialty NBR latex, XSB latex, and XNB latex; and B2C products under the ApcoBuild brand. Its products are used in automotive parts and components, hoses, rice dehusking rollers, LPG hoses, textile rollers, friction sheets, industrial rollers, fuel management systems, footwear, microcellular sheets, hard rubber goods, PVC modification, adhesives, coatings, gasketing, waterproofing, bonding agents, elastomeric paints, paper coatings, carpet backing, textile finishing, geotextiles, examination and industrial gloves, supported gloves, tyre cord dipping, fibre-to-rubber adhesion in tyres and belting, paper and paperboard coatings, construction chemicals, tufted carpet backing, automotive carpets, and other industrial applications, as well as binders for cork sheets, jointing sheets, and friction lining materials. The company was formerly known as Apcotex Lattices Limited and changed its name to Apcotex Industries Limited in 2005. Apcotex Industries Limited was founded in 1980 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2502.82,
-  "pe_ratio": 14.66,
+  "market_cap_cr": 2528.74,
+  "pe_ratio": 14.81,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 137.57,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:08:53.246436",
-  "provider_reported_pb_ratio": 3.51,
-  "statements_retrieved_at": "2026-11-03T22:08:53.246436",
+  "retrieval_time": "2026-11-04T21:01:18.414222",
+  "provider_reported_pb_ratio": 3.55,
+  "statements_retrieved_at": "2026-11-04T21:01:18.414222",
   "retained_fields": []
 }

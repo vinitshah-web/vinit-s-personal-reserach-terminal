@@ -5,8 +5,8 @@
   "industry": "Copper",
   "business_summary": "Hindustan Copper Limited engages in the exploration, exploitation, mining, and processing of copper ore metal-in-concentrates in India. The company offers continuous cast copper rods, copper cathodes, copper concentrates, copper sulphates, sulphuric acid, reverts, anode slimes, and nickel cathodes. It is also involved in the beneficiation, smelting, and refining of copper ores, as well as conversion/tolling to convert cathode to copper wires. The company's flagship project is the Malanjkhand copper project located in Madhya Pradesh. It exports its products. Hindustan Copper Limited was incorporated in 1967 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 38709.97,
-  "pe_ratio": 34.1,
+  "market_cap_cr": 40929.29,
+  "pe_ratio": 36.05,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 34.53,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:33:37.766025",
-  "provider_reported_pb_ratio": 11.59,
-  "statements_retrieved_at": "2026-11-03T22:33:37.766025",
+  "retrieval_time": "2026-11-04T21:24:44.300619",
+  "provider_reported_pb_ratio": 12.26,
+  "statements_retrieved_at": "2026-11-04T21:24:44.300619",
   "retained_fields": []
 }

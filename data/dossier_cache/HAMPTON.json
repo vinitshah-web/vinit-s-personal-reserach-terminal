@@ -5,7 +5,7 @@
   "industry": "Capital Markets",
   "business_summary": "Hampton Sky Realty Limited engages in the real estate business, including the development of commercial, industrial, housing, retail, hospitality, and medical projects. It is also involved in the textile and investment businesses in India. In addition, the company trades in shares and derivatives, and mobile. The company was formerly known as Ritesh Properties and Industries Limited and changed its name to Hampton Sky Realty Limited in October 2023. Hampton Sky Realty Limited was incorporated in 1987 and is headquartered in Ludhiana, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 199.9,
+  "market_cap_cr": 202.91,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:31:41.843510",
-  "provider_reported_pb_ratio": 1.48,
-  "statements_retrieved_at": "2026-11-03T22:31:41.843510",
+  "retrieval_time": "2026-11-04T21:22:58.441160",
+  "provider_reported_pb_ratio": 1.5,
+  "statements_retrieved_at": "2026-11-04T21:22:58.441160",
   "retained_fields": []
 }

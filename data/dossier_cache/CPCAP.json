@@ -5,8 +5,8 @@
   "industry": "Credit Services",
   "business_summary": "CP Capital Limited, a non-banking financing company, provides financing support to educational institutions for developing infrastructure. The company offers property-backed loans, NBFC portfolio backed lending, bridge and bullet loans, Udyam, and MSME business loans, as well as loans against property balance transfer. It serves individuals, entrepreneurs, and enterprises. The company was formerly known as Career Point Limited and changed its name to CP Capital Limited in February 2025. The company was incorporated in 2000 and is based in Kota, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 269.56,
-  "pe_ratio": 5.97,
+  "market_cap_cr": 269.16,
+  "pe_ratio": 6.09,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 314.75,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:19:04.672210",
+  "retrieval_time": "2026-11-04T21:10:45.829548",
   "provider_reported_pb_ratio": 0.47,
-  "statements_retrieved_at": "2026-11-03T22:19:04.672210",
+  "statements_retrieved_at": "2026-11-04T21:10:45.829548",
   "retained_fields": []
 }

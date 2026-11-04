@@ -5,8 +5,8 @@
   "industry": "Agricultural Inputs",
   "business_summary": "PI Industries Limited, together with its subsidiaries, manufactures and distributes of agricultural chemicals in India, rest of Asia, North America, Europe, and internationally. It operates through Agro Chemicals and Pharma segments. The company offers agrochemicals, including insecticides, fungicides, herbicides, and biologicals; crop solutions for soybeans, chili, sugarcane, rice, wheat, cotton, and corn, as well as horticulture products; and plant nutrients and specialty chemicals. It also provides custom synthesis and manufacturing services to other companies; and pharmaceuticals, medicinal chemical, and botanical products. The company sells its products to farmers, distributors, retailers, and sellers. It also exports its products. PI Industries Limited was incorporated in 1946 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 33147.79,
-  "pe_ratio": 28.45,
+  "market_cap_cr": 33178.13,
+  "pe_ratio": 28.72,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 740.28,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:56:52.376205",
+  "retrieval_time": "2026-11-04T21:46:55.692004",
   "provider_reported_pb_ratio": 2.95,
-  "statements_retrieved_at": "2026-11-03T22:56:52.376205",
+  "statements_retrieved_at": "2026-11-04T21:46:55.692004",
   "retained_fields": []
 }

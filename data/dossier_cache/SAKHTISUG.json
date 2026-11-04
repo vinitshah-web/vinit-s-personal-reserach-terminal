@@ -5,8 +5,8 @@
   "industry": "Confectioners",
   "business_summary": "Sakthi Sugars Limited manufactures and sells sugar and its by-products in India. It operates through Sugar, Industrial Alcohol, Power, and Soya Products segments. The company offers white and refined sugar; industrial alcohol, including rectified spirits, extra neutral alcohol/neutral spirits, and ethanol manufactured from molasses; sugar by-products, such as molasses, bagasse, and press muds; bio earth products for use as an organic fertilizer and soil improver; and soya and its by-products. It also operates three cogeneration power plants with an aggregate power generation capacity of 92 megawatts. The company was incorporated in 1961 and is headquartered in Coimbatore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 195.78,
-  "pe_ratio": 7.12,
+  "market_cap_cr": 201.5,
+  "pe_ratio": 7.33,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 19.21,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T23:03:48.845537",
-  "provider_reported_pb_ratio": 0.86,
-  "statements_retrieved_at": "2026-11-03T23:03:48.845537",
+  "retrieval_time": "2026-11-04T21:53:24.679663",
+  "provider_reported_pb_ratio": 0.88,
+  "statements_retrieved_at": "2026-11-04T21:53:24.679663",
   "retained_fields": []
 }

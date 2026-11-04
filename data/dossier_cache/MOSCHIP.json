@@ -5,7 +5,7 @@
   "industry": "Semiconductor Equipment & Materials",
   "business_summary": "MosChip Technologies Limited, a semiconductor and system design company, designs, develops, manufactures, and sells system on chip technologies and Internet on Things solutions in India, North America, and the Asia Pacific. It offers silicon engineering services, including turnkey ASIC and silicon design services, as well as IP porting, customization, and integration services. The company also provides product engineering services, such as hardware design and physical system engineering, embedded system and device engineering, digital engineering for cloud-native experiences, AI engineering, and quality and automation engineering services. It serves the semiconductors, consumer electronics, automotive, energy and utilities, and industrial IoT industries. The company was formerly known as MosChip Semiconductor Technology Limited and changed its name to MosChip Technologies Limited in March 2019. MosChip Technologies Limited was incorporated in 1999 and is headquartered in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3088.77,
+  "market_cap_cr": 3291.95,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:49:48.592743",
-  "provider_reported_pb_ratio": 7.64,
-  "statements_retrieved_at": "2026-11-03T22:49:48.592743",
+  "retrieval_time": "2026-11-04T21:40:07.863659",
+  "provider_reported_pb_ratio": 8.15,
+  "statements_retrieved_at": "2026-11-04T21:40:07.863659",
   "retained_fields": []
 }

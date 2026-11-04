@@ -5,8 +5,8 @@
   "industry": "Electronic Components",
   "business_summary": "Avalon Technologies Limited, together with its subsidiaries, provides integrated electronic manufacturing services in India, the United States, and internationally. It offers printed circuit board assemblies; custom cables and wire harness assemblies; magnetic assemblies; sheet metal fabrication and assemblies, as well as contract services; aerospace sheet metal fabrication; precision injection molding for plastic parts; new product introduction, including prototype building services; design for manufacturing implementation; product engineering; volume production; life cycle management; system integration; machining; and supply chain and logistics. The company also provides electro-mechanical systems and racks; box builds for railway signaling systems; machined components for aerospace, such as aircraft seating, cargo systems, smoke detectors, and engine components; precision-machined components for specialized locomotive systems; and magnetic components, including transformers, inductors, and chokes. It serves the clean energy, mobility, healthcare, semiconductor equipment, communication, and industrial sectors. Avalon Technologies Limited was founded in 1995 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 13320.15,
-  "pe_ratio": 99.9,
+  "market_cap_cr": 13653.97,
+  "pe_ratio": 102.41,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 108.03,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:11:21.145296",
-  "provider_reported_pb_ratio": 18.43,
-  "statements_retrieved_at": "2026-11-03T22:11:21.145296",
+  "retrieval_time": "2026-11-04T21:03:35.208923",
+  "provider_reported_pb_ratio": 18.89,
+  "statements_retrieved_at": "2026-11-04T21:03:35.208923",
   "retained_fields": []
 }

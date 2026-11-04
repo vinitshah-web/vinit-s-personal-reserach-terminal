@@ -5,8 +5,8 @@
   "industry": "Farm Products",
   "business_summary": "The Grob Tea Company Limited engages in the cultivation, manufacture and sale of tea in India. The company was incorporated in 1895 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 99.37,
-  "pe_ratio": 12.96,
+  "market_cap_cr": 98.8,
+  "pe_ratio": 12.89,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 798.48,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:30:19.049625",
-  "provider_reported_pb_ratio": 1.07,
-  "statements_retrieved_at": "2026-11-03T22:30:19.049625",
+  "retrieval_time": "2026-11-04T21:21:40.941545",
+  "provider_reported_pb_ratio": 1.06,
+  "statements_retrieved_at": "2026-11-04T21:21:40.941545",
   "retained_fields": []
 }

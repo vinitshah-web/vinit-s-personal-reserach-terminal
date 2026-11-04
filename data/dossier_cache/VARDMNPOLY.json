@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Vardhman Polytex Limited manufactures and sells yarns and garments in India. It operates through Textiles and Real Estate segments. The company offers carded, combed, organic, and BCI cotton yarns; cotton polyester yarns; and grey and dyed value-added yarns. Vardhman Polytex Limited was incorporated in 1980 and is based in Ludhiana, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 235.91,
-  "pe_ratio": 0.7,
+  "market_cap_cr": 255.73,
+  "pe_ratio": 0.76,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": -4.47,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T23:18:12.613058",
-  "provider_reported_pb_ratio": -1.04,
-  "statements_retrieved_at": "2026-11-03T23:18:12.613058",
+  "retrieval_time": "2026-11-04T22:07:18.089601",
+  "provider_reported_pb_ratio": -1.13,
+  "statements_retrieved_at": "2026-11-04T22:07:18.089601",
   "retained_fields": []
 }

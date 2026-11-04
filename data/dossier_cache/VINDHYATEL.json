@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "Vindhya Telelinks Limited engages in the manufacture and sale of cables in India. The company operates in two segments, Cable Manufacturing; and Engineering, Procurement, and Construction (EPC). It offers fiber optic cables, such as aerial, underground duct, micro duct, micromodule, FTTX, specialty, and indoor cables. The company also provides telecom fiber accessories, such as connectors, adapters, pig tail, path cord, fiber management, and joint closure. In addition, it offers copper cables comprising foam skin/solid PE insulated jelly filled telephone cables, self-supporting aerial figure 8 type telephone cables, underground jelly filled quad cables, signaling cables, jumper wires, and electroplated tinned copper wires. Further, the company provides power cables, such as LT aerial bunched, instrumentation, control, and sheathed and unsheathed PVC insulated industrial cables, as well as solar PV cables and E-beam irradiated cables. Additionally, it offers EPC services to infrastructure sectors, such as telecom, power, water supply and irrigation, gas pipeline and system integration and LED lighting solutions under the BIRLA LED brand. The company also exports its products. Vindhya Telelinks Limited was incorporated in 1983 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3062.5,
-  "pe_ratio": 12.91,
+  "market_cap_cr": 3242.63,
+  "pe_ratio": 13.67,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 3548.5,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T23:19:18.544211",
-  "provider_reported_pb_ratio": 0.73,
-  "statements_retrieved_at": "2026-11-03T23:19:18.544211",
+  "retrieval_time": "2026-11-04T22:08:21.277409",
+  "provider_reported_pb_ratio": 0.77,
+  "statements_retrieved_at": "2026-11-04T22:08:21.277409",
   "retained_fields": []
 }

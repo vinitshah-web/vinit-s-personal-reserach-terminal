@@ -5,7 +5,7 @@
   "industry": "Farm Products",
   "business_summary": "Jay Shree Tea & Industries Limited cultivates, produces, and sells tea, sugar, and fertilizers in India and internationally. The company operates through the Tea, Fertilizer, and Sugar segments. It offers tea bags and tea packets that include black, green, white, oolong, masala, specialty, flavored, artisanal, and organic tea. The company also engages in tea warehousing; producing white sugar and ethanol; producing single super phosphate (SSP) under the Annapurna brand; and export business. Jay Shree Tea & Industries Limited was incorporated in 1945 and is headquartered in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 229.72,
+  "market_cap_cr": 234.34,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:38:27.551097",
-  "provider_reported_pb_ratio": 0.58,
-  "statements_retrieved_at": "2026-11-03T22:38:27.551097",
+  "retrieval_time": "2026-11-04T21:29:16.254515",
+  "provider_reported_pb_ratio": 0.59,
+  "statements_retrieved_at": "2026-11-04T21:29:16.254515",
   "retained_fields": []
 }

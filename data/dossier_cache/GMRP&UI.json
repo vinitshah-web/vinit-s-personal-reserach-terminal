@@ -5,7 +5,7 @@
   "industry": "Thermal Coal",
   "business_summary": "GMR Power And Urban Infra Limited engages in the energy, urban infrastructure, and transportation businesses in India and internationally. It operates through Power, Smart Meter Infrastructure, Roads, EPC, and Others segments. The company generates energy through coal based thermal plants, hydropower plants, solar, and wind; installation of smart meters; development, operation, and maintenance of highways; and engineering, procurement and construction (EPC) solutions for highways and railways, development of special investment region, and others. It is also involved in coal mining, and exploration activities; implementation of smart metering projects and construction business, including EPC contracting activities; smart energy initiatives; surface transportation; and maintenance and operation of special economic zones. It serves general public, government agencies, and non-government agencies. GMR Power And Urban Infra Limited was incorporated in 2019 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 7167.4,
+  "market_cap_cr": 7359.53,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:28:55.126961",
-  "provider_reported_pb_ratio": 3.63,
-  "statements_retrieved_at": "2026-11-03T22:28:55.126961",
+  "retrieval_time": "2026-11-04T21:19:54.635657",
+  "provider_reported_pb_ratio": 3.73,
+  "statements_retrieved_at": "2026-11-04T21:19:54.635657",
   "retained_fields": []
 }

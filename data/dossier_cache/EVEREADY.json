@@ -5,14 +5,14 @@
   "industry": "Electrical Equipment & Parts",
   "business_summary": "Eveready Industries India Limited manufactures and markets dry cell batteries, flashlights, and lighting and electrical products in India and internationally. The company offers carbon zinc, alkaline, coin cells, lithium AA/ AAA, and rechargeable batteries, as well as chargers; and rechargeable lanterns/rechargeable headlamps, brass, aluminum, and rechargeable torches. It also provides consumer lighting products, such as LED bulbs, LED battens, LED panels and downlights, and outdoor and decorative lighting; architectural, motion sensor, emergency, and festive range products; professional lighting, including indoor architectural, commercial, industrial, stadia, facade, outdoor landscape and architectural, and outdoor lighting; and electrical accessories comprising power banks, chargers, cables, room heaters, immersion heaters, electric kettles, dry irons, PVC insulation tapes, spike guards, multiplugs, plug tops, doorbells, water alarm bells, rechargeable fans, rechargeable led table lamps, and mosquito racquets. In addition, the company is involved in marketing of goods; and trading of raw materials. It sells its products under the Eveready, PowerCell, Ultima, Shakti, and Uniross brands. The company sell its products through a network of distributors, stockiest, and retail partners. Eveready Industries India Limited was founded in 1905 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2275.47,
-  "pe_ratio": 12.77,
+  "market_cap_cr": 2298.01,
+  "pe_ratio": 10.54,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 93.02,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 7.2687,
-  "fifty_two_week_high": 380.6,
+  "fifty_two_week_high": 379.2,
   "fifty_two_week_low": 259.65,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:25:32.183983",
-  "provider_reported_pb_ratio": 3.37,
-  "statements_retrieved_at": "2026-11-03T22:25:32.183983",
+  "retrieval_time": "2026-11-04T21:16:44.218780",
+  "provider_reported_pb_ratio": 3.4,
+  "statements_retrieved_at": "2026-11-04T21:16:44.218780",
   "retained_fields": []
 }

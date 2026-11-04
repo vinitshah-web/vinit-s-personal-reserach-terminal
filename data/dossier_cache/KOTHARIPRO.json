@@ -5,8 +5,8 @@
   "industry": "Conglomerates",
   "business_summary": "Kothari Products Limited, together with its subsidiaries, engages in international trade and real estate activities in India. It operates through two segments, Trading Items and Real Estate etc. The company involved in the import, export, and trade of various products/commodities, including agro based commodities, minerals, metals, petroleum products and coal, tiles, notebooks, computer storage devices, computer hardware products, electronic components, transformers, copier papers, steel products, scrap and PVC products, etc. It also develops land, malls, hotels, and service apartments; invests in commercial, residential, retail, and hospitality projects, as well as leases commercial buildings; operates a hotel, as well as senior secondary schools; and invests in stocks and mutual funds. It also exports its products. Kothari Products Limited was incorporated in 1983 and is based in Kanpur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 353.53,
-  "pe_ratio": 17.37,
+  "market_cap_cr": 360.75,
+  "pe_ratio": 17.72,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 195.92,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:41:51.864711",
-  "provider_reported_pb_ratio": 0.3,
-  "statements_retrieved_at": "2026-11-03T22:41:51.864711",
+  "retrieval_time": "2026-11-04T21:32:39.729290",
+  "provider_reported_pb_ratio": 0.31,
+  "statements_retrieved_at": "2026-11-04T21:32:39.729290",
   "retained_fields": []
 }

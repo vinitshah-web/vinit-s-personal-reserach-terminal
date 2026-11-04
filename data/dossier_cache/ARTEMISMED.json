@@ -6,7 +6,7 @@
   "business_summary": "Artemis Medicare Services Limited engages in the management and operation of multi-specialty hospitals in India and internationally. The company provides medical and surgical intervention, mix of inpatient and outpatient services. It also offers billing and insurance, childcare, emotional and support program, full body checkup, international patient, medical interpreter and record, mind body medicine, nursing, nutrition, patient and family advisory, patient advocacy and portal, pre-admission testing, and smoking cessation program services, as well as home care services. Artemis Medicare Services Limited was incorporated in 2004 and is based in Gurugram, India.",
   "business_summary_reason": null,
   "market_cap_cr": null,
-  "pe_ratio": 124.78,
+  "pe_ratio": 131.11,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 62.5,
@@ -17,10 +17,10 @@
   "financial_statements": [],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": false,
-  "retrieval_time": "2026-11-03T22:09:51.813501",
-  "provider_reported_pb_ratio": 4.57,
+  "retrieval_time": "2026-11-04T21:02:11.939584",
+  "provider_reported_pb_ratio": 4.8,
   "statements_retrieved_at": "2026-11-01T06:37:01.398964",
-  "previous_retrieval_time": "2026-11-03T20:44:25.793743",
+  "previous_retrieval_time": "2026-11-03T22:09:51.813501",
   "retained_fields": [
     "financial_statements",
     "previous_retrieval_time"

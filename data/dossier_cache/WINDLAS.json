@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Windlas Biotech Limited, a contract development and manufacturing organization, manufactures and trades in pharmaceutical products in India. The company offers contract manufacturing; customized formulations; contract research and manufacturing services; customized formulation; and regulatory services. It also manufactures tablets, capsules, oral solids, modified-release formulations, chewable and dispersible tablets, customized generics, and complex generics and multi-drug combinations, as well as injectables, including liquid vials, lyophilized vials, and ampoules. In addition, the company offers generic drugs for respiratory, anti-diabetic, gastroenterology, cardiovascular and multivitamin, neuro anti-psychotic, diabetic care, nutraceuticals, nutritional supplement, urology, pain management, and injectable therapies. It also exports generic medicines, health supplements, and custom-branded formulations. The company sells generic medicines, health supplements, and custom-branded formulations under Windlas brand names. Windlas Biotech Limited was incorporated in 2001 and is headquartered in Dehradun, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1815.16,
-  "pe_ratio": 28.14,
+  "market_cap_cr": 1802.47,
+  "pe_ratio": 27.94,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 275.2,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T23:21:11.732089",
-  "provider_reported_pb_ratio": 3.2,
-  "statements_retrieved_at": "2026-11-03T23:21:11.732089",
+  "retrieval_time": "2026-11-04T22:10:24.011855",
+  "provider_reported_pb_ratio": 3.17,
+  "statements_retrieved_at": "2026-11-04T22:10:24.011855",
   "retained_fields": []
 }

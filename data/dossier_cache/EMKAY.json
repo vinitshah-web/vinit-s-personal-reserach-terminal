@@ -5,8 +5,8 @@
   "industry": "Capital Markets",
   "business_summary": "Emkay Global Financial Services Limited, together with its subsidiaries, provides various financial services in India. It operates through two segments, Advisory and Transactional Services; and Financing and Investment Activities. The company offers stock broking, financing, depository participant, asset and wealth management, financial products distribution, investment advisory, proprietary investments, securities trading, and exempt financial advisory services; and securities broking and distribution, and other related financial intermediation services. It also provides investment banking services comprising private equity and qualified institutions placement, rights issue, and corporate advisory; institutional equities and portfolio management; commodities, currency derivatives, and retail broking services; and global investing. The company serves foreign institutional investors (FIIs), domestic mutual and hedge funds, banks, insurance companies, private equity firms, corporate houses, small and medium-sized enterprises, and high net worth individuals (HNIs). The company was formerly known as Emkay Share and Stock Brokers Private Limited and changed its name to Emkay Global Financial Services Limited in June 2008. Emkay Global Financial Services Limited was incorporated in 1995 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 732.77,
-  "pe_ratio": 38.08,
+  "market_cap_cr": 721.46,
+  "pe_ratio": 15.18,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 163.78,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:24:14.134749",
-  "provider_reported_pb_ratio": 1.6,
-  "statements_retrieved_at": "2026-11-03T22:24:14.134749",
+  "retrieval_time": "2026-11-04T21:15:30.882656",
+  "provider_reported_pb_ratio": 1.58,
+  "statements_retrieved_at": "2026-11-04T21:15:30.882656",
   "retained_fields": []
 }

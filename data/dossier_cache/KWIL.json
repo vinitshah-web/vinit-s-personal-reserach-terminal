@@ -5,7 +5,7 @@
   "industry": "Packaged Foods",
   "business_summary": "Kwality Walls (India) Limited produces and sells ice creams in India. Its products includes cornetto, cup, family packs and tubs, feast, kids, sticks, and slow churn. It sells its products through magnum, cornetto, Kwality wall's brand names. The company was founded in 1956 and is based in Mumbai, India. As of March 30, 2026, Kwality Walls (India) Limited operates as a subsidiary of The Magnum Ice Cream Company N.V.",
   "business_summary_reason": null,
-  "market_cap_cr": 8834.46,
+  "market_cap_cr": 9356.07,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -17,10 +17,10 @@
   "financial_statements": [],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": false,
-  "retrieval_time": "2026-11-03T22:42:43.237428",
-  "provider_reported_pb_ratio": 13.15,
+  "retrieval_time": "2026-11-04T21:33:29.261432",
+  "provider_reported_pb_ratio": 13.92,
   "statements_retrieved_at": "2026-11-01T07:03:24.885129",
-  "previous_retrieval_time": "2026-11-03T21:14:48.443531",
+  "previous_retrieval_time": "2026-11-03T22:42:43.237428",
   "retained_fields": [
     "financial_statements",
     "previous_retrieval_time"

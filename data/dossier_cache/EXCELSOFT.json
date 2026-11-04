@@ -5,8 +5,8 @@
   "industry": "Software - Application",
   "business_summary": "Excelsoft Technologies Limited, a software as a service (SaaS) company, designs and develops technology-based solutions in the education and e-learning space. It operates through Assessment and Proctoring Solutions; Educational Technology Services; Learning and Student Success Solutions; and Learning Design and Content Solutions segments. The company offers SARAS, a learning and assessment technology framework; OpenPage, a digital interactive ebook ecosystem; CollegeSparc, a student success product; and education enterprise information management system, as well as EasyProctor, an AI-powered remote proctoring system that ensures the integrity of online exams by enabling proctors to remotely monitor and intervene in cases of student malpractices. It also provides consultancy, AI content, web course development, ILT and blended learning, simulation, immersive learning, localization and translation, gamification, and video based learning solutions, as well as software development and related services; and licensing of software products and platforms. The company serves academic institutes, universities, schools, enterprises, and others. Excelsoft Technologies Limited was incorporated in 2000 and is headquartered in Mysore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 918.95,
-  "pe_ratio": 18.11,
+  "market_cap_cr": 931.38,
+  "pe_ratio": 18.35,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 50.25,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:25:38.916129",
-  "provider_reported_pb_ratio": 1.59,
-  "statements_retrieved_at": "2026-11-03T22:25:38.916129",
+  "retrieval_time": "2026-11-04T21:16:50.609419",
+  "provider_reported_pb_ratio": 1.61,
+  "statements_retrieved_at": "2026-11-04T21:16:50.609419",
   "retained_fields": []
 }

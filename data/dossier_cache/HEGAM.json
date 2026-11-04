@@ -5,8 +5,8 @@
   "industry": "Electrical Equipment & Parts",
   "business_summary": "HEG Advanced Materials Limited engages in the research and development of advanced battery materials, battery solutions. It manufactures custom machined components. The company also operates thermal power plants and a hydroelectric power facility. The company was formerly known as HEG Limited and change its name to HEG Advanced Materials Limited in September 2026. HEG Advanced Materials Limited was incorporated in 1972 and is headquartered in Noida, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 7936.94,
-  "pe_ratio": 13.13,
+  "market_cap_cr": 9504.14,
+  "pe_ratio": 15.72,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 246.55,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:33:00.669151",
-  "provider_reported_pb_ratio": 0.98,
-  "statements_retrieved_at": "2026-11-03T22:33:00.669151",
+  "retrieval_time": "2026-11-04T21:24:07.921146",
+  "provider_reported_pb_ratio": 1.17,
+  "statements_retrieved_at": "2026-11-04T21:24:07.921146",
   "retained_fields": []
 }

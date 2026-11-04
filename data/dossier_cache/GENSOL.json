@@ -5,8 +5,8 @@
   "industry": "Solar",
   "business_summary": "Gensol Engineering Limited engages in the provision of renewable energy solutions in India, the Middle East, and internationally. It operates through EPC, Lease, EV Manufacturing, and Others segments. The company offers architecture, engineering, and technical testing and consultancy activities. The company also provides solar EPC services, such as floating solar, rooftop solar, and ground mounted; engineering advisory services; solar operation and maintenance services; rents and leases motor vehicles, machinery, equipment, etc; offers energy storage solutions; end-to-end single-axis solar tracking solutions; generates and distributes solar power; and engages in the manufacture and leasing of electric vehicles. Gensol Engineering Limited was founded in 2007 and is headquartered in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 36.75,
-  "pe_ratio": 0.76,
+  "market_cap_cr": 35.64,
+  "pe_ratio": 0.77,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 155.24,
@@ -63,8 +63,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:27:54.669454",
+  "retrieval_time": "2026-11-04T21:18:58.182210",
   "provider_reported_pb_ratio": 0.06,
-  "statements_retrieved_at": "2026-11-03T22:27:54.669454",
+  "statements_retrieved_at": "2026-11-04T21:18:58.182210",
   "retained_fields": []
 }

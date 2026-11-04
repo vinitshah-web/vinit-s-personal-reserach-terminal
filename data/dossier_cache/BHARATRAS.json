@@ -5,8 +5,8 @@
   "industry": "Agricultural Inputs",
   "business_summary": "Bharat Rasayan Limited engages in the manufacture and sale of technical grade pesticides and chemical intermediates in India. It offers insecticides, herbicides, fungicides, and intermediates. The company also exports its products through multinational agrochemical companies and other traders. Bharat Rasayan Limited was incorporated in 1989 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1580.58,
-  "pe_ratio": 6.13,
+  "market_cap_cr": 1606.34,
+  "pe_ratio": 6.23,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 766.94,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:14:13.421045",
-  "provider_reported_pb_ratio": 1.24,
-  "statements_retrieved_at": "2026-11-03T22:14:13.421045",
+  "retrieval_time": "2026-11-04T21:06:14.145517",
+  "provider_reported_pb_ratio": 1.26,
+  "statements_retrieved_at": "2026-11-04T21:06:14.145517",
   "retained_fields": []
 }

@@ -5,15 +5,15 @@
   "industry": "Paper & Paper Products",
   "business_summary": "Astron Paper & Board Mill Limited manufactures and sells a range of kraft papers from wastepaper for the packaging industry in India. The company offers fluting medium, test liner, kraft liner, virgin top liner, H-RCT kraft liner, and liner products, as well as high ring crust test and corrugated medium papers. The company also exports its products. Astron Paper & Board Mill Limited was incorporated in 2010 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 12.24,
+  "market_cap_cr": 11.96,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 14.6,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 4.65,
-  "fifty_two_week_high": 10.43,
-  "fifty_two_week_low": 2.52,
+  "fifty_two_week_high": 10.38,
+  "fifty_two_week_low": 2.48,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:10:43.786470",
-  "provider_reported_pb_ratio": 0.18,
-  "statements_retrieved_at": "2026-11-03T22:10:43.786470",
+  "retrieval_time": "2026-11-04T21:03:00.504336",
+  "provider_reported_pb_ratio": 0.17,
+  "statements_retrieved_at": "2026-11-04T21:03:00.504336",
   "retained_fields": []
 }

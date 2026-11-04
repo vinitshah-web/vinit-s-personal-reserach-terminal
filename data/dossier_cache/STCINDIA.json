@@ -5,8 +5,8 @@
   "industry": "Conglomerates",
   "business_summary": "The State Trading Corporation of India Limited does not have significant operations. Previously, it was engaged in the import and export of bulk commodities of rice, wheat, sugar, pulses, edible oils, fertilizers, coal, and bullion. The company was incorporated in 1956 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 611.16,
-  "pe_ratio": 0.93,
+  "market_cap_cr": 625.02,
+  "pe_ratio": 0.95,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": -663.49,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T23:10:57.952934",
-  "provider_reported_pb_ratio": -0.15,
-  "statements_retrieved_at": "2026-11-03T23:10:57.952934",
+  "retrieval_time": "2026-11-04T22:00:17.487791",
+  "provider_reported_pb_ratio": -0.16,
+  "statements_retrieved_at": "2026-11-04T22:00:17.487791",
   "retained_fields": []
 }

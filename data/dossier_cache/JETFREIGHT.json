@@ -5,15 +5,15 @@
   "industry": "Integrated Freight & Logistics",
   "business_summary": "Jet Freight Logistics Limited engages in the logistics and freight forwarding business in India and internationally. The company offers air and ocean freight, rail and surface transportation, courier, customs clearance, and warehousing services, as well as door-to-door delivery services. It manages perishable cargo, including frozen-temperature-controlled shipments, such as pharmaceuticals, vaccines, bulk drugs, vegetables, fruits, flowers, electronics/machinery, garments, and tissue culture; general and time sensitive cargo; aerospace logistics; full and part charters; consolidation services; DGR handling; and project cargo, as well as shipment of hazardous cargo and ODC consignments. The company serves various clients across automotive, pharmaceuticals, engineering, retail, and FMCG sectors. Jet Freight Logistics Limited was founded in 1986 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 88.61,
-  "pe_ratio": 10.74,
+  "market_cap_cr": 91.36,
+  "pe_ratio": 11.07,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 15.34,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 5.0923,
   "fifty_two_week_high": 25.95,
-  "fifty_two_week_low": 12.0,
+  "fifty_two_week_low": 12.24,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:38:31.813900",
-  "provider_reported_pb_ratio": 1.13,
-  "statements_retrieved_at": "2026-11-03T22:38:31.813900",
+  "retrieval_time": "2026-11-04T21:29:22.136848",
+  "provider_reported_pb_ratio": 1.17,
+  "statements_retrieved_at": "2026-11-04T21:29:22.136848",
   "retained_fields": []
 }

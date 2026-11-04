@@ -5,8 +5,8 @@
   "industry": "Credit Services",
   "business_summary": "Sundaram Finance Limited, together with its subsidiaries, operates as a non-banking finance company in India. The company accepts fixed, cumulative, and NRI deposits. The company also offers finance for new and used cars, new and used commercial vehicles, and new and used construction equipment; diesel finance for commercial vehicle operators and companies; tire and insurance finance; farm equipment finance for new/used tractors, harvesters, and farm implements; SME finance working capital, enterprise business, and machinery term loans, as well as channel finance; housing finance; and leasing services. In addition, it provides life, health, asset, and business insurance products; mutual funds; and information technology, and business processing and support services. Further, it offers a suite of investment management services, which include asset allocation and execution, portfolio management, tax management, risk management, and estate management. Sundaram Finance Limited was incorporated in 1954 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 44715.27,
-  "pe_ratio": 20.14,
+  "market_cap_cr": 44112.38,
+  "pe_ratio": 19.87,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 1340.52,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T23:11:43.200022",
-  "provider_reported_pb_ratio": 3.03,
-  "statements_retrieved_at": "2026-11-03T23:11:43.200022",
+  "retrieval_time": "2026-11-04T22:01:01.931371",
+  "provider_reported_pb_ratio": 2.99,
+  "statements_retrieved_at": "2026-11-04T22:01:01.931371",
   "retained_fields": []
 }

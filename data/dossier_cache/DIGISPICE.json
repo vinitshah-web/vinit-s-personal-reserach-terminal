@@ -5,8 +5,8 @@
   "industry": "Financial Conglomerates",
   "business_summary": "DiGiSPICE Technologies Limited engages in the business of financial technologies services through tech- enabled hyper local payments network platforms in India. It offers cash-in/cash-out, mini-ATM transactions, and e-KYC-based account openings to money transfers; credit and loan services; insurance; and bill payments, as well as collection services, and current and savings accounts. The company also provides aadhaar-enabled payment system (AePS), cash management services (CMS), domestic money transfer (DMT), micro ATM, bharat bill payment system (BBPS), recharges, PAN, and travel services through Adhikaris; micro point of sale services (mPOS); subscription packs, remittances, credit distribution, and banking services; Spice UPI, a PPI wallet; and lending business that provide credit solutions to both merchants and consumers. In addition, it offers secured and unsecured lending products; digital financial and e-retail services across rural and semi-urban; and bookings for trains, flights, buses, and hotels through the Travel Union platform. The company was formerly known as Spice Mobility Limited and changed its name to DiGiSPICE Technologies Limited in August 2019. The company was incorporated in 1986 and is based in Noida, India. DiGiSPICE Technologies Limited operates as a subsidiary of Spice Connect Private Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 374.3,
-  "pe_ratio": 17.15,
+  "market_cap_cr": 385.56,
+  "pe_ratio": 17.67,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 9.55,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:21:45.775054",
-  "provider_reported_pb_ratio": 1.67,
-  "statements_retrieved_at": "2026-11-03T22:21:45.775054",
+  "retrieval_time": "2026-11-04T21:13:12.527214",
+  "provider_reported_pb_ratio": 1.72,
+  "statements_retrieved_at": "2026-11-04T21:13:12.527214",
   "retained_fields": []
 }

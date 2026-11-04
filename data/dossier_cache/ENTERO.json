@@ -5,8 +5,8 @@
   "industry": "Medical Distribution",
   "business_summary": "Entero Healthcare Solutions Limited engages in the trading of pharmaceutical and surgical products in India. The company offers a range of pharmaceuticals and other healthcare products to retail pharmacies and healthcare practitioners; and healthcare products, including pharmaceutical and nutraceutical products and vaccines; medical devices, such as orthopaedic implants and coronary stents; and hospital consumables comprising examination and surgical gloves, syringes, needles, and sutures to hospitals and clinics. It also provides private label products under the Entero Surgicals private label, such as monitoring devices, nursing and rehabilitation products, and consumables; commercial solutions; and healthcare product distribution solutions, including imports, central warehousing, redistribution, last mile delivery, and connection with the pharmacies, hospitals, and clinics. The company was incorporated in 2018 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 6889.56,
-  "pe_ratio": 54.95,
+  "market_cap_cr": 7253.78,
+  "pe_ratio": 57.85,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 388.09,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:24:44.052675",
-  "provider_reported_pb_ratio": 4.07,
-  "statements_retrieved_at": "2026-11-03T22:24:44.052675",
+  "retrieval_time": "2026-11-04T21:15:58.138577",
+  "provider_reported_pb_ratio": 4.29,
+  "statements_retrieved_at": "2026-11-04T21:15:58.138577",
   "retained_fields": []
 }

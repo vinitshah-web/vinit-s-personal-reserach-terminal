@@ -5,7 +5,7 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "Veljan Denison Limited manufactures and sells hydraulic pumps, motors, valves, and custom-built power packs in India and internationally. The company's primary operations include the design, engineering, manufacturing, assembly, and servicing of hydraulic equipment for industrial and mobile applications. The company also offers rig pumps, truck pumps, hydraulic filters, and mobile DC valves; vane pumps, motors; single, double, and triple gear pumps, bearing pumps; and pressure control, check, seat, flow control, directional control, stack, and hydraulic valves. In addition, it provides power packs, manifolds, system savers, hydraulic cylinders, and pneumatic products. In addition, the company offers marine equipment, such as steering gear systems, fin stabilizer systems, hydraulic power units, control systems, test facilities, and other accessories. The company was formerly known as Denison Hydraulics India Limited and changed its name to Veljan Denison Limited in April 2010. Veljan Denison Limited was founded in 1965 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 903.96,
+  "market_cap_cr": 903.92,
   "pe_ratio": 34.53,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T23:18:31.955625",
+  "retrieval_time": "2026-11-04T22:07:39.152014",
   "provider_reported_pb_ratio": 3.6,
-  "statements_retrieved_at": "2026-11-03T23:18:31.955625",
+  "statements_retrieved_at": "2026-11-04T22:07:39.152014",
   "retained_fields": []
 }

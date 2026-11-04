@@ -5,8 +5,8 @@
   "industry": "Banks - Regional",
   "business_summary": "Kotak Mahindra Bank Limited provides a range of banking and financial services to corporate and individual customers in India. It operates through Corporate/Wholesale Banking; Retail Banking; Treasury, BMU and Corporate Centre; Vehicle Financing; Other Lending Activities; Broking; Advisory and Transactional Services; Asset Management; and Insurance segments. The company offers savings, current, retail institution, corporate, private banking, and salary accounts; NRE and NRO fixed deposits and foreign currency nonresident deposits; home, personal, business, payday, gold, education, two-wheeler, commercial vehicle and equipment, working capital, home improvement, car, business, and crop loans, as well as loans against securities and properties; smart EMI services; bill payment, fund transfer, FASTag, taxes, loan/utility payment, forex, and remittance; and forex, credit, and debit card services. It also provides life, health, vehicle, travel, car, and two-wheeler insurance; domestic and international trade, international export and import, bank guarantee, letter of credit, and export credit; digital banking services; and cash management, trade and supply chain finance, trade services, corporate accounts, and sector based solutions. In addition, the company offers investment products, such as demat accounts, Government schemes, mutual funds, application supported by blocked amount facility, deposits, and portfolio investment schemes; and wire transfer, click2remit, and remittance exchange house services. Kotak Mahindra Bank Limited was incorporated in 1985 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 462228.29,
-  "pe_ratio": 21.53,
+  "market_cap_cr": 457005.65,
+  "pe_ratio": 21.29,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 196.04,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:41:47.635796",
-  "provider_reported_pb_ratio": 2.37,
-  "statements_retrieved_at": "2026-11-03T22:41:47.635796",
+  "retrieval_time": "2026-11-04T21:32:35.394172",
+  "provider_reported_pb_ratio": 2.34,
+  "statements_retrieved_at": "2026-11-04T21:32:35.394172",
   "retained_fields": []
 }

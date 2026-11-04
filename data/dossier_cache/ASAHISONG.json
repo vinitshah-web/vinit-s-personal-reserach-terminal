@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Asahi Songwon Colors Limited manufactures and sells color pigments and derivatives in India. The company offers copper phthalocyanine (CPC) blue crude, pigment alpha, pigment blue, and pigment beta blue. Its products are used in coatings, paints, printing inks, plastics, pharmaceuticals, textiles, rubber, and paper industries. The company also exports its products. Asahi Songwon Colors Limited was incorporated in 1990 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 436.66,
-  "pe_ratio": 12.53,
+  "market_cap_cr": 437.54,
+  "pe_ratio": 12.56,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 230.18,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:10:05.731098",
+  "retrieval_time": "2026-11-04T21:02:24.683961",
   "provider_reported_pb_ratio": 1.61,
-  "statements_retrieved_at": "2026-11-03T22:10:05.731098",
+  "statements_retrieved_at": "2026-11-04T21:02:24.683961",
   "retained_fields": []
 }

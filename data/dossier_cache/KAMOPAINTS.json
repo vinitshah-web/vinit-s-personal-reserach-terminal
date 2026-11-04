@@ -5,14 +5,14 @@
   "industry": "Steel",
   "business_summary": "Kamdhenu Ventures Limited manufactures and supplies paint products in India. The company provides dual paints series, designer finishes, exterior emulsion range, interior emulsion range, acrylic washable distemper, textured paints, premium enamel paint, wood coating products, and water-proofing solutions. It offers its products through dealers, distributors, and painters. Kamdhenu Ventures Limited was founded in 2008 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 125.35,
+  "market_cap_cr": 128.31,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 5.25,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 32.9,
-  "fifty_two_week_high": 8.5,
+  "fifty_two_week_high": 8.19,
   "fifty_two_week_low": 3.6,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:40:04.082358",
-  "provider_reported_pb_ratio": 0.73,
-  "statements_retrieved_at": "2026-11-03T22:40:04.082358",
+  "retrieval_time": "2026-11-04T21:30:55.609604",
+  "provider_reported_pb_ratio": 0.74,
+  "statements_retrieved_at": "2026-11-04T21:30:55.609604",
   "retained_fields": []
 }

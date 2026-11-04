@@ -5,14 +5,14 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Gulf Oil Lubricants India Limited manufactures, markets, and trades automotive and non-automotive lubricants, and synergy products for use in the automobile and industrial sectors in India and internationally. The company offers automotive lubricants, such as engine oils, driveline fluids, brake fluids and radiator coolants, bike care products, vehicle gear and transmission oils, greases and lubricants for trucks and buses, vehicle coolants and other specialty fluids; and industrial gear and hydraulic oils, as well as lubricants for cars, commercial vehicles, motorcycles and scooters, and tractor farm equipment. It also provides air compressors, refrigeration compressors, thermic fluids, turbines, slideway, spindle oils, knitting, transformers, and rockdrill oils; bearing and circulating oils; metalworking fluids and heat-treatment oils; and AdBlue, a diesel exhaust fluid. In addition, the company offers two-wheeler batteries; marine lubricants; passenger car motor, motorcycle, commercial vehicle oils; and EV fluids and chargers. The company was formerly known as Hinduja Infrastructure Limited and changed its name to Gulf Oil Lubricants India Limited in September 2013. Gulf Oil Lubricants India Limited was founded in 1901 and is based in Mumbai, India. Gulf Oil Lubricants India Limited is a subsidiary of Gulf Oil International (Mauritius) Inc.",
   "business_summary_reason": null,
-  "market_cap_cr": 5377.77,
-  "pe_ratio": 13.38,
+  "market_cap_cr": 5383.22,
+  "pe_ratio": 13.39,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 330.81,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 4.9556,
-  "fifty_two_week_high": 1289.4,
+  "fifty_two_week_high": 1264.0,
   "fifty_two_week_low": 865.0,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:31:24.244605",
+  "retrieval_time": "2026-11-04T21:22:41.592824",
   "provider_reported_pb_ratio": 3.28,
-  "statements_retrieved_at": "2026-11-03T22:31:24.244605",
+  "statements_retrieved_at": "2026-11-04T21:22:41.592824",
   "retained_fields": []
 }

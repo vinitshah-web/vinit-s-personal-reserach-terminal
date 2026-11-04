@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Bal Pharma Limited, together with its subsidiaries, manufactures and markets pharmaceutical formulations and active pharmaceutical ingredients (APIs) in India and internationally. The company offers prescription drugs, generics, OTC products, intravenous infusion products, and bulk drugs. It also provides anti-infectives, pain management, respiratory care, and women's health products under the Aziwin, Ebay, Balvibe, MNF, Ocium, and Monogesic Plus Gel brands; diabetic care products under the Diabend and Diabend M Group brands; herbal/ayurvedic preparations targeting conditions, such as prostate enlargement, renal calculi, male infertility, and women health, etc. under the Stonex, Ashwamed, Prostowin, Suswas, Menoleap, and Ayursulin brands; anti-hypertensive, anti-lipidemic, and anti-obese products; skin care and bone health products; herbal liver protective and antioxidant; and cardiac care products under the Secremet and Servace brands. In addition, the company offers a range of APIs for therapeutic areas, such as anti-histamine, platelet inhibitor, anti-diabetic, anti-convulsant, urinary incontinence, neuropathic pain, anti-allergy, anti-inflammatory, diuretic, and acne treatment, etc.; and various formulations, including tablets, capsules, syrups, suspensions, ophthalmic, creams, and ointments. Further, it engages in the treatment of gastrointestinal disorders; and piles, fistula, and constipation. The company exports its products. Bal Pharma Limited was incorporated in 1987 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 130.23,
-  "pe_ratio": 18.02,
+  "market_cap_cr": 130.79,
+  "pe_ratio": 18.09,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 51.71,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:12:33.411400",
-  "provider_reported_pb_ratio": 1.58,
-  "statements_retrieved_at": "2026-11-03T22:12:33.411400",
+  "retrieval_time": "2026-11-04T21:04:40.754766",
+  "provider_reported_pb_ratio": 1.59,
+  "statements_retrieved_at": "2026-11-04T21:04:40.754766",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Real Estate Services",
   "business_summary": "Future Market Networks Limited, together with its subsidiaries, engages in organizing of wholesale, trade, retail, and logistics infrastructure projects in India. The company also manages and operates shopping infrastructures and retail spaces; develops large-scale warehouses; supply chain management services; and provides mall management business. The company was formerly known as Agre Developers Limited and changed its name to Future Market Networks Limited in February 2012. The company was incorporated in 2008 and is based in Mumbai, India. Future Market Networks Limited is a subsidiary of Future Corporate Resources Private Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 54.14,
-  "pe_ratio": 6.7,
+  "market_cap_cr": 53.48,
+  "pe_ratio": 6.62,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 18.5,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:26:42.644034",
-  "provider_reported_pb_ratio": 0.44,
-  "statements_retrieved_at": "2026-11-03T22:26:42.644034",
+  "retrieval_time": "2026-11-04T21:17:52.723259",
+  "provider_reported_pb_ratio": 0.43,
+  "statements_retrieved_at": "2026-11-04T21:17:52.723259",
   "retained_fields": []
 }

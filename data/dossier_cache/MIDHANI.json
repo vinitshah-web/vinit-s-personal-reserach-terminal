@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "Mishra Dhatu Nigam Limited manufactures and sells super alloys, titanium, special purpose steel, and other special metals in India and internationally. The company provides high value speciality steels, including ultra-high strength steel, armour grade plates, precipitation hardening steel, and ferritic, martensitic and austenitic stainless steels; cast superalloy single-crystal blade material for aero engines; and Titanium alloys, such as ingots, forged bars, rings, hot rolled plates, cold rolled sheets, hot rolled bars, cold drawn wires, titanium castings, bio implants, and fasteners. It also offers special products comprising personal and vehicle armour, aerospace-grade fasteners, and welding electrodes and precision springs. Mishra Dhatu Nigam Limited was incorporated in 1973 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 6978.42,
-  "pe_ratio": 51.66,
+  "market_cap_cr": 7285.65,
+  "pe_ratio": 53.94,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 81.81,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:48:01.714885",
-  "provider_reported_pb_ratio": 4.55,
-  "statements_retrieved_at": "2026-11-03T22:48:01.714885",
+  "retrieval_time": "2026-11-04T21:38:25.583153",
+  "provider_reported_pb_ratio": 4.75,
+  "statements_retrieved_at": "2026-11-04T21:38:25.583153",
   "retained_fields": []
 }

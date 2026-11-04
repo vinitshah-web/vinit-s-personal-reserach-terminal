@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Hindprakash Industries Limited manufactures and trades in dyes, auxiliaries, intermediates, and chemicals in India and internationally. The company offers acid, cationic basic, disperse, direct, and reactive dyes. It also provides chemical and auxiliaries, such as pretreatment chemicals, dyeing auxiliaries, green acid, printing auxiliaries, finishing auxiliaries, and washing of agents, as well as basic chemicals and solvents. In addition, the company provides pigments, resins, adhesive, and food colors. It serves dyestuff and dye intermediates, textiles, construction chemicals, specialty chemicals, and other sectors. The company also exports its products. Hindprakash Industries Limited was founded in 1942 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 127.61,
-  "pe_ratio": 36.38,
+  "market_cap_cr": 131.06,
+  "pe_ratio": 37.37,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 47.75,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:34:14.127392",
-  "provider_reported_pb_ratio": 2.34,
-  "statements_retrieved_at": "2026-11-03T22:34:14.127392",
+  "retrieval_time": "2026-11-04T21:25:18.706891",
+  "provider_reported_pb_ratio": 2.4,
+  "statements_retrieved_at": "2026-11-04T21:25:18.706891",
   "retained_fields": []
 }

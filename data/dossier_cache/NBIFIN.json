@@ -5,14 +5,14 @@
   "industry": "Capital Markets",
   "business_summary": "N.B.I. Industrial Finance Company Limited, a non-banking financial company, engages in the investing in shares, securities, and financial activities in India. The company was formerly known as The New Bank of India Limited and changed its name to N.B.I. Industrial Finance Company Limited in May 1951. N.B.I. Industrial Finance Company Limited was incorporated in 1936 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 527.85,
-  "pe_ratio": 38.02,
+  "market_cap_cr": 539.76,
+  "pe_ratio": 38.87,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 8928.89,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 0.2955,
-  "fifty_two_week_high": 2550.0,
+  "fifty_two_week_high": 2547.0,
   "fifty_two_week_low": 1539.0,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:51:26.729513",
+  "retrieval_time": "2026-11-04T21:41:42.288521",
   "provider_reported_pb_ratio": 0.2,
-  "statements_retrieved_at": "2026-11-03T22:51:26.729513",
+  "statements_retrieved_at": "2026-11-04T21:41:42.288521",
   "retained_fields": []
 }

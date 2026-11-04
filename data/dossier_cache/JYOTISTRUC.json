@@ -5,8 +5,8 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "Jyoti Structures Limited manufactures and sells transmission line towers, substation structures, tall antenna towers, and masts in India and internationally. It is involved in turnkey/ engineering procurement construction projects that include the survey, design, foundation, fabrication, erection, and stringing activities of high voltage transmission lines; procurement of bought out items; supply of lattice and pipe type structures; civil works; and erection, testing, and commissioning of switchyard/substations and distribution networks. The company was incorporated in 1974 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1162.62,
-  "pe_ratio": 18.04,
+  "market_cap_cr": 1168.59,
+  "pe_ratio": 18.13,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 3.98,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:39:45.483459",
-  "provider_reported_pb_ratio": 2.45,
-  "statements_retrieved_at": "2026-11-03T22:39:45.483459",
+  "retrieval_time": "2026-11-04T21:30:38.482509",
+  "provider_reported_pb_ratio": 2.46,
+  "statements_retrieved_at": "2026-11-04T21:30:38.482509",
   "retained_fields": []
 }

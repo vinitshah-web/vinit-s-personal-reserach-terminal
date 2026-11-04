@@ -5,8 +5,8 @@
   "industry": "Lumber & Wood Production",
   "business_summary": "The Indian Wood Products Company Limited engages in the manufacture and trading of Katha in India. It offers cutch and catechins products, as well as processed Gambier. The company also trades in spices. The Indian Wood Products Company Limited was incorporated in 1919 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 215.33,
-  "pe_ratio": 36.19,
+  "market_cap_cr": 218.66,
+  "pe_ratio": 36.75,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 58.22,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:37:55.572851",
-  "provider_reported_pb_ratio": 0.58,
-  "statements_retrieved_at": "2026-11-03T22:37:55.572851",
+  "retrieval_time": "2026-11-04T21:28:47.935811",
+  "provider_reported_pb_ratio": 0.59,
+  "statements_retrieved_at": "2026-11-04T21:28:47.935811",
   "retained_fields": []
 }

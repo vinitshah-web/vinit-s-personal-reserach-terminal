@@ -5,8 +5,8 @@
   "industry": "Building Products & Equipment",
   "business_summary": "Bigbloc Construction Limited, together with its subsidiaries, engages in manufacturing, sales, and marketing of aerated autoclave concrete blocks in India. The company offers AAC wall panels, block jointing mortar, tile adhesives and gypsum plaster, and other construction chemicals. It markets its products under the NXTBLOC, NXTPLAST, NXTFIX, and ZMARTBUILD brand names. Bigbloc Construction Limited was founded in 2010 and is based in Surat, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 504.15,
-  "pe_ratio": 296.75,
+  "market_cap_cr": 487.45,
+  "pe_ratio": 286.92,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 9.71,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:14:23.302457",
-  "provider_reported_pb_ratio": 3.67,
-  "statements_retrieved_at": "2026-11-03T22:14:23.302457",
+  "retrieval_time": "2026-11-04T21:06:23.331785",
+  "provider_reported_pb_ratio": 3.54,
+  "statements_retrieved_at": "2026-11-04T21:06:23.331785",
   "retained_fields": []
 }

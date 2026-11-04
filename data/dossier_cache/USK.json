@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "Udayshivakumar Infra Limited engages in the execution of infrastructure projects primarily in India. The company is involved in the construction of roads; toll collection on highways; and other related government contracts, as well as specializes in road projects, canals, bridges, and buildings. It also provides ready mix concrete. Udayshivakumar Infra Limited was incorporated in 1995 and is based in Davanagere, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 96.88,
-  "pe_ratio": 14.83,
+  "market_cap_cr": 97.71,
+  "pe_ratio": 14.96,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 30.77,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T23:17:42.031405",
+  "retrieval_time": "2026-11-04T22:06:44.180031",
   "provider_reported_pb_ratio": 0.57,
-  "statements_retrieved_at": "2026-11-03T23:17:42.031405",
+  "statements_retrieved_at": "2026-11-04T22:06:44.180031",
   "retained_fields": []
 }

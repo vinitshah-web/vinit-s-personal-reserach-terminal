@@ -5,8 +5,8 @@
   "industry": "Electronic Components",
   "business_summary": "IKIO Technologies Limited, together with its subsidiaries, manufactures and sells light emitting diode lighting solutions in India and internationally. It offers ODM for LED lights; switches and hardware components; LED refrigeration lights and controls; recreational vehicle components; and LED drivers. The company also provides LED lighting solutions, including architectural lighting, product display and refrigeration systems, and RV and mobility solutions; automotive LED lighting; consumer electronics, such as earbuds, speakers, smartwatches, headsets, and neckbands; OEM/ODM products; and electronics and energy systems. In addition, it engages in the design, fabrication, and assembly of mechanical components for lighting, solar, and electronic manufacturing services; and product display lighting, IPS controllers, and specialized electrical components for commercial refrigeration. The company's products are used in residential, commercial, and industrial applications. It exports its products. The company was formerly known as IKIO Lighting Limited and changed its name to IKIO Technologies Limited in March 2025. IKIO Technologies Limited was incorporated in 2016 and is based in Noida, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1288.42,
-  "pe_ratio": 27.02,
+  "market_cap_cr": 1344.22,
+  "pe_ratio": 28.19,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 77.91,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:35:21.164740",
-  "provider_reported_pb_ratio": 2.14,
-  "statements_retrieved_at": "2026-11-03T22:35:21.164740",
+  "retrieval_time": "2026-11-04T21:26:22.426819",
+  "provider_reported_pb_ratio": 2.23,
+  "statements_retrieved_at": "2026-11-04T21:26:22.426819",
   "retained_fields": []
 }

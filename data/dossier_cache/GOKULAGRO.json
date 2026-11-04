@@ -5,8 +5,8 @@
   "industry": "Packaged Foods",
   "business_summary": "Gokul Agro Resources Limited engages in the production and distribution of edible, non-edible oils and derivatives, and feed meals in India and internationally. The company offers edible oils for household kitchens and institutional use, such as refined soyabean oil, refined sunflower oil, kachi ghani mustard oil, refined groundnut oil, filtered groundnut oil, refined cottonseed oil, refined rice bran oil, refined palm oil, refined palmolein oil, premium vanaspati oil, vanaspati oil, and frying oil. It also provides castor oil for industrial, pharmaceutical, and specialty applications, including first special grade, commercial grade, cold press and virgin, pharmacopoeia grades, neutralized, extra pale grade, and pale pressed and low-moisture variants; speciality fats for the bakery and confectionery segment; and feed cake consisting of castor, mustard, and soya. In addition, the company offers castor oil derivatives for coatings, lubricants, cosmetics, and specialty chemicals comprising 12-Hydroxystearic acid, hydrogenated castor oil, dehydrated castor oil, ricinoleic acid, Methyl 12 Hydroxystearic acid, poly ricinoleic acid, castor polyol 114 & 115, and HCO-MP80. Further, it exports its products. The company offers its products under the Vitalife, Mahek, Sun Premium, Palm Jyothi, Richfield, Pride, Biscopride, and Puffpride brands. Gokul Agro Resources Limited was incorporated in 2014 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 6404.86,
-  "pe_ratio": 13.76,
+  "market_cap_cr": 6582.2,
+  "pe_ratio": 14.14,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 57.32,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:29:17.714325",
-  "provider_reported_pb_ratio": 3.79,
-  "statements_retrieved_at": "2026-11-03T22:29:17.714325",
+  "retrieval_time": "2026-11-04T21:20:16.588539",
+  "provider_reported_pb_ratio": 3.89,
+  "statements_retrieved_at": "2026-11-04T21:20:16.588539",
   "retained_fields": []
 }

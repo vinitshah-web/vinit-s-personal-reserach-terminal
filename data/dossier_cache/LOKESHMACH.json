@@ -5,8 +5,8 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "Lokesh Machines Limited manufactures and sells machine tools in India. The company operates through the Machines Division and Component Division segments. It offers CNC machines, including CNC turning centers, vertical and horizontal machining centers, drill and tap centers, turn mill centers, and vertical turning lathes. The company also provides special purpose machines, such as milling, drilling, and boring machines, finish cam and crank boring, finish barrel boring, custom machining, as well as transfer lines. In addition, it offers automation products comprising gantry, robotic, and 4th axis automation products, as well as customized standard machines. Further, the company provides auto components, including cylinder blocks and heads, and connecting rods. Additionally, it also exports its products to Japan, Germany, the Netherlands, Turkey, Italy, the United States of America, and the Middle East. Lokesh Machines Limited was incorporated in 1983 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 802.01,
-  "pe_ratio": 167.25,
+  "market_cap_cr": 810.84,
+  "pe_ratio": 169.09,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 114.47,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:44:21.898916",
-  "provider_reported_pb_ratio": 3.21,
-  "statements_retrieved_at": "2026-11-03T22:44:21.898916",
+  "retrieval_time": "2026-11-04T21:35:02.345513",
+  "provider_reported_pb_ratio": 3.25,
+  "statements_retrieved_at": "2026-11-04T21:35:02.345513",
   "retained_fields": []
 }

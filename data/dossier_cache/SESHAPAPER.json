@@ -5,8 +5,8 @@
   "industry": "Paper & Paper Products",
   "business_summary": "Seshasayee Paper and Boards Limited engages in the manufacture and sale of printing and writing paper in India and internationally. The company owns and operates integrated pulp, paper, and paper board mills. Seshasayee Paper and Boards Limited was incorporated in 1960 and is based in Erode, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1303.24,
-  "pe_ratio": 10.47,
+  "market_cap_cr": 1374.82,
+  "pe_ratio": 11.04,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 350.95,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T23:06:01.254989",
-  "provider_reported_pb_ratio": 0.59,
-  "statements_retrieved_at": "2026-11-03T23:06:01.254989",
+  "retrieval_time": "2026-11-04T21:55:29.748765",
+  "provider_reported_pb_ratio": 0.62,
+  "statements_retrieved_at": "2026-11-04T21:55:29.748765",
   "retained_fields": []
 }

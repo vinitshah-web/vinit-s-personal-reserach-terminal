@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Prasol Chemicals Limited operates as an integrated manufacturer of acetone derivatives and phosphorous derivatives in India and internationally. Its products include acetone and phosphorous based specialty chemicals, and other specialty chemicals, as well as fertilizers and lubricants. The company's products are used in pharmaceuticals, agrochemicals, PICA viz., paints, inks construction, and adhesives, home and personal care, and performance chemicals. Prasol Chemicals Limited was incorporated in 1992 and is based in Thane, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4466.28,
-  "pe_ratio": 37.29,
+  "market_cap_cr": 4571.62,
+  "pe_ratio": 32.09,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 106.0,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:58:05.953091",
-  "provider_reported_pb_ratio": 7.12,
-  "statements_retrieved_at": "2026-11-03T22:58:05.953091",
+  "retrieval_time": "2026-11-04T21:48:03.714135",
+  "provider_reported_pb_ratio": 7.29,
+  "statements_retrieved_at": "2026-11-04T21:48:03.714135",
   "retained_fields": []
 }

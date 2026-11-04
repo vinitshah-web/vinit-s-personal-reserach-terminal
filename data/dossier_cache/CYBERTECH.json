@@ -5,14 +5,14 @@
   "industry": "Information Technology Services",
   "business_summary": "CyberTech Systems and Software Limited provides geospatial, networking, and enterprise information technology solutions in India and the United States. The company provides SAP, Geographic information Systems (GIS), cloud, and BCP solutions. It also offers cloud-based SAP digitalized solutions and operates Esri ArcGIS enterprise platforms. In addition, the company provides solutions, such as Managed ArcGIS cloud services, cloud enterprise resource planning, cloud customer relationship management, cloud human capital management, cloud assessment and migration, CyberDevOps, cloud infrastructure, cloud security, and cloud DevSecOps. The company serves education, utilities, law enforcement, public safety and homeland defense, technology, telecom, retail, healthcare, and manufacturing industries, as well as state and local government. CyberTech Systems and Software Limited was founded in 1990 and is based in Thane, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 370.55,
-  "pe_ratio": 11.98,
+  "market_cap_cr": 376.66,
+  "pe_ratio": 12.18,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 67.81,
-  "dividend_yield_pct": 3.1895,
+  "dividend_yield_pct": 3.2795,
   "shares_outstanding_cr": 3.0381,
-  "fifty_two_week_high": 184.43,
+  "fifty_two_week_high": 175.2,
   "fifty_two_week_low": 95.3,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:19:52.208801",
-  "provider_reported_pb_ratio": 1.8,
-  "statements_retrieved_at": "2026-11-03T22:19:52.208801",
+  "retrieval_time": "2026-11-04T21:11:30.072777",
+  "provider_reported_pb_ratio": 1.83,
+  "statements_retrieved_at": "2026-11-04T21:11:30.072777",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Conglomerates",
   "business_summary": "Balmer Lawrie Investments Limited engages in the non banking financial activities in India. It is involved in industrial packaging, logistic services and infrastructure, travel and vacation, greases and lubricants, chemicals, refinery and oil field, investment, and other businesses. The company was incorporated in 2001 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1422.18,
-  "pe_ratio": 10.9,
+  "market_cap_cr": 1431.28,
+  "pe_ratio": 10.97,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 64.92,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:14:48.633996",
+  "retrieval_time": "2026-11-04T21:06:48.567457",
   "provider_reported_pb_ratio": 0.99,
-  "statements_retrieved_at": "2026-11-03T22:14:48.633996",
+  "statements_retrieved_at": "2026-11-04T21:06:48.567457",
   "retained_fields": []
 }

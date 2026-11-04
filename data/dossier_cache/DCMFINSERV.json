@@ -5,7 +5,7 @@
   "industry": "Credit Services",
   "business_summary": "DCM Financial Services Limited does not have significant operations. Previously, it was involved in financing operations, including inter corporate deposits and investments business. The company was founded in 1991 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 10.07,
+  "market_cap_cr": 11.04,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:20:28.732866",
-  "provider_reported_pb_ratio": -0.2,
-  "statements_retrieved_at": "2026-11-03T22:20:28.732866",
+  "retrieval_time": "2026-11-04T21:12:03.788191",
+  "provider_reported_pb_ratio": -0.22,
+  "statements_retrieved_at": "2026-11-04T21:12:03.788191",
   "retained_fields": []
 }

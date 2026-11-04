@@ -5,14 +5,14 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Balaxi Pharmaceuticals Limited engages in the international wholesale distribution of pharmaceutical products in India and internationally. The company offers pharmaceutical products across various therapeutic areas, including antibiotics, analgesic, anti-malaria, and others. It also provides biscuits and toothpaste. The company was formerly known as Balaxi Ventures Limited and changed its name to Balaxi Pharmaceuticals Limited in October 2020. The company was incorporated in 1942 and is headquartered in Hyderabad, India. Balaxi Pharmaceuticals Limited is a subsidiary of Balaxi Overseas Private Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 111.85,
-  "pe_ratio": 45.02,
+  "market_cap_cr": 113.18,
+  "pe_ratio": 45.56,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 45.12,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 5.5207,
-  "fifty_two_week_high": 43.85,
+  "fifty_two_week_high": 42.9,
   "fifty_two_week_low": 15.2,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:12:26.579280",
+  "retrieval_time": "2026-11-04T21:04:34.166236",
   "provider_reported_pb_ratio": 0.45,
-  "statements_retrieved_at": "2026-11-03T22:12:26.579280",
+  "statements_retrieved_at": "2026-11-04T21:04:34.166236",
   "retained_fields": []
 }

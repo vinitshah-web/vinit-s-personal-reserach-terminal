@@ -5,8 +5,8 @@
   "industry": "Chemicals",
   "business_summary": "GHCL Limited, together with its subsidiaries, manufactures and trades inorganic chemicals in India and internationally. The company offers light soda ash, a basic industrial alkali chemical used in powdered, paste, soap and detergents, pulp and paperand chemical products; dense soda ash for use in glass manufacturing, silicate, ultramarine, and other chemical industries; and refined sodium bicarbonate for use in food, food dyes, poultry and animal feed, leather tanning, fire extinguishers, vegetable cleaning applications, blasting of metals, manufacture of chemicals, pharma, oral care products, and deodorizers. It also provides edible and industrial grade salt products. In addition, the company trades in various chemicals, such as sodium tripolyphosphate, sodium lignosulfonate, PVC resin, titanium dioxide, citric acid, EVA, zircon flour and sand, kaolin clay, and borax pentahydrate. It sells its products under the i-FLO, and Sapan brands. The company was incorporated in 1983 and is based in Noida, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3712.87,
-  "pe_ratio": 7.23,
+  "market_cap_cr": 3752.48,
+  "pe_ratio": 6.95,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 395.15,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:28:07.365687",
-  "provider_reported_pb_ratio": 1.02,
-  "statements_retrieved_at": "2026-11-03T22:28:07.365687",
+  "retrieval_time": "2026-11-04T21:19:10.158018",
+  "provider_reported_pb_ratio": 1.03,
+  "statements_retrieved_at": "2026-11-04T21:19:10.158018",
   "retained_fields": []
 }

@@ -5,14 +5,14 @@
   "industry": "Drug Manufacturers - General",
   "business_summary": "Sanofi India Limited manufactures and trades in drugs and pharmaceutical products in India, Singapore and internationally. The company offers pharmaceutical products in various therapeutic areas, such as diabetes, cardiology, anti-infectives, and central nervous system under the Lantus, Toujeo, Soliqua, Clexane, Amaryl, Cardace, Lasix, Lasilactone, Glimepiride, Cetapin, Targocid, Frisium, Targocio, Combiflam, DePura, Allegra, Baralgan, BUSCOGAST, Dulcoflex, Enterogermina, Novalgin, and Avil brands through independent distributors. It also exports its products. The company was formerly known as Aventis Pharma Limited and changed its name to Sanofi India Limited in May 2012. The company was incorporated in 1956 and is headquartered in Mumbai, India. Sanofi India Limited operates as a subsidiary of Hoechst GmbH.",
   "business_summary_reason": null,
-  "market_cap_cr": 7788.04,
-  "pe_ratio": 21.37,
+  "market_cap_cr": 7947.41,
+  "pe_ratio": 21.8,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 358.69,
-  "dividend_yield_pct": 3.6719,
+  "dividend_yield_pct": 3.6373,
   "shares_outstanding_cr": 2.3031,
-  "fifty_two_week_high": 4792.0,
+  "fifty_two_week_high": 4775.0,
   "fifty_two_week_low": 2758.2,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T23:04:16.889984",
-  "provider_reported_pb_ratio": 9.43,
-  "statements_retrieved_at": "2026-11-03T23:04:16.889984",
+  "retrieval_time": "2026-11-04T21:53:50.520428",
+  "provider_reported_pb_ratio": 9.62,
+  "statements_retrieved_at": "2026-11-04T21:53:50.520428",
   "retained_fields": []
 }

@@ -5,7 +5,7 @@
   "industry": "Communication Equipment",
   "business_summary": "Tejas Networks Limited provides telecom and data networking-related products and services in India and internationally. It offers radio access networks, fiber broadband access, satcom solutions, optical aggregation, switching and routing, direct-to-mobile broadcast solutions, metro core and backbone, packet transport networks, network management systems, and mobile packet core products. The company also designs, manufactures, and sells wireless and wireline networking products, including 4G/5G radio access (LTE/NR), converged 4G/5G core, fiber-to-home and fiber-to enterprise (GPON/XGSPON), optical transmission (DWDM/ PTN/OTN), carrier switching and routing (Ethernet, IP/MPLS), satellite, and broadcast networking products; and designs and develops software products that enable remote configuration, monitoring, provisioning and management. In addition, it provides network build, consultancy, nurture, and managed services. It serves communications service providers for both mobile and fixed broadband, internet service providers, broadband bandwidth providers, utility companies, defense, and government entities. The company was formerly known as Tejas Networks India Limited and changed its name to Tejas Networks Limited in March 2008. Tejas Networks Limited was incorporated in 2000 and is headquartered in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 7358.34,
+  "market_cap_cr": 7574.5,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T23:14:22.850521",
-  "provider_reported_pb_ratio": 2.91,
-  "statements_retrieved_at": "2026-11-03T23:14:22.850521",
+  "retrieval_time": "2026-11-04T22:03:31.495252",
+  "provider_reported_pb_ratio": 3.0,
+  "statements_retrieved_at": "2026-11-04T22:03:31.495252",
   "retained_fields": []
 }

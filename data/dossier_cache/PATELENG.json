@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "Patel Engineering Limited, together with its subsidiaries, provides infrastructure and construction services in India and internationally. The company operates through EPC and Real Estate segments. It undertakes construction of dams, tunnels, micro-tunnels, hydroelectric, irrigation, highways, roads, bridges, railways, refinery, real estate, and township projects. The company is also involved in residential and commercial developments, including hospitals, hotels, government buildings, railway infrastructure, and water supply schemes. Patel Engineering Limited was incorporated in 1949 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2252.0,
-  "pe_ratio": 8.1,
+  "market_cap_cr": 2412.45,
+  "pe_ratio": 8.68,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 42.75,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:56:01.999120",
-  "provider_reported_pb_ratio": 0.55,
-  "statements_retrieved_at": "2026-11-03T22:56:01.999120",
+  "retrieval_time": "2026-11-04T21:46:07.189653",
+  "provider_reported_pb_ratio": 0.59,
+  "statements_retrieved_at": "2026-11-04T21:46:07.189653",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Electronic Components",
   "business_summary": "KRN Heat Exchanger and Refrigeration Limited manufactures and sells heating ventilation and air conditioning (HVAC) parts and accessories in India and internationally. It offers condenser, chilled water, evaporator, floating type, fluid and steam, heating, sea water, and Ss coils; charge air, combi oil, converter offline oil, oil, transformer oil, water coolers, and radiators; refrigerator components, such as frost free evaporator, skin condenser, roll bond evaporator, wire on tube condenser, and aluminum tube; and complete HVAC systems, including adiabatic coolers, dry coolers, and LT-HT remote radiators. The company also provides micro channels, bus AC, and technical tubes; air cooling units, out door units, ammonia evaporator, and blast freezers; sheet metals comprising fabrication and powder coated parts, sheet metal components, and SS components; and tubings which include tubing/piping, U- and C- bend, headers, and I-Kit. In addition, it offers precision-engineered evaporator and condenser coils, bar and plate heat exchangers, and bus air-conditioning systems for original equipment manufacturers. The company was incorporated in 2017 and is based in Neemrana, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 6778.23,
-  "pe_ratio": 57.15,
+  "market_cap_cr": 6622.44,
+  "pe_ratio": 55.83,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 150.46,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:42:20.716067",
-  "provider_reported_pb_ratio": 6.88,
-  "statements_retrieved_at": "2026-11-03T22:42:20.716067",
+  "retrieval_time": "2026-11-04T21:33:07.999393",
+  "provider_reported_pb_ratio": 6.72,
+  "statements_retrieved_at": "2026-11-04T21:33:07.999393",
   "retained_fields": []
 }

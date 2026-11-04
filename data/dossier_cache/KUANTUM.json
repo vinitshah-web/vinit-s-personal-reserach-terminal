@@ -5,14 +5,14 @@
   "industry": "Paper & Paper Products",
   "business_summary": "Kuantum Papers Limited manufactures and sells agro- and wood-based writing and printing, copier, and specialty paper products in India and internationally. The company also provides maplitho and creamwove paper; and value-added specialty products, such as thermal, bond, azurelaid, parchment, cartridge, ledger, stiffener, coloured, cupstock, carry bag, and straw paper products. Its products are used in the printing of books, trade directories, newsprint, diaries, calendars, and computer and general office stationery, as well as notebooks, annual reports, account books, envelopes, commercial printing, paper cups and straws, and wedding cards. The company serves educational institutions, publishers, corporate clients, printing houses, government agencies, and export markets through its dealers. It exports its products to approximately 26 countries. The company was formerly known as ABC Paper Limited and changed its name to Kuantum Papers Limited in March 2012. Kuantum Papers Limited was founded in 1980 and is based in Chandigarh, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 562.76,
-  "pe_ratio": 17.24,
+  "market_cap_cr": 569.31,
+  "pe_ratio": 17.44,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 141.02,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 8.7264,
-  "fifty_two_week_high": 105.55,
+  "fifty_two_week_high": 105.45,
   "fifty_two_week_low": 64.1,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:42:40.425453",
+  "retrieval_time": "2026-11-04T21:33:26.501590",
   "provider_reported_pb_ratio": 0.46,
-  "statements_retrieved_at": "2026-11-03T22:42:40.425453",
+  "statements_retrieved_at": "2026-11-04T21:33:26.501590",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "Steel Authority of India Limited, a steel-making company, manufactures and sells iron and steel products in India and internationally. The company offers a range of railway products, which include rail, high YS/UTS rail, corrosion-resistant micro-alloyed rail, vanadium alloyed rail, end forged thick web asymmetric rail, conductivity rail, crane rails, and crossing sleeper bars. It also provides pig iron, cold rolled products, pipes, semis, structurals, sail tmt bars, galvanized products, wirerods, pm plates, railway products, wheels and axles, hot rolled products, stainless steel products, electrical steels, and sail SeQR TMT bars. It serves government organizations, PSUS, private companies, distributors, and resellers. Steel Authority of India Limited was founded in 1954 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 69186.3,
-  "pe_ratio": 12.34,
+  "market_cap_cr": 70421.33,
+  "pe_ratio": 12.56,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 151.44,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T23:03:42.238880",
-  "provider_reported_pb_ratio": 1.11,
-  "statements_retrieved_at": "2026-11-03T23:03:42.238880",
+  "retrieval_time": "2026-11-04T21:53:18.520387",
+  "provider_reported_pb_ratio": 1.13,
+  "statements_retrieved_at": "2026-11-04T21:53:18.520387",
   "retained_fields": []
 }

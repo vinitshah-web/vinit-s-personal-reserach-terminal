@@ -5,8 +5,8 @@
   "industry": "Footwear & Accessories",
   "business_summary": "Super Tannery Limited, together with its subsidiaries, manufactures, sells, and exports leather products in India. The company offers leather for automotive and furniture upholstery, safety, bags, belts, and sporting goods, as well as accessories. It also provides equestrian products under the Equestria brand. The company was founded in 1953 and is based in Kanpur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 84.11,
-  "pe_ratio": 12.17,
+  "market_cap_cr": 84.98,
+  "pe_ratio": 12.3,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 10.12,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T23:12:13.467980",
-  "provider_reported_pb_ratio": 0.77,
-  "statements_retrieved_at": "2026-11-03T23:12:13.467980",
+  "retrieval_time": "2026-11-04T22:01:31.210268",
+  "provider_reported_pb_ratio": 0.78,
+  "statements_retrieved_at": "2026-11-04T22:01:31.210268",
   "retained_fields": []
 }

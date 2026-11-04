@@ -5,14 +5,14 @@
   "industry": "Agricultural Inputs",
   "business_summary": "Meghmani Organics Limited manufactures and sells pigments and agrochemicals in India and internationally. The company offers green and blue pigments, which are used in printing inks, paints and coatings, and plastics. It also offers agrochemical products comprising insecticides, which include acetamiprid, alphacypermethrin, bifenthrin, beta cyfluthrin, cyfluthrin, cypermethrin, deltamethrin, dinotefuran, ethiprole, fipronil, flonicamid, flubendiamide, lambdacyhalothrin, permethrin, profenofos, pymetrozine, pyriproxyfen, and spiromesifen. In addition, the company provides herbicides, such as 2,4 D acid, amine, esters and triclopyr; intermediates, including cypermethric acid chloride, lambdacyhalothric acid (TFP Acid), pyrazole, high cis/trans CMAC, meta phenoxy benzaldehyde, and spiromesifen acid. Further, it offers technical and formulations that are used in crop protection, veterinary health, household pest control, and public health sectors. Additionally, the company offers anatase and rutile grade titanium dioxide for the use in paints, coatings, plastic, polymers, ink, dyes, paper, and cosmetics. Meghmani Organics Limited was incorporated in 1986 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1405.09,
-  "pe_ratio": 21.84,
+  "market_cap_cr": 1415.51,
+  "pe_ratio": 22.0,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 61.55,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 25.4314,
-  "fifty_two_week_high": 79.44,
+  "fifty_two_week_high": 78.68,
   "fifty_two_week_low": 36.5,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:49:01.348288",
+  "retrieval_time": "2026-11-04T21:39:22.450767",
   "provider_reported_pb_ratio": 0.9,
-  "statements_retrieved_at": "2026-11-03T22:49:01.348288",
+  "statements_retrieved_at": "2026-11-04T21:39:22.450767",
   "retained_fields": []
 }

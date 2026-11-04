@@ -5,8 +5,8 @@
   "industry": "Agricultural Inputs",
   "business_summary": "Kaveri Seed Company Limited engages in the research, production, processing, and marketing of hybrid seeds in India. The company operates through three segments: Seeds, Micronutrients, and Vegetables. Its product portfolio includes seeds for various field crops, such as maize, paddy, cotton, sunflower, mustard, sorghum, pulses, bajra, and wheat; and vegetables, including tomatoes, okra, chilies, watermelon, gourds, and brinjal. The company also engages in the sale of micronutrients, as well as exports its products. It serves farmers, retailers, and distributors. The company was founded in 1976 and is headquartered in Secunderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3417.7,
-  "pe_ratio": 13.58,
+  "market_cap_cr": 3472.06,
+  "pe_ratio": 13.8,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 397.04,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:42:29.338270",
-  "provider_reported_pb_ratio": 1.69,
-  "statements_retrieved_at": "2026-11-03T22:42:29.338270",
+  "retrieval_time": "2026-11-04T21:33:15.939075",
+  "provider_reported_pb_ratio": 1.71,
+  "statements_retrieved_at": "2026-11-04T21:33:15.939075",
   "retained_fields": []
 }

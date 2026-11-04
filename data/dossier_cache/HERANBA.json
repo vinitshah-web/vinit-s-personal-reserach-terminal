@@ -5,14 +5,14 @@
   "industry": "Agricultural Inputs",
   "business_summary": "Heranba Industries Limited manufactures and sells various agrochemicals in India and internationally. The company provides intermediates, herbicides, fungicides and plant growth regulators, as well as pest control products for public health applications. It also provides formulations, such as emulsifiable concentrate, capsule suspension, suspension concentrate, oil dispersion, concentrated aqueous emulsions, wettable powder, suspoemulsion, water dispersible granule, ZC formulation, soluble liquid, flowable concentration, and soluble powder. The company was formerly known as Heranba Industrial Chemicals Limited and changed its name to Heranba Industries Limited in July 1996. Heranba Industries Limited was incorporated in 1992 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 597.0,
+  "market_cap_cr": 608.88,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 190.36,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 4.0013,
-  "fifty_two_week_high": 300.05,
+  "fifty_two_week_high": 299.85,
   "fifty_two_week_low": 144.2,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:33:05.023971",
-  "provider_reported_pb_ratio": 0.78,
-  "statements_retrieved_at": "2026-11-03T22:33:05.023971",
+  "retrieval_time": "2026-11-04T21:24:11.980502",
+  "provider_reported_pb_ratio": 0.8,
+  "statements_retrieved_at": "2026-11-04T21:24:11.980502",
   "retained_fields": []
 }

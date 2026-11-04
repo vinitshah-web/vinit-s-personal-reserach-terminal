@@ -5,8 +5,8 @@
   "industry": "Footwear & Accessories",
   "business_summary": "Bhartiya International Ltd., together with its subsidiaries, manufactures and trades in leather and textile products in India. The company offers leather outerwear, bags, accessories, belts, wallets, fur products, and other small leather goods, as well as textile apparel, knitted and woven garments, sleepwear, puffers, jackets, non-leather bags, leather finishing; and design studio services. It also engages in the development of cities, homes, IT and industrial parks, retail spaces, interior solutions, and hotels and convention centers. The company exports its products. Bhartiya International Ltd. was incorporated in 1987 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1440.14,
-  "pe_ratio": 55.93,
+  "market_cap_cr": 1455.03,
+  "pe_ratio": 56.51,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 368.12,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:14:27.339730",
-  "provider_reported_pb_ratio": 2.92,
-  "statements_retrieved_at": "2026-11-03T22:14:27.339730",
+  "retrieval_time": "2026-11-04T21:06:27.017828",
+  "provider_reported_pb_ratio": 2.95,
+  "statements_retrieved_at": "2026-11-04T21:06:27.017828",
   "retained_fields": []
 }

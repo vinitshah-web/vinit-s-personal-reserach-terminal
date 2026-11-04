@@ -5,8 +5,8 @@
   "industry": "Telecom Services",
   "business_summary": "Suyog Telematics Limited provides passive telecommunication infrastructure services in India. The company offers infrastructure solutions, including ground-based towers, rooftop towers, COW towers, GBM towers, camouflage towers, telecom poles, high-power small cells, optical fiber network, government site infrastructure, CCTV pole sites, and power infrastructure. It also provides telecommunication cables and panels, diesel generators, earth strips, batteries, electric power cable, fiber cables and galvanized poles. Suyog Telematics Limited was incorporated in 1995 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 567.87,
-  "pe_ratio": 9.82,
+  "market_cap_cr": 586.09,
+  "pe_ratio": 10.92,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 417.18,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T23:12:32.835028",
-  "provider_reported_pb_ratio": 1.16,
-  "statements_retrieved_at": "2026-11-03T23:12:32.835028",
+  "retrieval_time": "2026-11-04T22:01:49.372732",
+  "provider_reported_pb_ratio": 1.2,
+  "statements_retrieved_at": "2026-11-04T22:01:49.372732",
   "retained_fields": []
 }

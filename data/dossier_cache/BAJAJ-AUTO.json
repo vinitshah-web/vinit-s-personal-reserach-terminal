@@ -5,8 +5,8 @@
   "industry": "Auto Manufacturers",
   "business_summary": "Bajaj Auto Limited, together with its subsidiaries, engages in the development, manufacture, and distribution of automobiles in India and internationally. The company offers motorcycles, bikes, commercial vehicles, electric two-wheelers, and three-wheeler, as well as related parts and accessories. It also provides financing services for automobiles, as well as exports its products. The company was founded in 1945 and is based in Pune, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 289643.25,
-  "pe_ratio": 22.48,
+  "market_cap_cr": 291511.91,
+  "pe_ratio": 22.63,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 1327.42,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:12:03.279794",
-  "provider_reported_pb_ratio": 7.94,
-  "statements_retrieved_at": "2026-11-03T22:12:03.279794",
+  "retrieval_time": "2026-11-04T21:04:13.639059",
+  "provider_reported_pb_ratio": 7.99,
+  "statements_retrieved_at": "2026-11-04T21:04:13.639059",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Banks - Regional",
   "business_summary": "Union Bank of India provides banking products and services in India. It operates in four segments: Treasury Operations, Retail Banking Operations, Corporate and Wholesale Banking, and Other Banking Operations. The company provides its products and services to individuals, commercial enterprises, large corporates, public bodies, and institutional customers. Union Bank of India was incorporated in 1919 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 139847.65,
-  "pe_ratio": 6.36,
+  "market_cap_cr": 140374.38,
+  "pe_ratio": 6.28,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 186.92,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T23:17:17.147759",
+  "retrieval_time": "2026-11-04T22:06:14.434622",
   "provider_reported_pb_ratio": 0.98,
-  "statements_retrieved_at": "2026-11-03T23:17:17.147759",
+  "statements_retrieved_at": "2026-11-04T22:06:14.434622",
   "retained_fields": []
 }

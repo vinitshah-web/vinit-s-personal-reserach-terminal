@@ -5,7 +5,7 @@
   "industry": "Lodging",
   "business_summary": "Asian Hotels (East) Limited, together with its subsidiaries, engages in the hotel business primarily in India. The company operates Hyatt Regency Kolkata, a five-star hotel located in the city of Kolkata. It is also involved in set-up, operating, and maintenance of hotels. The company was formerly known as Vardhman Hotels Limited and changed its name to Asian Hotels (East) Limited in February 2010. Asian Hotels (East) Limited was incorporated in 2007 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 224.6,
+  "market_cap_cr": 222.41,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:06:36.661719",
-  "provider_reported_pb_ratio": 1.23,
-  "statements_retrieved_at": "2026-11-03T22:06:36.661719",
+  "retrieval_time": "2026-11-04T20:59:00.715550",
+  "provider_reported_pb_ratio": 1.21,
+  "statements_retrieved_at": "2026-11-04T20:59:00.715550",
   "retained_fields": []
 }

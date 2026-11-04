@@ -5,8 +5,8 @@
   "industry": "Credit Services",
   "business_summary": "IFCI Limited provides non-banking financial services to the public sector in India. The company offers project finance for the Electricity and renewable energy, telecommunications, roads, oil and gas, ports, airports, basic metals, chemicals, pharmaceuticals, electronics, textiles, real estate, smart cities, urban infrastructure, etc. It also provides corporate finance, such as balance sheet funding, loan against shares, lease rental discounting, promoter funding, long-term working capital requirement, capital expenditure, and regular maintenance capex services, as well as short term loans, including bridge financing and short-term working capital to small, mid, and large corporates. In addition, the company offers syndication and counselling services; structured products, such as assistance in sponsor and acquisition financing, pre-subscription financing, off-balance sheet structured solutions, and others. Additionally, the company offers stock broking, depository participant services, merchant banking, insurance corporate agency, mutual fund products distribution, and corporate advisory services. It also provides financial support services for airports, roads, telecom, power, real estate, manufacturing, and services sectors, as well as other allied industries. The company was formerly known as Industrial Finance Corporation of India and changed its name to IFCI Limited in October 1999. IFCI Limited was founded in 1948 and is headquartered in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 15503.08,
-  "pe_ratio": 89.91,
+  "market_cap_cr": 16009.61,
+  "pe_ratio": 92.84,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 33.83,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:35:05.669133",
-  "provider_reported_pb_ratio": 1.7,
-  "statements_retrieved_at": "2026-11-03T22:35:05.669133",
+  "retrieval_time": "2026-11-04T21:26:07.690044",
+  "provider_reported_pb_ratio": 1.76,
+  "statements_retrieved_at": "2026-11-04T21:26:07.690044",
   "retained_fields": []
 }

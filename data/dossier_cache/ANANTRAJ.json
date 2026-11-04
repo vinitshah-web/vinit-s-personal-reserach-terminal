@@ -5,14 +5,14 @@
   "industry": "Real Estate - Development",
   "business_summary": "Anant Raj Limited is primarily engaged in the real estate and infrastructure development business in India and Singapore. It develops and constructs residential townships, group housings, commercial developments, information and technology parks, malls, office complexes, affordable housings, data centres, hospitality, and serviced apartments. The company was formerly known as Anant Raj Industries Limited and changed its name to Anant Raj Limited in October 2012. The company was founded in 1969 and is headquartered in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 15965.94,
-  "pe_ratio": 26.35,
+  "market_cap_cr": 16568.73,
+  "pe_ratio": 27.34,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 168.32,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 35.9877,
-  "fifty_two_week_high": 657.25,
+  "fifty_two_week_high": 649.0,
   "fifty_two_week_low": 403.0,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:08:10.078424",
-  "provider_reported_pb_ratio": 2.64,
-  "statements_retrieved_at": "2026-11-03T22:08:10.078424",
+  "retrieval_time": "2026-11-04T21:00:32.207610",
+  "provider_reported_pb_ratio": 2.74,
+  "statements_retrieved_at": "2026-11-04T21:00:32.207610",
   "retained_fields": []
 }

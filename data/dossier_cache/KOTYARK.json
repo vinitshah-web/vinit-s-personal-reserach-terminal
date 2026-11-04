@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Kotyark Industries Limited engages in the manufacture and sale of biodiesel and other by products in India. The company also provides crude glycerin. It offers services to trucks, buses, and cars operators, as well as to gen, sets, boilers, shipping, farming industries. The company was incorporated in 2016 and is based in Vadodara, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 434.64,
-  "pe_ratio": null,
+  "market_cap_cr": 419.26,
+  "pe_ratio": 17.91,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 15.98,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:41:54.747078",
-  "provider_reported_pb_ratio": 2.4,
-  "statements_retrieved_at": "2026-11-03T22:41:54.747078",
+  "retrieval_time": "2026-11-04T21:32:42.699851",
+  "provider_reported_pb_ratio": 2.32,
+  "statements_retrieved_at": "2026-11-04T21:32:42.699851",
   "retained_fields": []
 }

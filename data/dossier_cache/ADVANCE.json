@@ -5,8 +5,8 @@
   "industry": "Agricultural Inputs",
   "business_summary": "Advance Agrolife Limited, an agrochemical company, engages in the business of manufacturing and distribution of agrochemicals in India and internationally. It offers a range of agrochemical products, which includes insecticides, herbicides, fungicides, and plant growth regulators for use in cultivation of cereals, vegetables, and horticultural crops across both agri-seasons. The company also manufactures micro-nutrient fertilizers and bio fertilizers; and technical grade and formulation grade agrochemicals products. Advance Agrolife Limited was incorporated in 2002 and is based in Jaipur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 826.97,
-  "pe_ratio": 17.17,
+  "market_cap_cr": 843.94,
+  "pe_ratio": 17.53,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 43.62,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:05:47.182724",
-  "provider_reported_pb_ratio": 2.95,
-  "statements_retrieved_at": "2026-11-03T22:05:47.182724",
+  "retrieval_time": "2026-11-04T20:58:16.396038",
+  "provider_reported_pb_ratio": 3.01,
+  "statements_retrieved_at": "2026-11-04T20:58:16.396038",
   "retained_fields": []
 }

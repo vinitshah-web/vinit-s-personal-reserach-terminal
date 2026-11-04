@@ -5,8 +5,8 @@
   "industry": "Agricultural Inputs",
   "business_summary": "Insecticides (India) Limited manufactures and sells agrochemicals, pesticides, and technical products for agriculture in India and internationally. It offers crop protection and nutrition products, including fungicides, insecticides, herbicides, biologicals, and plant growth regulators to bulk buyers and farmers under the Tractor brand. The company sells its products through a network of distributors, retailers, and dealers. Insecticides (India) Limited was incorporated in 1996 and is based in Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1615.37,
-  "pe_ratio": 12.91,
+  "market_cap_cr": 1614.06,
+  "pe_ratio": 12.9,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 419.42,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:36:40.881648",
+  "retrieval_time": "2026-11-04T21:27:38.313173",
   "provider_reported_pb_ratio": 1.32,
-  "statements_retrieved_at": "2026-11-03T22:36:40.881648",
+  "statements_retrieved_at": "2026-11-04T21:27:38.313173",
   "retained_fields": []
 }

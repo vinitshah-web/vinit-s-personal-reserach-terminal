@@ -5,7 +5,7 @@
   "industry": "Textile Manufacturing",
   "business_summary": "SVP Global Textiles Limited engages in the manufacture and sale of textile goods in India. The company primarily focuses on cotton yarn and related textile products, such as cotton combed and carded yarns. The company is also involved in the trading of gold, diamonds, stones, and fabrics. In addition, the company exports its products. SVP Global Textiles Limited was formerly known as SVP Global Ventures Limited and changed its name to SVP Global Textiles Limited in November 2021. The company was founded in 1898 and is headquartered in Mumbai, India. SVP Global Textiles Limited operates as a subsidiary of Scenario Communication Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 49.46,
+  "market_cap_cr": 48.96,
   "pe_ratio": 0.73,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T23:12:38.201973",
+  "retrieval_time": "2026-11-04T22:01:54.103400",
   "provider_reported_pb_ratio": -0.05,
-  "statements_retrieved_at": "2026-11-03T23:12:38.201973",
+  "statements_retrieved_at": "2026-11-04T22:01:54.103400",
   "retained_fields": []
 }

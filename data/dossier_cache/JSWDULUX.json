@@ -5,15 +5,15 @@
   "industry": "Specialty Chemicals",
   "business_summary": "JSW Dulux Limited manufactures, distributes, and sells paints and coatings in India and internationally. It offers paints, enamels or lacquers, and varnishes for interior, exterior, waterproofing, and woodcare and metal applications; waterproofing paint products; weathershield paint for institutions/builders; and automotive and specialty, industrial, powder, and marine and protective coatings. The company's products are used in oil and gas, power, infrastructure, and wind energy projects; automobile; automotive OEM, consumer electronics, vehicle refinishes, and specialty coating businesses; and residential, commercial and industrial buildings. It offers its products primarily under the Dulux, International, Sikkens, and Interpon brands. The company was formerly known as Akzo Nobel India Limited and changed its name to JSW Dulux Limited in March 2026. JSW Dulux Limited was founded in 1792 and is based in Mumbai, India. JSW Dulux Limited operates as a subsidiary of JSW Paints Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 11851.87,
-  "pe_ratio": 6.04,
+  "market_cap_cr": 12008.98,
+  "pe_ratio": 6.12,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 53.83,
-  "dividend_yield_pct": 1.9139,
+  "dividend_yield_pct": 1.9212,
   "shares_outstanding_cr": 45.5403,
   "fifty_two_week_high": 374.5,
-  "fifty_two_week_low": 259.05,
+  "fifty_two_week_low": 257.15,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:39:19.493018",
-  "provider_reported_pb_ratio": 4.83,
-  "statements_retrieved_at": "2026-11-03T22:39:19.493018",
+  "retrieval_time": "2026-11-04T21:30:07.444807",
+  "provider_reported_pb_ratio": 4.9,
+  "statements_retrieved_at": "2026-11-04T21:30:07.444807",
   "retained_fields": []
 }

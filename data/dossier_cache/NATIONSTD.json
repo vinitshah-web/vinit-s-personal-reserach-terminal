@@ -5,8 +5,8 @@
   "industry": "Real Estate - Development",
   "business_summary": "National Standard (India) Limited engages in real estate development in India. The company was formerly known as National Standard Duncan Limited. The company was incorporated in 1962 and is based in Mumbai, India. National Standard (India) Limited operates as a subsidiary of Macrotech Developers Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 208.46,
-  "pe_ratio": 20.24,
+  "market_cap_cr": 210.2,
+  "pe_ratio": 20.41,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 144.07,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:51:13.940796",
-  "provider_reported_pb_ratio": 0.72,
-  "statements_retrieved_at": "2026-11-03T22:51:13.940796",
+  "retrieval_time": "2026-11-04T21:41:27.808100",
+  "provider_reported_pb_ratio": 0.73,
+  "statements_retrieved_at": "2026-11-04T21:41:27.808100",
   "retained_fields": []
 }

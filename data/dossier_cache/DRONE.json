@@ -6,7 +6,7 @@
   "business_summary": null,
   "business_summary_reason": "The secondary provider returned no company overview.",
   "market_cap_cr": 846.68,
-  "pe_ratio": 722.92,
+  "pe_ratio": 708.16,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 24.86,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:22:31.344493",
+  "retrieval_time": "2026-11-04T21:13:53.133040",
   "provider_reported_pb_ratio": 13.96,
-  "statements_retrieved_at": "2026-11-03T22:22:31.344493",
+  "statements_retrieved_at": "2026-11-04T21:13:53.133040",
   "retained_fields": []
 }

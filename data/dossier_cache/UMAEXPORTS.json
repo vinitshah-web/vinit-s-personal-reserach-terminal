@@ -5,8 +5,8 @@
   "industry": "Farm Products",
   "business_summary": "UMA Exports Limited engages in the trading and marketing of agricultural produce and commodities. The company offers sugar; tea; spices, such as dry red chilies, turmeric, coriander, jeera, and cumin seeds; food grains, including rice, wheat, sorghum, maize, and corn; pulses comprising lentils, faba beans, black gram, green gram, chickpeas, tyson chickpeas, black matpe, urad bean, dun peas, and green and yellow peas; and agricultural feeds, such as soyabean meal and rice bran de-oiled cake. It also exports fresh fruits comprising grapes, pomegranate, and orange as well as garlic, ginger, groundnuts, potato, onion, wheat sugar, bajra, salt, and barley. The company exports its products to Sri Lanka, Singapore, Benin, Malaysia, Bangladesh, Pakistan, the United Arab Emirates, Djibouti, Asia, the Middle East Asia, Dubai, and internationally. Uma Exports Limited was incorporated in 1988 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 64.14,
-  "pe_ratio": 948.5,
+  "market_cap_cr": 65.39,
+  "pe_ratio": 967.0,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 58.67,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T23:17:01.755583",
-  "provider_reported_pb_ratio": 0.32,
-  "statements_retrieved_at": "2026-11-03T23:17:01.755583",
+  "retrieval_time": "2026-11-04T22:06:00.703153",
+  "provider_reported_pb_ratio": 0.33,
+  "statements_retrieved_at": "2026-11-04T22:06:00.703153",
   "retained_fields": []
 }

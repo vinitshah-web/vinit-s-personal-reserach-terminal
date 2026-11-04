@@ -5,8 +5,8 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "Windsor Machines Limited engages in the manufacture and sale of plastic processing machinery in India and internationally. It operates through the Injection Moulding Machine, Pipe Extrusion, and and Blown Film segment. The company offers injection molding machines that are used for various applications, including households, thermoware, furniture, healthcare, white goods, electrical and electronics, and automobile industries; pipe extrusion lines for applications, such as agriculture, drip irrigation, and potable drinking water solutions; and blown film lines. The company was formerly known as DGP Windsor India Limited and changed its name to Windsor Machines Limited in February 2005. Windsor Machines Limited was incorporated in 1963 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3003.94,
-  "pe_ratio": 509.39,
+  "market_cap_cr": 3034.46,
+  "pe_ratio": 533.27,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 56.58,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T23:21:13.079072",
-  "provider_reported_pb_ratio": 5.13,
-  "statements_retrieved_at": "2026-11-03T23:21:13.079072",
+  "retrieval_time": "2026-11-04T22:10:25.277943",
+  "provider_reported_pb_ratio": 5.18,
+  "statements_retrieved_at": "2026-11-04T22:10:25.277943",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Paushak Limited manufactures and sells specialty chemicals and intermediates in India and internationally. It offers chloroformates, isocyanates, chlorides, carbonate/carbamate, and custom synthesis and CDMO solutions. The company servers its products to pharmaceuticals, agrochemicals, and performance chemicals, and custom synthesis industries. Paushak Limited was founded in 1968 and is based in Vadodara, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1501.85,
-  "pe_ratio": 31.76,
+  "market_cap_cr": 1521.33,
+  "pe_ratio": 32.17,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 209.55,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:56:07.703069",
-  "provider_reported_pb_ratio": 2.91,
-  "statements_retrieved_at": "2026-11-03T22:56:07.703069",
+  "retrieval_time": "2026-11-04T21:46:12.232562",
+  "provider_reported_pb_ratio": 2.94,
+  "statements_retrieved_at": "2026-11-04T21:46:12.232562",
   "retained_fields": []
 }

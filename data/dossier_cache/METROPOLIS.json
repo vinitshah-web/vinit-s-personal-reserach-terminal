@@ -5,13 +5,13 @@
   "industry": "Diagnostics & Research",
   "business_summary": "Metropolis Healthcare Limited, together with its subsidiaries, provides pathology and related healthcare services in India and internationally. The company offers routine and specialised pathology tests; advanced diagnostics, including genetic, molecular, and cytogenetic testing; preventive healthcare packages and corporate wellness screening; clinical trial research, hospital lab management, and home collection services; radiology services, including X-ray, sonography and ECG; and next-generation sequencing services. It also provides diagnostic services for oncology, chronic and infectious diseases, gastroenterology, neurology, nephrology, and women and child health, as well as various health checkup and laboratory services. The company serves a range of customers, including direct-to-consumer diagnostics through patient service centers, mobile app, website, and home collection; partnerships with standalone labs, hospital chains, and diagnostic networks; and institutional clients, such as corporates, government bodies, and hospital lab management services. Metropolis Healthcare Limited was founded in 1980 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 11798.44,
-  "pe_ratio": 58.57,
+  "market_cap_cr": 12062.62,
+  "pe_ratio": 53.92,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 72.98,
   "dividend_yield_pct": 0.0,
-  "shares_outstanding_cr": 20.7463,
+  "shares_outstanding_cr": 20.7529,
   "fifty_two_week_high": 609.05,
   "fifty_two_week_low": 412.25,
   "financial_statements": [
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:47:35.961329",
-  "provider_reported_pb_ratio": 7.79,
-  "statements_retrieved_at": "2026-11-03T22:47:35.961329",
+  "retrieval_time": "2026-11-04T21:38:02.008138",
+  "provider_reported_pb_ratio": 7.96,
+  "statements_retrieved_at": "2026-11-04T21:38:02.008138",
   "retained_fields": []
 }

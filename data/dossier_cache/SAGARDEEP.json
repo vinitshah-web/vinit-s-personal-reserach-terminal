@@ -5,8 +5,8 @@
   "industry": "Copper",
   "business_summary": "Sagardeep Alloys Limited manufactures and sells copper metal items in India. The company offers copper pipes and tubes, flats, coils, rods, anodes, nuggets, and plates, as well as oxygen free copper; red, yellow, cartridge, and low brass; gilding metals, commercial bronzes, and muntz metals; cupro nickel tubes, pipes, and rods; and stainless-steel scrap grades, pipes, tubes, sheets/plates, coils, and bars. It also trades in non-ferrous metal; and engages in the real estate and chemicals business. The company exports its products to the United States, the United Kingdom, Korea, and internationally. Sagardeep Alloys Limited was founded in 1972 and is based in Gandhinagar, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 46.46,
-  "pe_ratio": 20.95,
+  "market_cap_cr": 46.07,
+  "pe_ratio": 20.78,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 20.19,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T23:03:28.787404",
-  "provider_reported_pb_ratio": 1.35,
-  "statements_retrieved_at": "2026-11-03T23:03:28.787404",
+  "retrieval_time": "2026-11-04T21:53:05.738145",
+  "provider_reported_pb_ratio": 1.34,
+  "statements_retrieved_at": "2026-11-04T21:53:05.738145",
   "retained_fields": []
 }

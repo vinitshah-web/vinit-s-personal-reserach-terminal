@@ -5,14 +5,14 @@
   "industry": "Engineering & Construction",
   "business_summary": "Hindustan Construction Company Limited provides engineering and construction services in India and internationally. The company constructs roads, highways, expressways, bridges, elevated corridors, railways, metro rails, ports, and marine structures; dams, barrages, tunnels, powerhouses, shafts, and various underground works; and reactors, auxiliary buildings, spent fuel buildings, safety pump houses, and control buildings. It also constructs integrated water supply systems, bulk water transmission and irrigation projects, water treatment and sewage treatment plants, and aqueducts; hydrocarbon, and metals and process plants and factories; and residential and commercial buildings, institutional buildings, and station buildings. In addition, the company provides toll management, real estate development, and information technology consulting services. It serves state and central government departments, ministries, and municipal bodies. Hindustan Construction Company Limited was incorporated in 1926 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4589.31,
-  "pe_ratio": 24.33,
+  "market_cap_cr": 4903.64,
+  "pe_ratio": 26.0,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 8.12,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 261.9468,
-  "fifty_two_week_high": 29.13,
+  "fifty_two_week_high": 28.5,
   "fifty_two_week_low": 13.65,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:32:07.742627",
-  "provider_reported_pb_ratio": 2.16,
-  "statements_retrieved_at": "2026-11-03T22:32:07.742627",
+  "retrieval_time": "2026-11-04T21:23:21.668293",
+  "provider_reported_pb_ratio": 2.31,
+  "statements_retrieved_at": "2026-11-04T21:23:21.668293",
   "retained_fields": []
 }

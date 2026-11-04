@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "R & B Denims Limited, together with its subsidiary, manufactures and sells denim textile products in India. It manufactures denim fabrics, including cotton, cotton-poly blends, and cotton-spandex varieties; denim garments, such as jeans, shorts and skirts, jackets, overalls and jumpsuits, aprons, tote bags, and hats; and cotton and specialty yarns, as well as ring-spun, open-end, slub, and specialized cotton stretch yarns. The company also exports its products. R & B Denims Limited was incorporated in 2010 and is based in Surat, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 237.04,
-  "pe_ratio": 10.51,
+  "market_cap_cr": 239.89,
+  "pe_ratio": 10.63,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 7.41,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T23:02:09.190931",
-  "provider_reported_pb_ratio": 1.12,
-  "statements_retrieved_at": "2026-11-03T23:02:09.190931",
+  "retrieval_time": "2026-11-04T21:51:48.776258",
+  "provider_reported_pb_ratio": 1.13,
+  "statements_retrieved_at": "2026-11-04T21:51:48.776258",
   "retained_fields": []
 }

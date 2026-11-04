@@ -5,8 +5,8 @@
   "industry": "Insurance - Life",
   "business_summary": "Max Financial Services Limited, through its subsidiary, engages in life insurance business in India. It operates through Business Investments and Others, and Life Insurance segments. The company offers participating and nonparticipating and linked products covering life insurance and pension and health benefits, including riders for individual and group through individual agents, corporate agents, banks, brokers, and other channels. It is also involved in treasury investment activities; and provision of management advisory services. Max Financial Services Limited was incorporated in 1988 and is based in Noida, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 40899.55,
-  "pe_ratio": 220.69,
+  "market_cap_cr": 42942.63,
+  "pe_ratio": 231.71,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 166.71,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:47:38.636164",
-  "provider_reported_pb_ratio": 7.11,
-  "statements_retrieved_at": "2026-11-03T22:47:38.636164",
+  "retrieval_time": "2026-11-04T21:38:04.502370",
+  "provider_reported_pb_ratio": 7.46,
+  "statements_retrieved_at": "2026-11-04T21:38:04.502370",
   "retained_fields": []
 }

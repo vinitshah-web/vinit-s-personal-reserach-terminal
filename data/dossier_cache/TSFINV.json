@@ -5,14 +5,14 @@
   "industry": "Asset Management",
   "business_summary": "TSF Investments Limited, together with its subsidiaries, invests in the auto component sector in India and internationally. It operates through Investments, Shared Services \u0096 Domestic, Shared Services \u0096 Overseas, Manufacturing, and Other segments. The company offers axle housings for medium and heavy commercial vehicles; and forged components for the automobile industry. It also provides outsourcing support services to large and mid-sized firms. The company was formerly known as Sundaram Finance Holdings Limited and changed its name to TSF Investments Limited in October 2025. TSF Investments Limited was incorporated in 1993 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 8862.98,
-  "pe_ratio": 18.33,
+  "market_cap_cr": 8979.95,
+  "pe_ratio": 18.57,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 271.63,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 22.0692,
-  "fifty_two_week_high": 660.75,
+  "fifty_two_week_high": 605.85,
   "fifty_two_week_low": 331.7,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T23:16:20.374303",
-  "provider_reported_pb_ratio": 1.48,
-  "statements_retrieved_at": "2026-11-03T23:16:20.374303",
+  "retrieval_time": "2026-11-04T22:05:21.009136",
+  "provider_reported_pb_ratio": 1.5,
+  "statements_retrieved_at": "2026-11-04T22:05:21.009136",
   "retained_fields": []
 }

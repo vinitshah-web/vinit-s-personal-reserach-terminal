@@ -5,8 +5,8 @@
   "industry": "Rental & Leasing Services",
   "business_summary": "Ecos (India) Mobility & Hospitality Limited provides chauffeured car rental and employee transportation services in India and internationally. It offers employee home-office-home ground transportation services; specialty vehicles, such as luggage vans, limousines, vintage cars, and vehicles for transportation of people with disabilities; car rental services; and self-drive car services. The company also provides corporate car rental, employee transport solutions, conference and delegation transportation, event transportation, hotel travel desk services, wedding car rental, and travel partners program services. It serves customers operating in a range of industries, including information technology, business process outsourcing, global capability centres, consultancy, healthcare, e-commerce, pharmaceutical, legal, and manufacturing. The company was incorporated in 1996 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 666.42,
-  "pe_ratio": 11.33,
+  "market_cap_cr": 678.12,
+  "pe_ratio": 11.53,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 44.28,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T22:23:16.893632",
-  "provider_reported_pb_ratio": 2.51,
-  "statements_retrieved_at": "2026-11-03T22:23:16.893632",
+  "retrieval_time": "2026-11-04T21:14:35.412475",
+  "provider_reported_pb_ratio": 2.55,
+  "statements_retrieved_at": "2026-11-04T21:14:35.412475",
   "retained_fields": []
 }

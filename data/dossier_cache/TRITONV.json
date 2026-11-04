@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Triton Valves Limited manufactures and sells valves, cores and accessories to tire, tube, and original equipment manufacturers in India and internationally. It operates through Automotive Valves, Climate Control Valves, and Metals segments. The company provides valves for tubes, tubeless valves and valves for TPMS, flash buster pressure relief valves, industrial and home air conditioner valves, components and valves for CTIS, valve cores, and auto-air conditioning valves. It also offers valve caps and accessories, and valve extensions. In addition, the company provides core tightening tools, deflation adaptors, double bending tools, electric core runner machines, inflation adaptors, mould tube connectors, nut tightening machines, pneumatic core runner machines, screwdriver type core tighteners, single bending tools, tubeless snap-in valve pullers, tubeless snap-in valve pushers, and tyre tread depth gauges. It serves various industries, including tire and tube valves, automotive, truck and bus wheels, automotive air conditioning, tire pressure monitoring systems, industrial and home air conditioning, electric vehicles, aerospace and defense, and mining and construction. Triton Valves Limited was incorporated in 1975 and is headquartered in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 528.42,
-  "pe_ratio": 29.41,
+  "market_cap_cr": 537.62,
+  "pe_ratio": 33.16,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 250.47,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-03T23:16:11.044363",
-  "provider_reported_pb_ratio": 4.12,
-  "statements_retrieved_at": "2026-11-03T23:16:11.044363",
+  "retrieval_time": "2026-11-04T22:05:11.493306",
+  "provider_reported_pb_ratio": 4.19,
+  "statements_retrieved_at": "2026-11-04T22:05:11.493306",
   "retained_fields": []
 }
