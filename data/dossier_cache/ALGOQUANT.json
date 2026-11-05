@@ -5,14 +5,14 @@
   "industry": "Capital Markets",
   "business_summary": "Algoquant Fintech Limited engages in the trading of financial instruments in India. The company was formerly known as Hindustan Everest Tools Limited and changed its name to Algoquant Fintech Limited in November 2021. The company was incorporated in 1962 and is based in New Delhi, India. Algoquant Fintech Limited is a subsidiary of Algoquant Financial LLP.",
   "business_summary_reason": null,
-  "market_cap_cr": 2261.42,
-  "pe_ratio": 49.66,
+  "market_cap_cr": 2279.69,
+  "pe_ratio": 50.06,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 4.8,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 28.1096,
-  "fifty_two_week_high": 80.79,
+  "fifty_two_week_high": 81.57,
   "fifty_two_week_low": 47.8,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:18:58.418838",
-  "provider_reported_pb_ratio": 16.75,
-  "statements_retrieved_at": "2026-11-04T22:18:58.418838",
+  "retrieval_time": "2026-11-05T21:17:11.732118",
+  "provider_reported_pb_ratio": 16.89,
+  "statements_retrieved_at": "2026-11-05T21:17:11.732118",
   "retained_fields": []
 }

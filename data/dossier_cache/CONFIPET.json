@@ -5,8 +5,8 @@
   "industry": "Oil & Gas Refining & Marketing",
   "business_summary": "Confidence Petroleum India Limited manufactures and sells LPG cylinders in India and internationally. The company is involved in the LPG bulk marketing business. It also provides auto LPG under the GoGas brand through Auto LPG dispensing stations; and packed LPG for households, commercial establishments and industries, as well as customized bulk LPG solutions to industrial customers. In addition, the company engages in bottling activities; compressed natural gas (CNG) retailing business; and logistics business. The company was formerly known as Devarsa Gas-Chem Ltd. and changed its name to Confidence Petroleum India Limited in February 2006. The company was founded in 1993 and is based in Nagpur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2102.75,
-  "pe_ratio": 15.63,
+  "market_cap_cr": 2110.4,
+  "pe_ratio": 15.68,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 42.53,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:29:06.388775",
+  "retrieval_time": "2026-11-05T21:27:31.169709",
   "provider_reported_pb_ratio": 1.49,
-  "statements_retrieved_at": "2026-11-04T22:29:06.388775",
+  "statements_retrieved_at": "2026-11-05T21:27:31.169709",
   "retained_fields": []
 }

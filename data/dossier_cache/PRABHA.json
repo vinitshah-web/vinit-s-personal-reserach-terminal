@@ -5,8 +5,8 @@
   "industry": "Oil & Gas E&P",
   "business_summary": "Prabha Energy Limited engages in oil and gas exploration, production, and trading in India. It's portfolio comprises onshore exploration and production assets in both conventional and unconventional hydrocarbons. The company also generates electrical power through biomass, natural gas, nuclear, waste, thermal, solar, ideal, geothermal, wind, and tidal waves. In addition, it offers oil and gas CBM, shale, and hydrocarbon onshore and offshore business services. Further, the company holds participating interest in two coal bed methane (CBM) blocks, including North Karanpura CBM block and Jharia CBM block-1. Prabha Energy Limited was incorporated in 2009 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3047.12,
-  "pe_ratio": 2169.11,
+  "market_cap_cr": 3124.39,
+  "pe_ratio": 2224.11,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 45.5,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:03:35.079000",
-  "provider_reported_pb_ratio": 4.29,
-  "statements_retrieved_at": "2026-11-04T23:03:35.079000",
+  "retrieval_time": "2026-11-05T22:02:41.939786",
+  "provider_reported_pb_ratio": 4.4,
+  "statements_retrieved_at": "2026-11-05T22:02:41.939786",
   "retained_fields": []
 }

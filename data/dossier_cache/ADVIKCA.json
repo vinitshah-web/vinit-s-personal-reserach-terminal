@@ -5,7 +5,7 @@
   "industry": "Credit Services",
   "business_summary": "Advik Capital Limited, a non-banking financial company, together with its subsidiaries, engages in financial activities in India. It operates through three segments: Financing, Trading in Securities, and Manufacturing. The company grants financial loans; and provides ancillary services. It is also involved in trading in securities and shares; provision of gold, property, car, personal, and business loans; and investing fund business. In addition, the company engages in assisting the financial accommodation by way of loans/advances to industrial concerns; and leasing and finance lease operations of purchasing, selling, hiring, and letting of plant and machinery. The company was formerly known as Advik Industries Limited and changed its name to Advik Capital Limited in July 2017. Advik Capital Limited was incorporated in 1985 and is headquartered in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 48.68,
+  "market_cap_cr": 49.9,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:17:43.601691",
-  "provider_reported_pb_ratio": 0.37,
-  "statements_retrieved_at": "2026-11-04T22:17:43.601691",
+  "retrieval_time": "2026-11-05T21:15:56.455087",
+  "provider_reported_pb_ratio": 0.38,
+  "statements_retrieved_at": "2026-11-05T21:15:56.455087",
   "retained_fields": []
 }

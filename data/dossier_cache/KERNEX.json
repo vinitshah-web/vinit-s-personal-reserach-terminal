@@ -5,8 +5,8 @@
   "industry": "Software - Application",
   "business_summary": "Kernex Microsystems (India) Limited, together with its subsidiaries, engages in the manufacture and sale of safety systems and software services for railways in India, Egypt, the United States, and internationally. The company offers safety products for the railroad industry, such as LxGuard, a level crossing protection system; TrainSHIELD, a train collision avoidance system; SAFELx, a train actuated warning device; SENTINEX, a level crossing warning system; CASRY, a collision avoidance system for railyards; KMDAX, a multisection digital axle counter; ATRW, an automatic recording device for wagons; KTPIS, a train passenger information system; and BCPS2440, a battery charger cum power supply. It also provides turnkey product development, electronic product design, embedded software design, electronic manufacturing, ESS testing, offshore development, quality control, and training services. The company was incorporated in 1991 and is headquartered in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2844.85,
-  "pe_ratio": 14.91,
+  "market_cap_cr": 2941.14,
+  "pe_ratio": 15.42,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 147.91,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:48:44.160338",
-  "provider_reported_pb_ratio": 11.45,
-  "statements_retrieved_at": "2026-11-04T22:48:44.160338",
+  "retrieval_time": "2026-11-05T21:47:19.177461",
+  "provider_reported_pb_ratio": 11.83,
+  "statements_retrieved_at": "2026-11-05T21:47:19.177461",
   "retained_fields": []
 }

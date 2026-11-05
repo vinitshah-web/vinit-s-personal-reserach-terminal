@@ -5,14 +5,14 @@
   "industry": "Steel",
   "business_summary": "Shyam Metalics and Energy Limited, a metal-producing company, produces and sells long steel products, ferro alloys, and aluminium and stainless steel in India and internationally. The company offers carbon steel products, such as pellet, sponge and pig iron, billet, TMT bar, structural bar, structural steel, wire rods, and crash barrier; SS rebar, hot rolled bar, bright bar, wires, welding wires, and wire rod, as well as stainless steel billets; and flat, pipe, and hollow section products. It also provides battery and bare aluminum foils, fin stock, and kitchen foil range. In addition, the company is involved in the operation of solar and wind power plants; invests in captive power infrastructure; railway wagons business; generation of power and electricity; and mining and allied, as well as real estate activities. It also exports its products. Shyam Metalics and Energy Limited was founded in 1991 and is headquartered in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 34280.0,
-  "pe_ratio": 25.28,
+  "market_cap_cr": 35354.56,
+  "pe_ratio": 26.07,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 459.55,
-  "dividend_yield_pct": 0.369,
+  "dividend_yield_pct": 0.3654,
   "shares_outstanding_cr": 27.8382,
-  "fifty_two_week_high": 1257.0,
+  "fifty_two_week_high": 1283.7,
   "fifty_two_week_low": 746.0,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:12:19.183532",
-  "provider_reported_pb_ratio": 2.68,
-  "statements_retrieved_at": "2026-11-04T23:12:19.183532",
+  "retrieval_time": "2026-11-05T22:12:39.737187",
+  "provider_reported_pb_ratio": 2.76,
+  "statements_retrieved_at": "2026-11-05T22:12:39.737187",
   "retained_fields": []
 }

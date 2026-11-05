@@ -5,8 +5,8 @@
   "industry": "Railroads",
   "business_summary": "Titagarh Rail Systems Limited manufactures and sells freight and passenger rail systems in India and internationally. The company offers forged wheel set, cast bogies, couplers, draft gear, loco shells, and cast manganese steel crossing products; flat, hopper, tank, box, automobile-carrying, covered, and special purpose wagons; and brake vans. It also provides passenger rolling stock products, including semi high-speed trains, electric multiple unit train sets, urban metro rail system - aluminum and stainless steel; and propulsion and electrical equipment, such as propulsion systems, traction motors, auxiliary power supply products, electronic equipment, traction converters and power electronics, train control and monitoring systems, and hardware and software products. In addition, the company offers redesign, maintenance, assistance and global, repair, inspection and refurbishing, systems and electrical equipment upgrade, exteriors and interiors face-lift, and power upgrading services. Further, it engages in the shipbuilding business comprising naval vessels, tugs, inland water transport vessels, coastal research vessel, and passenger ships. Additionally, the company manufactures unibridges, modular panel bridges, and mati\u00e8re X bridges; and defense products, such as shelters, specialized wagons, EMI/EMS containers, CBRNe equipment, mine ploughs, pressure vessels, and specialized canopies. It has a strategic collaboration with TuTr Hyperloop Private Limited to develop hyperloop technology enabled freight transportation solutions. The company was formerly known as Titagarh Wagons Limited and changed its name to Titagarh Rail Systems Limited in May 2023. Titagarh Rail Systems Limited was founded in 1983 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 9301.92,
-  "pe_ratio": 49.41,
+  "market_cap_cr": 9235.93,
+  "pe_ratio": 49.06,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 180.68,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:18:41.225298",
-  "provider_reported_pb_ratio": 3.82,
-  "statements_retrieved_at": "2026-11-04T23:18:41.225298",
+  "retrieval_time": "2026-11-05T22:19:17.916940",
+  "provider_reported_pb_ratio": 3.8,
+  "statements_retrieved_at": "2026-11-05T22:19:17.916940",
   "retained_fields": []
 }

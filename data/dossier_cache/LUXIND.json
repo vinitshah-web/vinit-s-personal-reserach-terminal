@@ -5,8 +5,8 @@
   "industry": "Apparel Manufacturing",
   "business_summary": "Lux Industries Limited engages in the manufacture and sale of knitwear for men, women, and kids in India and internationally. The company offers vests, briefs, boxers, drawers and trunks, T-shirts, Bloomers, hoodies and sweatshirts, polo and tees, shorts, tracks, capri, tops and bottoms, summer and winter wear, leggings, track pants, racer backs, camisole straps, slips, loungers and pyjamas, bras, and panties. It serves its products under the Luz Cozi, ONN, GenX, Lux Ferno, Lux Venus, Lux Cott's Wool, Lux Venus Classic, Lux Cozi Glo, Lux Nitro, Lyra, Lux Touch, Lux Karishma, Lux Cozi Her, and Lux Cozi Big Shot brands. The company was formerly known as Biswanath Hosiery Mills and changed its name to Lux Industries Limited in 1995. Lux Industries Limited was founded in 1957 and is headquartered in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3528.91,
-  "pe_ratio": 34.47,
+  "market_cap_cr": 3481.4,
+  "pe_ratio": 34.01,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 624.37,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:52:19.418326",
-  "provider_reported_pb_ratio": 1.88,
-  "statements_retrieved_at": "2026-11-04T22:52:19.418326",
+  "retrieval_time": "2026-11-05T21:50:59.603878",
+  "provider_reported_pb_ratio": 1.85,
+  "statements_retrieved_at": "2026-11-05T21:50:59.603878",
   "retained_fields": []
 }

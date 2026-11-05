@@ -5,8 +5,8 @@
   "industry": "Banks - Regional",
   "business_summary": "Ujjivan Small Finance Bank Limited provides various banking and financial services in India. The company operates through Treasury, Retail Banking, and Corporate/Wholesale Banking segments. It provides current, savings, salary, TACS savings and current, and NRI accounts; and fixed, recurring, TASC fixed, NRI and NRO fixed, and tax saver fixed deposits, as well as two wheeler loan. The company's loan products include home and micro mortgages, including home purchase and home construction, composite home, home improvement, and home equity loans; micro mortgages, business loan, and loan against property; vehicle loans, such as two-wheeler loan, electric three-wheeler loan, and dealer trade advance; micro loans, including group and individual loans; agricultural loans; micro, small, and medium enterprises loans and overdrafts; and gold and staff loans. In addition, it provides mobile, personal net, SMS and missed call, phone, video, and WhatsApp banking; ATMs and cash deposit machines; statements services; life, health, and general insurances; credit and debit cards; and safe deposit lockers. Additionally, the company is involved in retail forex and trade services. Ujjivan Small Finance Bank Limited was incorporated in 2016 and is headquartered in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 11073.31,
-  "pe_ratio": 9.76,
+  "market_cap_cr": 11407.27,
+  "pe_ratio": 10.05,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 38.58,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:20:07.311300",
-  "provider_reported_pb_ratio": 1.47,
-  "statements_retrieved_at": "2026-11-04T23:20:07.311300",
+  "retrieval_time": "2026-11-05T22:20:44.710883",
+  "provider_reported_pb_ratio": 1.51,
+  "statements_retrieved_at": "2026-11-05T22:20:44.710883",
   "retained_fields": []
 }

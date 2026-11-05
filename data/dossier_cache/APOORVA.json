@@ -5,8 +5,8 @@
   "industry": "Capital Markets",
   "business_summary": "Apoorva Leasing Finance and Investment Company Limited engages in the trading in shares in India. The company invests in equity, debentures, bond, mutual funds, etc. It also offers financial and derivative services; and engages in investment activities. Apoorva Leasing Finance and Investment Company Limited was incorporated in 1983 and is based in Noida, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 58.13,
-  "pe_ratio": 194.0,
+  "market_cap_cr": 59.63,
+  "pe_ratio": 199.0,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 69.92,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:20:37.303360",
-  "provider_reported_pb_ratio": 0.42,
-  "statements_retrieved_at": "2026-11-04T22:20:37.303360",
+  "retrieval_time": "2026-11-05T21:18:51.467939",
+  "provider_reported_pb_ratio": 0.43,
+  "statements_retrieved_at": "2026-11-05T21:18:51.467939",
   "retained_fields": []
 }

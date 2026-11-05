@@ -5,8 +5,8 @@
   "industry": "Paper & Paper Products",
   "business_summary": "N R Agarwal Industries Limited manufactures and sells finished paper products in India. The company offers coated duplex boards, folding box board (FBB), and solid bleached sulphate (SBS) for offset printing, embossing, and foil stamping; writing and printing papers; copier papers; and newsprint products. Its products are primarily used in FMCG packaging, textbooks and notebooks, and print media sectors. It also exports its products. The company was founded in 1983 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1139.26,
-  "pe_ratio": 18.34,
+  "market_cap_cr": 1148.28,
+  "pe_ratio": 18.48,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 479.11,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:59:43.998060",
-  "provider_reported_pb_ratio": 1.4,
-  "statements_retrieved_at": "2026-11-04T22:59:43.998060",
+  "retrieval_time": "2026-11-05T21:58:38.573776",
+  "provider_reported_pb_ratio": 1.41,
+  "statements_retrieved_at": "2026-11-05T21:58:38.573776",
   "retained_fields": []
 }

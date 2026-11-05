@@ -6,7 +6,7 @@
   "business_summary": "Kiran Vyapar Limited, together with its subsidiaries, operates as a non-banking financial and non-deposit taking company in India. The company engages in investment, trading, and dealing in shares and securities, mutual funds, loans, and financing. It is also involved in the generation of renewable power. Kiran Vyapar Limited was incorporated in 1995 and is based in Hyderabad, India.",
   "business_summary_reason": null,
   "market_cap_cr": null,
-  "pe_ratio": 88.82,
+  "pe_ratio": 81.75,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 836.54,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:49:01.809090",
-  "provider_reported_pb_ratio": 0.25,
-  "statements_retrieved_at": "2026-11-04T22:49:01.809090",
+  "retrieval_time": "2026-11-05T21:47:38.200290",
+  "provider_reported_pb_ratio": 0.23,
+  "statements_retrieved_at": "2026-11-05T21:47:38.200290",
   "retained_fields": []
 }

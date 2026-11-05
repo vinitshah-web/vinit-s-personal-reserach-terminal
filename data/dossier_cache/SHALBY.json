@@ -5,8 +5,8 @@
   "industry": "Medical Care Facilities",
   "business_summary": "Shalby Limited operates a chain of multi-specialty hospitals in India and internationally. The company operates through Healthcare Services and Manufacturing segments. It offers rheumatology, knee and hip joint replacement, spine surgery, Paediatric orthopedic and trauma, arthroscopy, and arthroplasty; cardiothoracic and vascular surgery, coronary angiography, angioplasty and stenting, and cardiology services; root canal treatment, dental implants, crowns bridges, dentures, orthodontic treatment, dental cosmetic, teeth whitening, pediatric dentistry, dental veneers, gum treatment, and laser dentistry; dermatology; emergency and general medicine; cochlear implants and balloon sinuplasty; gastroenterology, obesity surgery, and endoscopy and laparoscopy; intensive and critical care; nephrology, urology, kidney transplant, dialysis, and interventional nephrology; and general surgery comprising varicose, hernia, and piles surgery. The company also provides liver transplant; maxillofacial surgery; neurology, ideal stroke treatment, epilepsy, endovascular/interventional neurosurgery, and trans cranial doppler; obstetrics and gynaecology; surgical oncology, medical oncology, radiation oncology, bone marrow transplant, onco-psychology, onco-dietetics, onco-physiotherapy, and home care; ophthalmology; paediatrics; pathology and microbiology; psychiatry; pulmonology and chest; interventional and diagnostic radiology; and robotic joint replacement. The company was formerly known as Shalby Hospitals Limited and changed its name to Shalby Limited in February 2008. Shalby Limited was founded in 1994 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1319.26,
-  "pe_ratio": 35.06,
+  "market_cap_cr": 1308.4,
+  "pe_ratio": 34.77,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 93.49,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:11:05.850754",
-  "provider_reported_pb_ratio": 1.31,
-  "statements_retrieved_at": "2026-11-04T23:11:05.850754",
+  "retrieval_time": "2026-11-05T22:11:17.248380",
+  "provider_reported_pb_ratio": 1.3,
+  "statements_retrieved_at": "2026-11-05T22:11:17.248380",
   "retained_fields": []
 }

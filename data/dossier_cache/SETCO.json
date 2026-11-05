@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Shilayan Industries Limited, together with its subsidiaries, manufactures and trades in clutches and other automotive components in India and internationally. The company offers brake linings; clutch products for commercial vehicles and farm tractors comprising cover and disc assemblies, and repair kits; clutch release and center support bearings; flywheels; universal joint crosses; water pumps; load cushions; torque rod bushes; and lubricants, such as bike and car engine oils, heavy commercial vehicle and tractor engine oils, coolants, greases, and various setcoil products. It also provides training programs to vehicle manufacturers, dealers, and distributors on the mechanics of clutch settings and maintenance. The company sells its products under the LIPE and Lava Cast brands. It exports its products to the United States. The company serves the automotive and construction equipment industries, commercial vehicles, tractors, off-highway applications, as well as original equipment manufacturers and the aftermarket. The company was formerly known as Setco Automotive Limited and changed its name to Shilayan Industries Limited in March 2026. Shilayan Industries Limited was incorporated in 1982 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 216.45,
-  "pe_ratio": 0.88,
+  "market_cap_cr": 227.04,
+  "pe_ratio": 0.92,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": -43.88,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:10:38.595159",
-  "provider_reported_pb_ratio": -0.37,
-  "statements_retrieved_at": "2026-11-04T23:10:38.595159",
+  "retrieval_time": "2026-11-05T22:10:42.338258",
+  "provider_reported_pb_ratio": -0.39,
+  "statements_retrieved_at": "2026-11-05T22:10:42.338258",
   "retained_fields": []
 }

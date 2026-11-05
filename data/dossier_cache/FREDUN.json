@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Fredun Pharmaceuticals Limited manufactures and sells pharmaceutical formulations, dietary/herbal supplements, nutraceuticals, animal healthcare products, cosmeceuticals, mobility and rehabilitation products, and other healthcare products in India, Africa, Southeast Asia, Commonwealth of Independent States countries, MENA region, and Latin America. The company offers allopathic formulations, including analgesics/NSAID, antacid/antiulcer, anthelmintic, antibacterial, anti-diabetic, anti-inflammatory, anti-malarial, anti-obesity, antacid, anthelmintic, anticoagulants, anticonvulsants, antidiarrhoeal, antidepressant, antifungal, antihistamines/antiallergic, antihypertensives, antiviral, bone modulating drugs, bronchodilators and anti-asthma drugs, calcium tablets, cardiovascular, diuretic, impotence drugs, laxative, and appetite stimulant with multivitamins. It also provides surgical products, such as IV fluids and cannulas, disposable syringes, infusion sets, surgical gloves and cottons, and personal healthcare products; APIs; direct compressible granules; pellets; animal healthcare products; aqua products; and niche products. Additionally, the company offers therapeutic products under the brand Hormone Range Products, a specialty therapeutics brand focused on longevity, hormone health, recovery science, and human performance solutions. Fredun Pharmaceuticals Limited was incorporated in 1987 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2577.17,
-  "pe_ratio": 54.8,
+  "market_cap_cr": 2557.19,
+  "pe_ratio": 54.38,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 169.39,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:36:38.945536",
-  "provider_reported_pb_ratio": 8.91,
-  "statements_retrieved_at": "2026-11-04T22:36:38.945536",
+  "retrieval_time": "2026-11-05T21:34:55.770900",
+  "provider_reported_pb_ratio": 8.84,
+  "statements_retrieved_at": "2026-11-05T21:34:55.770900",
   "retained_fields": []
 }

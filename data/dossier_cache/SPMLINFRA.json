@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "SPML Infra Limited operates as an infrastructure development company in India. It offers water loss management, water reservoirs and pumping stations, pipeline network design, smart metering system, and water reuse and recycling; battery energy storage systems; metering and billing; effluent, sewage, and tertiary treatment plants; integrated sewage network; and smart water management solution. The company also provides dams and barrages; canal networks; lift irrigation systems; micro irrigation infrastructure; tunnels and bulk water transmission systems; and intake structures and electro-mechanical works, as well as power generation, AIS and GIS substations, power plant construction, transmission and distribution, rural electrification, and power generation solutions. In addition, it offers drinking water supply systems, wastewater treatment plants, integrated sewerage networks, municipal solid waste management facilities, power transmission and distribution systems, substations, rural electrification projects, and smart city solutions. The company was formerly known as Subhash Projects and Marketing Limited and changed its name to SPML Infra Limited in April 2010. SPML Infra Limited was incorporated in 1981 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1173.31,
-  "pe_ratio": 13.71,
+  "market_cap_cr": 1212.17,
+  "pe_ratio": 14.16,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 118.26,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:14:22.477237",
-  "provider_reported_pb_ratio": 1.17,
-  "statements_retrieved_at": "2026-11-04T23:14:22.477237",
+  "retrieval_time": "2026-11-05T22:14:48.126674",
+  "provider_reported_pb_ratio": 1.21,
+  "statements_retrieved_at": "2026-11-05T22:14:48.126674",
   "retained_fields": []
 }

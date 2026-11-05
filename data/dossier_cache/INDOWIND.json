@@ -5,8 +5,8 @@
   "industry": "Utilities - Renewable",
   "business_summary": "Indowind Energy Limited generates and distributes power in India. The company owns, develops, operates, and maintains wind farms and wind power generation assets. It also provides project and asset management, as well as value addition services; and trades in and sells carbon credits. The company serves private consumers, corporates, and state utilities. Indowind Energy Limited was incorporated in 1995 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 137.01,
-  "pe_ratio": 121.57,
+  "market_cap_cr": 143.45,
+  "pe_ratio": 127.29,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 18.96,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:44:37.981014",
-  "provider_reported_pb_ratio": 0.45,
-  "statements_retrieved_at": "2026-11-04T22:44:37.981014",
+  "retrieval_time": "2026-11-05T21:43:09.610961",
+  "provider_reported_pb_ratio": 0.47,
+  "statements_retrieved_at": "2026-11-05T21:43:09.610961",
   "retained_fields": []
 }

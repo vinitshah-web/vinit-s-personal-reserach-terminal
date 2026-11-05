@@ -5,8 +5,8 @@
   "industry": "Chemicals",
   "business_summary": "Vineet Laboratories Limited engages in the research, development, manufacture, and sale of active pharmaceutical ingredients (API), intermediates, and fine chemicals primarily in India. The company offers intermediates of Lopinavir, Ritonavir, Efavirenz, Nadolol, Glimepiride, Celecoxib, Piroctone Olanine, and other API intermediates. It also provides fine chemicals and reagents, such as isopropyl-beta-d-thiogalactopyranoside, n-butyl lithium, 4-nitrophenyl phosphate disodium salt, 5-bromo-4-chloro-3-indolyl-beta-d-galactopyranoside, 5-acetyl thiophene-2-carboxilic acid, 4-chlorobutyryl chloride, n-butyl magnesium chloride, 3-furaldehyde, 3-bromofuran, n-butylnitrite, ethyldiazo acetate, phenylboronic acid, 6-aminouracil, and 1-methyl-imidazole-2-carboxaldehyde. The company was incorporated in 2016 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 72.12,
-  "pe_ratio": 15.39,
+  "market_cap_cr": 71.22,
+  "pe_ratio": 15.2,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 27.04,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:22:11.526806",
-  "provider_reported_pb_ratio": 1.39,
-  "statements_retrieved_at": "2026-11-04T23:22:11.526806",
+  "retrieval_time": "2026-11-05T22:22:52.910428",
+  "provider_reported_pb_ratio": 1.37,
+  "statements_retrieved_at": "2026-11-05T22:22:52.910428",
   "retained_fields": []
 }

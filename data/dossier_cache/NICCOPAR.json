@@ -5,15 +5,15 @@
   "industry": "Leisure",
   "business_summary": "Nicco Parks & Resorts Limited primarily engages in the operation of theme-based entertainment businesses in India. It operates through three segments: Park Operations; Consultancy, Contracts and Sale of Rides Components; and F&B and Other Recreational Facilities. The company operates theme parks, water parks, and recreational and associated facilities and activities. It also offers technical consultancy, project execution, and the supply of amusement ride components, as well as provides in-park food and beverage operations, events and banqueting services, and leased and licensed recreational facilities. The company also manufactures and supplies rides for large amusement parks in the United Kingdom, the rest of Europe, Dubai, and Japan. Nicco Parks & Resorts Limited was incorporated in 1989 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 321.7,
-  "pe_ratio": 54.13,
+  "market_cap_cr": 307.62,
+  "pe_ratio": 51.76,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 22.35,
-  "dividend_yield_pct": 0.7314,
+  "dividend_yield_pct": 0.7274,
   "shares_outstanding_cr": 4.68,
   "fifty_two_week_high": 98.99,
-  "fifty_two_week_low": 66.1,
+  "fifty_two_week_low": 63.17,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:58:49.529479",
-  "provider_reported_pb_ratio": 3.08,
-  "statements_retrieved_at": "2026-11-04T22:58:49.529479",
+  "retrieval_time": "2026-11-05T21:57:40.963847",
+  "provider_reported_pb_ratio": 2.94,
+  "statements_retrieved_at": "2026-11-05T21:57:40.963847",
   "retained_fields": []
 }

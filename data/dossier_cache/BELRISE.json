@@ -5,15 +5,15 @@
   "industry": "Auto Parts",
   "business_summary": "Belrise Industries Limited, together with its subsidiaries, manufactures and sells automotive parts and components of two-wheeler, three-wheeler and four-wheeler passenger and commercial vehicles in India. The company offers shock absorber springs, rear and front shock absorbers, plastic and seat cowls, side dashboards, steering columns, head lamp brackets, front fenders, exhaust systems, foot rests, brake pedals, hub motors, main and side stands, chassis, front fork assembly, two-wheeler chassis sub-assemblies, BIW parts, plastic accessories, seating system parts, polymer parts, cross car beams, battery containers, air tanks, and bumpers. It also provides polymer refrigerator parts, such as fruit and vegetable trays, handles, and bases; and renewable parts, including solar panel components. In addition, the company offers press parts; two-wheeler fairings, seat and side covers, luggage boxes, helmets, and headlight housings; outer and inner rear-view mirrors for vehicles; wishbone assemblies; tri hexavalent nickel chrome plating of mild and stainless steel; automotive systems comprising clutch and pressure plates, flywheels, control arms, crankshafts, housings, hubs, and calipers; home appliances consisting of freezer grills, fridge baskets, and thermostat parts; and home security devices, including household locks and bolts, as well as operates a rose plantation. It exports its products. The company was formerly known as Badve Engineering Limited and changed its name to Belrise Industries Limited in August 2022. Belrise Industries Limited was founded in 1988 and is headquartered in Pune, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 21248.33,
-  "pe_ratio": 36.74,
+  "market_cap_cr": 21101.32,
+  "pe_ratio": 36.48,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 58.73,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 96.7152,
   "fifty_two_week_high": 268.2,
-  "fifty_two_week_low": 145.27,
+  "fifty_two_week_low": 145.86,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:24:41.067123",
-  "provider_reported_pb_ratio": 3.74,
-  "statements_retrieved_at": "2026-11-04T22:24:41.067123",
+  "retrieval_time": "2026-11-05T21:23:04.745402",
+  "provider_reported_pb_ratio": 3.71,
+  "statements_retrieved_at": "2026-11-05T21:23:04.745402",
   "retained_fields": []
 }

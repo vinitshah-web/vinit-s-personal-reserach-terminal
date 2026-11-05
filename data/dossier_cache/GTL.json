@@ -5,8 +5,8 @@
   "industry": "Telecom Services",
   "business_summary": "GTL Limited provides network services in India. The company offers services and solutions to address the network life cycle requirements of telecom operators, technology providers, and tower companies. It also provides network operation and maintenance services, such as corrective and preventive maintenance of the network, capex sizing and planning services, remote monitoring and trouble ticketing, and technical support and process management services. In addition, the company offers energy management solutions, including technical audit for optimum power consumption, monitoring utilization of sources of energy and plugging leakage, driving modernization with energy efficient equipment, and integrating non-traditional or alternate sources of energy with reduced carbon dioxide footprint. The company was formerly known as Global Telesystems Ltd. and changed its name to GTL Limited in October 2001. GTL Limited was incorporated in 1987 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 99.88,
-  "pe_ratio": 0.11,
+  "market_cap_cr": 103.82,
+  "pe_ratio": 0.12,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": -346.23,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:40:21.551494",
+  "retrieval_time": "2026-11-05T21:38:42.131663",
   "provider_reported_pb_ratio": -0.02,
-  "statements_retrieved_at": "2026-11-04T22:40:21.551494",
+  "statements_retrieved_at": "2026-11-05T21:38:42.131663",
   "retained_fields": []
 }

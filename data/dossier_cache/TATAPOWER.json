@@ -5,8 +5,8 @@
   "industry": "Utilities - Independent Power Producers",
   "business_summary": "The Tata Power Company Limited engages in the generation, transmission, distribution, and trading of electricity in India and internationally. It operates through four segments: Thermal & Hydro, Transmission & Distribution, Renewables, and Others. The company generates power from hydroelectric and thermal sources, such as coal, gas, and oil; and provides related ancillary services. It also engages in the operation of transmission and distribution networks; and sale of power to retail customers through distribution networks. In addition, the company offers project management contracts and infrastructure management, and property development services, as well as rents oil tanks. Further, it is involved in the generation of power from renewable energy sources, such as wind and solar; rooftop solar projects; electric vehicle charging stations; manufactures solar cells and modules; engineering, procurement, and construction; home automation solutions; and maintenance services. Additionally, the company trades in power and coal; generates and distributes power; hydro pump storage, coal mining, trading, shipping, and related infra business; and provides smart meter, consultancy, networking solution, shipping and coal handling, logistics, and equipment business and related services, as well as infrastructure for electric vehicles. As of March 31, 2026, the company had an installed generation capacity of 16,716 megawatt. The Tata Power Company Limited was founded in 1915 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 115032.22,
-  "pe_ratio": 29.83,
+  "market_cap_cr": 116486.1,
+  "pe_ratio": 30.2,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 123.54,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:17:15.244792",
-  "provider_reported_pb_ratio": 2.91,
-  "statements_retrieved_at": "2026-11-04T23:17:15.244792",
+  "retrieval_time": "2026-11-05T22:17:50.035302",
+  "provider_reported_pb_ratio": 2.95,
+  "statements_retrieved_at": "2026-11-05T22:17:50.035302",
   "retained_fields": []
 }

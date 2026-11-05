@@ -5,8 +5,8 @@
   "industry": "Real Estate - Development",
   "business_summary": "Nila Spaces Limited engages in real estate development activities. It is involved in the construction and development of residential buildings. The company was formerly known as Parmananday Superstructure Limited and changed its name to Nila Spaces Limited in November 2017. The company was incorporated in 2000 and is headquartered in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 386.8,
-  "pe_ratio": 12.43,
+  "market_cap_cr": 396.25,
+  "pe_ratio": 12.73,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 4.71,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:59:10.850791",
-  "provider_reported_pb_ratio": 2.09,
-  "statements_retrieved_at": "2026-11-04T22:59:10.850791",
+  "retrieval_time": "2026-11-05T21:58:04.423959",
+  "provider_reported_pb_ratio": 2.14,
+  "statements_retrieved_at": "2026-11-05T21:58:04.423959",
   "retained_fields": []
 }

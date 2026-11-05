@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Bengal & Assam Company Limited operates as an investment company in India and internationally. It is also involved in the investment in securities; and trading of goods. The company was formerly known as Bengal & Assam Investors Limited and changed its name to Bengal & Assam Company Limited in June 1982. Bengal & Assam Company Limited was incorporated in 1947 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 6471.71,
-  "pe_ratio": 8.49,
+  "market_cap_cr": 6589.17,
+  "pe_ratio": 8.64,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 9371.54,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:24:44.806103",
-  "provider_reported_pb_ratio": 0.61,
-  "statements_retrieved_at": "2026-11-04T22:24:44.806103",
+  "retrieval_time": "2026-11-05T21:23:08.532071",
+  "provider_reported_pb_ratio": 0.62,
+  "statements_retrieved_at": "2026-11-05T21:23:08.532071",
   "retained_fields": []
 }

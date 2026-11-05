@@ -5,8 +5,8 @@
   "industry": "Information Technology Services",
   "business_summary": "ACS Technologies Limited, together with its subsidiaries, provides system integration, security and surveillance, IOT solutions, and software products and services in India and internationally. The company offers smart transport, energy, water, surveillance, emergency response, and information services, as well as Athena Smart Analytics, Intelligent Advertising, and Home Automation; and Smart HelpDesk, a platform for public and utility provider collaboration for complaints management; IoT and Automation products for homes, offices, apartments, gated communities, campuses, townships, and smart cities; LMS, a software application for administration, documentation, tracking, reporting of training programs, classrooms and online events, e-learning programs, and training content; and document archival, retrieval and management system (DARMS). It also provides property management system, a tool for reservation process, guest registration, accounts, check-in/check-out, discounts, allowances, and the audits for hospitality management; queue management tool that automates the task of token issue and scheduling for visitors; visitor management system, a solution for visitor management, including appointments, issue of pass, visitor details storage, time in/out, and MIS reporting features; and human resource management system. In addition, the company offers artificial intelligence solutions; custom software development; IT infrastructure; security and surveillance, geospatial technologies; smart facilities management; electro mechanical projects; telecom services; and managed services. It serves government and corporate/private, MNC, academic/research, and bank sectors. The company was formerly known as LN Industries India Limited and changed its name to ACS Technologies Limited in June 2023. ACS Technologies Limited was founded in 1980 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 522.94,
-  "pe_ratio": 36.24,
+  "market_cap_cr": 534.62,
+  "pe_ratio": 37.05,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 22.8,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:17:17.762479",
-  "provider_reported_pb_ratio": 3.08,
-  "statements_retrieved_at": "2026-11-04T22:17:17.762479",
+  "retrieval_time": "2026-11-05T21:15:30.619799",
+  "provider_reported_pb_ratio": 3.15,
+  "statements_retrieved_at": "2026-11-05T21:15:30.619799",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Kiri Industries Limited manufactures and sells dyes, dye intermediates, and basic chemicals in India and internationally. It provides reactive dyes, acid dyes, direct dyes, and disperse dyes; and basic chemicals comprising sulphuric acid, chloro sulhponic acid, oleum, spent sulphuric acid, and thionyl chloride. The company also offers dye intermediates, such as sulpho J.acid, sulpho tobias acid, sulpho gama acid, and para nitro toluene ortho sulfonic acid, vinyl sulphone, as well as H-Acid, naphthalene, and aniline based intermediates. It sells its products to chemical, dyes, dyes intermediates, pharma, paper and textile industries through dealers and distributors. The company was formerly known as Kiri Dyes and Chemicals Limited and changed its name to Kiri Industries Limited in March 2011. Kiri Industries Limited was incorporated in 1998 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3411.22,
-  "pe_ratio": 0.56,
+  "market_cap_cr": 3188.02,
+  "pe_ratio": 0.53,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 1052.04,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:49:03.203581",
-  "provider_reported_pb_ratio": 0.5,
-  "statements_retrieved_at": "2026-11-04T22:49:03.203581",
+  "retrieval_time": "2026-11-05T21:47:39.431090",
+  "provider_reported_pb_ratio": 0.47,
+  "statements_retrieved_at": "2026-11-05T21:47:39.431090",
   "retained_fields": []
 }

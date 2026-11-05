@@ -5,8 +5,8 @@
   "industry": "Oil & Gas Refining & Marketing",
   "business_summary": "Mangalore Refinery and Petrochemicals Limited engages in refining of crude oil in India and internationally. The company offers bitumen, high speed diesel, MS, Xylol, PetCoke, Sulphur, paraxylene, benzene, heavy aromatics, paraffinic raffinate, reformate, toluene, mineral turpentine oil, and other products, as well as LPG, naphtha, toluene, SKO, and furnace oil; and petrochemical products, such as polypropylene. It also exports its products. The company was incorporated in 1988 and is based in Mangalore, India. Mangalore Refinery and Petrochemicals Limited operates as a subsidiary of Oil and Natural Gas Corporation Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 32796.38,
-  "pe_ratio": 7.43,
+  "market_cap_cr": 30447.9,
+  "pe_ratio": 6.9,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 97.26,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:56:54.529421",
-  "provider_reported_pb_ratio": 1.92,
-  "statements_retrieved_at": "2026-11-04T22:56:54.529421",
+  "retrieval_time": "2026-11-05T21:55:45.798537",
+  "provider_reported_pb_ratio": 1.79,
+  "statements_retrieved_at": "2026-11-05T21:55:45.798537",
   "retained_fields": []
 }

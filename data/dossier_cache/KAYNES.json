@@ -5,8 +5,8 @@
   "industry": "Electronic Components",
   "business_summary": "Kaynes Technology India Limited designs, manufactures, and sells electronic modules and solutions in India and internationally. It provides conceptual design, process engineering, integrated manufacturing, and life cycle support for various industries including automotive, industrial, aerospace and defence, outer-space, medical, railways, internet of things, information technology, and other industries. Kaynes Technology India Limited was founded in 1988 and is based in Mysore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 22385.09,
-  "pe_ratio": 64.92,
+  "market_cap_cr": 22133.0,
+  "pe_ratio": 64.19,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 693.34,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:48:24.960202",
-  "provider_reported_pb_ratio": 4.8,
-  "statements_retrieved_at": "2026-11-04T22:48:24.960202",
+  "retrieval_time": "2026-11-05T21:46:59.161803",
+  "provider_reported_pb_ratio": 4.75,
+  "statements_retrieved_at": "2026-11-05T21:46:59.161803",
   "retained_fields": []
 }

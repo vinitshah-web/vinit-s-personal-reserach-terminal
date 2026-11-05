@@ -5,8 +5,8 @@
   "industry": "Luxury Goods",
   "business_summary": "Shankesh Jewellers Limited provides handcrafted gold jewelry products and customization services in India. The company provides wholesale trade of 22-karat and 18-karat gold jewellery, including bangles, bridal jewellery, chokers, jhumkas, long and short necklace sets, mangal sutras, rings, and combined jewellery set in categories, such as antique, semi-antique, Calcutta, temple, gheru polish, and yellow/rhodium/rose gold jewellery. The company serves corporate jewellery brands and independent retailers, catering to their needs for weddings, festivals, and daily wear. The company was formerly known as Shankesh Jewellers Private Limited and changed its name to Shankesh Jewellers Limited in April 2025. The company was founded in 1987 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1375.92,
-  "pe_ratio": 12.89,
+  "market_cap_cr": 1335.63,
+  "pe_ratio": 12.51,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 17.82,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:11:09.623233",
-  "provider_reported_pb_ratio": 5.25,
-  "statements_retrieved_at": "2026-11-04T23:11:09.623233",
+  "retrieval_time": "2026-11-05T22:11:20.973452",
+  "provider_reported_pb_ratio": 5.1,
+  "statements_retrieved_at": "2026-11-05T22:11:20.973452",
   "retained_fields": []
 }

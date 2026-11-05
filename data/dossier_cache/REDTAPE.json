@@ -5,8 +5,8 @@
   "industry": "Footwear & Accessories",
   "business_summary": "REDTAPE Limited engages in the retail sale of footwear, garments, accessories and allied products in India and internationally. It provides footwear, such as boots, casual and formal shoes, sandals, sliders/flip flops, and sports shoes; topwear, including jackets, shirts, sweaters, sweat shirts/hoodies, and T-shirts; bottomwear, such as jeans, trousers, shorts, jeggings, and pants; and sportswear comprising active T-shirts, trackpants/joggers, and shorts, as well as innerwear comprising briefs. The company also provides accessories, including wallets, socks, handkerchiefs, caps, belts, backpack, perfume, trolley bags, and handbags. It offers its products through exclusive brand outlets, e-commerce platforms, and other retail channels. The company offers its products under the RedTape, OZARK by RedTape, and BOND STREET by RedTape brand names. It also exports its products. REDTAPE Limited was founded in 1996 and is based in Noida, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 5858.66,
-  "pe_ratio": 23.82,
+  "market_cap_cr": 5945.45,
+  "pe_ratio": 23.43,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 18.48,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:06:20.015813",
-  "provider_reported_pb_ratio": 5.74,
-  "statements_retrieved_at": "2026-11-04T23:06:20.015813",
+  "retrieval_time": "2026-11-05T22:05:35.202256",
+  "provider_reported_pb_ratio": 5.82,
+  "statements_retrieved_at": "2026-11-05T22:05:35.202256",
   "retained_fields": []
 }

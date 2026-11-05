@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "Incredible Industries Limited manufactures and sells iron and steel products in India. The company offers steel related rolled products, such as TMT bars, wire rods, H.B. wires, etc., as well as related services. It also offers billets, linkedge, annaling, torkari, and wire nail products. In addition, the company engages in the generation of electricity through wind power. It also exports its products. The company was formerly known as Adhunik Industries Limited and changed its name to Incredible Industries Limited in May 2021. Incredible Industries Limited was incorporated in 1979 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 136.22,
-  "pe_ratio": 11.16,
+  "market_cap_cr": 143.47,
+  "pe_ratio": 11.75,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 35.45,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:44:07.153868",
-  "provider_reported_pb_ratio": 0.82,
-  "statements_retrieved_at": "2026-11-04T22:44:07.153868",
+  "retrieval_time": "2026-11-05T21:42:37.481282",
+  "provider_reported_pb_ratio": 0.87,
+  "statements_retrieved_at": "2026-11-05T21:42:37.481282",
   "retained_fields": []
 }

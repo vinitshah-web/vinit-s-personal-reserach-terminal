@@ -5,8 +5,8 @@
   "industry": "Information Technology Services",
   "business_summary": "Vedavaag Systems Limited, together with its subsidiaries, provides information technology (IT) sales and services in India. It acts as a business correspondent for implementation of KIOSK business. The company is also involved in the deployment of UNITE ERP for primary agricultural cooperative society; provision of life and general insurance; and system integration/IOT projects. In addition, it is involved in the deployment of UNITE ERP for primary agricultural cooperative society; provision of life and general insurance; and system integration/IOT projects. Additionally, the company offers software-defined wide area network (SD-WAN) services, which provides cloud-based WAN infrastructure and cloud connectivity to enterprises in a multi-cloud environment; V-DAMS, an AI and ML based driver activity monitoring solution to assist in reducing road accidents; ABHAYAM, an IoT+ Cloud based solution for the safety of women and child; and V-PAMS, an AI and ML based patient activity monitoring system for remote monitoring and virtual rounding of wards. Further, it provides online education services under the VedaEdutech brand; permanent account number (PAN) services; and courier services under the VARIOR brand. The company was formerly known as SARK Systems India Limited and changed its name to Vedavaag Systems Limited in July 2011. Vedavaag Systems Limited was incorporated in 1998 and is headquartered in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 46.98,
-  "pe_ratio": 11.31,
+  "market_cap_cr": 46.76,
+  "pe_ratio": 11.26,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 67.04,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:21:22.048683",
+  "retrieval_time": "2026-11-05T22:22:02.035289",
   "provider_reported_pb_ratio": 0.3,
-  "statements_retrieved_at": "2026-11-04T23:21:22.048683",
+  "statements_retrieved_at": "2026-11-05T22:22:02.035289",
   "retained_fields": []
 }

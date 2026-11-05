@@ -5,8 +5,8 @@
   "industry": "Communication Equipment",
   "business_summary": "Panache Digilife Limited designs, manufactures, distributes, sells, and services ICT and IoT devices in India. The company offers AI computing platforms, including all-in-one PCs, laptops, servers, desktops, and mini PCs; networking, connectivity, and digital infrastructure solutions comprising SNOC, GIS, device management, routers, switches, wireless devices, and set-top boxes; and AV and display products that include indoor and outdoor signages, video walls, IoT gateways, and panel PCs. It also provides digital surveillance systems, such as AI CCTV cameras, AI network video recorders, and surveillance towers; EdTech solutions, which consist of AI interactive flat panel displays, EdTech tablets, and rugged laptops; and medical smart devices, healthcare kiosks, and AI IoT solutions. The company was formerly known as Vardhaman Technology Limited and changed its name to Panache Digilife Limited in February 2017. Panache Digilife Limited was incorporated in 2007 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1056.04,
-  "pe_ratio": 44.44,
+  "market_cap_cr": 1077.1,
+  "pe_ratio": 45.32,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 73.09,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:01:32.637653",
-  "provider_reported_pb_ratio": 9.02,
-  "statements_retrieved_at": "2026-11-04T23:01:32.637653",
+  "retrieval_time": "2026-11-05T22:00:33.017486",
+  "provider_reported_pb_ratio": 9.2,
+  "statements_retrieved_at": "2026-11-05T22:00:33.017486",
   "retained_fields": []
 }

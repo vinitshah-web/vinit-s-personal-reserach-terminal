@@ -5,7 +5,7 @@
   "industry": "Restaurants",
   "business_summary": "Devyani International Limited develops, manages, and operates quick service restaurants and food courts in India, Nepal, Nigeria, Thailand, and internationally. It operates outlets under the KFC, Pizza Hut, Costa Coffee, Vaango and other brands. The company serves retail consumers for quick service food and beverages through dine in, takeaway, and delivery channels. The company was incorporated in 1991 and is based in Gurugram, India. Devyani International Limited operates as a subsidiary of RJ Corp Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 14632.53,
+  "market_cap_cr": 15930.82,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:31:24.714865",
-  "provider_reported_pb_ratio": 9.07,
-  "statements_retrieved_at": "2026-11-04T22:31:24.714865",
+  "retrieval_time": "2026-11-05T21:29:46.329023",
+  "provider_reported_pb_ratio": 9.87,
+  "statements_retrieved_at": "2026-11-05T21:29:46.329023",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "HP Adhesives Limited manufactures and distributes adhesives and sealants in India and internationally. Its products include solvent cement, contact adhesives, white glue/PVA, epoxy putty and adhesives, spray paints, and plumbing accessories, as well as cyanoacrylates, synthetic rubber adhesives, black and white sealants, pipe lubricant, and gasket shellacs. The company also offers ancillary products, such as ball valves, teflon tapes, and masking tapes. In addition, it provides solvent cement and plumbing accessories, as well as drainage solutions, such as manhole cover, water gully cover, water gully cover, gratings, water tank cover. It serves plumbing, glass glazing, building facades, water supply and drainage, footwear, home improvement, foam and furnishing, automotive, woodworking, carpenter, infrastructure, and agriculture through a network of distributors and retailers. HP Adhesives Limited was founded in 1987 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 294.27,
-  "pe_ratio": 160.15,
+  "market_cap_cr": 307.6,
+  "pe_ratio": 167.4,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 20.57,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:42:57.689883",
-  "provider_reported_pb_ratio": 1.56,
-  "statements_retrieved_at": "2026-11-04T22:42:57.689883",
+  "retrieval_time": "2026-11-05T21:41:27.418841",
+  "provider_reported_pb_ratio": 1.63,
+  "statements_retrieved_at": "2026-11-05T21:41:27.418841",
   "retained_fields": []
 }

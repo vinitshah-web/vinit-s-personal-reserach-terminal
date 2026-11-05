@@ -5,8 +5,8 @@
   "industry": "Mortgage Finance",
   "business_summary": "Aavas Financiers Limited provides housing finance services to low- and middle-income customers in semi-urban and rural areas in India. The company offers home loans for flats, houses, and bungalows; home construction loans for residential houses; resale property purchase loans, and home improvement loans, including loans for tiling or flooring, plaster or painting, etc. It also provides loans against property; micro, small, and medium enterprise loans; and home loan balance transfer, as well as cash salaried plus loans and small ticket size loans. The company was formerly known as AU Housing Finance Limited and changed its name to Aavas Financiers Limited in May 2017. Aavas Financiers Limited was incorporated in 2011 and is based in Jaipur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 8923.16,
-  "pe_ratio": 12.73,
+  "market_cap_cr": 8993.74,
+  "pe_ratio": 12.83,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 680.76,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:16:29.431551",
-  "provider_reported_pb_ratio": 1.65,
-  "statements_retrieved_at": "2026-11-04T22:16:29.431551",
+  "retrieval_time": "2026-11-05T21:14:39.628752",
+  "provider_reported_pb_ratio": 1.67,
+  "statements_retrieved_at": "2026-11-05T21:14:39.628752",
   "retained_fields": []
 }

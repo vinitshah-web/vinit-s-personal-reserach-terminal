@@ -5,8 +5,8 @@
   "industry": "Information Technology Services",
   "business_summary": "Dev Information Technology Limited provides information technology enabled services in India, Europe, and internationally. The company offers AI agent development, generative AI solutions, enterprise AI and automation, and AI governance services; cloud advisory and strategy, application modernization, managed cloud operations, and backup and disaster recovery services; data and analytics, modern workplace solutions, blockchain and Web3 solutions, and M365 migration services; data center support, managed digital workplace services, and cybersecurity services; custom software development, e-governance platforms, and mobile application development; and Microsoft D365 Finance and Operations, Microsoft D365 CRM, and business central. It also provides Talligence, a distinct AI-powered Tally BI tool for insights; and ByteSIGNER, a PDF document signing software. The company has a strategic alliance with Xduce Corporation. It serves information technology, financial and fintech services, real estate, construction and infrastructure, manufacturing, industrial and engineering, healthcare, pharmaceuticals and life sciences, retail, FMCG and consumer goods, education and learning, energy, utilities and sustainability, legal, audit and compliance, and travel, transport and logistics industries. Dev Information Technology Limited was incorporated in 1997 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 109.13,
-  "pe_ratio": 1.45,
+  "market_cap_cr": 118.42,
+  "pe_ratio": 1.57,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 19.13,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:31:22.289572",
-  "provider_reported_pb_ratio": 1.0,
-  "statements_retrieved_at": "2026-11-04T22:31:22.289572",
+  "retrieval_time": "2026-11-05T21:29:43.752427",
+  "provider_reported_pb_ratio": 1.09,
+  "statements_retrieved_at": "2026-11-05T21:29:43.752427",
   "retained_fields": []
 }

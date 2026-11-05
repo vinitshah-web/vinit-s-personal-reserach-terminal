@@ -5,8 +5,8 @@
   "industry": "Packaging & Containers",
   "business_summary": "Dhunseri Ventures Limited engages in the treasury operations in shares and securities in India, Singapore, and internationally. It operates through Trading, Treasury Operations, and Flexible Packaging Films segments. The company is involved in the manufacture of BOPET film; trades in commodities and PET resin; and operations relate to holding treasury assets. The company was formerly known as Dhunseri Petrochem Limited and changed its name to Dhunseri Ventures Limited in December 2018. The company was incorporated in 1916 and is based in Kolkata, India. Dhunseri Ventures Limited is a subsidiary of Dhunseri Investments Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 968.26,
-  "pe_ratio": 5.16,
+  "market_cap_cr": 988.92,
+  "pe_ratio": 5.27,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 938.64,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:32:58.254476",
-  "provider_reported_pb_ratio": 0.29,
-  "statements_retrieved_at": "2026-11-04T22:32:58.254476",
+  "retrieval_time": "2026-11-05T21:31:11.707668",
+  "provider_reported_pb_ratio": 0.3,
+  "statements_retrieved_at": "2026-11-05T21:31:11.707668",
   "retained_fields": []
 }

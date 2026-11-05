@@ -5,7 +5,7 @@
   "industry": "Software - Application",
   "business_summary": "SecureKloud Technologies Limited provides information and technology services in India and the United States. It provides cloud automation data platform, an unified platform for cloud and data transformation; custom LLM integration, enterprise AI co-pilots, AI content generation, document intelligence, conversational AI, and AI app development; robotic process automation services, including end-to-end RPA implementation, AI-augmented RPA, cloud-ready and scalable bot's, and bot lifecycle management; and machine learning services, such as ML model development, ML strategy and consulting, ML as a service (MLaaS), MLOps and model monitoring, and responsible AI enablement. The company also provides AI-fication of applications, end-to-end application modernization, cloud-native and scalable architectures, data-driven transformation, seamless CI/CD and DevOps enablement, and UI/UX with AI personalization; cybersecurity services; blockchain services; cloud managed services; and professional staffing services. It serves Healthcare organizations, manufacturing, banking and financial, and logistics sectors. The company was formerly known as 8K Miles Software Services Limited and changed its name to SecureKloud Technologies Limited in January 2021. SecureKloud Technologies Limited was incorporated in 1985 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 49.38,
+  "market_cap_cr": 47.98,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -13,7 +13,7 @@
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 3.3411,
   "fifty_two_week_high": 34.18,
-  "fifty_two_week_low": 14.41,
+  "fifty_two_week_low": 13.35,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:10:15.586841",
-  "provider_reported_pb_ratio": -0.96,
-  "statements_retrieved_at": "2026-11-04T23:10:15.586841",
+  "retrieval_time": "2026-11-05T22:10:06.765851",
+  "provider_reported_pb_ratio": -0.93,
+  "statements_retrieved_at": "2026-11-05T22:10:06.765851",
   "retained_fields": []
 }

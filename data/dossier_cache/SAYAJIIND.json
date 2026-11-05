@@ -5,8 +5,8 @@
   "industry": "Farm Products",
   "business_summary": "Sayaji Industries Limited, together with its subsidiaries, engages in the manufacture and sale of starches, modified starches, and other derivatives in India and internationally. The company operates through Agro Processing-Maize; Agri Seeds; and Spray Dried Food Products segments. It offers modified starches; other derivative products, including liquid glucose, dextrose monohydrate, dextrose anhydrous, and sorbitol; and other by-products, such as maize oil and maize gluten. The company's products are used in textiles, pharmaceuticals, food and beverages, paper and packaging, confectionary, soaps and detergents, and seeds industries. It also involves in manufacturing spray dried food products, including tomato powder; vegetable and fruit-based powders; non-dairy creamer; and other spray dried products. In addition, the company engages in the processing and sale of seeds; marketing services; and investment activities. Sayaji Industries Limited was incorporated in 1941 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 272.52,
-  "pe_ratio": 10.86,
+  "market_cap_cr": 259.12,
+  "pe_ratio": 10.43,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 40.66,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:09:35.492479",
-  "provider_reported_pb_ratio": 2.65,
-  "statements_retrieved_at": "2026-11-04T23:09:35.492479",
+  "retrieval_time": "2026-11-05T22:09:23.424671",
+  "provider_reported_pb_ratio": 2.52,
+  "statements_retrieved_at": "2026-11-05T22:09:23.424671",
   "retained_fields": []
 }

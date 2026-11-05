@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "Waaree Renewable Technologies Limited primarily engages in the engineering, procurement, and construction (EPC) contracts business in India. It offers ground-mounted, solar rooftop, floating solar, energy storage, green hydrogen, and asset management EPC solutions; and generates power through renewable energy sources, as well as offers operations and maintenance services. The company serves various customers across the industrial, commercial, and utility segments. The company was formerly known as Sangam Renewables Limited and changed its name to Waaree Renewable Technologies Limited in July 2021. The company was incorporated in 1999 and is headquartered in Mumbai, India. Waaree Renewable Technologies Limited operates as a subsidiary of Waaree Energies Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 7641.6,
-  "pe_ratio": 16.41,
+  "market_cap_cr": 7807.57,
+  "pe_ratio": 16.77,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 107.01,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:23:17.996849",
-  "provider_reported_pb_ratio": 6.84,
-  "statements_retrieved_at": "2026-11-04T23:23:17.996849",
+  "retrieval_time": "2026-11-05T22:24:04.179789",
+  "provider_reported_pb_ratio": 6.99,
+  "statements_retrieved_at": "2026-11-05T22:24:04.179789",
   "retained_fields": []
 }

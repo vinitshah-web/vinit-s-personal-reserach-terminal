@@ -5,8 +5,8 @@
   "industry": "Entertainment",
   "business_summary": "Media Matrix Worldwide Limited, together with its subsidiaries, engages in the digital media content in India and internationally. The company deals with related activities in media and entertainment industry, as well as trades in mobile handsets, gadgets, and electronic items. It is also involved in strategic investment. The company was formerly known as Giltfin Lease Limited. Media Matrix Worldwide Limited was incorporated in 1985 and is based in Gurugram, India. Media Matrix Worldwide Limited operates as a subsidiary of MN Ventures Private Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 1990.23,
-  "pe_ratio": 219.62,
+  "market_cap_cr": 2088.78,
+  "pe_ratio": 230.5,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 0.64,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:55:27.506823",
-  "provider_reported_pb_ratio": 27.58,
-  "statements_retrieved_at": "2026-11-04T22:55:27.506823",
+  "retrieval_time": "2026-11-05T21:54:13.441145",
+  "provider_reported_pb_ratio": 28.95,
+  "statements_retrieved_at": "2026-11-05T21:54:13.441145",
   "retained_fields": []
 }

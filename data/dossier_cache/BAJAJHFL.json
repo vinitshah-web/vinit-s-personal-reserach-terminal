@@ -5,8 +5,8 @@
   "industry": "Mortgage Finance",
   "business_summary": "Bajaj Housing Finance Limited provides housing finance services in India. It offers finance to individuals and corporate entities for the purchase and renovation of homes or commercial spaces. The company also provides loans against property for business or personal needs, as well as working capital for business expansion purposes. In addition, it offers finance to developers engaged in the construction of residential and commercial properties, as well as leases rental discounting to developers and high-net-worth individuals, real estate investment trusts, private equities, sovereign wealth funds, MNC funds, and corporates and commercial developers. Bajaj Housing Finance Limited was formerly known as Bajaj Financial Solutions Limited and changed its name to Bajaj Housing Finance Limited in November 2014. The company was incorporated in 2008 and is headquartered in Pune, India. Bajaj Housing Finance Limited is a subsidiary of Bajaj Finance Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 67814.73,
-  "pe_ratio": 24.16,
+  "market_cap_cr": 69263.98,
+  "pe_ratio": 24.68,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 28.88,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:23:19.666128",
-  "provider_reported_pb_ratio": 2.82,
-  "statements_retrieved_at": "2026-11-04T22:23:19.666128",
+  "retrieval_time": "2026-11-05T21:21:41.123560",
+  "provider_reported_pb_ratio": 2.88,
+  "statements_retrieved_at": "2026-11-05T21:21:41.123560",
   "retained_fields": []
 }

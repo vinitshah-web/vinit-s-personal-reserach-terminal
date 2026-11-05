@@ -5,8 +5,8 @@
   "industry": "Other Industrial Metals & Mining",
   "business_summary": "J.G. Chemicals Limited engages in the manufacture and sale of zinc oxide and zinc sulphate in India and internationally. The company sells its products under the Luxmi brand name. It serves various industries, including rubber, ceramics, paints, coatings and pigments, pharmaceuticals, healthcare and cosmetics, electronics and batteries, specialty chemicals, sanitaryware, adhesives, surface treatment chemicals, varistors, semiconductors, catalysts, agrochemicals, lubricants, oil and gas, agriculture and fertilizers, nutraceuticals and animal feed. J.G. Chemicals Limited was incorporated in 1975 and is headquartered in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2249.67,
-  "pe_ratio": 29.93,
+  "market_cap_cr": 2256.14,
+  "pe_ratio": 30.02,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 134.85,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:46:47.634775",
-  "provider_reported_pb_ratio": 4.26,
-  "statements_retrieved_at": "2026-11-04T22:46:47.634775",
+  "retrieval_time": "2026-11-05T21:45:20.062077",
+  "provider_reported_pb_ratio": 4.27,
+  "statements_retrieved_at": "2026-11-05T21:45:20.062077",
   "retained_fields": []
 }

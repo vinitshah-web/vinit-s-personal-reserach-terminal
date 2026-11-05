@@ -5,8 +5,8 @@
   "industry": "Building Materials",
   "business_summary": "Saurashtra Cement Limited engages in the manufacture and sale of cement and paints in India. It operates through Cement & Cement Related Products, and Paints segments. The company offers ordinary portland cement, portland pozzolana cement, and SRPC cement, as well as clinker products. It sells its cement products under the HATHI brand name. The company also exports its products. Saurashtra Cement Limited was incorporated in 1956 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 540.7,
-  "pe_ratio": 80.97,
+  "market_cap_cr": 540.93,
+  "pe_ratio": 81.0,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 85.25,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:09:30.522191",
+  "retrieval_time": "2026-11-05T22:09:17.948503",
   "provider_reported_pb_ratio": 0.57,
-  "statements_retrieved_at": "2026-11-04T23:09:30.522191",
+  "statements_retrieved_at": "2026-11-05T22:09:17.948503",
   "retained_fields": []
 }

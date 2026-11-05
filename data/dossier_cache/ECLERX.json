@@ -5,8 +5,8 @@
   "industry": "Information Technology Services",
   "business_summary": "eClerx Services Limited provides business process management, change management, data-driven insights, and advanced analytics services in North America, the United Kingdom, rest of Europe, and the Asia Pacific. It offers omnichannel customer support, customer journey mapping, quality monitoring, and field technical operations; digital marketing services, including omnichannel campaigns, creative production, product data management, MarTech enablement, search and media operations, and content and commerce services; and creative and content productions, such as photo/video management, post-production, 3D-CGI, VR/AR, digital workflows, and omnichannel delivery. The company also provides market intelligence services comprising digital shelf analytics, competitor intelligence, pricing intelligence, assortment optimization, product launch, revenue and yield management, and bid management; anti-money laundering, anti-bribery and corruption, fraud detection and prevention, know your customer, compliance monitoring and audits, and regulatory reporting; and data and cloud engineering, customer analytics, sales and marketing analytics, and care and support analytics services. In addition, it offers trade support, client lifecycle, asset servicing, settlements and clearing, lending operations, and data and document management; and procure to pay, order to cash, record to report, and specialty finance accounting, as well as digital transformation, strategic managed, and application development services. The company serves financial services, cable and telecommunications, retail, fashion, media and entertainment, manufacturing, travel and leisure, software, and high-tech industries. eClerx Services Limited was incorporated in 2000 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 14377.11,
-  "pe_ratio": 20.35,
+  "market_cap_cr": 14618.21,
+  "pe_ratio": 20.69,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 317.23,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:33:21.278466",
-  "provider_reported_pb_ratio": 4.92,
-  "statements_retrieved_at": "2026-11-04T22:33:21.278466",
+  "retrieval_time": "2026-11-05T21:31:35.394405",
+  "provider_reported_pb_ratio": 5.01,
+  "statements_retrieved_at": "2026-11-05T21:31:35.394405",
   "retained_fields": []
 }

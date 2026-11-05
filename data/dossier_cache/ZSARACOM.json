@@ -6,7 +6,7 @@
   "business_summary": "Saraswati Commercial (India) Limited, a non-banking financial company, engages in the business of investment and trading in shares and securities, and lending activities in India. Saraswati Commercial (India) Limited was incorporated in 1983 and is based in Mumbai, India.",
   "business_summary_reason": null,
   "market_cap_cr": 1095.93,
-  "pe_ratio": 8.23,
+  "pe_ratio": 7.81,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 10049.98,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:24:38.840846",
+  "retrieval_time": "2026-11-05T22:25:25.822826",
   "provider_reported_pb_ratio": 1.0,
-  "statements_retrieved_at": "2026-11-04T23:24:38.840846",
+  "statements_retrieved_at": "2026-11-05T22:25:25.822826",
   "retained_fields": []
 }

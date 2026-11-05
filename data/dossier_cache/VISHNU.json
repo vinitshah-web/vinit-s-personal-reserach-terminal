@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Vishnu Chemicals Limited engages in the manufacture and sale of chromium chemicals in India and internationally. The company offers chromium chemicals, such as sodium dichromate, basic chromium sulphate, chromic acid, chrome oxide green, white sodium sulphate, and potassium dichromate; and barium carbonate, precipitated barium sulphate, strontium carbonate, and sodium sulphide. Its products are used in pharmaceuticals, pigments and dyes, infrastructure, ceramics and tiles, automobiles, furniture, paints and coatings, bathroom fittings, leather, construction, automotive and mechanical components, and refractories. Vishnu Chemicals Limited was incorporated in 1989 and is headquartered in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3599.68,
-  "pe_ratio": 30.86,
+  "market_cap_cr": 3635.03,
+  "pe_ratio": 31.16,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 170.26,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:22:30.669572",
-  "provider_reported_pb_ratio": 3.14,
-  "statements_retrieved_at": "2026-11-04T23:22:30.669572",
+  "retrieval_time": "2026-11-05T22:23:13.322750",
+  "provider_reported_pb_ratio": 3.17,
+  "statements_retrieved_at": "2026-11-05T22:23:13.322750",
   "retained_fields": []
 }

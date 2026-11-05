@@ -5,8 +5,8 @@
   "industry": "Real Estate Services",
   "business_summary": "Aurum PropTech Limited engages in the business of software development for real estate and other services in India. It operates through Rental, Distribution, Capital, and Others segments. The company provides HelloWorld, a co-living platform for students and young professionals; Nestaway, a home rental platform that offers residences in prime urban locations; and MonkSpaces.Ai, which enables real estate businesses to monetize and manage their rental portfolios. It also offers Aurum Analytica that delivers end-to-end solutions for the real estate lifecycle; Sell.do, a customer relationship management for real estate; Integrow Asset Management, provides investment solutions spanning institutional-quality residential and commercial real estate; PropTech Pulse, a knowledge platform for the real estate; and Aurum KuberX, a home financing AI-powered platform that connects homebuyers, developers and financial institutions. In addition, the company provides marketing, sales automation, and transaction management solutions, as well as TheHouseMonk and TheOfficeMonk, which offers property management solutions. The company was formerly known as Majesco Limited and changed its name to Aurum PropTech Limited in October 2021. Aurum PropTech Limited was incorporated in 2013 and is based in Navi Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2021.65,
-  "pe_ratio": 57.68,
+  "market_cap_cr": 2088.37,
+  "pe_ratio": 60.08,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 116.87,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:22:23.140692",
-  "provider_reported_pb_ratio": 1.79,
-  "statements_retrieved_at": "2026-11-04T22:22:23.140692",
+  "retrieval_time": "2026-11-05T21:20:45.224202",
+  "provider_reported_pb_ratio": 1.85,
+  "statements_retrieved_at": "2026-11-05T21:20:45.224202",
   "retained_fields": []
 }

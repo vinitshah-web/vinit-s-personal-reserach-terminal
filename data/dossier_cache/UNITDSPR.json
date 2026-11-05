@@ -5,8 +5,8 @@
   "industry": "Beverages - Wineries & Distilleries",
   "business_summary": "United Spirits Limited, together with its subsidiaries, manufactures, sells, and distributes alcoholic beverages and other allied spirits in India and internationally. The company offers alcoholic beverages, such as Scotch whisky, Indian made foreign liquor whisky, malts, tequila, brandy, rum, vodka, and gin under the Godawan, McDowell's No.1, Royal Challenge, Royal Challenge American Pride, Signature, Antiquity, Black Dog, Director's Special Black, McDowell's Rum, McDowell's Brandy, and McDowell's X-series brands. It also imports, manufactures, distributes, and sells alcoholic beverages under PIPA, Don Julio, Singleton, Tanquery, Captain Morgan, Johnnie Walker, J&B, Baileys, Lagavulin, Talisker, VAT 69, Black & White, Smirnoff, and Ciroc brands. The company was formerly known as McDowell & Company Limited and changed its name to United Spirits Limited in October 2006. The company was founded in 1826 and is headquartered in Bengaluru, India. United Spirits Limited is a subsidiary of Relay B.V.",
   "business_summary_reason": null,
-  "market_cap_cr": 100778.17,
-  "pe_ratio": 59.89,
+  "market_cap_cr": 99017.23,
+  "pe_ratio": 58.84,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 127.66,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:20:27.687563",
-  "provider_reported_pb_ratio": 11.12,
-  "statements_retrieved_at": "2026-11-04T23:20:27.687563",
+  "retrieval_time": "2026-11-05T22:21:05.753660",
+  "provider_reported_pb_ratio": 10.92,
+  "statements_retrieved_at": "2026-11-05T22:21:05.753660",
   "retained_fields": []
 }

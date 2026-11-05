@@ -5,7 +5,7 @@
   "industry": "Software - Application",
   "business_summary": "SGL Resources Limited, together with its subsidiary, Jyacad Solutions Private Limited, designs, develops, and sells integrated GIS and image processing software solutions in India. The company provides IGiS-GIS & IP desktop, a cartographic and visualization tool for conceptualization, production, dissemination, and analysis of 2D and 3D maps; and IGiS - GIS & IP Enterprise Suite, a geospatial suite to create, analyze, manage, and share geospatial data through the Internet and intranet. It also offers IGiS-Photogrammetry suite, an automated geodesy and photogrammetry tool to process stereo imagery captured from various satellites, aircraft, and drones with and without camera information; IGiS CAD, a tool for various 2D and 3D GIS data conversion and digitization; IGiS 3D Pruthvi, an end-to-end 3D GIS platform for creating, processing, viewing and analysing 3D geospatial data; and IGiS\u0096MDMS (metadata management system) to store, manage, publish, register, and distribute geospatial data collation. In addition, the company provides Survery 360, a geo survey solution; and IGiS extensions for network, tracking, 3D, neural network, hyperspectral, terrain, raster GIS, hydrology, and MET GIS analysts. Its products are used in smart city, defence, land records system, agriculture, tracking platform, and urban information system applications. The company was formerly known as Scanpoint Geomatics Limited and changed its name to SGL Resources Limited in November 2024. SGL Resources Limited was incorporated in 1992 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 53.85,
+  "market_cap_cr": 54.6,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:10:54.971374",
-  "provider_reported_pb_ratio": 0.29,
-  "statements_retrieved_at": "2026-11-04T23:10:54.971374",
+  "retrieval_time": "2026-11-05T22:11:05.651200",
+  "provider_reported_pb_ratio": 0.3,
+  "statements_retrieved_at": "2026-11-05T22:11:05.651200",
   "retained_fields": []
 }

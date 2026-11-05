@@ -6,7 +6,7 @@
   "business_summary": "Amal Ltd manufactures and markets bulk chemicals in India. It offers oleum, sulphuric acid, Sulphur dioxide, and Sulphur trioxide for use in dyestuff, fertilizer, personal care, petrochemical, pharmaceutical, and textile industries. The company was formerly known as Amal Products Limited and changed its name to Amal Ltd in September 2003. Amal Ltd was incorporated in 1974 and is based in Mumbai, India.",
   "business_summary_reason": null,
   "market_cap_cr": null,
-  "pe_ratio": 23.84,
+  "pe_ratio": 24.38,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 97.41,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:19:25.971445",
-  "provider_reported_pb_ratio": 5.9,
-  "statements_retrieved_at": "2026-11-04T22:19:25.971445",
+  "retrieval_time": "2026-11-05T21:17:39.368317",
+  "provider_reported_pb_ratio": 6.03,
+  "statements_retrieved_at": "2026-11-05T21:17:39.368317",
   "retained_fields": []
 }

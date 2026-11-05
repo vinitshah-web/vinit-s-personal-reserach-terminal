@@ -5,8 +5,8 @@
   "industry": "Capital Markets",
   "business_summary": "Nahar Capital and Financial Services Limited operates as a non-deposit-taking, non-banking financial company in India. It operates through two segments: Investment/Financial activities and Real Estate segment. The company invests in various financial securities, including equity, bonds, debentures, commodities, term deposits, stock, and securities of various kinds issued by companies, banks, mutual funds, and other authorities, as well as central, state, municipal, and local bodies. It also invests in equity markets, as well as through portfolio management schemes of asset management companies. In addition, the company provides lending services for short and long term against liquid securities, such as shares, government bonds, gold, property, and other assets. In addition, it is involved in the real estate business, including the purchase and sale of residential and/or commercial land; dealing in real estate; development of land; construction of buildings for commercial and residential; leasing, hiring, or acquiring various real estate assets; and leasing of flats and buildings. Nahar Capital and Financial Services Limited was incorporated in 2006 and is based in Ludhiana, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 379.89,
-  "pe_ratio": 3.19,
+  "market_cap_cr": 383.55,
+  "pe_ratio": 3.22,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 1063.11,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:57:35.115935",
-  "provider_reported_pb_ratio": 0.21,
-  "statements_retrieved_at": "2026-11-04T22:57:35.115935",
+  "retrieval_time": "2026-11-05T21:56:25.885528",
+  "provider_reported_pb_ratio": 0.22,
+  "statements_retrieved_at": "2026-11-05T21:56:25.885528",
   "retained_fields": []
 }

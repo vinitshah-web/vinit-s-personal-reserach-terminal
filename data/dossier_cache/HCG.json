@@ -5,8 +5,8 @@
   "industry": "Medical Care Facilities",
   "business_summary": "HealthCare Global Enterprises Limited provides medical and healthcare services in India and internationally. The company offers cancer diagnostics services, including genomics and molecular diagnostics, digital PET, preventive oncology, physical examination, laboratory tests, home health services, digital pathology, and CTC detection; treatment services, such as medical oncology and haemato-oncology, radiation and surgical oncology, molecular imaging and theranostics, chemotherapy, robotic surgery, actinium and lutetium therapy, immunotherapy, psycho-oncology, targeted drug therapy, bone marrow transplant, pediatric oncology, organ preservation and reconstructive surgery, endocrine therapy, and liver transplant; and post care services, including patient care, psychological support, nutrition, multidisciplinary rehabilitation, and genetic counselling. It also provides cancer screening, interventional radiology, MRI, nephrology, clinical trial, hormone therapy, hematology, CAR T cell, yoga therapy, bone marrow transplant, organ-specific oncology, radiation oncology, liver transplantation, radiology and imaging, clinical laboratory, day care chemotherapy center, home health care, preventive and psycho oncology, translational and nuclear medicine, oncodermatology, paediatric and gynaecologic oncology, anaesthesiology, and orthopaedic oncology. In addition, the company offers gastrointestinal and thoracic oncology, breast surgical oncology, and pain and palliative services. Further, it operates multi-specialty hospitals under the HCG brand that offers inpatient and outpatient treatments with specialties in cardiology, neurology, orthopaedics, gastroenterology, urology, internal medicine and pulmonary, and critical care; and provides oncology diagnostics services, including biomarkers, translational research, and clinical research services under the Triesta Sciences brand. HealthCare Global Enterprises Limited was founded in 1989 and is headquartered in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 9276.89,
-  "pe_ratio": 400.87,
+  "market_cap_cr": 9120.87,
+  "pe_ratio": 394.13,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 92.07,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:41:12.619134",
-  "provider_reported_pb_ratio": 6.75,
-  "statements_retrieved_at": "2026-11-04T22:41:12.619134",
+  "retrieval_time": "2026-11-05T21:39:33.043542",
+  "provider_reported_pb_ratio": 6.64,
+  "statements_retrieved_at": "2026-11-05T21:39:33.043542",
   "retained_fields": []
 }

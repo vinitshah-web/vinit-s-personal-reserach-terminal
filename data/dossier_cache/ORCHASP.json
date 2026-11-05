@@ -5,8 +5,8 @@
   "industry": "Software - Application",
   "business_summary": "Orchasp Limited provides computer programming, consultancy, and related services in India. The company provides application development and automation services, cloud enablement, cybersecurity, artificial intelligence, blockchain in healthcare, internet of things, business process services, mobile application, support and managed services, and staffing augmentation services. It also offers transaction processing, data management, integration with third party tools and applications, independent testing and validation, network and surveillance, and IT Support and analytics. It serves health care, telecom, manufacturing, engineering, energy, retail, and railways industries. The company was formerly known as Cybermate Infotek Limited. Orchasp Limited was incorporated in 1994 and is based in Secunderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 36.72,
-  "pe_ratio": 35.33,
+  "market_cap_cr": 36.03,
+  "pe_ratio": 34.67,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 3.27,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:00:52.187785",
+  "retrieval_time": "2026-11-05T21:59:48.447140",
   "provider_reported_pb_ratio": 0.32,
-  "statements_retrieved_at": "2026-11-04T23:00:52.187785",
+  "statements_retrieved_at": "2026-11-05T21:59:48.447140",
   "retained_fields": []
 }

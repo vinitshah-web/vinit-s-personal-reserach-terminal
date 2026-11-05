@@ -5,7 +5,7 @@
   "industry": "Biotechnology",
   "business_summary": "Lyka Labs Limited, a pharmaceutical company, develops, manufactures, and markets pharmaceutical formulations for human and animal healthcare in India and internationally. It offers injectable critical care solutions, anti-infectives, antifungals, anti-ulcer therapies, oncology support, cardiovascular therapies, and women's healthcare solutions such as gonadotropins, hormonal therapies, and haematinic formulations. The company also develops pharmaceutical and nutritional solutions for livestock, poultry, equine, and companion animals. In addition, it engages in sterile injectable manufacturing, advanced lyophilization technology, liposomal drug delivery, quality assurance and quality control systems, and stability testing and validation services. The company offers its products in various forms, including lyophilized, liquid, and dry powder injections, as well as ointments, creams, and lotions. It also exports its products. The company was incorporated in 1976 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 273.21,
+  "market_cap_cr": 278.67,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:52:21.650948",
-  "provider_reported_pb_ratio": 2.92,
-  "statements_retrieved_at": "2026-11-04T22:52:21.650948",
+  "retrieval_time": "2026-11-05T21:51:02.058966",
+  "provider_reported_pb_ratio": 2.98,
+  "statements_retrieved_at": "2026-11-05T21:51:02.058966",
   "retained_fields": []
 }

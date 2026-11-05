@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Parnax Lab Limited engages in the manufacture and export of pharmaceutical formulations in India and internationally. The company offers pharmaceutical products in the form of liquids, ointments, gels, creams, tablets, and capsules; cosmetic; herbal; and nutraceutical products. It also provides oral formulations, such as cough expectorants, antacids, anti-histamines, multi-vitamins, enzyme preparations, pediatric formulations, formulations for geriatrics, highly viscous products, and suspensions. In addition, the company provides drug identification and development services; in- and out-licensing services; and contract research and manufacturing services. The company was formerly known as Krishna-Deep Trade & Investments Limited and changed its name to Parnax Lab Limited in April 2012. Parnax Lab Limited was incorporated in 1982 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 119.99,
-  "pe_ratio": 13.41,
+  "market_cap_cr": 119.45,
+  "pe_ratio": 13.35,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 83.05,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:01:51.786045",
-  "provider_reported_pb_ratio": 1.26,
-  "statements_retrieved_at": "2026-11-04T23:01:51.786045",
+  "retrieval_time": "2026-11-05T22:00:53.329155",
+  "provider_reported_pb_ratio": 1.25,
+  "statements_retrieved_at": "2026-11-05T22:00:53.329155",
   "retained_fields": []
 }

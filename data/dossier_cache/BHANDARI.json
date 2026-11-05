@@ -5,8 +5,8 @@
   "industry": "Apparel Manufacturing",
   "business_summary": "Bhandari Hosiery Exports Limited operates as a textile and garment manufacturing company in India. The company offers knitted fabrics kora and dyed; and knitted hosiery garments, such as t-shirts, pullovers, sweatshirts, bermudas, polo shirts, track suits, pajamas, lowers, ladies knitted tops with embroidery and prints, etc. It also manufactures, processes, and trades in dyed and non-dyed fabrics. In addition, the company provides natural and synthetic circular knitted fabrics; open and tubular width fabrics; and specialised finishes comprising teflon, stain resistance, viscose, and lycra. Further, it offers tees and leggings for women; t-shirts, sweatshirts, pullovers, and polos for men; and t-shirts, sweatshirts, pullovers, polos, and joggers for kids. The company also exports its products. The company was incorporated in 1993 and is based in Ludhiana, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 87.57,
-  "pe_ratio": 10.12,
+  "market_cap_cr": 95.23,
+  "pe_ratio": 11.0,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 5.83,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:25:01.822147",
-  "provider_reported_pb_ratio": 0.45,
-  "statements_retrieved_at": "2026-11-04T22:25:01.822147",
+  "retrieval_time": "2026-11-05T21:23:27.023239",
+  "provider_reported_pb_ratio": 0.49,
+  "statements_retrieved_at": "2026-11-05T21:23:27.023239",
   "retained_fields": []
 }

@@ -5,7 +5,7 @@
   "industry": "Chemicals",
   "business_summary": "Agastya Energy and Infrastructure Limited manufactures and sells cuprous chloride, cupric chloride, and copper sulphate in India and internationally. It also provides cupric chloride anhydrous and dihydrate, and copper phthalocyanine blue. The company's products are used in dyes and pigments, paint, pharmaceuticals, electroplating, metal extraction and ink, carbon paper, and PVC pipe coating industries. Agastya Energy and Infrastructure Limited was formerly known as Sanginita Chemicals Limited and changed its name to Agastya Energy and Infrastructure Limited in August 2026. The company was founded in 2002 and is based in Gandhinagar, India. Agastya Energy and Infrastructure Limited operates as a subsidiary of B N G Investment LLC.",
   "business_summary_reason": null,
-  "market_cap_cr": 131.45,
+  "market_cap_cr": 138.0,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:18:08.280844",
-  "provider_reported_pb_ratio": 2.83,
-  "statements_retrieved_at": "2026-11-04T22:18:08.280844",
+  "retrieval_time": "2026-11-05T21:16:21.121172",
+  "provider_reported_pb_ratio": 2.97,
+  "statements_retrieved_at": "2026-11-05T21:16:21.121172",
   "retained_fields": []
 }

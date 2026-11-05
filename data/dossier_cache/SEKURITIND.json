@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Saint-Gobain Sekurit India Limited manufactures and sells laminated and tempered automotive glass in India. It also serves original equipment manufacturers, including 3-wheelers, and passenger and commercial vehicles, as well as replacement markets. The company was incorporated in 1973 and is based in Pune, India. Saint-Gobain Sekurit India Limited is a subsidiary of Compagnie de Saint-Gobain.",
   "business_summary_reason": null,
-  "market_cap_cr": 961.62,
-  "pe_ratio": 21.63,
+  "market_cap_cr": 984.21,
+  "pe_ratio": 22.14,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 26.69,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:10:20.254523",
-  "provider_reported_pb_ratio": 3.95,
-  "statements_retrieved_at": "2026-11-04T23:10:20.254523",
+  "retrieval_time": "2026-11-05T22:10:17.457924",
+  "provider_reported_pb_ratio": 4.05,
+  "statements_retrieved_at": "2026-11-05T22:10:17.457924",
   "retained_fields": []
 }

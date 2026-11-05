@@ -5,8 +5,8 @@
   "industry": "Education & Training Services",
   "business_summary": "Crizac Limited provides a technology-enabled B2B international education services platform in India and internationally. It offers student recruitment solutions to global institutions of higher education in the United Kingdom, Canada, Republic of Ireland, Australia, New Zealand, and the United Arab Emirates. The company was incorporated in 2011 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2747.58,
-  "pe_ratio": 13.15,
+  "market_cap_cr": 2817.04,
+  "pe_ratio": 13.48,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 38.21,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:29:49.224188",
-  "provider_reported_pb_ratio": 4.11,
-  "statements_retrieved_at": "2026-11-04T22:29:49.224188",
+  "retrieval_time": "2026-11-05T21:28:13.652680",
+  "provider_reported_pb_ratio": 4.21,
+  "statements_retrieved_at": "2026-11-05T21:28:13.652680",
   "retained_fields": []
 }

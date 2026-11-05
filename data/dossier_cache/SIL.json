@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Standard Industries Limited, together with its subsidiary, engages in trading of textiles and chemical products in India. It operates through Property Division, Trading, Manufacturing, and Others segments. The company trades in cotton towels, bed sheets, interlining fabrics, cotton and blended dhotis, and cotton/PC blended and poly viscose suiting products; and cotton, PC poplins and shirting products, and cotton rubia, as well as ready to stitch PC blended and ready to stitch punjabi suits. It is also involved in the property business; and manufactures common salt. The company was formerly known as Standard Mills Company Limited and changed its name to Standard Industries Limited in October 1989. Standard Industries Limited was incorporated in 1892 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 98.62,
-  "pe_ratio": 1.59,
+  "market_cap_cr": 98.17,
+  "pe_ratio": 1.58,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 17.89,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:12:37.121506",
-  "provider_reported_pb_ratio": 0.86,
-  "statements_retrieved_at": "2026-11-04T23:12:37.121506",
+  "retrieval_time": "2026-11-05T22:12:57.951470",
+  "provider_reported_pb_ratio": 0.85,
+  "statements_retrieved_at": "2026-11-05T22:12:57.951470",
   "retained_fields": []
 }

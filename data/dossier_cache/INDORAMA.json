@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Indo Rama Synthetics (India) Limited manufactures and trades in polyester products in India, Turkey, Nepal, Mexico, and internationally. It provides various polyester products, including polyester staple fiber, partially oriented yarn, polyester filament yarn, draw texturized yarn, fully drawn yarn, and polyester chips. The company is also involved in the trading of spun yarn and operations of converting flakes into chips. Its products are used in a range of product applications, such as apparel and sportswear, home furnishings and textiles, hygiene and non-woven, automotive, and bottle for water, beverages, etc. The company was incorporated in 1986 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2034.59,
-  "pe_ratio": 9.64,
+  "market_cap_cr": 2057.31,
+  "pe_ratio": 9.75,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 25.19,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:44:31.911684",
-  "provider_reported_pb_ratio": 3.09,
-  "statements_retrieved_at": "2026-11-04T22:44:31.911684",
+  "retrieval_time": "2026-11-05T21:43:03.658229",
+  "provider_reported_pb_ratio": 3.13,
+  "statements_retrieved_at": "2026-11-05T21:43:03.658229",
   "retained_fields": []
 }

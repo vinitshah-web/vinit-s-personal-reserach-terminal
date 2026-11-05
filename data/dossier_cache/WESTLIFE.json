@@ -5,14 +5,14 @@
   "industry": "Restaurants",
   "business_summary": "Westlife Foodworld Limited, through its subsidiary, Hardcastle Restaurants Private Limited, owns and operates a chain of McDonald's restaurants in Western and Southern India. The company operates through various restaurants, such as freestanding, food court, in-store, and mall stores. It also offers brand extensions, including McCafe, McDelivery, McBreakfast, and Dessert Kiosks. The company was formerly known as Westlife Development Limited and changed its name to Westlife Foodworld Limited in November 2022. Westlife Foodworld Limited was incorporated in 1982 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 9794.89,
-  "pe_ratio": 4854.23,
+  "market_cap_cr": 10001.33,
+  "pe_ratio": 4956.54,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 38.8,
-  "dividend_yield_pct": 0.0661,
+  "dividend_yield_pct": 0.0634,
   "shares_outstanding_cr": 15.5216,
-  "fifty_two_week_high": 636.0,
+  "fifty_two_week_high": 661.0,
   "fifty_two_week_low": 398.4,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:23:39.469880",
-  "provider_reported_pb_ratio": 16.26,
-  "statements_retrieved_at": "2026-11-04T23:23:39.469880",
+  "retrieval_time": "2026-11-05T22:24:26.762057",
+  "provider_reported_pb_ratio": 16.61,
+  "statements_retrieved_at": "2026-11-05T22:24:26.762057",
   "retained_fields": []
 }

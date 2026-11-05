@@ -5,8 +5,8 @@
   "industry": "Packaged Foods",
   "business_summary": "Britannia Industries Limited engages in manufacturing, trading, and sale of various food products in India and internationally. The company offers biscuits under the Good Day, Marie Gold, NutriChoice, Milk Bikis, Tiger, 50-50, Jim Jam, Britannia Bourbon, Little Hearts, Treat, Pure Magic, Nice Time, and Biscafe brand names; cakes under the Muffills, Fudge It, Gobbles, Layerz, Tiffin Fun, Rollyo, and Nut & Raisin Romance Cake brand names; rusks under the Toastea brand; snacks under the Treat Croissant, Treat Creme Wafers; and Snacks under Time Pass brand name. It also offers dairy products, such as ghee, cheese, and dairy whitener; milkshakes, lassi, and flavored milk under Winkin' Cow brand; gourmet, wheat flour, and white breads under Britannia brand; paneer and dahi under Come Alive brand, and nutritious bars under Be You Protein Bars brand name. The company exports its products to approximately 80 countries worldwide. Britannia Industries Limited was founded in 1892 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 119140.67,
-  "pe_ratio": 45.75,
+  "market_cap_cr": 119959.62,
+  "pe_ratio": 46.07,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 212.01,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:26:29.436282",
-  "provider_reported_pb_ratio": 23.33,
-  "statements_retrieved_at": "2026-11-04T22:26:29.436282",
+  "retrieval_time": "2026-11-05T21:24:54.678359",
+  "provider_reported_pb_ratio": 23.49,
+  "statements_retrieved_at": "2026-11-05T21:24:54.678359",
   "retained_fields": []
 }

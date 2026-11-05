@@ -5,8 +5,8 @@
   "industry": "Confectioners",
   "business_summary": "Triveni Engineering & Industries Limited engages in the sugar and allied businesses, and engineering businesses in India and internationally. The company is involved in the production of refined sugar, multi-grade white crystal sugar, pharmaceutical-grade sugar, potable alcohol, fuel-ethanol, and power from bagasse; production of alcohol/ethanol using molasses; sale of surplus molasses and bagasse; operation of distilleries; and production of ethanol, extra neutral alcohol, and potable liquor. It also engages in the manufacture of low-speed gears and gear boxes covering supply to OEMs, after-market services, and retrofitment of gearboxes; EPC contracts, equipment supply, hybrid annuity model projects, and operations and maintenance contracts; operation of fuel stations; and retail of diesel/petrol. In addition, the company provides steam and gas turbines, centrifugal compressors, reciprocating compressors, centrifugal pumps, fans and blowers, and hydel turbines; propulsion gearboxes, propulsion shafting, fin stabilisers, special application pumps; water and wastewater treatment and network management, municipal wastewater/sewage/common effluent treatment plant, desalination for seawater and brackish water, recycle and reuse, and zero liquid discharge; and operations and maintenance, annual maintenance contracts, product and process audits, health check-ups, upgradation of existing plants, spares and service, and on-site support services. It serves refineries, coal, sand processing plant, non-ferrous industries, oil and gas, thermal power plants, steel plants, sugar and allied industries, and desalination industries. Triveni Engineering & Industries Limited was incorporated in 1932 and is headquartered in Noida, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 5412.34,
-  "pe_ratio": 15.49,
+  "market_cap_cr": 5358.13,
+  "pe_ratio": 15.33,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 151.72,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:19:28.167920",
-  "provider_reported_pb_ratio": 1.62,
-  "statements_retrieved_at": "2026-11-04T23:19:28.167920",
+  "retrieval_time": "2026-11-05T22:20:05.093702",
+  "provider_reported_pb_ratio": 1.6,
+  "statements_retrieved_at": "2026-11-05T22:20:05.093702",
   "retained_fields": []
 }

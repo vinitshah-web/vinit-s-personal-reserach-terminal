@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "Shah Alloys Limited engages in the manufacture and sale of stainless steel, alloy and special steel, carbon/mild steel, and armor steel products in India and internationally. The company also offers hot rolled coils, sheets, and plates; cold rolled coils and sheets; hot rolled round and flat bars; bright/peeled bars; angles; and beams. In addition, it provides chrome molybdenum, abrasion/wear resistant, quenched and tempered, high tensile, corrosion resistant, tool, pressure vessel, and other alloy steel products. The company also exports its products. Shah Alloys Limited was incorporated in 1990 and is based in Gandhinagar, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 141.04,
-  "pe_ratio": 3.38,
+  "market_cap_cr": 140.52,
+  "pe_ratio": 3.37,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 56.78,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:11:00.971509",
+  "retrieval_time": "2026-11-05T22:11:12.354052",
   "provider_reported_pb_ratio": 1.25,
-  "statements_retrieved_at": "2026-11-04T23:11:00.971509",
+  "statements_retrieved_at": "2026-11-05T22:11:12.354052",
   "retained_fields": []
 }

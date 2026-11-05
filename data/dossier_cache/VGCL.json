@@ -5,8 +5,8 @@
   "industry": "Capital Markets",
   "business_summary": "Vibrant Global Capital Limited, a non-banking financial company, engages in lending and investing activities in India. The company operates through Capital Market, Trading, Manufacturing, and Other segments. It also manufactures and sells iodized and edible salt; and trades steel products and polyester films. The company was formerly known as Vibrant Capital & Finance Limited and changed its name to Vibrant Global Capital Limited in June 2010. Vibrant Global Capital Limited was incorporated in 1995 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 142.6,
-  "pe_ratio": 5.23,
+  "market_cap_cr": 147.59,
+  "pe_ratio": 5.41,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 76.69,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:21:40.441056",
-  "provider_reported_pb_ratio": 0.81,
-  "statements_retrieved_at": "2026-11-04T23:21:40.441056",
+  "retrieval_time": "2026-11-05T22:22:20.883349",
+  "provider_reported_pb_ratio": 0.84,
+  "statements_retrieved_at": "2026-11-05T22:22:20.883349",
   "retained_fields": []
 }

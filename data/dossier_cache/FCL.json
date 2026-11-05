@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Fineotex Chemical Limited manufactures and sells textile chemicals, auxiliaries, and specialty chemicals in India, Malaysia, and the United States. The company provides textile chemicals for pre-treatment, dyeing, printing, and finishing processes, as well as enzymes; water treatment chemicals; and oilfield chemicals, such as drilling fluids, cementing fluids, production chemicals, and fracturing solutions. It also offers home and personal care chemical products, including disinfection, housekeeping, kitchen and personal care, and laundry products. The company's products are used in textile, home care, hygiene, mining, garment, water treatment, leather, construction, paint, agrochemicals, adhesives, oil and gas sectors. It also exports its products. Fineotex Chemical Limited was founded in 1979 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 6220.76,
-  "pe_ratio": 41.73,
+  "market_cap_cr": 6237.07,
+  "pe_ratio": 41.84,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 10.61,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:35:44.408793",
-  "provider_reported_pb_ratio": 5.04,
-  "statements_retrieved_at": "2026-11-04T22:35:44.408793",
+  "retrieval_time": "2026-11-05T21:34:00.040464",
+  "provider_reported_pb_ratio": 5.05,
+  "statements_retrieved_at": "2026-11-05T21:34:00.040464",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Medical Care Facilities",
   "business_summary": "Rainbow Children's Medicare Limited operates a multi-specialty pediatric, obstetrics, and gynecology hospital chain in India. The company offers medical and healthcare services to children and women. It also provides pediatric services under brand Rainbow Children's Hospital which include newborn and pediatric intensive care; pediatric multi-specialty services; and pediatric quaternary care, such as multi-organ transplantation. In addition, the company offers women care services under Birthright brand that comprise perinatal care services, such as routine and complex obstetric care, multi-disciplinary fetal care, perinatal genetic and fertility support, and a range of gynecology treatments, as well as operates private pediatric DNB (Diplomate of National Board) training program offering postgraduate and fellowship opportunities to train future healthcare professionals. Rainbow Children's Medicare Limited was incorporated in 1998 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 12944.95,
-  "pe_ratio": 44.43,
+  "market_cap_cr": 12766.91,
+  "pe_ratio": 43.82,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 169.12,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:05:28.929146",
-  "provider_reported_pb_ratio": 7.57,
-  "statements_retrieved_at": "2026-11-04T23:05:28.929146",
+  "retrieval_time": "2026-11-05T22:04:41.687743",
+  "provider_reported_pb_ratio": 7.46,
+  "statements_retrieved_at": "2026-11-05T22:04:41.687743",
   "retained_fields": []
 }

@@ -5,14 +5,14 @@
   "industry": "Agricultural Inputs",
   "business_summary": "Krishana Phoschem Limited engages in the manufacturing, Distribution, sales, and marketing of fertilizers and chemicals under the Annadata and Bharat brands in India. It provides single super phosphate (SSP), benefited rock phosphate, di-ammonium phosphate (DAP) / nitrogen, phosphorus, and potassium (NPK), sulphuric acid, phosphoric acid, imported nitrogen, phosphorus, and potassium (NPK). It sells its products to retailers, distributors, and traders. The company was incorporated in 2004 and is based in Bhilwara, India. Krishana Phoschem Limited is a subsidiary of Ostwal Phoschem (India) Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 7428.28,
-  "pe_ratio": 46.75,
+  "market_cap_cr": 7588.41,
+  "pe_ratio": 47.76,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 18.14,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 30.9138,
-  "fifty_two_week_high": 242.33,
+  "fifty_two_week_high": 247.0,
   "fifty_two_week_low": 90.86,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:49:54.005236",
-  "provider_reported_pb_ratio": 13.25,
-  "statements_retrieved_at": "2026-11-04T22:49:54.005236",
+  "retrieval_time": "2026-11-05T21:48:31.786292",
+  "provider_reported_pb_ratio": 13.53,
+  "statements_retrieved_at": "2026-11-05T21:48:31.786292",
   "retained_fields": []
 }

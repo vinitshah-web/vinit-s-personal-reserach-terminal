@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "KIOCL Limited engages in the iron ore mining, beneficiation, and production of pellets in India. The company operates through two segments, Pellet and Pig Iron. It produces and sells iron ore pellets, pig iron, and iron ore fines. The company also provides operation and maintenance services, as well as mineral exploration services. It serves steel and metallurgy, automotive and transportation, mining and mineral resources, infrastructure and construction, and energy and power industries. The company was formerly known as Kudremukh Iron Ore Company Limited. KIOCL Limited was incorporated in 1976 and is headquartered in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 20651.38,
-  "pe_ratio": 280.83,
+  "market_cap_cr": 20642.27,
+  "pe_ratio": 280.7,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 28.57,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:49:00.689176",
+  "retrieval_time": "2026-11-05T21:47:36.968816",
   "provider_reported_pb_ratio": 11.89,
-  "statements_retrieved_at": "2026-11-04T22:49:00.689176",
+  "statements_retrieved_at": "2026-11-05T21:47:36.968816",
   "retained_fields": []
 }

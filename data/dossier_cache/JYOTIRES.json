@@ -5,14 +5,14 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Jyoti Resins and Adhesives Limited manufactures and sells synthetic wood adhesives and related products under the EURO7000 brand in India. The company offers EURO Ultra 5in1, Extreme 3 Hi Strong, EURO WP 2in1, PVC glue, and Euro Extra. Its products are used in the fast-moving consumer market. The company sells its products to carpenters through dealers. Jyoti Resins and Adhesives Limited was incorporated in 1993 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1050.02,
-  "pe_ratio": 16.19,
+  "market_cap_cr": 1061.43,
+  "pe_ratio": 16.37,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 244.47,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.2007,
-  "fifty_two_week_high": 911.0,
+  "fifty_two_week_high": 914.0,
   "fifty_two_week_low": 786.45,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:47:47.513960",
-  "provider_reported_pb_ratio": 3.58,
-  "statements_retrieved_at": "2026-11-04T22:47:47.513960",
+  "retrieval_time": "2026-11-05T21:46:21.185950",
+  "provider_reported_pb_ratio": 3.62,
+  "statements_retrieved_at": "2026-11-05T21:46:21.185950",
   "retained_fields": []
 }

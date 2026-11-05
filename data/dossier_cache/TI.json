@@ -5,7 +5,7 @@
   "industry": "Beverages - Wineries & Distilleries",
   "business_summary": "Tilaknagar Industries Ltd. engages in the manufacture and sale of Indian made foreign liquor and its related products in India. The company offers brandy under the Mansion House, Monarch Legacy, and Courier Napoleon brands; rum under the Madiraa brand; whisky under the Mansion House, Imperial Blue, Seven Islands, and Senate Royale brands; and gin under the Blue Lagoon brand, as well as extra neutral alcohol and cocktails. It also exports its products in Africa, the Middle East, East and South-East Asia, North America, and Europe. Tilaknagar Industries Ltd. was incorporated in 1933 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 11740.45,
+  "market_cap_cr": 12073.87,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:18:21.893724",
-  "provider_reported_pb_ratio": 3.88,
-  "statements_retrieved_at": "2026-11-04T23:18:21.893724",
+  "retrieval_time": "2026-11-05T22:18:57.965260",
+  "provider_reported_pb_ratio": 3.99,
+  "statements_retrieved_at": "2026-11-05T22:18:57.965260",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Chemicals",
   "business_summary": "Transpek Industry Limited manufactures and sells chemical products in India. The company offers 2, 4, 6 trimethyl benzoyl chloride, 2-chloroethylamine hydrochloride solution, 2-ethylhexanoyl chloride, 2-methoxyethyl chloride, 2-propoxyethyl chloride, 4-chlorobutyryl chloride, cocoyl chloride, diethylene glycol dichloride, isobutyryl chloride, isononanoyl chloride, isophthaloyl chloride, and lauroyl chloride. It also provides m-nitrobenzoyl chloride, methoxyacetyl chloride, n-butyryl chloride, n-decanoyl chloride, n-octyl chloride, n-valeroyl chloride, neodecanoyl chloride, o-toluoyl chloride, octanoyl chloride, p-nitrobenzoyl chloride, pivaloyl chloride, propargyl chloride solution, sulphur dichloride, sulphur monochloride, terephthaloyl chloride, triethyleneglycol dichloride, and thionyl chloride. It serves agro, dyes, pharmaceutical, polymer, chemicals, and surfactants industries. The company also exports its products. Transpek Industry Limited was incorporated in 1965 and is headquartered in Vadodara, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 702.33,
-  "pe_ratio": 18.01,
+  "market_cap_cr": 704.4,
+  "pe_ratio": 18.07,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 1373.97,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:19:10.720336",
+  "retrieval_time": "2026-11-05T22:19:47.390978",
   "provider_reported_pb_ratio": 0.92,
-  "statements_retrieved_at": "2026-11-04T23:19:10.720336",
+  "statements_retrieved_at": "2026-11-05T22:19:47.390978",
   "retained_fields": []
 }

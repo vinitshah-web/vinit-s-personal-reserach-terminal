@@ -5,8 +5,8 @@
   "industry": "Packaged Foods",
   "business_summary": "HMA Agro Industries Limited manufactures and exports frozen buffalo meat and related products. It offers frozen fish seafood, rice, pet food, by-product, and leather, as well as fruits and vegetables. The company offers products under the Black Gold, Kamil, Fresh Gold, and HMA Green Gold brands. It operates in India, Vietnam, Malaysia, Uzbekistan, Saudi Arabia, Indonesia, Hong Kong, Egypt, and internationally. HMA Agro Industries Limited was incorporated in 2008 and is based in Agra, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1425.69,
-  "pe_ratio": 6.65,
+  "market_cap_cr": 1367.1,
+  "pe_ratio": 6.38,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 18.79,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:42:42.643564",
-  "provider_reported_pb_ratio": 1.52,
-  "statements_retrieved_at": "2026-11-04T22:42:42.643564",
+  "retrieval_time": "2026-11-05T21:41:12.283762",
+  "provider_reported_pb_ratio": 1.45,
+  "statements_retrieved_at": "2026-11-05T21:41:12.283762",
   "retained_fields": []
 }

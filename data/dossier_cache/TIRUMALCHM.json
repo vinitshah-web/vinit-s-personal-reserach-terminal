@@ -5,7 +5,7 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Thirumalai Chemicals Limited, together with its subsidiaries, manufactures and sells organic chemicals in India and internationally. The company offers phthalic anhydride, diethyl phthalate, malic acid, fumaric acid, and fine chemicals. It serves the food and beverages, pharmaceuticals, animal nutrition, fragrances, cosmetics, resins, industrial formulations, plastics, and paints industries. The company was founded in 1944 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1510.53,
+  "market_cap_cr": 1454.83,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:18:38.901223",
-  "provider_reported_pb_ratio": 0.97,
-  "statements_retrieved_at": "2026-11-04T23:18:38.901223",
+  "retrieval_time": "2026-11-05T22:19:15.483361",
+  "provider_reported_pb_ratio": 0.93,
+  "statements_retrieved_at": "2026-11-05T22:19:15.483361",
   "retained_fields": []
 }

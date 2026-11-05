@@ -5,8 +5,8 @@
   "industry": "Communication Equipment",
   "business_summary": "Paramount Communications Limited, together with its subsidiaries, engages in the manufacture and sale of wires and cables in India. The company provides power cables, including high tension and low-tension power and aerial bunch, screened and unscreened cables, control cables, instrumentation cables, and certified cables for housing and renewables; railways cables comprising signaling, railway power, and axle counter cables; and telecom cables, such as optical fiber, jelly filled, buried service wire, fiber to home, switched board, and CATV cables, as well as jumper wires. It also offers special cables, which include PV solar, PTFE, fire survival cables, cables for electric vehicle battery charging stations, thermocouple, covered conductors, medium voltage covered conductors, and HTLS conductor; and domestic wires and cables, including building wires, multicore, submersible, coaxial and LAN cables. In addition, the company provides turnkey services, such as OPGW and submarine cable installation and repair; EPC services; telecom consultancy and turnkey; and power and railway turnkey projects. It serves power, solar & renewable energy, oil & gas, data centers, industrial and infrastructure projects, defence, space, construction, railways, and telecom sectors. The company also exports its products. Paramount Communications Limited was founded in 1955 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2111.02,
-  "pe_ratio": 28.05,
+  "market_cap_cr": 2235.05,
+  "pe_ratio": 29.7,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 28.11,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:01:41.147830",
-  "provider_reported_pb_ratio": 2.29,
-  "statements_retrieved_at": "2026-11-04T23:01:41.147830",
+  "retrieval_time": "2026-11-05T22:00:41.837488",
+  "provider_reported_pb_ratio": 2.43,
+  "statements_retrieved_at": "2026-11-05T22:00:41.837488",
   "retained_fields": []
 }

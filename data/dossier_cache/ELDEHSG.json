@@ -5,8 +5,8 @@
   "industry": "Real Estate Services",
   "business_summary": "Eldeco Housing and Industries Limited develops real estate properties in India. The company is involved in construction, development, promotion, and sale of townships, residential communities, commercial complexes, shopping malls, and industrial parks, as well as developed plots. Eldeco Housing and Industries Limited was incorporated in 1985 and is based in Lucknow, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 779.07,
-  "pe_ratio": 20.92,
+  "market_cap_cr": 802.72,
+  "pe_ratio": 21.56,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 406.47,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:33:47.179335",
-  "provider_reported_pb_ratio": 1.95,
-  "statements_retrieved_at": "2026-11-04T22:33:47.179335",
+  "retrieval_time": "2026-11-05T21:32:01.501969",
+  "provider_reported_pb_ratio": 2.01,
+  "statements_retrieved_at": "2026-11-05T21:32:01.501969",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Medical Instruments & Supplies",
   "business_summary": "Tarsons Products Limited manufactures and trades in scientific plastic labware products in India and internationally. The company offers assay plates, biohazard and safetyware, bioprocessing solutions, bottles and carboys, boxes and racks, cell culture ware, centrifuge ware, clamps and stands, clinical and microbiology products, cryoware, desiccators, tubings and connectors, filtration products, general labware, genomics and PCR consumables, laboratory equipment, laboratory utilities, liquid handling consumables, liquid handling reusables, magnetic stirrer bars, PP storage plates, sampling aids, vials and tubes, and volumetric reusables. Its products are used in molecular biology, cell culture, genomics, proteomics, and immunology. Tarsons Products Limited was incorporated in 1983 and is headquartered in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1655.25,
-  "pe_ratio": 148.85,
+  "market_cap_cr": 1694.09,
+  "pe_ratio": 152.34,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 119.92,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:17:04.363111",
-  "provider_reported_pb_ratio": 2.59,
-  "statements_retrieved_at": "2026-11-04T23:17:04.363111",
+  "retrieval_time": "2026-11-05T22:17:38.793642",
+  "provider_reported_pb_ratio": 2.66,
+  "statements_retrieved_at": "2026-11-05T22:17:38.793642",
   "retained_fields": []
 }

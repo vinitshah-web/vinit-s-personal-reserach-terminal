@@ -5,8 +5,8 @@
   "industry": "Apparel Manufacturing",
   "business_summary": "SBC Exports Limited manufactures and sells hosiery fabrics and garments in India and internationally. The company operates through three segments: Garments Manufacturing; Information Technology Services; and Travel and Tour Operations. It offers T-shirts, denims, sweatshirts, trousers, jackets, leggings, etc. under the SBC DESIGN+, F-ROUTE, IEDEE, FEMAS FASHIONS, FEMAS LINGERIE'S, and FEMAS JEANS brands for ladies, men, and kids; and wool and silk carpets. The company also provides e-governance, web and software development, scanning and digitization, manpower supply, and system integration services, as well as IT solutions. In addition, it organizes adventure, cultural, religious tours, hill stations, and wildlife tours; and offers travel planning, itinerary design, hotel booking, and ticket reservation services, as well as transport facilities and holiday packages. The company was founded in 1991 and is headquartered in Mirzapur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3198.09,
-  "pe_ratio": 79.01,
+  "market_cap_cr": 3180.47,
+  "pe_ratio": 78.58,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 2.12,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:09:36.565379",
-  "provider_reported_pb_ratio": 31.75,
-  "statements_retrieved_at": "2026-11-04T23:09:36.565379",
+  "retrieval_time": "2026-11-05T22:09:24.638366",
+  "provider_reported_pb_ratio": 31.58,
+  "statements_retrieved_at": "2026-11-05T22:09:24.638366",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Packaged Foods",
   "business_summary": "Ganges Securities Limited, through its subsidiaries, engages in the manufacture and sale of tea and other related agricultural produce in India. It also invests and deals in securities and in immovable properties. The company was incorporated in 2015 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 113.57,
-  "pe_ratio": 39.28,
+  "market_cap_cr": 117.42,
+  "pe_ratio": 40.62,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 539.67,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:37:07.846131",
-  "provider_reported_pb_ratio": 0.21,
-  "statements_retrieved_at": "2026-11-04T22:37:07.846131",
+  "retrieval_time": "2026-11-05T21:35:25.618766",
+  "provider_reported_pb_ratio": 0.22,
+  "statements_retrieved_at": "2026-11-05T21:35:25.618766",
   "retained_fields": []
 }

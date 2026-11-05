@@ -5,7 +5,7 @@
   "industry": "Specialty Business Services",
   "business_summary": "CMS Info Systems Limited, together with its subsidiaries, provides cash management and managed services in India. It operates in three segments: Cash Management Services, Managed Services, and Card. The Cash Management Services segment offers ATM cash management services, retail cash management services, cash in transit services for banks, and other related services. Its Managed Services segment includes banking automation product deployment and AMC, brown label ATMs, and managed services for banks, as well as software solutions, such as multi-vendor software and automation solutions and remote monitoring technology solutions. The Card segment engages in trading in card and card personalization services. The company was incorporated in 2008 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3477.06,
+  "market_cap_cr": 3478.66,
   "pe_ratio": 12.27,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:28:43.124750",
+  "retrieval_time": "2026-11-05T21:27:08.699561",
   "provider_reported_pb_ratio": 1.47,
-  "statements_retrieved_at": "2026-11-04T22:28:43.124750",
+  "statements_retrieved_at": "2026-11-05T21:27:08.699561",
   "retained_fields": []
 }

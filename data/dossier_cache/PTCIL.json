@@ -5,8 +5,8 @@
   "industry": "Metal Fabrication",
   "business_summary": "PTC Industries Limited manufactures and sells high-precision metal castings in India and internationally. The company offers torque tubes, airframe structural components, engine mounts, turbine frames, engine liners, swirlers, and injectors for aircraft structures and propulsion systems; turbine frames, blades, buckets, vanes, inlet and outlet structures, and bearing housings for aero engines; and airframe structures, casings, bearing housings, refueling nozzles, turbine oil tanks, and engine gear boxes for air defense, as well as other casings for land defense. It also provides pump components, valves, on-line fittings, radar structures, and propellers and propulsion components for naval platforms, as well as propellant tanks, propulsion nozzles, bulkheads, pressure bottles, and lightweight structural elements for precision-guided and long-range defense systems. In addition, the company offers propellant tanks, propulsion nozzles, bulkheads, liquid-fuel pump casings and impellers, and lightweight structural components for launch vehicles and spacecraft; impellers, segments, and flow-control housings; and fittings for oil and gas LNG petrochemical pulp and paper, food processing, marine, and power industries. Its proprietary and licensed processes include RepliCast, RapidCast, and ForgeCAST. Further, the company operates a windmill located in the Kutch district, Gujarat. It exports its products to original equipment manufacturers. The company was formerly known as Precision Tools & Castings Private Limited. PTC Industries Limited was incorporated in 1963 and is based in Lucknow, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 38683.14,
-  "pe_ratio": 291.57,
+  "market_cap_cr": 38548.43,
+  "pe_ratio": 290.52,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 1025.47,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:04:41.901009",
-  "provider_reported_pb_ratio": 23.8,
-  "statements_retrieved_at": "2026-11-04T23:04:41.901009",
+  "retrieval_time": "2026-11-05T22:03:52.671181",
+  "provider_reported_pb_ratio": 23.72,
+  "statements_retrieved_at": "2026-11-05T22:03:52.671181",
   "retained_fields": []
 }

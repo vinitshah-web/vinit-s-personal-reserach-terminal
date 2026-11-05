@@ -5,8 +5,8 @@
   "industry": "Real Estate Services",
   "business_summary": "Smartworks Coworking Spaces Limited owns, operates, and leases co-working spaces in India. The company operates and maintains serviced office spaces, meeting and training rooms, virtual offices, and other ancillary services. It also provides maintenance and house-keeping services to commercial and private properties and business houses; and software booking application for meeting room management and booking, visitor management system, and attendance management system. The company was incorporated in 2015 and is headquartered in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 5577.22,
-  "pe_ratio": 49.55,
+  "market_cap_cr": 5624.12,
+  "pe_ratio": 49.97,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 49.88,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:13:31.862310",
-  "provider_reported_pb_ratio": 9.78,
-  "statements_retrieved_at": "2026-11-04T23:13:31.862310",
+  "retrieval_time": "2026-11-05T22:13:55.778772",
+  "provider_reported_pb_ratio": 9.86,
+  "statements_retrieved_at": "2026-11-05T22:13:55.778772",
   "retained_fields": []
 }

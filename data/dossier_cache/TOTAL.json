@@ -5,8 +5,8 @@
   "industry": "Integrated Freight & Logistics",
   "business_summary": "Total Transport Systems Limited provides logistic services in India and internationally. The company operates through three segments: Multimodal Transport Operations, Last Mile Delivery Operations, and Custom House Agent Operations. It offers less than container load (LCL) and full container load (FCL) shipments; and liner agency, breakbulk shipping, project cargo movement, airfreight logistics, and non-vessel operating common carrier solutions. The company also provides warehouse, wharf cartage, and container unpacking services; and loading facilities. In addition, it is involved in the consolidation/deconsolidation of cargo, freight forwarding, and transportation services. Total Transport Systems Limited was founded in 1994 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 127.08,
-  "pe_ratio": 14.12,
+  "market_cap_cr": 133.43,
+  "pe_ratio": 14.83,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 56.92,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:19:01.990019",
-  "provider_reported_pb_ratio": 1.38,
-  "statements_retrieved_at": "2026-11-04T23:19:01.990019",
+  "retrieval_time": "2026-11-05T22:19:38.780751",
+  "provider_reported_pb_ratio": 1.45,
+  "statements_retrieved_at": "2026-11-05T22:19:38.780751",
   "retained_fields": []
 }

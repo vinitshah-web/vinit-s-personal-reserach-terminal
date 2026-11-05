@@ -5,8 +5,8 @@
   "industry": "Department Stores",
   "business_summary": "Patel Retail Limited operates a chain of retail supermarkets in India and internationally. It also manufactures and sells whole spices and grounded spices, wheat flour, and refined wheat flour under the Indian Chaska brand name; and home improving products, such as detergents, phenyl, dish wash liquids, mops, plastic buckets, etc. under the Patel Essential brand name; ready-to-cook instant mixes under the Patel Fresh brand name; and men's wear under the Blue Nation brand name. The company also engages in the trading of food and non-food products, including FMCG goods, household items, kitchen appliances, etc.; and trading of agri commodities, such as rice, sugar, pulses, edible oil, etc. It exports its products. The company was founded in 1990 and is based in Ambernath, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 820.82,
-  "pe_ratio": 18.87,
+  "market_cap_cr": 809.33,
+  "pe_ratio": 18.61,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 108.95,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:02:01.356962",
-  "provider_reported_pb_ratio": 2.26,
-  "statements_retrieved_at": "2026-11-04T23:02:01.356962",
+  "retrieval_time": "2026-11-05T22:01:03.611693",
+  "provider_reported_pb_ratio": 2.22,
+  "statements_retrieved_at": "2026-11-05T22:01:03.611693",
   "retained_fields": []
 }

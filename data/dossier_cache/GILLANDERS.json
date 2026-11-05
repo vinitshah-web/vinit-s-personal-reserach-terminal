@@ -5,8 +5,8 @@
   "industry": "Farm Products",
   "business_summary": "Gillanders Arbuthnot and Company Limited engages in the textile, engineering, tea, and property businesses in India and internationally. The Textile segment manufactures and sells yarns in cotton, acrylic, polyster, viscose, man-made fibres, staple, and blends. The Engineering segment manufactures and sells steel structural, pipes, and equipment. This segment also engages in designing, supplying, erectioning, and commissioning of projects on a turnkey basis. The company's Tea segment manufactures and sells tea. The Property segment involves letting out properties on rent. Gillanders Arbuthnot and Company Limited was incorporated in 1935 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 209.82,
-  "pe_ratio": 12.03,
+  "market_cap_cr": 207.0,
+  "pe_ratio": 11.87,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 120.86,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:37:43.893539",
-  "provider_reported_pb_ratio": 0.81,
-  "statements_retrieved_at": "2026-11-04T22:37:43.893539",
+  "retrieval_time": "2026-11-05T21:36:02.897982",
+  "provider_reported_pb_ratio": 0.8,
+  "statements_retrieved_at": "2026-11-05T21:36:02.897982",
   "retained_fields": []
 }

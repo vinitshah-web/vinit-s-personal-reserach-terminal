@@ -5,8 +5,8 @@
   "industry": "Business Equipment & Supplies",
   "business_summary": "Kshitij Polyline Limited engages in the manufacture, distribution, supply, and export of lamination equipment and stationery products in India. It offers industrial products, including PP sheets and films, nylon coated wire and wiro, spiral rings, and PET sheets; healthcare products, comprising N95 masks, PPE kits, industrial masks, face shields, 3-ply masks, fancy masks, and polycarbonate face shields; stationery products, such as PP files and folders, lamination materials, binding materials, and ID card accessories; and post-printing equipment, including spiral binding, comb binding, wiro binding, perfect binding, lamination machines, cold laminators, roll laminators, slot punches, and corner cutters. The company provides customized products, such as hospital files, printed lanyards, ID cards, and badges; other products, including BOPET films, PVC sheets, thermal binding machines, and thermal laminating films; and ID card-making equipment. The company exports its products to various countries, including Uganda, Lebanon, Sri Lanka, South Africa, Bhutan, Nepal, and Dubai, as well as other international markets. Kshitij Polyline Limited was founded in 1998 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 48.12,
-  "pe_ratio": 10.4,
+  "market_cap_cr": 48.74,
+  "pe_ratio": 10.9,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 3.0,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:50:15.770531",
-  "provider_reported_pb_ratio": 1.04,
-  "statements_retrieved_at": "2026-11-04T22:50:15.770531",
+  "retrieval_time": "2026-11-05T21:48:52.166641",
+  "provider_reported_pb_ratio": 1.05,
+  "statements_retrieved_at": "2026-11-05T21:48:52.166641",
   "retained_fields": []
 }

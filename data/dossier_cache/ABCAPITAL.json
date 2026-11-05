@@ -5,13 +5,13 @@
   "industry": "Financial Conglomerates",
   "business_summary": "Aditya Birla Capital Limited, through its subsidiaries, provides various financial products and services in India and internationally. It operates through Lending, Housing Finance, Life Insurance, Asset Management, Health Insurance, Stock and Securities Broking, and Other Financial Services segments. The company offers housing loans, such as home extension, renovation, construction, plot and construction, lease rental discounting, and commercial property loans, as well as loan against property; personal and consumer, flexi, secured, unsecured business loan, and corporate loans; gold loan; and SME loans, including line of credit, working capital, machinery and rooftop solar loan, and supply chain financing solutions. It also provides loan against shares, mutual funds, life insurance policies, IPO financings, and promoter fundings; corporate financing, such as project financing and term loans; and payment solutions and credit card products. In addition, it provides life insurance, such as term, retirement, saving, ULIP, children future, wealth protection, group life, general, and pension solutions; health and wellness, and super top-up health insurance plans; and motor insurance comprising bike and car insurances; and travel insurances, as well as pocket insurance, including eye, dental, hospicash, mental health and nutrition, and personal accident insurance. Further, the company offers investment solutions in mutual funds, such as debt, equity, hybrid, retirement, children funds, exchange traded, fund of funds, and index funds; stock and securities, including equity, margin trading facilities, and bonds; fixed deposits; digital gold and silver; forex services; and tax filing and planning. The company was incorporated in 2007 and is based in Mumbai, India. Aditya Birla Capital Limited is a subsidiary of Grasim Industries Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 104028.82,
-  "pe_ratio": 22.47,
+  "market_cap_cr": 108458.31,
+  "pe_ratio": 23.42,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 156.14,
   "dividend_yield_pct": 0.0,
-  "shares_outstanding_cr": 273.7961,
+  "shares_outstanding_cr": 273.8155,
   "fifty_two_week_high": 430.7,
   "fifty_two_week_low": 287.7,
   "financial_statements": [
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:16:35.908317",
-  "provider_reported_pb_ratio": 2.43,
-  "statements_retrieved_at": "2026-11-04T22:16:35.908317",
+  "retrieval_time": "2026-11-05T21:14:45.877486",
+  "provider_reported_pb_ratio": 2.54,
+  "statements_retrieved_at": "2026-11-05T21:14:45.877486",
   "retained_fields": []
 }

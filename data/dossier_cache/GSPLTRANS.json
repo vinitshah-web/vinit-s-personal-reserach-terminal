@@ -5,7 +5,7 @@
   "industry": "Oil & Gas Midstream",
   "business_summary": "GSPL Transmission Limited owns and operates a gas transmission business. The company engages in the business of transportation of natural gas through pipelines connecting various supply and demand centers in India. The company has pipeline network of about 2692 km across the state of Gujarat. It is developing energy transportation infrastructure and connecting natural gas supply sources, including LNG terminals. It serves industries, such as power, fertilizer, steel, chemical plants, glass industries, refineries, textiles, and local gas distribution companies. The company was incorporated in 1998 and is based in Gandhinagar, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3533.06,
+  "market_cap_cr": 3456.44,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -17,10 +17,10 @@
   "financial_statements": [],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": false,
-  "retrieval_time": "2026-11-04T22:40:15.694626",
+  "retrieval_time": "2026-11-05T21:38:37.394533",
   "provider_reported_pb_ratio": null,
   "statements_retrieved_at": "2026-11-01T06:54:04.504003",
-  "previous_retrieval_time": "2026-11-04T21:22:24.357601",
+  "previous_retrieval_time": "2026-11-04T22:40:15.694626",
   "retained_fields": [
     "financial_statements",
     "previous_retrieval_time"

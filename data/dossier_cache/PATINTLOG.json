@@ -5,8 +5,8 @@
   "industry": "Integrated Freight & Logistics",
   "business_summary": "Patel Integrated Logistics Limited provides logistics services in India. The company operates through Co-loading of Air Freight and Other Services segments. The company engages in the co-loading of air freight; and logistics and supply chain management services, including air cargo consolidation, warehousing, surface transportation, and associated value-added services. It is also involved in providing gym subscriptions, and sale of health supplements. The company was founded in 1959 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 79.91,
-  "pe_ratio": 8.3,
+  "market_cap_cr": 80.49,
+  "pe_ratio": 8.36,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 17.94,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:02:03.447007",
-  "provider_reported_pb_ratio": 0.69,
-  "statements_retrieved_at": "2026-11-04T23:02:03.447007",
+  "retrieval_time": "2026-11-05T22:01:05.996328",
+  "provider_reported_pb_ratio": 0.7,
+  "statements_retrieved_at": "2026-11-05T22:01:05.996328",
   "retained_fields": []
 }

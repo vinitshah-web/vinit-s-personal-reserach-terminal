@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Shaily Engineering Plastics Limited engages in the manufacture and sale of precision injection moulded plastic components/products in India. The company offers specialty devices, platform devices, inhalers, sprays and pumps, intricate insulin injector pens, auto-injectors, and specialty packaging and containers for solid and liquid formulations, as well as providing contract development and manufacturing services for the pharmaceutical industry. It also offers kitchen and cooking devices, as well as storage and cleaning products; and sheet steel furniture products, including cabinets, drawer units, tables, and storage units. In addition, the company provides plastic components for lighting, appliances, and automotive applications; and razors, pumps, sprays and packaging for the personal care market. It also exports its products to approximately 40 countries. Shaily Engineering Plastics Limited was incorporated in 1980 and is based in Vadodara, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 13729.05,
-  "pe_ratio": 73.75,
+  "market_cap_cr": 13673.39,
+  "pe_ratio": 73.45,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 181.48,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:11:03.322181",
-  "provider_reported_pb_ratio": 16.45,
-  "statements_retrieved_at": "2026-11-04T23:11:03.322181",
+  "retrieval_time": "2026-11-05T22:11:14.733085",
+  "provider_reported_pb_ratio": 16.38,
+  "statements_retrieved_at": "2026-11-05T22:11:14.733085",
   "retained_fields": []
 }

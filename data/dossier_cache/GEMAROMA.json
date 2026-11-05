@@ -5,7 +5,7 @@
   "industry": "Chemicals",
   "business_summary": "Gem Aromatics Limited manufactures and sells specialty ingredients in India, the United States, China, Brazil, Singapore, and internationally. The company offers mint and mint derivatives, such as peppermint, spearmint, and menthol; clove and clove derivatives, including clove oil, and eugenol and eugenol derivatives; phenol comprising anethole; and other ingredients, such as eucalyptus and eucalyptol, lemongrass, and other products for use in oral care, cosmetics, nutraceuticals, pharmaceuticals, wellness, personal care, and other applications. The company was incorporated in 1997 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 731.11,
+  "market_cap_cr": 737.27,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:37:23.687075",
-  "provider_reported_pb_ratio": 1.75,
-  "statements_retrieved_at": "2026-11-04T22:37:23.687075",
+  "retrieval_time": "2026-11-05T21:35:42.200334",
+  "provider_reported_pb_ratio": 1.77,
+  "statements_retrieved_at": "2026-11-05T21:35:42.200334",
   "retained_fields": []
 }

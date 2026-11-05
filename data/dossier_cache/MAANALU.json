@@ -5,8 +5,8 @@
   "industry": "Aluminum",
   "business_summary": "Maan Aluminium Limited engages in the manufacturing and trading of aluminium profiles, anodized and fabricated profiles, aluminium ingots, billets, rods, and related products in India. It offers aluminium extruded profiles, including hardware, structural, solar, defense, LED, electrical, railway, louvers, architectural, automotive, luggage and ladder, doors and windows, atomic research, sign and display, AC grills and equipment, structural glazing, and heat sink and motor body profiles; architectural structures, such as doors and windows, curtain walls, structural glazing products, and others; industrial products, including sign and display, electricals, transport and automotive, louver, luggage, carrier, and other industrial products. The company also offers geometrical shapes; AC grills and equipment; architectural hardware; and solar panels. It trades in non-ferrous scrap, as well as anodizes and fabricates profiles. The company serves construction, automobiles, solar energy, agriculture, architecture, defense, railway, electrical and electronics, medical, and heavy engineering industries. It exports its products. The company was formerly known as Man Aluminium Limited. Maan Aluminium Limited was founded in 1989 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 588.21,
-  "pe_ratio": 40.86,
+  "market_cap_cr": 629.0,
+  "pe_ratio": 43.69,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 46.87,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:52:25.189200",
-  "provider_reported_pb_ratio": 2.09,
-  "statements_retrieved_at": "2026-11-04T22:52:25.189200",
+  "retrieval_time": "2026-11-05T21:51:05.947536",
+  "provider_reported_pb_ratio": 2.24,
+  "statements_retrieved_at": "2026-11-05T21:51:05.947536",
   "retained_fields": []
 }

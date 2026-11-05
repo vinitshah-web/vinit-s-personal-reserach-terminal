@@ -5,7 +5,7 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Vivimed Labs Limited, together with its subsidiaries, manufactures and sells active pharmaceutical ingredients (APIs), finished dosage formulations, specialty chemicals, and retail branded formulations in India. It operates through two segments, Speciality Chemicals Business and Pharma Business. The company provides APIs and intermediates to generic and ethical companies; and branded formulations in therapeutic segments, such as ophthalmic, nutraceuticals, dermatology, and pain, as well as contract manufacturing of capsules and tablets, syrups and liquids, and nasal sprays and ointments. It also exports its products. The company was incorporated in 1988 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 44.94,
+  "market_cap_cr": 45.77,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:22:41.088938",
-  "provider_reported_pb_ratio": -0.21,
-  "statements_retrieved_at": "2026-11-04T23:22:41.088938",
+  "retrieval_time": "2026-11-05T22:23:24.387094",
+  "provider_reported_pb_ratio": -0.22,
+  "statements_retrieved_at": "2026-11-05T22:23:24.387094",
   "retained_fields": []
 }

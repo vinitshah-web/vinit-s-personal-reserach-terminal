@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "Maharashtra Seamless Limited engages in the manufacture and sale of seamless steel pipes and tubes in India. The company operates through three segments: Steel Pipes & Tubes, Power \u0096 Electricity, and RIG. It offers mild steel and galvanized pipes; API line pipes; oil country tubular goods (OCTG) pipes; and hot finished pipes and tubes, and cold drawn and boiler tubes. It also provides coated pipes, such aas 3 layer polyethylene coated pipes, fusion bonded epoxy coated pipes, 3 layer polypropylene coated pipes, and internal epoxy coating pipes. In addition, the company is involved in renewable power generation and rig operations. Further, the company operates 5MW solar power plant in Pokaran, District Jaisalmer Rajasthan and 7 MW wind power project in Maharashtra. Its products are used in the oil and gas, hydrocarbon process, bearing industry, automotive, boiler, heat exchanger, plumbing and firefighting, structural, general engineering, railways, sewage and water well, and hydraulic cylinder sectors. The company was incorporated in 1988 and is headquartered in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 7459.07,
-  "pe_ratio": 10.12,
+  "market_cap_cr": 7693.57,
+  "pe_ratio": 10.44,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 512.91,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:52:51.251319",
-  "provider_reported_pb_ratio": 1.09,
-  "statements_retrieved_at": "2026-11-04T22:52:51.251319",
+  "retrieval_time": "2026-11-05T21:51:33.455917",
+  "provider_reported_pb_ratio": 1.12,
+  "statements_retrieved_at": "2026-11-05T21:51:33.455917",
   "retained_fields": []
 }

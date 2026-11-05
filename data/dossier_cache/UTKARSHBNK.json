@@ -5,14 +5,14 @@
   "industry": "Banks - Regional",
   "business_summary": "Utkarsh Small Finance Bank Limited provides banking and financial services in India. It operates through Corporate/Wholesale Banking, Retail Banking, Treasury, and Other Banking Operations segments. The company offers savings, salary, current, term and recurring deposit, escrow, and RERA banking accounts; term, fixed, and recurring deposits; locker facilities; digital products; investment products; joint liability group, business, MSME, commercial vehicle and construction equipment, gold, personal, housing, individual, group, and other loans, as well as loans for the purchase of commercial properties; wholesale lending; overdraft against fixed deposit, LAP retail, and Micro LAP; outward remittances; positive pay; UPI payment solutions; and bill and credit card bill payment services. It also provides institutional, NRI, micro, retail, corporate, and wholesale banking; cash management; branch, internet, mobile, and WhatsApp banking services; digital onboarding; online account opening facilities; ATMs and micro-ATMs; debit and credit cards; mutual funds; and life, health, and general insurance. The company serves low and middle-income households, micro-entrepreneurs, women entrepreneurs, self-employed individuals, small and marginal farmers, MSMEs, corporates, and institutional customers. Utkarsh Small Finance Bank Limited was founded in 2009 and is headquartered in Varanasi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2085.6,
+  "market_cap_cr": 2087.38,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 15.6,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 177.9524,
-  "fifty_two_week_high": 19.92,
+  "fifty_two_week_high": 18.8,
   "fifty_two_week_low": 10.12,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:20:49.592271",
+  "retrieval_time": "2026-11-05T22:21:28.880631",
   "provider_reported_pb_ratio": 0.75,
-  "statements_retrieved_at": "2026-11-04T23:20:49.592271",
+  "statements_retrieved_at": "2026-11-05T22:21:28.880631",
   "retained_fields": []
 }

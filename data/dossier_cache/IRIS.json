@@ -5,8 +5,8 @@
   "industry": "Software - Application",
   "business_summary": "IRIS RegTech Solutions Limited, together with its subsidiaries, provides regulatory technology solutions in India and internationally. It operates through SupTech, RegTech, TaxTech, DataTech segments. The company offers IRIS iDEAL, a regulatory reporting solution for banks, credit institutions, and investment firms; IRIS CARBON, a SaaS platform to create comprehensive financial and non-financial reports in XBRL/iXBRL formats; IRIS GST Software, a filing solution with an ERP connector, reconciliation module, vendor management, and informative MIS and reports; and IRIS IRP, a connection solution for taxpayers. It also provides IRIS iFILE, an end-to-end electronic filing platform to collect, validate, and analyze any type of data from entities; IRIS E-Invoicing, an e-invoicing solution with integrated GST compliance and reconciliation; IRIS Zircon, that are APIs for GST, Eway bill, and e-invoicing for enterprises and partners; and IRI LMS, a DT and IDT litigation management tool to simplify GST audits and litigations for enterprises. In addition, the company offers IRIS iConnect, an XBRL analytics tool to evaluate and compare XBRL and iXBRL data using the familiar Microsoft Excel format; IRIS Credixo for banks and fintech to make credit analysis models; and IRIS Peridot, an app for GST counterparty verification. Further, it provides workflow-based e-filing software; tax technology solutions; taxonomy development and testing; and consulting and training services, as well as software licensing, subscription of software as a service, and application maintenance services. It serves regulators, including central banks, business registries, capital market regulators, and stock exchanges, corporates, banks, and mutual funds. The company was formerly known as IRIS Business Services Limited and changed its name to IRIS RegTech Solutions Limited in November 2025. The company was incorporated in 2000 and is headquartered in Navi Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 448.12,
-  "pe_ratio": 35.31,
+  "market_cap_cr": 439.61,
+  "pe_ratio": 34.64,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 97.59,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:45:41.555896",
-  "provider_reported_pb_ratio": 2.23,
-  "statements_retrieved_at": "2026-11-04T22:45:41.555896",
+  "retrieval_time": "2026-11-05T21:44:10.503751",
+  "provider_reported_pb_ratio": 2.19,
+  "statements_retrieved_at": "2026-11-05T21:44:10.503751",
   "retained_fields": []
 }

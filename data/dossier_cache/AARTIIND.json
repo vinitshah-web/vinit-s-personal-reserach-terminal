@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Aarti Industries Limited engages in the manufacturing and dealing in specialty chemicals and intermediates in India and internationally. The company offers chemistry products, such as alkylation, ammonolysis, balz schiemann, bromination, chlorination, condensation, denitrochlorination, diazotization, dinitro chlorination, esterification, fluorination, grignard's reagent, halex, hydrogenation, hydrolysis, neutralization, nitration, oxidation, photochlorination, and propylation. It provides its products for acid, agrochemicals, API, dyes, fertilizers, metal and mining, miscellaneous, other, pharma, plasticizer, polymers, PU/epoxy, refinery and oil, field chemicals, thermal paper, and UV absorbers end use. Aarti Industries Limited was incorporated in 1984 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 16234.49,
-  "pe_ratio": 27.37,
+  "market_cap_cr": 16080.32,
+  "pe_ratio": 27.11,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 173.38,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:16:21.598501",
-  "provider_reported_pb_ratio": 2.58,
-  "statements_retrieved_at": "2026-11-04T22:16:21.598501",
+  "retrieval_time": "2026-11-05T21:14:32.203712",
+  "provider_reported_pb_ratio": 2.56,
+  "statements_retrieved_at": "2026-11-05T21:14:32.203712",
   "retained_fields": []
 }

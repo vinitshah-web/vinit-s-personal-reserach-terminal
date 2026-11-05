@@ -5,7 +5,7 @@
   "industry": "Auto Parts",
   "business_summary": "Bharat Gears Limited manufactures and supplies automotive gear in India, the United States, Mexico, Spain, and internationally. The company provides gear products, such as ring gears, pinions, transmission gears, shafts, differential gears, and bevel gears; automotive components, including automotive clutch assemblies and components, turbochargers and related parts, driveline products, axle shafts, flywheel assemblies and rings, propeller shaft components, U-J Cross, steering components, differential cages, steel wheel rims, turbocharger core and rotor, ST. Bevel, ceramic button, and break lining; heat-treating furnaces; and precision machined components, shafts, fasteners, gears, castings, and forgings. It also offers single/multi-row pusher carburisng furnaces, rotary hearth furnaces, other heat-treating equipment and systems, and capabilities; and other heat-treating equipment and systems, such as conveyor mesh belt furnace lines, rotary retort furnaces, pusher furnaces for general applications, automation and handling systems, atmosphere systems, endothermic gas generators, and process control/ SCADA systems. The company serves original equipment manufacturers, as well as the automotive, agriculture, construction, utilities, and EV segments. Bharat Gears Limited was incorporated in 1971 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 152.05,
+  "market_cap_cr": 151.92,
   "pe_ratio": 10.12,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:25:05.585134",
+  "retrieval_time": "2026-11-05T21:23:30.963227",
   "provider_reported_pb_ratio": 1.16,
-  "statements_retrieved_at": "2026-11-04T22:25:05.585134",
+  "statements_retrieved_at": "2026-11-05T21:23:30.963227",
   "retained_fields": []
 }

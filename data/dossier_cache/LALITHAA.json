@@ -5,8 +5,8 @@
   "industry": "Luxury Goods",
   "business_summary": "Lalithaa Jewellery Mart Limited designs, manufactures, and sells gold, silver, diamond, and other jewellery products in India and internationally. The company offers a range of jewellery options, including chains, rings, bangles, necklaces, haarams, earrings/drops, pendants, bridal jewellery, gemstone jewellery, coins, silverware, divine idols, and customized jewellery products. It also provides products for women, men, kids, and teenagers under the Lalithaa brand name. It serves customers through a network of large format stores and medium format stores in South India. The company was incorporated in 1985 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 20488.18,
-  "pe_ratio": 21.51,
+  "market_cap_cr": 20801.61,
+  "pe_ratio": 21.84,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 58.6,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:50:34.784983",
-  "provider_reported_pb_ratio": 6.25,
-  "statements_retrieved_at": "2026-11-04T22:50:34.784983",
+  "retrieval_time": "2026-11-05T21:49:10.816809",
+  "provider_reported_pb_ratio": 6.34,
+  "statements_retrieved_at": "2026-11-05T21:49:10.816809",
   "retained_fields": []
 }

@@ -5,7 +5,7 @@
   "industry": "Credit Services",
   "business_summary": "Industrial Investment Trust Limited, a non-banking financial company, engages in the investment activities in India. It invests in equity shares, mutual funds, fixed deposits, and treasury bills. The company also provides loan against property and securities; lease rental discounting; and corporate loans. In addition, it engages in the real estate activities and construction of residential complexes, as well as offers advisory and consultancy services. The company was incorporated in 1933 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 247.85,
+  "market_cap_cr": 246.2,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:43:55.666253",
+  "retrieval_time": "2026-11-05T21:42:26.257816",
   "provider_reported_pb_ratio": 0.62,
-  "statements_retrieved_at": "2026-11-04T22:43:55.666253",
+  "statements_retrieved_at": "2026-11-05T21:42:26.257816",
   "retained_fields": []
 }

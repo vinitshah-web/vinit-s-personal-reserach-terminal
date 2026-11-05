@@ -5,8 +5,8 @@
   "industry": "Electrical Equipment & Parts",
   "business_summary": "Atlanta Electricals Limited engages in the manufacture and sale of transformers to institutional and corporate customers in India. Its products include power, auto, inverter duty, generator, furnace, and transformers. It also provides after-sales support services. The company serves transmission, steel, dairies, solar, textile, construction, and infrastructure industries. Atlanta Electricals Limited was incorporated in 1988 and is based in Anand, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 11650.61,
-  "pe_ratio": 31.74,
+  "market_cap_cr": 11332.25,
+  "pe_ratio": 30.88,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 131.11,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:22:11.965273",
-  "provider_reported_pb_ratio": 11.56,
-  "statements_retrieved_at": "2026-11-04T22:22:11.965273",
+  "retrieval_time": "2026-11-05T21:20:28.830326",
+  "provider_reported_pb_ratio": 11.24,
+  "statements_retrieved_at": "2026-11-05T21:20:28.830326",
   "retained_fields": []
 }

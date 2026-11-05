@@ -5,8 +5,8 @@
   "industry": "Paper & Paper Products",
   "business_summary": "Star Paper Mills Limited manufactures and supplies paper, and paper boards and other related products in India and internationally. The company provides a range of industrial packaging and cultural papers, as well as other grades to the consumers in various segments. Star Paper Mills Limited was incorporated in 1936 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 227.24,
-  "pe_ratio": 7.35,
+  "market_cap_cr": 226.79,
+  "pe_ratio": 7.33,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 455.2,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:14:50.716925",
+  "retrieval_time": "2026-11-05T22:15:17.452071",
   "provider_reported_pb_ratio": 0.32,
-  "statements_retrieved_at": "2026-11-04T23:14:50.716925",
+  "statements_retrieved_at": "2026-11-05T22:15:17.452071",
   "retained_fields": []
 }

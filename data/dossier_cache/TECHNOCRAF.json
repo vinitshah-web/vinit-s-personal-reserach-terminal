@@ -5,8 +5,8 @@
   "industry": "Infrastructure Operations",
   "business_summary": "Technocraft Ventures Limited engages in the engineering, procurement, and construction (EPC) turnkey projects. It develops EPC of water supply scheme projects (WSSPs), sewerage networks, sewerage treatment plants (STPs), wastewater treatment plants, transmission mains, and reservoirs water and wastewater infrastructures; EPC of road and highway projects; residential buildings; power transmission and distribution networks, electrical substations, and electrification schemes; trenchless, pipeline installation, and micro tunnelling works; and operation and maintenance of micro-tunneling and trenchless methods, STPs, water supply scheme projects, and sewer networks. The company was incorporated in 1998 and is based in Noida, India. Technocraft Ventures Limited operates as a subsidiary of Kartikey Constructions.",
   "business_summary_reason": null,
-  "market_cap_cr": 2139.53,
-  "pe_ratio": 47.89,
+  "market_cap_cr": 2002.09,
+  "pe_ratio": 44.81,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 54.27,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:17:44.291733",
-  "provider_reported_pb_ratio": 9.95,
-  "statements_retrieved_at": "2026-11-04T23:17:44.291733",
+  "retrieval_time": "2026-11-05T22:18:19.892958",
+  "provider_reported_pb_ratio": 9.31,
+  "statements_retrieved_at": "2026-11-05T22:18:19.892958",
   "retained_fields": []
 }

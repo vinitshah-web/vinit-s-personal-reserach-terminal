@@ -5,8 +5,8 @@
   "industry": "Marine Shipping",
   "business_summary": "Waterways Leisure Tourism Limited operates a domestic ocean cruise vessel in India and internationally. The company also engages in the cruise lines, shipping, organizing, and conducting cruises, tours, holidays, and related services. In addition, it provides entertainment, accommodation, dining, bars and lounges, restaurants, and other activities. Waterways Leisure Tourism Limited was incorporated in 2020 and is based in Mumbai, India. Waterways Leisure Tourism Limited operates as a subsidiary of Global Shipping and Leisure Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 6446.01,
-  "pe_ratio": 57.08,
+  "market_cap_cr": 6524.2,
+  "pe_ratio": 57.77,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 10.57,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:29:20.142669",
-  "provider_reported_pb_ratio": 8.42,
-  "statements_retrieved_at": "2026-11-04T22:29:20.142669",
+  "retrieval_time": "2026-11-05T21:27:45.821957",
+  "provider_reported_pb_ratio": 8.53,
+  "statements_retrieved_at": "2026-11-05T21:27:45.821957",
   "retained_fields": []
 }

@@ -5,7 +5,7 @@
   "industry": "Specialty Business Services",
   "business_summary": "Repro India Limited provides printing solutions in India and internationally. The company offers value engineering, creative designing, pre-press, printing, post-press, knitting and assembly, warehousing, dispatch, database management, sourcing and procurement, localization, and web-based services. It also provides physical book distribution, print on demand, offset printing, and digital services. In addition, the company offers RAPPLES, a learning solution featuring a learning management system for students and teachers; as well as Bookscape, an online bookstore platform. It serves publishers, retailers, bookstores, libraries, and schools. Repro India Limited was founded in 1990 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 451.52,
+  "market_cap_cr": 452.31,
   "pe_ratio": 4.0,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:06:41.614273",
+  "retrieval_time": "2026-11-05T22:06:08.878835",
   "provider_reported_pb_ratio": 0.95,
-  "statements_retrieved_at": "2026-11-04T23:06:41.614273",
+  "statements_retrieved_at": "2026-11-05T22:06:08.878835",
   "retained_fields": []
 }

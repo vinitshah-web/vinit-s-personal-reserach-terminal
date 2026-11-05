@@ -5,8 +5,8 @@
   "industry": "Building Materials",
   "business_summary": "Navkar Urbanstructure Limited engages in the construction and development of infrastructure projects in India. The company constructs drainage works, classrooms, sewage treatment plants and pumping stations, sewage and drinking water transmission pipelines, industrial and commercial projects, and residential bungalows, etc., as well as involved in the laying of 4G cable networking. It also provides ready-mix concrete and reinforced cement concrete pipes. The company was formerly known as Navkar Builders Limited and changed its name to Navkar Urbanstructure Limited in September 2021. Navkar Urbanstructure Limited was incorporated in 1992 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 92.01,
-  "pe_ratio": 13.67,
+  "market_cap_cr": 96.5,
+  "pe_ratio": 14.33,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 0.61,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:57:56.378844",
-  "provider_reported_pb_ratio": 1.34,
-  "statements_retrieved_at": "2026-11-04T22:57:56.378844",
+  "retrieval_time": "2026-11-05T21:56:46.174535",
+  "provider_reported_pb_ratio": 1.4,
+  "statements_retrieved_at": "2026-11-05T21:56:46.174535",
   "retained_fields": []
 }

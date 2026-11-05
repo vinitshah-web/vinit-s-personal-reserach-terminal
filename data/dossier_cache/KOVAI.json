@@ -5,8 +5,8 @@
   "industry": "Medical Care Facilities",
   "business_summary": "Kovai Medical Center and Hospital Limited operates a multispecialty hospital and its satellite centers in India. It operates through two segments, Healthcare Services and Education Services. The company offers outpatient and inpatient medical services in the fields of cardiology, cardiac anesthesiology, cardiovascular and thoracic surgery, comprehensive cancer center, critical care medicine, dentistry/faciomaxillary surgery, dermatology and cosmetic dermatology, electrophysiology, emergency services, endocrinology and diabetology, ENT/head and neck, fertility and reproductive medicine, gastroenterology and hepatology, general/laparoscopic surgery, hematology, internal medicine, interventional radiology, liver institute, laboratory medicine, neonatology, nephrology/urology, neurosciences, nuclear medicine and PET CT, obstetrics and gynecology, organ transplant program, orthopedics and joint replacement, pediatrics, pediatric surgery, pediatric intensive care unit, physical medicine and rehabilitation, psychological medicine, pulmonology, and rheumatology. It also provides preventive health check-ups. In addition, the company operates a medical college that provides postgraduate programs in neurology, pediatrics, psychiatry, orthopedics, and cardiopulmonary care. It serves out-patients, in-patients, and the common public. Kovai Medical Center and Hospital Limited was incorporated in 1985 and is based in Coimbatore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 6559.89,
-  "pe_ratio": 25.96,
+  "market_cap_cr": 6436.79,
+  "pe_ratio": 25.48,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 1205.66,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:49:41.726652",
-  "provider_reported_pb_ratio": 4.97,
-  "statements_retrieved_at": "2026-11-04T22:49:41.726652",
+  "retrieval_time": "2026-11-05T21:48:18.480821",
+  "provider_reported_pb_ratio": 4.88,
+  "statements_retrieved_at": "2026-11-05T21:48:18.480821",
   "retained_fields": []
 }

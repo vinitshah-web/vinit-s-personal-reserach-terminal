@@ -6,14 +6,14 @@
   "business_summary": "AIA Engineering Limited designs, develops, produces, installs, and services high chromium parts in India, the United Arab Emirates, and internationally. The company offers lining systems, DE assemblies, fasteners, and ceramic composite alloys; diaphragms, shell liners, grinding media, mill liners, FLS, pfeiffer, polysius, and loesche; blow bars, hammers, impellers, anvils, feed disks, and frame liners; and wear-resistant components, tube mill lining and air flow regulation systems, and mill parts. It also provides services, such as design and holistic process modelling; installation supervision; wear monitoring, including scanning; circuit diagnostics, air flow regulation system, and ball charge optimization; ball sorting; mill operation, audit, analysis, and tuning; and condition monitoring. In addition, it serves mining, cement, quarry, and thermal power generation industries. AIA Engineering Limited was founded in 1978 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
   "market_cap_cr": null,
-  "pe_ratio": 24.26,
+  "pe_ratio": 24.13,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 859.98,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": null,
   "fifty_two_week_high": 5180.0,
-  "fifty_two_week_low": 3210.0,
+  "fifty_two_week_low": 3198.0,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:18:26.338599",
-  "provider_reported_pb_ratio": 3.74,
-  "statements_retrieved_at": "2026-11-04T22:18:26.338599",
+  "retrieval_time": "2026-11-05T21:16:39.139500",
+  "provider_reported_pb_ratio": 3.72,
+  "statements_retrieved_at": "2026-11-05T21:16:39.139500",
   "retained_fields": []
 }

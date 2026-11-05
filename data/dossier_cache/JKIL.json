@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "J. Kumar Infraprojects Limited engages in the construction business in India. The company executes contracts of various infrastructure projects, including transportation engineering, irrigation projects, civil construction, piling work, etc. Its transportation engineering projects includes roads, underground and elevated metros, bridges, flyovers, subways, road over bridges, skywalks, railway terminus/stations etc.; civil construction projects comprising hospitals and medical colleges, commercial complexes, sports infrastructure, institutional buildings, and other civil constructions. The company also offers sewage treatment plants, riverfronts, tunnels and other projects, as well as undertaking residential and commercial properties projects. In addition, the company serves government departments, public sector entities across central, state, and municipal levels, metro rail corporations, public works departments, urban development authorities, municipal corporations, private sector companies, and other government-affiliated bodies. J. Kumar Infraprojects Limited was incorporated in 1980 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3185.52,
-  "pe_ratio": 8.21,
+  "market_cap_cr": 3184.0,
+  "pe_ratio": 8.36,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 447.92,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:47:03.341212",
+  "retrieval_time": "2026-11-05T21:45:36.375574",
   "provider_reported_pb_ratio": 0.94,
-  "statements_retrieved_at": "2026-11-04T22:47:03.341212",
+  "statements_retrieved_at": "2026-11-05T21:45:36.375574",
   "retained_fields": []
 }

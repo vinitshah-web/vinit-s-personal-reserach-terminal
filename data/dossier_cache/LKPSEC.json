@@ -5,8 +5,8 @@
   "industry": "Capital Markets",
   "business_summary": "LKP Securities Limited engages in the securities broking business in India. The company offers equity, derivatives, commodity, and currency broking services; investment advisory and research services; and distribution of mutual funds and other financial products. It also provides margin trading facility and depository services. The company was founded in 1948 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 119.23,
-  "pe_ratio": 16.38,
+  "market_cap_cr": 126.18,
+  "pe_ratio": 17.33,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 12.34,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:51:41.993676",
-  "provider_reported_pb_ratio": 1.17,
-  "statements_retrieved_at": "2026-11-04T22:51:41.993676",
+  "retrieval_time": "2026-11-05T21:50:20.654190",
+  "provider_reported_pb_ratio": 1.24,
+  "statements_retrieved_at": "2026-11-05T21:50:20.654190",
   "retained_fields": []
 }

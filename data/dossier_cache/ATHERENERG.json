@@ -5,7 +5,7 @@
   "industry": "Auto Manufacturers",
   "business_summary": "Ather Energy Limited, an electric vehicle company, engages in the design, development, and sale of electric two-wheelers, and associated product ecosystem. The company also offers vehicle architecture and chassis; battery packs and battery management system; vehicle control unit; touchscreen dashboard; motor controller; transmission; signal harness; and fast charging system. In addition, it provides charging infrastructure, software, accessories and insurance policies in the capacity of corporate agent. The company was incorporated in 2013 and is headquartered in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 72996.13,
+  "market_cap_cr": 70560.28,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:22:08.240357",
-  "provider_reported_pb_ratio": 18.03,
-  "statements_retrieved_at": "2026-11-04T22:22:08.240357",
+  "retrieval_time": "2026-11-05T21:20:25.057817",
+  "provider_reported_pb_ratio": 17.43,
+  "statements_retrieved_at": "2026-11-05T21:20:25.057817",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Specialty Business Services",
   "business_summary": "Updater Services Limited operates an integrated business services platform in India and internationally. It operates in two segments, Integrated Facilities Management and Business Support Services. The company offers production support services to manufacturing facilities, including material handling and movement, on-site warehouse management, stores and inventory management, production support, and equipment maintenance; engineering services, such as mechanical, electrical, and plumbing, as well as building management systems, repair and maintenance, and fire systems; housekeeping, cleaning, disinfecting, sanitizing, and facade cleaning services; and washroom and feminine hygiene care solutions. It also provides sales enablement services comprising demand generation, lead management, data base management, digital marketing, sales and retail analytics, field marketing, field force management, and outbound tele-sales; and employee background verification check, audit and assurance, airport ground handling, mailroom management and niche logistics, and business process outsourcing services. In addition, the company offers stock keeping, grading and sorting, breaking bulk, repacking, inward and outward dispatches, and logistics services; general staffing solutions consisting of recruitment, payroll, and human resource services; institutional catering services; and janitorial, garden management, pest control, waste management, vendor management, cleaning and mail room services, water management, hygiene management, energy/safety audit, design erection, installation, and testing and commissioning services. It serves manufacturing, automotive, IT/ITeS, healthcare, education, BFSI, consumer products, FMCG, and retail industries. The company was founded in 1985 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1371.18,
-  "pe_ratio": 13.7,
+  "market_cap_cr": 1393.94,
+  "pe_ratio": 13.93,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 165.31,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:19:58.995227",
-  "provider_reported_pb_ratio": 1.23,
-  "statements_retrieved_at": "2026-11-04T23:19:58.995227",
+  "retrieval_time": "2026-11-05T22:20:36.096929",
+  "provider_reported_pb_ratio": 1.25,
+  "statements_retrieved_at": "2026-11-05T22:20:36.096929",
   "retained_fields": []
 }

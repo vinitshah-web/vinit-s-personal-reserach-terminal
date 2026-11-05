@@ -5,14 +5,14 @@
   "industry": "Household & Personal Products",
   "business_summary": "Marico Limited, together with its subsidiaries, manufactures and sells branded consumer products in India, Bangladesh, Vietnam, and internationally. It offers coconut oils, refined edible oils, hair oils, anti-lice treatments, fabric care, functional and other processed food, hair creams and gels, hair serums, shampoos, conditioners, shower gels, hair relaxers and straighteners, deodorants, female personal care, baby care, skin care, male grooming and hair styling, packaged food, health care, and hygiene products. The company markets its products under the Parachute, Parachute Advansed, Saffola, Hair & Care, Parachute Advansed, Nihar Naturals, Mediker, Pure Sense, Coco Soul, Revive, Set Wet, Livon, Just Herbs, True Elements, Kaya, Beardo, and Plix, HairCode, Fianc\u00e9e, Purit\u00e9 de Pr\u00f4vence, \u00d4liv, Lashe', Caivil, Hercules, Black Chic, Code 10, Ingwe, X-Men, Studio X, Thuan Phat and Isoplus brand names. It sells its products through distribution network, including regional offices, carrying and forwarding agents, redistribution centers, and distributors. Marico Limited was incorporated in 1988 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 115521.36,
-  "pe_ratio": 57.2,
+  "market_cap_cr": 115229.3,
+  "pe_ratio": 57.05,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 36.5,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 129.7993,
-  "fifty_two_week_high": 895.6,
+  "fifty_two_week_high": 897.0,
   "fifty_two_week_low": 705.8,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:53:34.607695",
-  "provider_reported_pb_ratio": 24.38,
-  "statements_retrieved_at": "2026-11-04T22:53:34.607695",
+  "retrieval_time": "2026-11-05T21:52:17.502920",
+  "provider_reported_pb_ratio": 24.32,
+  "statements_retrieved_at": "2026-11-05T21:52:17.502920",
   "retained_fields": []
 }

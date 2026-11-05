@@ -5,8 +5,8 @@
   "industry": "Oil & Gas Equipment & Services",
   "business_summary": "Likhitha Infrastructure Limited engages in laying, erection, testing, and commissioning of oil and gas pipelines in India. The company is involved in laying oil and gas supply pipelines and irrigation canals, building bridges over the canals, and providing related maintenance works. It also provides cross-country pipelines and underground pipelines, including city gas distribution networks, storage terminals, pump houses, associated mechanical, civil, structural, electrical, instrumentation, and telecom works; and city gas distribution comprising transportation and distribution of natural gas to consumers across domestic, commercial, industrial, and transport sectors through a network of pipelines. In addition, the company offers operation and maintenance services for oil and gas companies, including management services for CGD networks, other repairs, modernization, scheduled shutdowns, and overhauling, as well as maintenance of existing pipelines. Likhitha Infrastructure Limited was incorporated in 1998 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 865.28,
-  "pe_ratio": 26.47,
+  "market_cap_cr": 855.77,
+  "pe_ratio": 26.18,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 104.19,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:51:22.342262",
-  "provider_reported_pb_ratio": 2.1,
-  "statements_retrieved_at": "2026-11-04T22:51:22.342262",
+  "retrieval_time": "2026-11-05T21:49:59.805096",
+  "provider_reported_pb_ratio": 2.08,
+  "statements_retrieved_at": "2026-11-05T21:49:59.805096",
   "retained_fields": []
 }

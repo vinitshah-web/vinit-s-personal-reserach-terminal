@@ -5,7 +5,7 @@
   "industry": "Farm Products",
   "business_summary": "The Peria Karamalai Tea and Produce Company Limited produces and distributes tea in India. The company provides green tea, and orthodox and ctc black tea. It also offers coffee, black pepper, and spices, as well as fruits, such as avocados. In addition, the company is involved in the generation and distribution of power through solar and wind energy. Further, it invests in financial instruments. The Peria Karamalai Tea and Produce Company Limited was incorporated in 1913 and is headquartered in Coimbatore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 201.39,
+  "market_cap_cr": 211.45,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:02:54.609150",
-  "provider_reported_pb_ratio": 0.45,
-  "statements_retrieved_at": "2026-11-04T23:02:54.609150",
+  "retrieval_time": "2026-11-05T22:01:59.795913",
+  "provider_reported_pb_ratio": 0.47,
+  "statements_retrieved_at": "2026-11-05T22:01:59.795913",
   "retained_fields": []
 }

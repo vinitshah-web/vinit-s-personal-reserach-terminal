@@ -5,8 +5,8 @@
   "industry": "Packaged Foods",
   "business_summary": "M. K. Proteins Limited manufactures and trades vegetable refined oil and by-products in India. It offers rice bran, sunflower, cotton seed, soya bean, palm, canola, and rice bran bleached oils. The company also provides by-products, including rice bran fatty acid oils, rice bran waxes, gums, and spent earth; imports, processes, and sells crude oils; as well as trades in edible and non-edible oils. M. K. Proteins Limited was incorporated in 2012 and is based in Ambala, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 142.97,
-  "pe_ratio": 29.15,
+  "market_cap_cr": 149.76,
+  "pe_ratio": 30.54,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 2.01,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:55:20.745568",
-  "provider_reported_pb_ratio": 1.88,
-  "statements_retrieved_at": "2026-11-04T22:55:20.745568",
+  "retrieval_time": "2026-11-05T21:54:06.349301",
+  "provider_reported_pb_ratio": 1.97,
+  "statements_retrieved_at": "2026-11-05T21:54:06.349301",
   "retained_fields": []
 }

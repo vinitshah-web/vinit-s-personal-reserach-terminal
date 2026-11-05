@@ -5,7 +5,7 @@
   "industry": "Entertainment",
   "business_summary": "Shemaroo Entertainment Limited engages in the distribution of content for broadcasting of satellite channels and digital technologies in India. The company offers a portfolio of content, including films, television shows, comedy, devotional programming, music, regional entertainment, and children's content. It also operates ShemarooMe, a video over the top (OTT) platform. In addition, the company provides DTH, music, studio, and film production services, as well as in-flight entertainment solutions. It distributes its content to domestic satellite, cable, and terrestrial platforms. The company was founded in 1962 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 285.38,
+  "market_cap_cr": 281.3,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:11:26.314859",
-  "provider_reported_pb_ratio": 1.06,
-  "statements_retrieved_at": "2026-11-04T23:11:26.314859",
+  "retrieval_time": "2026-11-05T22:11:38.084546",
+  "provider_reported_pb_ratio": 1.04,
+  "statements_retrieved_at": "2026-11-05T22:11:38.084546",
   "retained_fields": []
 }

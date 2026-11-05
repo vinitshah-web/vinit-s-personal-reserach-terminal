@@ -5,7 +5,7 @@
   "industry": "Lodging",
   "business_summary": "Country Club Hospitality & Holidays Limited provides leisure, recreation, and hospitality membership services in India and the Middle East. The company sells vacation ownership and other related services. It also sells club ownership; and offers tour and holiday, accommodation services, food and beverages from restaurants and banquets, and annual room and maintenance charges, as well as training/coaching services in recreational activities relating to art, culture and sports, fitness training, and clubbing. Country Club Hospitality & Holidays Limited was formerly known as Country Club (India) Limited and changed its name to Country Club Hospitality & Holidays Limited in December 2014. Country Club Hospitality & Holidays Limited was founded in 1989 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 201.55,
+  "market_cap_cr": 211.52,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:27:23.120889",
-  "provider_reported_pb_ratio": 0.68,
-  "statements_retrieved_at": "2026-11-04T22:27:23.120889",
+  "retrieval_time": "2026-11-05T21:25:48.707415",
+  "provider_reported_pb_ratio": 0.71,
+  "statements_retrieved_at": "2026-11-05T21:25:48.707415",
   "retained_fields": []
 }

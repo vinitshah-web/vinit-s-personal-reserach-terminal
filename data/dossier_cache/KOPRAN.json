@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - General",
   "business_summary": "Kopran Limited, an integrated pharmaceutical company, engages in the development, manufacture and marketing of active pharmaceutical ingredients and finished dosage forms in India and internationally. The company offers its products in various dosage forms, including tablets, capsules, syrups, dry powder, suspension, and injectables, as well as branded and generic formulations. It also provides drugs in the categories of macrolide, penicillin, quinolone, anti-protozoal, sulphonamides, respiratory, tetracycline, cardiovascular, anti-diabetic, urology, pain management and anti-inflammatory, gastrointestinal, erectile dysfunction, anthemintic, anti-allergic, central nervous system, anti-malarial, anti-thyroid, and carbapenems. In addition, the company offers drugs for anti-hypertensive, neuromodulator, anti-acne, anti-infective, antibiotic, anti-thrombotic, anti-diabetic, anti-asthamatic, antihyperlipidemic, anti-convulsants, anti-anxiety, pulmonary arterial hypertension, chronic heart failure, neuropathic pain, and erosive esophagitis. Kopran Limited was incorporated in 1958 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1205.49,
-  "pe_ratio": 49.01,
+  "market_cap_cr": 1279.53,
+  "pe_ratio": 51.21,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 109.82,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:49:31.859372",
-  "provider_reported_pb_ratio": 2.27,
-  "statements_retrieved_at": "2026-11-04T22:49:31.859372",
+  "retrieval_time": "2026-11-05T21:48:08.894059",
+  "provider_reported_pb_ratio": 2.41,
+  "statements_retrieved_at": "2026-11-05T21:48:08.894059",
   "retained_fields": []
 }

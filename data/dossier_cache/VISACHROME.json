@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "VISA Chrome Limited manufactures and sells ferro alloys in India. The company offers high carbon ferro chrome products. Its products are used in stainless steel and special steel manufacturing applications. The company was formerly known as VISA Steel Limited and changed its name to VISA Chrome Limited in April 2026. VISA Chrome Limited was incorporated in 1996 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 471.77,
-  "pe_ratio": 0.38,
+  "market_cap_cr": 509.68,
+  "pe_ratio": 0.41,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": -18.4,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:22:25.961949",
-  "provider_reported_pb_ratio": -1.76,
-  "statements_retrieved_at": "2026-11-04T23:22:25.961949",
+  "retrieval_time": "2026-11-05T22:23:08.644755",
+  "provider_reported_pb_ratio": -1.9,
+  "statements_retrieved_at": "2026-11-05T22:23:08.644755",
   "retained_fields": []
 }

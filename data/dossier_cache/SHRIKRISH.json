@@ -5,8 +5,8 @@
   "industry": "Real Estate - Development",
   "business_summary": "Shri Krishna Devcon Limited engages in real estate business in India. The company is involved in the construction and development of townships, housing projects, commercial premises, and other related activities. Its properties development projects include colony, commercial, and residential projects. The company was incorporated in 1993 and is based in Indore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 95.09,
-  "pe_ratio": 23.42,
+  "market_cap_cr": 90.75,
+  "pe_ratio": 22.35,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 32.9,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:12:04.570072",
-  "provider_reported_pb_ratio": 1.03,
-  "statements_retrieved_at": "2026-11-04T23:12:04.570072",
+  "retrieval_time": "2026-11-05T22:12:23.240004",
+  "provider_reported_pb_ratio": 0.99,
+  "statements_retrieved_at": "2026-11-05T22:12:23.240004",
   "retained_fields": []
 }

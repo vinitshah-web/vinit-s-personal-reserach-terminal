@@ -5,7 +5,7 @@
   "industry": "Software - Infrastructure",
   "business_summary": "Intense Technologies Limited provides enterprise platform and IP-enabled service organization services in India. The company offers data services, including data management, data quality, golden record creation, de-duplication, data governance, and process automation; and talent as a service, workforce optimization, and build-operate-transfer, managed services, solution engineering, testing services, product engineering, infra services, and government managed services. It also provides UniServe 360, a template designer; centralised communications governance hub; UniServe Reach, a marketing automation and digital customer engagement platform;, DPDP-compliant communications; AI-enabled data management platform; low-code application development platform; and connect transmission services, and consent management and data discovery and classification. It serves banking and financial services, insurance, government, communications and media, and education industries. Intense Technologies Limited was incorporated in 1990 and is headquartered in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 199.84,
+  "market_cap_cr": 198.25,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:45:13.978576",
-  "provider_reported_pb_ratio": 1.6,
-  "statements_retrieved_at": "2026-11-04T22:45:13.978576",
+  "retrieval_time": "2026-11-05T21:43:45.836673",
+  "provider_reported_pb_ratio": 1.58,
+  "statements_retrieved_at": "2026-11-05T21:43:45.836673",
   "retained_fields": []
 }

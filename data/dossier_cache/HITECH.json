@@ -5,14 +5,14 @@
   "industry": "Steel",
   "business_summary": "Hi-Tech Pipes Limited manufactures and sells steel in India. The company provides mild steel hollow section ERW steel pipes, mild steel round pipes, GI pipes, pre-galvanized steel pipes, crash barriers, cold rolled coils and strips, and coated coils and roofing sheets. It also offers hot rolled, pickled and oiled, cold rolled close annealed, cold rolled full hard, and BP sheets coil and strip products, as well as casing pipes for borewells. In addition, the company provides ERW round, square, and rectangular hollow sections; GP and GC sheets; colour-coated coils and sheets; solar torque tubes; and metal beam crash barriers. It also exports its products. The company was formerly known as Ram Lal Harbans Lal Limited and changed its name to Hi-Tech Pipes Limited in October 1986. Hi-Tech Pipes Limited was incorporated in 1985 and is headquartered in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1564.11,
-  "pe_ratio": 20.69,
+  "market_cap_cr": 1570.6,
+  "pe_ratio": 20.77,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 67.44,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 20.271,
-  "fifty_two_week_high": 111.56,
+  "fifty_two_week_high": 111.53,
   "fifty_two_week_low": 62.1,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:42:36.506315",
-  "provider_reported_pb_ratio": 1.14,
-  "statements_retrieved_at": "2026-11-04T22:42:36.506315",
+  "retrieval_time": "2026-11-05T21:41:06.024808",
+  "provider_reported_pb_ratio": 1.15,
+  "statements_retrieved_at": "2026-11-05T21:41:06.024808",
   "retained_fields": []
 }

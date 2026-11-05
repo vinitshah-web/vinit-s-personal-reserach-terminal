@@ -5,8 +5,8 @@
   "industry": "Real Estate - Development",
   "business_summary": "Arihant Foundations & Housing Limited, together with its subsidiaries, engages in the real estate development and related activities in India. It is involved in the construction of residential and commercial complexes and IT parks. The company was founded in 1984 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 930.86,
-  "pe_ratio": 12.82,
+  "market_cap_cr": 943.84,
+  "pe_ratio": 13.0,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 372.65,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:20:58.717600",
-  "provider_reported_pb_ratio": 2.3,
-  "statements_retrieved_at": "2026-11-04T22:20:58.717600",
+  "retrieval_time": "2026-11-05T21:19:14.115277",
+  "provider_reported_pb_ratio": 2.33,
+  "statements_retrieved_at": "2026-11-05T21:19:14.115277",
   "retained_fields": []
 }

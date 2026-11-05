@@ -5,8 +5,8 @@
   "industry": "Financial Data & Stock Exchanges",
   "business_summary": "ICRA Limited operates as an independent and professional investment information, and credit rating agency in India and internationally. It offers data and knowledge process operations, digital transformation, data application development, financial intelligence, ESG analytics, and model development services; credit risk solutions and data platforms, including internal rating solution, early warning system, asset classification product, expected credit loss solution, regulatory reporting, and a range of data and analytics services; and bond valuations, mutual fund analytics, fixed income index products, risk, and compliance solutions, as well as software services. The company was incorporated in 1991 and is headquartered in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4280.77,
-  "pe_ratio": 21.47,
+  "market_cap_cr": 4335.08,
+  "pe_ratio": 21.75,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 1236.61,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:43:30.644458",
-  "provider_reported_pb_ratio": 3.6,
-  "statements_retrieved_at": "2026-11-04T22:43:30.644458",
+  "retrieval_time": "2026-11-05T21:42:00.824696",
+  "provider_reported_pb_ratio": 3.64,
+  "statements_retrieved_at": "2026-11-05T21:42:00.824696",
   "retained_fields": []
 }

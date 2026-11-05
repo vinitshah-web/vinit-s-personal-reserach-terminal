@@ -6,7 +6,7 @@
   "business_summary": "Suryalata Spinning Mills Limited manufactures and sells synthetic yarns for knitting, weaving, and technical applications. The company operates through Textile Spinning and Power Solar Energy segments. It offers polyester and viscose yarns, melange yarns, polyester/viscose blended yarns, polyester sewing thread, polyester slub and vortex yarn, as well as polyester sewing thread. The company is also involved in generation of solar energy. Suryalata Spinning Mills Limited was incorporated in 1983 and is based in Secunderabad, India.",
   "business_summary_reason": null,
   "market_cap_cr": null,
-  "pe_ratio": 4.52,
+  "pe_ratio": 4.42,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 699.86,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:16:08.269222",
-  "provider_reported_pb_ratio": 0.54,
-  "statements_retrieved_at": "2026-11-04T23:16:08.269222",
+  "retrieval_time": "2026-11-05T22:16:39.764649",
+  "provider_reported_pb_ratio": 0.53,
+  "statements_retrieved_at": "2026-11-05T22:16:39.764649",
   "retained_fields": []
 }

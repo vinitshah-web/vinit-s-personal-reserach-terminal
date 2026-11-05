@@ -5,8 +5,8 @@
   "industry": "Electrical Equipment & Parts",
   "business_summary": "V-Guard Industries Limited manufactures and sells electrical and electronic products in India and internationally. It operates through four segments: Electronics, Electrical, Consumer Durables and Sunflame. The Electronics segment offers voltage stabilizers; and inverter, digital DUPS, inverter batteries, UPS, solar inverters, solar power systems, off grid and on grid systems and inverters, and on grid photovoltaic (PV) inverters. The Electrical segment provides wires; pumps, such as domestic and agricultural pumps, and electric motors; modular switches, including matteo, novio, and torio switches; switchgears; and PVC insulated cables. The Consumer Durables Segment offers fans, such as ceiling, table, pedestal, wall, ventilating and exhaust, and other fans; air coolers, including desert, window-mounted, and personal and room variants; water heaters, such as electric, solar and heat pump water heaters; and kitchen appliances comprising induction cooktop, mixer grinders, gas cooktops, rice cookers, water purifiers, small and large appliances like kitchen hoods, and breakfast appliances. The Sunflame segment sells products under Sunflame and Superflame brands. It sells its products through a network of distributors and dealers. V-Guard Industries Limited was founded in 1977 and is headquartered in Kochi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 12798.72,
-  "pe_ratio": 31.37,
+  "market_cap_cr": 12586.83,
+  "pe_ratio": 30.85,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 58.3,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:21:44.059386",
-  "provider_reported_pb_ratio": 5.02,
-  "statements_retrieved_at": "2026-11-04T23:21:44.059386",
+  "retrieval_time": "2026-11-05T22:22:24.564096",
+  "provider_reported_pb_ratio": 4.94,
+  "statements_retrieved_at": "2026-11-05T22:22:24.564096",
   "retained_fields": []
 }

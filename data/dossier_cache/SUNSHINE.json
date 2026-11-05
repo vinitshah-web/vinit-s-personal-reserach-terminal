@@ -5,8 +5,8 @@
   "industry": "Entertainment",
   "business_summary": "Sunshine Pictures Limited engages in the business of film production, content development, media distribution, and allied entertainment services in India. The company offers production of feature films, web series, and television content. It is also involved in music production and distribution. It serves the entertainment industry by creating and distributing diverse media content across various platforms. Sunshine Pictures Limited was incorporated in 2007 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1222.28,
-  "pe_ratio": 2180.0,
+  "market_cap_cr": 1202.97,
+  "pe_ratio": 2145.56,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 55.09,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:15:44.097481",
-  "provider_reported_pb_ratio": 7.12,
-  "statements_retrieved_at": "2026-11-04T23:15:44.097481",
+  "retrieval_time": "2026-11-05T22:16:14.742095",
+  "provider_reported_pb_ratio": 7.01,
+  "statements_retrieved_at": "2026-11-05T22:16:14.742095",
   "retained_fields": []
 }

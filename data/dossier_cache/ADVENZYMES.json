@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Advanced Enzyme Technologies Limited, together with its subsidiaries, engages in the research, development, manufacture, and marketing of enzymes and probiotics in India, Europe, the United States, Asia, and internationally. The company offers serratiopeptidase, fungal lactase, peptizyme SP, nattokinase, fungal lipase, alpha galactosidase, saccharomyces boulardii, hemicellulose, papain, bromelain, fungal proteases, and bacterial alpha amylase. It also provides probiotics for human and animal nutrition. In addition, the company offers enzymes and probiotics for fruit and vegetable processing, baking, brewing and malting, starch and grain processing, protein modification, yeast processing, dairy and cheese processing, oils and fats processing, biofuels, and specialty applications. Further, it provides non-food processing enzymes for textile, leather, and pulp and paper processing, as well as detergents and cleaning aids. The company was formerly known as Advanced Biochemicals Limited and changed its name to Advanced Enzyme Technologies Limited in 2005. Advanced Enzyme Technologies Limited was founded in 1957 and is based in Thane, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3002.6,
-  "pe_ratio": 18.26,
+  "market_cap_cr": 3066.23,
+  "pe_ratio": 18.64,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 149.23,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:17:42.471505",
-  "provider_reported_pb_ratio": 1.87,
-  "statements_retrieved_at": "2026-11-04T22:17:42.471505",
+  "retrieval_time": "2026-11-05T21:15:55.251740",
+  "provider_reported_pb_ratio": 1.91,
+  "statements_retrieved_at": "2026-11-05T21:15:55.251740",
   "retained_fields": []
 }

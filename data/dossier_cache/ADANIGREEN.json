@@ -5,8 +5,8 @@
   "industry": "Utilities - Renewable",
   "business_summary": "Adani Green Energy Limited generates and supplies renewable energy to central and state government entities and government backed corporations in India. The company develops, builds, owns, operates, and maintains power plants through renewable sources, such as solar, wind, and hybrid. It operates solar power plants with an operational capacity of 10,103 megawatts (MW); wind power plants with an operational capacity of 2,140 MW; and hybrid power plants with an operational capacity of 2,140 MW. Adani Green Energy Limited was incorporated in 2015 and is headquartered in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 228628.05,
-  "pe_ratio": 126.18,
+  "market_cap_cr": 233058.97,
+  "pe_ratio": 128.63,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 124.32,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:17:22.900764",
-  "provider_reported_pb_ratio": 11.16,
-  "statements_retrieved_at": "2026-11-04T22:17:22.900764",
+  "retrieval_time": "2026-11-05T21:15:35.780127",
+  "provider_reported_pb_ratio": 11.38,
+  "statements_retrieved_at": "2026-11-05T21:15:35.780127",
   "retained_fields": []
 }

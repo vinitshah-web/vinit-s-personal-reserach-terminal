@@ -5,8 +5,8 @@
   "industry": "Integrated Freight & Logistics",
   "business_summary": "Ritco Logistics Limited provides logistics services in India. The company offers contract logistics services, including warehouse management systems; B2B logistics management; free zone trans-shipment documentation; and storage facilities for dangerous goods, perishable, and temperature-regulated and outsize logistics, as well as value-added services, such as barcode technology, pick and pack, inventory control, labeling, stock, and storage management. It also provides freight transportation solutions, which include bulk, dedicated, full truck, and less than truck loads; anciliary services; fleet management; and end to end activities comprising assembly and kitting services, including sorting, stuffing, tagging, labeling, packaging, bundling, strapping, shrink wrapping, and other services. The company serves the textile, solar energy, healthcare, pharmaceuticals, consumer durable, FMCG, IT, telecom, food grains, supplements, automotive, e-commerce, and other related industries. Ritco Logistics Limited was founded in 1996 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 769.56,
-  "pe_ratio": 25.72,
+  "market_cap_cr": 783.51,
+  "pe_ratio": 26.18,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 127.64,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:07:00.454931",
-  "provider_reported_pb_ratio": 2.12,
-  "statements_retrieved_at": "2026-11-04T23:07:00.454931",
+  "retrieval_time": "2026-11-05T22:06:31.178039",
+  "provider_reported_pb_ratio": 2.16,
+  "statements_retrieved_at": "2026-11-05T22:06:31.178039",
   "retained_fields": []
 }

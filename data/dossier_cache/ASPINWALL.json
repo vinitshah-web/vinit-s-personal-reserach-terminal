@@ -5,8 +5,8 @@
   "industry": "Farm Products",
   "business_summary": "Aspinwall and Company Limited engages in logistics, speciality coffee, natural fiber products, and natural rubber businesses in India, the Americas, Europe, and internationally. It operates through Logistics, Coffee, and Plantation segments. The company provides liner, custom house agency, freight forwarding, air and bulk cargo, ship agency, stevedoring, warehousing, and project and over-dimensional cargo handling services. It is also involved in the plantation, buying, processing, selling, trading, and export of coffee. In addition, the company offers entrance and corridor mats, carpets, mattings, rugs, runners, and mesh mattings; and PVC and rubber-backed natural fiber products, and jute floor-coverings and furnishings, as well as supplies natural fiber geotextiles, which are used in environment engineering to prevent soil erosion and coir pith. Further, it produces centrifuged latex and technically specified natural rubber. The company was founded in 1867 and is headquartered in Mangalore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 183.69,
-  "pe_ratio": 11.68,
+  "market_cap_cr": 182.11,
+  "pe_ratio": 11.58,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 256.96,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:21:51.734784",
+  "retrieval_time": "2026-11-05T21:20:08.121678",
   "provider_reported_pb_ratio": 0.91,
-  "statements_retrieved_at": "2026-11-04T22:21:51.734784",
+  "statements_retrieved_at": "2026-11-05T21:20:08.121678",
   "retained_fields": []
 }

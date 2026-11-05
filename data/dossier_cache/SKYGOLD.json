@@ -5,8 +5,8 @@
   "industry": "Luxury Goods",
   "business_summary": "Sky Gold and Diamonds Limited designs, manufactures, assembles, cuts, polishes, deals, markets, and sells gold and silver Jewellery in India. The company offers American diamonds, natural diamonds, lab-grown diamonds and colour gemstones. It operates through wholesalers, showrooms, and retailers. The company was formerly known as Sky Gold Limited and changed its name to Sky Gold and Diamonds Limited in March 2025. Sky Gold and Diamonds Limited was founded in 2005 and is headquartered in Thane, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 14359.91,
-  "pe_ratio": 36.3,
+  "market_cap_cr": 14698.31,
+  "pe_ratio": 37.16,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 90.79,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:13:19.502921",
-  "provider_reported_pb_ratio": 10.21,
-  "statements_retrieved_at": "2026-11-04T23:13:19.502921",
+  "retrieval_time": "2026-11-05T22:13:42.368355",
+  "provider_reported_pb_ratio": 10.45,
+  "statements_retrieved_at": "2026-11-05T22:13:42.368355",
   "retained_fields": []
 }

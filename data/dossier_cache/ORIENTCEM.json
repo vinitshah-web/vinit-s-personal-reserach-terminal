@@ -5,8 +5,8 @@
   "industry": "Building Materials",
   "business_summary": "Orient Cement Limited manufactures and sells cement in India. The company offers pozzolana and ordinary Portland cement under the Birla A1 Premium Cement, Birla A1 StrongCrete, Birla A1 OrientGreen, and Birla A1 Dolphin brand names. Its products are used in residential, commercial, infrastructure, industrial, and community projects. The company was founded in 1979 and is based in Ahmedabad, India. Orient Cement Limited operates as a subsidiary of Ambuja Cements Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 2492.43,
-  "pe_ratio": 12.96,
+  "market_cap_cr": 2579.55,
+  "pe_ratio": 13.41,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 109.54,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:01:00.519052",
-  "provider_reported_pb_ratio": 1.11,
-  "statements_retrieved_at": "2026-11-04T23:01:00.519052",
+  "retrieval_time": "2026-11-05T21:59:57.082397",
+  "provider_reported_pb_ratio": 1.15,
+  "statements_retrieved_at": "2026-11-05T21:59:57.082397",
   "retained_fields": []
 }

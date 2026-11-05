@@ -5,8 +5,8 @@
   "industry": "Chemicals",
   "business_summary": "POCL Enterprises Limited, together with its subsidiaries, engages in the manufacturing and trading of various metals, chemicals, and its oxides in India and internationally. It operates through Metal, Metallic Oxides, Plastic Additives, and Others segments. The company offers pure lead, lead antimony alloys, lead calcium alloys, lead tin alloys, and other master alloys; high grade and remelted zinc metal; zinc oxides; lead oxides, including grey oxide, red lead, and lead monoxide; and PVC stabilizers and calcium zinc stabilizers. It also provides lead, zinc, and barium stearate. The company was incorporated in 1988 and is headquartered in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 339.97,
-  "pe_ratio": 9.24,
+  "market_cap_cr": 349.75,
+  "pe_ratio": 9.51,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 64.6,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:03:12.100580",
-  "provider_reported_pb_ratio": 1.71,
-  "statements_retrieved_at": "2026-11-04T23:03:12.100580",
+  "retrieval_time": "2026-11-05T22:02:18.927915",
+  "provider_reported_pb_ratio": 1.76,
+  "statements_retrieved_at": "2026-11-05T22:02:18.927915",
   "retained_fields": []
 }

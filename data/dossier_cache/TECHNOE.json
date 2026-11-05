@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "Techno Electric & Engineering Company Limited provides engineering, procurement, and construction (EPC) services to the power generation, transmission, and distribution sectors in India and internationally. The company operates gas insulated, hybrid, and EHV substations; and offers STATCOM installation services, as well as engages in flue gas desulphurization projects business. It also provides metering infrastructure and IT enabled services. In addition, the company is involved in generation of wind power; agro business; and operating data centers. Techno Electric & Engineering Company Limited was incorporated in 1963 and is headquartered in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 10285.53,
-  "pe_ratio": 23.86,
+  "market_cap_cr": 10964.14,
+  "pe_ratio": 25.44,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 357.56,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T23:17:45.375167",
-  "provider_reported_pb_ratio": 2.47,
-  "statements_retrieved_at": "2026-11-04T23:17:45.375167",
+  "retrieval_time": "2026-11-05T22:18:21.077445",
+  "provider_reported_pb_ratio": 2.64,
+  "statements_retrieved_at": "2026-11-05T22:18:21.077445",
   "retained_fields": []
 }

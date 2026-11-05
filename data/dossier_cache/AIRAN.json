@@ -5,8 +5,8 @@
   "industry": "Information Technology Services",
   "business_summary": "Airan Limited, together with its subsidiaries, provides information technology (IT) and IT-enabled services in India and internationally. The company offers cash management, door step banking and pickup, fee collection/counter management, customer onboarding eKYC, cheque truncation/processing, e-stamping/registration fee collection, document management, contact center, records management, address verification and credit verification, back office management, bookkeeping, software development, self-managed superannuation fund, financials and taxation, data migration, payroll processing, labour law compliance, digital document verification, and automobile inspection services. It also offers CTS clearing processing, account opening forms processing, and managing collection counters services. Further, it provides consulting, technology, outsourcing, and digital services and software. Airan Limited was founded in 1989 and is headquartered in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 179.78,
-  "pe_ratio": 11.98,
+  "market_cap_cr": 184.9,
+  "pe_ratio": 12.32,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 10.73,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:18:31.467883",
-  "provider_reported_pb_ratio": 1.34,
-  "statements_retrieved_at": "2026-11-04T22:18:31.467883",
+  "retrieval_time": "2026-11-05T21:16:44.050436",
+  "provider_reported_pb_ratio": 1.38,
+  "statements_retrieved_at": "2026-11-05T21:16:44.050436",
   "retained_fields": []
 }

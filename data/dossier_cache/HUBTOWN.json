@@ -5,8 +5,8 @@
   "industry": "Real Estate - Development",
   "business_summary": "Hubtown Limited engages in the development and construction of real estate projects in India. The company develops residential and commercial, IT, industrial, and infrastructure projects. It is also involved in security plates, education research, and infrastructure facilities businesses. The company was formerly known as Ackruti City Limited and changed its name to Hubtown Limited in November 2011. Hubtown Limited was incorporated in 1989 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2583.39,
-  "pe_ratio": 30.71,
+  "market_cap_cr": 2597.17,
+  "pe_ratio": 30.87,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 187.29,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-04T22:43:08.456210",
-  "provider_reported_pb_ratio": 0.97,
-  "statements_retrieved_at": "2026-11-04T22:43:08.456210",
+  "retrieval_time": "2026-11-05T21:41:38.676567",
+  "provider_reported_pb_ratio": 0.98,
+  "statements_retrieved_at": "2026-11-05T21:41:38.676567",
   "retained_fields": []
 }
