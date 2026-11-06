@@ -5,8 +5,8 @@
   "industry": "Medical Care Facilities",
   "business_summary": "Max Healthcare Institute Limited provides medical and healthcare services in India. It offers services in various specialties, including cardiac sciences, orthopedics, oncology, renal sciences, neurosciences, minimal access and general surgery, pulmonology, obstetrics, bone marrow transplant, bariatric/weight loss surgery, gynecology, minimal access/laparoscopic surgery, eye care/ophthalmology, robotic surgery, paediatrics, nephrology, liver and biliary sciences, gastroenterology and GI surgery, internal medicine, organ transplants, and plastic and reconstructive surgery. The company also provides Max@Home, a platform that offers health and wellness services at home; and Max Lab, which provides diagnostic testing services to patients. In addition, it offers organ and tissue donation, preventive health checks, ambulance and immigration, air ambulance, and insurance and TPA services. The company provides healthcare services through a network of primary care clinics, multi-specialty hospitals/medical centres, and super-specialty hospital facilities. Max Healthcare Institute Limited was incorporated in 2001 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 90714.08,
-  "pe_ratio": 65.96,
+  "market_cap_cr": 90908.75,
+  "pe_ratio": 66.1,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 116.34,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:52:35.609707",
-  "provider_reported_pb_ratio": 8.01,
-  "statements_retrieved_at": "2026-11-05T21:52:35.609707",
+  "retrieval_time": "2026-11-06T21:12:01.074760",
+  "provider_reported_pb_ratio": 8.03,
+  "statements_retrieved_at": "2026-11-06T21:12:01.074760",
   "retained_fields": []
 }

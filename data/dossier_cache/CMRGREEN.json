@@ -6,7 +6,7 @@
   "business_summary": "CMR Green Technologies Limited manufactures and sells aluminum and zinc die-casting alloys in India and internationally. It offers recycled aluminium alloy ingots, zinc alloy ingots, liquid and ingot aluminium alloy, aluminium billets, and stainless steel recycling, as well as segregated furnace ready scrap of stainless steel, copper, brass, zinc, lead, magnesium, and others. The company was incorporated in 2005 and is based in Faridabad, India.",
   "business_summary_reason": null,
   "market_cap_cr": null,
-  "pe_ratio": 17.46,
+  "pe_ratio": 17.83,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 70.01,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:27:06.358165",
-  "provider_reported_pb_ratio": 3.05,
-  "statements_retrieved_at": "2026-11-05T21:27:06.358165",
+  "retrieval_time": "2026-11-06T20:47:25.468493",
+  "provider_reported_pb_ratio": 3.12,
+  "statements_retrieved_at": "2026-11-06T20:47:25.468493",
   "retained_fields": []
 }

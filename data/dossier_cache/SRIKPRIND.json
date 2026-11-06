@@ -6,7 +6,7 @@
   "business_summary": "Sri KPR Industries Limited, together with its subsidiaries, generates and sells wind electric power in India. It is also involved in the business of civil contracts. The company was formerly known as Bhagyanagar Wood Plast Ltd. and changed its name to Sri KPR Industries Limited in January 2012. Sri KPR Industries Limited was incorporated in 1988 and is based in Secunderabad, India.",
   "business_summary_reason": null,
   "market_cap_cr": null,
-  "pe_ratio": 7.85,
+  "pe_ratio": 8.01,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 64.24,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:14:59.097324",
-  "provider_reported_pb_ratio": 0.4,
-  "statements_retrieved_at": "2026-11-05T22:14:59.097324",
+  "retrieval_time": "2026-11-06T21:32:28.047382",
+  "provider_reported_pb_ratio": 0.41,
+  "statements_retrieved_at": "2026-11-06T21:32:28.047382",
   "retained_fields": []
 }

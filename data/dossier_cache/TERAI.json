@@ -5,8 +5,8 @@
   "industry": "Farm Products",
   "business_summary": "Terai Tea Company Limited engages in the production, distribution, and trading of tea in India. The company is involved in the trading of sugar, raw jute, and other merchandise. It engages in the real estate development, steel, garment, and food processing business. The company offers its products under the Terai King, Terai Queen, Terai Rungneet, Terai Monarch, Terai Maharaja, and Terai Snow View brands. It exports various merchandise to Bangladesh and other Middle East countries. Terai Tea Company Limited was incorporated in 1973 and is headquartered in Siliguri, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 81.86,
-  "pe_ratio": 11.88,
+  "market_cap_cr": 80.46,
+  "pe_ratio": 11.67,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 239.91,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:18:31.166639",
-  "provider_reported_pb_ratio": 0.5,
-  "statements_retrieved_at": "2026-11-05T22:18:31.166639",
+  "retrieval_time": "2026-11-06T21:35:46.816330",
+  "provider_reported_pb_ratio": 0.49,
+  "statements_retrieved_at": "2026-11-06T21:35:46.816330",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Auto Manufacturers",
   "business_summary": "Hyundai Motor India Limited engages in the manufacture and sale of passenger vehicles and parts in India and internationally. The company offers passenger vehicle models across sedans, hatchbacks, sports-utility vehicles (SUVs) and electric vehicles (EVs). The company provides motor vehicles, engine, and transmission and other parts, as well as provides related after-sales activities, and engineering services. It also exports its products to Latin America, Africa, the Middle East, and Europe. The company was incorporated in 1996 and is based in Gurugram, India. Hyundai Motor India Limited is a subsidiary of Hyundai Motor Company.",
   "business_summary_reason": null,
-  "market_cap_cr": 172339.97,
-  "pe_ratio": 37.67,
+  "market_cap_cr": 173071.26,
+  "pe_ratio": 37.83,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 250.73,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:41:46.139000",
-  "provider_reported_pb_ratio": 8.46,
-  "statements_retrieved_at": "2026-11-05T21:41:46.139000",
+  "retrieval_time": "2026-11-06T21:01:30.305676",
+  "provider_reported_pb_ratio": 8.5,
+  "statements_retrieved_at": "2026-11-06T21:01:30.305676",
   "retained_fields": []
 }

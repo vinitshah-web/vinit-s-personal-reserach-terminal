@@ -5,8 +5,8 @@
   "industry": "Oil & Gas E&P",
   "business_summary": "Antelopus Selan Energy Limited engages in oil and gas exploration and production. The company is based in Gurugram, India. Antelopus Selan Energy Limited operates as a subsidiary of Blackbuck Energy Investments Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 3116.27,
-  "pe_ratio": 17.53,
+  "market_cap_cr": 3135.68,
+  "pe_ratio": 17.63,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 217.58,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:18:17.523332",
-  "provider_reported_pb_ratio": 4.06,
-  "statements_retrieved_at": "2026-11-05T21:18:17.523332",
+  "retrieval_time": "2026-11-06T20:39:06.993450",
+  "provider_reported_pb_ratio": 4.08,
+  "statements_retrieved_at": "2026-11-06T20:39:06.993450",
   "retained_fields": []
 }

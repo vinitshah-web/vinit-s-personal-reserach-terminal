@@ -5,8 +5,8 @@
   "industry": "Electrical Equipment & Parts",
   "business_summary": "Shilchar Technologies Limited engages in the manufacture and sale of transformers and parts in India and internationally. It provides power and distribution transformers, furnace transformers, linear transformers, telecom transformers, standard line transformers, R- core transformers, high frequency transformers, toroidal transformers, control transformers, HV choke, and inductors and chokes for solar and wind energy. The company also exports its products. In addition, it involves electric power generation, transmission and distribution. Further, the company serves private utility companies, renewable energy, solar, wind & hydel, cement, sugar, steel and hydrocarbon industries, large scale EPC contractors, corporate clients, and power plant developers. The company was formerly known as Shilchar Electronics Limited. Shilchar Technologies Limited was incorporated in 1986 and is based in Vadodara, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4064.47,
-  "pe_ratio": 32.63,
+  "market_cap_cr": 4041.94,
+  "pe_ratio": 32.45,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 463.76,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:11:41.876068",
-  "provider_reported_pb_ratio": 7.66,
-  "statements_retrieved_at": "2026-11-05T22:11:41.876068",
+  "retrieval_time": "2026-11-06T21:29:23.091002",
+  "provider_reported_pb_ratio": 7.62,
+  "statements_retrieved_at": "2026-11-06T21:29:23.091002",
   "retained_fields": []
 }

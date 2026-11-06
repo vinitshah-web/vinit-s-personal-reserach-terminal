@@ -5,7 +5,7 @@
   "industry": "Computer Hardware",
   "business_summary": "TVS Electronics Limited, through its subsidiaries, operates as an integrated technology solutions company in India. It operates in two segments, Products & Solutions, and Customer Support Services. The company offers AIDC products, such as barcode scanners, mobile terminal, industrial grade tablets, fixed mount scanners, and industrial label printers; POS, touch POS, and handheld scanners; and electronics printers, including laser printers, thermal receipt printers, label printers, POS DMP printers, mobile printers, dot matrix printers, specialty printers, ribbon cartridges, and genuine spares. It also provides portable document scanners; cash counting machines; keyboard and mouse products; cash registers and drawers; web cameras and security CCTV; extended warranties; and field support services, including break-fix services, installation and demo, inventory and spare parts management, and warranty and support solutions for OEMs. In addition, the company offers infrastructure management services comprising workplace services, cyber security services, and digital infra and network services; green energy solutions consisting of solar operations and maintenance, EV infrastructure support, customized solutions, and post-project support. It serves retail, public sector, BFSI, and logistics industries. The company was formerly known as TVS eTechnology Limited and changed its name to TVS Electronics Limited in December 2003. TVS Electronics Limited was founded in 1986 and is headquartered in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 693.9,
+  "market_cap_cr": 743.49,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:20:21.277362",
-  "provider_reported_pb_ratio": 7.17,
-  "statements_retrieved_at": "2026-11-05T22:20:21.277362",
+  "retrieval_time": "2026-11-06T21:37:31.492436",
+  "provider_reported_pb_ratio": 7.68,
+  "statements_retrieved_at": "2026-11-06T21:37:31.492436",
   "retained_fields": []
 }

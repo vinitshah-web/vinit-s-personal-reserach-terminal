@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Amrutanjan Health Care Limited manufactures, supplies, and sells ayurvedic pain balms and women hygiene products in India and internationally. It operates through OTC Products, Beverages, Women's Hygiene & Personal Care, and Others segments. The company provides pain management products comprising pain balms and roll-ons, back pain roll-ons, stick-on patch, and joint muscle sprays; dental pain gel; and decorn corn caps; hand sanitizer under the NOGerms brand name; and enerlyte and electro, and fruit and rehydration juice drinks under the Fruitnik brand name. The company also offers congestion management products that consists of cold rubs, cough syrups, nasal inhalers, and swas mints, as well as provides sanitary napkins for women. In addition, it operates a pain management center. The company was formerly known as Amrutanjan Limited and changed its name to Amrutanjan Health Care Limited in 2007. Amrutanjan Health Care Limited was founded in 1893 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1499.05,
-  "pe_ratio": 27.78,
+  "market_cap_cr": 1486.76,
+  "pe_ratio": 27.55,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 128.06,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:17:56.322710",
-  "provider_reported_pb_ratio": 4.05,
-  "statements_retrieved_at": "2026-11-05T21:17:56.322710",
+  "retrieval_time": "2026-11-06T20:38:46.780432",
+  "provider_reported_pb_ratio": 4.02,
+  "statements_retrieved_at": "2026-11-06T20:38:46.780432",
   "retained_fields": []
 }

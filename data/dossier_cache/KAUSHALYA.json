@@ -5,7 +5,7 @@
   "industry": "Engineering & Construction",
   "business_summary": "Kaushalya Infrastructure Development Corporation Limited engages in executing construction contracts relating to infrastructure and real estate developments in India. It operates through Construction and Hotel segments. The company also develops highways, bridges, industrial infrastructure, mining and others; transmission, generation, and agriculture projects; and residential, commercial, institutional complexes. In addition, it engages in the operation of hotels; acquisition, development, and sale of land business. Further, the company is involved in trading school shoes and bags. Kaushalya Infrastructure Development Corporation Limited was incorporated in 1992 and is headquartered in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 28.71,
+  "market_cap_cr": 28.12,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:46:55.061278",
+  "retrieval_time": "2026-11-06T21:06:34.048143",
   "provider_reported_pb_ratio": 0.37,
-  "statements_retrieved_at": "2026-11-05T21:46:55.061278",
+  "statements_retrieved_at": "2026-11-06T21:06:34.048143",
   "retained_fields": []
 }

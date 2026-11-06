@@ -5,7 +5,7 @@
   "industry": "Information Technology Services",
   "business_summary": "R S Software (India) Limited provides software solutions to electronic payment industries in India, the United States, and the United Kingdom. It engages in the development, testing, and maintenance of software products. The company's products include RS RealEdge, a real-time payment market infrastructure solution for central infrastructure; RS SettleEdge a clearing and settlement for real-time clearing and ultra-high frequency settlement; RS IntelliEdge, a fraud and risk management product; RS DigitalEdge, an open-source product enables the enterprise API capability for central payment infrastructure digitalization; and RS AssureEdge, a sandbox-driven testing platform for real-time rail readiness, high-scale test orchestration, and resilience validation through chaos testing. It also offers RS Bill@Edge, an EIBPP product for bill payments; and Payabbhi that enables payment service providers to modernize their payments acceptance and acquiring. In addition, the company provides RS ConnectEdge, a Payment Platform as a Service that enables financial institutions to offer real-time payment capability with immediate funds availability; Payment Innovation Framework, a framework for payment modernization. The company was founded in 1987 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 72.33,
+  "market_cap_cr": 72.97,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:07:17.220101",
-  "provider_reported_pb_ratio": 4.77,
-  "statements_retrieved_at": "2026-11-05T22:07:17.220101",
+  "retrieval_time": "2026-11-06T21:25:45.578686",
+  "provider_reported_pb_ratio": 4.81,
+  "statements_retrieved_at": "2026-11-06T21:25:45.578686",
   "retained_fields": []
 }

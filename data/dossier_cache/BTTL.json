@@ -5,7 +5,7 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Bhilwara Technical Textiles Limited engages in the trading of yarns in India, Europe, Africa, Far East, and Southeast Asia. It trades in cotton raw white, cotton dyed, and cotton m\u00e9lange yarns. The company was incorporated in 2007 and is headquartered in Noida, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 217.09,
+  "market_cap_cr": 216.1,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:25:10.139879",
-  "provider_reported_pb_ratio": 1.35,
-  "statements_retrieved_at": "2026-11-05T21:25:10.139879",
+  "retrieval_time": "2026-11-06T20:45:35.399999",
+  "provider_reported_pb_ratio": 1.34,
+  "statements_retrieved_at": "2026-11-06T20:45:35.399999",
   "retained_fields": []
 }

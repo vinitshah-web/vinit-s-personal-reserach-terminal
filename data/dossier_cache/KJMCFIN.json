@@ -5,8 +5,8 @@
   "industry": "Capital Markets",
   "business_summary": "KJMC Financial Services Limited, a non-banking financial company, primarily engages in the business of investing/trading in securities and advancing loans in India. The company offers short term loans to corporates and individuals; co-lending/loan transfers; and MSME loans, as well as distributes third party loan products, such as home, business, personal, construction finance, and machinery loan; and loan against shares and property. It also provides fund-based financial services and funding solutions to the corporate, institutions, MSME's, individuals, etc. The company also invests in listed and unlisted securities. It serves retail, MSME, and commercial customers. The company was incorporated in 1988 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 28.14,
-  "pe_ratio": 11.76,
+  "market_cap_cr": 26.11,
+  "pe_ratio": 10.91,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 214.29,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:47:49.724702",
-  "provider_reported_pb_ratio": 0.27,
-  "statements_retrieved_at": "2026-11-05T21:47:49.724702",
+  "retrieval_time": "2026-11-06T21:07:25.044353",
+  "provider_reported_pb_ratio": 0.25,
+  "statements_retrieved_at": "2026-11-06T21:07:25.044353",
   "retained_fields": []
 }

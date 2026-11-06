@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Orchid Pharma Limited, a pharmaceutical company, engages in the development, manufacture, and marketing of active pharmaceutical ingredients, bulk actives, finished dosage formulations, and nutraceuticals in India. Its active pharmaceutical ingredients product portfolio includes oral cephalosporins and injectable cephalosporins; human and veterinary products; and antibiotics, including beta-lactam. It serves pharma companies, generic drug manufacturers, healthcare distributors, and institutional and government buyers. The company also exports its products to approximately 40 countries internationally. The company was formerly known as Orchid Chemicals & Pharmaceuticals Limited and changed its name to Orchid Pharma Limited in October 2015. Orchid Pharma Limited was incorporated in 1992 and is headquartered in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4575.62,
-  "pe_ratio": 560.34,
+  "market_cap_cr": 4402.42,
+  "pe_ratio": 539.13,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 253.98,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:59:49.596198",
-  "provider_reported_pb_ratio": 3.55,
-  "statements_retrieved_at": "2026-11-05T21:59:49.596198",
+  "retrieval_time": "2026-11-06T21:18:57.298459",
+  "provider_reported_pb_ratio": 3.42,
+  "statements_retrieved_at": "2026-11-06T21:18:57.298459",
   "retained_fields": []
 }

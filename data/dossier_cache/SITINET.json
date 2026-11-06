@@ -5,7 +5,7 @@
   "industry": "Entertainment",
   "business_summary": "SITI Networks Limited, a multi-system operator, distribution of television channels through digital cable distribution network and allied services in India. Its products include digital and analogue cable television, broadband, and local television channels. The company also offers cable services and broadband Internet services. It markets its products under the SITI brand. The company was formerly known as SITI Cable Network Limited and changed its name to SITI Networks Limited in August 2016. SITI Networks Limited was founded in 1994 and is based in Noida, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 26.56,
+  "market_cap_cr": 27.72,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:13:29.907227",
+  "retrieval_time": "2026-11-06T21:31:01.691035",
   "provider_reported_pb_ratio": -0.02,
-  "statements_retrieved_at": "2026-11-05T22:13:29.907227",
+  "statements_retrieved_at": "2026-11-06T21:31:01.691035",
   "retained_fields": []
 }

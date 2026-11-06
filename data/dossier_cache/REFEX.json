@@ -5,14 +5,14 @@
   "industry": "Thermal Coal",
   "business_summary": "Refex Industries Limited engages in handling and disposal of fly ash in India. The company engages in solar power generation and related activities; coal trading; and providing coal yard management services and solar module trading. It also engages in providing transport services using electric vehicles. The company was formerly known as Refex Refrigerants Limited and changed its name to Refex Industries Limited in November 2013. The company was incorporated in 2002 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3173.82,
-  "pe_ratio": 10.73,
+  "market_cap_cr": 3104.8,
+  "pe_ratio": 10.49,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 118.08,
-  "dividend_yield_pct": 0.4497,
+  "dividend_yield_pct": 0.4324,
   "shares_outstanding_cr": 13.7229,
-  "fifty_two_week_high": 382.0,
+  "fifty_two_week_high": 371.4,
   "fifty_two_week_low": 188.0,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:05:36.602107",
-  "provider_reported_pb_ratio": 1.96,
-  "statements_retrieved_at": "2026-11-05T22:05:36.602107",
+  "retrieval_time": "2026-11-06T21:24:24.017460",
+  "provider_reported_pb_ratio": 1.92,
+  "statements_retrieved_at": "2026-11-06T21:24:24.017460",
   "retained_fields": []
 }

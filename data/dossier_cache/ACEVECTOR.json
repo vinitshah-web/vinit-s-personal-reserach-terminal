@@ -5,7 +5,7 @@
   "industry": "Internet Retail",
   "business_summary": "AceVector Limited establishes, develops, designs, and conceptualizes direct marketing and sales promotion solutions through web and non-web based platforms. It offers warehousing solutions, trading via e-commerce, and providing e-commerce platform for consumer goods. In addition, it is also involved in snapdeal, unicommerce, and stellaro brands businesses. AceVector Limited was formerly known as Snapdeal Limited and changed its name to AceVector Limited on January 06, 2023. The company was incorporated in 2007 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1078.58,
+  "market_cap_cr": 1023.62,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:15:24.330134",
-  "provider_reported_pb_ratio": 2.88,
-  "statements_retrieved_at": "2026-11-05T21:15:24.330134",
+  "retrieval_time": "2026-11-06T20:36:20.896151",
+  "provider_reported_pb_ratio": 2.74,
+  "statements_retrieved_at": "2026-11-06T20:36:20.896151",
   "retained_fields": []
 }

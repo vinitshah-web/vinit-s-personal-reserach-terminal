@@ -5,14 +5,14 @@
   "industry": "Software - Application",
   "business_summary": "BlackBuck Limited, together with its subsidiaries, provides payments, telematics, loads marketplace, and vehicle financing services in India. It operates in two segments, Truck Operator Services and Lending Business. The company offers digital solutions, including BlackBuck FASTag, GPS, Loads, Fuel Cards, and FinServe. It also engages in the provision of loans for the purchase of commercial vehicles; and logistics services. The company was formerly known as Zinka Logistics Solutions Limited and changed its name to BlackBuck Limited in August 2025. BlackBuck Limited was incorporated in 2015 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 9859.22,
-  "pe_ratio": 54.7,
+  "market_cap_cr": 10160.83,
+  "pe_ratio": 56.38,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 83.08,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 18.2241,
-  "fifty_two_week_high": 720.0,
+  "fifty_two_week_high": 708.0,
   "fifty_two_week_low": 496.0,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:23:57.299571",
-  "provider_reported_pb_ratio": 6.51,
-  "statements_retrieved_at": "2026-11-05T21:23:57.299571",
+  "retrieval_time": "2026-11-06T20:44:23.106125",
+  "provider_reported_pb_ratio": 6.71,
+  "statements_retrieved_at": "2026-11-06T20:44:23.106125",
   "retained_fields": []
 }

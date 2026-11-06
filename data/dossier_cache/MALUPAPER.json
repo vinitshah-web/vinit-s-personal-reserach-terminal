@@ -5,7 +5,7 @@
   "industry": "Paper & Paper Products",
   "business_summary": "Malu Paper Mills Limited manufactures and sells paper in India. The company offers newsprint, writing and printing, kraft, and packaging paper; and tissue papers and other speciality papers, as well as paper boards for packaging applications. It also exports its products to Europe, Asia, Africa, China, and Central and South America. The company was formerly known as Malu Solvex Limited and changed its name to Malu Paper Mills Limited in April 1998. Malu Paper Mills Limited was incorporated in 1994 and is based in Nagpur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 58.55,
+  "market_cap_cr": 58.79,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:51:43.257734",
-  "provider_reported_pb_ratio": -2.06,
-  "statements_retrieved_at": "2026-11-05T21:51:43.257734",
+  "retrieval_time": "2026-11-06T21:11:09.090850",
+  "provider_reported_pb_ratio": -2.07,
+  "statements_retrieved_at": "2026-11-06T21:11:09.090850",
   "retained_fields": []
 }

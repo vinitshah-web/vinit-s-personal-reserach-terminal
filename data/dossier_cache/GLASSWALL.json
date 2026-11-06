@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "GLASS WALL SYSTEMS (INDIA) Limited engages in designing, manufacturing, and installation of building facades. The company offers glazing systems and architectural facade solutions designed for residential, commercial and industrial projects. It also utilizes advanced design and production software, dedicated production lines for unitized systems, doors, and windows, and operates manufacturing plants with in-house powder coating and sheet fabrication units. In addition, the company conducts skill training programs and workshops for designers and engineers. It operates in the United States, Australia, Qatar, Ireland, Sri Lanka, and Israel. The company was founded in 2010 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2189.5,
-  "pe_ratio": 26.13,
+  "market_cap_cr": 2159.69,
+  "pe_ratio": 25.77,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 30.7,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:36:18.753313",
-  "provider_reported_pb_ratio": 8.11,
-  "statements_retrieved_at": "2026-11-05T21:36:18.753313",
+  "retrieval_time": "2026-11-06T20:56:15.665024",
+  "provider_reported_pb_ratio": 8.0,
+  "statements_retrieved_at": "2026-11-06T20:56:15.665024",
   "retained_fields": []
 }

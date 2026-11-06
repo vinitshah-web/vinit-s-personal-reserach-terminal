@@ -5,7 +5,7 @@
   "industry": "Resorts & Casinos",
   "business_summary": "Delta Corp Limited, together with its subsidiaries, operates in the gaming and entertainment, and hospitality businesses in India and internationally. It operates through Casino Gaming, Hospitality, and Real Estate segments. The Casino Gaming segment operates offshore casinos, including Deltin Royale, Deltin JAQK, and King Casino in Goa; land-based casinos, such as Deltin Suites Casino and Deltin Zuri in Goa, and Deltin Denzong in Sikkim. The Hospitality segment operates The Deltin, a five-star hotel, which includes rooms, gourmet restaurants, and bars, as well as indoor event place, swimming pools, and indoor and outdoor games located in Daman; and Deltin Suites, an all-suite hotel with a casino, restaurant, a bar, and a gym and spa facilities located in Goa. The Real Estate segment offers destinations, mixed-use land solutions, and residential redevelopment projects services. Delta Corp Limited was incorporated in 1990 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2051.13,
+  "market_cap_cr": 2012.03,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:29:34.822884",
-  "provider_reported_pb_ratio": 1.07,
-  "statements_retrieved_at": "2026-11-05T21:29:34.822884",
+  "retrieval_time": "2026-11-06T20:49:50.180204",
+  "provider_reported_pb_ratio": 1.05,
+  "statements_retrieved_at": "2026-11-06T20:49:50.180204",
   "retained_fields": []
 }

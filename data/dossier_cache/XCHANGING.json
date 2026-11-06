@@ -5,14 +5,14 @@
   "industry": "Information Technology Services",
   "business_summary": "Xchanging Solutions Limited provides information technology services in India, Europe, the United States, Singapore, and internationally. It provides application services, including applications modernization, managed applications, software development, and quality assurance services; AI workbench, enterprise intelligence, IoT and digital twin services, and modernization as a service; and enterprise applications, such as Amazon Quick, Microsoft, Oracle, Salesforce, SAP, and ServiceNow. The company also offers banking BPO, contact center experience BPO, and finance and accounting BPO; cloud platforms, intelligent operations, mainframe services, network services, private cloud services, public cloud services, and traditional hosting services; cyber risk and compliance services, cyber transformation and operations services, digital identity services, infrastructure, application and data protection services, and zero trust data mesh services; and device services, support services, and workplace experience services. In addition, it provides industry-specific platforms, including AMBER for automotive; CoreIgnite and Hogan for financial services; Assure for insurance; and DXC Oasis for operations. The company offers its services to aerospace and defense; automotive; financial services; consumer and retail; renewable energy, utilities, oil, and gas; healthcare; insurance; life sciences; manufacturing; public sector; technology, media, and telecommunication; and travel, transportation, and hospitality industries. The company was formerly known as Cambridge Solutions Limited and changed its name to Xchanging Solutions Limited in June 2012. Xchanging Solutions Limited was incorporated in 2002 and is based in Bengaluru, India. Xchanging Solutions Limited operates as a subsidiary of Xchanging Mauritius Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 641.46,
-  "pe_ratio": 10.55,
+  "market_cap_cr": 676.22,
+  "pe_ratio": 11.12,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 37.12,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 11.1404,
-  "fifty_two_week_high": 93.94,
+  "fifty_two_week_high": 90.48,
   "fifty_two_week_low": 47.5,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:24:53.144820",
-  "provider_reported_pb_ratio": 1.55,
-  "statements_retrieved_at": "2026-11-05T22:24:53.144820",
+  "retrieval_time": "2026-11-06T21:41:46.746697",
+  "provider_reported_pb_ratio": 1.64,
+  "statements_retrieved_at": "2026-11-06T21:41:46.746697",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Industrial Distribution",
   "business_summary": "W. H. Brady & Company Limited, together with its subsidiaries, manufactures, Trading, and sells of standardized Material Handling Equipment in India, Africa, and Southeast Asia. It operates through Rental, Trading, and Manufacturing and Entertainment segments. The company offers single and double girder, underslung, jib, gantry, and flameproof cranes; and ropemaster electric wire rope hoist, flameproof electric wire rope hoist, and electric chain hoist. It also provides RS, NX, ES, and non-sparking chain pulley blocks; and non-sparking geared travelling trolley under the MORRIS brand name. In addition, the company offers crane refurbishment, erection and commissioning, and repair and other services. Further, it provides aviation support service, general engineering items and renting of space building; and infrastructure services, such as pre-sales support and due diligence, project management and execution, logistics, and after sales support services for aviation and highways sectors. W. H. Brady & Company Limited was incorporated in 1913 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 122.4,
-  "pe_ratio": 19.91,
+  "market_cap_cr": 123.64,
+  "pe_ratio": 20.11,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 339.0,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:24:30.498108",
-  "provider_reported_pb_ratio": 1.42,
-  "statements_retrieved_at": "2026-11-05T22:24:30.498108",
+  "retrieval_time": "2026-11-06T21:41:25.365839",
+  "provider_reported_pb_ratio": 1.43,
+  "statements_retrieved_at": "2026-11-06T21:41:25.365839",
   "retained_fields": []
 }

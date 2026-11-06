@@ -5,8 +5,8 @@
   "industry": "Apparel Manufacturing",
   "business_summary": "Lovable Lingerie Limited manufactures and sells hosiery garment products in India. The company provides brassieres, panties, lingerie accessories, and garments. It offers its products under the Lovable and Daisy Dee brand names. The company was formerly known as Lovable Lingeries Limited and changed its name to Lovable Lingerie Limited in August 2010. Lovable Lingerie Limited was incorporated in 1987 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 103.39,
-  "pe_ratio": 18.34,
+  "market_cap_cr": 99.77,
+  "pe_ratio": 17.69,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 122.24,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:50:36.999961",
-  "provider_reported_pb_ratio": 0.57,
-  "statements_retrieved_at": "2026-11-05T21:50:36.999961",
+  "retrieval_time": "2026-11-06T21:10:05.819498",
+  "provider_reported_pb_ratio": 0.55,
+  "statements_retrieved_at": "2026-11-06T21:10:05.819498",
   "retained_fields": []
 }

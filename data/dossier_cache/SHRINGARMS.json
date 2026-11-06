@@ -5,8 +5,8 @@
   "industry": "Luxury Goods",
   "business_summary": "Shringar House of Mangalsutra Limited engages in the design, manufacture, and market of mangalsutras in India and internationally. It serves corporate clients, wholesale jewellers, and retailers. The company was founded in 1963 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3009.16,
-  "pe_ratio": 23.68,
+  "market_cap_cr": 2984.09,
+  "pe_ratio": 23.48,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 70.29,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:12:24.433686",
-  "provider_reported_pb_ratio": 4.44,
-  "statements_retrieved_at": "2026-11-05T22:12:24.433686",
+  "retrieval_time": "2026-11-06T21:29:58.567064",
+  "provider_reported_pb_ratio": 4.4,
+  "statements_retrieved_at": "2026-11-06T21:29:58.567064",
   "retained_fields": []
 }

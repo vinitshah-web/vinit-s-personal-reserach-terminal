@@ -5,8 +5,8 @@
   "industry": "Advertising Agencies",
   "business_summary": "R K Swamy Limited, together with its subsidiaries, provides integrated marketing services in India and internationally. The company engages in advertising activities across various media, such as television, newspapers, radio, outdoor, and strategic media planning and buying; undertaking of market research activities, including research and analytics solutions and customer analytics; development and management of campaigns in creative services, promotions through appropriate media, brand, and marketing consultancy; and other services. It also provides advertising creative, digital marketing, brand activation and consulting, branding and design, health care, and content-at-scale services; quantitative, qualitative, and syndicated market research services; data analytics and marketing technology solutions, such as CX measurement, CRM, and customer experience center services; and market intelligence services. The company serves the banking, financial services and insurance, automotive, fast-moving consumer goods, consumer durables, retail, and e-commerce industries; the rural and social/advocacy, and media and entertainment sectors; and private companies, major institutions of India, public sector enterprises, and multinational companies. R K Swamy Limited was incorporated in 1973 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 422.9,
-  "pe_ratio": 18.62,
+  "market_cap_cr": 405.79,
+  "pe_ratio": 17.86,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 52.36,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:06:38.351940",
-  "provider_reported_pb_ratio": 1.6,
-  "statements_retrieved_at": "2026-11-05T22:06:38.351940",
+  "retrieval_time": "2026-11-06T21:25:09.634438",
+  "provider_reported_pb_ratio": 1.54,
+  "statements_retrieved_at": "2026-11-06T21:25:09.634438",
   "retained_fields": []
 }

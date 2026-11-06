@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Adroit Industries (India) Limited, together with its subsidiaries, manufactures and markets auto parts and components in India. The company offers propeller shafts, driveshaft assemblies, and precision-machined torque-transmission components for automotive and non-automotive applications. It also provides cardan shafts, universal joints, sleeve and slip yokes, tube and weld yokes, flange and end yokes, companion flanges, yoke shafts, splined stub shafts, stub shafts, centre bearings, centre support bearings, short-coupled shafts, tubular shafts, mid-ship shafts, mechanics-style cardan parts and accessories, CV double cardan driveshaft assemblies, and forged products, as well as clutch plates, rubber parts, and spares. In addition, the company repairs a range of automotive components and parts. It sells its products through a network of distributors and Tier-1 driveline component suppliers, as well as through direct sales to original equipment manufacturers. The company exports its products to approximately 32 countries, including the United States, Colombia, Canada, Australia, Mexico, Turkey, the United Kingdom, Peru, and internationally. Adroit Industries (India) Limited was founded in 1966 and is based in Pithampur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 766.72,
-  "pe_ratio": 24.31,
+  "market_cap_cr": 739.02,
+  "pe_ratio": 23.43,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 36.84,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:15:46.514729",
-  "provider_reported_pb_ratio": 4.64,
-  "statements_retrieved_at": "2026-11-05T21:15:46.514729",
+  "retrieval_time": "2026-11-06T20:36:42.472130",
+  "provider_reported_pb_ratio": 4.48,
+  "statements_retrieved_at": "2026-11-06T20:36:42.472130",
   "retained_fields": []
 }

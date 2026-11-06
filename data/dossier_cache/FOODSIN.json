@@ -5,8 +5,8 @@
   "industry": "Packaged Foods",
   "business_summary": "Foods and Inns Limited manufactures and sells various processed fruits and vegetables, pulps, purees, spices, spray-dried powders, and frozen food in India and internationally. The company offers aseptic fruit and vegetable purees and concentrates; canned products, such as ready-to-eat fruits and vegetables; frozen fruits, vegetables, snacks, and flatbreads, including pastry sheets, puff pastry, and expanded frozen snack lines; and spray-dried powders. It also provides ground, blended, and whole spices; pectin; and tetra recart carton packaging products. The company offers its products under the Madhu, Kusum, and Greentop brands. Foods and Inns Limited was incorporated in 1967 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 334.79,
-  "pe_ratio": 13.55,
+  "market_cap_cr": 321.19,
+  "pe_ratio": 13.0,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 78.67,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:34:46.754197",
-  "provider_reported_pb_ratio": 0.58,
-  "statements_retrieved_at": "2026-11-05T21:34:46.754197",
+  "retrieval_time": "2026-11-06T20:54:46.089253",
+  "provider_reported_pb_ratio": 0.56,
+  "statements_retrieved_at": "2026-11-06T20:54:46.089253",
   "retained_fields": []
 }

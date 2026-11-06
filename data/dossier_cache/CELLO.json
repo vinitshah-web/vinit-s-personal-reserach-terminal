@@ -5,14 +5,14 @@
   "industry": "Furnishings, Fixtures & Appliances",
   "business_summary": "Cello World Limited manufactures and sells consumer houseware and glassware products in India and internationally. The company offers vacuum-insulated steel products, including flasks, bottles, sports bottles, kids' bottles, mugs, tiffin's, soup and food jars, serving pots, and beverage dispensers, as well as hot pots, lunch packs, water jugs, single-walled steel bottles, and containers. It also provides opalware; and glassware, such as tumblers, bottles, jugs, hot drinks, storage containers, mixing bowls, and lunch boxes. In addition, the company offers copper products comprising bottles, kalash matka's, gift sets, glasses, coasters, and jars; insulated ware consisting of water bottles and jugs, hot pots, lunch carriers, tuff jugs, flasks, chillers, and gift sets; and plastic houseware, including storage containers, jars, bottles, tiffin's, water jugs, fridge bottles, dinner sets, plates, bowls, dry fruit sets, trays, bathroom sets, stools, and laundry baskets. Further, the company provides melamine products; and kitchen appliances, such as mixer grinders, blenders, juicers, choppers, food processors, induction cookers, electric kettles, sandwich makers, toasters, OTG, and irons; and non-stick cookware, stainless steel, cast iron, and pressure cookers. Additionally, it offers moulded furniture comprising basic and premium chairs, cafeteria chairs, center tables, dining tables, kids' tables and chairs, and storage solutions; air coolers; cleaning aids consisting of floors, sinks, ceiling brushes, kitchen wipers, brooms, spin mop buckets, mops, sponge wipes, scrubs, cleaning gloves, hand sanitizers, masks, and dustbins; waste management products; pallets; extrusion sheets; tools and dies; and unomax writing, such as liquid ballpoint, gel, roller, fountain, metal ballpoint and roller, mechanical pencils, highlighters, markers, and gift sets. The company also sells its products online. Cello World Limited was founded in 1958 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 8394.53,
-  "pe_ratio": 26.59,
+  "market_cap_cr": 8203.95,
+  "pe_ratio": 25.98,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
-  "book_value": 122.28,
+  "book_value": 125.1,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 22.5538,
-  "fifty_two_week_high": 656.7,
+  "fifty_two_week_high": 651.2,
   "fifty_two_week_low": 314.0,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:26:00.126684",
-  "provider_reported_pb_ratio": 3.04,
-  "statements_retrieved_at": "2026-11-05T21:26:00.126684",
+  "retrieval_time": "2026-11-06T20:46:22.114260",
+  "provider_reported_pb_ratio": 2.91,
+  "statements_retrieved_at": "2026-11-06T20:46:22.114260",
   "retained_fields": []
 }

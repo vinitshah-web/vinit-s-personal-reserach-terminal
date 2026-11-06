@@ -5,8 +5,8 @@
   "industry": "Credit Services",
   "business_summary": "Bajaj Finance Limited operates as a deposit-taking non-banking financial company in India. The company offers financing for various products, such as consumer electronics, furniture, digital products, lifestyle products, lifecare services, e-commerce purchases, retail spends, and two and three-wheelers; and personal, unsecured, home, secured, gold, and car loans. It also provides secured and unsecured loans to micro, small, and medium enterprises; loans against property, mutual funds, insurance policies, and shares; developer finance and lease rental discounting services; commercial vehicle financing; and new and used car financing, and tractor financing. In addition, the company offers commercial and rural lending; public and corporate deposits; loans against securities; micro-finance and auto financing lending; proprietary trading, ESOP financing, and broking and margin trade financing services. Further, it distributes life, health, and general insurance products. The company was formerly known as Bajaj Auto Finance Limited and changed its name to Bajaj Finance Limited in September 2010. The company was incorporated in 1987 and is based in Pune, India. Bajaj Finance Limited is a subsidiary of Bajaj Finserv Ltd.",
   "business_summary_reason": null,
-  "market_cap_cr": 665957.7,
-  "pe_ratio": 30.76,
+  "market_cap_cr": 677005.13,
+  "pe_ratio": 31.28,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 197.95,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:21:48.857922",
-  "provider_reported_pb_ratio": 5.41,
-  "statements_retrieved_at": "2026-11-05T21:21:48.857922",
+  "retrieval_time": "2026-11-06T20:42:23.727464",
+  "provider_reported_pb_ratio": 5.49,
+  "statements_retrieved_at": "2026-11-06T20:42:23.727464",
   "retained_fields": []
 }

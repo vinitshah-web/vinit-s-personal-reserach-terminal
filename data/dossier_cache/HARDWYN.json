@@ -5,8 +5,8 @@
   "industry": "Building Products & Equipment",
   "business_summary": "Hardwyn India Limited wholesales and retails architectural hardware and glass fittings, kitchen hardware, accessories, and appliances in India. It also offers aluminium and allied products. The company was formerly known as Garv Industries Limited and changed its name to Hardwyn India Limited in January 2020. Hardwyn India Limited was founded in 1965 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 622.25,
-  "pe_ratio": 47.89,
+  "market_cap_cr": 624.31,
+  "pe_ratio": 48.05,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 5.92,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:39:14.489829",
+  "retrieval_time": "2026-11-06T20:59:05.424070",
   "provider_reported_pb_ratio": 1.54,
-  "statements_retrieved_at": "2026-11-05T21:39:14.489829",
+  "statements_retrieved_at": "2026-11-06T20:59:05.424070",
   "retained_fields": []
 }

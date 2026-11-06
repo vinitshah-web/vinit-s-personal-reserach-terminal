@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Anuh Pharma Limited engages in the manufacture and sale of bulk drugs and chemicals in India. It offers active pharmaceutical ingredients, including macrolides, anti-TB, anti-malarial, anti-hypertension, expectorant, anti-diabetics, anti-bacterial, anti-gout, anti asthmatics, quinolones, anti biotic, anti platelet, anti-histamines, and intermediates; and corticosteroids, including anti-inflammatory, immunosuppressant, anti-pruritic, and anti-mitotic. The company also develops products, such as anticoagulant, antagonist, anti convulsants, anty-ulcerative, anty-ulcerative, anticholinergics, anti-anemic, antidepressant, and mucolytic agents. It also exports its products. Anuh Pharma Limited was incorporated in 1960 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 823.44,
-  "pe_ratio": 18.63,
+  "market_cap_cr": 817.33,
+  "pe_ratio": 18.49,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 35.95,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:18:21.350172",
-  "provider_reported_pb_ratio": 2.29,
-  "statements_retrieved_at": "2026-11-05T21:18:21.350172",
+  "retrieval_time": "2026-11-06T20:39:10.425201",
+  "provider_reported_pb_ratio": 2.27,
+  "statements_retrieved_at": "2026-11-06T20:39:10.425201",
   "retained_fields": []
 }

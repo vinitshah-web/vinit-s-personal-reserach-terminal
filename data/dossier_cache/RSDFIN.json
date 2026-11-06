@@ -5,8 +5,8 @@
   "industry": "Asset Management",
   "business_summary": "RSD Finance Limited, together with its subsidiaries, operates as a non-banking finance company in India. The company provides loans and advances, inter-corporate deposits, and loans against securities, as well as investing in shares and securities, and various financial instruments. It is also involved in the purchase or sale of equipment, plants, properties, securities, or other assets; generation and transmission of solar energy; and real estate business. In addition, the company provides investment and financial services; job work services for metal plating; hotel business; heat treatment activities; and acquisition of shares, stocks, bonds, debentures, and securities. It operates a hotel under the brand name of The Alcor Hotel. RSD Finance Limited was incorporated in 1963 and is based in Jamshedpur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 110.05,
-  "pe_ratio": 6.9,
+  "market_cap_cr": 112.48,
+  "pe_ratio": 7.06,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 170.41,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:07:14.597771",
-  "provider_reported_pb_ratio": 0.5,
-  "statements_retrieved_at": "2026-11-05T22:07:14.597771",
+  "retrieval_time": "2026-11-06T21:25:43.371597",
+  "provider_reported_pb_ratio": 0.51,
+  "statements_retrieved_at": "2026-11-06T21:25:43.371597",
   "retained_fields": []
 }

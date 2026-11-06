@@ -5,14 +5,14 @@
   "industry": "Auto Parts",
   "business_summary": "Lumax Auto Technologies Limited, together with its subsidiaries, manufactures and sells automotive components in India. The company offers advanced plastics, such as panels, centre consoles, door panels, headliners and interior trim systems, air intake systems, urea and plastic fuel tanks, headliners, trims, louvers, head lamps, tail lamps, and front and rear fenders; mechatronics, including power window switches, oxygen sensors, telematics control units, shark fin antennas, telematics antennas, and emission control management solutions; structures and control systems comprising gear shifter, metallic chassis and swing arm for 2-wheelers; aftermarket products, such as lighting, bulbs, horns, wiper blades, filters, control cable, electrical equipment, engine oils and lubricants, and mirrors; and alternate fuels consists of CNG & Hydrogen Solutions, ferrule-less tubes and fittings, pre-bend tubes, CNG manifold, H2 receptacle, CNG safety kit, and ferruleless tubes and fittings. It also sells various automotive parts and components, as well as moulds and tools for PV, CV and two/three-wheelers. The company serves two, three, and four-wheeler commercial vehicles; and original equipment manufacturers. It also exports its products. The company was formerly known as Dhanesh Auto Electricals Limited and changed its name to Lumax Auto Technologies Limited in 2006. Lumax Auto Technologies Limited was incorporated in 1981 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 15375.02,
-  "pe_ratio": 42.39,
+  "market_cap_cr": 15863.02,
+  "pe_ratio": 43.73,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 206.07,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 6.8158,
-  "fifty_two_week_high": 2285.0,
+  "fifty_two_week_high": 2342.5,
   "fifty_two_week_low": 1131.4,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:50:55.669632",
-  "provider_reported_pb_ratio": 10.95,
-  "statements_retrieved_at": "2026-11-05T21:50:55.669632",
+  "retrieval_time": "2026-11-06T21:10:23.453695",
+  "provider_reported_pb_ratio": 11.29,
+  "statements_retrieved_at": "2026-11-06T21:10:23.453695",
   "retained_fields": []
 }

@@ -5,7 +5,7 @@
   "industry": "Tools & Accessories",
   "business_summary": "Lakshmi Precision Screws Limited manufactures and sells in high tensile fasteners primarily in India. The company serves wind energy, oil and gas, locomotives, automobiles, agriculture equipment, machine building, and various other sectors. It exports its products primarily to the United States, Australia, Canada, Denmark, Dubai, France, Germany, Hong Kong, Indonesia, Japan, Malaysia, Singapore, South Africa, Switzerland, Sweden, etc. Lakshmi Precision Screws Limited was incorporated in 1968 and is based in Rohtak, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 10.44,
+  "market_cap_cr": 10.8,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -17,10 +17,10 @@
   "financial_statements": [],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": false,
-  "retrieval_time": "2026-11-05T21:49:05.667234",
-  "provider_reported_pb_ratio": 0.19,
+  "retrieval_time": "2026-11-06T21:08:38.513468",
+  "provider_reported_pb_ratio": 0.2,
   "statements_retrieved_at": "2026-11-01T07:03:29.540001",
-  "previous_retrieval_time": "2026-11-04T22:50:28.839459",
+  "previous_retrieval_time": "2026-11-05T21:49:05.667234",
   "retained_fields": [
     "financial_statements",
     "previous_retrieval_time"

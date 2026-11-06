@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Premier Explosives Limited manufactures and sells high energy materials and allied products in India and internationally. The company provides bulk and packaged explosives, detonators, detonating fuses, solid propellants, pyrogen igniters and initiators, pyro devices, warheads, ammunition, chaffs, flares, fully assembled rocket motors, explosive bolts, pyro actuators, smoke markers, cable cutters and other products. It also operates and maintains solid propellant plants for defense and space establishments. The company's products are used in the mining, infrastructure, defense, space, homeland security, and other areas. It markets its products through consignment agents, dealers, and handling agents. Premier Explosives Limited was incorporated in 1980 and is based in Secunderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2807.26,
-  "pe_ratio": 83.65,
+  "market_cap_cr": 2741.38,
+  "pe_ratio": 81.68,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 53.6,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:03:06.326169",
-  "provider_reported_pb_ratio": 9.74,
-  "statements_retrieved_at": "2026-11-05T22:03:06.326169",
+  "retrieval_time": "2026-11-06T21:22:01.709193",
+  "provider_reported_pb_ratio": 9.51,
+  "statements_retrieved_at": "2026-11-06T21:22:01.709193",
   "retained_fields": []
 }

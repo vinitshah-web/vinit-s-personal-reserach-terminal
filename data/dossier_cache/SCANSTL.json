@@ -6,7 +6,7 @@
   "business_summary": "Scan Steels Limited manufactures and sells steel products in India. The company offers thermo mechanical treatment rods under the SHRISHTII TMT brand name; sponge iron, MS billets, and ingots; and PVC coated sheets under the SHRISHTII ROOFING brand name. It also provides structures, such as flats, angles, square bars, channels, and round-plain rods; and fly ash bricks. Scan Steels Limited is based in Bhubaneswar, India.",
   "business_summary_reason": null,
   "market_cap_cr": null,
-  "pe_ratio": 11.33,
+  "pe_ratio": 11.89,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 76.57,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:09:48.063361",
-  "provider_reported_pb_ratio": 0.61,
-  "statements_retrieved_at": "2026-11-05T22:09:48.063361",
+  "retrieval_time": "2026-11-06T21:27:54.093227",
+  "provider_reported_pb_ratio": 0.64,
+  "statements_retrieved_at": "2026-11-06T21:27:54.093227",
   "retained_fields": []
 }

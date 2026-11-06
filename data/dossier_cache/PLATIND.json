@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Platinum Industries Limited engages in the manufacture and sale of poly vinyl chloride (PVC) stabilizers, chlorinated polyvinyl chloride (CPVC), lubricants, stearates, and speciality chemicals in India and internationally. The company offers lead based and non-lead-based stabilisers; CPVC additives; and metallic soaps, such as calcium, zinc, barium, magnesium, and aluminium stearates. It also provides CPVC compounds and add packs; and lubricants, such as PE and OPE waxes, and lubpacks. The company's products are used in plumbing pipes and fittings, profiles, fittings, foam boards, floor tiles, rigid films, and mica and roofing sheets, as well as in wires/cables, shoes, hose and medical tubes, films and sheets, disposable oxygen masks, PVC and SPC floorings, packaging materials, plastisols, soft profiles, soft injection moulded articles, CPVC products, and blood bags applications. Platinum Industries Limited was incorporated in 2016 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1173.63,
-  "pe_ratio": 23.28,
+  "market_cap_cr": 1173.47,
+  "pe_ratio": 23.27,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 80.67,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:02:03.721083",
+  "retrieval_time": "2026-11-06T21:21:01.647087",
   "provider_reported_pb_ratio": 2.65,
-  "statements_retrieved_at": "2026-11-05T22:02:03.721083",
+  "statements_retrieved_at": "2026-11-06T21:21:01.647087",
   "retained_fields": []
 }

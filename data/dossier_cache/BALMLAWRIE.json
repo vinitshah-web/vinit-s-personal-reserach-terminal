@@ -5,14 +5,14 @@
   "industry": "Conglomerates",
   "business_summary": "Balmer Lawrie & Co. Ltd. engages in industrial packaging, greases and lubricants, chemicals, travel and vacations, logistic services and infrastructure, cold chain, and refinery and oil field businesses in India. The company offers industrial packaging products, including plain steel, lacquer lined, composite, galvanized, conical, internally painted, necked in, and tall drums; and automotive lubricants, such as gear, hydraulic, coolant, diesel engine, agriculture, two-wheeler, passenger car motor, transmission oils, and greases. It also provides chemicals comprising finishing chemicals, such as resin, protein binders, wax emulsion, pigments, auxiliaries, oil and wax, compact binders, and lacquers; wet end chemicals, including fatliquors, vegetable/modifies vegetable tanning agents, mineral training/syntans, replacement, resin syntans, advantages and modified aldehydes tanning agents, and filters and auxiliaries; and beam house chemicals. In addition, the company offers ticketing, and vacations services. Further, it provides logistics infrastructure services comprising container freight stations, warehousing and distribution, multi modal logistics park, centralized warehouse AMTZ; freight and chartering services, cold chain and solutions, container freight stations, custom brokers, warehousing and distribution, project logistics, rail logistics, and express movement logistics. The company was founded in 1867 and is based in Kolkata, India. Balmer Lawrie & Co. Ltd. is a subsidiary of Balmer Lawrie Investments Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 2803.95,
-  "pe_ratio": 10.04,
+  "market_cap_cr": 2791.81,
+  "pe_ratio": 10.0,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 124.6,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 17.1004,
-  "fifty_two_week_high": 202.14,
+  "fifty_two_week_high": 199.5,
   "fifty_two_week_low": 148.0,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:22:00.105547",
-  "provider_reported_pb_ratio": 1.32,
-  "statements_retrieved_at": "2026-11-05T21:22:00.105547",
+  "retrieval_time": "2026-11-06T20:42:34.801237",
+  "provider_reported_pb_ratio": 1.31,
+  "statements_retrieved_at": "2026-11-06T20:42:34.801237",
   "retained_fields": []
 }

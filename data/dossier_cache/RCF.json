@@ -5,8 +5,8 @@
   "industry": "Agricultural Inputs",
   "business_summary": "Rashtriya Chemicals and Fertilizers Limited manufactures, markets, and sells fertilizers and industrial chemicals in India. The company operates through Fertilizers, Industrial Chemicals, and Trading segments. It offers various fertilizers, including Suphala 15:15:15, a NPK fertilizer; Urea, a nitrogenous fertilizer; Biola, a bio-fertilizer; Sujala, a water-soluble fertilizers; Microla micronutrients fertilizer; Vipula, a suspension NPK fertilizers; and Geola, a revolutionary biofertilizer product with NPK bacterial consortia in lyophilized form, as well as water pH balancer, soluble silicon fertilizer, organic growth stimulant, phosphate rich organic manure, and PDM-Potash. The company also provides industrial chemicals, such ammonium nitrate melt, ammonia, ammonium, ammonium bicarbonate, dilute nitric acid, nitric acid, methylamines, sulphuric acid, argon, nitrogen, dimethyl acetamide, phosphoric acid, sodium nitrate/nitrite, methanol, gypsum, chalk, etc., as well as mono, die, and tri methyl amine. In addition, it involved in agriculture extension activities, such as soil sample analysis and farmer training services; printing and distribution of RCF Sheti Patrika for farmers; and development of drone hubs. Further, the company organize broadcasting of farming related community radio programs, including Samrudha Shetitun Vikasit Bharat. Rashtriya Chemicals and Fertilizers Limited was incorporated in 1978 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 5629.43,
-  "pe_ratio": 12.61,
+  "market_cap_cr": 5578.67,
+  "pe_ratio": 12.5,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 92.7,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:05:29.061636",
-  "provider_reported_pb_ratio": 1.1,
-  "statements_retrieved_at": "2026-11-05T22:05:29.061636",
+  "retrieval_time": "2026-11-06T21:24:17.122145",
+  "provider_reported_pb_ratio": 1.09,
+  "statements_retrieved_at": "2026-11-06T21:24:17.122145",
   "retained_fields": []
 }

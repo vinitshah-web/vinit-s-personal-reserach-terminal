@@ -5,8 +5,8 @@
   "industry": "Financial Conglomerates",
   "business_summary": "Anand Rathi Share and Stock Brokers Limited provides stock brokerage services in India and internationally. The company offers equities, derivatives, alternative investment funds, IPOs, mutual funds, portfolio management services, investment basket, margin trading facility, NRI investing, commodities, currencies, fixed income, and insurance products. It also provides TradeMobi, an online app for trading and account related services; TradeXpress, a web-based platform to execute trades and access real-time market data; AR Invest; and Algozy for algorithmic trading strategies. The company was formerly known as Navratan Capital and Securities Limited and changed its name to Anand Rathi Share and Stock Brokers Limited in January 2008. Anand Rathi Share and Stock Brokers Limited was incorporated in 1991 and is based in Mumbai, India. Anand Rathi Share and Stock Brokers Limited operates as a subsidiary of Anand Rathi Financial Services Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 3117.04,
-  "pe_ratio": 19.78,
+  "market_cap_cr": 3076.33,
+  "pe_ratio": 19.52,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 219.3,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:19:30.948524",
-  "provider_reported_pb_ratio": 2.25,
-  "statements_retrieved_at": "2026-11-05T21:19:30.948524",
+  "retrieval_time": "2026-11-06T20:40:14.785020",
+  "provider_reported_pb_ratio": 2.22,
+  "statements_retrieved_at": "2026-11-06T20:40:14.785020",
   "retained_fields": []
 }

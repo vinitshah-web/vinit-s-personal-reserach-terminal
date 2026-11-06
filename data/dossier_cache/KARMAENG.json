@@ -5,8 +5,8 @@
   "industry": "Utilities - Renewable",
   "business_summary": "Karma Energy Limited generates and sells power from renewable sources in India. The company develops and operates wind farms with a capacity of 33 MW in the states of Andhra Pradesh, Maharashtra, and Tamil Nadu. It also develops a 3.5 MW hydro power project in Balij-ka-Nala-II, Chamba District. The company was incorporated in 2007 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 40.14,
-  "pe_ratio": 45.05,
+  "market_cap_cr": 39.34,
+  "pe_ratio": 44.16,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 35.29,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:46:51.329514",
-  "provider_reported_pb_ratio": 0.98,
-  "statements_retrieved_at": "2026-11-05T21:46:51.329514",
+  "retrieval_time": "2026-11-06T21:06:30.417498",
+  "provider_reported_pb_ratio": 0.96,
+  "statements_retrieved_at": "2026-11-06T21:06:30.417498",
   "retained_fields": []
 }

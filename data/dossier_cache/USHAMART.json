@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "Usha Martin Limited, together with its subsidiaries, manufactures and sells steel wires, strands, wire ropes, wire drawing and allied machine, cord, and related accessories in India and internationally. The company offers wire ropes, including crane, mining, elevator, oil and offshore, fishing, general engineering, aerial transportation, structural, and forestry ropes, as well as conveyor cords. It also provides spring, welding, fencing, ACSR, needle, mesh, fishhook, CHQ, spoke, and brush wires; LRPC strands comprising compacted, indented, un-bonded polymer coated, and bonded polymer LRPC strands; and wire drawing, tabular stranding, planetary stranding, bunching, and wire treatment machines. In addition, the company offers pre-tensioning, and post-tensioning solutions; prestressing solutions; and optical fiber, aerial cables, micro ducts, hybrid category, FTTH/drop, aerial copper, duct copper, and jelly filled copper cables. It serves engineering, construction, infrastructure and structural, oil and offshore, crane, auto, elevator, utilities, mining, and fishing industries. The company was formerly known as Usha Beltron Limited and changed its name to Usha Martin Limited in May 2003. The company was founded in 1960 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 14844.09,
-  "pe_ratio": 27.93,
+  "market_cap_cr": 14532.08,
+  "pe_ratio": 27.34,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 108.47,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:21:23.650546",
-  "provider_reported_pb_ratio": 4.5,
-  "statements_retrieved_at": "2026-11-05T22:21:23.650546",
+  "retrieval_time": "2026-11-06T21:38:30.283001",
+  "provider_reported_pb_ratio": 4.4,
+  "statements_retrieved_at": "2026-11-06T21:38:30.283001",
   "retained_fields": []
 }

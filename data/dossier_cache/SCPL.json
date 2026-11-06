@@ -5,8 +5,8 @@
   "industry": "Packaged Foods",
   "business_summary": "Sheetal Cool Products Limited manufactures and sells milk and milk products in India. The company offers ice cream products, including cups, kulfi, novelties, candy and cones, cakes and pastries, and family and party packs; namkeen products, such as wafers, fryums, and other savory snacks; and bakery products comprising breads, khari and rusk products, and cookies. It also provides sweets, such as gulab jamun, rasgulla, mango ras, basundi and shrikhand; ready to eat products, including paratha, naan, samosa, tikki, and assorted pizza products; and ready to cook products comprising green peans, sweet corns, cut vegetables, etc. In addition, the company offers buttermilk, curd, ghee, paneer, butter, and flavored milk. The company sells its products under the Sheetal and J'Adore Ice brand names. It also exports its products. Sheetal Cool Products Limited was founded in 1987 and is based in Amreli, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 612.88,
-  "pe_ratio": 29.51,
+  "market_cap_cr": 629.05,
+  "pe_ratio": 30.29,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 149.43,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:09:58.035688",
-  "provider_reported_pb_ratio": 3.91,
-  "statements_retrieved_at": "2026-11-05T22:09:58.035688",
+  "retrieval_time": "2026-11-06T21:28:03.397166",
+  "provider_reported_pb_ratio": 4.01,
+  "statements_retrieved_at": "2026-11-06T21:28:03.397166",
   "retained_fields": []
 }

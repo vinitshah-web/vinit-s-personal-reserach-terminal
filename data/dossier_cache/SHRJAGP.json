@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Shri Jagdamba Polymers Limited engages in the manufacture and sale of technical textile products in India. The company offers polypropylene woven bags, woven geotextiles, non-woven geotextiles, and silt fence fabric; synthetic roofing underlayment, woven house wrap, lumber wrap fabric and covers, and tarpaulins; and PP woven bags, BOPP woven bags, PP woven bale wrap fabric, and PP woven box bags and pallet covers. It also exports its products. The company was incorporated in 1985 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 636.79,
-  "pe_ratio": 14.51,
+  "market_cap_cr": 634.43,
+  "pe_ratio": 14.46,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 375.94,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:12:30.476055",
+  "retrieval_time": "2026-11-06T21:30:04.754929",
   "provider_reported_pb_ratio": 1.93,
-  "statements_retrieved_at": "2026-11-05T22:12:30.476055",
+  "statements_retrieved_at": "2026-11-06T21:30:04.754929",
   "retained_fields": []
 }

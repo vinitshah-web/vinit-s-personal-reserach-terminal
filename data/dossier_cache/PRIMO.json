@@ -5,8 +5,8 @@
   "industry": "Chemicals",
   "business_summary": "Primo Chemicals Limited engages in the manufacture and sale of chemicals in India. The company offers caustic soda lye and flakes; hydrochloric acid; liquid chlorine; sodium hypochlorite; hydrogen gas; stable bleaching powder; and aluminium chloride. It serves paper and paper pulp, soap and detergents, textile, dye stuff, aluminium, fertilisers and refineries, viscose and rayon, water demineralization, power, fertiliser plants, metal pickling, preparation of various metal chloride, water treatment plants, stable bleaching powder, CPW and PVC, chloromethanes, chlororganic chemicals, textile bleaching, laundry trade, dis-infection of drinking water, hydrogenation of vegetable oils and other unsaturated fats, optical fiber units, coolant, fuel, oxidising agent, disinfecting agent, aquaculture, Household bleaching, and cleaning industries and applications. The company was formerly known as Punjab Alkalies & Chemicals Limited and changed its name to Primo Chemicals Limited in December 2022. Primo Chemicals Limited was incorporated in 1975 and is based in Chandigarh, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 519.58,
-  "pe_ratio": 32.98,
+  "market_cap_cr": 522.25,
+  "pe_ratio": 33.15,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 16.76,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:03:18.494830",
-  "provider_reported_pb_ratio": 1.28,
-  "statements_retrieved_at": "2026-11-05T22:03:18.494830",
+  "retrieval_time": "2026-11-06T21:22:13.519431",
+  "provider_reported_pb_ratio": 1.29,
+  "statements_retrieved_at": "2026-11-06T21:22:13.519431",
   "retained_fields": []
 }

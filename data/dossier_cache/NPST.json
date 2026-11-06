@@ -5,8 +5,8 @@
   "industry": "Software - Application",
   "business_summary": "Network People Services Technologies Limited develops banking and payments infrastructure for Banks and financial institutions, payment aggregators, and consumers in India. The company operates as a technology service provider (TSP) and payment platform-as-a-service (PPaaS) provider. It also offers online and offline transaction processing, banking super apps, fraud prevention, dispute management, and compliance technology. Network People Services Technologies Limited was incorporated in 2013 and is based in Thane, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3658.41,
-  "pe_ratio": 80.62,
+  "market_cap_cr": 3705.77,
+  "pe_ratio": 81.66,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 147.94,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:58:37.292444",
-  "provider_reported_pb_ratio": 11.85,
-  "statements_retrieved_at": "2026-11-05T21:58:37.292444",
+  "retrieval_time": "2026-11-06T21:17:48.892505",
+  "provider_reported_pb_ratio": 12.01,
+  "statements_retrieved_at": "2026-11-06T21:17:48.892505",
   "retained_fields": []
 }

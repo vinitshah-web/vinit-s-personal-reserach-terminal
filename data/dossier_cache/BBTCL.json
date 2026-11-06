@@ -5,8 +5,8 @@
   "industry": "Packaging & Containers",
   "business_summary": "B&B Triplewall Containers Limited engages in the manufacture and sale of corrugated boards, boxes, and kraft papers in India. The company offers T- and I-folder products, variable depth boxes, bins, regular slotted containers, A1 self-locking boxes, fitments, self-locking boxes, and large shipper cartons, as well as 3 ply, 5 ply, and 7 ply boards. The company's products are used for packaging in various industries, such as logistics, pharmaceutical, chemicals, automotive, electronics, glassware, personal care, garment and textiles, retail, automobile, food and beverage, fruits and vegetables, FMCG, e-commerce, and relocation. B&B Triplewall Containers Limited was founded in 1992 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 451.27,
-  "pe_ratio": 3.81,
+  "market_cap_cr": 444.29,
+  "pe_ratio": 3.76,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 64.39,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:22:46.794403",
-  "provider_reported_pb_ratio": 3.42,
-  "statements_retrieved_at": "2026-11-05T21:22:46.794403",
+  "retrieval_time": "2026-11-06T20:43:17.346063",
+  "provider_reported_pb_ratio": 3.36,
+  "statements_retrieved_at": "2026-11-06T20:43:17.346063",
   "retained_fields": []
 }

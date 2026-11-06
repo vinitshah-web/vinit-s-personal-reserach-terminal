@@ -5,14 +5,14 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "Somi Conveyor Beltings Limited manufactures and sells industrial conveyor belts in India. It offers general purpose, heat resistance, fire resistance, oil resistance, and steel cord conveyor belts; pipe conveyor belts; and combination of fabric belt and steel wires belt for cut resistance. It serves mining, cement, steel, power generation, and other heavy industries. The company was incorporated in 2000 and is based in Jodhpur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 93.68,
-  "pe_ratio": 20.49,
+  "market_cap_cr": 93.63,
+  "pe_ratio": 20.48,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 69.3,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.178,
-  "fifty_two_week_high": 160.0,
+  "fifty_two_week_high": 157.59,
   "fifty_two_week_low": 71.41,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:14:18.514148",
+  "retrieval_time": "2026-11-06T21:31:48.490342",
   "provider_reported_pb_ratio": 1.11,
-  "statements_retrieved_at": "2026-11-05T22:14:18.514148",
+  "statements_retrieved_at": "2026-11-06T21:31:48.490342",
   "retained_fields": []
 }

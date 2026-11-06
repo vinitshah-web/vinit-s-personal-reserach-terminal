@@ -5,14 +5,14 @@
   "industry": "Software - Application",
   "business_summary": "Tracxn Technologies Limited operates a private market intelligence platform worldwide. The company operates Tracxn, a platform that provides data and software solutions, such as company profiles, funding and M&A transactions, financial and shareholding structures, valuations and benchmarking, competitive landscapes and sector mapping, emerging technology sectors, and industry reports. It serves venture capital and private equity funds, incubators, investment banks, corporate development and M&A teams, as well as corporate innovation, startup founders, sales teams, journalists and publications, and universities. The company was incorporated in 2012 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 317.71,
+  "market_cap_cr": 307.76,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 4.92,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 10.6974,
-  "fifty_two_week_high": 50.99,
+  "fifty_two_week_high": 49.24,
   "fifty_two_week_low": 25.39,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:19:44.975254",
-  "provider_reported_pb_ratio": 6.03,
-  "statements_retrieved_at": "2026-11-05T22:19:44.975254",
+  "retrieval_time": "2026-11-06T21:36:57.409072",
+  "provider_reported_pb_ratio": 5.84,
+  "statements_retrieved_at": "2026-11-06T21:36:57.409072",
   "retained_fields": []
 }

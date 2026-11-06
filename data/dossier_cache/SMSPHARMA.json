@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - General",
   "business_summary": "SMS Pharmaceuticals Limited manufactures and sells active pharmaceutical ingredients (APIs) and its intermediates in India and internationally. It offers anti-retroviral, anti-inflammatory, anti-viral, anti-diabetic, anti-fungal, anti-epileptic, anti-migraine, anti-coagulant, anti-psychotic, anti-aginal, and anti-ulcer products. It is also involved in contract research activities on peptides. The company exports its products to approximately 75 countries. SMS Pharmaceuticals Limited was incorporated in 1987 and is headquartered in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4839.0,
-  "pe_ratio": 45.97,
+  "market_cap_cr": 4669.02,
+  "pe_ratio": 44.35,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 83.91,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:14:01.670476",
-  "provider_reported_pb_ratio": 6.16,
-  "statements_retrieved_at": "2026-11-05T22:14:01.670476",
+  "retrieval_time": "2026-11-06T21:31:31.888966",
+  "provider_reported_pb_ratio": 5.94,
+  "statements_retrieved_at": "2026-11-06T21:31:31.888966",
   "retained_fields": []
 }

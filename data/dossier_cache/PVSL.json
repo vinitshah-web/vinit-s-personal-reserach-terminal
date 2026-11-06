@@ -5,14 +5,14 @@
   "industry": "Auto & Truck Dealerships",
   "business_summary": "Popular Vehicles and Services Limited engages in the automotive dealership business in India. The company operates through four segments: Passenger Cars (excluding luxury vehicles), Luxury Vehicles, Commercial Vehicles, and Others. It engages in the sale, service, and repair of passenger, commercial, and electric two-wheeler and three-wheeler vehicles; sale of pre-owned passenger vehicles; distribution of spare parts and accessories; facilitation of the sale of third-party financial and insurance products; and operation of driving schools. The company offers its products to new vehicles buyers, periodic maintenance, vehicle repair services, pre-owned vehicles, driving learners, and insurance renewals customers. Popular Vehicles and Services Limited was incorporated in 1983 and is headquartered in Ernakulam, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 687.99,
+  "market_cap_cr": 675.81,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 88.18,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 7.1198,
-  "fifty_two_week_high": 154.47,
+  "fifty_two_week_high": 150.19,
   "fifty_two_week_low": 82.41,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:04:03.496249",
-  "provider_reported_pb_ratio": 1.1,
-  "statements_retrieved_at": "2026-11-05T22:04:03.496249",
+  "retrieval_time": "2026-11-06T21:22:55.375517",
+  "provider_reported_pb_ratio": 1.08,
+  "statements_retrieved_at": "2026-11-06T21:22:55.375517",
   "retained_fields": []
 }

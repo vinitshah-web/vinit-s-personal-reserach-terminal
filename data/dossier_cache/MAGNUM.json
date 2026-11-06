@@ -5,7 +5,7 @@
   "industry": "Paper & Paper Products",
   "business_summary": "Magnum Ventures Limited engages in the manufacturing and trading of paper products in India. It operates through Paper Division and Hotel Division segments. The company offers cream wove paper, maplitho, copier, coated duplex board, newsprint, newspaper, printing papers, grey, duplex, N.S paper, cup stock paper, and kraft paper boards. It also operates five-star hotels with standard, superior, and club rooms, as well as executive suites, restaurants, and banquet halls under the Country Inn and Suites by Radisson name. The company was formerly known as Magnum Papers Limited and changed its name to Magnum Ventures Limited in November 2006. Magnum Ventures Limited was incorporated in 1980 and is based in Ghaziabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 125.26,
+  "market_cap_cr": 128.89,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:51:21.337031",
-  "provider_reported_pb_ratio": 0.18,
-  "statements_retrieved_at": "2026-11-05T21:51:21.337031",
+  "retrieval_time": "2026-11-06T21:10:47.560871",
+  "provider_reported_pb_ratio": 0.19,
+  "statements_retrieved_at": "2026-11-06T21:10:47.560871",
   "retained_fields": []
 }

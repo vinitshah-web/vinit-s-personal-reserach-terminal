@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Eris Lifesciences Limited, together with its subsidiaries, provides domestic branded formulations for chronic and sub-chronic therapies in India and internationally. The company offers various branded formulations in various therapeutic areas, such as anti\u0096diabetes, cardiovascular, nutrition, dermatology, neuroscience, gynecology, nephrology, and oncology, as well as central nervous system, women's health, GLP-1, and vitamins/minerals/nutrients. It also provides patient care services, including ambulatory blood pressure measurement, ambulatory electrocardiogram monitoring, continuous glucose monitoring system, sleep device, antenatal care, and early neuropathy screening solutions, as well as polycystic ovary syndrome screening, diagnosis, and management. The company offers its products through wholesale drug distributors, stockists, retail and e-commerce pharmacies. Eris Lifesciences Limited was incorporated in 2007 and is headquartered in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 17063.46,
-  "pe_ratio": 23.92,
+  "market_cap_cr": 17121.73,
+  "pe_ratio": 24.0,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 298.95,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:33:12.052006",
-  "provider_reported_pb_ratio": 4.11,
-  "statements_retrieved_at": "2026-11-05T21:33:12.052006",
+  "retrieval_time": "2026-11-06T20:53:17.156427",
+  "provider_reported_pb_ratio": 4.13,
+  "statements_retrieved_at": "2026-11-06T20:53:17.156427",
   "retained_fields": []
 }

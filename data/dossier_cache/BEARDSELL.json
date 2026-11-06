@@ -5,8 +5,8 @@
   "industry": "Building Products & Equipment",
   "business_summary": "Beardsell Limited manufactures and supplies expanded polystyrene (EPS) products and prefabricated buildings for various industrial applications in India and internationally. It operates through two segments, Insulation and Trading. The company offers prefabricated panels and thermocole; clean room panels comprising polyurethane foam (PUF)/polyisocyanurate foam (PIR), rock wool, EPS, and modular panels; cold room panels consisting of PUF/PIR and EPS cold room panels; scientific, metal, emergency exit, and fire rated doors; and double and single glazed view windows. It also provides process insulation products, such as EPS pipe section and slabs, PUF slab, pipe sections, and support; building insulation products that includes EPS/PUF slabs, under and above deck insulation, false ceiling, inner-wall insulation, and insulated partitions; packaging products under the METOPLAST and IGLOO brands, as well as EPS boxes; and QuikBuild 3D panels, geofoam, and EPS blocks for construction applications. In addition, the company offers industrial painting, HVAC ducting, and epoxy flooring services; and erection, commissioning and maintenance works in the field of hot and cold insulation solution. Further, it trades in motors; and exports fabrics, telemedicine equipment, information technology products, medical devices, and educational and laboratory equipment, and textile products. Beardsell Limited was incorporated in 1936 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 99.58,
-  "pe_ratio": 9.25,
+  "market_cap_cr": 97.65,
+  "pe_ratio": 9.07,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 23.31,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:22:55.725688",
-  "provider_reported_pb_ratio": 1.08,
-  "statements_retrieved_at": "2026-11-05T21:22:55.725688",
+  "retrieval_time": "2026-11-06T20:43:25.641088",
+  "provider_reported_pb_ratio": 1.06,
+  "statements_retrieved_at": "2026-11-06T20:43:25.641088",
   "retained_fields": []
 }

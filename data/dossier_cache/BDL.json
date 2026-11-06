@@ -5,8 +5,8 @@
   "industry": "Aerospace & Defense",
   "business_summary": "Bharat Dynamics Limited manufactures and sells guided missiles, underwater weapons, air-borne products, and allied defense equipment in India. The company offers light weight torpedoes, Varunastra or heavy-weight torpedoes, medium-range surface-to-air missile, dishani, quick reaction surface-to-air missile, multi-influential ground mines, vertically launched-short range surface-to-air missile, flame, Konkurs launcher test equipment, Akash and Astra weapon systems, Konkurs missile test equipment, anti-submarine warfare suite, counter measures dispensing system, smart anti-airfield weapon, anti-torpedo decoy launching system, Helina, Amogha, man portable ATGM, NAG ATGM, Invar, Konkurs-M ATGM, Milan\u00962T ATGM, and unified launchers. It also exports its products. Bharat Dynamics Limited was incorporated in 1970 and is headquartered in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 39405.47,
-  "pe_ratio": 75.65,
+  "market_cap_cr": 38855.63,
+  "pe_ratio": 74.6,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 115.78,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:22:53.159485",
-  "provider_reported_pb_ratio": 9.28,
-  "statements_retrieved_at": "2026-11-05T21:22:53.159485",
+  "retrieval_time": "2026-11-06T20:43:23.282077",
+  "provider_reported_pb_ratio": 9.16,
+  "statements_retrieved_at": "2026-11-06T20:43:23.282077",
   "retained_fields": []
 }

@@ -5,7 +5,7 @@
   "industry": "Building Materials",
   "business_summary": "Global Surfaces Limited engages in the mining, production, and export of natural stones and engineered quartz in the United States, the United Arab Emirates, and India. It offers granite, marbles, as well as soft quartzites in slab and countertop forms; and engineered quartz products, including stratum, prismatic, quartzites, kalmasa, and aurora. The company also trades in quartz slabs. Global Surfaces Limited was incorporated in 1991 and is headquartered in Jaipur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 95.27,
+  "market_cap_cr": 98.41,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:38:33.717808",
-  "provider_reported_pb_ratio": 0.35,
-  "statements_retrieved_at": "2026-11-05T21:38:33.717808",
+  "retrieval_time": "2026-11-06T20:58:24.506512",
+  "provider_reported_pb_ratio": 0.36,
+  "statements_retrieved_at": "2026-11-06T20:58:24.506512",
   "retained_fields": []
 }

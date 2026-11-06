@@ -5,15 +5,15 @@
   "industry": "Medical Care Facilities",
   "business_summary": "Jeena Sikho Lifecare Limited trades in ayurvedic products in India and internationally. It operates through Ayurvedic products/medicine, Ayurvedic healthcare services, and others segments. The company offers ayurvedic products under the Shuddhi brand name. It also provides services, including in-patient, out-patient, 72 hours health camps, Panchakarma therapies, dietary support and nutrition guidance, home-based healthcare services, and healthcare support centre services. In addition, the company operates clinics under the Shuddhi Ayurveda, Shuddhi Clinics, Hospital & Institution of Integrated Medical Sciences, Shuddhi Wellness Clinics & Hospital, Shuddhi Ayurveda Panchakarma Hospital, and Shuddhi Panchakarma Day Care Clinic names. Jeena Sikho Lifecare Limited was founded in 2009 and is headquartered in Zirakpur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4292.29,
-  "pe_ratio": 18.19,
+  "market_cap_cr": 4006.97,
+  "pe_ratio": 16.98,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 37.57,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 12.4324,
   "fifty_two_week_high": 835.0,
-  "fifty_two_week_low": 326.0,
+  "fifty_two_week_low": 315.35,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:45:55.899206",
-  "provider_reported_pb_ratio": 9.19,
-  "statements_retrieved_at": "2026-11-05T21:45:55.899206",
+  "retrieval_time": "2026-11-06T21:05:35.967788",
+  "provider_reported_pb_ratio": 8.58,
+  "statements_retrieved_at": "2026-11-06T21:05:35.967788",
   "retained_fields": []
 }

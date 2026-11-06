@@ -5,8 +5,8 @@
   "industry": "Asset Management",
   "business_summary": "JSW Holdings Limited engages in investing and financing activities in India. The company grants loans; and provides securities, as well as invests in securities. JSW Holdings Limited was incorporated in 2001 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 12256.79,
-  "pe_ratio": 60.95,
+  "market_cap_cr": 12158.01,
+  "pe_ratio": 60.46,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 32250.97,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:46:00.853939",
+  "retrieval_time": "2026-11-06T21:05:40.941394",
   "provider_reported_pb_ratio": 0.34,
-  "statements_retrieved_at": "2026-11-05T21:46:00.853939",
+  "statements_retrieved_at": "2026-11-06T21:05:40.941394",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Information Technology Services",
   "business_summary": "Adroit Infotech Limited, together with its subsidiaries, operates as an SAP consulting company in India and internationally. The company provides a range of network solutions, including internet, network management, data centre and co-location, and enterprise mailing, as well as sale of VOIP telephones and products, software development and related services, consulting, package implementation, web solutions, bandwidth, and information technology enabled services. It also offers migration to HANA; S/4 HANA enterprise management; data analytics and mobility services, including SAP Fiori mobile app for business activities, and SAP business objects and analytics; industry specific SAP pre\u0096configured solutions; and conventional SAP ECC services, such as implementation, re-implementation, rollouts, module extensions, support and maintenance, and upgrades and migrations. In addition, the company provides products comprising ARIBA, a cloud procurement solution; CRM, a customer relationship and engagement platform; SRM, a procure-to-pay processes solution with SAP supplier relationship management; SAP C4C-cloud for customers; SAP cloud platform, an open platform-as-a-service that integrates data and business processes; and Success Factors, a cloud-based human resources information system. It serves the chemicals; life sciences; engineering, construction, and operation; health care; automotive; industrial machinery and components; retail; food processing; agribusiness; insurance; textiles; and mill products industries. The company was formerly known as Sphere Global Services Limited and changed its name to Adroit Infotech Limited in February 2018. Adroit Infotech Limited was incorporated in 1990 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 74.13,
-  "pe_ratio": 23.81,
+  "market_cap_cr": 74.35,
+  "pe_ratio": 23.88,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 14.31,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:15:47.877963",
+  "retrieval_time": "2026-11-06T20:36:43.513590",
   "provider_reported_pb_ratio": 0.95,
-  "statements_retrieved_at": "2026-11-05T21:15:47.877963",
+  "statements_retrieved_at": "2026-11-06T20:36:43.513590",
   "retained_fields": []
 }

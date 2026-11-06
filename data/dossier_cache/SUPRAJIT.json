@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Suprajit Engineering Limited manufactures and sells automotive cables, halogen lamps, speedometers, and other automotive components in India, the United States, and internationally. The company's product, include braking system, control cables, display cluster and telematics, friction products, gear box, gear shifter systems, lighting systems, linear actuation, throttle controls, and USB charging modules. Its products are used in farm/garden equipment, LCV/HCV, metro and industrial application, passenger vehicle, power sports, three wheelers, and two wheelers. The company was incorporated in 1985 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 6649.08,
-  "pe_ratio": 35.64,
+  "market_cap_cr": 6610.67,
+  "pe_ratio": 35.43,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 104.67,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:16:22.155259",
-  "provider_reported_pb_ratio": 4.63,
-  "statements_retrieved_at": "2026-11-05T22:16:22.155259",
+  "retrieval_time": "2026-11-06T21:33:44.653084",
+  "provider_reported_pb_ratio": 4.6,
+  "statements_retrieved_at": "2026-11-06T21:33:44.653084",
   "retained_fields": []
 }

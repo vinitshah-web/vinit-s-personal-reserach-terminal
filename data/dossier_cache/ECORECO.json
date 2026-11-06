@@ -5,8 +5,8 @@
   "industry": "Waste Management",
   "business_summary": "Eco Recycling Limited operates as an e-waste management company in India. It is involved in the recycling of waste electrical and electronic equipment, as well as extract materials, such as copper, aluminum, silver, and gold from complex electronic scrap. The company also offers reverse logistics services; onsite and offsite data destruction services, including deleting, degaussing, and destroying data devices, which include hard drives, media tapes, flash drives, etc.; IT asset deposition; lamp recycling services; and battery recycling. It serves multi-national companies, corporates, retailers, bulk consumers, original equipment manufacturers, government departments, households, philanthropic organizations, educational institutions, and various other industries. The company was formerly known as Infotrek Syscom Limited and changed its name to Eco Recycling Limited in December 2010. Eco Recycling Limited was incorporated in 1994 and is based in Mumbai, India. Eco Recycling Limited is a subsidiary of Ecoreco Ventures Private Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 790.01,
-  "pe_ratio": 33.2,
+  "market_cap_cr": 763.67,
+  "pe_ratio": 32.1,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 57.33,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:31:37.760990",
-  "provider_reported_pb_ratio": 7.14,
-  "statements_retrieved_at": "2026-11-05T21:31:37.760990",
+  "retrieval_time": "2026-11-06T20:51:46.787007",
+  "provider_reported_pb_ratio": 6.9,
+  "statements_retrieved_at": "2026-11-06T20:51:46.787007",
   "retained_fields": []
 }

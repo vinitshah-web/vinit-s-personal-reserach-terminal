@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Munjal Showa Limited manufactures and sells auto components for the two-wheeler and four-wheeler industry in India and internationally. Its products include front forks, shock absorbers, struts, gas springs, and window balancers, as well as rear door lifters and rear cushions. Munjal Showa Limited was incorporated in 1985 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 499.5,
-  "pe_ratio": 20.11,
+  "market_cap_cr": 495.54,
+  "pe_ratio": 19.95,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 169.53,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:56:08.637875",
-  "provider_reported_pb_ratio": 0.74,
-  "statements_retrieved_at": "2026-11-05T21:56:08.637875",
+  "retrieval_time": "2026-11-06T21:15:25.494332",
+  "provider_reported_pb_ratio": 0.73,
+  "statements_retrieved_at": "2026-11-06T21:15:25.494332",
   "retained_fields": []
 }

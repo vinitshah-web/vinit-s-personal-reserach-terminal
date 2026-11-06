@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Dynamatic Technologies Limited manufactures and sells engineered products to the aerospace, automotive, and hydraulic industries in India, the United States, the United Kingdom, rest of Europe, Canada, and internationally. The company offers gear pumps, low noise pumps, high-pressure pumps, axial piston pumps, low torque high-speed hydraulic motors, plunger hand pumps, hitch control valves, rock shaft assemblies, power steering valves, and mobile control valves; and bespoke, high-flow scavenging pumps, lube oil pumps, and water pumps. It also provides high-precision airframe and aerospace components; control surfaces, such as wings, ailerons, fuselages, and doors; key flight-critical airframe structures, such as flap track beams; and intricate iron castings. In addition, the company offers geared motors; power steering units; construction equipment; and aluminium body, hydraulic gear pumps and motors from low to very high-pressure ratings, integrated gear and piston pump packages, and heavy duty compact cast iron gear pumps, and fan drive motors. Further, it provides unmanned aerial vehicles; engineering services; metallurgical ferrous castings; medical products comprising HCV rapid antibody test, viral RNA isolation, and DNA extraction kits; and laboratory services, such as testing and validation of products. The company was formerly known as Dynamatic Hydraulics Limited and changed its name to Dynamatic Technologies Limited in 1992. Dynamatic Technologies Limited was incorporated in 1973 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 8780.66,
-  "pe_ratio": 206.9,
+  "market_cap_cr": 8707.99,
+  "pe_ratio": 205.18,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 1168.8,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:31:15.767293",
-  "provider_reported_pb_ratio": 11.06,
-  "statements_retrieved_at": "2026-11-05T21:31:15.767293",
+  "retrieval_time": "2026-11-06T20:51:25.005875",
+  "provider_reported_pb_ratio": 10.97,
+  "statements_retrieved_at": "2026-11-06T20:51:25.005875",
   "retained_fields": []
 }

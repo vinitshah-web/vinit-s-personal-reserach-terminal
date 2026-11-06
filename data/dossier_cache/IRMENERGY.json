@@ -5,8 +5,8 @@
   "industry": "Utilities - Regulated Gas",
   "business_summary": "IRM Energy Limited, a city gas distribution company, engages in the laying, building, operating, and expanding of city and local natural gas distribution networks in India. It supplies piped natural gas to domestic, commercial, and industrial customers; and compressed natural gas to automobile customers through retail stations. The company was incorporated in 2015 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 974.39,
-  "pe_ratio": 11.33,
+  "market_cap_cr": 989.33,
+  "pe_ratio": 11.51,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 255.73,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:44:12.815154",
-  "provider_reported_pb_ratio": 0.93,
-  "statements_retrieved_at": "2026-11-05T21:44:12.815154",
+  "retrieval_time": "2026-11-06T21:03:56.492061",
+  "provider_reported_pb_ratio": 0.94,
+  "statements_retrieved_at": "2026-11-06T21:03:56.492061",
   "retained_fields": []
 }

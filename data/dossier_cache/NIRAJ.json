@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "Niraj Cement Structurals Limited engages in the civil construction and infrastructure business in India. The company engages in construction of highways, expressways, turnkey projects, roads, bridges, and tunnels, etc. It is also involved in water supply and drainage, irrigation, storm water drainage, and other infrastructural work. Niraj Cement Structurals Limited was founded in 1972 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 154.85,
-  "pe_ratio": 6.52,
+  "market_cap_cr": 151.62,
+  "pe_ratio": 6.38,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 44.7,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:58:11.852531",
-  "provider_reported_pb_ratio": 0.58,
-  "statements_retrieved_at": "2026-11-05T21:58:11.852531",
+  "retrieval_time": "2026-11-06T21:17:26.094346",
+  "provider_reported_pb_ratio": 0.57,
+  "statements_retrieved_at": "2026-11-06T21:17:26.094346",
   "retained_fields": []
 }

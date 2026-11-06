@@ -5,14 +5,14 @@
   "industry": "Banks - Regional",
   "business_summary": "UCO Bank provides various banking and financial services in India and internationally. The company's deposit products include current accounts, saving accounts, fixed deposits, recurring deposits, accounts in foreign currency, and fee collection accounts. It also offers agri, home, education, gold, personal, vehicle, and mortgage loans; finance to micro and small enterprises; working capital financing; term loans; infrastructure finance; and agriculture credit. In addition, the company provides life, health, and general insurance products; credit and debit cards; internet banking services; and international banking services, such as NRI banking, foreign currency loans, finance to exporters and importers, remittances, forex and treasury services, resident foreign currency deposits, and correspondent banking services to Indian customers, corporates, NRIs, overseas corporate bodies, foreign companies/individuals, and foreign banks. Further, it provides government deposit schemes/bonds, pension payments/schemes, and tax collection services; merchant banking services; sovereign gold bonds; and mutual funds. The company was formerly known as The United Commercial Bank Ltd. and changed its name to UCO Bank in 1985. UCO Bank was incorporated in 1943 and is headquartered in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 29919.39,
-  "pe_ratio": 10.03,
+  "market_cap_cr": 29894.31,
+  "pe_ratio": 10.02,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 27.73,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1253.9559,
-  "fifty_two_week_high": 32.9,
+  "fifty_two_week_high": 32.72,
   "fifty_two_week_low": 21.34,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:20:33.487338",
+  "retrieval_time": "2026-11-06T21:37:42.905276",
   "provider_reported_pb_ratio": 0.86,
-  "statements_retrieved_at": "2026-11-05T22:20:33.487338",
+  "statements_retrieved_at": "2026-11-06T21:37:42.905276",
   "retained_fields": []
 }

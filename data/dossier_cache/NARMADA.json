@@ -5,8 +5,8 @@
   "industry": "Agricultural Inputs",
   "business_summary": "Narmada Agrobase Limited manufactures and sells cotton seeds and cattle feeds in India. The company offers cotton seed meal, bleached cotton linters, gwar korma, maize meal, multi grain meal, maize oil cakes, cotton seed oil cakes, cotton linters, poultry feeds, mesh and pellet cattle feed, compound cattle feed, and delinted cotton seeds. Its products are used for fertilizers and animal feed, as well as various industries, including furniture, paper, yarns, absorbent cotton, etc. under the Churma, and Gaay Chhaap Narmada Pashu Aahar brands. The company was incorporated in 2013 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 90.67,
-  "pe_ratio": 24.9,
+  "market_cap_cr": 89.15,
+  "pe_ratio": 24.48,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 7.82,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:56:34.483313",
-  "provider_reported_pb_ratio": 1.53,
-  "statements_retrieved_at": "2026-11-05T21:56:34.483313",
+  "retrieval_time": "2026-11-06T21:15:50.797162",
+  "provider_reported_pb_ratio": 1.5,
+  "statements_retrieved_at": "2026-11-06T21:15:50.797162",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Internet Retail",
   "business_summary": "Digidrive Distributors Limited distributes retail goods through digital marketplaces in India. It operates through Trading and Publication segments. The company distributes consumer electronic products, including digital audio players, compact and portable music players, music bars, and mobile phones. It also publishes OPEN magazine, a weekly magazine for current affairs, public policy, and business and contemporary issues. In addition, the company provides media, printed materials printing, and marketing support services. It serves merchants and businesses. The company was incorporated in 2022 and is based in Kolkata, India. Digidrive Distributors Limited operates as a subsidiary of Composure Services Private Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 70.13,
-  "pe_ratio": 12.23,
+  "market_cap_cr": 68.97,
+  "pe_ratio": 12.03,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 68.33,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:30:14.081645",
-  "provider_reported_pb_ratio": 0.27,
-  "statements_retrieved_at": "2026-11-05T21:30:14.081645",
+  "retrieval_time": "2026-11-06T20:50:26.795677",
+  "provider_reported_pb_ratio": 0.26,
+  "statements_retrieved_at": "2026-11-06T20:50:26.795677",
   "retained_fields": []
 }

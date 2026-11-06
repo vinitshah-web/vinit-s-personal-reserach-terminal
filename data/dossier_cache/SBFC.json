@@ -5,14 +5,14 @@
   "industry": "Credit Services",
   "business_summary": "SBFC Finance Limited, a non-banking financial company, engages in fund-based financing activity in India. The company offers secured loans for micro, small, and medium enterprises (MSME); loans against gold; unsecured personal loans and unsecured business loans; and loan management services. It also operates as a corporate agent of insurance products. It serves entrepreneurs, small business owners, self-employed individuals, salaried and working-class individuals, and other individual customers. SBFC Finance Limited was incorporated in 2008 and is headquartered in Mumbai, India. SBFC Finance Limited operates as a subsidiary of SBFC Holdings Pte. Ltd.",
   "business_summary_reason": null,
-  "market_cap_cr": 9866.74,
-  "pe_ratio": 19.34,
+  "market_cap_cr": 10223.49,
+  "pe_ratio": 20.04,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 36.45,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 111.137,
-  "fifty_two_week_high": 117.34,
+  "fifty_two_week_high": 115.0,
   "fifty_two_week_low": 77.25,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:09:27.065854",
-  "provider_reported_pb_ratio": 2.44,
-  "statements_retrieved_at": "2026-11-05T22:09:27.065854",
+  "retrieval_time": "2026-11-06T21:27:33.304107",
+  "provider_reported_pb_ratio": 2.52,
+  "statements_retrieved_at": "2026-11-06T21:27:33.304107",
   "retained_fields": []
 }

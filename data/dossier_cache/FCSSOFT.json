@@ -5,14 +5,14 @@
   "industry": "Information Technology Services",
   "business_summary": "FCS Software Solutions Limited engages in providing IT and business services, engineering and product, and platform service in India and the United States. It provides software development and marketing, and support services to corporate business entities in the BPO, software development, e-learning, and other related information technology (IT) enabled services. The company also offers infrastructure management services, including collocation data centers, virtualization, system and networks support, plug and play infrastructure provisioning, WAN, IP based voice, and cyber security. In addition, it involved in leasing or letting out various kind of immovable property, such as IT Infrastructural premises whether freehold, leasehold to other organizations; and provision of education/e-learning services which include content aggregation, learning management systems, portals, and assessment. The company was incorporated in 1993 and is based in Noida, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 251.3,
-  "pe_ratio": 73.5,
+  "market_cap_cr": 246.18,
+  "pe_ratio": 72.0,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 2.44,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 170.9553,
-  "fifty_two_week_high": 2.3,
+  "fifty_two_week_high": 2.26,
   "fifty_two_week_low": 1.05,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:34:01.407225",
-  "provider_reported_pb_ratio": 0.6,
-  "statements_retrieved_at": "2026-11-05T21:34:01.407225",
+  "retrieval_time": "2026-11-06T20:54:04.216349",
+  "provider_reported_pb_ratio": 0.59,
+  "statements_retrieved_at": "2026-11-06T20:54:04.216349",
   "retained_fields": []
 }

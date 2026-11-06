@@ -5,8 +5,8 @@
   "industry": "Capital Markets",
   "business_summary": "Geojit Financial Services Limited, an investment services company, provides broking and financial services in India, Oman, Kuwait, the United Arab Emirates, and Saudi Arabia. The company offers equity, Mutual fund, portfolio management, Alternate Investment Fund, Currency Futures Trading, Initial Public Offer investment, Sovereign Gold Bond Scheme, insurance, Depository, Margin Trading Funding, Private Wealth Management services. It is also involved in trading of Commodities, as well as provides financial services to Non-Resident Indians. The company was formerly known as Geojit BNP Paribas Financial Services Limited and changed its name to Geojit Financial Services Limited in February 2017. Geojit Financial Services Limited was founded in 1987 and is based in Kochi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2012.19,
-  "pe_ratio": 30.16,
+  "market_cap_cr": 1983.72,
+  "pe_ratio": 29.74,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 42.64,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:35:50.673627",
-  "provider_reported_pb_ratio": 1.69,
-  "statements_retrieved_at": "2026-11-05T21:35:50.673627",
+  "retrieval_time": "2026-11-06T20:55:47.619291",
+  "provider_reported_pb_ratio": 1.67,
+  "statements_retrieved_at": "2026-11-06T20:55:47.619291",
   "retained_fields": []
 }

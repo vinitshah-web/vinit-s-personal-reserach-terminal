@@ -5,8 +5,8 @@
   "industry": "Industrial Distribution",
   "business_summary": "Jinkushal Industries Limited provides solutions for companies in the construction and mining equipment sector. It offers a diversified portfolio of equipment, including backhoe loaders, cranes, dozers, wheel loaders, crushers, pavers, generator sets, piling rigs, rollers, motor graders, telehandlers, and excavators, as well as proprietary HexL backhoe loaders. The company also provides machine hiring, warehousing, and business auxiliary services. In addition, the company focuses on the export, refurbishment, customization, and sale of new and used construction and mining machinery under the HexL brand. The company was formerly known as Jinkushal Industries Private Limited and changed its name to Jinkushal Industries Limited in October 2024. The company was founded in 1972 and is headquartered in Raipur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 409.27,
-  "pe_ratio": 48.03,
+  "market_cap_cr": 403.4,
+  "pe_ratio": 47.34,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 50.56,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:45:37.465927",
-  "provider_reported_pb_ratio": 2.11,
-  "statements_retrieved_at": "2026-11-05T21:45:37.465927",
+  "retrieval_time": "2026-11-06T21:05:17.935039",
+  "provider_reported_pb_ratio": 2.08,
+  "statements_retrieved_at": "2026-11-06T21:05:17.935039",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Beta Drugs Limited develops, manufactures, and sells anti-cancer bulk drugs and finished dosages in India. The company offers cosmeceutical and oncology products. It also manufactures active pharmaceutical ingredients (API) and pharmaceutical formulation intermediates (PFI). The company exports its products. Beta Drugs Limited was founded in 1985 and is based in Panchkula, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1865.9,
-  "pe_ratio": 27.11,
+  "market_cap_cr": 1830.62,
+  "pe_ratio": 26.6,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 241.55,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:23:13.768661",
-  "provider_reported_pb_ratio": 7.62,
-  "statements_retrieved_at": "2026-11-05T21:23:13.768661",
+  "retrieval_time": "2026-11-06T20:43:42.037146",
+  "provider_reported_pb_ratio": 7.48,
+  "statements_retrieved_at": "2026-11-06T20:43:42.037146",
   "retained_fields": []
 }

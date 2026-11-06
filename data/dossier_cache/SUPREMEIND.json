@@ -5,15 +5,15 @@
   "industry": "Building Products & Equipment",
   "business_summary": "The Supreme Industries Limited manufactures and sells plastic products in India. The company offers plastic piping systems, including uPVC pipes, injection-molded PVC and handmade fittings; polypropylene random co-polymer pipe systems; HDPE and CPVC pipe systems; inspection chambers; manholes; bath fittings and sanitaryware; roto-molded tanks and fittings; solvents; industrial piping systems; DWC pipe system; PERT pipe system; O-PVC pipe system; and fire sprinkler systems. It also provides industrial products, such as industrial components, material handling system and pallets, roto moulded crates, pallets, and garbage bins and composite LPG cylinders. In addition, the company provides packaging products comprising flexible packaging film products, protective packaging products, and cross-laminated film and products; and furniture. Further, the company offers fabricated and customised windows from uPVC profile. It also exports its products. The Supreme Industries Limited was incorporated in 1942 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 41822.62,
-  "pe_ratio": 36.99,
+  "market_cap_cr": 40118.45,
+  "pe_ratio": 35.49,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 503.33,
-  "dividend_yield_pct": 1.1033,
+  "dividend_yield_pct": 1.1243,
   "shares_outstanding_cr": 12.7027,
   "fifty_two_week_high": 4074.8,
-  "fifty_two_week_low": 3127.0,
+  "fifty_two_week_low": 3078.5,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:16:25.903012",
-  "provider_reported_pb_ratio": 6.54,
-  "statements_retrieved_at": "2026-11-05T22:16:25.903012",
+  "retrieval_time": "2026-11-06T21:33:47.958532",
+  "provider_reported_pb_ratio": 6.27,
+  "statements_retrieved_at": "2026-11-06T21:33:47.958532",
   "retained_fields": []
 }

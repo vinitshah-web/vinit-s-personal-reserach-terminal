@@ -5,14 +5,14 @@
   "industry": "Building Materials",
   "business_summary": "Nuvoco Vistas Corporation Limited manufactures and sale of cement and building materials products in India. It operates through Cement, and RMX and Other divisions. The company offers ordinary Portland, Portland slag, Portland pozzolana, and Portland composite cement products under the Concreto Uno, Duraguard, Double Bull, PSC, Nirmax, and Infracem brands; and ready-mix concrete under the Concreto, Ecodure, Artiste, InstaMix, and X-Con brands. It also provides modern building materials, including construction chemicals, multipurpose bonding and waterproofing agents, tile and stone adhesives, tile grouts, ready-mix dry plaster, block joining mortar, dry bag concrete, and cover blocks products under the Zero M brands. The company was formerly known as Lafarge India Limited and changed its name to Nuvoco Vistas Corporation Limited in April 2017. The company was incorporated in 1999 and is headquartered in Mumbai, India. Nuvoco Vistas Corporation Limited is a subsidiary of Niyogi Enterprise Private Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 12352.25,
-  "pe_ratio": 29.81,
+  "market_cap_cr": 12250.46,
+  "pe_ratio": 29.57,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 265.2,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 35.7156,
-  "fifty_two_week_high": 399.65,
+  "fifty_two_week_high": 398.0,
   "fifty_two_week_low": 276.25,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:58:53.442318",
-  "provider_reported_pb_ratio": 1.3,
-  "statements_retrieved_at": "2026-11-05T21:58:53.442318",
+  "retrieval_time": "2026-11-06T21:18:04.322522",
+  "provider_reported_pb_ratio": 1.29,
+  "statements_retrieved_at": "2026-11-06T21:18:04.322522",
   "retained_fields": []
 }

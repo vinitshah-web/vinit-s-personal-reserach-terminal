@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Precision Camshafts Limited, together with its subsidiaries, engages in the manufacture and sale of castings and machined camshafts for the auto industry in India, Asia, Europe, and internationally. The company offers chilled cast iron, ductile iron, hybrid, and assembled camshafts; fuel injector, such as nozzle holder body, nozzle retaining nuts, etc.; stainless steel components; and diesel engine, break, and measuring instruments parts. Precision Camshafts Limited was incorporated in 1992 and is based in Pune, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 990.04,
-  "pe_ratio": 24.18,
+  "market_cap_cr": 957.84,
+  "pe_ratio": 23.4,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 87.97,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:02:59.800720",
-  "provider_reported_pb_ratio": 1.18,
-  "statements_retrieved_at": "2026-11-05T22:02:59.800720",
+  "retrieval_time": "2026-11-06T21:21:55.119862",
+  "provider_reported_pb_ratio": 1.15,
+  "statements_retrieved_at": "2026-11-06T21:21:55.119862",
   "retained_fields": []
 }

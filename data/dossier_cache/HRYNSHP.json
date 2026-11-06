@@ -5,8 +5,8 @@
   "industry": "Waste Management",
   "business_summary": "Hariyana Ship Breakers Limited, together with its subsidiary, engages in the ship breaking business in India and internationally. The company is involved in ship recycling activities; industrial gases; and real estate developments. It also engages in trading in metal scrap, steel, graphite electrodes, and other industrial inouts. The company was incorporated in 1981 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 58.43,
-  "pe_ratio": 14.18,
+  "market_cap_cr": 53.94,
+  "pe_ratio": 13.09,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 238.79,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:41:32.512708",
-  "provider_reported_pb_ratio": 0.4,
-  "statements_retrieved_at": "2026-11-05T21:41:32.512708",
+  "retrieval_time": "2026-11-06T21:01:16.068627",
+  "provider_reported_pb_ratio": 0.37,
+  "statements_retrieved_at": "2026-11-06T21:01:16.068627",
   "retained_fields": []
 }

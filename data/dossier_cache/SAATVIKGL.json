@@ -5,14 +5,14 @@
   "industry": "Solar",
   "business_summary": "Saatvik Green Energy Limited manufactures and sells solar photovoltaic modules in India and internationally. The company offers mono PERC and N-topcon modules; inverters; SuryaConnect Solar Kit, a pre-engineered turnkey solar kit; transformers; and solar cell technology products. It also provides solar pumps, such as solar submersible and surface pumps and controllers; and engineering, procurement, and construction services. In addition, the company offers residential rooftop, commercial rooftop, institutional rooftop, ground mounted, floating solar, and carport services; and battery energy storage system services. Saatvik Green Energy Limited was incorporated in 2015 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4557.35,
+  "market_cap_cr": 4557.99,
   "pe_ratio": 26.46,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
-  "book_value": 113.63,
+  "book_value": 107.48,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 12.7105,
-  "fifty_two_week_high": 551.8,
+  "fifty_two_week_high": 502.8,
   "fifty_two_week_low": 328.0,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:07:45.340862",
-  "provider_reported_pb_ratio": 3.16,
-  "statements_retrieved_at": "2026-11-05T22:07:45.340862",
+  "retrieval_time": "2026-11-06T21:26:11.176106",
+  "provider_reported_pb_ratio": 3.34,
+  "statements_retrieved_at": "2026-11-06T21:26:11.176106",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Luxury Goods",
   "business_summary": "Tribhovandas Bhimji Zaveri Limited designs, manufactures, retails, and sells jewelry in India. The company offers bangles, pendants, rings, necklaces, bracelets, earrings, coins, and mangalsutras. It also provides products in a various style, such as gold, diamond studded, precious and semi-precious stone studded, and plain and diamond studded platinum; lightweight and contemporary jewelry; temple jewelry; jewelry with colored stones studded in gold and diamond; loose diamonds solitaires; gold bars; loose precious and semi-precious stones; and jadau jewelry. In addition, the company is involved in franchise related business. It operates through stores and franchise stores. Tribhovandas Bhimji Zaveri Limited was founded in 1864 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4051.55,
-  "pe_ratio": 20.62,
+  "market_cap_cr": 3955.12,
+  "pe_ratio": 20.13,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 130.56,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:17:59.548546",
-  "provider_reported_pb_ratio": 4.65,
-  "statements_retrieved_at": "2026-11-05T22:17:59.548546",
+  "retrieval_time": "2026-11-06T21:35:16.942670",
+  "provider_reported_pb_ratio": 4.54,
+  "statements_retrieved_at": "2026-11-06T21:35:16.942670",
   "retained_fields": []
 }

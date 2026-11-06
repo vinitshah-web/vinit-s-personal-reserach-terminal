@@ -5,8 +5,8 @@
   "industry": "Specialty Business Services",
   "business_summary": "One Point One Solutions Limited engages in the customer life cycle management, business process management, and technology servicing activities in India. The company provides customer experience management services, including omnichannel, multilingual customer support across email, chat, voice and digital platforms; digital transformation and automation services; finance and accounting outsourcing services comprising payroll management, budgeting, bookkeeping, forecasting, and compliance services; trust and safety services that include fraud detection, user-generated content, moderation, and brand review content moderation and review; supply chain and operations management; creator economy support services, such as brand partnerships, content production, audience growth, and IP management; and medical records and litigation support services. It serves banking and financial, telecom, insurance, airlines, consumer durables, FMCG, retail, e-commerce, travel, and hospitality industries. The company was incorporated in 2008 and is headquartered in Navi Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2033.29,
-  "pe_ratio": 45.22,
+  "market_cap_cr": 1986.75,
+  "pe_ratio": 44.19,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 16.98,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:59:32.307780",
-  "provider_reported_pb_ratio": 4.55,
-  "statements_retrieved_at": "2026-11-05T21:59:32.307780",
+  "retrieval_time": "2026-11-06T21:18:41.316687",
+  "provider_reported_pb_ratio": 4.45,
+  "statements_retrieved_at": "2026-11-06T21:18:41.316687",
   "retained_fields": []
 }

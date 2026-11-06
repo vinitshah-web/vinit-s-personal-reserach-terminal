@@ -5,15 +5,15 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Medico Remedies Limited develops, manufactures, and sells pharmaceutical and nutraceutical products in India. The company offers antibiotics and anti-infectives; beta-lactams-penicillins and cephalosporins; antifungals; vitamins and supplements; cardiovascular products; antipyretic, analgesic, and NSAIDs medicines; antacid and anti-ulcer drugs; antidepressants, antipsychotics, and anti-epileptics; antimalarials; dry syrups; ointments and creams; anti-diabetics; syrups; and miscellaneous products, as well as antihypertensive, antidiabetics, antibiotics diuretics, and antiretrovirals. It also exports its products. The company was incorporated in 1994 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 153.11,
-  "pe_ratio": 11.05,
+  "market_cap_cr": 149.29,
+  "pe_ratio": 10.77,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 9.15,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 8.2984,
   "fifty_two_week_high": 56.88,
-  "fifty_two_week_low": 18.36,
+  "fifty_two_week_low": 17.81,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:53:03.605580",
-  "provider_reported_pb_ratio": 2.02,
-  "statements_retrieved_at": "2026-11-05T21:53:03.605580",
+  "retrieval_time": "2026-11-06T21:12:29.063472",
+  "provider_reported_pb_ratio": 1.97,
+  "statements_retrieved_at": "2026-11-06T21:12:29.063472",
   "retained_fields": []
 }

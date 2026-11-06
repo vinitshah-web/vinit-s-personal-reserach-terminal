@@ -5,8 +5,8 @@
   "industry": "Solar",
   "business_summary": "Indosolar Limited engages in the manufacturing and trading of solar photovoltaic modules in India, Europe, the United States, Middle East, and Asia. It offers solar modules, including TOPCon modules and Mono PERC technology The company was incorporated in 2005 and is based in New Delhi, India. Indosolar Limited is a subsidiary of Waaree Energies Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 860.45,
-  "pe_ratio": 6.88,
+  "market_cap_cr": 852.38,
+  "pe_ratio": 6.82,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 78.58,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:24:02.914214",
-  "provider_reported_pb_ratio": 2.63,
-  "statements_retrieved_at": "2026-11-05T22:24:02.914214",
+  "retrieval_time": "2026-11-06T21:40:59.101149",
+  "provider_reported_pb_ratio": 2.61,
+  "statements_retrieved_at": "2026-11-06T21:40:59.101149",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Utilities - Renewable",
   "business_summary": "NHPC Limited, together with its subsidiaries, engages in the generation, sale, and trading of electricity through hydro, wind, and solar power stations in India and Nepal. It also owns and operates power stations. In addition, the company offers consultancy, project execution, and maintenance services in the areas of design and engineering; geotechnical investigations; renovation and modernization of hydropower projects; procurement; project management and supervision; construction management; and operation and maintenance of power plants, rural road projects, and rural electrification projects. The company supplies electricity to various distribution companies, including state electricity distribution companies, state power departments, and private distribution companies. It exports its products and services. NHPC Limited was incorporated in 1975 and is based in Faridabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 80962.98,
-  "pe_ratio": 18.74,
+  "market_cap_cr": 82449.64,
+  "pe_ratio": 19.09,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 43.48,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:57:35.983166",
-  "provider_reported_pb_ratio": 1.85,
-  "statements_retrieved_at": "2026-11-05T21:57:35.983166",
+  "retrieval_time": "2026-11-06T21:16:51.218453",
+  "provider_reported_pb_ratio": 1.89,
+  "statements_retrieved_at": "2026-11-06T21:16:51.218453",
   "retained_fields": []
 }

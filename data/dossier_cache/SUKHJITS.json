@@ -5,7 +5,7 @@
   "industry": "Specialty Chemicals",
   "business_summary": "The Sukhjit Starch & Chemicals Limited, an agro-processing company, engages in the production and sale of starch and its derivatives in India. It operates through four segments: Starch & Its Derivatives, Readymade Garments, Leasing & Hire Purchase Financing, and Manufacturing of Heavy Machinery. The company offers maize starch, dextrines, monohydrate dextrose, sorbitol, anhydrous dextrose, liquid glucose, high maltose syrup, pregel starch, malto dextrin powder, modified starch, maize gluten, maize germ, maize oil, and maize bran. The Sukhjit Starch & Chemicals Limited was incorporated in 1943 and is based in Phagwara, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 453.26,
+  "market_cap_cr": 453.48,
   "pe_ratio": 10.04,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:15:51.698068",
+  "retrieval_time": "2026-11-06T21:33:14.967327",
   "provider_reported_pb_ratio": 0.76,
-  "statements_retrieved_at": "2026-11-05T22:15:51.698068",
+  "statements_retrieved_at": "2026-11-06T21:33:14.967327",
   "retained_fields": []
 }

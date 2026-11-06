@@ -5,14 +5,14 @@
   "industry": "Furnishings, Fixtures & Appliances",
   "business_summary": "Rushil D\u00e9cor Limited manufactures and sells decorative laminate sheets and medium density fiber (MDF) boards for use in residential and commercial spaces in India. It operates through the Decorative Laminated Sheets, Medium Density Fiber Board, and Polyvinyl Chloride Boards segments. The company offers pre-laminated medium density fiber boards and polyvinyl chloride boards, HDFWR (high-density fire and water resistant), and pre-laminated decorative MDF/HDFWR boards under the VIR brand. It also exports its products. Rushil D\u00e9cor Limited was incorporated in 1993 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 578.62,
-  "pe_ratio": 24.96,
+  "market_cap_cr": 566.29,
+  "pe_ratio": 24.43,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 22.18,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 29.3417,
-  "fifty_two_week_high": 26.48,
+  "fifty_two_week_high": 25.4,
   "fifty_two_week_low": 12.49,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:07:36.506021",
-  "provider_reported_pb_ratio": 0.89,
-  "statements_retrieved_at": "2026-11-05T22:07:36.506021",
+  "retrieval_time": "2026-11-06T21:26:02.973768",
+  "provider_reported_pb_ratio": 0.87,
+  "statements_retrieved_at": "2026-11-06T21:26:02.973768",
   "retained_fields": []
 }

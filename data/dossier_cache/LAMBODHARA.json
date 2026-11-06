@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Lambodhara Textiles Limited engages in the manufacture and sale of synthetic yarns in India. It operates through Textile, Power Generation, and Real Estate segments. The company offers slub, multi count and multi twist, siro, and neppy yarns. In addition, it generates electricity through windmills and solar power plants. Further, the company engages in the rental of commercial complexes, as well as real estate development activities. It exports its products. The company was incorporated in 1994 and is based in Coimbatore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 136.35,
-  "pe_ratio": 10.97,
+  "market_cap_cr": 135.26,
+  "pe_ratio": 10.88,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 123.77,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:49:13.320808",
-  "provider_reported_pb_ratio": 1.06,
-  "statements_retrieved_at": "2026-11-05T21:49:13.320808",
+  "retrieval_time": "2026-11-06T21:08:46.188967",
+  "provider_reported_pb_ratio": 1.05,
+  "statements_retrieved_at": "2026-11-06T21:08:46.188967",
   "retained_fields": []
 }

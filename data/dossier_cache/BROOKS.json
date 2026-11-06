@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Brooks Laboratories Limited operates as a pharmaceutical manufacturer in India and internationally. It operates in two segments, Manufacturing and Trading. The company offers liquid injection ampoules and vials, dry powder injection vials, lyophilized injections, eye/ear drops, and nasal drops; and B-Lactam and cephalosporin tablets, dry powder syrups, and injections. It is also involved in loan-licensing business relating to pharmaceutical products, ingredients, and intermediaries; and trading in pharmaceutical products, ingredients, and intermediaries. In addition, the company offers oncology products and hormonal injections; and formulations for therapeutic areas comprising antibiotic, pain management, controlled drugs. It exports its products to Afghanistan, Yemen, Kosovo, Bolivia, Guatemala, Turkmenistan, Nigeria, Lebanon, Mauritius, Sudan, Madagascar, the Democratic Republic of Congo, Angola, Mozambique, Latin America, and Africa. Brooks Laboratories Limited was incorporated in 2002 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 195.74,
-  "pe_ratio": 14.8,
+  "market_cap_cr": 186.32,
+  "pe_ratio": 14.09,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 41.64,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:24:57.109794",
-  "provider_reported_pb_ratio": 1.6,
-  "statements_retrieved_at": "2026-11-05T21:24:57.109794",
+  "retrieval_time": "2026-11-06T20:45:23.285922",
+  "provider_reported_pb_ratio": 1.52,
+  "statements_retrieved_at": "2026-11-06T20:45:23.285922",
   "retained_fields": []
 }

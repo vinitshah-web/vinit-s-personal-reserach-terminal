@@ -5,7 +5,7 @@
   "industry": "Trucking",
   "business_summary": "OBCL Limited provides transportation and logistics services in India. It operates in through Road Transportation Service and Trading Business segments. The company offers full truck load transport services for local, regional, and nation-wide cargoes. It maintains own fleet contains 110 commercial vehicles, such as trucks and trailers. It also trades coal, sand, iron and steel, metal, river sand, and other products. The company serves the metal, steel, coal, aluminum, cement, petrochemical, paper, marble, tiles, infra, textile, and FMCG industries. OBCL Limited was formerly known as Orissa Bengal Carrier Limited and changes its name to OBCL Limited in March 2026. OBCL Limited was incorporated in 1994 and is headquartered in Raipur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 126.22,
+  "market_cap_cr": 124.14,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:59:01.468053",
-  "provider_reported_pb_ratio": 1.41,
-  "statements_retrieved_at": "2026-11-05T21:59:01.468053",
+  "retrieval_time": "2026-11-06T21:18:12.365571",
+  "provider_reported_pb_ratio": 1.39,
+  "statements_retrieved_at": "2026-11-06T21:18:12.365571",
   "retained_fields": []
 }

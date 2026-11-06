@@ -5,8 +5,8 @@
   "industry": "Insurance - Life",
   "business_summary": "Religare Enterprises Limited, through its subsidiaries, provides various financial services in India. It operates through Investment and Financing Activities; Broking Related Activities; E-Governance; and Insurance segments. The company provides small and medium enterprise financing; and housing finance products comprising home-purchase, home construction, and home improvement loans. It also offers broking services in equity, currency, and commodity; and depository participant services, as well as operates as a NSDL-appointed enrolment agency for Aadhaar Unique Identification Number, and a mutual fund distributor. In addition, the company provides health, critical illness, personal accident, top-up coverage, international travel, and maternity insurance products, as well as group health and personal accident insurance for corporates. Further, the company engages in the permanent account number issuance; tax deduction and collection account number and e-TDS returns; acting as a business correspondent for banking services; bharat bill payment systems and recharges services; ticketing services; and digital signature certificate and token services. The company was incorporated in 1984 and is headquartered in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 7893.18,
-  "pe_ratio": 155.75,
+  "market_cap_cr": 8047.98,
+  "pe_ratio": 158.8,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 87.38,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:05:46.643727",
-  "provider_reported_pb_ratio": 2.62,
-  "statements_retrieved_at": "2026-11-05T22:05:46.643727",
+  "retrieval_time": "2026-11-06T21:24:33.574556",
+  "provider_reported_pb_ratio": 2.67,
+  "statements_retrieved_at": "2026-11-06T21:24:33.574556",
   "retained_fields": []
 }

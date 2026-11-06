@@ -5,11 +5,11 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "Tega Industries Limited designs, manufactures, and installs process equipment and accessories for the mineral processing, mining, and material handling industries. It offers a range of grinding mill liners, such as DynaPrime, DynaSteel, DynaPulp, and DynaWear. The company also offers conveyor components products comprising centrax, friflo, spill-ex skirt sealing, bed system manufacturer, eco-flip skirt, single wing, ceramic pulley lagging, and ceradisc. In addition, it provides wear products, such as ceramic liners, composite liners, rubber liners, flow promoting liners, thunder air blasters, and engineered chutes; screens and trommels; wear-resistant lining solutions made of rubber, polyurethane, steel and ceramics, essential for mineral processing, screening, grinding, and material handling; and trommels for heavy and light duty applications. Further, the company designs and supplies tornado hydrocyclones for the mining and mineral processing sectors. It operates in North America, South America, Europe, the Middle East, Russia, Africa, South East Asia, Australia, and India. The company was incorporated in 1976 and is based in Kolkata, India. Tega Industries Limited is a subsidiary of Nihal Fiscal Services Private Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 12991.08,
+  "market_cap_cr": 12690.57,
   "pe_ratio": 456.25,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
-  "book_value": 453.52,
+  "book_value": 426.37,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 7.5128,
   "fifty_two_week_high": 2198.0,
@@ -93,8 +93,11 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:18:24.945326",
-  "provider_reported_pb_ratio": 3.81,
-  "statements_retrieved_at": "2026-11-05T22:18:24.945326",
-  "retained_fields": []
+  "retrieval_time": "2026-11-06T21:35:41.022345",
+  "provider_reported_pb_ratio": 3.96,
+  "statements_retrieved_at": "2026-11-06T21:35:41.022345",
+  "retained_fields": [
+    "pe_ratio"
+  ],
+  "previous_retrieval_time": "2026-11-05T22:18:24.945326"
 }

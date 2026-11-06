@@ -5,7 +5,7 @@
   "industry": "Building Materials",
   "business_summary": "Shiva Cement Limited manufactures and sells cement and clinker products in India. It also engages in the trading of allied products. The company was incorporated in 1985 and is based in Mumbai, India. Shiva Cement Limited operates as a subsidiary of JSW Cement Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 386.16,
+  "market_cap_cr": 382.91,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:11:49.100328",
-  "provider_reported_pb_ratio": -5.95,
-  "statements_retrieved_at": "2026-11-05T22:11:49.100328",
+  "retrieval_time": "2026-11-06T21:29:30.564026",
+  "provider_reported_pb_ratio": -5.9,
+  "statements_retrieved_at": "2026-11-06T21:29:30.564026",
   "retained_fields": []
 }

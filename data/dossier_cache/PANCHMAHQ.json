@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "Panchmahal Steel Limited manufactures and sells stainless steel long products in the form of wire rods, bars, and wires in India and internationally. It offers stainless steel wire rods; cold finished bars for precise engineering; and bars for free machining. The company also provides wires for braiding, weaving, knitting, filters, springs, and ball making, as well as for cold heading and fasteners; heat resistant wires; EPQ wires; fine wires; core wires in coils and cut length; and TIG, MIG, and SAW filler wires. Its products are used in engineering, construction and infrastructure, automotive and railways, oil and gas, defense, energy, consumer durables, food processing and dairy, housing, and pharmaceutical industries. Panchmahal Steel Limited was incorporated in 1972 and is based in Vadodara, India. Panchmahal Steel Limited is a subsidiary of Honeyvick Enterprises Private Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 574.35,
-  "pe_ratio": 144.04,
+  "market_cap_cr": 576.07,
+  "pe_ratio": 144.47,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 83.42,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:00:35.583859",
-  "provider_reported_pb_ratio": 3.61,
-  "statements_retrieved_at": "2026-11-05T22:00:35.583859",
+  "retrieval_time": "2026-11-06T21:19:38.438153",
+  "provider_reported_pb_ratio": 3.62,
+  "statements_retrieved_at": "2026-11-06T21:19:38.438153",
   "retained_fields": []
 }

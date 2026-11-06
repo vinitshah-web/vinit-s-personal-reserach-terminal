@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Ganesh Benzoplast Limited engages in the manufactures and sells specialty chemicals, food preservatives, and industrial lubricants in India and internationally. It operates through two segments, Liquid Storage Tanks and Chemical. The company provides liquid storage tanks; engineering procurement and construction services; rail logistic services; storage and handling solutions; and transportation facilities. It offers lubricant additives that includes engine, driveline, and industrial lubricant additives; detergent/dispersant, antiwear/anti-oxidant, and other components; sodium, calcium, barium, and magnesium petroleum sulphonate chemicals; and other lube specialty chemicals, such as brake fluid. In addition, the company offers chemicals comprising sodium benzoate, benzoic acid, methyl benzoate, and benzoate plasticisers. Further, it provides bunkering, blending, and drum filling services. The company serves food and beverage, paints, automobile, pharmaceutical, and lubricants industries. Ganesh Benzoplast Limited was incorporated in 1986 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 663.24,
-  "pe_ratio": 9.12,
+  "market_cap_cr": 647.9,
+  "pe_ratio": 8.91,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 84.69,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:35:18.161645",
-  "provider_reported_pb_ratio": 1.09,
-  "statements_retrieved_at": "2026-11-05T21:35:18.161645",
+  "retrieval_time": "2026-11-06T20:55:16.453404",
+  "provider_reported_pb_ratio": 1.06,
+  "statements_retrieved_at": "2026-11-06T20:55:16.453404",
   "retained_fields": []
 }

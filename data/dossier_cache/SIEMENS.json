@@ -5,8 +5,8 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "Siemens Limited, a technology company, industry, infrastructure, mobility, and healthcare business in India and internationally. It operates through Smart Infrastructure, Mobility, Digital Industries, and Others segments. The Smart Infrastructure supplies products, systems, solutions, and services for transmission and distribution of electrical energy for power utilities, industrial companies, and infrastructure segments. This segment offers systems for low and medium voltage distribution; solutions for smart grids and energy automation; and low voltage power supply systems, as well as intelligent and connected infrastructure for grids and buildings. The Mobility segment provides solutions for passenger and freight transportation, including rail vehicles, rail automation systems, rail electrification systems, turnkey systems, and related services. The Digital Industries segment offers products for automation and digitalization of discrete, hybrid, and process industries. This segments portfolio consists of industrial software and automation, and drives technology products for optimizing manufacturing value chain, covering product design, production planning, engineering, execution, and customer services. The Others segment provides services related parties and lease rentals. The company was formerly known as Siemens India Limited and changed its name to Siemens Limited in March 1987. Siemens Limited was founded in 1847 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 122220.56,
-  "pe_ratio": 84.14,
+  "market_cap_cr": 126778.91,
+  "pe_ratio": 87.28,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 388.64,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:12:46.953969",
-  "provider_reported_pb_ratio": 8.83,
-  "statements_retrieved_at": "2026-11-05T22:12:46.953969",
+  "retrieval_time": "2026-11-06T21:30:19.187345",
+  "provider_reported_pb_ratio": 9.16,
+  "statements_retrieved_at": "2026-11-06T21:30:19.187345",
   "retained_fields": []
 }

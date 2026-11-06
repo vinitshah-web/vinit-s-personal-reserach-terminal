@@ -5,8 +5,8 @@
   "industry": "Information Technology Services",
   "business_summary": "Magellanic Cloud Limited provides IT solutions in India. It operates through IT-Surveillance, IT/ITES Services, and Drone segments. The company offers artificial intelligence, cloud computing, data engineering, platform development, and digital transformation. It also provides product engineering, product development, quality assurance, DevOps, data analytics, multi-cloud and DevOps automation, process automation, drone solutions, e-security and surveillance, enterprise security, and human capital solutions. The company was formerly known as South India Projects Limited. Magellanic Cloud Limited was incorporated in 1981 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1448.52,
-  "pe_ratio": 13.08,
+  "market_cap_cr": 1419.06,
+  "pe_ratio": 12.81,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 11.71,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:52:54.226211",
-  "provider_reported_pb_ratio": 2.1,
-  "statements_retrieved_at": "2026-11-05T21:52:54.226211",
+  "retrieval_time": "2026-11-06T21:12:19.403353",
+  "provider_reported_pb_ratio": 2.06,
+  "statements_retrieved_at": "2026-11-06T21:12:19.403353",
   "retained_fields": []
 }

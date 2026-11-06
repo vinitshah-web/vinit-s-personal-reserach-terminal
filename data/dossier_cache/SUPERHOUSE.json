@@ -5,8 +5,8 @@
   "industry": "Footwear & Accessories",
   "business_summary": "Superhouse Limited engages in the manufacture and sale of leather and leather products, as well as textile garments in India and internationally. The company offers finished leather, leather shoes, leather uppers, and other leather goods, along with riding accessories. It also provides men's, ladies', and children's footwear, safety footwear, and welted footwear; ready made garments, including ladies' tops, tunics, evening dresses, trousers, and jackets; safety garments such as coveralls, bib trousers, trousers, aprons, dust coats, chef coats, jacket, doctor coats, hi-visibility vests and jackets, army uniforms, and fleece jackets; leather accessories, including leather bags, business cases, portfolios, trolley bags, belts, and soles; socks; riding products including breeches, and riding boots; and fall protection products. The company sells its products under the Allen Cooper and Double Duty brand names. The company was formerly known as Superhouse Leathers Limited and changed its name to Superhouse Limited in November 2006. Superhouse Limited was incorporated in 1980 and is based in Kanpur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 163.21,
-  "pe_ratio": 19.9,
+  "market_cap_cr": 165.33,
+  "pe_ratio": 20.16,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 432.78,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:16:19.772675",
-  "provider_reported_pb_ratio": 0.34,
-  "statements_retrieved_at": "2026-11-05T22:16:19.772675",
+  "retrieval_time": "2026-11-06T21:33:42.482158",
+  "provider_reported_pb_ratio": 0.35,
+  "statements_retrieved_at": "2026-11-06T21:33:42.482158",
   "retained_fields": []
 }

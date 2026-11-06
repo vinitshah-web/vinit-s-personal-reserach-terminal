@@ -5,14 +5,14 @@
   "industry": "Packaging & Containers",
   "business_summary": "Nahar Poly Films Limited manufactures and sells biaxially oriented polypropylene (BOPP) films used in flexible packaging in India and internationally. The company offers transparent one side corona treated metallisable; transparent both sided treated inside metallizable; transparent both side heat sealable for cable over wrapping; transparent both side heat sealable; white opaque both side heat sealable; transparent one side metallisable other side heat sealable; one side metalised films; and one side metallised other side low heat sealable films. It also provides one side metalised and other side corona treated films; white opaque both side heat sealable for cable over wrapping; base films for matte metallised and other side heat sealable; matte metallised and other side heat sealable; transparent one side heat sealable other side corona treated; transparent one side non sealable other side heat sealable; transparent both side heat sealable with low seal temp; transparent non heat sealable both side corona treated; one side glossy other side matte; transparent non heat sealable one side corona treated; transparent non heat sealable release grade; and transparent non heat sealable both side corona treated products. The company exports its products. The company was formerly known as Nahar Investments and Holding Limited and changed its name to Nahar Poly Films Limited in June 2008. Nahar Poly Films Limited was incorporated in 1988 and is based in Ludhiana, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 581.97,
-  "pe_ratio": 8.05,
+  "market_cap_cr": 573.88,
+  "pe_ratio": 7.94,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 389.25,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 2.4588,
-  "fifty_two_week_high": 320.0,
+  "fifty_two_week_high": 319.9,
   "fifty_two_week_low": 200.0,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:56:28.417186",
-  "provider_reported_pb_ratio": 0.61,
-  "statements_retrieved_at": "2026-11-05T21:56:28.417186",
+  "retrieval_time": "2026-11-06T21:15:44.502601",
+  "provider_reported_pb_ratio": 0.6,
+  "statements_retrieved_at": "2026-11-06T21:15:44.502601",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Luxury Goods",
   "business_summary": "Renaissance Global Limited, together with its subsidiaries, engages in the manufacture, retail, and trade of jewelry, gems, and diamonds in India and internationally. The company offers gold and diamond studded jewelry. It also trades in cut and polished diamonds, and gems. The company sells its products under the Enchanted Disney Fine Jewelry, Hallmark Fine Jewelry, and Irasva Fine Jewelry brands. It serves department stores, independent designers, mall-based jewellery retailers, television, and online retailers, as well as wholesalers. The company exports its products. The company was formerly known as Renaissance Jewellery Limited and changed its name to Renaissance Global Limited in March 2019. Renaissance Global Limited was incorporated in 1989 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1657.41,
-  "pe_ratio": 19.58,
+  "market_cap_cr": 1565.47,
+  "pe_ratio": 18.5,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 140.54,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:06:14.994788",
-  "provider_reported_pb_ratio": 1.1,
-  "statements_retrieved_at": "2026-11-05T22:06:14.994788",
+  "retrieval_time": "2026-11-06T21:24:50.133303",
+  "provider_reported_pb_ratio": 1.04,
+  "statements_retrieved_at": "2026-11-06T21:24:50.133303",
   "retained_fields": []
 }

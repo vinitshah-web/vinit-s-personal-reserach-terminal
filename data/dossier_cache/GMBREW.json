@@ -5,8 +5,8 @@
   "industry": "Beverages - Wineries & Distilleries",
   "business_summary": "G.M. Breweries Limited manufactures and sells alcoholic beverages in India. The company offers Indian made foreign liquor and country liquor. It offers its products under the G.M.SANTRA, G.M.DOCTOR, G.M.LIMBU PUNCH, and G.M.DILBAHAR SOUNF brand names. The company was incorporated in 1981 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1916.97,
-  "pe_ratio": 11.07,
+  "market_cap_cr": 1913.43,
+  "pe_ratio": 11.05,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 497.7,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:36:33.894706",
-  "provider_reported_pb_ratio": 1.69,
-  "statements_retrieved_at": "2026-11-05T21:36:33.894706",
+  "retrieval_time": "2026-11-06T20:56:29.609547",
+  "provider_reported_pb_ratio": 1.68,
+  "statements_retrieved_at": "2026-11-06T20:56:29.609547",
   "retained_fields": []
 }

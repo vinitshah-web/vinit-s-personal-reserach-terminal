@@ -6,7 +6,7 @@
   "business_summary": "Gujarat Raffia Industries Limited manufactures and sells HDPE tarpaulin, PP bags, and allied products in India. The company also provides plastic and ground sheeting, geomembranes, tents, shelters, pond and canal linings, fumigation cover, HDPE woven bags, vermined, ropes, PP ropes, lumber wraps, wagon cover, and weed mat. In addition, it offers azolla bed, hay tarps, shade net, sand bags, raincoat, and disaster relief products. The company was incorporated in 1984 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
   "market_cap_cr": null,
-  "pe_ratio": 21.11,
+  "pe_ratio": 20.64,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 41.32,
@@ -17,10 +17,10 @@
   "financial_statements": [],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": false,
-  "retrieval_time": "2026-11-05T21:38:50.766788",
-  "provider_reported_pb_ratio": 1.06,
+  "retrieval_time": "2026-11-06T20:58:42.170214",
+  "provider_reported_pb_ratio": 1.03,
   "statements_retrieved_at": "2026-11-01T06:54:16.762610",
-  "previous_retrieval_time": "2026-11-04T22:40:31.322572",
+  "previous_retrieval_time": "2026-11-05T21:38:50.766788",
   "retained_fields": [
     "financial_statements",
     "previous_retrieval_time"

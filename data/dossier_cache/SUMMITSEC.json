@@ -5,14 +5,14 @@
   "industry": "Capital Markets",
   "business_summary": "Summit Securities Limited, a non-banking financial company, engages in investment and financial activities. The investments of the firm are typically long term in nature and predominantly in the equity markets. The firm typically invests in companies in real estate sector. Summit Securities Limited was formerly known as RPG Itochu Finance Limited. The company was incorporated on January 30, 1997 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1466.87,
-  "pe_ratio": 12.2,
+  "market_cap_cr": 1451.33,
+  "pe_ratio": 12.07,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
-  "book_value": 7847.05,
+  "book_value": 7168.39,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.0902,
-  "fifty_two_week_high": 2265.7,
+  "fifty_two_week_high": 2260.0,
   "fifty_two_week_low": 1242.0,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:16:00.339298",
-  "provider_reported_pb_ratio": 0.17,
-  "statements_retrieved_at": "2026-11-05T22:16:00.339298",
+  "retrieval_time": "2026-11-06T21:33:23.577521",
+  "provider_reported_pb_ratio": 0.18,
+  "statements_retrieved_at": "2026-11-06T21:33:23.577521",
   "retained_fields": []
 }

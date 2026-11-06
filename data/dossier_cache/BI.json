@@ -5,15 +5,15 @@
   "industry": "Packaging & Containers",
   "business_summary": "Bilcare Limited provides pharmaceutical packaging research solutions in India and internationally. The company offers aluminum foils, polymer films, and anti-counterfeiting packaging solutions for solid dosage pharmaceutical products and other applications; and blister films and foils, lidding foils, CR foils, and laminates. It is also involved in the provision of clinical trial supplies, clinical trial management, and brand protection technologies services; and research and development services comprising formulation stability studies, blister/foil design and development, pharma brand innovation, analytical research and market study, and packaging trials and audit. Bilcare Limited was incorporated in 1987 and is headquartered in Pune, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 174.38,
-  "pe_ratio": 22.51,
+  "market_cap_cr": 168.25,
+  "pe_ratio": 21.72,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 75.98,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 2.3545,
   "fifty_two_week_high": 113.0,
-  "fifty_two_week_low": 72.15,
+  "fifty_two_week_low": 70.6,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:23:40.058201",
-  "provider_reported_pb_ratio": 0.97,
-  "statements_retrieved_at": "2026-11-05T21:23:40.058201",
+  "retrieval_time": "2026-11-06T20:44:05.971997",
+  "provider_reported_pb_ratio": 0.94,
+  "statements_retrieved_at": "2026-11-06T20:44:05.971997",
   "retained_fields": []
 }

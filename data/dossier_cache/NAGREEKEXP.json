@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Nagreeka Exports Limited engages in the manufacturing and export of cotton yarn and other various merchandise in India and internationally. The company offers cotton yarn, knitted fabrics, bleached cotton, fine cotton, and waste products. It also provides traded goods, including ferro manganese, calcium silicate blocks, plates, TMT bars, shots, silico manganese, and other products. Nagreeka Exports Limited was incorporated in 1989 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 68.09,
-  "pe_ratio": 21.36,
+  "market_cap_cr": 67.0,
+  "pe_ratio": 21.02,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 51.93,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:56:24.609943",
-  "provider_reported_pb_ratio": 0.42,
-  "statements_retrieved_at": "2026-11-05T21:56:24.609943",
+  "retrieval_time": "2026-11-06T21:15:40.981658",
+  "provider_reported_pb_ratio": 0.41,
+  "statements_retrieved_at": "2026-11-06T21:15:40.981658",
   "retained_fields": []
 }

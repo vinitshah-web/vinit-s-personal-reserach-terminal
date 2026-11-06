@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Kwality Pharmaceuticals Limited, together with its subsidiary, manufactures finished pharmaceutical formulations in India and internationally. The company offers its products in various dosage forms, including capsules, eye and ear drops, ointments and creams, pouches and sachets, sanitizers, tablets, suppositories, injectable vials and ampoules, liquid orals, lyophilized products, syrups, and various other categories, such as general, beta-lactam, cephalosporins, oncology, biologics, and hormones and specialty injectables. It also provides intermediates, chemicals, extracts, alkaloids, toilet requisites, beverages, and other medical preparations. Kwality Pharmaceuticals Limited was incorporated in 1983 and is based in Amritsar, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3826.02,
-  "pe_ratio": 47.21,
+  "market_cap_cr": 3781.92,
+  "pe_ratio": 46.67,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 319.57,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:48:25.674778",
-  "provider_reported_pb_ratio": 11.54,
-  "statements_retrieved_at": "2026-11-05T21:48:25.674778",
+  "retrieval_time": "2026-11-06T21:08:00.374416",
+  "provider_reported_pb_ratio": 11.41,
+  "statements_retrieved_at": "2026-11-06T21:08:00.374416",
   "retained_fields": []
 }

@@ -10,7 +10,7 @@
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 161.6,
-  "dividend_yield_pct": 3.2154,
+  "dividend_yield_pct": 3.1546,
   "shares_outstanding_cr": 150.0,
   "fifty_two_week_high": 326.4,
   "fifty_two_week_low": 235.35,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:01:26.964612",
+  "retrieval_time": "2026-11-06T21:20:27.193151",
   "provider_reported_pb_ratio": 1.96,
-  "statements_retrieved_at": "2026-11-05T22:01:26.964612",
+  "statements_retrieved_at": "2026-11-06T21:20:27.193151",
   "retained_fields": []
 }

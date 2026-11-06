@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Morepen Laboratories Limited develops, manufactures, markets, and sells active pharmaceutical ingredients (APIs), branded and generic formulations, and home health products in India, the United States, and internationally. The company offers APIs for anti-histaminic, anti-asthmatic, anti-lipemic, anti-hypertensive, anti-diabetic, anti-coagulant, anti-ulcerative, NASH/ MASH treatment products, CKD treatment, and anti-depressant drugs; and home diagnostic and point-of-care medical devices products, such as blood glucose monitor and test strips, blood pressure monitors, respiratory devices, ortho support, digital thermometers, digital weighing scale, fertility, nebulizers, pulse oximeters, vaporizers, orthopaedic, stethoscope, and miscellaneous products. It also provides OTC healthcare products; and formulations for nutrition and probiotics, gastroenterology, antibiotics, gynecology, anti-allergic, and central nervous system, as well as cardiology, diabetology, and nutraceuticals. In addition, the company offers over the counter products under the Dr. Morepen brand name. Morepen Laboratories Limited was incorporated in 1984 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 5320.63,
-  "pe_ratio": 28.31,
+  "market_cap_cr": 5054.87,
+  "pe_ratio": 26.9,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 25.17,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:55:20.384037",
-  "provider_reported_pb_ratio": 3.86,
-  "statements_retrieved_at": "2026-11-05T21:55:20.384037",
+  "retrieval_time": "2026-11-06T21:14:42.195388",
+  "provider_reported_pb_ratio": 3.66,
+  "statements_retrieved_at": "2026-11-06T21:14:42.195388",
   "retained_fields": []
 }

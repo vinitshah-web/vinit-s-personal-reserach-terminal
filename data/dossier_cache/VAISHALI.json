@@ -5,14 +5,14 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Vaishali Pharma Limited engages in the pharmaceutical business in India and internationally. It offers a portfolio of active pharmaceutical ingredients, such as antibiotics, anti-ulcer, anti-inflammatory, analgesic, anti-pyretic, topical steroids, anti\u0096malarial, cardiac, corticosteroids, anti-diabetics, anti-cold, anti-allergic, anti-diarrheal, anti-protozoal, anti-parasitic, excipients, anti-viral, anti-epileptic, anti-asthmatic, enzymes, anti-fungal, anti-platelet agent, skeletal muscle relaxant, and anti-helminitic. The company also provides pharmaceutical formulations, including antibiotics, antibacterial, anti-platelet, laxative, anti-ulcer, enzymes, anti-asthmatic, anti-malarial, anti-cold, anti-allergic, anti-viral, anti-psychotic, anti-fungal, vitamins, topical steroids, corticosteroids, anti-inflammatory, analgesic, anti-pyretic, anti-diabetic, cardiac, and other products. In addition, it offers disposable surgical and casting tape products; herbal products; veterinary supplements; nutraceutical products; and oncology products. The company exports its products. The company was formerly known as Vaishali Pharma Private Limited. Vaishali Pharma Limited was founded in 1989 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 88.84,
+  "market_cap_cr": 88.19,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 5.3,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 13.0462,
-  "fifty_two_week_high": 10.2,
+  "fifty_two_week_high": 9.9,
   "fifty_two_week_low": 4.75,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:21:40.088402",
-  "provider_reported_pb_ratio": 1.29,
-  "statements_retrieved_at": "2026-11-05T22:21:40.088402",
+  "retrieval_time": "2026-11-06T21:38:45.942084",
+  "provider_reported_pb_ratio": 1.28,
+  "statements_retrieved_at": "2026-11-06T21:38:45.942084",
   "retained_fields": []
 }

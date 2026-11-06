@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Vishal Fabrics Limited engages in the dyeing, printing, and processing of denims and various fabrics in India and internationally. The company manufactures, markets, distributes, and sells various textile products, such as dyed yarn, denim fabrics. and job work of textile products. It also exports its products. Vishal Fabrics Limited was incorporated in 1985 and is headquartered in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 422.67,
-  "pe_ratio": 11.23,
+  "market_cap_cr": 414.99,
+  "pe_ratio": 11.03,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 26.12,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:23:12.085765",
-  "provider_reported_pb_ratio": 0.65,
-  "statements_retrieved_at": "2026-11-05T22:23:12.085765",
+  "retrieval_time": "2026-11-06T21:40:13.018569",
+  "provider_reported_pb_ratio": 0.64,
+  "statements_retrieved_at": "2026-11-06T21:40:13.018569",
   "retained_fields": []
 }

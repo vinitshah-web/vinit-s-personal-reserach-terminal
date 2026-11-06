@@ -5,13 +5,13 @@
   "industry": "Household & Personal Products",
   "business_summary": "N.K. Industries Limited, together with its subsidiaries, manufactures and sells castor oil and its derivatives in India. It offers cold pressed, commercial grade, first pressed degummed, and refined castor oil products, as well as castor oil British pharma 93 grade; de oiled cake and high protein castor meals; 12-hydroxy stearic acid flakes/powders, hydrogenated castor oil flakes/powders, and ricinoleic acid; and crude glycerin and sodium sulphate anhydrous. The company was incorporated in 1987 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 34.64,
+  "market_cap_cr": 36.36,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": -583.63,
   "dividend_yield_pct": 0.0,
-  "shares_outstanding_cr": 0.6009,
+  "shares_outstanding_cr": 0.601,
   "fifty_two_week_high": 78.39,
   "fifty_two_week_low": 49.66,
   "financial_statements": [
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:58:24.704217",
+  "retrieval_time": "2026-11-06T21:17:37.393804",
   "provider_reported_pb_ratio": -0.1,
-  "statements_retrieved_at": "2026-11-05T21:58:24.704217",
+  "statements_retrieved_at": "2026-11-06T21:17:37.393804",
   "retained_fields": []
 }

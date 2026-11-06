@@ -5,8 +5,8 @@
   "industry": "Real Estate Services",
   "business_summary": "PTL Enterprises Limited engages in the leasing of plant to Apollo Tyres Limited. The company was formerly known as Premier Tyres Ltd. PTL Enterprises Limited was incorporated in 1959 and is based in Gurugram, India. PTL Enterprises Limited is a subsidiary of Sunrays Properties & Investment Co. Pvt. Ltd.",
   "business_summary_reason": null,
-  "market_cap_cr": 520.37,
-  "pe_ratio": 11.39,
+  "market_cap_cr": 520.51,
+  "pe_ratio": 11.4,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 63.71,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:03:54.004692",
+  "retrieval_time": "2026-11-06T21:22:46.589231",
   "provider_reported_pb_ratio": 0.62,
-  "statements_retrieved_at": "2026-11-05T22:03:54.004692",
+  "statements_retrieved_at": "2026-11-06T21:22:46.589231",
   "retained_fields": []
 }

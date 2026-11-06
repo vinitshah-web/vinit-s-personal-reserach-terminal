@@ -6,13 +6,13 @@
   "business_summary": "CORONA Remedies Limited, a pharmaceutical formulation company, develops, manufactures, and markets pharmaceutical products. It provides products in women's healthcare, cardio-diabeto, pain management, urology, thyroid management, respiratory, nutraceuticals, gastroenterology, and other therapeutic areas. The company was incorporated in 2004 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
   "market_cap_cr": null,
-  "pe_ratio": 70.3,
+  "pe_ratio": 72.12,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 131.63,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": null,
-  "fifty_two_week_high": 2458.0,
+  "fifty_two_week_high": 2584.0,
   "fifty_two_week_low": 1336.6,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:27:50.727573",
-  "provider_reported_pb_ratio": 18.08,
-  "statements_retrieved_at": "2026-11-05T21:27:50.727573",
+  "retrieval_time": "2026-11-06T20:48:07.126369",
+  "provider_reported_pb_ratio": 18.55,
+  "statements_retrieved_at": "2026-11-06T20:48:07.126369",
   "retained_fields": []
 }

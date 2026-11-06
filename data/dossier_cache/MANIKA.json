@@ -6,7 +6,7 @@
   "business_summary": "Manika Plastech Limited manufactures and sell polymer packaging products in India. The company offers precision battery casings, injection moulded plastic pail buckets, thinwall containers, water bottles, and detergent containers. It also provides painting services for plastic automotive components. The company's products are used in various industries applications, such as automotive, energy storage, railways, telecommunications, power back-up, paints, chemicals, coating, lubricants, agrochemicals, food, and dairy and edible food products. The company was incorporated in 1996 and is based in Mumbai, India. Manika Plastech Limited is a subsidiary of VRIDAA Holding Trust.",
   "business_summary_reason": null,
   "market_cap_cr": null,
-  "pe_ratio": 25.01,
+  "pe_ratio": 25.2,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 25.21,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:51:59.235656",
-  "provider_reported_pb_ratio": 1.91,
-  "statements_retrieved_at": "2026-11-05T21:51:59.235656",
+  "retrieval_time": "2026-11-06T21:11:24.702721",
+  "provider_reported_pb_ratio": 1.92,
+  "statements_retrieved_at": "2026-11-06T21:11:24.702721",
   "retained_fields": []
 }

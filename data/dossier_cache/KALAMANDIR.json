@@ -5,8 +5,8 @@
   "industry": "Apparel Retail",
   "business_summary": "Sai Silks (Kalamandir) Limited engages in the retail sale of apparel in India. The company offers sarees, lehengas, men's ethnic wear, children's ethnic wear, and fashion apparel for weddings, festive occasions, celebrations, and everyday wear, as well as silver jewellery through Rasamayi Jewellery. It operates through retail and departmental stores facilities in various formats under the Kalamandir, Kancheepuram Varamahalakshmi Silks, Mandir, KLM Fashion Mall, Desi Sitara, and Valli Silks brands. Sai Silks (Kalamandir) Limited was founded in 2005 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1195.16,
-  "pe_ratio": 8.75,
+  "market_cap_cr": 1312.15,
+  "pe_ratio": 9.61,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 82.19,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:46:28.754750",
-  "provider_reported_pb_ratio": 0.99,
-  "statements_retrieved_at": "2026-11-05T21:46:28.754750",
+  "retrieval_time": "2026-11-06T21:06:09.221725",
+  "provider_reported_pb_ratio": 1.08,
+  "statements_retrieved_at": "2026-11-06T21:06:09.221725",
   "retained_fields": []
 }

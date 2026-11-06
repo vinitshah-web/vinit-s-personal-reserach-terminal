@@ -5,8 +5,8 @@
   "industry": "Conglomerates",
   "business_summary": "Godrej Industries Limited, together with its subsidiaries, engages in the chemical, agriculture, real estate, vegetable oil, hospitality, and financial and investment businesses in India and internationally. The company produces and sells fatty acids, fatty alcohols, esters and emulsifying waxes, refined glycerin, alpha olefin sulphonates, sodium lauryl sulphate, and sodium lauryl ether sulphate. It also offers compound feeds for cattle, poultry, shrimp, and fish. In addition, the company provides refined vegetable and vanaspati oil; and engages in oil trading and oil palm plantation business. Further, it is involved in real estate sales, development, and leave, licensing and leasing activities; financial services business; and crop protection business. Additionally, the company provides milk and milk products; and hotel room, food and beverage sale, and banquet services. Furthermore, it is involved in poultry and cattle breeding; energy generation through windmills; and seeds related business. Godrej Industries Limited offers skin care, hair care, home care, pet care, and personal care products. The company provides mortgage-based lending solutions, business loans, plot loans, loans against property, and home loans. Godrej Industries Limited was formerly known as Godrej Soaps Limited and changed its name to Godrej Industries Limited in April 2001. Godrej Industries Limited was founded in 1897 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 32991.19,
-  "pe_ratio": 28.07,
+  "market_cap_cr": 32197.91,
+  "pe_ratio": 27.4,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 331.84,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:36:54.387339",
-  "provider_reported_pb_ratio": 2.95,
-  "statements_retrieved_at": "2026-11-05T21:36:54.387339",
+  "retrieval_time": "2026-11-06T20:56:49.328900",
+  "provider_reported_pb_ratio": 2.88,
+  "statements_retrieved_at": "2026-11-06T20:56:49.328900",
   "retained_fields": []
 }

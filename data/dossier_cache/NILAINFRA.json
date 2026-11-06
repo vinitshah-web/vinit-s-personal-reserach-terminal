@@ -5,8 +5,8 @@
   "industry": "Real Estate - Development",
   "business_summary": "Nila Infrastructures Limited constructs and develops infrastructure and real estate projects in India. It is involved in the construction of civic urban infrastructure projects, including bus stations, multi-stored car parking, medical campus, bus terminals, commercial and office complex, and other projects, as well as EPC and industrial development, media utility, and PPP projects. The company also develops residential real estate properties, such as flats and apartments; and constructs and leases commercial properties. In addition, it engages in slum rehabilitation and housing redevelopment. The company serves government and private sector clients. Nila Infrastructures Limited was incorporated in 1990 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 273.75,
-  "pe_ratio": 11.03,
+  "market_cap_cr": 268.63,
+  "pe_ratio": 10.83,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 5.33,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:58:03.166135",
-  "provider_reported_pb_ratio": 1.3,
-  "statements_retrieved_at": "2026-11-05T21:58:03.166135",
+  "retrieval_time": "2026-11-06T21:17:17.380568",
+  "provider_reported_pb_ratio": 1.28,
+  "statements_retrieved_at": "2026-11-06T21:17:17.380568",
   "retained_fields": []
 }

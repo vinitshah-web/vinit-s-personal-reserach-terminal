@@ -5,8 +5,8 @@
   "industry": "Utilities - Regulated Gas",
   "business_summary": "Confidence Futuristic Energetech Limited engages in the manufacture and supply of LPG cylinders under the Go Gas Elite brand name for domestic and commercial users in India. It operates through Cylinder and LPG segments. The company offers compressed natural gas (CNG) and high-pressure cylinders, onboard CNG, CNG cascades, and medical oxygen and seamless steel gas cylinders for industrial gases. It also engages in LPG marketing and bottling business. The company was formerly known as Globe Industrial Resources Limited and changed its name to Confidence Futuristic Energetech Limited in October 2017. Confidence Futuristic Energetech Limited was incorporated in 1985 and is based in Nagpur, India. The company operates as a subsidiary of Confidence Petroleum India Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 86.02,
-  "pe_ratio": 12.06,
+  "market_cap_cr": 86.07,
+  "pe_ratio": 12.07,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 67.47,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:26:16.824399",
+  "retrieval_time": "2026-11-06T20:46:37.516634",
   "provider_reported_pb_ratio": 0.51,
-  "statements_retrieved_at": "2026-11-05T21:26:16.824399",
+  "statements_retrieved_at": "2026-11-06T20:46:37.516634",
   "retained_fields": []
 }

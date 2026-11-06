@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Balaji Amines Limited engages in the manufacture and sale of methylamines, ethylamines, and derivatives of specialty chemicals and pharma excipients in India and internationally. The company operates in two segments, Chemicals and Hotel. It offers monomethylamine, dimethylamine, trimethylamine, monoethylamine, diethylamine, triethylamine, and dimethyl and diethyl amino ethanol; and specialty chemicals, including N-methyl pyrrolidone, morpholine, 2-pyrrolidone, N-ethyl-2-pyrrolidone, gamma-butyrolactone, dimethylformamide, acetonitrile, dimethylcarbonate, propylene glycol, and propylene carbonate. The company also provides derivatives comprising di-methyl acetamide, di-methyl amine hydrochloride, tri-methyl amine hydrochloride, di-ethyl amine hydrochloride, tri-ethyl amine hydrochloride, di-methyl urea, choline chloride, mono-ethyl amine hydrochloride, and benzyl tri ethyl ammonium chloride; and pharma excipients, such as poly vinyl pyrrolidone. It also provides hotels, restaurants, and hospitality services. The company also exports its products to Europe, the United States, and Japan. Balaji Amines Limited was incorporated in 1988 and is headquartered in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 5812.74,
-  "pe_ratio": 24.45,
+  "market_cap_cr": 5707.44,
+  "pe_ratio": 24.01,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 642.83,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:21:53.971949",
-  "provider_reported_pb_ratio": 2.79,
-  "statements_retrieved_at": "2026-11-05T21:21:53.971949",
+  "retrieval_time": "2026-11-06T20:42:29.149445",
+  "provider_reported_pb_ratio": 2.74,
+  "statements_retrieved_at": "2026-11-06T20:42:29.149445",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Lodging",
   "business_summary": "HLV Limited engages in owning, operating, and managing hotels, palaces, and resorts in India. It owns and operates The Leela Mumbai hotel. The company was formerly known as Hotel Leelaventure Limited and changed its name to HLV Limited in December 2019. HLV Limited was incorporated in 1981 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 377.1,
-  "pe_ratio": 81.71,
+  "market_cap_cr": 373.14,
+  "pe_ratio": 80.86,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 7.14,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:41:11.116486",
-  "provider_reported_pb_ratio": 0.8,
-  "statements_retrieved_at": "2026-11-05T21:41:11.116486",
+  "retrieval_time": "2026-11-06T21:00:54.538501",
+  "provider_reported_pb_ratio": 0.79,
+  "statements_retrieved_at": "2026-11-06T21:00:54.538501",
   "retained_fields": []
 }

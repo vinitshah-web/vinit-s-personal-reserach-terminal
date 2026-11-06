@@ -5,15 +5,15 @@
   "industry": "Metal Fabrication",
   "business_summary": "Happy Forgings Limited manufactures and sells forgings and machined components for the automotive and industrial sectors in India and internationally. The company offers crankshafts; differential cases; front axle beams and steering knuckles; railway parts, including camshafts, connecting rods, piston pins, spacers, and others; brake flanges and suspension brackets; and transmission parts, such as shafts and spindles, crown wheels and pinions, and rings. It also offers windmill application products, including planet carrier, pinion shaft, and housing; oil and gas components, such as valve body; and bicycle pedals. It serves the original equipment manufacturers, manufacturers of commercial and passenger vehicles, farm equipment, and off highway and industrial equipment, as well as machinery for oil and gas, aerospace, power generation, railways, and wind turbine industries. Happy Forgings Limited was incorporated in 1979 and is based in Ludhiana, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 17772.9,
-  "pe_ratio": 54.41,
+  "market_cap_cr": 15996.27,
+  "pe_ratio": 48.97,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
-  "book_value": 225.56,
+  "book_value": 242.1,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 9.4401,
   "fifty_two_week_high": 2470.0,
-  "fifty_two_week_low": 976.0,
+  "fifty_two_week_low": 980.1,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:39:13.194568",
-  "provider_reported_pb_ratio": 8.35,
-  "statements_retrieved_at": "2026-11-05T21:39:13.194568",
+  "retrieval_time": "2026-11-06T20:59:04.305019",
+  "provider_reported_pb_ratio": 7.0,
+  "statements_retrieved_at": "2026-11-06T20:59:04.305019",
   "retained_fields": []
 }

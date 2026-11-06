@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Hindcon Chemicals Limited manufactures and sells sodium silicates and construction chemicals in India and internationally. The company offers cement additive products, including waterproofing compounds, concrete and mortar admixtures, concreting aids, protective coatings and sheeting, grouts, epoxy grouts and mortars, flooring, shotcrete aids, sealants, tile adhesives, removers and cleaning compounds, foundry aids, excavation aids, expansion and contraction joint products, green products, grinding aids, and impregnating coating products; sodium silicate products, such as sodium silicate (neutral and alkaline), colloidal silica, and sodium metasilicate; and floor, tile, glass, tap, and shower cleaners, as well as rust removers under the Multi Safe brand. It also provides various services, such as waterproofing and repair, and retrofitting and restructuring services. In addition, the company trades in pulses. Hindcon Chemicals Limited was founded in 1947 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 128.08,
-  "pe_ratio": 29.79,
+  "market_cap_cr": 129.61,
+  "pe_ratio": 30.14,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 11.15,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:40:54.588687",
-  "provider_reported_pb_ratio": 2.24,
-  "statements_retrieved_at": "2026-11-05T21:40:54.588687",
+  "retrieval_time": "2026-11-06T21:00:38.392506",
+  "provider_reported_pb_ratio": 2.27,
+  "statements_retrieved_at": "2026-11-06T21:00:38.392506",
   "retained_fields": []
 }

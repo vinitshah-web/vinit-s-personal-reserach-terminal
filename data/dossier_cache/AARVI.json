@@ -5,8 +5,8 @@
   "industry": "Staffing & Employment Services",
   "business_summary": "Aarvi Encon Limited offers manpower supply and consultancy services in India and internationally. It provides procurement assistance and expediting; pre commissioning and commissioning services; manpower outsourcing, and deputation and technical staffing; operation and maintenance; project and engineering design; project management; CAD/drafting/3D modelling; shutdown; construction supervision; engineering services; and IT staffing and inspection services. The company serves cement, engineering, infrastructure, metro, petrochemical, railway, telecom, EPC, IT, mono rail, pipeline, refinery, CGD and CNG, fertilizer, metal and minerals, oil and gas, power, and renewable energy industries. Aarvi Encon Limited was incorporated in 1987 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 199.62,
-  "pe_ratio": 10.35,
+  "market_cap_cr": 203.17,
+  "pe_ratio": 10.54,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 95.92,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:14:36.022473",
-  "provider_reported_pb_ratio": 1.4,
-  "statements_retrieved_at": "2026-11-05T21:14:36.022473",
+  "retrieval_time": "2026-11-06T20:35:37.849924",
+  "provider_reported_pb_ratio": 1.43,
+  "statements_retrieved_at": "2026-11-06T20:35:37.849924",
   "retained_fields": []
 }

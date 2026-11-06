@@ -5,8 +5,8 @@
   "industry": "Building Products & Equipment",
   "business_summary": "Lexus Granito (India) Limited engages in the manufacturing, trading, and marketing of vitrified ceramic tiles and wall tiles in the domestic and international market in India and internationally. The company offers wall tiles, floor, and decorative elevation tiles. It serves homeowners and commercial facilities. The company also exports its products. Lexus Granito (India) Limited was founded in 2007 and is based in Rajkot, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 23.12,
-  "pe_ratio": 13.63,
+  "market_cap_cr": 23.1,
+  "pe_ratio": 13.62,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 8.92,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:49:41.943663",
+  "retrieval_time": "2026-11-06T21:09:13.625962",
   "provider_reported_pb_ratio": 1.28,
-  "statements_retrieved_at": "2026-11-05T21:49:41.943663",
+  "statements_retrieved_at": "2026-11-06T21:09:13.625962",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Chemicals",
   "business_summary": "Uniphos Enterprises Limited engages in trading of agro commodities, chemicals, and other products in India. It also invests in securities and mutual funds. The company was incorporated in 1969 and is based in Mumbai, India. Uniphos Enterprises Limited is a subsidiary of Nerka Chemicals Private Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 1307.74,
-  "pe_ratio": 32.31,
+  "market_cap_cr": 1309.27,
+  "pe_ratio": 32.35,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 351.82,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:20:55.916341",
+  "retrieval_time": "2026-11-06T21:38:04.866332",
   "provider_reported_pb_ratio": 0.27,
-  "statements_retrieved_at": "2026-11-05T22:20:55.916341",
+  "statements_retrieved_at": "2026-11-06T21:38:04.866332",
   "retained_fields": []
 }

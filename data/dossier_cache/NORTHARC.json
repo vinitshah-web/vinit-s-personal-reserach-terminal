@@ -5,8 +5,8 @@
   "industry": "Credit Services",
   "business_summary": "Northern Arc Capital Limited, a non-banking financial company, provides lending and allied services in India. It operates through Financing Activity, Investment Advisory Services, and Investment Management Services segments. The company offers rural financing services; loans for personal, microfinance, vehicle finance, as well as buy now pay later solutions; education loans; insurance premium financing; MSME financing, MFI, consumer and vehicle finance, and housing and agriculture finance; rural financing; mid-market corporate lending, loans against property, and supply chain finance; and fund management services, including alternative investment funds and portfolio management services. It also provides debt products, such as term and working capital loans, non-convertible debentures, principal protected market linked debentures, commercial papers, external commercial borrowings, and sub-debt products; and credit-enhanced debt products, including guarantee-backed lending, single issuer partial credit enhanced, and pooled loan and bond issuance program. In addition, the company offers portfolio financing products comprising rated securitization, multi-originator microfinance securitization, persistent securitizations, and direct assignments. Further, it provides Altifi, an alternative retail debt investment platform; Nimbus, a curated debt platform that enables end-to-end processing of debt transactions; nPOS, a co-lending and co-origination technology solution; and NuScore, a customized machine learning based analytical module designed to assist in the loan underwriting process. It serves rural and retail customers; micro, small, and medium enterprises; originator partners; emerging corporates; and institutional investors. The company was formerly known as IFMR Capital Finance Limited and changed its name to Northern Arc Capital Limited in February 2018. Northern Arc Capital Limited was incorporated in 1989 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4549.8,
-  "pe_ratio": 9.61,
+  "market_cap_cr": 4604.0,
+  "pe_ratio": 9.72,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 241.1,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:58:32.079558",
-  "provider_reported_pb_ratio": 1.17,
-  "statements_retrieved_at": "2026-11-05T21:58:32.079558",
+  "retrieval_time": "2026-11-06T21:17:44.558249",
+  "provider_reported_pb_ratio": 1.18,
+  "statements_retrieved_at": "2026-11-06T21:17:44.558249",
   "retained_fields": []
 }

@@ -5,7 +5,7 @@
   "industry": "Lodging",
   "business_summary": "Graviss Hospitality Limited, together with its subsidiaries, engages in the hospitality business in India. It owns and operates a hotel under the Inter-Continental name at Marine Drive, Mumbai; and The Mansion House at Alibaug. The company was formerly known as The GL Hotels Limited and changed its name to Graviss Hospitality Limited in July 2008. Graviss Hospitality Limited was incorporated in 1959 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 211.56,
+  "market_cap_cr": 221.71,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:37:38.775182",
-  "provider_reported_pb_ratio": 1.09,
-  "statements_retrieved_at": "2026-11-05T21:37:38.775182",
+  "retrieval_time": "2026-11-06T20:57:31.572594",
+  "provider_reported_pb_ratio": 1.15,
+  "statements_retrieved_at": "2026-11-06T20:57:31.572594",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Entertainment",
   "business_summary": "Saregama India Limited operates as an entertainment company in India and internationally. It operates in four segments: Music, Artist Management, Video, and Events. The Music segment engages in the manufacture and sale of music storage device through Carvaan, Music Card, Vinyl records, etc., as well as dealing with related music rights. Its Artist Management segment manages influencers and artiste on an exclusive or non-exclusive basis. The Video segment is involved in the production and sale/telecast/broadcast of long-form and video content, as well as dealing in related rights. Its Events segment organizes live musical events through ticket sales and sponsorships. The company was founded in 1902 and is headquartered in Mumbai, India. Saregama India Limited operates as a subsidiary of Composure Services Private Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 12132.8,
-  "pe_ratio": 50.24,
+  "market_cap_cr": 11894.77,
+  "pe_ratio": 49.26,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 94.98,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:09:03.678366",
-  "provider_reported_pb_ratio": 6.65,
-  "statements_retrieved_at": "2026-11-05T22:09:03.678366",
+  "retrieval_time": "2026-11-06T21:27:12.831514",
+  "provider_reported_pb_ratio": 6.52,
+  "statements_retrieved_at": "2026-11-06T21:27:12.831514",
   "retained_fields": []
 }

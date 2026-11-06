@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Donear Industries Limited manufactures and sells fabrics in India and internationally. The company offers fabrics in various finishes, including wrinkle and odor resistance, moisture absorbent, and 4-way stretch; shirts, t-shirts, trousers, denims, suits, traditional wear, sports and jackets, corduroy, workwear, and accessories; and suiting and shirting fabrics under the Donear Suitings, Mayur Suitings & Shirtings, Ferrino Mizzoni, Eurico, Vestito, D'Cot, and Donear NXG brands. It also provides dyed polyester and cotton yarns; and trades in garments. The company exports its products to approximately 20 countries. It serves automotive, aviation, industrial, defence, government bodies, and educational institutions. The company sells its products through wholesale, retail, franchisees, agents, and dealers. Donear Industries Limited was founded in 1979 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 418.81,
-  "pe_ratio": 9.12,
+  "market_cap_cr": 416.73,
+  "pe_ratio": 9.08,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 53.34,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:30:46.506923",
-  "provider_reported_pb_ratio": 1.51,
-  "statements_retrieved_at": "2026-11-05T21:30:46.506923",
+  "retrieval_time": "2026-11-06T20:50:57.885833",
+  "provider_reported_pb_ratio": 1.5,
+  "statements_retrieved_at": "2026-11-06T20:50:57.885833",
   "retained_fields": []
 }

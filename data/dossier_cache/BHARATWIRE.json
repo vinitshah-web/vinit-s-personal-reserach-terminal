@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "Bharat Wire Ropes Limited manufactures and sells steel wire ropes in India. It offers wire ropes; slings, including mechanically spliced slings, hand spliced slings, mechanically spliced, and socketed slings; galvanized steel wire strands, such as earth wires, stay wires, and structural strands; and galvanized and ungalvanized steel wires. The company's products are used in elevators, cranes, general purpose, structural, fishing, oil and gas, shipping, mining, and logging and forestry. The company was formerly known as Bharat Ropes Limited and changed its name to Bharat Wire Ropes Limited in July 1996. Bharat Wire Ropes Limited was incorporated in 1986 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1040.55,
-  "pe_ratio": 16.79,
+  "market_cap_cr": 1023.7,
+  "pe_ratio": 16.52,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 122.7,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:23:34.838821",
-  "provider_reported_pb_ratio": 1.23,
-  "statements_retrieved_at": "2026-11-05T21:23:34.838821",
+  "retrieval_time": "2026-11-06T20:44:01.367673",
+  "provider_reported_pb_ratio": 1.21,
+  "statements_retrieved_at": "2026-11-06T20:44:01.367673",
   "retained_fields": []
 }

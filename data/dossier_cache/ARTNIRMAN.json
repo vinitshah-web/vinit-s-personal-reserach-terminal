@@ -5,14 +5,14 @@
   "industry": "Real Estate - Development",
   "business_summary": "Art Nirman Limited engages in the real estate development and allied activities in India. The company is involved in the construction and development of residential, commercial, and plotting projects. It also engages in the construction and development of office spaces, showrooms, and shops. In addition, the company offers maintenance services. The company was formerly known as Vishnudhara Buildcon Private Limited and changed its name to Art Nirman Limited in October 2011. Art Nirman Limited was incorporated in 2011 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 93.16,
-  "pe_ratio": 73.2,
+  "market_cap_cr": 92.24,
+  "pe_ratio": 72.47,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 16.68,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 2.4956,
-  "fifty_two_week_high": 56.78,
+  "fifty_two_week_high": 56.1,
   "fifty_two_week_low": 29.39,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:19:33.423444",
-  "provider_reported_pb_ratio": 2.24,
-  "statements_retrieved_at": "2026-11-05T21:19:33.423444",
+  "retrieval_time": "2026-11-06T20:40:17.220125",
+  "provider_reported_pb_ratio": 2.22,
+  "statements_retrieved_at": "2026-11-06T20:40:17.220125",
   "retained_fields": []
 }

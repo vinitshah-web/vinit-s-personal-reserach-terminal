@@ -5,8 +5,8 @@
   "industry": "Conglomerates",
   "business_summary": "Evervie Health Limited provides healthcare services in India. The company operates a hospital-partnered dialysis network for renal care, including participation in government dialysis programs. It also operates radiation-led comprehensive cancer care centers that provide cancer treatment services in markets outside metropolitan areas. Additionally, the company operates a hub-and-spoke diagnostics platform that provides screening and early detection services for cancer, as well as disease monitoring for renal and chronic conditions, serving both its care centers and standalone community demand. Evervie Health Limited was formerly known as PVP Ventures Limited and changed its name to Evervie Health Limited in October 2026. Evervie Health Limited was founded in 1991 and is based in Hyderabad, India. Evervie Health Limited operates as a subsidiary of Platex Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 1172.34,
-  "pe_ratio": 225.1,
+  "market_cap_cr": 1148.38,
+  "pe_ratio": 220.5,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 8.38,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:04:01.099251",
-  "provider_reported_pb_ratio": 5.37,
-  "statements_retrieved_at": "2026-11-05T22:04:01.099251",
+  "retrieval_time": "2026-11-06T21:22:52.997547",
+  "provider_reported_pb_ratio": 5.26,
+  "statements_retrieved_at": "2026-11-06T21:22:52.997547",
   "retained_fields": []
 }

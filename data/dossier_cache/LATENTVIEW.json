@@ -5,8 +5,8 @@
   "industry": "Consulting Services",
   "business_summary": "Latent View Analytics Limited provides business analytics, consulting services, data engineering, generative AI, and digital solutions in India, the United States, the Netherlands, the United Kingdom, Singapore, Germany, the United Arab Emirates, Latam, Mexico, and internationally. It offers customer, HR, marketing, financial, supply chain, and risk and fraud analytics services, as well as revenue growth management services and solutions for consumer-packaged goods. The company also provides data engineering services, including data migration, data activation, data platform modernization, databricks and snowflake engineering, cloud data engineering, and AI and generative AI data engineering; data science services, such as descriptive, prescriptive, predictive, unstructured, and causal analytics; and data visualization services. It serves technology, industrials, consumer packaged goods, retail, and financial services sectors. The company was incorporated in 2006 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4185.98,
-  "pe_ratio": 20.97,
+  "market_cap_cr": 4243.96,
+  "pe_ratio": 21.26,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 90.06,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:49:24.465891",
-  "provider_reported_pb_ratio": 2.24,
-  "statements_retrieved_at": "2026-11-05T21:49:24.465891",
+  "retrieval_time": "2026-11-06T21:08:56.422803",
+  "provider_reported_pb_ratio": 2.28,
+  "statements_retrieved_at": "2026-11-06T21:08:56.422803",
   "retained_fields": []
 }

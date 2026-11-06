@@ -5,8 +5,8 @@
   "industry": "Real Estate - Development",
   "business_summary": "Arvind SmartSpaces Limited, together with its subsidiaries, engages in the development of real estate projects in India. The company develops residential, commercial, industrial projects, villa townships, apartments, plotted developments and villas, commercial spaces, and industrial parks. It serves individual retail clients and corporate entities. The company was formerly known as Arvind Infrastructure Limited and changed its name to Arvind SmartSpaces Limited in November 2016. Arvind SmartSpaces Limited was incorporated in 2008 and is headquartered in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2809.2,
-  "pe_ratio": 15.05,
+  "market_cap_cr": 2784.86,
+  "pe_ratio": 14.92,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 147.73,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:19:40.684944",
-  "provider_reported_pb_ratio": 4.14,
-  "statements_retrieved_at": "2026-11-05T21:19:40.684944",
+  "retrieval_time": "2026-11-06T20:40:24.790512",
+  "provider_reported_pb_ratio": 4.11,
+  "statements_retrieved_at": "2026-11-06T20:40:24.790512",
   "retained_fields": []
 }

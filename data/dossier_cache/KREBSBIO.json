@@ -5,7 +5,7 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Krebs Biochemicals & Industries Limited engages in the manufacture of active pharmaceutical ingredients in India. It offers androstenedione for steroid intermediate indications, as well as lovastatin and simvastatin for anti-cholesterol applications. The company also develops amlodipine and telmisartan for anti-hypertension; cetirizine for antihistamine; orlistat for anti-obesity; serratiopeptidase for anti-inflammatory; and phenylephrine for cold and cough. In addition, it provides contract manufacturing services for large pharmaceutical and multinational companies. The company was incorporated in 1991 and is based in Visakhapatnam, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 124.75,
+  "market_cap_cr": 123.97,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:48:29.347462",
+  "retrieval_time": "2026-11-06T21:08:03.719436",
   "provider_reported_pb_ratio": -0.73,
-  "statements_retrieved_at": "2026-11-05T21:48:29.347462",
+  "statements_retrieved_at": "2026-11-06T21:08:03.719436",
   "retained_fields": []
 }

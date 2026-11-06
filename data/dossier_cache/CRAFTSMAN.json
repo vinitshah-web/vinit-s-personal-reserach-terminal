@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Craftsman Automation Limited operates as an engineering company in India. It operates through Powertrain, Aluminium Products, and Industrial & Engineering segments. The Powertrain segment manufactures engine parts, including cylinder blocks and cylinder heads, camshafts, transmission parts, gear box housings, turbo charges, and bearing caps. The Aluminium Products segment offers crank case and cylinder blocks for two wheelers, and engine and structural parts for passenger vehicles; gear box housings for heavy commercial vehicle; and aluminium casting products for power transmission applications. The Industrial & Engineering segment provides stationary racking for warehouses, V-stores, roll form products, and automated storage and retrieval systems; and SPM and material handling products, gears and gear boxes, tool rooms, mould bases, and sheet metals. The company offers metal and metal products; electricals or electronic machinery, railway or tramway locomotives, rolling stock, railway or tramway fixtures and fittings, and mechanical appliances; machining services; trades in marine engines, and hoists and cranes; and cast-iron products for stationary engines. It serves commercial vehicles, special utility vehicles, tractors, off-highway vehicles, two-wheelers, passenger vehicles, power transmission and distribution, automotive, foundries, railways, textile and printing machines, industrial engineering, fast moving consumer goods, e-commerce, food and beverages, logistics, pharmaceuticals, and electronics sectors. The company also exports its products. Craftsman Automation Limited was incorporated in 1986 and is based in Coimbatore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 27977.4,
-  "pe_ratio": 49.9,
+  "market_cap_cr": 27370.61,
+  "pe_ratio": 48.82,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 2107.1,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:28:01.585188",
-  "provider_reported_pb_ratio": 5.08,
-  "statements_retrieved_at": "2026-11-05T21:28:01.585188",
+  "retrieval_time": "2026-11-06T20:48:17.780190",
+  "provider_reported_pb_ratio": 4.97,
+  "statements_retrieved_at": "2026-11-06T20:48:17.780190",
   "retained_fields": []
 }

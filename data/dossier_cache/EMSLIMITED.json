@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "EMS Limited constructs, designs, and installs water, wastewater, and domestic waste treatment facilities in India. It provides electrical transmission and distribution, road and allied works, operation and maintenance of water and wastewater treatment plants, and water supply scheme projects for government authorities. The company also offers turnkey services in water and wastewater collection, treatment, disposal, and manufactures own items which are used for construction purposes. EMS Limited was founded in 1998 and is based in Ghaziabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1689.52,
-  "pe_ratio": 24.8,
+  "market_cap_cr": 1683.69,
+  "pe_ratio": 24.71,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 190.06,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:32:38.897263",
+  "retrieval_time": "2026-11-06T20:52:43.834879",
   "provider_reported_pb_ratio": 1.6,
-  "statements_retrieved_at": "2026-11-05T21:32:38.897263",
+  "statements_retrieved_at": "2026-11-06T20:52:43.834879",
   "retained_fields": []
 }

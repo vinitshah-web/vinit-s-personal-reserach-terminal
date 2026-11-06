@@ -5,14 +5,14 @@
   "industry": "Agricultural Inputs",
   "business_summary": "National Fertilizers Limited engages in the production and marketing of neem coated urea, bio-fertilizers, and other allied Industrial products in India. It operates through Manufactured Fertilizers, Manufactured Chemicals, Traded Imported Fertilizers, and Others segments. The company offers urea; bentonite sulphur; and bio fertilizers, including rhizobium, azectobactor and PSB, and zinc solubilizing bacteria. It also provides industrial products comprising ammonia, nitric acid, ammonium nitrate, and sodium nitrite and nitrate under the KISAN brand name, as well as seeds under the Kisan Beej brand name. In addition, the company engages in the trading of fertilizers, compost, seeds, agro chemicals, and other agro products. National Fertilizers Limited was incorporated in 1974 and is based in Noida, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3044.53,
+  "market_cap_cr": 3042.08,
   "pe_ratio": 8.35,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 57.93,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 49.0578,
-  "fifty_two_week_high": 95.45,
+  "fifty_two_week_high": 94.2,
   "fifty_two_week_low": 56.01,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:57:30.786307",
+  "retrieval_time": "2026-11-06T21:16:46.111357",
   "provider_reported_pb_ratio": 1.07,
-  "statements_retrieved_at": "2026-11-05T21:57:30.786307",
+  "statements_retrieved_at": "2026-11-06T21:16:46.111357",
   "retained_fields": []
 }

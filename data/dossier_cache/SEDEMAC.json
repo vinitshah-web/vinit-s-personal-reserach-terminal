@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "SEDEMAC Mechatronics Limited provides electronic control units to original equipment manufacturers in the mobility and industrial markets in India, the United States, and Europe. It operates in two segments, Mobility and Industrial. The Mobility segment offers motor control technology and transmission controls, which consist of integrated starter generators, electronic fuel injections, automated manual transmissions, motor control units, and electrification control units used in various electric bicycles and vehicles. The Industrial segment provides small powertrain engine controls, which consist of genset control units, engine control units, electronics governors, control panels, and actuators. The company was incorporated in 2007 and is based in Pune, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 13475.0,
-  "pe_ratio": 112.25,
+  "market_cap_cr": 13370.21,
+  "pe_ratio": 111.42,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 101.72,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:10:08.546113",
-  "provider_reported_pb_ratio": 29.96,
-  "statements_retrieved_at": "2026-11-05T22:10:08.546113",
+  "retrieval_time": "2026-11-06T21:28:12.207397",
+  "provider_reported_pb_ratio": 29.73,
+  "statements_retrieved_at": "2026-11-06T21:28:12.207397",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Information Technology Services",
   "business_summary": "Tera Software Limited provides IT and integrated related products and services worldwide. It operates through Integrated Solutions, Technical Division, Projects Division, and Others segments. The company offers E-governance and development of enterprise information system for tax/GST, public distribution system, tax automation, registration of land record, road transport and vehicle registration authorities, total revenue management and spot billing system, fiber network infrastructure, modern record room preparation, AADHAR enrolment, creation of national population register, common service centres, and IT infrastructure, smart metering, and other services. It provides cutting-edge technologies, such as IoT and data analytics to smart cities solutions, which includes traffic, fleet, licensing plates, security, building control, water distribution, sanitation, transit, and street lightings. Tera Software Limited was incorporated in 1994 and is headquartered in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 309.54,
-  "pe_ratio": 12.48,
+  "market_cap_cr": 324.75,
+  "pe_ratio": 13.1,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 116.64,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:18:32.704177",
-  "provider_reported_pb_ratio": 2.12,
-  "statements_retrieved_at": "2026-11-05T22:18:32.704177",
+  "retrieval_time": "2026-11-06T21:35:48.202154",
+  "provider_reported_pb_ratio": 2.23,
+  "statements_retrieved_at": "2026-11-06T21:35:48.202154",
   "retained_fields": []
 }

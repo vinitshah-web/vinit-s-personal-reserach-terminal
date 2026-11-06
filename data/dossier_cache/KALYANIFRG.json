@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Kalyani Forge Limited, an engineering company, manufactures and sells forged, machined, and assembled products in India. The company offers engine components, including connecting rod, crank and cam shafts, retainer and cross head valves, injector clamp, rocker arm, balance weight, cam lobe, and others; driveline parts, such as tulips, inner and outer race, tripod, spider, yoke shaft, double yoke, and gear blanks; and axle products for chassis systems, including idler and control arms, FS arms, brackets, stub, steering knuckle, front and rear axle parts, wheel hub, and others. It also provides turbo charger parts; transmission components; and industrial cold and hot forged parts for use in power tools, conveyors, compressors, and others. In addition, the company offers hot, cold, and warm forging; precision machining and finishing; heat treatment; die manufacturing; testing and inspection; engineering; and logistic services. It serves various industries, such as automotive; construction, mining, and infrastructure; power generation; marine; railways; agricultural; general industrial goods; and electric mobility. The company also exports its products to Europe, Japan, and the United States. Kalyani Forge Limited was incorporated in 1979 and is based in Pune, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 335.73,
-  "pe_ratio": 27.09,
+  "market_cap_cr": 318.96,
+  "pe_ratio": 25.74,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 262.75,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:46:31.370503",
-  "provider_reported_pb_ratio": 3.51,
-  "statements_retrieved_at": "2026-11-05T21:46:31.370503",
+  "retrieval_time": "2026-11-06T21:06:11.535850",
+  "provider_reported_pb_ratio": 3.34,
+  "statements_retrieved_at": "2026-11-06T21:06:11.535850",
   "retained_fields": []
 }

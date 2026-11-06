@@ -5,8 +5,8 @@
   "industry": "Capital Markets",
   "business_summary": "Transcorp International Limited engages in the foreign exchange and remittance business in India. It provides foreign exchange services, such as buy and sell currency, foreign currency travel card, outward remittance, international money transfer for overseas education and family maintenance, and emigration; and domestic money transfer, mobile and DTH recharge, Aadhaar enabled payment system, bill payment, and Indo-Nepal money transfer services. The company also offers travel, motor, commercial vehicle, and health insurance; prepaid card and wallets; student loans; and ticketing, vehicle rentals, tours, and hotel services, as well as rents properties. In addition, it provides hotels, flights, cars, buses, trains, and international tour booking services. Transcorp International Limited was incorporated in 1994 and is headquartered in Jaipur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 77.15,
-  "pe_ratio": 8.11,
+  "market_cap_cr": 75.81,
+  "pe_ratio": 7.97,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 22.87,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:19:46.160920",
-  "provider_reported_pb_ratio": 1.05,
-  "statements_retrieved_at": "2026-11-05T22:19:46.160920",
+  "retrieval_time": "2026-11-06T21:36:58.602508",
+  "provider_reported_pb_ratio": 1.04,
+  "statements_retrieved_at": "2026-11-06T21:36:58.602508",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Restaurants",
   "business_summary": "Coffee Day Enterprises Limited, together with its subsidiaries, primarily operates Caf\u00e9 Coffee Day outlets in India, Europe, and internationally. It operates through Coffee and Related Business, and Hospitality services segments. The company operates Coffee Day Square, a premium cafe; and Coffee Day Xpress, an on-the-go food and beverage kiosk; as well as develops Sienna, a semi-automatic vending machine and Celesta, an automatic vending machine. It also retails coffee products; develops technology parks and special economic zones; owns and operates luxury resorts located in Chikmangalur, Bandipur, and Kabini, Karnataka under The Serai brand name; and provides facilities for information technology (IT)/IT-enabled services. In addition, the company offers investment services. Coffee Day Enterprises Limited was founded in 1993 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 639.67,
-  "pe_ratio": 3.64,
+  "market_cap_cr": 665.02,
+  "pe_ratio": 3.78,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 132.23,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:27:16.340887",
-  "provider_reported_pb_ratio": 0.23,
-  "statements_retrieved_at": "2026-11-05T21:27:16.340887",
+  "retrieval_time": "2026-11-06T20:47:35.499005",
+  "provider_reported_pb_ratio": 0.24,
+  "statements_retrieved_at": "2026-11-06T20:47:35.499005",
   "retained_fields": []
 }

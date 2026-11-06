@@ -5,8 +5,8 @@
   "industry": "Building Materials",
   "business_summary": "The Ramco Cements Limited, together with its subsidiaries, manufactures and sells cement and cement-related products in India and internationally. The company offers blended and ordinary Portland cement products; construction chemicals, including waterproofing, tiling and flooring, mortars and wall, and grouts and repair solutions under the Hard Worker brand; and ready-mix concrete. It also provides technical assistance and after-sales support to builders and customers. In addition, the company is involved in the generation of power from windmills; manpower supply; transportation of goods by road; and information technology services. The company's products are used in construction applications for housing projects, apartments and institutions, public infrastructure projects, and industrial projects. The company serves the commercial and private sectors. It sells its products to the Maldives and Myanmar through direct and merchant exports. The company was formerly known as Madras Cements Ltd. and changed its name to The Ramco Cements Limited in July 2013. The Ramco Cements Limited was incorporated in 1957 and is headquartered in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 19178.67,
-  "pe_ratio": 29.75,
+  "market_cap_cr": 19313.36,
+  "pe_ratio": 29.96,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 342.52,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:05:02.035902",
-  "provider_reported_pb_ratio": 2.37,
-  "statements_retrieved_at": "2026-11-05T22:05:02.035902",
+  "retrieval_time": "2026-11-06T21:23:51.056682",
+  "provider_reported_pb_ratio": 2.39,
+  "statements_retrieved_at": "2026-11-06T21:23:51.056682",
   "retained_fields": []
 }

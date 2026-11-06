@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "Univastu India Limited provides works contract services in India. It offers integrated engineering, procurement, and construction services for civil, structural, and infrastructure projects. The company handles various projects for metro stations, hospitals, sports complexes, commercial buildings, mass housing, water supply, drainage systems, cold storage, educational institutions, bridges, and roads. It also trades in construction materials, including steel, cement, and electrical products. The company serves governmental and private sectors. The company was incorporated in 2009 and is headquartered in Pune, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 493.2,
-  "pe_ratio": 34.87,
+  "market_cap_cr": 517.85,
+  "pe_ratio": 36.62,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 28.73,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T22:21:10.669569",
-  "provider_reported_pb_ratio": 4.77,
-  "statements_retrieved_at": "2026-11-05T22:21:10.669569",
+  "retrieval_time": "2026-11-06T21:38:18.838048",
+  "provider_reported_pb_ratio": 5.01,
+  "statements_retrieved_at": "2026-11-06T21:38:18.838048",
   "retained_fields": []
 }

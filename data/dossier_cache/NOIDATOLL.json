@@ -5,8 +5,8 @@
   "industry": "Infrastructure Operations",
   "business_summary": "Noida Toll Bridge Company Limited engages in the development, establishment, construction, operation, and maintenance of Delhi Noida toll bridge on a build-own-operate-transfer basis in India. It also provides space rentals for advertisements and offices. Noida Toll Bridge Company Limited was founded in 1976 and is based in Noida, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 71.69,
-  "pe_ratio": 2.52,
+  "market_cap_cr": 69.64,
+  "pe_ratio": 2.44,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": -0.68,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-05T21:58:29.522512",
-  "provider_reported_pb_ratio": -5.64,
-  "statements_retrieved_at": "2026-11-05T21:58:29.522512",
+  "retrieval_time": "2026-11-06T21:17:42.354708",
+  "provider_reported_pb_ratio": -5.48,
+  "statements_retrieved_at": "2026-11-06T21:17:42.354708",
   "retained_fields": []
 }
