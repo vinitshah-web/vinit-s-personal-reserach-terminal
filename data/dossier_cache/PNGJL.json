@@ -5,13 +5,13 @@
   "industry": "Luxury Goods",
   "business_summary": "P N Gadgil Jewellers Limited, together with its subsidiaries, engages in the retail sale of gems, diamonds, semi-precious stones, and jewellery products in India and the United States. It sells gold, silver, platinum, and diamond jewellery, including earrings, rings, necklaces, pendants, mangalsutras, bracelets and bangles, and nosepins, as well as naths, chains, and bullions. The company sells its products through retail stores and various online marketplaces, as well as through its e-commerce website. P N Gadgil Jewellers Limited was founded in 1832 and is headquartered in Pune, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 8679.06,
-  "pe_ratio": 16.61,
+  "market_cap_cr": 9008.8,
+  "pe_ratio": 17.24,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 205.56,
   "dividend_yield_pct": 0.0,
-  "shares_outstanding_cr": 13.5708,
+  "shares_outstanding_cr": 14.7203,
   "fifty_two_week_high": 736.4,
   "fifty_two_week_low": 503.0,
   "financial_statements": [
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:36:40.570627",
-  "provider_reported_pb_ratio": 2.87,
-  "statements_retrieved_at": "2026-11-06T22:36:40.570627",
+  "retrieval_time": "2026-11-10T00:25:16.392918",
+  "provider_reported_pb_ratio": 2.98,
+  "statements_retrieved_at": "2026-11-10T00:25:16.392918",
   "retained_fields": []
 }

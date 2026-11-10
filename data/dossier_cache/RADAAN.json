@@ -5,7 +5,7 @@
   "industry": "Entertainment",
   "business_summary": "Radaan Mediaworks India Limited operates in the media and entertainment industry in India. It engages in the production of content for tele-serials/films, OTT platforms, digital content, web series, events, game shows, feature films, and others; distribution activities; theatrical plays; and setting up of training course, including acting, dance, martial arts, yoga, and others. The company also produces serials in Tamil, Telugu, Malayalam, Hindi, Kannada, and Gujarati languages. It offers its services and conducts events in Sri Lanka, Malaysia, Singapore, and the United Kingdom. Radaan Mediaworks India Limited was founded in 1994 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 13.81,
+  "market_cap_cr": 14.89,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:39:00.109638",
-  "provider_reported_pb_ratio": -0.88,
-  "statements_retrieved_at": "2026-11-06T22:39:00.109638",
+  "retrieval_time": "2026-11-10T00:27:42.144714",
+  "provider_reported_pb_ratio": -0.95,
+  "statements_retrieved_at": "2026-11-10T00:27:42.144714",
   "retained_fields": []
 }

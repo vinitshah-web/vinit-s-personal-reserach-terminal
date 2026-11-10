@@ -5,8 +5,8 @@
   "industry": "Asset Management",
   "business_summary": "Nalwa Sons Investments Limited, a non-banking financial company, engages in the investment and financing business in India. The company operates through the Investment & Finance; and Trading of Goods segments. The company holds investments in equity shares of steel manufacturing companies of O.P. Jindal Group. The company was formerly known as Jindal Strips Limited and changed its name to Nalwa Sons Investments Limited. The company was incorporated in 1970 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2507.73,
-  "pe_ratio": 43.82,
+  "market_cap_cr": 2515.74,
+  "pe_ratio": 43.96,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 29563.97,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:33:09.801035",
+  "retrieval_time": "2026-11-10T00:21:41.910261",
   "provider_reported_pb_ratio": 0.17,
-  "statements_retrieved_at": "2026-11-06T22:33:09.801035",
+  "statements_retrieved_at": "2026-11-10T00:21:41.910261",
   "retained_fields": []
 }

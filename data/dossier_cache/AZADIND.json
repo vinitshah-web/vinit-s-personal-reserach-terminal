@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "Azad India Mobility Limited, together with its subsidiary, NAE Mobility Private Limited, manufactures, assembles, and trades in electric buses and coaches in India. It offers luxury, airport tarmac, special purpose, OEM, school, and STU buses, as well as city e-buses. The company was formerly known as Indian Bright Steel Company Limited and changed its name to Azad India Mobility Limited in May 2024. Azad India Mobility Limited was incorporated in 1960 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 389.27,
-  "pe_ratio": 130.0,
+  "market_cap_cr": 399.61,
+  "pe_ratio": 133.45,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 4.79,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T21:53:57.571042",
-  "provider_reported_pb_ratio": 2.99,
-  "statements_retrieved_at": "2026-11-06T21:53:57.571042",
+  "retrieval_time": "2026-11-09T23:42:58.548578",
+  "provider_reported_pb_ratio": 3.07,
+  "statements_retrieved_at": "2026-11-09T23:42:58.548578",
   "retained_fields": []
 }

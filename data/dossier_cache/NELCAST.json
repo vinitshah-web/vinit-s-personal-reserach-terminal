@@ -5,8 +5,8 @@
   "industry": "Metal Fabrication",
   "business_summary": "Nelcast Limited manufactures and sells ductile and grey iron castings in India and internationally. The company offers commercial components, such as bearing cap, rear differential carrier, differential case in plain and flanged, forward differential carrier, wheel hub, brake disc rotor, cast axle housing, suspension arm, bogie suspension bracket, central and outer housings for v-rod suspensions, front node bracket, independent front suspension/air buffer mount, cast axle housing, and engine/steering/cab/suspension bracket; and front engine support, mounting frames, hydraulic lift cover, centre/differential housing, axle housing, four-wheel drive front axle housing, transmission/clutch housing, and quick hitch coupling. It also provides transmission case, converter housing, planetary carrier, steering knuckle, axle housing, central and lateral housing undercarriage beam, and monolithic axle housing; base plates for ballastless track systems and brake discs; differential carrier, differential case, differential cap, case body and cap, and drive head; and exhaust manifold, flywheel housing, gearbox housing, and transmission housing. The company serves original equipment manufacturers and tier-1 customers in commercial vehicle, tractor, off-highway equipment, and railways and passenger vehicle sectors. It also exports its products in North America, Europe and Southeast Asia. Nelcast Limited was incorporated in 1982 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1372.52,
-  "pe_ratio": 33.26,
+  "market_cap_cr": 1364.05,
+  "pe_ratio": 25.89,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 68.58,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:31:26.428217",
-  "provider_reported_pb_ratio": 2.29,
-  "statements_retrieved_at": "2026-11-06T22:31:26.428217",
+  "retrieval_time": "2026-11-10T00:19:57.276430",
+  "provider_reported_pb_ratio": 2.28,
+  "statements_retrieved_at": "2026-11-10T00:19:57.276430",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Tolins Tyres Limited manufactures and sells tyres and tread rubber in India. It offers two-three-wheeler, light commercial vehicle, and agricultural tyres; precured tread rubber; and retreading products, including bonding gums, curing bag, camel back - conventional rubber, vulcanizing solutions, cushion gum, repair materials, and others. The company also exports its products in Middle East, East Africa, Jordan, Kenya, and Egypt. Tolins Tyres Limited was founded in 1982 and is based in Aluva, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 330.33,
-  "pe_ratio": 10.18,
+  "market_cap_cr": 335.35,
+  "pe_ratio": 10.56,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 91.34,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:53:20.984614",
-  "provider_reported_pb_ratio": 0.92,
-  "statements_retrieved_at": "2026-11-06T22:53:20.984614",
+  "retrieval_time": "2026-11-10T00:42:15.080460",
+  "provider_reported_pb_ratio": 0.93,
+  "statements_retrieved_at": "2026-11-10T00:42:15.080460",
   "retained_fields": []
 }

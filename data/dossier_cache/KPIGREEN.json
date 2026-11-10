@@ -5,14 +5,14 @@
   "industry": "Utilities - Renewable",
   "business_summary": "KPI Green Energy Limited operates as an independent power producer that focuses on the development, construction, ownership, operation, and maintenance of renewable energy projects under the Solarism brand name in India. The company operates through the Sale of Power & Plant and Sale of Plots segments. It also operates as a captive power producer that offers customized renewable energy solutions. In addition, the company offers solar, wind, and hybrid energy solutions, as well as battery energy storage systems. Further, it provides an independent power producer (IPP) and delivers turnkey renewable energy projects as a captive power producer (CPP) for commercial, industrial, and public-sector; and land tracts to third parties. The company was formerly known as K.P.I. Global Infrastructure Limited and changed its name to KPI Green Energy Limited in April 2022. KPI Green Energy Limited was incorporated in 2008 and is based in Surat, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 5819.46,
-  "pe_ratio": 12.74,
+  "market_cap_cr": 6550.85,
+  "pe_ratio": 14.35,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 153.7,
-  "dividend_yield_pct": 0.2387,
+  "dividend_yield_pct": 0.2294,
   "shares_outstanding_cr": 19.7672,
-  "fifty_two_week_high": 527.0,
+  "fifty_two_week_high": 515.65,
   "fifty_two_week_low": 271.9,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:22:25.037901",
-  "provider_reported_pb_ratio": 1.92,
-  "statements_retrieved_at": "2026-11-06T22:22:25.037901",
+  "retrieval_time": "2026-11-10T00:10:50.932927",
+  "provider_reported_pb_ratio": 2.16,
+  "statements_retrieved_at": "2026-11-10T00:10:50.932927",
   "retained_fields": []
 }

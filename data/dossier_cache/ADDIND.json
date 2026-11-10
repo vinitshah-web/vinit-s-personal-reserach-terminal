@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Addi Industries Limited, together with its subsidiary, Aum Texfab Private Limited, manufactures, markets, sells, and exports knitwear fabrics and readymade garments in India. The company was incorporated in 1980 and is headquartered in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 77.98,
-  "pe_ratio": 32.1,
+  "market_cap_cr": 80.77,
+  "pe_ratio": 33.25,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 76.72,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T21:48:10.476248",
-  "provider_reported_pb_ratio": 0.94,
-  "statements_retrieved_at": "2026-11-06T21:48:10.476248",
+  "retrieval_time": "2026-11-09T23:37:08.150540",
+  "provider_reported_pb_ratio": 0.98,
+  "statements_retrieved_at": "2026-11-09T23:37:08.150540",
   "retained_fields": []
 }

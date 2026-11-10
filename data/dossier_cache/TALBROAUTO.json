@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Talbros Automotive Components Limited engages in the manufacturing and sells automotive and industrial components in India. The company offers gaskets with electrical control, multi-layer steel, post coated/selective area coated, exhaust and hot, rubber and edge molded, fiber, heat shield gaskets, and plastic moulded components. It also offers forging products, such as companion flanges, hydraulic end caps and rod eyes, tube and flange yokes, intermediate shaft and differential housing, blank ring gears, king pins and linear cylinders, and towing solutions. In addition, the company provides chassis components, including control arm, suspension links, front cross member, rear twist-beam axle, cradle, wheel group, body-in-white components, rubber hoses and anti-vibration components, and semi-corner module assemblies. Further, it offers mounting muffler hangers, suspension bushings, body and cab mounts, leading and trailing arm bushes, molded hoses for air cleaners, as well as extrusion hoses for air, fuel, and water. The company's products are used in passenger and commercial vehicles, two-wheelers, three-wheelers, agricultural machinery, off-loaders, and industrial vehicles. It exports its products. The company was incorporated in 1956 and is based in Faridabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2335.48,
-  "pe_ratio": 20.87,
+  "market_cap_cr": 2402.77,
+  "pe_ratio": 21.47,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 120.31,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:51:13.967991",
-  "provider_reported_pb_ratio": 3.14,
-  "statements_retrieved_at": "2026-11-06T22:51:13.967991",
+  "retrieval_time": "2026-11-10T00:40:03.981134",
+  "provider_reported_pb_ratio": 3.24,
+  "statements_retrieved_at": "2026-11-10T00:40:03.981134",
   "retained_fields": []
 }

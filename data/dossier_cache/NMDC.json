@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "NMDC Limited, together with its subsidiaries, explores for and produces iron ore in India and internationally. It operates through Iron Ore, Trading of HR Coil, and All Other Segments (Pellets, Other Mineral, Products, Services & Others). The company also explores for lithium, copper, rock phosphate, limestone, beach sand, coking and non-coking coal, magnesite, diamond, tungsten, nickel, gold, base metals, and rare earth metals. In addition, it produces and sells hot rolled coil and pellets; and generates and distributes solar and wind power. The company exports its products. NMDC Limited was incorporated in 1958 and is headquartered in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 61894.39,
-  "pe_ratio": 8.29,
+  "market_cap_cr": 62861.5,
+  "pe_ratio": 8.42,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 38.81,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:32:52.943095",
-  "provider_reported_pb_ratio": 1.81,
-  "statements_retrieved_at": "2026-11-06T22:32:52.943095",
+  "retrieval_time": "2026-11-10T00:21:25.343993",
+  "provider_reported_pb_ratio": 1.84,
+  "statements_retrieved_at": "2026-11-10T00:21:25.343993",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "HEC Infra Projects Limited provides engineering, procurement, and construction for electro-mechanical projects in India. The company offers end-to-end services, such as design, supply, installation, and commissioning of overhead transmission lines, substations, underground cable lying, switchyard, water pumping stations, lighting systems, industrial and commercial electrification, solar PV plants, battery energy storage system, and mini/micro grid solar projects. It serves steel, chemical, cement, refineries, petrochemicals, gas and oil sector, textile, pharmaceuticals, power-generation plants, ports, commercial centers, banks, malls, multiplexes, call centers, software park, and SEZ industries. HEC Infra Projects Limited was founded in 1986 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 109.13,
-  "pe_ratio": 8.65,
+  "market_cap_cr": 113.35,
+  "pe_ratio": 8.98,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 60.65,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:14:05.150746",
-  "provider_reported_pb_ratio": 1.66,
-  "statements_retrieved_at": "2026-11-06T22:14:05.150746",
+  "retrieval_time": "2026-11-10T00:02:31.305479",
+  "provider_reported_pb_ratio": 1.72,
+  "statements_retrieved_at": "2026-11-10T00:02:31.305479",
   "retained_fields": []
 }

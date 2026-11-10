@@ -5,14 +5,14 @@
   "industry": "Packaged Foods",
   "business_summary": "Milkfood Limited manufactures and sells dairy products in India. The company offers pure ghee, skimmed and whole milk powder, and dairy whitener products. It also provides casein and demineralized whey powder used in the production of chocolates, ice cream, coffee whiteners, health supplements, infant food, nutritional beverages, and cheese, as well as for knitting needles, cosmetics, pharmaceuticals, and automobile paint applications. Milkfood Limited was incorporated in 1973 and is headquartered in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 272.79,
-  "pe_ratio": 4.62,
+  "market_cap_cr": 269.76,
+  "pe_ratio": 4.57,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 90.42,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 2.7796,
-  "fifty_two_week_high": 99.5,
+  "fifty_two_week_high": 101.0,
   "fifty_two_week_low": 71.02,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:28:23.562810",
-  "provider_reported_pb_ratio": 1.09,
-  "statements_retrieved_at": "2026-11-06T22:28:23.562810",
+  "retrieval_time": "2026-11-10T00:16:52.318019",
+  "provider_reported_pb_ratio": 1.07,
+  "statements_retrieved_at": "2026-11-10T00:16:52.318019",
   "retained_fields": []
 }

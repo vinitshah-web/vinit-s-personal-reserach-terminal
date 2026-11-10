@@ -5,15 +5,15 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Glenmark Pharmaceuticals Limited, together with its subsidiaries, research, develops, manufactures, and sells generics, specialty medicines, and over the counter (OTC) pharmaceutical products in India, North America, Europe, and internationally. The company provides various products in the therapeutic areas of dermatology, respiratory, oncology, cardiology, diabetes, gynecology, gastroenterology, and anti-infective in the dosage forms of complex injectables and biologics, oral solids, liquids, topical products, and respiratory-metered dose inhaler, dry powder inhaler, and nasal sprays. Its product pipeline includes ISB 2001, a CD38 x BCMA x CD3 trispecific T cell engager, which is in Phase 1 clinical trial for indication of multiple myeloma; ISB 2301, a Multispecific Immune Cell Activator that is in preclinical trial for solid tumors; ISB 2302, a bispecific immune modulator with an indication for hematologic and solid tumors; and ISB 2501, a trispecific T-cell engager indicated for solid tumors. The company's pipeline also comprises ISB 880, an IL-1RAP antagonist monoclonal antibody, which is in Phase 2 clinical trial for the treatment of hidradenitis suppurativa; and telazorlimab and ISB 830-X8, a OX40 antagonist mAb for the treatment of atopic dermatitis. In addition, the company offers Ryaltris, fixed-dose nasal spray for the treatment of allergic rhinitis. The company was incorporated in 1977 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 73096.19,
-  "pe_ratio": 50.38,
+  "market_cap_cr": 75385.03,
+  "pe_ratio": 51.96,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 397.43,
-  "dividend_yield_pct": 0.1007,
+  "dividend_yield_pct": 0.0963,
   "shares_outstanding_cr": 28.2225,
-  "fifty_two_week_high": 2682.5,
-  "fifty_two_week_low": 1801.4,
+  "fifty_two_week_high": 2714.0,
+  "fifty_two_week_low": 1807.0,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:09:45.937349",
-  "provider_reported_pb_ratio": 6.52,
-  "statements_retrieved_at": "2026-11-06T22:09:45.937349",
+  "retrieval_time": "2026-11-09T23:58:26.352588",
+  "provider_reported_pb_ratio": 6.72,
+  "statements_retrieved_at": "2026-11-09T23:58:26.352588",
   "retained_fields": []
 }

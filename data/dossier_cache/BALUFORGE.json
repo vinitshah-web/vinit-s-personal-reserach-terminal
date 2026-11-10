@@ -5,8 +5,8 @@
   "industry": "Metal Fabrication",
   "business_summary": "Balu Forge Industries Limited manufactures and sells crankshafts in India and internationally. It offers bombshell, stainless steel flanges, valve components, stub ends, forged hydraulic fittings, railway wheels, axles, wheel sets, swan necks, flange balls, tow bar, sorting, snap, shank, ramshorn lifting hooks, hub, brake flange, disc, caliper, rotor, track, body and piston brakes, front axle beams, steering knuckles, control arm, fork, steering, drive shafts, input and output shafts, main shafts, yokes, track shoe, track link, track roller, carries roller, sprocket, track chain, idler, turbine blade, and empty shells. The company serves the agriculture tractor and harvester; defense; oil and gas pump and compressor; heavy duty truck, bus, and trailer automotive; generator industrial, standby home backup, and portable; refrigeration compressor industrial; railway; aerospace; marine; locomotive; off road and on road motorcycle, cart, and jet ski; racing; earth-moving equipment; gensets; wind energy; and e-mobility industries. Balu Forge Industries Limited is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 6090.23,
-  "pe_ratio": 20.9,
+  "market_cap_cr": 6428.91,
+  "pe_ratio": 22.06,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 154.03,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T21:54:35.673422",
-  "provider_reported_pb_ratio": 3.26,
-  "statements_retrieved_at": "2026-11-06T21:54:35.673422",
+  "retrieval_time": "2026-11-09T23:43:36.078217",
+  "provider_reported_pb_ratio": 3.44,
+  "statements_retrieved_at": "2026-11-09T23:43:36.078217",
   "retained_fields": []
 }

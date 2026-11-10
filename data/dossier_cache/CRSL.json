@@ -5,7 +5,7 @@
   "industry": "Information Technology Services",
   "business_summary": "Cressanda Railway Solutions Limited, together with its subsidiaries, provides railway auxiliary services in India. It offers transit display advertising, railway concierge services, personalized support, onboard Wi-Fi, entertainment, and digital media solutions. The company also develops a rail-way focused app that provides integrated passenger services. It serves railways, wholesalers, distributors, government institutions, consumers, and other allied companies. The company was formerly known as Cressanda Solutions Limited and changed its name to Cressanda Railway Solutions Limited in December 2023. Cressanda Railway Solutions Limited was founded in 1983 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 82.94,
+  "market_cap_cr": 85.48,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:01:01.190590",
-  "provider_reported_pb_ratio": 0.57,
-  "statements_retrieved_at": "2026-11-06T22:01:01.190590",
+  "retrieval_time": "2026-11-09T23:50:02.968821",
+  "provider_reported_pb_ratio": 0.59,
+  "statements_retrieved_at": "2026-11-09T23:50:02.968821",
   "retained_fields": []
 }

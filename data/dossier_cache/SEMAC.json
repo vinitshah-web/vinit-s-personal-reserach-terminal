@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "Semac Construction Limited provides integrated design, engineering, procurement, construction, and consultancy services for commercial and industrial projects in India. It offers architectural, engineering, and construction management services. It also engages in the construction, building, development, maintenance, operation, ownership, and transfer of infrastructure facilities including housing, roads, highways, bridges, airports, ports, rail systems, water supply projects, irrigation projects, inland water ways and inland ports, water treatment systems, solid waste management systems, and allied activities. The company was formerly known as Semac Consultants Limited and changed its name to Semac Construction Limited in May 2025. Semac Construction Limited was incorporated in 1962 and is headquartered in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 71.46,
-  "pe_ratio": 10.65,
+  "market_cap_cr": 73.07,
+  "pe_ratio": 10.89,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 251.14,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:44:18.183784",
-  "provider_reported_pb_ratio": 0.91,
-  "statements_retrieved_at": "2026-11-06T22:44:18.183784",
+  "retrieval_time": "2026-11-10T00:33:03.973098",
+  "provider_reported_pb_ratio": 0.93,
+  "statements_retrieved_at": "2026-11-10T00:33:03.973098",
   "retained_fields": []
 }

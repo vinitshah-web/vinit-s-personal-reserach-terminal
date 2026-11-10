@@ -5,8 +5,8 @@
   "industry": "Communication Equipment",
   "business_summary": "Astra Microwave Products Limited designs, develops, manufactures, and sells sub-systems for radio frequency and microwave systems used in defense, space, meteorology, civil, and telecommunication applications in India. It offers radar electronics, including active antenna array units, transmit receive (T/R) modules, wideband T/R modules, solid state power amplifiers, receivers, exciters, central units, antenna and electronic beam forming units, digital receivers, array group and monopulse receivers, waveform generators, and MMIC; and electronic warfare products comprising wideband and ultra-wideband subsystems, antennas, EDLVA and BLI super components, EW simulators, DIFM receivers, front end receivers, up and down convertors, and homodyne receivers. The company also provides strategic electronics and telemetry, such as command guidance units, radio proximity fuse, transponder, phased array-based telemetry tracking system, sub-systems for gimbal based and AESA seeker, and ground and air-borne data link systems; and data and video telemetry transmitters, and decoders, as well as PCM encoders, integrated telemetry transponders, auto-track antenna systems, and high-altitude proximity sensors. In addition, it offers ground-based systems consist of sub-systems for multi-object tracking radar, coherent frequency generators, modulators, switchable routers, V/UHF T/R modules, and Ka-band indoor/outdoor units; sub-systems for SAR payloads, geostationary satellites, and remote sensing satellites, as well as fabrication of flight sub-systems and screening; automatic weather stations, agromet meteorological stations, water level measurement, and automatic rain gauge, as well as avalanche, wind profile, and weather radars; global navigation satellite systems; unmanned ground vehicles; and homeland security products. The company also exports its products. Astra Microwave Products Limited was incorporated in 1991 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 14790.53,
-  "pe_ratio": 78.44,
+  "market_cap_cr": 15758.02,
+  "pe_ratio": 83.57,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 138.43,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T21:52:50.386630",
-  "provider_reported_pb_ratio": 11.25,
-  "statements_retrieved_at": "2026-11-06T21:52:50.386630",
+  "retrieval_time": "2026-11-09T23:41:49.571583",
+  "provider_reported_pb_ratio": 11.99,
+  "statements_retrieved_at": "2026-11-09T23:41:49.571583",
   "retained_fields": []
 }

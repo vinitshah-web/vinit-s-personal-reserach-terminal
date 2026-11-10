@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Tatva Chintan Pharma Chem Limited engages in the manufacture and sale of specialty chemicals in India, Germany, the United States of America, China, Singapore, and internationally. It offers structure directing agents (SDAs); phase transfer catalysts (PTCs); electrolyte salts for super capacitor batteries; pharmaceutical and agrochemical intermediates, and other specialty chemicals (PASC); and brominated flame retardants. The company serves automotive, consumer electronics, pharmaceutical, agrochemicals, paints and coatings, dyes, and personal care sectors. Tatva Chintan Pharma Chem Limited was incorporated in 1996 and is headquartered in Vadodara, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3756.3,
-  "pe_ratio": 59.7,
+  "market_cap_cr": 3902.5,
+  "pe_ratio": 62.74,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 348.25,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:51:42.647348",
-  "provider_reported_pb_ratio": 4.61,
-  "statements_retrieved_at": "2026-11-06T22:51:42.647348",
+  "retrieval_time": "2026-11-10T00:40:34.249979",
+  "provider_reported_pb_ratio": 4.79,
+  "statements_retrieved_at": "2026-11-10T00:40:34.249979",
   "retained_fields": []
 }

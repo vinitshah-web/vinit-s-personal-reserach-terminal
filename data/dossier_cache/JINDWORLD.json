@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Jindal Worldwide Limited, together with its subsidiaries, manufactures and sells textile products in India and internationally. It operates through Textiles and Electric Vehicles segments. The company offers denim products, bottom weight fabrics, shirting fabrics, yarn dyed fabrics, and bed sheets, as well as home textile products. It also engages in the production of electric two-wheelers; provision of batteries for electric vehicles; and maintenance and sale of software products. The company serves business organizations, including wholesalers, brands, and retailers. It exports its products to approximately 20 countries. Jindal Worldwide Limited was incorporated in 1986 and is headquartered in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3765.77,
-  "pe_ratio": 44.71,
+  "market_cap_cr": 3767.78,
+  "pe_ratio": 44.74,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 9.32,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:19:28.961518",
+  "retrieval_time": "2026-11-10T00:07:51.142401",
   "provider_reported_pb_ratio": 4.03,
-  "statements_retrieved_at": "2026-11-06T22:19:28.961518",
+  "statements_retrieved_at": "2026-11-10T00:07:51.142401",
   "retained_fields": []
 }

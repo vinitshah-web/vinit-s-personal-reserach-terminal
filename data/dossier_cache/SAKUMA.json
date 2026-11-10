@@ -5,14 +5,14 @@
   "industry": "Farm Products",
   "business_summary": "Sakuma Exports Limited engages in the trading of agro commodities in India and internationally. It buys, processes, markets, and imports bulk agricultural commodities, including sugar, pulses, cotton, and various specialty crops; grains, such as rice, wheat, corn, barley, millet, and sorghum; and spices comprising coriander and cumin seeds, turmeric, kalonji, fenugreek seed, fennel, ajwain, nutmeg, cardamom, black pepper, dill seed, ginger, and various grounded spices and curry powder. The company also offers de-oiled cakes consisting of soya bean, rapeseed, ground nut, and castor meals; and oil and oil seeds, which include sesame seeds, groundnut kernels, and sunflower and safflower seeds. In addition, it generates renewable energy, as well as offers petrochemicals, petroleum, and minerals products. The company exports its products to the Middle East, South and Southeast Asia, the Far East, Australia, Europe, and Africa. Sakuma Exports Limited was founded in 1998 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 293.16,
-  "pe_ratio": 26.71,
+  "market_cap_cr": 285.32,
+  "pe_ratio": 26.0,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 4.78,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 156.7719,
-  "fifty_two_week_high": 2.69,
+  "fifty_two_week_high": 2.66,
   "fifty_two_week_low": 1.1,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:42:34.411304",
-  "provider_reported_pb_ratio": 0.39,
-  "statements_retrieved_at": "2026-11-06T22:42:34.411304",
+  "retrieval_time": "2026-11-10T00:31:18.562302",
+  "provider_reported_pb_ratio": 0.38,
+  "statements_retrieved_at": "2026-11-10T00:31:18.562302",
   "retained_fields": []
 }

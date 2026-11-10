@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "A B Infrabuild Limited engages in the civil construction business in India. The company is involved in the construction, alter, enhance, maintain, enlarge, pull down, remove, replace and develop, work, and manage of roads, railways, branches and sidings, and bridges. It also undertakes repair and petty road works and renovation and reconstruction work of slum areas. The company was founded in 1999 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 764.63,
-  "pe_ratio": 39.9,
+  "market_cap_cr": 781.24,
+  "pe_ratio": 40.77,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 2.65,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T21:47:27.821036",
-  "provider_reported_pb_ratio": 4.52,
-  "statements_retrieved_at": "2026-11-06T21:47:27.821036",
+  "retrieval_time": "2026-11-09T23:36:25.374531",
+  "provider_reported_pb_ratio": 4.62,
+  "statements_retrieved_at": "2026-11-09T23:36:25.374531",
   "retained_fields": []
 }

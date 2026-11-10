@@ -1,11 +1,11 @@
 {
   "symbol": "OILCOUNTUB",
-  "company_name": "OIL COUNTRY TUBULAR LTD.",
+  "company_name": "OIL COUNTRY TUBULAR LTD",
   "sector": "Energy",
   "industry": "Oil & Gas Equipment & Services",
   "business_summary": "Oil Country Tubular Limited manufactures and sells casing, tubing, and drill pipes used in the oil and gas drilling and exploration sector in India and internationally. It offers API connections, and double shoulder and high torque connections; heavy weight drill pipes; and drill collars, as well as tubing, casing, and high collapse casing products. The company also provides accessories, such as rotary subs, lift plugs and subs, lifting bails, pup joints, sleeve stabilizers, tool joints, welded blade stabilizers, and couplings, as well as drill rods. In addition, it offers services comprising tool joint hard facing, tool joints make and break, internal plastic coating of drill pipe and tubing, drill pipe reconditioning, drill pipe re-threading, tubing and casing, and field inspection. The company was incorporated in 1985 and is based in Hyderabad, India. Oil Country Tubular Limited is in Corporate Insolvency Resolution Process under the Insolvency and Bankruptcy Code 2016.",
   "business_summary_reason": null,
-  "market_cap_cr": 382.22,
+  "market_cap_cr": 378.85,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:33:39.260408",
-  "provider_reported_pb_ratio": 1.79,
-  "statements_retrieved_at": "2026-11-06T22:33:39.260408",
+  "retrieval_time": "2026-11-10T00:22:11.631720",
+  "provider_reported_pb_ratio": 1.78,
+  "statements_retrieved_at": "2026-11-10T00:22:11.631720",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Beverages - Wineries & Distilleries",
   "business_summary": "Ravi Kumar Distilleries Limited manufactures, sells, and trades Indian made foreign liquors in India. The company manufactures and trades whisky, brandy, rum, gin, and vodka under the Capricorn, Jean Brothers, Black Berry, 2Barrels, Green Magic, Chevalier, and Once More brands. It also designs and erects liquor plants on turnkey basis; supplies liquor concentrates and provides consultation for sourcing and supplying of liquor, beer, wine, etc. Ravi Kumar Distilleries Limited was incorporated in 1993 and is based in Puducherry, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 43.15,
-  "pe_ratio": 224.75,
+  "market_cap_cr": 44.16,
+  "pe_ratio": 230.0,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 16.98,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:40:50.145836",
-  "provider_reported_pb_ratio": 1.06,
-  "statements_retrieved_at": "2026-11-06T22:40:50.145836",
+  "retrieval_time": "2026-11-10T00:29:32.156394",
+  "provider_reported_pb_ratio": 1.08,
+  "statements_retrieved_at": "2026-11-10T00:29:32.156394",
   "retained_fields": []
 }

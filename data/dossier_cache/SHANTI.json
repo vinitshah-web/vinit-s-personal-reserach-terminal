@@ -5,14 +5,14 @@
   "industry": "Farm Products",
   "business_summary": "Shanti Overseas (India) Limited engages in the processing and trading of agri commodities in India. The company was founded in 2004 and is based in Indore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 6.51,
+  "market_cap_cr": 6.74,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 3.6,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.1106,
-  "fifty_two_week_high": 10.24,
+  "fifty_two_week_high": 10.15,
   "fifty_two_week_low": 4.7,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:45:07.942404",
-  "provider_reported_pb_ratio": 1.63,
-  "statements_retrieved_at": "2026-11-06T22:45:07.942404",
+  "retrieval_time": "2026-11-10T00:33:53.608329",
+  "provider_reported_pb_ratio": 1.69,
+  "statements_retrieved_at": "2026-11-10T00:33:53.608329",
   "retained_fields": []
 }

@@ -5,7 +5,7 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Loyal Textile Mills Limited manufactures and sells yarn, woven fabric, knitted fabric, and technical clothing products for the textile and apparel industries in India. The company offers yarn products, such as raw white, m\u00e9lange, and specialty yarns; a range of fabric products, including cotton, polyester blended, modal/tencel blended, viscose, and elastane fabrics; and garment products comprising corporate and work wear, hospital, hotel, and protective garments. The company also provides home textile products, including special stiches comprising merrowing, picotting, double needle, self-hem, self-piping, reverse hem, reverse piping, and jacquard hem; shopper bags; and special finishes, such as down proof, crease resistant, calendaring, silicon finish, and bio-polish finish, as well as organic cotton products. In addition, it offers face masks and personal protective equipment kits online. The company exports its products to Argentina, Australia, Bangladesh, Brazil, Belgium, China, Cambodia, Colombia, Croatia, Dominican Republic, Dubai, El Salvador, Egypt, Germany, Hong Kong, Hondrous, Indonesia, Italy, Iran, Israel, Japan, Korea, Lithuania, Latvia, Mauritius, Morocco, Madagascar, Portugal, Poland, Philippines, Pakistan, Peru, Russia, Spain, South Africa, Sri Lanka, Tunisia, Turkey, Thailand, Taiwan, Vietnam, United Kingdom and the USA. Loyal Textile Mills Limited was incorporated in 1946 and is based in Kovilpatti, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 99.33,
+  "market_cap_cr": 100.22,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:24:49.166490",
+  "retrieval_time": "2026-11-10T00:13:16.732421",
   "provider_reported_pb_ratio": 0.49,
-  "statements_retrieved_at": "2026-11-06T22:24:49.166490",
+  "statements_retrieved_at": "2026-11-10T00:13:16.732421",
   "retained_fields": []
 }

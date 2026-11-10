@@ -5,8 +5,8 @@
   "industry": "Metal Fabrication",
   "business_summary": "Aeroflex Industries Limited manufactures and sells stainless steel flexible hose, assemblies, and fittings in India. It offers SFN (secondary fluid network); corrugated stainless steel hoses; corrugated metal hose assemblies; stripwound metal hoses; metal bellows and expansion joints, such as axial, universal and lateral, hinged angular, gimbal angular, internal and inline pressure balanced, external pressure balanced, and elbow pressure balanced expansion joints; flexible composite hose; and PTFE hoses. The company's products are used in fire sprinklers and firefighting, data centers, aerospace and defense, semiconductors, robotics and automation, hydrogen, electric mobility, HVAC, natural gas, steel and metal, solar, bulk terminal handling, chemicals, food and pharmaceuticals, and paper and pulp industries, as well as in petrochemicals and oil refineries. It also exports its products. The company was incorporated in 1993 and is headquartered in Mumbai, India. Aeroflex Industries Limited operates as a subsidiary of Aeroflex Enterprises Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 6387.61,
-  "pe_ratio": 70.78,
+  "market_cap_cr": 6410.1,
+  "pe_ratio": 71.03,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 37.55,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T21:48:34.062211",
-  "provider_reported_pb_ratio": 12.85,
-  "statements_retrieved_at": "2026-11-06T21:48:34.062211",
+  "retrieval_time": "2026-11-09T23:37:33.189644",
+  "provider_reported_pb_ratio": 12.9,
+  "statements_retrieved_at": "2026-11-09T23:37:33.189644",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Rajapalayam Mills Limited engages in the manufacturing and sale of cotton yarn and fabrics in India. It operates in two segments, Textile and Windmills. The company offers value added products, such as TFO yarn two and three ply yarn, gassed yarn, mercerised yarn, amsler slub yarn/multi count and twist yarn, core spun yarn, elitwist yarn, and yarn in soft package. It also provides various products, including open end, ring, compact, modal/tencel, and organic cotton yarns. In addition, the company is involved in generation of electricity from windmills. It also exports its products. Rajapalayam Mills Limited was incorporated in 1936 and is headquartered in Rajapalayam, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 680.77,
-  "pe_ratio": 5.47,
+  "market_cap_cr": 692.62,
+  "pe_ratio": 5.57,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 2633.12,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:39:15.427730",
-  "provider_reported_pb_ratio": 0.28,
-  "statements_retrieved_at": "2026-11-06T22:39:15.427730",
+  "retrieval_time": "2026-11-10T00:27:57.062150",
+  "provider_reported_pb_ratio": 0.29,
+  "statements_retrieved_at": "2026-11-10T00:27:57.062150",
   "retained_fields": []
 }

@@ -5,7 +5,7 @@
   "industry": "Engineering & Construction",
   "business_summary": "McNally Bharat Engineering Company Limited engages in engineering, procurement, and construction businesses in India. The company offers its turnkey solutions in the areas of power, steel, coal and mining, ports, aluminum, material handling, mineral processing, cement, water, mineral benefication, pyroprocessing, pneumatic handling of powdered materials, coal washing, port cranes, civic, industrial water supply, and oil and gas sectors, as well as for infrastructure sectors, includes buildings and townships, high rises, roads, metro, rail etc. It also manufactures a range of products, including crushers and screens, mobile crushing and screening plants, skid mounted coal sizers, mills, pressure vessels, material handling equipment, and steel plant equipment, as well as process equipment, including flotation cells, thickeners, slurry pumps, etc. The company was formerly known as McNally-Bird Engineering Company Limited and changed its name to McNally Bharat Engineering Company Limited in 1972. McNally Bharat Engineering Company Limited was incorporated in 1961 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1056.5,
+  "market_cap_cr": 1056.17,
   "pe_ratio": 0.29,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:26:59.427485",
+  "retrieval_time": "2026-11-10T00:15:27.500823",
   "provider_reported_pb_ratio": 1.85,
-  "statements_retrieved_at": "2026-11-06T22:26:59.427485",
+  "statements_retrieved_at": "2026-11-10T00:15:27.500823",
   "retained_fields": []
 }

@@ -5,14 +5,14 @@
   "industry": "Oil & Gas Drilling",
   "business_summary": "Aban Offshore Limited, together with its subsidiaries, provides offshore drilling and production services for exploration, development, and production of oil and gas in India and internationally. It owns and operates fleets, such as offshore drilling rigs, jack up rigs, semi-submersible rigs, drill ships, and floating production units. The company was incorporated in 1986 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 82.65,
+  "market_cap_cr": 83.7,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": -4855.59,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 5.8365,
-  "fifty_two_week_high": 38.58,
+  "fifty_two_week_high": 37.67,
   "fifty_two_week_low": 12.89,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T21:47:13.727427",
+  "retrieval_time": "2026-11-09T23:36:11.443773",
   "provider_reported_pb_ratio": -0.0,
-  "statements_retrieved_at": "2026-11-06T21:47:13.727427",
+  "statements_retrieved_at": "2026-11-09T23:36:11.443773",
   "retained_fields": []
 }

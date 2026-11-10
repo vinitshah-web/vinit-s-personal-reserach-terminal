@@ -5,8 +5,8 @@
   "industry": "Packaged Foods",
   "business_summary": "B & A Limited, together with its subsidiaries, cultivates, produces, and sells black tea in India. It operates in three segments: Tea, Paper Sacks and Flexible Laminates. The company also operates tea estates. It also offers retail tea under the Gatoonga Tea Estate brand name. The company was formerly known as Barasali Tea Estate Limited and changed its name to B & A Limited in December 2000. B & A Limited was incorporated in 1915 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 120.74,
-  "pe_ratio": 165.04,
+  "market_cap_cr": 120.59,
+  "pe_ratio": 164.83,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 442.43,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T21:57:02.552455",
+  "retrieval_time": "2026-11-09T23:46:06.350554",
   "provider_reported_pb_ratio": 0.88,
-  "statements_retrieved_at": "2026-11-06T21:57:02.552455",
+  "statements_retrieved_at": "2026-11-09T23:46:06.350554",
   "retained_fields": []
 }

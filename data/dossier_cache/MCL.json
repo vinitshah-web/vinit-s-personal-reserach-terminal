@@ -5,8 +5,8 @@
   "industry": "Copper",
   "business_summary": "M Tek Copper Limited manufactures and sells copper wires and cables in India. The company offers copper bus bars, strips, and rods; tin plated copper bus bars; paper insulated copper conductors (round/rectangular); kapton polyimide covered copper conductors; copper profiles; enamelled copper round winding wires; poly wrap subsmersible winding wires; fabricated copper products/bus bars; oxygen free copper rods; copper earth rods (internal/external threaded); copper anode/phosporised nuggets and balls; silver bearing copper alloys; fiber glass/daglas covered copper conductors; and delivery spools, as well as tapped insulated copper conductors and bare copper wires. Its products are used in pumps, motors, transformers, generators, alternators, wind generators, panels, hydro generators, and switch gears; and automatic coil winding machines, as well as to fabricate in automatic CNC machines. The company exports its products. The company was formerly known as Madhav Copper Limited and change its name to M Tek Copper Limited in May 2026. M Tek Copper Limited was incorporated in 2012 and is based in Bhavnagar, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 140.41,
-  "pe_ratio": 31.35,
+  "market_cap_cr": 142.04,
+  "pe_ratio": 32.71,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 18.49,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:27:04.782009",
-  "provider_reported_pb_ratio": 2.8,
-  "statements_retrieved_at": "2026-11-06T22:27:04.782009",
+  "retrieval_time": "2026-11-10T00:15:32.754963",
+  "provider_reported_pb_ratio": 2.83,
+  "statements_retrieved_at": "2026-11-10T00:15:32.754963",
   "retained_fields": []
 }

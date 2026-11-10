@@ -5,13 +5,13 @@
   "industry": "Medical Instruments & Supplies",
   "business_summary": "Dr. Agarwal's Health Care Limited engages in running, owning, and managing eye care hospitals, opticals, pharmacies, etc. and related services in India and internationally. It offers femto cataracts, lenticular procedure, retinal surgeries, anterior segment reconstruction, and corneal transplants, as well as refractive and other surgeries. The company also develops, designs, manufactures, imports, and exports healthcare devices, which include ophthalmic diagnostic devices, such as auto perimeter, optical biometers, and ophthalmoscopes. In addition, the company offers consultations, diagnoses, and non-surgical treatments; and sells opticals, contact lenses and accessories, and eye care related pharmaceutical products. Dr. Agarwal's Health Care Limited was incorporated in 2010 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 16370.59,
-  "pe_ratio": 111.04,
+  "market_cap_cr": 17037.73,
+  "pe_ratio": 97.87,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 67.44,
   "dividend_yield_pct": 0.0,
-  "shares_outstanding_cr": 31.7044,
+  "shares_outstanding_cr": 31.7099,
   "fifty_two_week_high": 567.75,
   "fifty_two_week_low": 401.0,
   "financial_statements": [
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T21:48:49.624726",
-  "provider_reported_pb_ratio": 7.66,
-  "statements_retrieved_at": "2026-11-06T21:48:49.624726",
+  "retrieval_time": "2026-11-09T23:37:48.506038",
+  "provider_reported_pb_ratio": 7.97,
+  "statements_retrieved_at": "2026-11-09T23:37:48.506038",
   "retained_fields": []
 }

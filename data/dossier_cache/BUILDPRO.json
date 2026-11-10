@@ -5,8 +5,8 @@
   "industry": "Home Improvement Retail",
   "business_summary": "Shankara Buildpro Limited engages in retail, supply, distribution, and promotion of home improvement and building products in India. Shankara Buildpro Limited was incorporated in 2023 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2250.82,
-  "pe_ratio": 17.09,
+  "market_cap_cr": 2217.24,
+  "pe_ratio": 16.84,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 50.89,
@@ -48,8 +48,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T21:57:47.713702",
-  "provider_reported_pb_ratio": 3.65,
-  "statements_retrieved_at": "2026-11-06T21:57:47.713702",
+  "retrieval_time": "2026-11-09T23:46:51.288710",
+  "provider_reported_pb_ratio": 3.59,
+  "statements_retrieved_at": "2026-11-09T23:46:51.288710",
   "retained_fields": []
 }

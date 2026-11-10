@@ -5,8 +5,8 @@
   "industry": "Credit Services",
   "business_summary": "Fusion Finance Limited, a non-banking financial company, provides micro finance and MSME lending services in India. The company offers income generation, top up, emergency, and cross sell loans; secured loans; and life insurance products. It provides its services underserved and unserved women in rural and semi-rural areas. The company was formerly known as Fusion Micro Finance Limited and changed its name to Fusion Finance Limited in July 2024. Fusion Finance Limited was incorporated in 1994 and is headquartered in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2483.07,
-  "pe_ratio": 8.94,
+  "market_cap_cr": 2501.71,
+  "pe_ratio": 9.01,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 151.87,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:08:14.783442",
+  "retrieval_time": "2026-11-09T23:57:03.076775",
   "provider_reported_pb_ratio": 1.02,
-  "statements_retrieved_at": "2026-11-06T22:08:14.783442",
+  "statements_retrieved_at": "2026-11-09T23:57:03.076775",
   "retained_fields": []
 }

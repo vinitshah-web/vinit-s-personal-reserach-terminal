@@ -5,14 +5,14 @@
   "industry": "Real Estate - Development",
   "business_summary": "Arihant Superstructures Limited operates as a real estate development company in India. The company develops residential properties, including residences, villas, hospitality and mixed-use developments, and apartments. The company was formerly known as Shaktiman Constructions Limited and changed its name to Arihant Superstructures Limited in August 2009. Arihant Superstructures Limited was incorporated in 1983 and is based in Navi Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 918.33,
-  "pe_ratio": 31.64,
+  "market_cap_cr": 943.84,
+  "pe_ratio": 32.52,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 84.03,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 4.325,
-  "fifty_two_week_high": 415.5,
+  "fifty_two_week_high": 413.3,
   "fifty_two_week_low": 188.8,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T21:51:51.115346",
-  "provider_reported_pb_ratio": 2.53,
-  "statements_retrieved_at": "2026-11-06T21:51:51.115346",
+  "retrieval_time": "2026-11-09T23:40:49.942463",
+  "provider_reported_pb_ratio": 2.6,
+  "statements_retrieved_at": "2026-11-09T23:40:49.942463",
   "retained_fields": []
 }

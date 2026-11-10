@@ -5,8 +5,8 @@
   "industry": "Information Technology Services",
   "business_summary": "Cambridge Technology Enterprises Limited, a business and technology services company, provides IT solutions to enterprise services in India, the united states, the Middle East, Malaysia, the Philippines, and internationally. The company offers pre-built and pre-integrated artificial intelligence solutions and machine learning models, which enables businesses to build, deploy, and configure solutions; data advisory, transformation, and real time data streaming services; and data strategy, potential, and analytics, as well as data Ops. It also provides application services, such as end-to-end development, migration, testing, and mobility; identity and access management advisory, transformation, and managed services; and SaaS solutions and custom apps, as well as IoT services. In addition, the company offers infrastructure and cloud services, including cloud migration and transformation, DevOps, infrastructure managed, and AWS well-architected review, as well as cyber security services. Further, it sells software licenses. Cambridge Technology Enterprises Limited was incorporated in 1999 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 69.17,
-  "pe_ratio": 10.12,
+  "market_cap_cr": 69.92,
+  "pe_ratio": 10.23,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 41.01,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:01:07.533460",
-  "provider_reported_pb_ratio": 0.88,
-  "statements_retrieved_at": "2026-11-06T22:01:07.533460",
+  "retrieval_time": "2026-11-09T23:50:09.422173",
+  "provider_reported_pb_ratio": 0.89,
+  "statements_retrieved_at": "2026-11-09T23:50:09.422173",
   "retained_fields": []
 }

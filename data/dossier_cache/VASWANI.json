@@ -5,7 +5,7 @@
   "industry": "Steel",
   "business_summary": "Vaswani Industries Limited engages in the manufacture and trading of iron and steel products in India. It operates through the Iron & Steel, Power, Real Estate, and Agri Division segments. The company offers alloy ingots, billets and blooms, power and sponge irons, as well as value-added products, including induction furnace, steel billets, rolling mill, thermo-mechanically treated bars, and forging and casting products. It also generates electricity through waste heat recovery boilers with an installed capacity of 11.5 megawatts. Vaswani Industries Limited was incorporated in 2003 and is headquartered in Raipur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 144.49,
+  "market_cap_cr": 157.67,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:55:52.399534",
-  "provider_reported_pb_ratio": 0.9,
-  "statements_retrieved_at": "2026-11-06T22:55:52.399534",
+  "retrieval_time": "2026-11-10T00:44:48.532831",
+  "provider_reported_pb_ratio": 0.98,
+  "statements_retrieved_at": "2026-11-10T00:44:48.532831",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "Bansal Wire Industries Limited manufactures and sells steel wires worldwide. The company offers cold heading, spring, welding, rope, fine, scrubber, and heat resisting wires, as well as wires for kitchen ware and utensils; low carbon steel wires, such as cable armouring, electro galvanized, and bright wires; and carbon steel wires, including spring steel wires and automotive control cables. It also provides shaped / profile wires, which includes circlips wire; aluminum alloy, copper-coated aluminum magnesium, copper coated steel, and aluminum alloy wire mesh and welding wires; electro-galvanized, hot dip galvanized, and stitching wires; and cable armouring wire and strips. Further, the company provides wire rope, tyre bead, aluminum alloy wire mesh, stainless steel scrubbers, building material, and barbed wire. It serves its products to aeronautics, agriculture/ poultry, automotive, cable, consumer durables, general engineering, hardware, infrastructure, and other industries. The company was founded in 1938 and is based in Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4878.28,
-  "pe_ratio": 49.86,
+  "market_cap_cr": 4856.37,
+  "pe_ratio": 49.63,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 19.34,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T21:54:59.703074",
-  "provider_reported_pb_ratio": 3.22,
-  "statements_retrieved_at": "2026-11-06T21:54:59.703074",
+  "retrieval_time": "2026-11-09T23:44:00.140268",
+  "provider_reported_pb_ratio": 3.21,
+  "statements_retrieved_at": "2026-11-09T23:44:00.140268",
   "retained_fields": []
 }

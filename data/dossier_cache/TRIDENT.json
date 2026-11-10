@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Trident Limited manufactures, trades, and sells textiles, Yarn, paper, chemicals, and energy in India, the United States, and internationally. The company operates through four segments: Yarn, Towel, Bedsheets, Paper and Chemicals. The company offers cotton combed, open-end, air jet, organic cotton, core spun, blended, eli-twist, slub, compact, air-rich, certified cotton, m\u00e9lange, packed dye, zero twist, and dyed yarns; and home textiles, including bath and bed linen products. It also provides branded copier, writing and printing maplitho, bible and offset printing paper products; and LR/AR grade sulphuric acid for use in battery production, zinc sulphate, alum, dyes and detergents. It also exports its products. The company was formerly known as Abhishek Industries Limited and changed its name to Trident Limited in April 2011. Trident Limited was incorporated in 1990 and is based in Barnala, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 12168.26,
-  "pe_ratio": 25.4,
+  "market_cap_cr": 12010.29,
+  "pe_ratio": 25.07,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 9.44,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:53:51.676038",
-  "provider_reported_pb_ratio": 2.53,
-  "statements_retrieved_at": "2026-11-06T22:53:51.676038",
+  "retrieval_time": "2026-11-10T00:42:45.992151",
+  "provider_reported_pb_ratio": 2.5,
+  "statements_retrieved_at": "2026-11-10T00:42:45.992151",
   "retained_fields": []
 }

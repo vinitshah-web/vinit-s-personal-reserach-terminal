@@ -5,8 +5,8 @@
   "industry": "Computer Hardware",
   "business_summary": "Netweb Technologies India Limited designs, manufactures, and sells high-end computing solutions in India. The company offers supercomputing systems; private cloud and hyperconverged infrastructure, including private cloud, hybrid cloud, cloud tools, and cloud native storage; artificial intelligence (AI) systems and enterprise workstations; high performance storage solutions; data centre servers; and software and services for HCS offerings. It also provides cloud migration, managed cloud, Openstack cloud, high performance computing on cloud, managed kubernetes, AI and machine learning, strategic consultation, migration/implementation, optimization advice, and technical support services. In addition, the company provides solutions, such as AI and big data, HPC, cloud, kubernetes, surveillance, and unified storage solutions. It sells its products under the Tyrone brand name. The company serves information technology and enabled services, media, banking, financial and insurance, government and defence, and telecommunications. The company was formerly known as Netweb Technologies India Private Limited and changed its name to Netweb Technologies India Limited. Netweb Technologies India Limited was incorporated in 1999 and is based in Faridabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 22420.05,
-  "pe_ratio": 58.96,
+  "market_cap_cr": 22821.92,
+  "pe_ratio": 60.01,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 362.45,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:31:39.463577",
-  "provider_reported_pb_ratio": 10.41,
-  "statements_retrieved_at": "2026-11-06T22:31:39.463577",
+  "retrieval_time": "2026-11-10T00:20:09.978104",
+  "provider_reported_pb_ratio": 10.59,
+  "statements_retrieved_at": "2026-11-10T00:20:09.978104",
   "retained_fields": []
 }

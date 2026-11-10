@@ -5,14 +5,14 @@
   "industry": "Capital Markets",
   "business_summary": "DAM Capital Advisors Limited provides investment banking services. The company operates through two segments, Stock Broking Services and Investment Banking Services. It offers equity capital markets services, including initial public offerings, qualified institutional placements, follow-on public offerings, block and bulk deal execution, offer for sale transactions, rights issues, and preferential issues placement, as well as equity-linked instruments, such as warrants, CCDS, and other convertibles. The company also provides mergers and advisory services, including buy-side and sell-side M&A, open-offer advisory, business and asset divestitures, cross-border transactions, and joint ventures and strategic alliances; and private equity advisory services, including growth capital and expansion fundraising, pre-IPO placements, and promoter/investor stake sale advisory. In addition, it provides structured financial advisory services, including structured equity and hybrid instruments advisory, mezzanine and bridge financing advisory, promoter and holding company funding solutions, capital structure optimization, and special situations and distressed advisory services. The company serves foreign and domestic institutional investors, corporates, financial sponsors, family offices, mutual funds, insurance companies, private equity and venture capital funds, corporate and bank treasuries, sovereign funds, and multi-strategy funds. It operates in India, the United States, the United Kingdom, Europe, Hong Kong, Singapore, Japan, and the Middle East. The company was formerly known as IDFC Securities Limited and changed its name to DAM Capital Advisors Limited in September 2020. DAM Capital Advisors Limited was incorporated in 1993 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 985.86,
-  "pe_ratio": 13.57,
+  "market_cap_cr": 995.54,
+  "pe_ratio": 13.7,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 46.96,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 7.0686,
-  "fifty_two_week_high": 286.0,
+  "fifty_two_week_high": 271.0,
   "fifty_two_week_low": 119.22,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:01:29.404106",
-  "provider_reported_pb_ratio": 2.97,
-  "statements_retrieved_at": "2026-11-06T22:01:29.404106",
+  "retrieval_time": "2026-11-09T23:50:31.804988",
+  "provider_reported_pb_ratio": 3.0,
+  "statements_retrieved_at": "2026-11-09T23:50:31.804988",
   "retained_fields": []
 }

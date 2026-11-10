@@ -5,8 +5,8 @@
   "industry": "Information Technology Services",
   "business_summary": "Onward Technologies Limited operates as a software and technology services outsourcing company India, the United States, Europe, Canada, and the United Kingdom, and internationally. The company offers digital and engineering research and development services for original equipment manufacturers (OEMs) in industrial equipment and heavy machinery, transportation, mobility, and healthcare and life sciences sectors. It also provides digital services, such as advanced software development and lifecycle management, digitalization and integration, data engineering, analytics and visualization, and cloud platforms; and embedded product and systems engineering services comprising system, software and hardware, tooling, testing, and consulting services. In addition, the company offers mechanical product engineering services, including new product design and development, value engineering, virtual simulation, and manufacturing engineering. Onward Technologies Limited was incorporated in 1991 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 826.71,
-  "pe_ratio": 17.75,
+  "market_cap_cr": 839.96,
+  "pe_ratio": 18.32,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 112.39,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:34:07.133074",
-  "provider_reported_pb_ratio": 3.36,
-  "statements_retrieved_at": "2026-11-06T22:34:07.133074",
+  "retrieval_time": "2026-11-10T00:22:40.414935",
+  "provider_reported_pb_ratio": 3.41,
+  "statements_retrieved_at": "2026-11-10T00:22:40.414935",
   "retained_fields": []
 }

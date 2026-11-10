@@ -5,7 +5,7 @@
   "industry": "Electronics & Computer Distribution",
   "business_summary": "Compuage Infocom Limited engages in trading of computer parts and peripherals, software, and telecom products in India and internationally. The company offers computing solutions, such as installation, setup, troubleshooting, computer repair, extensive training, and general help across a wide variety of systems; cloud computing, including servers, database, analytics, software, networking, storage; technology; and hardware solutions, including warranty services, logistics, technical assistance, and field engineering support. It also provides enterprise, security, and networking solutions. in addition, the company offers consulting, under warranty after warranty, and technical support for IT environment services. Compuage Infocom Limited was founded in 1987 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 8.56,
+  "market_cap_cr": 8.73,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:00:06.271532",
+  "retrieval_time": "2026-11-09T23:49:08.856083",
   "provider_reported_pb_ratio": -0.03,
-  "statements_retrieved_at": "2026-11-06T22:00:06.271532",
+  "statements_retrieved_at": "2026-11-09T23:49:08.856083",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "Soma Textiles & Industries Limited engages in the execution of highway and road construction projects in India. The company was formerly known as R.B. Rodda & Co. Ltd. and changed its name to Soma Textiles & Industries Limited in January 1992. The company was incorporated in 1940 and is headquartered in Ahmedabad, India. Soma Textiles & Industries Limited operates as a subsidiary of Roadway Solutions India Infra Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 241.42,
-  "pe_ratio": 26.12,
+  "market_cap_cr": 244.44,
+  "pe_ratio": 26.45,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 50.76,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:48:03.026922",
-  "provider_reported_pb_ratio": 1.4,
-  "statements_retrieved_at": "2026-11-06T22:48:03.026922",
+  "retrieval_time": "2026-11-10T00:36:48.109516",
+  "provider_reported_pb_ratio": 1.42,
+  "statements_retrieved_at": "2026-11-10T00:36:48.109516",
   "retained_fields": []
 }

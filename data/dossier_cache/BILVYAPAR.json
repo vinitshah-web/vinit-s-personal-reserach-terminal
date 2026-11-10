@@ -5,14 +5,14 @@
   "industry": "Specialty Chemicals",
   "business_summary": "BIL Vyapar Limited does not have significant operations. Previously, it was engaged in the provision of media and publication services. The company was formerly known as Binani Industries Limited and changed its name to BIL Vyapar Limited in June 2025. BIL Vyapar Limited was founded in 1872 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 12.86,
-  "pe_ratio": 31.54,
+  "market_cap_cr": 13.36,
+  "pe_ratio": 32.77,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": -59.53,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 3.1366,
-  "fifty_two_week_high": 11.99,
+  "fifty_two_week_high": 11.72,
   "fifty_two_week_low": 3.7,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T21:56:19.198230",
+  "retrieval_time": "2026-11-09T23:45:21.466348",
   "provider_reported_pb_ratio": -0.07,
-  "statements_retrieved_at": "2026-11-06T21:56:19.198230",
+  "statements_retrieved_at": "2026-11-09T23:45:21.466348",
   "retained_fields": []
 }

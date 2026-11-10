@@ -5,8 +5,8 @@
   "industry": "Capital Markets",
   "business_summary": "VLS Finance Limited, together with its subsidiaries, provides stock broking services in India. The company is also involved in the investment and sale/purchase of shares/securities and derivatives. In addition, it provides proprietary investments and equity research; investment banking; and corporate consulting and advisory services. VLS Finance Limited was incorporated in 1986 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 669.28,
-  "pe_ratio": 13.63,
+  "market_cap_cr": 687.51,
+  "pe_ratio": 14.0,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 631.93,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:57:27.872205",
-  "provider_reported_pb_ratio": 0.34,
-  "statements_retrieved_at": "2026-11-06T22:57:27.872205",
+  "retrieval_time": "2026-11-10T00:46:26.346935",
+  "provider_reported_pb_ratio": 0.35,
+  "statements_retrieved_at": "2026-11-10T00:46:26.346935",
   "retained_fields": []
 }

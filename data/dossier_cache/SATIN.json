@@ -5,8 +5,8 @@
   "industry": "Credit Services",
   "business_summary": "Satin Creditcare Network Limited, a non-banking finance company, provides micro finance services in India. The company offers microcredit to economically active women in rural, semi-urban, and urban regions; loans for income generating purposes, such as agriculture, transportation, trading, and production related business activities; water and sanitation loans; loans for clean energy and various business needs; and loans to corporate institutions and micro finance companies. It also provides financing solutions for solar energy, purchase of bicycles, home appliances, and mobile phones for small businesses and individuals; micro, small, and medium enterprise loans for merchants, retailers, wholesalers, manufacturers, service providers, salaried, self-employed professionals, and agri businesses; and housing loans. The company was formerly known as Satin Leasing & Finance Private Limited and changed its name to Satin Creditcare Network Limited in April 2000. Satin Creditcare Network Limited was incorporated in 1990 and is headquartered in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2887.3,
-  "pe_ratio": 5.42,
+  "market_cap_cr": 2860.35,
+  "pe_ratio": 5.37,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 288.21,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:43:16.384720",
-  "provider_reported_pb_ratio": 0.91,
-  "statements_retrieved_at": "2026-11-06T22:43:16.384720",
+  "retrieval_time": "2026-11-10T00:32:01.140630",
+  "provider_reported_pb_ratio": 0.9,
+  "statements_retrieved_at": "2026-11-10T00:32:01.140630",
   "retained_fields": []
 }

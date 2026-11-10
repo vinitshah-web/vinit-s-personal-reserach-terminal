@@ -3,16 +3,16 @@
   "company_name": "BALAXI PHARMA LTD",
   "sector": "Healthcare",
   "industry": "Drug Manufacturers - Specialty & Generic",
-  "business_summary": "Balaxi Pharmaceuticals Limited engages in the international wholesale distribution of pharmaceutical products in India and internationally. The company offers pharmaceutical products across various therapeutic areas, including antibiotics, analgesic, anti-malaria, and others. It also provides biscuits and toothpaste. The company was formerly known as Balaxi Ventures Limited and changed its name to Balaxi Pharmaceuticals Limited in October 2020. The company was incorporated in 1942 and is headquartered in Hyderabad, India. Balaxi Pharmaceuticals Limited is a subsidiary of Balaxi Overseas Private Limited.",
+  "business_summary": "Balaxi Pharmaceuticals Limited engages in the international wholesale distribution of pharmaceuticals, builders hardware, and FMCG products in India, Africa, and Latin America. The company offers pharmaceutical products across various therapeutic areas, including antibiotics, analgesic, anti-malaria, and others. It also provides biscuits and toothpaste. The company was formerly known as Balaxi Ventures Limited and changed its name to Balaxi Pharmaceuticals Limited in October 2020. The company was incorporated in 1942 and is headquartered in Hyderabad, India. Balaxi Pharmaceuticals Limited is a subsidiary of Balaxi Overseas Private Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 121.24,
-  "pe_ratio": 48.8,
+  "market_cap_cr": 125.1,
+  "pe_ratio": 50.36,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 45.12,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 5.5207,
-  "fifty_two_week_high": 42.82,
+  "fifty_two_week_high": 42.74,
   "fifty_two_week_low": 15.2,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T21:54:26.672472",
-  "provider_reported_pb_ratio": 0.49,
-  "statements_retrieved_at": "2026-11-06T21:54:26.672472",
+  "retrieval_time": "2026-11-09T23:43:27.209316",
+  "provider_reported_pb_ratio": 0.5,
+  "statements_retrieved_at": "2026-11-09T23:43:27.209316",
   "retained_fields": []
 }

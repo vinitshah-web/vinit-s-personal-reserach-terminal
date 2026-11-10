@@ -5,14 +5,14 @@
   "industry": "Engineering & Construction",
   "business_summary": "J. Kumar Infraprojects Limited engages in the construction business in India. The company executes contracts of various infrastructure projects, including transportation engineering, irrigation projects, civil construction, piling work, etc. Its transportation engineering projects includes roads, underground and elevated metros, bridges, flyovers, subways, road over bridges, skywalks, railway terminus/stations etc.; civil construction projects comprising hospitals and medical colleges, commercial complexes, sports infrastructure, institutional buildings, and other civil constructions. The company also offers sewage treatment plants, riverfronts, tunnels and other projects, as well as undertaking residential and commercial properties projects. In addition, the company serves government departments, public sector entities across central, state, and municipal levels, metro rail corporations, public works departments, urban development authorities, municipal corporations, private sector companies, and other government-affiliated bodies. J. Kumar Infraprojects Limited was incorporated in 1980 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3135.58,
-  "pe_ratio": 8.23,
+  "market_cap_cr": 3160.93,
+  "pe_ratio": 8.3,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 447.92,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 7.5666,
-  "fifty_two_week_high": 650.55,
+  "fifty_two_week_high": 624.05,
   "fifty_two_week_low": 400.0,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:19:36.866113",
+  "retrieval_time": "2026-11-10T00:07:59.371125",
   "provider_reported_pb_ratio": 0.93,
-  "statements_retrieved_at": "2026-11-06T22:19:36.866113",
+  "statements_retrieved_at": "2026-11-10T00:07:59.371125",
   "retained_fields": []
 }

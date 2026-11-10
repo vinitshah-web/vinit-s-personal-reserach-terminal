@@ -5,7 +5,7 @@
   "industry": "Packaging & Containers",
   "business_summary": "Jindal Poly Films Limited, together with its subsidiaries, manufactures and sells biaxially oriented polyethylene terephthalate (BOPET) and biaxially oriented polypropylene (BOPP) films in India and internationally. It operates through Packaging Films, Nonwoven Fabrics, and Others \u0096 Coated Products segments. The company offers BOPP, thick and thin BOPET, CPP, lamination, metallized, coated, thermal lamination, and capacitor films. It also provides polypropylene-based spunmelt and spunbond nonwoven fabrics for the hygiene, medical, and industrial sectors; labelling solutions; and tear tapes, stamping foils, security threads, and other products. The company was formerly known as Jindal Polyester Ltd. and changed its name to Jindal Poly Films Limited in September 2004. Jindal Poly Films Limited was incorporated in 1974 and is based in New Delhi, India. Jindal Poly Films Limited is a subsidiary of Concatenate Flexi Films Advest Private Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 3054.1,
+  "market_cap_cr": 3004.62,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:19:23.473275",
-  "provider_reported_pb_ratio": 1.0,
-  "statements_retrieved_at": "2026-11-06T22:19:23.473275",
+  "retrieval_time": "2026-11-10T00:07:45.821415",
+  "provider_reported_pb_ratio": 0.98,
+  "statements_retrieved_at": "2026-11-10T00:07:45.821415",
   "retained_fields": []
 }

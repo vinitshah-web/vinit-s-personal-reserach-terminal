@@ -5,15 +5,15 @@
   "industry": "Aluminum",
   "business_summary": "National Aluminium Company Limited engages in the manufacture and sale of alumina and aluminum products in India and internationally. The company operates through Chemical and Aluminum segments. It offers aluminum metal products, such as ingots, alloy ingots, T-ingots, sows, billets, and wire rods; alumina and hydrate products, including calcined alumina and alumina hydrate; zeolite-A products; specialty alumina and hydrate products; and aluminum rolled and chequered sheets products. The company also owns and operates Coal Mine covering an area of 824.316 hectors situated in Chhendipada Tehsil of Angul District; an opencast mine covering an area of 16 square kilometers on Panchpatmali hills of Koraput district in Odisha; a wind power plant with 50.4 MW of generation capacity in Gandikota, Andhra Pradesh; a wind power plant with 47.6 MW of generation capacity at Jaisalmer, Rajasthan; a wind power plant with 50 MW of generation capacity at Devikot, Rajasthan; a wind power plant with 50.4 MW of generation capacity at Sangli, Maharashtra; and a solar power plants, as well as alumina refinery, aluminum smelter plants, and captive power plant. In addition, it provides testing services. National Aluminium Company Limited was incorporated in 1981 and is based in Bhubaneswar, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 59828.28,
-  "pe_ratio": 8.36,
+  "market_cap_cr": 60425.19,
+  "pe_ratio": 8.44,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 135.52,
-  "dividend_yield_pct": 3.6254,
+  "dividend_yield_pct": 3.6821,
   "shares_outstanding_cr": 183.6632,
   "fifty_two_week_high": 445.15,
-  "fifty_two_week_low": 228.0,
+  "fifty_two_week_low": 241.15,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:31:00.411271",
-  "provider_reported_pb_ratio": 2.4,
-  "statements_retrieved_at": "2026-11-06T22:31:00.411271",
+  "retrieval_time": "2026-11-10T00:19:30.775277",
+  "provider_reported_pb_ratio": 2.43,
+  "statements_retrieved_at": "2026-11-10T00:19:30.775277",
   "retained_fields": []
 }

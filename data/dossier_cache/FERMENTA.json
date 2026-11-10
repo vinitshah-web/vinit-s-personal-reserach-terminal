@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Fermenta Biotech Limited, together with its subsidiaries, engages in the manufacturing and marketing of chemicals, bulk drugs, enzymes, pharmaceutical formulations, and environmental solution products in India, Europe, the United States, and internationally. It operates through Chemicals/Bulk Drug and Property segments. The company offers vitamin D3, including crystalline oil, resin oil, cold water dispersible, and feed grade powder for injectables, soft gel capsules, premixes, food and beverage fortification applications; and vitamin K1, vitamin E50, phenyramidol and silicon dioxide, and fish oil cholesterol. It also provides fortified rice kernel; and Fermase PS 250 and penicillin G acylase used in manufacturing processes of various antibiotics. In addition, the company offers design, engineering, procurement, and construction of wastewater treatment plants, STPs, and ETPs, as well as operation and maintenance services. Further, it is involved in property development business; and renting and selling of properties. The company was formerly known as DIL Limited. Fermenta Biotech Limited was incorporated in 1951 and is based in Thane, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1282.39,
-  "pe_ratio": 21.54,
+  "market_cap_cr": 1236.57,
+  "pe_ratio": 20.77,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 141.68,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:07:18.974190",
-  "provider_reported_pb_ratio": 3.15,
-  "statements_retrieved_at": "2026-11-06T22:07:18.974190",
+  "retrieval_time": "2026-11-09T23:56:11.569609",
+  "provider_reported_pb_ratio": 3.04,
+  "statements_retrieved_at": "2026-11-09T23:56:11.569609",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Sintercom India Limited engages in the manufacturing and sale of sintered metal components and auto components in India and internationally. The company offers engine drive gears, chain sprockets, belt pulleys, and engine shaft bearing caps, as well as bearing cap, cam to cam back lash gears, chain sprockets, belt pullys, and mass balancer assembly; synchroniser hubs, interlock finger, drive train gears, and synchro ring; and exhaust systems, sensor bosses, and sensor parts. It also provides liquid dispensing metering parts; and soft magnetic composite components and assemblies for modern electric motor applications, as well as powder metal components for sensors. In addition, the company offers 2W idler gear, FIP sprocket, gear primary driven, and pulleys; finger interlock, hub high speed, hub synchro 5th, hub synchro reverse, intermediate gear 2-3, intermediate gear 4-5, and shift finger 4th rail; ABS rings, flange inlet and outlet, flange sub ASM, and hego boss; and axial flux motor, central fork, half ring and central fork, half star CCV and CV, and stator wedge sole. It serves OEM and tier 1 companies. Sintercom India Limited was incorporated in 2007 and is based in Pune, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 209.43,
-  "pe_ratio": 126.8,
+  "market_cap_cr": 227.49,
+  "pe_ratio": 137.73,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 36.9,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:47:09.377292",
-  "provider_reported_pb_ratio": 2.06,
-  "statements_retrieved_at": "2026-11-06T22:47:09.377292",
+  "retrieval_time": "2026-11-10T00:35:53.970187",
+  "provider_reported_pb_ratio": 2.24,
+  "statements_retrieved_at": "2026-11-10T00:35:53.970187",
   "retained_fields": []
 }

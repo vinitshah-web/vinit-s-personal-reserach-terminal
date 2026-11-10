@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Sandhar Technologies Limited, together with its subsidiaries, engages in the manufacturing and assembling of automotive components for the automotive industry in India and internationally. It offers automotive locking and security systems, which include locking systems, latches and hinges, and door handles; automotive vision systems; stampings; operator cabins and structural parts for two and four wheelers, and off-road vehicle industry; automotive optoelectronics; and zinc, aluminum, and magnesium die casting products. The company also provides polymers, commercial tooling products, helmets, assemblies, fuel pumps, filters, and wiper blades, as well as painting, plating, and coating products. In addition, it offers locks, sheet metal components, wheel assembly products, cabins, mirror assembly products, handlebar assembly products, plastic parts, and other products. The company was incorporated in 1987 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2889.46,
-  "pe_ratio": 13.87,
+  "market_cap_cr": 2920.53,
+  "pe_ratio": 14.28,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 233.19,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:42:51.078771",
-  "provider_reported_pb_ratio": 2.05,
-  "statements_retrieved_at": "2026-11-06T22:42:51.078771",
+  "retrieval_time": "2026-11-10T00:31:35.250549",
+  "provider_reported_pb_ratio": 2.08,
+  "statements_retrieved_at": "2026-11-10T00:31:35.250549",
   "retained_fields": []
 }

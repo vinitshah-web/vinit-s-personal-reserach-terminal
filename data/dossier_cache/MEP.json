@@ -5,7 +5,7 @@
   "industry": "Infrastructure Operations",
   "business_summary": "MEP Infrastructure Developers Limited engages in the construction, operation, and maintenance of road infrastructure in India. The company operates in two segments, Toll Collection, Operation and Maintenance; and Construction. It provides road repairs; and maintenance of flyovers, and roads and other structures. The company also undertakes engineering, procurement, and construction contracts for construction of roads. In addition, it is involved in the operation, maintenance, and collection of tolls; and installation of toll equipment, cameras, weigh bridges, etc. The company was incorporated in 2002 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 11.37,
+  "market_cap_cr": 11.74,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -63,8 +63,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:27:27.347916",
+  "retrieval_time": "2026-11-10T00:15:56.304552",
   "provider_reported_pb_ratio": -0.01,
-  "statements_retrieved_at": "2026-11-06T22:27:27.347916",
+  "statements_retrieved_at": "2026-11-10T00:15:56.304552",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Apparel Manufacturing",
   "business_summary": "Raymond Lifestyle Limited manufactures and sells branded apparel in India. The company offers branded apparel under the Raymond, Park Avenue, ColorPlus, Parx, and Ethnix by Raymond brands; suiting fabric under Raymond Fine Fabrics brand; cotton and linen shirting, and bottom-weight textiles; and garments, including suits, formal blazers, jackets, formal trousers, pieces of denim, and shirts under Raymond Ready-to-Wear brand. It also provides bedsheets, towels, and comforters under the Raymond Home brand name; and tailoring services. In addition, the company retails fashion, casual, and ethnic apparel, as well as manufactures jeans. It exports its products to the United States, the United Kingdom, Europe, and internationally. Raymond Lifestyle Limited was founded in 1925 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3231.66,
-  "pe_ratio": 90.39,
+  "market_cap_cr": 3300.79,
+  "pe_ratio": 92.33,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 1583.62,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:39:47.042619",
+  "retrieval_time": "2026-11-10T00:28:29.589154",
   "provider_reported_pb_ratio": 0.34,
-  "statements_retrieved_at": "2026-11-06T22:39:47.042619",
+  "statements_retrieved_at": "2026-11-10T00:28:29.589154",
   "retained_fields": []
 }

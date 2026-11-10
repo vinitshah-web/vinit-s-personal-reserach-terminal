@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Shree Ganesh Remedies Limited engages in the manufacture and sale of pharmaceutical drug intermediates for active pharmaceutical ingredient (API) and fine chemicals in India and internationally. The company offers anti-arrhythmic, anti-cancer, anti-depressant, anti-diabetic, anti-diarrheal, antifungal, antihistamine, anti-inflammatory, anti-parasitic, anti-psychotic, anticholinergic, birth-control, cardiovascular, gastrointestinal, neurological disorder, ophthalmic, opioid, and veterinary API intermediates. It also provides fine and specialty chemicals, such as agro-chemicals, electronics, flavor and fragrance, life-sciences, and polymer chemicals, as well as other specialty chemicals. In addition, the company offers customized chemistry and manufacturing; assets and infrastructure; and customized processes of pharmaceutical chemicals. It also exports its products. The company serves life sciences, flavor and fragrance, polymer industries, electronics, and agro chemicals markets. Shree Ganesh Remedies Limited was incorporated in 1995 and is headquartered in Ankleshwar, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 803.44,
-  "pe_ratio": 52.07,
+  "market_cap_cr": 781.36,
+  "pe_ratio": 50.64,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 129.15,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:44:53.966548",
-  "provider_reported_pb_ratio": 4.85,
-  "statements_retrieved_at": "2026-11-06T22:44:53.966548",
+  "retrieval_time": "2026-11-10T00:33:39.070628",
+  "provider_reported_pb_ratio": 4.71,
+  "statements_retrieved_at": "2026-11-10T00:33:39.070628",
   "retained_fields": []
 }

@@ -5,7 +5,7 @@
   "industry": "Software - Application",
   "business_summary": "EBIX Limited provides software and e-commerce solutions for the insurance, finance, and healthcare industries. It operates through two segments: Insurance and Healthcare. The Insurance segment offers health insurance & employee benefits, property & casualty insurance, life insurance, risk compliance & management, lending, asset & wealth management, health content & wellness, travel & mobility, and EbixOne products. The Healthcare segment provides healthcare administration software, health exchanges, and related services. The company also offers services such as Payments, Travels, and EdTech & Insurance. The company also offers payment processing, risk compliance, and customer relationship management solutions. It serves insurance brokers, carriers, financial institutions, healthcare organizations, and businesses in India and internationally. The company was formerly known as Eraaya Lifespaces Limited and changed its name to EBIX Limited in June 2026. EBIX Limited was incorporated in 1967 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 307.08,
+  "market_cap_cr": 305.8,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:04:25.615264",
+  "retrieval_time": "2026-11-09T23:53:26.874822",
   "provider_reported_pb_ratio": -0.16,
-  "statements_retrieved_at": "2026-11-06T22:04:25.615264",
+  "statements_retrieved_at": "2026-11-09T23:53:26.874822",
   "retained_fields": []
 }

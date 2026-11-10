@@ -5,8 +5,8 @@
   "industry": "Software - Application",
   "business_summary": "KFin Technologies Limited operates as a corporate registrar and transfer agency in India, the United States, Canada, and internationally. The company offers digital onboarding & KYC services, registrar and transfer agency, investor service centres, distributor services, investor and distributor engagement tools, compliance and regulatory reporting, infrastructure support, call centre support, analytics and reporting solutions, chatbot services, and back-office services, SaaS based end-to-end transaction management, channel management, compliance solutions, and data analytics services. It also provides fund administration and accounting, order management system, cloud-powered data aggregation and analytics platform, automated cloud-based reporting solution, virtual branch platform, distributor-initiated transaction, risk reporting solution, IT infrastructure services, web hosting, mobility solutions, and branch support services. In addition, the company offers issuer solutions, including folio creation and maintenance, corporate actions processing, compliance/regulatory reporting, recordkeeping, MIS/decision support, e-Voting, e-AGM, e-Vault, Insider trading compliance, AML / PML screening, check, and other platform solutions, as well as KYC Solutions. KFin Technologies Limited was incorporated in 2017 and is headquartered in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 15835.03,
-  "pe_ratio": 45.58,
+  "market_cap_cr": 15812.55,
+  "pe_ratio": 45.52,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 93.89,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:21:25.128775",
-  "provider_reported_pb_ratio": 9.75,
-  "statements_retrieved_at": "2026-11-06T22:21:25.128775",
+  "retrieval_time": "2026-11-10T00:09:49.828272",
+  "provider_reported_pb_ratio": 9.74,
+  "statements_retrieved_at": "2026-11-10T00:09:49.828272",
   "retained_fields": []
 }

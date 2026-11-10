@@ -5,14 +5,14 @@
   "industry": "Agricultural Inputs",
   "business_summary": "Shivalik Rasayan Limited produces and sells chemicals for the protection of plants in India. The company offers Dimethoate technical used in the preparation of formulations for use in the control of various insects and mites; and Malathion technical, an organophosphorus based contact insecticide used in the agricultural production of various food/feed crops. It also manufactures organophosphorus-based insecticides and chemicals. In addition, the company develops and manufactures active pharmaceutical ingredients (APIs) in oncology, ARVs, cardiovascular, metabolic disorders, and immunology; and manufactures oncology and non-oncology products. It serves pesticides formulators and finished dosages formulators of pharmaceutical products. The company was incorporated in 1979 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 511.11,
-  "pe_ratio": 36.77,
+  "market_cap_cr": 497.4,
+  "pe_ratio": 35.78,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 379.95,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.6032,
-  "fifty_two_week_high": 467.8,
+  "fifty_two_week_high": 465.05,
   "fifty_two_week_low": 206.4,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:45:36.635581",
-  "provider_reported_pb_ratio": 0.84,
-  "statements_retrieved_at": "2026-11-06T22:45:36.635581",
+  "retrieval_time": "2026-11-10T00:34:22.392546",
+  "provider_reported_pb_ratio": 0.82,
+  "statements_retrieved_at": "2026-11-10T00:34:22.392546",
   "retained_fields": []
 }

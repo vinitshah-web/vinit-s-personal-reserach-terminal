@@ -5,7 +5,7 @@
   "industry": "Software - Application",
   "business_summary": "Virinchi Limited provides information technology (IT) products and services worldwide. The company operates through Development of Computer Software and Services, IT Enabled Services, and Healthcare Services segments. It offers QFund, an IT solution for short-term mortgage and lending industry; vCard, an UPI-based credit card; V23, a healthcare practice management and patient engagement solution; KSoft, provides IT services, such as lifecycle management, ECM services, IT infrastructure management, and IT staff augmentation and consulting services; software development; and data science and analysis services. The company also offers media and entertainment, catering, educational, infrastructure, infrastructure chain, fintech, healthcare, and financial consulting services. Further, it owns and manages Bristlecone Hospital, a specialty hospital. The company was formerly known as Virinchi Technologies Limited and changed its name to Virinchi Limited in January 2016. Virinchi Limited was incorporated in 1990 and is headquartered in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 157.34,
+  "market_cap_cr": 163.2,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:57:02.294735",
-  "provider_reported_pb_ratio": 0.3,
-  "statements_retrieved_at": "2026-11-06T22:57:02.294735",
+  "retrieval_time": "2026-11-10T00:45:59.831266",
+  "provider_reported_pb_ratio": 0.31,
+  "statements_retrieved_at": "2026-11-10T00:45:59.831266",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Utilities - Regulated Electric",
   "business_summary": "NLC India Limited engages in the mining and power generation business in India. It operates through three segments: Mining, Power\u0096Thermal, and Power \u0096 Renewab. The company mines for lignite and coal; and generates power through lignite and coal, as well as through thermal, solar, and wind power plants. It also operates open cast lignite mines with a mining capacity of 28.0 million tonnes per annum (MTPA) in Tamil Nadu and 30.10 MTPA in Rajasthan; and has total coal mining capacity of 20.00 MTPA. In addition, the company provides consultancy services to the mining sector and firms in the solar power generation sector. Further, it has a total installed thermal power generation capacity of 5,300 MW; and renewable energy generation capacity of 1,785 MW. It serves state distribution firms, commercial enterprises, and industrial and power consumers. The company was formerly known as Neyveli Lignite Corporation Limited and changed its name to NLC India Limited in April 2016. The company was incorporated in 1956 and is based in Cuddalore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 32947.87,
-  "pe_ratio": 8.27,
+  "market_cap_cr": 33713.3,
+  "pe_ratio": 8.47,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 168.81,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:32:51.792266",
-  "provider_reported_pb_ratio": 1.41,
-  "statements_retrieved_at": "2026-11-06T22:32:51.792266",
+  "retrieval_time": "2026-11-10T00:21:23.812333",
+  "provider_reported_pb_ratio": 1.44,
+  "statements_retrieved_at": "2026-11-10T00:21:23.812333",
   "retained_fields": []
 }

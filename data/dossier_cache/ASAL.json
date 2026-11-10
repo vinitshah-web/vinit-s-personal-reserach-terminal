@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Automotive Stampings and Assemblies Limited designs, develops, manufactures, assembles, and sells sheet metal stampings, welded assemblies, and modules for passenger and commercial vehicles, and tractors in India. The company offers skin panels, including panel front doors, RH and LH side panel outers, assembly front panel and side wall outers, front cabin shields, assembly front bumpers, and assembly outer tail gates; and body in white components comprising assembly body side inners, assembly panel planum, assembly panel dash, assembly cabin rear walls, assembly fire walls, rail under bodies, and assembly reinf hinge pillars and rear quarters, as well as cabin floors. It also provides assy oil sumps; assembly fuel tanks; and suspension products, which include assembly cross members, assy rear suspension modules, assy semi trailing arms, and front suspension modules. The company was formerly known as JBM Tools Limited and changed its name to Automotive Stampings and Assemblies Limited in August 2003. Automotive Stampings and Assemblies Limited was incorporated in 1990 and is based in Pune, India. Automotive Stampings and Assemblies Limited operates as a subsidiary of Tata AutoComp Systems Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 707.95,
-  "pe_ratio": 19.94,
+  "market_cap_cr": 715.8,
+  "pe_ratio": 20.16,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 32.02,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T21:52:19.958405",
-  "provider_reported_pb_ratio": 13.94,
-  "statements_retrieved_at": "2026-11-06T21:52:19.958405",
+  "retrieval_time": "2026-11-09T23:41:18.087079",
+  "provider_reported_pb_ratio": 14.09,
+  "statements_retrieved_at": "2026-11-09T23:41:18.087079",
   "retained_fields": []
 }

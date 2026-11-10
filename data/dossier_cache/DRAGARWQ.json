@@ -5,14 +5,14 @@
   "industry": "Medical Care Facilities",
   "business_summary": "Dr. Agarwal's Eye Hospital Limited engages in the provision of eye care and related services in India, Ghana, Uganda, Kenya, Madagascar, Tanzania, Rwanda, Zambia, Mozambique, and Mauritius. The company, through its hospitals, offers services in the areas of cataract, glaucoma, laser correction, cornea and refractive, retina, squint, corneal ulcer, fungal keratitis, diabetic retinopathy, retinal detachment, nystagmus, ptosis, conjunctivitis, retinopathy prematurity, macular hole and edema, cornea transplantation, behcets, computer vision syndrome, hypertensive retinopathy, black fungus, traumatic cataract, keratoconus, uveitis, pterygium, blepharitis, posterior subcapsular cataract, pinhole pupilloplasty, rosette cataract, and congenital glaucoma. It also operates opticals and pharmacies and is engaged in the sale of optical frames, contact lenses, accessories, and pharmaceutical products. Dr. Agarwal's Eye Hospital Limited was founded in 1957 and is based in Chennai, India. Dr. Agarwal's Eye Hospital Limited operates as a subsidiary of Dr. Agarwal's Health Care Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 2600.06,
-  "pe_ratio": 33.88,
+  "market_cap_cr": 2683.43,
+  "pe_ratio": 34.97,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 716.48,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 0.4833,
-  "fifty_two_week_high": 5500.0,
+  "fifty_two_week_high": 5576.0,
   "fifty_two_week_low": 4899.5,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:03:43.332851",
-  "provider_reported_pb_ratio": 7.51,
-  "statements_retrieved_at": "2026-11-06T22:03:43.332851",
+  "retrieval_time": "2026-11-09T23:52:45.342031",
+  "provider_reported_pb_ratio": 7.75,
+  "statements_retrieved_at": "2026-11-09T23:52:45.342031",
   "retained_fields": []
 }

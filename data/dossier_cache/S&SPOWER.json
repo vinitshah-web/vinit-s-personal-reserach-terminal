@@ -5,8 +5,8 @@
   "industry": "Electrical Equipment & Parts",
   "business_summary": "S&S Power Switchgear Limited, together with its subsidiaries, provides transmission and distribution equipment for the power sector in India and the United Kingdom. The company provides center and double break, pantograph, knee type, and vertical break disconnectors; and spare parts and replacement components including mechanical parts, electrical contacts, insulators, operating mechanisms, and arc suppression systems. It also provides repair, refurbishment, and replacement service; retrofit solutions; and technical services. The company was incorporated in 1975 and is headquartered in Maraimalai Nagar, India. S&S Power Switchgear Limited is a subsidiary of Hamilton & Company Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 364.51,
-  "pe_ratio": 45.09,
+  "market_cap_cr": 368.46,
+  "pe_ratio": 45.58,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 72.23,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:41:59.035913",
-  "provider_reported_pb_ratio": 4.09,
-  "statements_retrieved_at": "2026-11-06T22:41:59.035913",
+  "retrieval_time": "2026-11-10T00:30:42.251984",
+  "provider_reported_pb_ratio": 4.13,
+  "statements_retrieved_at": "2026-11-10T00:30:42.251984",
   "retained_fields": []
 }

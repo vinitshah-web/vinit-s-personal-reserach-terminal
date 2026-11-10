@@ -5,14 +5,14 @@
   "industry": "Trucking",
   "business_summary": "VRL Logistics Limited operates as a logistics and transport company in India. The company offers services, such as truckload and full truck load, door-to door FTL service, door collection and door delivery; and provides courier services for time sensitive documents and packages. It also provides vehicles for outdoor branding. The company was formerly known as Vijayanand Roadlines Ltd. and changed its name to VRL Logistics Limited in August 2006. VRL Logistics Limited was founded in 1976 and is based in Hubli, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 5931.24,
-  "pe_ratio": 18.52,
+  "market_cap_cr": 5664.46,
+  "pe_ratio": 17.68,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
-  "book_value": 65.31,
+  "book_value": 75.73,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 17.4937,
-  "fifty_two_week_high": 348.0,
+  "fifty_two_week_high": 348.25,
   "fifty_two_week_low": 225.0,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:57:47.525146",
-  "provider_reported_pb_ratio": 5.19,
-  "statements_retrieved_at": "2026-11-06T22:57:47.525146",
+  "retrieval_time": "2026-11-10T00:46:45.803526",
+  "provider_reported_pb_ratio": 4.28,
+  "statements_retrieved_at": "2026-11-10T00:46:45.803526",
   "retained_fields": []
 }

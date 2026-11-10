@@ -5,7 +5,7 @@
   "industry": "Auto Manufacturers",
   "business_summary": "Ola Electric Mobility Limited develops, manufactures, and sells electric vehicles in India. It operates through the Automotive and Cell segments. The company provides electric scooters; and electric vehicle components, such as battery packs, motors and vehicle frames, and cells. It also operates charging stations and service centers. Ola Electric Mobility Limited was incorporated in 2017 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 16383.01,
+  "market_cap_cr": 16263.29,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:33:41.952397",
-  "provider_reported_pb_ratio": 4.52,
-  "statements_retrieved_at": "2026-11-06T22:33:41.952397",
+  "retrieval_time": "2026-11-10T00:22:14.265435",
+  "provider_reported_pb_ratio": 4.48,
+  "statements_retrieved_at": "2026-11-10T00:22:14.265435",
   "retained_fields": []
 }

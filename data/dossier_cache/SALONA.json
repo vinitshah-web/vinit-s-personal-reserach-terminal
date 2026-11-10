@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Salona Cotspin Limited engages in the manufacture and sale of cotton yarn, knitted fabrics, and garments in India and internationally. It offers ring spun, compact, open end, blend, melange, slub, organic, regenagri, recycle cotton, and contamination free yarn products. The company also provides grey, dyed, and printed fabrics, as well as single jersey, interlock/double knit, single/double rib, fleece 2/3 thread, french terry, and full/mini jacquard for knitwear apparels, clothing, work, and leisure wears. In addition, it operates windmills and solar power plants. The company also exports its products. Salona Cotspin Limited was incorporated in 1994 and is headquartered in Coimbatore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 138.03,
-  "pe_ratio": 60.3,
+  "market_cap_cr": 140.24,
+  "pe_ratio": 62.56,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 158.93,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:42:37.090674",
-  "provider_reported_pb_ratio": 1.65,
-  "statements_retrieved_at": "2026-11-06T22:42:37.090674",
+  "retrieval_time": "2026-11-10T00:31:21.181245",
+  "provider_reported_pb_ratio": 1.68,
+  "statements_retrieved_at": "2026-11-10T00:31:21.181245",
   "retained_fields": []
 }

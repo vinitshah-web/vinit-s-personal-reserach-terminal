@@ -5,8 +5,8 @@
   "industry": "Consulting Services",
   "business_summary": "SecMark Consultancy Limited, together with its subsidiaries, provides consulting, technology, and outsourcing services to financial market participants in the areas of compliance, operations, software development, risk management, and others. It offers E-KYC, trading and risk management, back office, PMLA, and compliance software; consulting services, such as setting up broking, DP, PMS, AIF, RA, IA, inspection assistance (SEBI, Exchange, DPs), compliance, risk and process reviews, consultancy for merchant bankers and listed companies, advising on SEBI, SAT, IGRC and arbitration matters; mobile and web trading, middleware and API suite, partner portal, back office solution, and PMLA and surveillance; outsourcing services, including pre-verification of regulatory submissions, KYC-process management, branch and authorised person (AP) inspection; and audit services comprising system audit, cyber resiliance, and virtual CISO. The company also provides ComplianceSutra, which centralises compliance for SEBI-regulated institutions through automated workflows; SmartReco, an enterprise grade reconciliation. It primarily serves brokerage houses, depository participants, stock exchanges, wealth managers, research analysts, corporate agents, portfolio managers, investment advisors, NBFCs, banks, etc. The company was incorporated in 2011 and is based in Mumbai, India. SecMark Consultancy Limited is a subsidiary of Secmark Holdings Private Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 164.94,
-  "pe_ratio": 68.09,
+  "market_cap_cr": 162.43,
+  "pe_ratio": 67.05,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 21.67,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:44:08.275050",
-  "provider_reported_pb_ratio": 6.94,
-  "statements_retrieved_at": "2026-11-06T22:44:08.275050",
+  "retrieval_time": "2026-11-10T00:32:53.932427",
+  "provider_reported_pb_ratio": 6.84,
+  "statements_retrieved_at": "2026-11-10T00:32:53.932427",
   "retained_fields": []
 }

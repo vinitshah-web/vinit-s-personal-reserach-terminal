@@ -5,8 +5,8 @@
   "industry": "Auto Manufacturers",
   "business_summary": "TVS Holdings Limited provides automotive vehicles and parts in India and internationally. It offers two and three-wheelers; and mobility solutions through a portfolio of e-bikes, e-cargo bikes, and matching accessories. The company also provides unsecured loans; financing services for two wheelers, used cars, used and new tractors, used commercial vehicles, and consumer durables; and digital finance products, gold and mid corporate loans, and personal loans. In addition, it is involved in the procurement, refurbishment, and retailing of the pre-owned multi-brand two-wheeler motorcycles and scooters through its own stores, as well as through its franchisee dealers; and trading of spare parts, accessories, and engine oils for two-wheelers. Further, the company offers digital / information technology and other related services; and solutions across auto tech and fintech platforms. Additionally, it engages in investment activities. The company was formerly known as Sundaram-Clayton Limited and changed its name to TVS Holdings Limited in July 2023. TVS Holdings Limited was incorporated in 1962 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 26265.32,
-  "pe_ratio": 12.15,
+  "market_cap_cr": 26042.76,
+  "pe_ratio": 12.04,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 3308.81,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:54:14.870198",
-  "provider_reported_pb_ratio": 3.92,
-  "statements_retrieved_at": "2026-11-06T22:54:14.870198",
+  "retrieval_time": "2026-11-10T00:43:09.698384",
+  "provider_reported_pb_ratio": 3.89,
+  "statements_retrieved_at": "2026-11-10T00:43:09.698384",
   "retained_fields": []
 }

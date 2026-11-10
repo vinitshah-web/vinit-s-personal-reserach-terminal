@@ -5,8 +5,8 @@
   "industry": "Capital Markets",
   "business_summary": "IIFL Capital Services Limited provides capital market services in the primary and secondary markets in India. The company offers an investment and trading platform for equities, commodities, currency, and margin trade funding; investment solutions, including equity, debt, alternative investment funds, insurance, and others; and equity, debt, commodities, and currency broking, as well as corporate access, research, depository participant services, and merchant banking. It also provides investment banking services consisting of initial public offerings, qualified institutional placement, right issues, preferential placement, follow-on public offer; and private equity advisory services, and mergers and acquisitions. In addition, the company distributes third-party financial products, such as mutual funds, insurance, portfolio management services, alternate investment funds, fixed income, and healthcare and wellness products. Further, it operates a mobile trading application under the IIFL Markets brand name. It also engages in business support services and management consultancy services; and non-banking financial company (NBFC) business activities. It serves institutional and non-institutional investors, foreign portfolio investors, private equity funds, mutual funds, insurance companies, pension funds, corporates, alternative investment funds, trusts, high net-worth and ultra-high net-worth individuals, and affluent investors. The company was formerly known as IIFL Securities Limited and changed its name to IIFL Capital Services Limited in November 2024. IIFL Capital Services Limited was incorporated in 1996 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 13036.18,
-  "pe_ratio": 18.8,
+  "market_cap_cr": 13056.68,
+  "pe_ratio": 18.83,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 111.07,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:16:16.031424",
+  "retrieval_time": "2026-11-10T00:04:40.066283",
   "provider_reported_pb_ratio": 3.15,
-  "statements_retrieved_at": "2026-11-06T22:16:16.031424",
+  "statements_retrieved_at": "2026-11-10T00:04:40.066283",
   "retained_fields": []
 }

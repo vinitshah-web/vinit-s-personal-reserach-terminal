@@ -5,8 +5,8 @@
   "industry": "Electronics & Computer Distribution",
   "business_summary": "Optiemus Infracom Limited, together with its subsidiaries, trades in mobile handset and mobile accessories in India and internationally. The company offers electronic products like mobile phones, hearables & wearables, telecom products, IOT devices, modules, PCBA, cameras, and other products, as well as trading and distribution of electronics goods and drones. It markets its products under Optisafe, Zen, Kult, and BlackBerry brand names. The company was formerly known as Akanksha Cellular Limited and changed its name to Optiemus Infracom Limited in June 2011. Optiemus Infracom Limited was incorporated in 1993 and is based in Noida, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 6733.18,
-  "pe_ratio": 91.74,
+  "market_cap_cr": 6706.13,
+  "pe_ratio": 85.39,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 103.06,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:34:09.549433",
-  "provider_reported_pb_ratio": 7.25,
-  "statements_retrieved_at": "2026-11-06T22:34:09.549433",
+  "retrieval_time": "2026-11-10T00:22:43.145915",
+  "provider_reported_pb_ratio": 7.22,
+  "statements_retrieved_at": "2026-11-10T00:22:43.145915",
   "retained_fields": []
 }

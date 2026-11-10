@@ -5,8 +5,8 @@
   "industry": "Integrated Freight & Logistics",
   "business_summary": "Sical Logistics Limited provides integrated logistics solutions in India. The company offers port and terminal handling, stockyard management, road and rail transport, shipping and custom house agency, stevedoring, customs handling, trucking, overburden removal and coal transportation, container freight station operation, warehousing and distribution, and dredging services. It also provides retail, mining, bulk and container cargo, and rail logistics; coal mining development and operations; coastal shipping; and retail supply chain services. The company serves the electrical and electronic, paint, renewable energy, pharmaceutical, construction, and beverage industries. Sical Logistics Limited was incorporated in 1955 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 608.52,
-  "pe_ratio": 8.62,
+  "market_cap_cr": 620.33,
+  "pe_ratio": 8.79,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 21.23,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:46:23.727038",
-  "provider_reported_pb_ratio": 3.59,
-  "statements_retrieved_at": "2026-11-06T22:46:23.727038",
+  "retrieval_time": "2026-11-10T00:35:09.113367",
+  "provider_reported_pb_ratio": 3.66,
+  "statements_retrieved_at": "2026-11-10T00:35:09.113367",
   "retained_fields": []
 }

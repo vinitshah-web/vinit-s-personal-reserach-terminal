@@ -5,8 +5,8 @@
   "industry": "Department Stores",
   "business_summary": "Osia Hyper Retail Limited operates a supermarket chain under the Osia Hypermart name in India. The company's store products include menswear, women's wear, kid's wear, footwear, cosmetics, perfumes and handbags, bags and luggages, household accessories, lingerie, gifts, FMCG products, crockery, handicrafts, utensils, and handlooms, as well as grocery products, fruits, and vegetables. The company was formerly known as Mapple Exim Limited and changed its name to Osia Hyper Retail Limited in September 2017. Osia Hyper Retail Limited was incorporated in 2013 and is headquartered in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 34.23,
-  "pe_ratio": 1.52,
+  "market_cap_cr": 32.91,
+  "pe_ratio": 1.46,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 24.54,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:34:39.886740",
+  "retrieval_time": "2026-11-10T00:23:14.311949",
   "provider_reported_pb_ratio": 0.08,
-  "statements_retrieved_at": "2026-11-06T22:34:39.886740",
+  "statements_retrieved_at": "2026-11-10T00:23:14.311949",
   "retained_fields": []
 }

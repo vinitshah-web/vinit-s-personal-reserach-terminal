@@ -5,8 +5,8 @@
   "industry": "Medical Instruments & Supplies",
   "business_summary": "QMS Medical Allied Services Limited distributes medical and healthcare products in India. The company also offers BP monitors, stethoscopes, surgical sterilization kits, BMI scales, and orthotics, as well as Q-Devices; and point-of-care testing devices, rapid diagnostic kits, and in-clinic multipara devices. It also operates QMSMEDS, an e-commerce platform that sells healthcare devices of various brands. In addition, the company provides patient support solutions, including tele counselling, in clinic activation, advanced respiratory screening programs, orthopedic screening and wellness programs, disease management, and home care solutions; and patient screening camps for diabetes, cardiology, orthopedic, respiratory screening, gynaecology, gastroenterology, ophthalmic, and dietitian camp. Further, it offers Educamedics, which provides customized scientific content in the form of conferences, online courses, webinars, recorded lectures, and others; and digital and brand services. It also provides disease management programs and customized healthcare solutions, including patient support and technology-driven marketing services for the healthcare sector. QMS Medical Allied Services Limited was founded in 1994 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 326.15,
-  "pe_ratio": 28.63,
+  "market_cap_cr": 329.28,
+  "pe_ratio": 28.91,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 29.67,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:38:41.428225",
-  "provider_reported_pb_ratio": 5.68,
-  "statements_retrieved_at": "2026-11-06T22:38:41.428225",
+  "retrieval_time": "2026-11-10T00:27:22.897292",
+  "provider_reported_pb_ratio": 5.74,
+  "statements_retrieved_at": "2026-11-10T00:27:22.897292",
   "retained_fields": []
 }

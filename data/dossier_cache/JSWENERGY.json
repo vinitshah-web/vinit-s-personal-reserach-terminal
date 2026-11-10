@@ -5,8 +5,8 @@
   "industry": "Utilities - Independent Power Producers",
   "business_summary": "JSW Energy Limited generates and sells power in India. It has a power generation capacity of 10,875 MW, which includes 5,658MW of thermal, 1,391 MW of hydro, 1,671 of Wind, and 680 MW of solar. The company has operations in the States of Karnataka, Punjab, Maharashtra, Tamil Nadu, Himachal Pradesh, Odisha, Andhra Pradesh, Telangana, Madhya Pradesh, Chhattisgarh, Gujarat, and Rajasthan. The company engages in power transmission and trading activities; and coal mining in South Africa. JSW Energy Limited was incorporated in 1994 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 96223.96,
-  "pe_ratio": 41.33,
+  "market_cap_cr": 95894.02,
+  "pe_ratio": 41.13,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 200.51,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:20:00.983081",
-  "provider_reported_pb_ratio": 2.62,
-  "statements_retrieved_at": "2026-11-06T22:20:00.983081",
+  "retrieval_time": "2026-11-10T00:08:23.907902",
+  "provider_reported_pb_ratio": 2.61,
+  "statements_retrieved_at": "2026-11-10T00:08:23.907902",
   "retained_fields": []
 }

@@ -5,14 +5,14 @@
   "industry": "Medical Care Facilities",
   "business_summary": "Max India Limited provides services related to senior living communities in India. It operates through four segments: Business Investments, Senior Living, Assisted Care, and Others. The company engages in treasury investments and property rental businesses. It also constructs, operates, and/or maintains senior living communities. In addition, the company caters to the seniors by providing care at home services and care homes facilities, as well as offers Antara AGEasy, a new-age holistic direct to consumer platform that helps seniors manage common chronic conditions. Further, it offers daily living/specialized care/memory care services for seniors; and management and consultancy and shared services. Additionally, the company engages in the learning and development activities; leasing of senior living communities; and management of investments activities. The company was formerly known as Advaita Allied Health Services Limited. Max India Limited was incorporated in 2019 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 831.69,
+  "market_cap_cr": 841.32,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 77.74,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 5.6321,
-  "fifty_two_week_high": 215.0,
+  "fifty_two_week_high": 214.5,
   "fifty_two_week_low": 120.0,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:26:49.095041",
-  "provider_reported_pb_ratio": 1.9,
-  "statements_retrieved_at": "2026-11-06T22:26:49.095041",
+  "retrieval_time": "2026-11-10T00:15:17.453071",
+  "provider_reported_pb_ratio": 1.92,
+  "statements_retrieved_at": "2026-11-10T00:15:17.453071",
   "retained_fields": []
 }

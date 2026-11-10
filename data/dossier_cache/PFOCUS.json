@@ -5,8 +5,8 @@
   "industry": "Entertainment",
   "business_summary": "Prime Focus Limited, together with its subsidiaries, provides integrated media services in India, the United Kingdom, the United States, Canada, Australia, and internationally. The company engages in the motion picture, video, and television programme post-production activities; and business support activities. It also offers creative services, including visual effects, advertising, stereo 2D to 3D conversion, and feature and TV animation; equipment rental services; and post-production services, such as digital intermediate/color grading, audio, and picture post services in the media and entertainment industry. In addition, the company is involved in film investment activities; and provision of digital asset management, music production, content restoration, technology and software, technical, and visual special effects services; as well as operates a training institute. Further, it engages in leasing and renting of real estate properties and allied services. The company offers its services to Hollywood studios, Over-The-Top providers, broadcasters, advertisers, and production houses. The company was incorporated in 1997 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 22210.63,
-  "pe_ratio": 160.22,
+  "market_cap_cr": 21774.52,
+  "pe_ratio": 157.08,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 26.88,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:35:56.606013",
-  "provider_reported_pb_ratio": 10.61,
-  "statements_retrieved_at": "2026-11-06T22:35:56.606013",
+  "retrieval_time": "2026-11-10T00:24:32.279285",
+  "provider_reported_pb_ratio": 10.4,
+  "statements_retrieved_at": "2026-11-10T00:24:32.279285",
   "retained_fields": []
 }

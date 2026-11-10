@@ -5,8 +5,8 @@
   "industry": "Publishing",
   "business_summary": "S Chand And Company Limited, an education content company, engages in the publishing of books in India. The company publishes a range of books, including school, higher academic, competition and reference, technical and professional, and children's books. Its digital offerings include S Chand Academy, which includes videos focused on test preparation and higher education; TestCoach, a platform comprising CUET coaching and mock tests that cater to CUET exam preparation; Mylestone, a digitally enabled school curriculum solution for the K-8 segment; Madhubun Educate360, a blended learning solution; SmartK, a preschool solution for children aged 2.5 to 6 years that include play and activity-based learning; and Solid Steps, a K-5 curriculum program offered in a range of Indian languages, such as Hindi, Kannada, Telugu, and Malayalam. In addition, the company exports its printed content to approximately 20 countries and digital content to five countries in South Asia, the Middle East, Africa, and internationally. S Chand And Company Limited was founded in 1939 and is headquartered in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 466.58,
-  "pe_ratio": 6.54,
+  "market_cap_cr": 452.61,
+  "pe_ratio": 6.34,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 298.84,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:43:54.491802",
-  "provider_reported_pb_ratio": 0.44,
-  "statements_retrieved_at": "2026-11-06T22:43:54.491802",
+  "retrieval_time": "2026-11-10T00:32:40.374983",
+  "provider_reported_pb_ratio": 0.43,
+  "statements_retrieved_at": "2026-11-10T00:32:40.374983",
   "retained_fields": []
 }

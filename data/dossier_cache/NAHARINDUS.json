@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Nahar Industrial Enterprises Limited engages in the textile and sugar business in India. The company operates through Textile, Sugar, and Others segments. It offers woven fabrics, yarns, garments, knit wear, garments, poly films, and other products. The company was formerly known as Oswal Fats & Oils Limited and changed its name to Nahar Industrial Enterprises Limited in 1994. Nahar Industrial Enterprises Limited was incorporated in 1983 and is based in Ludhiana, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 519.59,
-  "pe_ratio": 7.19,
+  "market_cap_cr": 533.59,
+  "pe_ratio": 7.39,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 241.42,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:30:47.813358",
-  "provider_reported_pb_ratio": 0.5,
-  "statements_retrieved_at": "2026-11-06T22:30:47.813358",
+  "retrieval_time": "2026-11-10T00:19:17.128482",
+  "provider_reported_pb_ratio": 0.51,
+  "statements_retrieved_at": "2026-11-10T00:19:17.128482",
   "retained_fields": []
 }

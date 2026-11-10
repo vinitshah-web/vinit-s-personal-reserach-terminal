@@ -5,8 +5,8 @@
   "industry": "Software - Application",
   "business_summary": "Moneyview Limited engages in the design, development, production, and distribution of various financial products in India. The company operates Moneyview, a financial service platform. Its platform offers personal, business, home, transfer home, and transfer property loans, as well as loans against property and credit cards; 24K gold and FD select; vehicle insurance; credit tracker; and UPI payment services. Moneyview Limited was incorporated in 2014 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 9672.47,
-  "pe_ratio": 27.75,
+  "market_cap_cr": 9065.19,
+  "pe_ratio": 17.76,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 63.14,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:29:27.382904",
-  "provider_reported_pb_ratio": 0.87,
-  "statements_retrieved_at": "2026-11-06T22:29:27.382904",
+  "retrieval_time": "2026-11-10T00:17:55.780450",
+  "provider_reported_pb_ratio": 0.82,
+  "statements_retrieved_at": "2026-11-10T00:17:55.780450",
   "retained_fields": []
 }

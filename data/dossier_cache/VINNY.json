@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Vinny Overseas Limited engages in the manufacture and processing of textile fabrics in India. The company provides denims, PV and PC blended, rayon, and cotton fabrics, as well as polyester clothing, home furnishings, industrial fabrics, computer and recording tapes, and electrical insulation. It also manufactures and trades cloth and sublimation paper. The company was incorporated in 1992 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 46.06,
-  "pe_ratio": 49.5,
+  "market_cap_cr": 45.59,
+  "pe_ratio": 49.0,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 1.98,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:56:50.616906",
+  "retrieval_time": "2026-11-10T00:45:48.355929",
   "provider_reported_pb_ratio": 0.5,
-  "statements_retrieved_at": "2026-11-06T22:56:50.616906",
+  "statements_retrieved_at": "2026-11-10T00:45:48.355929",
   "retained_fields": []
 }

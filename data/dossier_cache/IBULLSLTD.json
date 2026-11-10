@@ -5,8 +5,8 @@
   "industry": "Real Estate - Development",
   "business_summary": "Indiabulls Limited, together with its subsidiaries, engages in the in financial services and digital platforms business in India. The company engages in real estate development, stock broking, asset reconstruction, digital payments and financial services, and equipment leasing. The company was formerly known as Yaari Digital Integrated Services Limited and changed its name to Indiabulls Limited in October 2025. Indiabulls Limited was incorporated in 2007 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 6735.73,
-  "pe_ratio": 15.82,
+  "market_cap_cr": 6831.33,
+  "pe_ratio": 16.05,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 16.3,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:15:37.842084",
-  "provider_reported_pb_ratio": 1.82,
-  "statements_retrieved_at": "2026-11-06T22:15:37.842084",
+  "retrieval_time": "2026-11-10T00:04:02.409536",
+  "provider_reported_pb_ratio": 1.84,
+  "statements_retrieved_at": "2026-11-10T00:04:02.409536",
   "retained_fields": []
 }

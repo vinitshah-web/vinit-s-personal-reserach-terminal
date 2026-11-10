@@ -5,14 +5,14 @@
   "industry": "Footwear & Accessories",
   "business_summary": "Khadim India Limited retails footwear and accessories in India and internationally. The company offers a range of footwear and accessories for men, women, and children including formal, casual, sports, school, sandals and floaters, slippers and flip-flops, flats, and heels; accessories that include backpack, crossbody bag, handbag, laptop bag, portfolio bag, school and sling bags, wallet, and belt; athleisure, such as t-shirt, shorts, and track pants; and leather products. It offers its products under the Khadim, British Walkers, Lazard, Turk, Pro, Sharon, Cleo, Waves, Softouch, Adrianna, Pedro, and Bonito brand names. The company also sells its products through e-commerce platform and online marketplaces. The company was formerly known as Khadim Chain Stores Limited and changed its name to Khadim India Limited in August 2005. Khadim India Limited was incorporated in 1981 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 225.56,
-  "pe_ratio": 81.28,
+  "market_cap_cr": 226.48,
+  "pe_ratio": 81.61,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
-  "book_value": 90.87,
+  "book_value": 90.81,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.8378,
-  "fifty_two_week_high": 243.47,
+  "fifty_two_week_high": 242.0,
   "fifty_two_week_low": 77.47,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:21:26.447845",
-  "provider_reported_pb_ratio": 1.35,
-  "statements_retrieved_at": "2026-11-06T22:21:26.447845",
+  "retrieval_time": "2026-11-10T00:09:51.195420",
+  "provider_reported_pb_ratio": 1.36,
+  "statements_retrieved_at": "2026-11-10T00:09:51.195420",
   "retained_fields": []
 }

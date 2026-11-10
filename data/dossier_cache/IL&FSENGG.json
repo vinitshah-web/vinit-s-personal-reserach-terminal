@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "IL&FS Engineering and Construction Company Limited, together with its subsidiaries, engages in the construction and infrastructure development, and project management businesses in India. The company develops and constructs roads and bridges, railways, expressways, and highways; residential buildings, commercial buildings, industrial structures, and hospital buildings; irrigation canals and dams; and thermal and hydel power projects. It also develops ports involving construction of berths, breakwaters, jetties, marine structures, and cargo handling facilities, as well as land for setting up port-based industries; and constructs terminal buildings, runways, aprons, parking bays, hangers, and other structures for the airport sector. In addition, the company constructs rail and rail-based systems; seaports; oil and gas pipelines and storage tank terminals; refineries and petro chemicals; water and water treatment plants; power generation, transmission, and distribution projects; and industrial construction projects. It serves power, oil and gas, roads, railways and metros, water and irrigations, ports, and buildings and structures sectors. The company was formerly known as Maytas Infra Limited and changed its name to IL&FS Engineering and Construction Company Limited in January 2011. IL&FS Engineering and Construction Company Limited was incorporated in 1988 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 520.55,
-  "pe_ratio": 49.01,
+  "market_cap_cr": 513.34,
+  "pe_ratio": 48.33,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": -243.28,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:16:22.652845",
+  "retrieval_time": "2026-11-10T00:04:46.960400",
   "provider_reported_pb_ratio": -0.16,
-  "statements_retrieved_at": "2026-11-06T22:16:22.652845",
+  "statements_retrieved_at": "2026-11-10T00:04:46.960400",
   "retained_fields": []
 }

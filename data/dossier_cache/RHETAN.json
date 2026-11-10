@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "Rhetan TMT Limited engages in the manufacture and sale of thermo-mechanically treated (TMT) bars in India. The company offers TMT bars are used in building homes, multi-storeyed, bridges, flyovers, and other civil engineering structures, as well as construction industry; and round bars for use in engineering component, forging industry, foundation bolts, and shafting products. Rhetan TMT Limited was incorporated in 1984 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1037.53,
-  "pe_ratio": 76.59,
+  "market_cap_cr": 1043.91,
+  "pe_ratio": 77.06,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 1.36,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:40:34.471503",
-  "provider_reported_pb_ratio": 9.55,
-  "statements_retrieved_at": "2026-11-06T22:40:34.471503",
+  "retrieval_time": "2026-11-10T00:29:16.988190",
+  "provider_reported_pb_ratio": 9.61,
+  "statements_retrieved_at": "2026-11-10T00:29:16.988190",
   "retained_fields": []
 }

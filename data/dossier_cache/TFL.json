@@ -5,7 +5,7 @@
   "industry": "Mortgage Finance",
   "business_summary": "Transwarranty Finance Limited, a non-banking finance company, provides financial services in India. The company offers advisory services like investment banking, corporate finance, project finance, trade finance, and provides business and retail loans digitally both secured and unsecured. It serves small, medium, and large companies, as well as retail clients. Transwarranty Finance Limited was incorporated in 1994 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 62.28,
+  "market_cap_cr": 62.83,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:52:28.541574",
-  "provider_reported_pb_ratio": 2.21,
-  "statements_retrieved_at": "2026-11-06T22:52:28.541574",
+  "retrieval_time": "2026-11-10T00:41:19.695159",
+  "provider_reported_pb_ratio": 2.23,
+  "statements_retrieved_at": "2026-11-10T00:41:19.695159",
   "retained_fields": []
 }

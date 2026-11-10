@@ -5,8 +5,8 @@
   "industry": "Real Estate - Development",
   "business_summary": "Thakkers Developers Limited, together with its subsidiaries, operates as a real estate and construction company in India. It operates through Construction and Contract Related Activity, and Estate Dealing and Development Activity segments. The company is involved in various activities, such as plots/land development, commercial construction, residential, and agricultural. Thakkers Developers Limited was founded in 1962 and is based in Nashik, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 120.6,
-  "pe_ratio": 8.83,
+  "market_cap_cr": 120.78,
+  "pe_ratio": 8.84,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 184.89,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:52:34.917946",
-  "provider_reported_pb_ratio": 0.72,
-  "statements_retrieved_at": "2026-11-06T22:52:34.917946",
+  "retrieval_time": "2026-11-10T00:41:26.145840",
+  "provider_reported_pb_ratio": 0.73,
+  "statements_retrieved_at": "2026-11-10T00:41:26.145840",
   "retained_fields": []
 }

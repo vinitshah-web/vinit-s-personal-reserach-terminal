@@ -5,15 +5,15 @@
   "industry": "Auto Parts",
   "business_summary": "Lumax Industries Limited manufactures and sells automotive components for in India. The company offers automotive lighting systems, including LED light, headlamps, tail lamps, fog lamps, turn indicators, and auxiliary lamps, LED modules, HVAC control panels, as well as electronic components. It serves passenger cars, commercial vehicles, four-wheelers, two-wheelers, and tractors in farm equipment segment catering to original equipment manufacturers. Lumax Industries Limited was founded in 1945 and is headquartered in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 5082.27,
-  "pe_ratio": 24.95,
+  "market_cap_cr": 5121.62,
+  "pe_ratio": 25.14,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 1037.34,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 0.9348,
   "fifty_two_week_high": 6934.5,
-  "fifty_two_week_low": 4480.0,
+  "fifty_two_week_low": 4507.2,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:25:01.827149",
-  "provider_reported_pb_ratio": 5.24,
-  "statements_retrieved_at": "2026-11-06T22:25:01.827149",
+  "retrieval_time": "2026-11-10T00:13:29.581005",
+  "provider_reported_pb_ratio": 5.28,
+  "statements_retrieved_at": "2026-11-10T00:13:29.581005",
   "retained_fields": []
 }

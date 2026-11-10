@@ -5,7 +5,7 @@
   "industry": "Infrastructure Operations",
   "business_summary": "Atlantaa Limited, together with its subsidiaries, engages in the construction business in India. The company undertakes development of highways, expressways, and arterial roads, as well as railway projects; and constructing airport infrastructures. It is also involved in Infrastructure development; engineering, procurement and construction (EPC) contracts; public, private partnership (PPP Model on build operate and transfer (BOT) and design, build, finance, operate and transfer (DBFOT) basis; and infrastructure development activities, such as inter-alia, construction of road, bridges, and runways. In addition, the company engages in the real estate development comprising residential, retail, and commercial. The company was formerly known as Atlanta Limited and changed its name to Atlantaa Limited in September 2023. Atlantaa Limited was incorporated in 1984 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 286.55,
+  "market_cap_cr": 289.0,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T21:53:02.013662",
-  "provider_reported_pb_ratio": 1.3,
-  "statements_retrieved_at": "2026-11-06T21:53:02.013662",
+  "retrieval_time": "2026-11-09T23:42:01.224293",
+  "provider_reported_pb_ratio": 1.31,
+  "statements_retrieved_at": "2026-11-09T23:42:01.224293",
   "retained_fields": []
 }

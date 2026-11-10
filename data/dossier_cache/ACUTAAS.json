@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Acutaas Chemicals Limited engages in the research and development, manufacture, and sale of pharmaceutical intermediates in India and internationally. The company offers pharma intermediates for use in regulated and generic active pharmaceutical ingredients, as well as new chemical entities. It also provides specialty chemicals, including photoresist chemicals for semiconductor applications; electrolyte additives for lithium battery cells; and parabens, methyl salicylate, and other commodity chemicals for cosmetics, agrochemicals, and fine chemicals. The company was formerly known as Ami Organics Limited and changed its name to Acutaas Chemicals Limited in May 2025. Acutaas Chemicals Limited was founded in 2004 and is based in Surat, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 31001.32,
-  "pe_ratio": 70.88,
+  "market_cap_cr": 31787.28,
+  "pe_ratio": 72.68,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 226.9,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T21:48:01.721591",
-  "provider_reported_pb_ratio": 16.69,
-  "statements_retrieved_at": "2026-11-06T21:48:01.721591",
+  "retrieval_time": "2026-11-09T23:36:59.090606",
+  "provider_reported_pb_ratio": 17.11,
+  "statements_retrieved_at": "2026-11-09T23:36:59.090606",
   "retained_fields": []
 }

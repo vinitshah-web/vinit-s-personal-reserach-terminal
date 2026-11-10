@@ -5,7 +5,7 @@
   "industry": "Aluminum",
   "business_summary": "Belding India Limited engages in engineering, manufacturing, and technology-led infrastructure solutions services in India. It operates through EPC projects, Battery Energy Storage Systems (BESS), Edge Data Centres, Integrated Engineering Solutions, Advanced Manufacturing, and Security Solutions. The company provides end-to-end EPC solutions for data centres, industrial infrastructure and integrated solar farm projects, covering engineering, design, procurement, construction, commissioning and project management; design, engineers, manufactures, installs, tests, commissions and lifecycle management of BESS supported by warranty and maintenance solutions; develops and deliver brick-and-mortar as well as prefabricated and containerised edge data centre solutions; precision engineered equipment, integrated engineering systems and critical industrial components. In addition, it also offers X-ray inspection and security screening systems, including baggage, cargo and vehicle scanners, under-vehicle surveillance systems and other intelligent security screening solutions. The company was formerly known as Synthiko Foils Limited and changed its name to Belding India Limited in February 2026. Belding India Limited was incorporated in 1984 and is based in Pune, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1187.34,
+  "market_cap_cr": 1096.7,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -13,7 +13,7 @@
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.4479,
   "fifty_two_week_high": 1008.0,
-  "fifty_two_week_low": 751.0,
+  "fifty_two_week_low": 738.55,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T21:55:35.328534",
-  "provider_reported_pb_ratio": 1.13,
-  "statements_retrieved_at": "2026-11-06T21:55:35.328534",
+  "retrieval_time": "2026-11-09T23:44:35.897332",
+  "provider_reported_pb_ratio": 1.05,
+  "statements_retrieved_at": "2026-11-09T23:44:35.897332",
   "retained_fields": []
 }

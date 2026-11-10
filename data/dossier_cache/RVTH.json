@@ -5,14 +5,14 @@
   "industry": "Farm & Heavy Construction Machinery",
   "business_summary": "Revathi Equipment India Limited engages in manufacturing and sales of drilling rigs and spares thereof for mining, drilling exploratory rigs, track drills for construction, and allied products in India and internationally. The company offers blast hole drills, including rotary and down the hole; and diesel/electric application for mining activities; and jackless drills for construction and mining applications, water well drills, hydro-fracturing units, and exploratory drills. It also provides spare parts and after-sales services. The company was incorporated in 1977 and is headquartered in Coimbatore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 205.49,
-  "pe_ratio": 13.43,
+  "market_cap_cr": 203.8,
+  "pe_ratio": 13.28,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 458.14,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 0.3067,
-  "fifty_two_week_high": 903.45,
+  "fifty_two_week_high": 880.25,
   "fifty_two_week_low": 491.1,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:41:57.808227",
-  "provider_reported_pb_ratio": 1.46,
-  "statements_retrieved_at": "2026-11-06T22:41:57.808227",
+  "retrieval_time": "2026-11-10T00:30:40.903016",
+  "provider_reported_pb_ratio": 1.45,
+  "statements_retrieved_at": "2026-11-10T00:30:40.903016",
   "retained_fields": []
 }

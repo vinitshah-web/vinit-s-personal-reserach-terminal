@@ -5,14 +5,14 @@
   "industry": "Furnishings, Fixtures & Appliances",
   "business_summary": "Airo Lam Limited engages in the production, processing, and marketing of decorative laminate sheets and plywood in India. The company offers decorative laminates, decorative postforming, I Lam, I lite, color code laminates, and classico products; specialty laminates, including anti fingerprint, dura gloss pro, chalk grade, marker grade, synchronized, metallic, flicker, and digital laminates; and performance laminates, such as electrostatic dissipative, fire retardant, chemical resistant, and magnetic laminates. It also provides exterior and interior wall cladding, and restroom and cubicle laminates; plywood, blockboards, and flush door airoply products; gloss and matte acrylic panels; and matte finish products. The company sells its products through a network of distributors and dealers. It exports its products to Singapore, Malaysia, the United States, the United Kingdom, Kuwait, Bangladesh, Saudi Arabia, Sri Lanka, Thailand, Qatar, the United Arab Emirates, Syria, Iran, Egypt, Nepal, and Vietnam. Airo Lam Limited was incorporated in 2007 and is based in Prantij, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 161.29,
-  "pe_ratio": 30.72,
+  "market_cap_cr": 159.32,
+  "pe_ratio": 30.34,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 52.38,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.5002,
-  "fifty_two_week_high": 114.8,
+  "fifty_two_week_high": 123.77,
   "fifty_two_week_low": 78.0,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T21:49:15.963868",
-  "provider_reported_pb_ratio": 2.05,
-  "statements_retrieved_at": "2026-11-06T21:49:15.963868",
+  "retrieval_time": "2026-11-09T23:38:15.811661",
+  "provider_reported_pb_ratio": 2.03,
+  "statements_retrieved_at": "2026-11-09T23:38:15.811661",
   "retained_fields": []
 }

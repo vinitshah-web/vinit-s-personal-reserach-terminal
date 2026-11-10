@@ -5,15 +5,15 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Anupam Rasayan India Ltd engages in the custom synthesis and manufacturing of specialty chemicals in India, Europe, Japan, Singapore, China, North America, and internationally. It operates through two segments, Life Science related Specialty Chemicals and Performance Material. The company offers life science related specialty chemicals, such as agro intermediates and agro active ingredients for the agrochemicals industry; anti-bacterial and ultraviolet protection intermediates and ingredients for the personal care industry; and intermediates and key starting materials for active pharmaceutical ingredients. It provides specialty monomers, ionomers, and oligomers for defence, aerospace, and semiconductors applications; niche molecules for the electronic ecosystem; and materials for backend and frontend semiconductor processes, including battery chemicals. The company was incorporated in 1984 and is headquartered in Surat, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 13265.78,
-  "pe_ratio": 75.76,
+  "market_cap_cr": 13642.63,
+  "pe_ratio": 66.76,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
-  "book_value": 293.12,
+  "book_value": 290.02,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 11.385,
   "fifty_two_week_high": 1415.0,
-  "fifty_two_week_low": 1053.6,
+  "fifty_two_week_low": 1059.1,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T21:50:56.972225",
-  "provider_reported_pb_ratio": 3.98,
-  "statements_retrieved_at": "2026-11-06T21:50:56.972225",
+  "retrieval_time": "2026-11-09T23:39:57.155637",
+  "provider_reported_pb_ratio": 4.13,
+  "statements_retrieved_at": "2026-11-09T23:39:57.155637",
   "retained_fields": []
 }

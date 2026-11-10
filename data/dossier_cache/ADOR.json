@@ -5,8 +5,8 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "Ador Welding Limited manufactures and supplies welding equipment, consumables, and automation solutions in India and internationally. The company operates in two segments, Welding, and Flares & Process Equipment. It provides welding electrodes, including C-Mn steel, low alloy and stainless steel, cellulosic, hardfacing, gouging and cutting, cast iron, and nickel and nickel alloys; and wires and fluxes comprising submerged, metal-cored, gas metal, gas tungsten, and flux cored Arc welding products; and bare and coated brazing rods, and brazing fluxes. The company also offers welding equipment, such as MMA, TIG, MIG, advanced multipurpose synergic, submerged Arc welding, and air plasma cutting equipment, as well as TIG add-on units; safety welding products; and gas cutting products, and CNC cutting and hypertherm plasma cutting machines. In addition, it engages in the design, manufacture, erection, commissioning, mechanical, electrical, and instrumentation of process packages, process equipment, and flare system and components, as well as undertaking various EPC contracts. Further, the company provides welding and cutting automation products, such as robotic systems, columns, booms, positioners, rotators, and special purpose machines; and skill development services. It serves manufacturing and fabrication, infrastructure and construction, oil and gas, shipbuilding and marine, automotive and transportation, railways and heavy engineering, and defense and aerospace sectors, as well as power generation sectors, including thermal, hydro, and renewable energy. The company was formerly known as Advani-Oerlikon Limited and changed its name to Ador Welding Limited in September 2003. The company was incorporated in 1951 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2461.45,
-  "pe_ratio": 21.37,
+  "market_cap_cr": 2518.19,
+  "pe_ratio": 21.86,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 327.31,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T21:48:15.181800",
-  "provider_reported_pb_ratio": 4.32,
-  "statements_retrieved_at": "2026-11-06T21:48:15.181800",
+  "retrieval_time": "2026-11-09T23:37:13.333602",
+  "provider_reported_pb_ratio": 4.42,
+  "statements_retrieved_at": "2026-11-09T23:37:13.333602",
   "retained_fields": []
 }

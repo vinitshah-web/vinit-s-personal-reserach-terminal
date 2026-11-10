@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "Mukand Limited engages in the manufacture and sale of alloy and stainless steel products in India and internationally. It operates through the Steel, Industrial Machinery and Engineering Contracts, and Others segments. The Steel segment offers billets, blooms, rounds, wire rods, bars, rods and sections, and bright bars, as well as wires of special and alloy, and stainless steel. Its Industrial Machinery and Engineering Contracts segment provides EOT and other cranes, steel structural, material handling equipment, and processing plant and equipment. The Others segment is involved in the road construction, property development, and non-banking financial activities. The company also provides engineering services, including design, procurement, project management, construction, and commissioning services. It serves the agriculture, automotive, construction, power generation, petrochemical, heavy equipment, infrastructure, and transportation industries, as well as the steel, power, decontamination, cement, hydrocarbon, defense, and non-ferrous industries. The company was formerly known as Mukand Iron & Steel Works Limited and changed its name to Mukand Limited in March 1989. Mukand Limited was incorporated in 1937 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2152.69,
-  "pe_ratio": 3.4,
+  "market_cap_cr": 2133.33,
+  "pe_ratio": 3.37,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 105.36,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:30:21.578619",
-  "provider_reported_pb_ratio": 1.41,
-  "statements_retrieved_at": "2026-11-06T22:30:21.578619",
+  "retrieval_time": "2026-11-10T00:18:50.500191",
+  "provider_reported_pb_ratio": 1.4,
+  "statements_retrieved_at": "2026-11-10T00:18:50.500191",
   "retained_fields": []
 }

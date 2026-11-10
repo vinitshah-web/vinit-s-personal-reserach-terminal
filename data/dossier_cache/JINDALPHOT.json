@@ -5,7 +5,7 @@
   "industry": "Asset Management",
   "business_summary": "Jindal Photo Limited operates as an investment company in India. The company engages in the business of holding strategic investment in the shares and securities of group companies. It also provides management consultancy services. Jindal Photo Limited was incorporated in 2004 and is headquartered in New Delhi, India. Jindal Photo Limited operates as a subsidiary of Concatenate Power Advest Private Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 1137.87,
+  "market_cap_cr": 1140.14,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:19:22.088937",
+  "retrieval_time": "2026-11-10T00:07:44.493897",
   "provider_reported_pb_ratio": 1.11,
-  "statements_retrieved_at": "2026-11-06T22:19:22.088937",
+  "statements_retrieved_at": "2026-11-10T00:07:44.493897",
   "retained_fields": []
 }

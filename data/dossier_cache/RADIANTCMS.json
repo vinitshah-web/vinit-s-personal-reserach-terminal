@@ -5,8 +5,8 @@
   "industry": "Specialty Business Services",
   "business_summary": "Radiant Cash Management Services Limited engages in the provision of cash logistics and other related services in India. The company offers cash pick-up and delivery, network currency management, cash processing, cash vans/cash-in-transit services, technology & digital solutions, fintech & financial inclusion, as well as other value-added services. It also provides Radiant Insta Credit App, a platform that offers instant credit services. The company serves restaurants, auto parts suppliers, jewelry stores, electronics retailers, petrol pumps, furniture stores, supermarkets, salons, sports goods retailers, footwear retailers, pharmacies, diagnostics/labs, hospitals, caf\u00e9s, sweet shops, banks, NBFCs, microfinance institutions, logistics companies, e-commerce businesses, apparel and lifestyle retailers, grocery stores, auto service stations, retail stores, MSME businesses, and cinemas. Radiant Cash Management Services Limited was incorporated in 2005 and is headquartered in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 356.4,
-  "pe_ratio": 11.36,
+  "market_cap_cr": 365.26,
+  "pe_ratio": 11.64,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 25.96,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:39:02.522561",
-  "provider_reported_pb_ratio": 1.29,
-  "statements_retrieved_at": "2026-11-06T22:39:02.522561",
+  "retrieval_time": "2026-11-10T00:27:44.710003",
+  "provider_reported_pb_ratio": 1.32,
+  "statements_retrieved_at": "2026-11-10T00:27:44.710003",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Financial Data & Stock Exchanges",
   "business_summary": "BSE Limited, together with its subsidiaries, provides a platform for the listing and trading of equity, debt instruments, currencies, commodities, derivatives, mutual funds, and small and medium enterprise securities in India and internationally. The company provides clearing and settlement, IT support, training, and stock exchange and index services, as well as engages in the corporate social responsibility activities. It also offers market data, risk management, data feeds, and investor education services, as well as operates as an intermediary for trading in overseas exchanges. The company was formerly known as Bombay Stock Exchange Limited and changed its name to BSE Limited in July 2011. BSE Limited was founded in 1875 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 154329.05,
-  "pe_ratio": 50.79,
+  "market_cap_cr": 155003.23,
+  "pe_ratio": 51.01,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 224.17,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T21:57:35.096342",
-  "provider_reported_pb_ratio": 16.95,
-  "statements_retrieved_at": "2026-11-06T21:57:35.096342",
+  "retrieval_time": "2026-11-09T23:46:38.656616",
+  "provider_reported_pb_ratio": 17.03,
+  "statements_retrieved_at": "2026-11-09T23:46:38.656616",
   "retained_fields": []
 }

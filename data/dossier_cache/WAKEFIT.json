@@ -5,8 +5,8 @@
   "industry": "Furnishings, Fixtures & Appliances",
   "business_summary": "Wakefit Innovations Limited manufactures and markets home furnishing products. Its products include mattresses, beds, rollup, side tables, sofas, wardrobes, dressing tables, pillows, cabinets and shelves, kitchen and dining cushions, home essentials, TV units, office chairs, coffee tables, mats, rugs and carpets, yoga mats, runner, double, curtains, bathrobes, and home d\u00e9cor, lifestyle needs, table decor, lights, engineered wood lamps, and garden decor. The company offers its products through multiple online marketplaces besides its own website and stores. Wakefit Innovations Limited was incorporated in 2016 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4573.72,
-  "pe_ratio": 23.45,
+  "market_cap_cr": 4560.45,
+  "pe_ratio": 23.51,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 34.4,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:58:03.212720",
-  "provider_reported_pb_ratio": 4.01,
-  "statements_retrieved_at": "2026-11-06T22:58:03.212720",
+  "retrieval_time": "2026-11-10T00:47:01.395429",
+  "provider_reported_pb_ratio": 4.0,
+  "statements_retrieved_at": "2026-11-10T00:47:01.395429",
   "retained_fields": []
 }

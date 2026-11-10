@@ -5,8 +5,8 @@
   "industry": "Lumber & Wood Production",
   "business_summary": "Century Plyboards (India) Limited engages in the manufacture and sale of plywood, laminates, decorative veneers, medium density fiber boards (MDF), pre-laminated boards, particle boards, and flush doors in India. It operates through Plywood, Laminate, MDF, Plain Particle Board, CFS Services, and Others segments. The company provides plywood, blockboard, veneer, and timber; decorative laminates; and plain and pre-laminated medium density fibre boards, as well as particle boards. It also provides container freight stations services; trades in chemicals and panel products; and offers pre-engineered doors, fibre cement boards, and PVC sheets. The company also exports its products. It provides its products under the CenturyPly, CenturyLaminates, CenturyVeneers, CenturyDoors, CenturyComposites, CenturyExteria, CenturyCubicles, Sainik Laminates, and Century HDF/Century MDF brands names. Century Plyboards (India) Limited was incorporated in 1982 and is headquartered in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 14202.41,
-  "pe_ratio": 44.03,
+  "market_cap_cr": 14529.0,
+  "pe_ratio": 45.04,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 124.5,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T21:58:49.618761",
-  "provider_reported_pb_ratio": 5.13,
-  "statements_retrieved_at": "2026-11-06T21:58:49.618761",
+  "retrieval_time": "2026-11-09T23:47:52.354776",
+  "provider_reported_pb_ratio": 5.25,
+  "statements_retrieved_at": "2026-11-09T23:47:52.354776",
   "retained_fields": []
 }

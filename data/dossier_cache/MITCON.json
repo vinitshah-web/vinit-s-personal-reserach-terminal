@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "MITCON Consultancy & Engineering Services Limited provides consultancy and training services in India. It operates through Consultancy and Training, Project Services, and Wind Power Generation segments. The company offers renewable energy consulting services, including engineering, consultation, and project management services; soil investigation; climate change and sustainability services comprising preparation of greenhouse gas inventories, developing carbon neutral strategies and implementation support, preparation of sustainability report as per GRI, SASB, TCFD, TNFD frameworks, and conducting product life cycle assessments; and develops carbon credit projects. The company also provides biofuels and green chemistry services from concept to commissioning, which include basic engineering for bio-ethanol, sugar mills, sugar refineries, cogeneration power projects based on coal, bagasse, biomass, etc.; develops technologies for producing chemicals from renewable and bio-based raw materials; environment management and engineering services; business financial advisory; skill development services; and develops, implements, and manages wind and solar projects. It also provides satellite-based AI/ML solutions for precision agriculture and infrastructure, as well as offers infrastructure and trustee services. The company was formerly known as MITCON Consultancy Services Limited and changed its name to MITCON Consultancy & Engineering Services Limited in October 2010. MITCON Consultancy & Engineering Services Limited was incorporated in 1982 and is headquartered in Pune, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 131.75,
-  "pe_ratio": 12.14,
+  "market_cap_cr": 137.61,
+  "pe_ratio": 12.68,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 90.65,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:28:18.197667",
-  "provider_reported_pb_ratio": 0.83,
-  "statements_retrieved_at": "2026-11-06T22:28:18.197667",
+  "retrieval_time": "2026-11-10T00:16:47.115327",
+  "provider_reported_pb_ratio": 0.87,
+  "statements_retrieved_at": "2026-11-10T00:16:47.115327",
   "retained_fields": []
 }

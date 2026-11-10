@@ -6,7 +6,7 @@
   "business_summary": null,
   "business_summary_reason": "The secondary provider returned no company overview.",
   "market_cap_cr": 72.11,
-  "pe_ratio": 14.35,
+  "pe_ratio": 15.73,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 39.09,
@@ -20,7 +20,7 @@
       "period_end": "2026-03-31",
       "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 193.4,
-      "ebitda_cr": 7.19,
+      "ebitda_cr": 7.24,
       "net_income_cr": 5.02,
       "operating_cash_flow_cr": -2.08,
       "capex_cr": 8.42,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:44:29.729448",
+  "retrieval_time": "2026-11-10T00:33:15.035220",
   "provider_reported_pb_ratio": 1.38,
-  "statements_retrieved_at": "2026-11-06T22:44:29.729448",
+  "statements_retrieved_at": "2026-11-10T00:33:15.035220",
   "retained_fields": []
 }

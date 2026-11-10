@@ -5,13 +5,13 @@
   "industry": "Credit Services",
   "business_summary": "Arman Financial Services Limited, together with its subsidiary, operates as a non-banking finance company in India. The company offers micro, small, and medium enterprise loans; two wheeler financing for motorcycles, mopeds, scooterettes, and scooters; and micro finance loans, as well as individual business loans and loan against property. The company was formerly known as Arman Lease and Finance Limited and changed its name to Arman Financial Services Limited in November 2008. Arman Financial Services Limited was incorporated in 1992 and is headquartered in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1687.52,
-  "pe_ratio": 10.57,
+  "market_cap_cr": 1719.05,
+  "pe_ratio": 10.77,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 887.79,
   "dividend_yield_pct": 0.0,
-  "shares_outstanding_cr": 1.0546,
+  "shares_outstanding_cr": 1.0548,
   "fifty_two_week_high": 2158.6,
   "fifty_two_week_low": 1301.0,
   "financial_statements": [
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T21:51:56.069132",
-  "provider_reported_pb_ratio": 1.8,
-  "statements_retrieved_at": "2026-11-06T21:51:56.069132",
+  "retrieval_time": "2026-11-09T23:40:55.241220",
+  "provider_reported_pb_ratio": 1.84,
+  "statements_retrieved_at": "2026-11-09T23:40:55.241220",
   "retained_fields": []
 }

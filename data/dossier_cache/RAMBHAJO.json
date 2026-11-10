@@ -6,7 +6,7 @@
   "business_summary": "Advit Jewels Limited designs, manufactures, and sells traditional and contemporary handcrafted fine jewelry. The company offers necklaces, earrings, rings, bangles, and other customized jewelry pieces primarily with gold, diamonds, and colored stones. The company operates under the brand name Rambhajo. It sells its products through the B2B model, the B2C model, dealers, showrooms, wholesalers and jewelry retailers. The company was formerly known as Advit Jewels Private Limited and changed its name to Advit Jewels Limited in April 2025. The company was founded in 1921 and is based in Jaipur, India.",
   "business_summary_reason": null,
   "market_cap_cr": null,
-  "pe_ratio": 34.71,
+  "pe_ratio": 34.94,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 61.94,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:39:28.310576",
-  "provider_reported_pb_ratio": 5.22,
-  "statements_retrieved_at": "2026-11-06T22:39:28.310576",
+  "retrieval_time": "2026-11-10T00:28:10.221608",
+  "provider_reported_pb_ratio": 5.26,
+  "statements_retrieved_at": "2026-11-10T00:28:10.221608",
   "retained_fields": []
 }

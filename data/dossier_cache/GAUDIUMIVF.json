@@ -5,8 +5,8 @@
   "industry": "Medical Care Facilities",
   "business_summary": "Gaudium IVF and Women Health Limited provides in vitro fertilization (IVF) treatment in India. The company offers fertility and reproductive health services, including intracytoplasmic sperm injection (ICSI), intrauterine insemination (IUI), and ovulation induction; polycystic ovarian syndrome (PCOS)/ polycystic ovarian disease (PCOD); endometriosis treatment; ovulation induction; and laser assisted embryo implantation services. It also provides male infertility treatment services; egg freezing; embryo freezing; frozen embryo transfer; gynae consultation; laparoscopy for infertility; diagnostic services; and support and counselling services. In addition, the company operates hospital, in-house pharmacy; and 7 hubs (IVF centers) and 28 spokes. The company was founded in 2009 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 758.29,
-  "pe_ratio": 30.82,
+  "market_cap_cr": 774.74,
+  "pe_ratio": 31.49,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 24.42,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:08:55.613875",
-  "provider_reported_pb_ratio": 4.27,
-  "statements_retrieved_at": "2026-11-06T22:08:55.613875",
+  "retrieval_time": "2026-11-09T23:57:35.916014",
+  "provider_reported_pb_ratio": 4.36,
+  "statements_retrieved_at": "2026-11-09T23:57:35.916014",
   "retained_fields": []
 }

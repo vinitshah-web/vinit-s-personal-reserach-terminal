@@ -5,8 +5,8 @@
   "industry": "Credit Services",
   "business_summary": "UGRO Capital Limited, a non-banking financial company, engages in the lending business in India. The company offers business loans to healthcare, education, chemicals, food processing/FMCG, hospitality, electrical equipment and components, auto components, textile, micro enterprises, and light engineering sectors. It also provides lending services for enterprise mortgages, school funding programs, machinery and equipment financing, and supply chain finance. In addition, it offers embedded finance; retailer and rooftop solar financing; electric vehicle financing; and loans against property and bank guarantee services. The company was formerly known as Chokhani Securities Limited and changed its name to UGRO Capital Limited in September 2018. The company was incorporated in 1993 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1094.31,
-  "pe_ratio": 5.04,
+  "market_cap_cr": 1081.63,
+  "pe_ratio": 4.98,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 190.16,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:54:36.853411",
-  "provider_reported_pb_ratio": 0.38,
-  "statements_retrieved_at": "2026-11-06T22:54:36.853411",
+  "retrieval_time": "2026-11-10T00:43:31.733255",
+  "provider_reported_pb_ratio": 0.37,
+  "statements_retrieved_at": "2026-11-10T00:43:31.733255",
   "retained_fields": []
 }

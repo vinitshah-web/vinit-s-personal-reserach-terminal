@@ -5,14 +5,14 @@
   "industry": "Auto Parts",
   "business_summary": "Steel Strips Wheels Limited engages in the design, manufacture, and sale of automotive wheel rims and other auto components in India and internationally. It offers steel and alloy wheels, and aluminium knuckle for cars, MUVs, tractors, commercial vehicles, two-wheelers, OTR vehicles, etc. The company was incorporated in 1985 and is headquartered in Chandigarh, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 8496.25,
-  "pe_ratio": 28.97,
+  "market_cap_cr": 8633.07,
+  "pe_ratio": 29.43,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 126.2,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 15.7265,
-  "fifty_two_week_high": 558.7,
+  "fifty_two_week_high": 573.9,
   "fifty_two_week_low": 169.0,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:48:57.501793",
-  "provider_reported_pb_ratio": 4.28,
-  "statements_retrieved_at": "2026-11-06T22:48:57.501793",
+  "retrieval_time": "2026-11-10T00:37:44.550691",
+  "provider_reported_pb_ratio": 4.35,
+  "statements_retrieved_at": "2026-11-10T00:37:44.550691",
   "retained_fields": []
 }

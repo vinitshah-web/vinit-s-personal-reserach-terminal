@@ -5,13 +5,13 @@
   "industry": "Utilities - Independent Power Producers",
   "business_summary": "Reliance Infrastructure Limited, an infrastructure company, generates, transmits, and distributes electrical power to residential, industrial, commercial, and other consumers in India. It operates through three segments: Power; Engineering and Construction (E&C); and Infrastructure. The Power segment engages in the trading of power. Its E&C segment offers value added services in construction, erection, commissioning, and contracting. The Infrastructure segment is involved in the development, operation, and maintenance of toll roads, metro rail transit system, and airports. It also engages in the exploration and production of 4 coal bed methane blocks covering an area of 3,266 square kilometers in Madhya Pradesh, Andhra Pradesh, and Rajasthan, and rehabilitation and upgradation of NH-66. In addition, the company is involved in the operation of toll road and metro rail concessions and urban transport systems; operation and maintenance of airports and power stations and power trading; trade tower and business district construction; sale and purchase of electricity from exchanges, bilateral, and barter system; engineering and construction; realty; renewable energy; cell, module, wafers, and ingot manufacturing; project management; battery storage; manufacture of defense systems; electric and electronic products; EV and battery business; telecom and transmission business; and IT business. Reliance Infrastructure Limited was incorporated in 1929 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": null,
-  "pe_ratio": 0.66,
+  "market_cap_cr": 2170.3,
+  "pe_ratio": 0.7,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 437.86,
   "dividend_yield_pct": 0.0,
-  "shares_outstanding_cr": null,
+  "shares_outstanding_cr": 40.8181,
   "fifty_two_week_high": 195.0,
   "fifty_two_week_low": 42.56,
   "financial_statements": [
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:40:16.523987",
+  "retrieval_time": "2026-11-10T00:28:59.274300",
   "provider_reported_pb_ratio": 0.12,
-  "statements_retrieved_at": "2026-11-06T22:40:16.523987",
+  "statements_retrieved_at": "2026-11-10T00:28:59.274300",
   "retained_fields": []
 }

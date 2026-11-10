@@ -5,8 +5,8 @@
   "industry": "Copper",
   "business_summary": "Cubex Tubings Limited manufactures and fabricates copper and copper based alloy products in India and internationally. It offers copper products, such as DLP, DHP, ETP, and medical gas copper tubes; copper round and bus bars; and copper wires and profiles. The company also provides copper alloy products, including admiralty brass and aluminum brass tubes, as well as copper nickel tubes; copper-nickel fittings and flanges; and nickel-copper alloy tubes. In addition, it offers copper based alloys, such as cupronickel, admiralty brass, aluminum brass, etc. The company serves the offshore, desalination, defense, chemical, power generation, electrical equipment, ship building, automobile, HVAC, and marine industries, as well as manufacturers of power plants, switchgears, refineries, furnace manufacturers, and sugar and nuclear plants. Cubex Tubings Limited was incorporated in 1979 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 274.11,
-  "pe_ratio": 26.33,
+  "market_cap_cr": 273.99,
+  "pe_ratio": 26.84,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 58.18,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:01:10.074712",
+  "retrieval_time": "2026-11-09T23:50:11.981580",
   "provider_reported_pb_ratio": 3.29,
-  "statements_retrieved_at": "2026-11-06T22:01:10.074712",
+  "statements_retrieved_at": "2026-11-09T23:50:11.981580",
   "retained_fields": []
 }

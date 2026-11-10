@@ -5,8 +5,8 @@
   "industry": "Medical Care Facilities",
   "business_summary": "Rays of Belief Limited operates as a holistic care provider for children with autism, ADHD, Down syndrome, and other developmental delays and disorders in India. The company provides subscription-based, guided therapy programs designed to empower parents of children with special needs. The company operates through its brand, Mom's Belief, a child development and therapy organization that creates personalized therapeutic programs for children with autism and other developmental delays. The company's services include occupational therapy to enhance motor skills and daily functioning; speech therapy to improve communication and language abilities; special education and individualized learning support for children with diverse needs; Applied Behaviour Analysis (ABA), a behaviour-based intervention for skill development; language and communication therapy to strengthen verbal and social communication; and adult counselling to support parents and caregivers. Rays of Belief Limited was incorporated in 2017 and is headquartered in Gurugram, India. Rays of Belief Limited operates as a subsidiary of Carving Futures Pte. Ltd.",
   "business_summary_reason": null,
-  "market_cap_cr": 513.95,
-  "pe_ratio": 62.09,
+  "market_cap_cr": 529.44,
+  "pe_ratio": 63.96,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 19.84,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:29:19.982924",
-  "provider_reported_pb_ratio": 12.39,
-  "statements_retrieved_at": "2026-11-06T22:29:19.982924",
+  "retrieval_time": "2026-11-10T00:17:48.147340",
+  "provider_reported_pb_ratio": 12.77,
+  "statements_retrieved_at": "2026-11-10T00:17:48.147340",
   "retained_fields": []
 }

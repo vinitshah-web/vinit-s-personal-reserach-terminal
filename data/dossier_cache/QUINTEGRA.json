@@ -5,14 +5,14 @@
   "industry": "Information Technology Services",
   "business_summary": "Quintegra Solutions Limited provides information technology (IT) and consulting services in India. The company offers application management, such as development, maintenance, migration, and reengineering; product engineering; and SAP services, including SAP implementation services, SAP upgrades, SAP functional support, SAP production support, basis and technical consulting, and SAP application innovation. It also provides testing and validation; and technology consulting services. In addition, the company offers education and training, patient care, hospital management, and non-life insurance solutions. It serves banking and financial, healthcare, education and training, engineering, logistics, and telecom industries. The company was incorporated in 1994 and is headquartered in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 9.28,
+  "market_cap_cr": 9.63,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": -4.88,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 2.6814,
-  "fifty_two_week_high": 3.46,
+  "fifty_two_week_high": 3.59,
   "fifty_two_week_low": 1.1,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:38:56.111172",
-  "provider_reported_pb_ratio": -0.71,
-  "statements_retrieved_at": "2026-11-06T22:38:56.111172",
+  "retrieval_time": "2026-11-10T00:27:38.103075",
+  "provider_reported_pb_ratio": -0.74,
+  "statements_retrieved_at": "2026-11-10T00:27:38.103075",
   "retained_fields": []
 }

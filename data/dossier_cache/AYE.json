@@ -5,8 +5,8 @@
   "industry": "Credit Services",
   "business_summary": "Aye Finance Limited, a non-banking financial company, provides loans to micro, small, and medium enterprises in India. The company offers a range of business loans for working capital and business expansion needs against hypothecation of working assets or against security of property to customers across manufacturing, trading, service, and allied agriculture sectors. It also provides secured and unsecured hypothecation loan; mortgage and emergency credit line guarantee scheme loans; shakti loans for women-led micro-enterprises; SwitchPe, a supply chain finance platform designed to empower merchants and retailers by providing seamless access to unsecured credit lines through a digital interface; and Saral Property loans, a combination of property collateral and hypothecation of business assets enabling access to credit despite documentation constraints. Aye Finance Limited was incorporated in 1993 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3604.79,
-  "pe_ratio": 20.02,
+  "market_cap_cr": 3749.59,
+  "pe_ratio": 20.82,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 109.06,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T21:53:53.706109",
-  "provider_reported_pb_ratio": 1.35,
-  "statements_retrieved_at": "2026-11-06T21:53:53.706109",
+  "retrieval_time": "2026-11-09T23:42:54.514762",
+  "provider_reported_pb_ratio": 1.4,
+  "statements_retrieved_at": "2026-11-09T23:42:54.514762",
   "retained_fields": []
 }

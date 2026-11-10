@@ -5,14 +5,14 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "Affordable Robotic & Automation Limited provides turnkey automation Solution in India. The company offers automated parking systems, including AGV based parking, puzzle parking system, tower parking system, shuttle parking system, chess parking system, stacker parking system, horizontal circulation parking system, 2-wheeler parking; and welding automation services, which includes robotic spot welding, robotic mig welding, robotic hemming, SPM welding, heavy welding, vision-based inspection, ultrasonic welding, LASER welding, LVDT inspection. It also provides turnkey automation solutions, such as process automation, assembly lines, pick and place gantry, conveyor systems, lift and carry, manipulators, inversion mechanism, torquing station, and induction heating with welding, as well as robotic welding cells and lines, including fixed, indexing, and rotary-type welding fixtures, spot, MIG, TIG welding automation, pneumatic, hydraulic, and hydro-pneumatic machine. In addition, the company offers warehouse automation solutions comprising autonomous truck loading and unloading, smart case picking/each picking, put away and picking, cross docking, goods to person, solutions for manufacturing. Affordable Robotic & Automation Limited was founded in 2005 and is headquartered in Pune, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 226.97,
-  "pe_ratio": 35.34,
+  "market_cap_cr": 245.26,
+  "pe_ratio": 39.27,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 98.02,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.1851,
-  "fifty_two_week_high": 241.0,
+  "fifty_two_week_high": 238.8,
   "fifty_two_week_low": 119.71,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T21:48:43.951732",
-  "provider_reported_pb_ratio": 1.95,
-  "statements_retrieved_at": "2026-11-06T21:48:43.951732",
+  "retrieval_time": "2026-11-09T23:37:43.304551",
+  "provider_reported_pb_ratio": 2.11,
+  "statements_retrieved_at": "2026-11-09T23:37:43.304551",
   "retained_fields": []
 }

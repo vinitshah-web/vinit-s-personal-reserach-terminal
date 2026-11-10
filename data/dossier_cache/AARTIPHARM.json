@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Aarti Pharmalabs Limited, together with its subsidiaries, manufactures and sells active pharmaceutical ingredients, pharmaceutical intermediates, and xanthine derivatives in India and internationally. The company offers active pharmaceutical ingredients for various therapeutic areas, such as cardiovascular, anti-asthmatic, anti-cancer, anti-coagulant, anti-diabetic, arthritis, central nervous system agent, skincare, overactive bladder, calcimimetic, decongestant, anti-thalassaemic, analgesic, ophthalmologic, antidepressant medications. It also provides contract development and manufacturing services for drug substance projects. In addition, the company offers intermediates, such as xanthine derivatives, including caffeine, theophylline anhydrous, aminophylline, etophylline, and theophylline; and acid and allied products, including sulphuric acid, sulphur trioxide, oil, dimethyl sulphate, diethyl sulphate, and sodium vinyl sulfonate. It serves pharmaceutical, nutraceutical, and beverage industries. The company was formerly known as Aarti Organics Limited. Aarti Pharmalabs Limited was incorporated in 2019 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 8425.06,
-  "pe_ratio": 32.84,
+  "market_cap_cr": 8355.24,
+  "pe_ratio": 32.57,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 234.28,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T21:47:06.190527",
-  "provider_reported_pb_ratio": 3.97,
-  "statements_retrieved_at": "2026-11-06T21:47:06.190527",
+  "retrieval_time": "2026-11-09T23:36:04.026443",
+  "provider_reported_pb_ratio": 3.93,
+  "statements_retrieved_at": "2026-11-09T23:36:04.026443",
   "retained_fields": []
 }

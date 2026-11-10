@@ -5,7 +5,7 @@
   "industry": "Chemicals",
   "business_summary": "Agastya Energy and Infrastructure Limited operates as renewable energy and infrastructure company and is engages in the engineering, procurement, construction (EPC), manufacturing, and operation of integrated clean energy assets. Its services include ingot manufacturing, silicon wafer manufacturing, solar cell manufacturing, and solar panel manufacturing. The company also manufactures and sells cuprous chloride, cupric chloride, and copper sulphate in India and internationally. It also provides cupric chloride anhydrous and dihydrate, and copper phthalocyanine blue. The company's products are used in dyes and pigments, paint, pharmaceuticals, electroplating, metal extraction and ink, carbon paper, and PVC pipe coating industries. Agastya Energy and Infrastructure Limited was formerly known as Sanginita Chemicals Limited and changed its name to Agastya Energy and Infrastructure Limited in August 2026. The company was founded in 2002 and is based in Gandhinagar, India. Agastya Energy and Infrastructure Limited operates as a subsidiary of B N G Investment LLC.",
   "business_summary_reason": null,
-  "market_cap_cr": 139.56,
+  "market_cap_cr": 138.99,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T21:48:52.094872",
-  "provider_reported_pb_ratio": 3.01,
-  "statements_retrieved_at": "2026-11-06T21:48:52.094872",
+  "retrieval_time": "2026-11-09T23:37:51.043720",
+  "provider_reported_pb_ratio": 3.0,
+  "statements_retrieved_at": "2026-11-09T23:37:51.043720",
   "retained_fields": []
 }

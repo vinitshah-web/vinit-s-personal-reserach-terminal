@@ -5,8 +5,8 @@
   "industry": "Confectioners",
   "business_summary": "DCM Shriram Industries Limited engages in the production and sale of sugar, alcohol, and power products in India and Nepal. It offers crystal sugar, breakfast, caster, icing, and bulk sugar; demerara pouches, cubes, and sachets; white sugar sachets and cubes; alcohol products, such as ethanol/anhydrous alcohol (AA), extra-neutral alcohol (ENA), rectified spirit, IMFL / IMIL, and country liquor for industrial, food and beverage, pharmaceutical, and ethanol blending program (EBP) sectors; alcohol by-products, as well as provides green power directly back to the power grid. DCM Shriram Industries Limited was founded in 1889 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 525.43,
-  "pe_ratio": 20.27,
+  "market_cap_cr": 503.25,
+  "pe_ratio": 19.22,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 41.93,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:01:59.121462",
-  "provider_reported_pb_ratio": 1.44,
-  "statements_retrieved_at": "2026-11-06T22:01:59.121462",
+  "retrieval_time": "2026-11-09T23:51:02.071155",
+  "provider_reported_pb_ratio": 1.38,
+  "statements_retrieved_at": "2026-11-09T23:51:02.071155",
   "retained_fields": []
 }

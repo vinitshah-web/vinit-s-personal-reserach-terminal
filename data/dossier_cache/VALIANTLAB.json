@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Valiant Laboratories Limited operates as an active pharmaceutical ingredient/bulk drug manufacturing company in India and internationally. The company manufactures paracetamol in various grades, such as Indian/British/European/the United States pharmacopoeias for the treatment of headaches, muscle aches, arthritis, back aches, toothaches, cold, and fever. It also manufactures and sells specialty chemicals and chemical intermediates, including chlorophenol derivatives, benzene-based specialty chemicals and other chemical intermediates to agrochemicals, pharmaceuticals, dyes and pigments, polymers, personal care, and allied industries. The company was formerly known as Bharat Chemicals and changed its name to Valiant Laboratories Limited in August 2021. The company was founded in 1980 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 630.57,
-  "pe_ratio": 41.32,
+  "market_cap_cr": 605.64,
+  "pe_ratio": 39.68,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 57.24,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:55:38.259338",
-  "provider_reported_pb_ratio": 2.03,
-  "statements_retrieved_at": "2026-11-06T22:55:38.259338",
+  "retrieval_time": "2026-11-10T00:44:34.847373",
+  "provider_reported_pb_ratio": 1.95,
+  "statements_retrieved_at": "2026-11-10T00:44:34.847373",
   "retained_fields": []
 }

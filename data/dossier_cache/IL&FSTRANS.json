@@ -5,7 +5,7 @@
   "industry": "Infrastructure Operations",
   "business_summary": "IL&FS Transportation Networks Limited develops, operates, manages, and maintains transportation infrastructure projects in India and internationally. The company undertakes highway, flyover, bridge, road, metro rail, city bus, and border check post projects. It also provides operation, maintenance, and allied services; and toll collection services for toll road projects. The company was incorporated in 2000 and is based in Mumbai, India. IL&FS Transportation Networks Limited operates as a subsidiary of Infrastructure Leasing and Financial Services Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 56.25,
+  "market_cap_cr": 58.23,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -17,10 +17,10 @@
   "financial_statements": [],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": false,
-  "retrieval_time": "2026-11-06T22:16:23.953355",
+  "retrieval_time": "2026-11-10T00:04:48.304427",
   "provider_reported_pb_ratio": -0.0,
   "statements_retrieved_at": "2026-11-01T06:57:29.953478",
-  "previous_retrieval_time": "2026-11-06T21:02:16.086078",
+  "previous_retrieval_time": "2026-11-06T22:16:23.953355",
   "retained_fields": [
     "financial_statements",
     "previous_retrieval_time"

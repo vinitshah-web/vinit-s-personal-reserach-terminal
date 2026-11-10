@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Sakar Healthcare Limited research, develops, manufactures, and sells pharmaceutical products in India. The company offers general and oncology products in various forms, such as liquid orals, cephalosporin tablets, capsules, dry powder syrups and injections, liquid injectable (SVP) in ampoules, vials and lyophilized injections, and oral solid dosages. It also exports its products to Southeast Asia, Asia, Africa-Anglo and Francophone, MENA countries, and the United States. Sakar Healthcare Limited was incorporated in 2004 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2141.32,
-  "pe_ratio": 70.95,
+  "market_cap_cr": 2257.88,
+  "pe_ratio": 74.81,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 155.5,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:42:30.753542",
-  "provider_reported_pb_ratio": 6.27,
-  "statements_retrieved_at": "2026-11-06T22:42:30.753542",
+  "retrieval_time": "2026-11-10T00:31:14.730540",
+  "provider_reported_pb_ratio": 6.62,
+  "statements_retrieved_at": "2026-11-10T00:31:14.730540",
   "retained_fields": []
 }

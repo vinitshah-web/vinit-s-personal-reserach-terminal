@@ -5,14 +5,14 @@
   "industry": "Specialty Chemicals",
   "business_summary": "S H Kelkar and Company Limited, together with its subsidiaries, manufactures and supplies fragrances, flavors, and aroma ingredients in India, Europe, and internationally. The company offers fragrances for personal, hair, home, fabric, and skin care products; food flavors and flavoring agents in liquid, emulsion, and dry mix forms for beverages, bakery, dairy, savory, and pharmaceutical products; and aroma ingredients. It is also involved in biotechnology and microbiology research, cosmetic research and biotechnology, and custom synthesis. The company sells its products under the SHK, Cobra, Keva, and CFF brand names to domestic and multinational FMCG companies, MSMEs, and other fragrance and flavor manufacturers. It exports its products. The company was founded in 1922 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1800.3,
-  "pe_ratio": 20.35,
+  "market_cap_cr": 1805.15,
+  "pe_ratio": 20.41,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 102.76,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 13.8421,
-  "fifty_two_week_high": 218.99,
+  "fifty_two_week_high": 210.0,
   "fifty_two_week_low": 111.98,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:45:44.189474",
+  "retrieval_time": "2026-11-10T00:34:29.869609",
   "provider_reported_pb_ratio": 1.27,
-  "statements_retrieved_at": "2026-11-06T22:45:44.189474",
+  "statements_retrieved_at": "2026-11-10T00:34:29.869609",
   "retained_fields": []
 }

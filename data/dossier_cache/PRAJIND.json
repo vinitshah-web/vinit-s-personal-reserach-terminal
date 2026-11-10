@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "Praj Industries Limited operates in the field of bio-based technologies and engineering in India and internationally. It offers solutions for the ethanol industry, including multi-feed multi-product plants, modernization of existing plants, and renewable fuels comprising BioCNG, iso-butanol, etc.; and high purity system solutions for the biopharma industry, sterile formulations, topical and oral formulations, personal care, and nutraceutical industry. The company also provides customized plants, and equipment and technology solutions to customers in the brewing and beverage industry; reactors, pressure vessels, heat exchangers, columns, and proprietary equipment to hydrocarbon industry, petrochemicals, industrial gas plants, and chemical plants; and modular process packages. In addition, it offers wastewater treatment solutions, including treatment and disposal; 3Rs of reduce, recycle, and reuse; ZLD and resource recovery; operation and maintenance services; and value-added services. The company was incorporated in 1985 and is headquartered in Pune, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4597.35,
-  "pe_ratio": 135.19,
+  "market_cap_cr": 4610.03,
+  "pe_ratio": 135.57,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 69.54,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:37:12.267676",
-  "provider_reported_pb_ratio": 3.6,
-  "statements_retrieved_at": "2026-11-06T22:37:12.267676",
+  "retrieval_time": "2026-11-10T00:25:50.241691",
+  "provider_reported_pb_ratio": 3.61,
+  "statements_retrieved_at": "2026-11-10T00:25:50.241691",
   "retained_fields": []
 }

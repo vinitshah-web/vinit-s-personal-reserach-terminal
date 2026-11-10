@@ -5,8 +5,8 @@
   "industry": "Information Technology Services",
   "business_summary": "Avance Technologies Limited engages in the dealing of IT products in India. The company offers digital infrastructure, embedded device management, hybrid infrastructure, internet of things infrastructure management, data center management and optimization, as well as cloud integration and management. It serves healthcare, finance, retail, manufacturing, and hospitality industries. The company was formerly known as VMC Software Ltd. Avance Technologies Limited was incorporated in 1985 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 154.59,
-  "pe_ratio": 11.14,
+  "market_cap_cr": 150.63,
+  "pe_ratio": 10.86,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 1.97,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T21:53:30.006424",
-  "provider_reported_pb_ratio": 0.4,
-  "statements_retrieved_at": "2026-11-06T21:53:30.006424",
+  "retrieval_time": "2026-11-09T23:42:29.879704",
+  "provider_reported_pb_ratio": 0.39,
+  "statements_retrieved_at": "2026-11-09T23:42:29.879704",
   "retained_fields": []
 }

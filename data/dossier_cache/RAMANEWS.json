@@ -5,7 +5,7 @@
   "industry": "Beverages - Non-Alcoholic",
   "business_summary": "Shree Rama Newsprint Limited produces and sells packaged water bottles in India. It also operates packaged drinking water bottling plant. In addition, it engages in the selling of scrap materials. The company was formerly known as Rama Newsprint and Papers Limited and changed its name to Shree Rama Newsprint Limited. The company was incorporated in 1991 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 393.4,
+  "market_cap_cr": 404.54,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -13,7 +13,7 @@
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 14.7522,
   "fifty_two_week_high": 42.0,
-  "fifty_two_week_low": 26.0,
+  "fifty_two_week_low": 25.7,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:39:24.257213",
-  "provider_reported_pb_ratio": -3.73,
-  "statements_retrieved_at": "2026-11-06T22:39:24.257213",
+  "retrieval_time": "2026-11-10T00:28:06.274556",
+  "provider_reported_pb_ratio": -3.84,
+  "statements_retrieved_at": "2026-11-10T00:28:06.274556",
   "retained_fields": []
 }

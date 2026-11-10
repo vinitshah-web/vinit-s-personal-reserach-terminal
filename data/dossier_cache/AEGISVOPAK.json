@@ -5,8 +5,8 @@
   "industry": "Oil & Gas Equipment & Services",
   "business_summary": "Aegis Vopak Terminals Limited engages in the business of storage and terminalling facilities for LPG and chemical products in India. The company operates through Gas Terminal Division and Liquid Terminal Division segments. It engages in the storage and handling of liquified petroleum gas, oil, chemicals, petrochemical, gas, petroleum, bitumen, and vegetable oil products. The company was formerly known as Aegis LPG Logistics (Pipavav) Limited and changed its name to Aegis Vopak Terminals Limited in August 2021. Aegis Vopak Terminals Limited was incorporated in 2013 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 27311.99,
-  "pe_ratio": 96.29,
+  "market_cap_cr": 28265.97,
+  "pe_ratio": 99.65,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 40.11,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T21:48:29.220531",
-  "provider_reported_pb_ratio": 6.15,
-  "statements_retrieved_at": "2026-11-06T21:48:29.220531",
+  "retrieval_time": "2026-11-09T23:37:27.874794",
+  "provider_reported_pb_ratio": 6.36,
+  "statements_retrieved_at": "2026-11-09T23:37:27.874794",
   "retained_fields": []
 }

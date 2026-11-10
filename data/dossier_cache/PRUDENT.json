@@ -5,8 +5,8 @@
   "industry": "Asset Management",
   "business_summary": "Prudent Corporate Advisory Services Limited, together with its subsidiaries, provides various solutions for financial services distribution to individuals, corporates, high net worth individuals, and ultra-high net worth individuals in India and internationally. The company distributes mutual funds, insurance products, stockbroking, portfolio management schemes, unlisted securities, fixed deposits, alternative investment funds, national pension schemes, loan against securities, and government and state government securities. It also provides bonds, smallcase portfolios, equity broking, non-convertible debentures, liqui loans, and structured products. In addition, the company buys, sells, rents, and leases options for residential and commercial properties. Prudent Corporate Advisory Services Limited was founded in 2000 and is headquartered in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 12016.56,
-  "pe_ratio": 45.66,
+  "market_cap_cr": 12163.98,
+  "pe_ratio": 46.22,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 245.72,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:38:05.432554",
-  "provider_reported_pb_ratio": 11.81,
-  "statements_retrieved_at": "2026-11-06T22:38:05.432554",
+  "retrieval_time": "2026-11-10T00:26:46.751605",
+  "provider_reported_pb_ratio": 11.96,
+  "statements_retrieved_at": "2026-11-10T00:26:46.751605",
   "retained_fields": []
 }

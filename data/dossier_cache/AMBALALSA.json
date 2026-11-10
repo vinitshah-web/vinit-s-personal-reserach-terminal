@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Ambalal Sarabhai Enterprises Limited, together with its subsidiaries, manufactures and markets pharmaceutical, molecular diagnostics, and electronic products in India and internationally. The company is involved in the supply of pharmaceutical preparations, such as finished dosage forms and active pharmaceutical ingredients; manufacture of fermentation-based pharmaceutical products; and manufacturing and marketing analytical, laboratory, and test and measuring instruments. It also engages in the marketing and distributing professional broadcast, video, and audio equipment; marketing of generic and veterinary formulations; provision of a portfolio of products, including oncology, fertility, women's healthcare, and other specialty therapeutic segments; and manufacturing and marketing of vitamin C coated products. Ambalal Sarabhai Enterprises Limited was incorporated in 1977 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 270.29,
-  "pe_ratio": 20.75,
+  "market_cap_cr": 275.88,
+  "pe_ratio": 21.18,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 20.66,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T21:50:14.289243",
-  "provider_reported_pb_ratio": 1.71,
-  "statements_retrieved_at": "2026-11-06T21:50:14.289243",
+  "retrieval_time": "2026-11-09T23:39:15.074171",
+  "provider_reported_pb_ratio": 1.74,
+  "statements_retrieved_at": "2026-11-09T23:39:15.074171",
   "retained_fields": []
 }

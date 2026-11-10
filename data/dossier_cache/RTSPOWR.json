@@ -5,8 +5,8 @@
   "industry": "Electrical Equipment & Parts",
   "business_summary": "RTS Power Corporation Limited, together with its subsidiary, manufactures and sells power and distribution transformers for generation, transmission, and distribution of electricity in India. It offers oil cooled, dry type, and single phase/wound core type transformers; all aluminum alloy and aluminum steel reinforced conductors; XLPE/PVC insulated, aerial bunch, and railway signaling cables; house wires and submersible cables; and galvanized wires and strips. The company also generates, supplies, and sells wind power. It serves government and semi-government departments/utilities, electricity boards/companies, and turnkey projects. The company also exports its products and services. RTS Power Corporation Limited was incorporated in 1947 and is headquartered in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 90.31,
-  "pe_ratio": 33.85,
+  "market_cap_cr": 89.01,
+  "pe_ratio": 33.36,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 161.11,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:41:39.771049",
-  "provider_reported_pb_ratio": 0.61,
-  "statements_retrieved_at": "2026-11-06T22:41:39.771049",
+  "retrieval_time": "2026-11-10T00:30:22.700692",
+  "provider_reported_pb_ratio": 0.6,
+  "statements_retrieved_at": "2026-11-10T00:30:22.700692",
   "retained_fields": []
 }

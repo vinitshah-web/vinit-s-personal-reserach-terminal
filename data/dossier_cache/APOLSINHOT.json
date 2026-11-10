@@ -5,8 +5,8 @@
   "industry": "Specialty Business Services",
   "business_summary": "Apollo Sindoori Hotels Limited operates as a hospitality service management and support services company in India. It offers catering services to corporates, institutions, hospitals, and industries; and kitchen planning and management services. The company also manages food outlets at hospitals and organizations. In addition, it offers outdoor catering services and skilled manpower to hospitals, as well as engages in the business of clinical nutrition, facilities management, and outsourcing services. The company provides its services under The Sketch, Caf\u00e9 Canvas, Runaway vegetables, and Sugar Monster brands. Apollo Sindoori Hotels Limited was incorporated in 1985 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 292.13,
-  "pe_ratio": 35.14,
+  "market_cap_cr": 285.13,
+  "pe_ratio": 34.3,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 604.26,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T21:51:22.902305",
-  "provider_reported_pb_ratio": 1.86,
-  "statements_retrieved_at": "2026-11-06T21:51:22.902305",
+  "retrieval_time": "2026-11-09T23:40:23.331830",
+  "provider_reported_pb_ratio": 1.81,
+  "statements_retrieved_at": "2026-11-09T23:40:23.331830",
   "retained_fields": []
 }

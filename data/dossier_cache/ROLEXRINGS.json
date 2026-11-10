@@ -5,14 +5,14 @@
   "industry": "Metal Fabrication",
   "business_summary": "Rolex Rings Limited manufactures and sell of customized forged and machined bearing rings, and automotive components in India and internationally. It offers transmission components, such as gear blanks, ring gears, sun and pinion, shafts, and lock nuts; chassis components comprising wheel hubs, gen2 and gen3 bearing units components, output shafts; and CVJ components. The company also provides bearing rings, such as TRB, CRB, SRB, SPB, DGBB, angular contact, and double row bearings; exhaust system components which include flanges, biocones, and tulip; and engine components pulley, cam lobs, and other forged components. Its products are used in industrial, railways, off highway, earth moving, windmill, textile, electrical, defense, power, aerospace, marine, and oil and natural gas industries, as well as for two, three, and four wheelers. Rolex Rings Limited was founded in 1977 and is based in Rajkot, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 5277.36,
-  "pe_ratio": 48.83,
+  "market_cap_cr": 5449.18,
+  "pe_ratio": 50.42,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 43.83,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 26.2333,
-  "fifty_two_week_high": 207.79,
+  "fifty_two_week_high": 214.5,
   "fifty_two_week_low": 99.79,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:41:06.374347",
-  "provider_reported_pb_ratio": 4.59,
-  "statements_retrieved_at": "2026-11-06T22:41:06.374347",
+  "retrieval_time": "2026-11-10T00:29:48.475419",
+  "provider_reported_pb_ratio": 4.74,
+  "statements_retrieved_at": "2026-11-10T00:29:48.475419",
   "retained_fields": []
 }

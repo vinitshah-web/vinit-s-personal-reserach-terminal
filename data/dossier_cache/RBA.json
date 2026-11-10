@@ -5,7 +5,7 @@
   "industry": "Restaurants",
   "business_summary": "Restaurant Brands Asia Limited, together with its subsidiaries, operates quick service restaurant chains in India and Indonesia. It develops, establishes, operates, and franchises restaurants under the Burger King brand in India, as well as Burger King and POPEYES brands in Indonesia. The company was formerly known as Burger King India Limited and changed its name to Restaurant Brands Asia Limited in February 2022. Restaurant Brands Asia Limited was incorporated in 2013 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 6311.76,
+  "market_cap_cr": 6319.6,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:39:49.517505",
+  "retrieval_time": "2026-11-10T00:28:32.133504",
   "provider_reported_pb_ratio": 3.53,
-  "statements_retrieved_at": "2026-11-06T22:39:49.517505",
+  "statements_retrieved_at": "2026-11-10T00:28:32.133504",
   "retained_fields": []
 }

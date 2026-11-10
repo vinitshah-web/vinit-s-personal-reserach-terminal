@@ -5,8 +5,8 @@
   "industry": "Railroads",
   "business_summary": "Oriental Rail Infrastructure Limited manufactures, buys, and sells various recron, seats and berths, and compreg board products in India and internationally. The company also provides compreg wood sheets used in electrical insulation, which include rings, blocks, and segments, etc.; silicon foam blocks and shuttering plates used in the manufacturing of seats and berths for railway coaches; acosonic boards used for architectural, thermal, and noise barriers solutions, as well as turnkey projects; lavatory doors; phenolic resins and hardners for plywood and moulded goods industries; artificial leather/rexine products under ORVIN brand used in shoes, automotive seating, commercial and residential upholstery, stationery, luggage and bags, and industrial and consumer applications; heavy equipment engineering, such as railway rolling stocks; and bogies, couplers, draft gears, and wagons. In addition, the company trades in timber woods, ferrous and non-ferrous metals, casting tools, slabs, rods, section flates, and other ferrous and non-ferrous products. Further, it exports its products. The company serves railways and other industries. The company was formerly known as Oriental Veneer Products Limited and changed its name to Oriental Rail Infrastructure Limited in March 2022. Oriental Rail Infrastructure Limited was incorporated in 1991 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 772.52,
-  "pe_ratio": 14.92,
+  "market_cap_cr": 783.92,
+  "pe_ratio": 15.42,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 66.35,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:34:33.391665",
-  "provider_reported_pb_ratio": 1.74,
-  "statements_retrieved_at": "2026-11-06T22:34:33.391665",
+  "retrieval_time": "2026-11-10T00:23:08.117203",
+  "provider_reported_pb_ratio": 1.76,
+  "statements_retrieved_at": "2026-11-10T00:23:08.117203",
   "retained_fields": []
 }

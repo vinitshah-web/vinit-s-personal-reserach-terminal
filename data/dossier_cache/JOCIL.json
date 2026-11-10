@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Jocil Limited manufactures and sells stearic acids, fatty acids, soap noodles, toilet soaps, glycerine, and industrial oxygen in India. It operates through Chemicals, Soap, and Power segments. The company offers Oleochemicals, such as stearic acid, distilled fatty acids, fractionated fatty acids, and refined glycerine; and soaps, including toilet soap, noodles, and special products. It also provides contract manufacturing services; and generates power from biomass power plant and wind energy generators. The company was formerly known as Jayalakshmi Oil and Chemical Industries Limited and changed its name to Jocil Limited in 1992. The company was incorporated in 1978 and is based in Guntur, India. Jocil Limited is a subsidiary of The Andhra Sugars Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 119.49,
-  "pe_ratio": 14.48,
+  "market_cap_cr": 118.87,
+  "pe_ratio": 14.41,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 239.01,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:19:49.464844",
+  "retrieval_time": "2026-11-10T00:08:12.382130",
   "provider_reported_pb_ratio": 0.56,
-  "statements_retrieved_at": "2026-11-06T22:19:49.464844",
+  "statements_retrieved_at": "2026-11-10T00:08:12.382130",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Farm & Heavy Construction Machinery",
   "business_summary": "Olectra Greentech Limited manufactures and sells electric buses and trucks in India. It operates in two segments, Energy Division and Mobility Division. The company offers electric tippers. It also provides 1200KV, 330-420KV, 220-245KV, 110-132KV, 52-77KV, 33-36KV, 22-28KV, and 10-15KV composite polymer insulators for transmission and distribution; and tonne, bracket tube, and stay arm insulators for railways. The company serves state and central government bodies, and power generation and distribution utilities; private power generation companies; and multinational infrastructure companies. The company was formerly known as Goldstone Infratech Limited and changed its name to Olectra Greentech Limited in July 2018. Olectra Greentech Limited was incorporated in 2000 and is headquartered in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 8424.36,
-  "pe_ratio": 47.49,
+  "market_cap_cr": 8860.62,
+  "pe_ratio": 51.5,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 149.47,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:33:44.392820",
-  "provider_reported_pb_ratio": 6.87,
-  "statements_retrieved_at": "2026-11-06T22:33:44.392820",
+  "retrieval_time": "2026-11-10T00:22:16.678788",
+  "provider_reported_pb_ratio": 7.22,
+  "statements_retrieved_at": "2026-11-10T00:22:16.678788",
   "retained_fields": []
 }

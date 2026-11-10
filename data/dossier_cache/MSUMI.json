@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Motherson Sumi Wiring India Limited engages in the manufacture and sale of components to automotive original equipment manufacturers in India and internationally. The company provides wiring harness solutions to original equipment manufacturers; and manufactures, assembles, delivers integrated electrical and electronic distribution systems for power supply and data transfer across vehicle types. It also provides integrated electrification solutions for vehicles with alternative powertrains, including high-voltage wire harnesses; and develops solutions for internal combustion engine vehicles, as well as electric and hybrid vehicles. In addition, the company offers digital assembly boards, color detection systems, component presence sensors, and online work instructions. Further, it manufactures wiring harnesses products for passenger cars; two-wheelers and recreational vehicles; heavy, medium, and light-duty commercial vehicles; motorcycles and three-wheelers; multi-utility vehicles; farm and material-handling equipment; and off-highway vehicles. Additionally, the company offers specialized wiring harnesses for consumer durables, office automation equipment, medical diagnostic equipment, and other electrical and electronic equipment. Motherson Sumi Wiring India Limited was incorporated in 2020 and is headquartered in Noida, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 25956.33,
-  "pe_ratio": 37.63,
+  "market_cap_cr": 25836.96,
+  "pe_ratio": 37.46,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 3.26,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:30:13.615435",
-  "provider_reported_pb_ratio": 12.01,
-  "statements_retrieved_at": "2026-11-06T22:30:13.615435",
+  "retrieval_time": "2026-11-10T00:18:42.916034",
+  "provider_reported_pb_ratio": 11.96,
+  "statements_retrieved_at": "2026-11-10T00:18:42.916034",
   "retained_fields": []
 }

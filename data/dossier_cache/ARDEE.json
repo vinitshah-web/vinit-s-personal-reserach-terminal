@@ -5,8 +5,8 @@
   "industry": "Metal Fabrication",
   "business_summary": "Ardee Industries Limited engages in the recovery and recycling of end-of-life energy storage products and non-ferrous scrap while claiming resources from waste streams. The company's products include pure lead and lead alloys comprising lead calcium, lead antimony, lead tin, lead silver, and lead cadmium alloys that applies in energy storage, e-mobility, automotive, chemical, and other industries. It operates in India, Singapore, Hong Kong, South Korea, Switzerland, United Arab Emirates, Japan, Saudi Arabia, and United States of America. The company was incorporated in 1993 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1445.51,
-  "pe_ratio": 16.86,
+  "market_cap_cr": 1478.29,
+  "pe_ratio": 17.83,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 5.78,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T21:51:41.642635",
-  "provider_reported_pb_ratio": 7.93,
-  "statements_retrieved_at": "2026-11-06T21:51:41.642635",
+  "retrieval_time": "2026-11-09T23:40:40.858299",
+  "provider_reported_pb_ratio": 8.11,
+  "statements_retrieved_at": "2026-11-09T23:40:40.858299",
   "retained_fields": []
 }

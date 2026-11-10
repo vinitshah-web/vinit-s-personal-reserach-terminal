@@ -5,8 +5,8 @@
   "industry": "Information Technology Services",
   "business_summary": "Alankit Limited provides e-governance products and services in India. It operates through four segments: Financial Services, E- Governance Services, E- Governance Trading, and IT Enabled Services. The company offers permanent account number (PAN) card applications; change in PAN particulars applications; e-TDS/e-TCS/AIR/e-TBAF returns in electronic mode from corporate and non-corporate assesses; digitization of paper returns filed with income tax department; enrolment, uploading of details, and correction/updating in Aadhaar card; and Goods and Services Tax (GST) Suvidha Provider that provides end to end GST compliance solution. It also offers manpower consultancy services; and Atal Pension Yojana that save small amounts during years and enables to draw pension at the old age. In addition, the company is involved in distribution of card printers and accessories; and implementation and management of paper to follow process for the cheque truncation system, as well as business correspondent activities; and develops National Skills Registry, a fact sheet of credible, permanent, and accessible information about each registered person. Further, it provides Recordxpert.com, a web-based health and wellness portal for scanning and digitization of medical records; GST billing solutions, including GST Filing, GST Invoice Generation, and GST Accounting software; online GST registration and kiosk banking services; and National Insurance\u0096Policy Repository services to store insurance policies electronically, as well as PAN card correction services. The company was formerly known as Euro Finmart Limited and changed its name to Alankit Limited in September 2014. Alankit Limited was incorporated in 1989 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 239.98,
-  "pe_ratio": 11.11,
+  "market_cap_cr": 245.15,
+  "pe_ratio": 11.35,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 11.7,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T21:49:36.489029",
-  "provider_reported_pb_ratio": 0.67,
-  "statements_retrieved_at": "2026-11-06T21:49:36.489029",
+  "retrieval_time": "2026-11-09T23:38:35.655999",
+  "provider_reported_pb_ratio": 0.69,
+  "statements_retrieved_at": "2026-11-09T23:38:35.655999",
   "retained_fields": []
 }

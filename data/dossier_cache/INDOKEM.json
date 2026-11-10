@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Indokem Limited, together with its subsidiaries, manufactures, exports, and sells dyes, sizing chemicals, and auxiliaries in India. It operates through two segments, Textile Dyes and Chemicals; and Electrical Capacitors. The company provides sizing chemicals, including blends, softeners, binders, lubricants, antistatic liquids, and cold sizing; textile auxiliaries; textile dyes, such as vat, reactive, direct, sulphur liquid, disperse, and acid dyes, and sulphur powder; and textile pigments. It also offers resins and chemicals; and deals in electrical capacitors. The company serves the denim, terry towel, knit, woven, sheeting, and garment industries. It exports its products. Indokem Limited was founded in 1946 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1787.36,
-  "pe_ratio": 781.59,
+  "market_cap_cr": 1747.76,
+  "pe_ratio": 764.27,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 23.12,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T22:16:54.140536",
-  "provider_reported_pb_ratio": 27.72,
-  "statements_retrieved_at": "2026-11-06T22:16:54.140536",
+  "retrieval_time": "2026-11-10T00:05:18.793259",
+  "provider_reported_pb_ratio": 27.11,
+  "statements_retrieved_at": "2026-11-10T00:05:18.793259",
   "retained_fields": []
 }

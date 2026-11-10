@@ -5,14 +5,14 @@
   "industry": "Biotechnology",
   "business_summary": "Anthem Biosciences Limited operates as a contract research, development, and manufacturing organization in India, rest of Asia, North America, Europe, and internationally. It operates in two segments: Contract Manufacturing, Development & Discovery Services; and Speciality Ingredients. The company offers contract research development and manufacturing services, such as end-to-end services across the new chemical entity and new biological entity lifecycles, as well as engages in contract research, development, and manufacturing of development batches of molecules used for clinical trials up to commercial manufacturing for small molecules and biologics. It also manufactures and sells specialized fermentation-based active pharmaceutical ingredients, including probiotics, enzymes, peptides, nutritional actives, vitamin analogues, and biosimilars. The company was incorporated in 2006 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 51593.81,
-  "pe_ratio": 84.62,
+  "market_cap_cr": 53994.44,
+  "pe_ratio": 88.55,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 58.18,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 56.3528,
-  "fifty_two_week_high": 977.55,
+  "fifty_two_week_high": 989.1,
   "fifty_two_week_low": 579.15,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-06T21:50:53.013177",
-  "provider_reported_pb_ratio": 15.74,
-  "statements_retrieved_at": "2026-11-06T21:50:53.013177",
+  "retrieval_time": "2026-11-09T23:39:53.277118",
+  "provider_reported_pb_ratio": 16.47,
+  "statements_retrieved_at": "2026-11-09T23:39:53.277118",
   "retained_fields": []
 }
