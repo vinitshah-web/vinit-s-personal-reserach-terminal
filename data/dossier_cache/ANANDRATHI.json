@@ -6,7 +6,7 @@
   "business_summary": "Anand Rathi Wealth Limited engages in the distribution and sale of financial products in India. The company offers wealth solutions. It also operates Omni Financial Advisor, a technology platform for mutual fund distributors and independent financial advisors, which include client reporting, business dashboard, client engagement, online mutual fund transactions, and goal planning products. In addition, the company is involved in business brokerage activities. It serves high net-worth individuals and ultra-high net-worth individuals. The company was formerly known as Anand Rathi Wealth Services Limited and changed its name to Anand Rathi Wealth Limited in January 2021. Anand Rathi Wealth Limited was founded in 1994 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
   "market_cap_cr": 39351.78,
-  "pe_ratio": 87.26,
+  "pe_ratio": 87.32,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 77.61,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-09T23:39:30.121947",
+  "retrieval_time": "2026-11-10T21:04:40.026032",
   "provider_reported_pb_ratio": 30.54,
-  "statements_retrieved_at": "2026-11-09T23:39:30.121947",
+  "statements_retrieved_at": "2026-11-10T21:04:40.026032",
   "retained_fields": []
 }

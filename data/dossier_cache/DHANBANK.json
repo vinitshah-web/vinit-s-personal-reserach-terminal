@@ -6,7 +6,7 @@
   "business_summary": "Dhanlaxmi Bank Limited provides various banking and financial services in India. The company operates through Treasury, Retail Banking, Corporate/Wholesale Banking, and Other Banking Business segments. It offers deposit products, including savings and current accounts, and term deposits; debit and credit cards; and loans comprising home, vehicle, commercial, education, green, and business loans, as well as loans against securities and properties. The company also provides forex, digital banking, investment, depository, safe deposit lockers, financial planning, and door step banking services, as well as online services that include online trading, customs duty, prepaid mobile/DTH recharge, and bills payment. In addition, it offers credit services, such as industrial and trade advance, import export assistance, agricultural assistance, and credit treasury bills; forex, import, and export services; and corporate salary. Further, the company provides non-resident Indians (NRI) banking services, such as non-residential external accounts, non-resident ordinary accounts, recurring and term deposits, foreign currency non-resident fixed deposits, and resident foreign currency, as well as money transfer services and NRI property loans; and micro and agricultural banking, and financial planning services. Additionally, it offers SME banking services, including working capital facilities, trade facilities, and capacity expansion services; micro credit and agri banking services; and trade finance, electronic bank guarantees, and liberalized remittance schemes. Dhanlaxmi Bank Limited was incorporated in 1927 and is based in Thrissur, India.",
   "business_summary_reason": null,
   "market_cap_cr": 1300.93,
-  "pe_ratio": 9.34,
+  "pe_ratio": 9.23,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 39.1,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-09T23:51:42.222436",
+  "retrieval_time": "2026-11-10T21:16:23.309122",
   "provider_reported_pb_ratio": 0.84,
-  "statements_retrieved_at": "2026-11-09T23:51:42.222436",
+  "statements_retrieved_at": "2026-11-10T21:16:23.309122",
   "retained_fields": []
 }

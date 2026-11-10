@@ -6,7 +6,7 @@
   "business_summary": "Expleo Solutions Limited, together with its subsidiaries, primarily provides software validation and verification services to the banking, financial services, and insurance industries worldwide. The company offers computer programming, consultancy and related services, quality management, software development, software testing, AI and digital transformation, product and process engineering, quality and testing, and customer support and maintenance services. It also provides financial services. The company was formerly known as SQS India BFSI Limited and changed its name to Expleo Solutions Limited in April 2019. Expleo Solutions Limited was incorporated in 1998 and is based in Chennai, India. Expleo Solutions Limited is a subsidiary of Expleo Technology Germany GmbH.",
   "business_summary_reason": null,
   "market_cap_cr": 1300.55,
-  "pe_ratio": 9.65,
+  "pe_ratio": 9.44,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 500.21,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-09T23:55:49.526124",
+  "retrieval_time": "2026-11-10T21:20:16.493129",
   "provider_reported_pb_ratio": 1.68,
-  "statements_retrieved_at": "2026-11-09T23:55:49.526124",
+  "statements_retrieved_at": "2026-11-10T21:20:16.493129",
   "retained_fields": []
 }

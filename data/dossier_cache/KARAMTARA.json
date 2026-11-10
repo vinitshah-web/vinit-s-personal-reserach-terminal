@@ -6,7 +6,7 @@
   "business_summary": "Karamtara Engineering Limited manufactures and sells solar mounting structures and tracker components for the solar and transmission sectors in India, North America, Latin America, Europe, Asia, Africa, and Australia. The company offers module mounting structures, tracker piles and piers, and torque tubes; lattice towers for transmission lines; wind towers and steel profiles; fasteners such as bolts, nuts, studs, and washers; and overhead transmission line hardware fittings and accessories, including insulator string fittings, jumper tubes, suspension clamps, vibration dampers, optical ground wire fittings, substation fittings and accessories, and fittings for power distribution lines. It serves independent power producers, original equipment manufacturers, and engineering, procurement, and construction companies. Karamtara Engineering Limited was incorporated in 1996 and is based in Mumbai, India with additional offices in New York, New York; Solbiate Arno, Italy; Dammam, Saudi Arabia; and Palghar, Boisar, Butibori, and Kachchh, India.",
   "business_summary_reason": null,
   "market_cap_cr": null,
-  "pe_ratio": 54.1,
+  "pe_ratio": 41.54,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 41.74,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T00:09:16.601601",
+  "retrieval_time": "2026-11-10T21:32:59.729510",
   "provider_reported_pb_ratio": 9.22,
-  "statements_retrieved_at": "2026-11-10T00:09:16.601601",
+  "statements_retrieved_at": "2026-11-10T21:32:59.729510",
   "retained_fields": []
 }

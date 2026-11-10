@@ -6,7 +6,7 @@
   "business_summary": "MAS Financial Services Limited, a non-banking finance company (NBFC), provides retail financing services for individuals and businesses in India. It operates through Financing Activities and Others segments. The company offers micro-enterprise, small and medium enterprise, business, two-wheeler, used car, salaried personal, commercial vehicle and property, and housing finance loans; project loans for real estate projects; loans to NBFCs; and loans against property. It also engages in insurance broking activities. MAS Financial Services Limited was incorporated in 1995 and is headquartered in Ahmedabad, India.",
   "business_summary_reason": null,
   "market_cap_cr": 4789.1,
-  "pe_ratio": 11.65,
+  "pe_ratio": 11.48,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 177.47,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T00:15:05.967557",
+  "retrieval_time": "2026-11-10T21:38:27.693732",
   "provider_reported_pb_ratio": 1.49,
-  "statements_retrieved_at": "2026-11-10T00:15:05.967557",
+  "statements_retrieved_at": "2026-11-10T21:38:27.693732",
   "retained_fields": []
 }

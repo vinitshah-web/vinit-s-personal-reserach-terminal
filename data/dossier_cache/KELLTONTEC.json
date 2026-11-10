@@ -6,13 +6,13 @@
   "business_summary": "Kellton Tech Solutions Limited engages in the provision of digital transformation, ERP, and other IT services in APAC, Europe, the United States, and internationally. The company offers AI services, including AI development, generative AI, agentic AI & automation traditional AI, AI engineering & platforms, and AI governance and risk data engineering for AI services; data and analytics services comprising data consulting, data migration and modernization, analytics services, and integration and API services; product strategy, consulting, design, and management; and cloud engineering services, such as consulting, migration, and manage services, as well as DevSecOps services. It also provides product engineering services, including digital application development, mobile engineering, IoT and wearables solutions, and quality engineering services; blockchain, web 3.0, and metaverse services; ServiceNow services comprising AI enterprise, implementation, optimization, and consultation services; and SAP services, such as AMS support, automation, security and GRC, value-added solutions, and other SAP implementation services, as well as S/4HANA implementation services. In addition, the company offers Structi.ai, an AI data enrichment and decisioning platform; Phoenix.ai, which re-engineers monolithic legacy estates; Hooper, an autonomous enterprise platform; Audit.io for retail businesses, automating audits, and compliance processes; Tasks.io, an automated management system platform; Kelton4Commerce, which provide tailored e-commerce solutions; Optima, a digital oilfield platform; Kelton4Health, a digital fitness platform; KLGAME, a location-based gamification, analytics, and rich messaging engine; Kelton4NFT for monetization of digital content through NFT creation and sales; and tHRive, an automated HRMS software, as well as data accelerators. Kellton Tech Solutions Limited was incorporated in 1993 and is headquartered in Hyderabad, India.",
   "business_summary_reason": null,
   "market_cap_cr": 623.87,
-  "pe_ratio": 7.2,
+  "pe_ratio": 7.07,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 14.06,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 53.1405,
-  "fifty_two_week_high": 22.1,
+  "fifty_two_week_high": 22.0,
   "fifty_two_week_low": 10.66,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T00:09:42.321629",
+  "retrieval_time": "2026-11-10T21:33:24.088753",
   "provider_reported_pb_ratio": 0.83,
-  "statements_retrieved_at": "2026-11-10T00:09:42.321629",
+  "statements_retrieved_at": "2026-11-10T21:33:24.088753",
   "retained_fields": []
 }

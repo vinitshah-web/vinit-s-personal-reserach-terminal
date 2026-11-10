@@ -6,7 +6,7 @@
   "business_summary": "Sarveshwar Foods Limited processes, manufactures, markets, and distributes basmati and non-basmati rice in India and internationally. The company provides basmati brown rice, white raw rice, steam rice, silky raw rice, white parboiled rice, and golden parboiled rice; and non-basmati rice, including Indian long/medium/short grain white raw rice, white parboiled rice, grain golden parboiled rice, and grain brown rice. It also offers organic food, such as organic pulses, flours, spices, edible oils, dry fruits, superfoods, himalayan honey, Shilajit and other wellness products under the brand name of Nimbark. The company exports its products. It distributes its products through distributors and retailers across India and international markets. The company was formerly known as Sarveshwar Organic Foods Limited and changed its name to Sarveshwar Foods Limited in June 2015. Sarveshwar Foods Limited was founded in 1890 and is based in Jammu, India.",
   "business_summary_reason": null,
   "market_cap_cr": 463.09,
-  "pe_ratio": 13.93,
+  "pe_ratio": 13.43,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 3.9,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T00:31:55.755241",
+  "retrieval_time": "2026-11-10T21:54:30.816365",
   "provider_reported_pb_ratio": 0.96,
-  "statements_retrieved_at": "2026-11-10T00:31:55.755241",
+  "statements_retrieved_at": "2026-11-10T21:54:30.816365",
   "retained_fields": []
 }

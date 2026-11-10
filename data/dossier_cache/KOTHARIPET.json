@@ -6,7 +6,7 @@
   "business_summary": "Kothari Petrochemicals Limited manufactures and sells petrochemical products in India and internationally. The company offers polyisobutylene (PIB) products, such as KVIS 10, KVIS 20, KVIS 30, KVIS 100, KVIS 150, and KVIS 200. It also provides PIB R-01, a glue for pest repellant, adhesive, and tackiness applications. The company's products are used in lubricant and dispersant, fuel additive, grease, adhesive, sealant and caulk, rubber manufacturing, personal care, masterbatch compounding, PVC pipe and fitting, stretch/silage, polymer modification, construction chemical and rubber, optical fiber, and other applications. It exports its products. The company was incorporated in 1989 and is headquartered in Chennai, India. Kothari Petrochemicals Limited operates as a subsidiary of BHK Trading LLP.",
   "business_summary_reason": null,
   "market_cap_cr": 723.4,
-  "pe_ratio": 10.29,
+  "pe_ratio": 10.05,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 68.44,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T00:10:43.062817",
+  "retrieval_time": "2026-11-10T21:34:20.770610",
   "provider_reported_pb_ratio": 1.8,
-  "statements_retrieved_at": "2026-11-10T00:10:43.062817",
+  "statements_retrieved_at": "2026-11-10T21:34:20.770610",
   "retained_fields": []
 }

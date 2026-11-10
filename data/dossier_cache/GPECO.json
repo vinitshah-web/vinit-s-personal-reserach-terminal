@@ -5,14 +5,14 @@
   "industry": null,
   "business_summary": null,
   "business_summary_reason": "The secondary provider returned no company overview.",
-  "market_cap_cr": 422.53,
+  "market_cap_cr": 426.86,
   "pe_ratio": 10.64,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 144.21,
   "dividend_yield_pct": 0.0,
-  "shares_outstanding_cr": 1.1711,
-  "fifty_two_week_high": 542.5,
+  "shares_outstanding_cr": 1.1831,
+  "fifty_two_week_high": 530.0,
   "fifty_two_week_low": 264.05,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-09T23:59:30.622196",
+  "retrieval_time": "2026-11-10T21:23:44.510145",
   "provider_reported_pb_ratio": 2.5,
-  "statements_retrieved_at": "2026-11-09T23:59:30.622196",
+  "statements_retrieved_at": "2026-11-10T21:23:44.510145",
   "retained_fields": []
 }

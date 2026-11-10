@@ -6,7 +6,7 @@
   "business_summary": "Gandhar Oil Refinery (India) Limited manufactures and sells white oils in India. It offers mineral and specialty oils, petroleum jellies, industrial solvents, and paraffin waxes for consumer, healthcare, chemicals, and plastics sectors; lubricants, including automotive oils and industrial oils for automobile, and industrial machines and equipment; and process and insulating oils comprising transformer oils and rubber processing oils for transformer manufacturers, power generation and distribution, and tyre and rubber product manufacturers. The company is also involved in trading non-coking coal; and the provision of logistics services, including cargo handling and transportation. Further, it operates consignment and del-credere agency; and sells polymer products. The company sells its products under Divyol brand. It exports its products to the Americas, Europe, Africa, and the Asia-Pacific. Gandhar Oil Refinery (India) Limited was incorporated in 1992 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
   "market_cap_cr": 2554.6,
-  "pe_ratio": 6.05,
+  "pe_ratio": 5.8,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 173.61,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-09T23:57:15.809292",
+  "retrieval_time": "2026-11-10T21:21:37.790215",
   "provider_reported_pb_ratio": 1.5,
-  "statements_retrieved_at": "2026-11-09T23:57:15.809292",
+  "statements_retrieved_at": "2026-11-10T21:21:37.790215",
   "retained_fields": []
 }

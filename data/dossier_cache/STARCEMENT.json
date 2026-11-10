@@ -6,13 +6,13 @@
   "business_summary": "Star Cement Limited manufactures and supplies cement and clinker products in India and internationally. The company offers ordinary Portland, Portland pozzolana, and weather shield cement under the Star Cement brand. It also generates power; provides fleet services; manufactures Autoclaved Aerated Concrete block, construction chemicals, and ready mix concrete; and exports clinker. The company was formerly known as Cement Manufacturing Company Limited and changed its name to Star Cement Limited in June 2016. Star Cement Limited was incorporated in 2001 and is based in Kolkata, India.",
   "business_summary_reason": null,
   "market_cap_cr": 7116.81,
-  "pe_ratio": 21.45,
+  "pe_ratio": 21.06,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
-  "book_value": 78.86,
-  "dividend_yield_pct": 0.5692,
+  "book_value": 78.95,
+  "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 40.418,
-  "fifty_two_week_high": 246.65,
+  "fifty_two_week_high": 244.65,
   "fifty_two_week_low": 156.2,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T00:37:49.598268",
+  "retrieval_time": "2026-11-10T22:00:03.253342",
   "provider_reported_pb_ratio": 2.23,
-  "statements_retrieved_at": "2026-11-10T00:37:49.598268",
+  "statements_retrieved_at": "2026-11-10T22:00:03.253342",
   "retained_fields": []
 }

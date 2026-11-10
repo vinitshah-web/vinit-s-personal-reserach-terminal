@@ -6,13 +6,13 @@
   "business_summary": "Royal Orchid Hotels Limited, together with its subsidiaries, operates and manages hotels and resorts for business and leisure travelers in India and Tanzania. The company operates 5-star and 4-star hotels and resorts under the Regenta, Hotel Royal Orchid, Royal Orchid Suits, Regenta Central, Regenta Resort, Royal Orchid Resort, Royal Orchid Central, Regenta Place, Regenta Z, and Regenta Inn. It also offers restaurant services. In addition, the company offers room bookings, multi-cuisine restaurants, banqueting and event spaces, wellness facilities, and loyalty programs. The company was formerly known as Universal Resorts Limited and changed its name to Royal Orchid Hotels Limited in 1997. Royal Orchid Hotels Limited was incorporated in 1986 and is headquartered in Bengaluru, India.",
   "business_summary_reason": null,
   "market_cap_cr": 798.07,
-  "pe_ratio": 29.01,
+  "pe_ratio": 28.84,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 94.23,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 2.7425,
-  "fifty_two_week_high": 462.45,
+  "fifty_two_week_high": 459.75,
   "fifty_two_week_low": 260.6,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T00:29:47.115716",
+  "retrieval_time": "2026-11-10T21:52:31.337222",
   "provider_reported_pb_ratio": 3.09,
-  "statements_retrieved_at": "2026-11-10T00:29:47.115716",
+  "statements_retrieved_at": "2026-11-10T21:52:31.337222",
   "retained_fields": []
 }

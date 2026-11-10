@@ -6,7 +6,7 @@
   "business_summary": "DLF Limited, together with its subsidiaries, engages in the business of colonization and real estate development in India. The company is involved in the real estate development activities, including identification and acquisition of land, planning, execution, construction, and marketing of projects. The company also develops and sells residential housing projects, including under-construction projects. In addition, it operates and maintains commercial office spaces, as well as retail properties, such as malls, shopping complexes, recreational spaces, and hotels and clubs. In addition, the company engages in leasing, power generation, provision of maintenance services, and hospitality and recreational activities. Further, it owns and operates hotels under the The Lodhi and Hilton Garden Inn. The company was founded in 1946 and is based in Gurugram, India. DLF Limited operates as a subsidiary of Rajdhani Investments and Agencies Private Limited.",
   "business_summary_reason": null,
   "market_cap_cr": 186886.02,
-  "pe_ratio": 40.57,
+  "pe_ratio": 40.94,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 183.91,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-09T23:52:24.662602",
+  "retrieval_time": "2026-11-10T21:17:02.295171",
   "provider_reported_pb_ratio": 4.11,
-  "statements_retrieved_at": "2026-11-09T23:52:24.662602",
+  "statements_retrieved_at": "2026-11-10T21:17:02.295171",
   "retained_fields": []
 }

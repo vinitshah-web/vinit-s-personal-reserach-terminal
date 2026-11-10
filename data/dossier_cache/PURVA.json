@@ -6,7 +6,7 @@
   "business_summary": "Puravankara Limited, together with its subsidiaries, is engaged in the business of real estate development. The company also designs, develops, constructs, and markets residential and commercial properties in India. Puravankara Limited was founded in 1975 and is headquartered in Bengaluru, India.",
   "business_summary_reason": null,
   "market_cap_cr": 4774.53,
-  "pe_ratio": 29.83,
+  "pe_ratio": 16.89,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 79.97,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T00:27:06.397483",
+  "retrieval_time": "2026-11-10T21:49:59.809899",
   "provider_reported_pb_ratio": 2.52,
-  "statements_retrieved_at": "2026-11-10T00:27:06.397483",
+  "statements_retrieved_at": "2026-11-10T21:49:59.809899",
   "retained_fields": []
 }

@@ -6,7 +6,7 @@
   "business_summary": "Ajmera Realty & Infra India Limited, together with its subsidiaries, engages in the real estate development business. The company constructs and develops residential and commercial projects, including apartments, schools, retail and malls, and commercial spaces, as well as land development projects. It serves individuals, families, corporations, institutions, and government bodies. The company was founded in 1968 and is based in Mumbai, India. Ajmera Realty & Infra India Limited operates as a subsidiary of Ariil Trust.",
   "business_summary_reason": null,
   "market_cap_cr": 2617.78,
-  "pe_ratio": 19.5,
+  "pe_ratio": 17.57,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 71.06,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-09T23:38:20.630450",
+  "retrieval_time": "2026-11-10T21:03:31.651153",
   "provider_reported_pb_ratio": 1.87,
-  "statements_retrieved_at": "2026-11-09T23:38:20.630450",
+  "statements_retrieved_at": "2026-11-10T21:03:31.651153",
   "retained_fields": []
 }

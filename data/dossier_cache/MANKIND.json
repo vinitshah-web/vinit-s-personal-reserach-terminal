@@ -5,13 +5,13 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Mankind Pharma Limited develops, manufactures, and markets pharmaceutical formulations and consumer healthcare products in India and internationally. The company develops pharmaceuticals for acute and chronic therapeutics in the areas of anti-infective, cardiovascular, gastrointestinal, gynaecology, urology, anti-diabetic, dermatology, pain/analgesics, neuro/CNS, vitamins/minerals/nutrients, respiratory, and other diseases. It also provides consumer healthcare products, such as condoms, pregnancy detection, emergency contraceptives, antacid powders, vitamin and mineral supplements, and anti-acne preparations. In addition, the company engages in the trading of pharmaceutical and health care products; manufacture of packing materials, ayurvedic products, and consumer goods; real estate, leasing, and hospitality businesses; trading of agricultural and pet food products; and provision of IT services. It offers its products under the Manforce, Moxi Kind-Cv, AmLokind-At, Unwanted-Kit, Prega News, Dydroboon, Telmikind-Am, Gudcef, Glimestar-M, Candi Force, Nurokind-Gold, Telmikind-H, Telmikind, Nurokind-Lc, Nurokind Plus-Rf, Vomikind, Cefakind, Glizid-M, Monticope, and Gudcef-Cv brand names. Mankind Pharma Limited was incorporated in 1991 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 110199.71,
+  "market_cap_cr": 110212.82,
   "pe_ratio": 49.19,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 425.79,
   "dividend_yield_pct": 0.0,
-  "shares_outstanding_cr": 41.2996,
+  "shares_outstanding_cr": 41.3045,
   "fifty_two_week_high": 2705.0,
   "fifty_two_week_low": 1909.7,
   "financial_statements": [
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T00:14:42.125654",
+  "retrieval_time": "2026-11-10T21:38:05.063704",
   "provider_reported_pb_ratio": 6.27,
-  "statements_retrieved_at": "2026-11-10T00:14:42.125654",
+  "statements_retrieved_at": "2026-11-10T21:38:05.063704",
   "retained_fields": []
 }

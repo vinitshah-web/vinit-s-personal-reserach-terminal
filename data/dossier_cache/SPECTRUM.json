@@ -6,7 +6,7 @@
   "business_summary": "Spectrum Electrical Industries Limited designs, manufactures, and sells electrical, automobile, and irrigation components in India. The company provides distribution boards, AC boxes, modular electric board panels, mini MCB bases and covers, tools, moulds, electric bulb holders, auto and irrigation equipment, lamp angle holders, EV chargers, control panel, metal junction boxes, electrical safety devices, and other electrical components. It also offers surface coating services; metallic stamping services; plastics molding services; molds, dies, and tooling products; and end to end solutions. Spectrum Electrical Industries Limited was incorporated in 2008 and is based in Mumbai, India.",
   "business_summary_reason": null,
   "market_cap_cr": 7790.0,
-  "pe_ratio": 129.92,
+  "pe_ratio": 106.79,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 155.54,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T00:37:12.772686",
+  "retrieval_time": "2026-11-10T21:59:28.696244",
   "provider_reported_pb_ratio": 29.31,
-  "statements_retrieved_at": "2026-11-10T00:37:12.772686",
+  "statements_retrieved_at": "2026-11-10T21:59:28.696244",
   "retained_fields": []
 }

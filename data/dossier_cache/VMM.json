@@ -5,14 +5,14 @@
   "industry": "Department Stores",
   "business_summary": "Vishal Mega Mart Limited engages in the wholesale, trading, and retail of apparel, fast moving consumer goods, and general merchandise in India. The company offers apparel, including t-shirts, classics, fashion, lingerie, men's formal and casual, kids' wear, women's casual and ethnic, denims, athleisure, infant wear, and girl's wear products; and general merchandise, such as home appliances and furnishings, crockery, utensils, and travel products, as well as footwear and lifestyle products. It also provides fast-moving consumer goods comprising staples, packaged food, women hygiene, home care, personal care, infant diapers, savoury products, dairy and confectionery, kitchen roll napkin, facial tissue, and incense products. The company sells its products through its stores, mobile application, and website under third party and its own brand names. The company was incorporated in 2018 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 43386.07,
+  "market_cap_cr": 43390.7,
   "pe_ratio": 48.75,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 17.0,
   "dividend_yield_pct": 0.0,
-  "shares_outstanding_cr": 468.4309,
-  "fifty_two_week_high": 143.7,
+  "shares_outstanding_cr": 468.4809,
+  "fifty_two_week_high": 142.5,
   "fifty_two_week_low": 84.16,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T00:46:30.012547",
+  "retrieval_time": "2026-11-10T22:08:20.658945",
   "provider_reported_pb_ratio": 5.45,
-  "statements_retrieved_at": "2026-11-10T00:46:30.012547",
+  "statements_retrieved_at": "2026-11-10T22:08:20.658945",
   "retained_fields": []
 }

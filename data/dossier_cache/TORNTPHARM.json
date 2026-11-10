@@ -6,14 +6,14 @@
   "business_summary": "Torrent Pharmaceuticals Limited engages in the research, development, manufacturing, marketing, and distribution of branded and generic pharmaceutical formulations in India, the United States, Brazil, Germany, Malta, and internationally. The company offers products in various therapeutic areas, including anti-diabetic, anti-microbial, cardiovascular, CNS, urology, gynecology, oncology, gastro-intestinal, nephrology, neuro-psychiatric, dermatology, pulmonology, pediatric treatments, nutritional, pain management, anti-infective, and miscellaneous, as well as vitamins, minerals, and nutrients. It also provides contract manufacturing services. The company offers its products under Tedibar, Shelcal, Unienzyme, ProZuca, and Ahaglow brands. The company was formerly known as Trinity Laboratories and changed its name to Torrent Pharmaceuticals Limited in 1971. The company was founded in 1959 and is based in Ahmedabad, India. Torrent Pharmaceuticals Limited is a subsidiary of Torrent Investments Private Limited.",
   "business_summary_reason": null,
   "market_cap_cr": 181815.84,
-  "pe_ratio": 81.14,
+  "pe_ratio": 80.74,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 483.41,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 38.0368,
   "fifty_two_week_high": 5250.0,
-  "fifty_two_week_low": 3602.0,
+  "fifty_two_week_low": 3672.3,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T00:42:21.279055",
+  "retrieval_time": "2026-11-10T22:04:31.427443",
   "provider_reported_pb_ratio": 9.89,
-  "statements_retrieved_at": "2026-11-10T00:42:21.279055",
+  "statements_retrieved_at": "2026-11-10T22:04:31.427443",
   "retained_fields": []
 }

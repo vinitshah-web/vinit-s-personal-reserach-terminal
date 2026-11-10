@@ -6,7 +6,7 @@
   "business_summary": "Manappuram Finance Limited, a gold loan non-banking financial company, provides fund-based and fee-based financial services in India. It operates through Gold Loan and Others, and Microfinance segments. The company offers loans, such as gold loans, gold loans at your doorstep, online gold loans, business loans, home improvement loans, housing loans, property loans, income-generating loans, and personal loans; balance transfers and top-ups; and co-lending arrangements. It also finances commercial and passenger vehicles, construction and farm equipment, and two-wheelers, as well as micro, small, and medium enterprises. In addition, the company offers foreign exchange money transfer and digital wallet services, as well as other services, such as depository services and demat account services. It serves salaried professionals, self-employed individuals, retail customers, and gold jewelry holders; small and medium-sized enterprises, large corporate entities, and institutional clients across the education and health sectors; and micro and small entrepreneurs engaged in trading and manufacturing activities. The company was formerly known as Manappuram General Finance and Leasing Limited and changed its name to Manappuram Finance Limited in 2011. Manappuram Finance Limited was founded in 1949 and is headquartered in Thrissur, India.",
   "business_summary_reason": null,
   "market_cap_cr": 30411.01,
-  "pe_ratio": 19.78,
+  "pe_ratio": 19.92,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 170.87,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T00:14:28.914325",
+  "retrieval_time": "2026-11-10T21:37:52.827757",
   "provider_reported_pb_ratio": 1.89,
-  "statements_retrieved_at": "2026-11-10T00:14:28.914325",
+  "statements_retrieved_at": "2026-11-10T21:37:52.827757",
   "retained_fields": []
 }

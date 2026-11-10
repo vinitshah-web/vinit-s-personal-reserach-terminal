@@ -6,7 +6,7 @@
   "business_summary": "The Motor & General Finance Limited engages in the rental, leasing, and sale of immovable properties in India. It also engages in the development of real estate properties. The Motor & General Finance Limited was incorporated in 1930 and is headquartered in New Delhi, India.",
   "business_summary_reason": null,
   "market_cap_cr": 90.56,
-  "pe_ratio": 0.63,
+  "pe_ratio": 0.6,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 57.4,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T00:18:20.820497",
+  "retrieval_time": "2026-11-10T21:41:49.238274",
   "provider_reported_pb_ratio": 0.4,
-  "statements_retrieved_at": "2026-11-10T00:18:20.820497",
+  "statements_retrieved_at": "2026-11-10T21:41:49.238274",
   "retained_fields": []
 }

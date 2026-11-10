@@ -6,7 +6,7 @@
   "business_summary": "Tata Teleservices (Maharashtra) Limited provides wire line voice, data, and managed telecom services to enterprise customers in Maharashtra and Goa. The company offers its information and communication solutions under the Tata Tele Business Services brand name. It provides digital solutions, including connectivity, business communications, security, marketing, and managed services. The company provides cloud and SaaS services comprising smart cloud, google workplace, Microsoft azure and Microsoft 365, smartflo and smartflo UCaaS; voice services, including Centrex, PRI, SIP trunk, SmartOffice, and international bridging service. It also offers data services comprising smart internet, Ill burstable bandwidth, SD-WAN iFLX, smart VPN-MPLS, EZ cloud connect, leased line-P2P, tele Wi-Fi, ultra-LOLA, and business and retail broadband. In addition, the company provides marketing solutions, such as toll free and call register services, hosted IVR, hosted OBD services, and SMS solutions; and cyber security services, including multifactor authentication and virtual firewall, as well as email, endpoint, and web security. It serves BFSI, IT/ITES, manufacturing, services, education, healthcare, telecom, media, entertainment, retail, and other industries. Tata Teleservices (Maharashtra) Limited was incorporated in 1995 and is headquartered in Navi Mumbai, India.",
   "business_summary_reason": null,
   "market_cap_cr": 7688.73,
-  "pe_ratio": 26.76,
+  "pe_ratio": 25.71,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": -102.22,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T00:43:03.089722",
+  "retrieval_time": "2026-11-10T22:05:10.683905",
   "provider_reported_pb_ratio": -0.38,
-  "statements_retrieved_at": "2026-11-10T00:43:03.089722",
+  "statements_retrieved_at": "2026-11-10T22:05:10.683905",
   "retained_fields": []
 }

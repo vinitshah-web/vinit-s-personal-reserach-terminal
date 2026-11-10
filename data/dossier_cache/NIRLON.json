@@ -6,7 +6,7 @@
   "business_summary": "Nirlon Limited engages in the development and management of an industrial/information technology park. The company's primary business activity is the development, management, and operation of Nirlon Knowledge Park (NKP), an approximately 23-acre campus located in Goregaon (East), Mumbai. The company was incorporated in 1958 and is based in Mumbai, India. Nirlon Limited operates as a subsidiary of Reco Berry Private Limited.",
   "business_summary_reason": null,
   "market_cap_cr": 5729.25,
-  "pe_ratio": 20.4,
+  "pe_ratio": 20.38,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 52.69,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T00:21:11.931180",
+  "retrieval_time": "2026-11-10T21:44:28.914974",
   "provider_reported_pb_ratio": 12.07,
-  "statements_retrieved_at": "2026-11-10T00:21:11.931180",
+  "statements_retrieved_at": "2026-11-10T21:44:28.914974",
   "retained_fields": []
 }

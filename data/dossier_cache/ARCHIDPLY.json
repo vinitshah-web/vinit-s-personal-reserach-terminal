@@ -6,7 +6,7 @@
   "business_summary": "Archidply Industries Limited manufactures and sells wood and paper-based products in India and internationally. It operates through Plywood & Allied Products, Laminate & Allied Products, and Medium Density Fibre Board segments. The company offers plywood; flush and laminated doors; densified film face plywood; clads; interior grade, unicore, digital, and sandwich compacts; insulator panels and paper phenolic laminates; extreme density high moisture resistance plain and laminated products; PVC, WPC, and hybrid WPC boards; and medium density fiberboards, including interior grade, exterior grade, and pre lam. It also provides exterior grade, high pressure, postforming, ani-fingerprint, anti-bacterial, magnetic, digital, unicore, fire retardant, marker board, chalk board, switch board, and liner laminates. The company was founded in 1976 and is based in New Delhi, India.",
   "business_summary_reason": null,
   "market_cap_cr": 181.41,
-  "pe_ratio": 14.0,
+  "pe_ratio": 13.82,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 56.32,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-09T23:40:34.659117",
+  "retrieval_time": "2026-11-10T21:05:45.263402",
   "provider_reported_pb_ratio": 1.61,
-  "statements_retrieved_at": "2026-11-09T23:40:34.659117",
+  "statements_retrieved_at": "2026-11-10T21:05:45.263402",
   "retained_fields": []
 }

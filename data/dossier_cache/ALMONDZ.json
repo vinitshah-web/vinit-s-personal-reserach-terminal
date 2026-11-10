@@ -6,7 +6,7 @@
   "business_summary": "Almondz Global Securities Limited provides professional advisory and consultancy services in India. The company operates through Debt and Equity Market Operations, Corporate Finance/Advisory Fees, Wealth Advisory/Broking Activities, Infrastructure Advisory, and Healthcare Services segments. It offers merchant banking, underwriting commission, corporate and loan syndication, and debts/bonds arrangement services, as well as deals/trades in shares and bonds. The company also provides broking and commission services for mutual funds, equity initial public offerings, capital gain bonds, government undertaking fixed deposits, and RBI taxable bonds, as well as stock and share broking services and other related ancillary services. In addition, it offers advisory services in relation to infrastructure projects. Further, the company operates eye-care hospitals. Additionally, it provides private equity, M and A, infrastructure advisory, equity broking, wealth management, and debt portfolio management services and distribution; and technical and consultancy services in the areas of management, engineering, industrial, technical, and financial for infrastructure sectors. The company also operates commodity trading platforms for retail and corporate investors; engages in the real estate and healthcare activities, as well as provision of diagnostic and treatment services for various eye disorders. The company was incorporated in 1994 and is based in New Delhi, India. Almondz Global Securities Limited operates as a subsidiary of Avonmore Capital & Management Services Limited.",
   "business_summary_reason": null,
   "market_cap_cr": 346.11,
-  "pe_ratio": 9.53,
+  "pe_ratio": 8.79,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 16.94,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-09T23:38:55.651788",
+  "retrieval_time": "2026-11-10T21:04:05.826563",
   "provider_reported_pb_ratio": 1.07,
-  "statements_retrieved_at": "2026-11-09T23:38:55.651788",
+  "statements_retrieved_at": "2026-11-10T21:04:05.826563",
   "retained_fields": []
 }

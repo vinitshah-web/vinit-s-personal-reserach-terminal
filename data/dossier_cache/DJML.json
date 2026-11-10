@@ -6,7 +6,7 @@
   "business_summary": "DJ Mediaprint & Logistics Limited provides integrated printing, logistics, and courier solutions in India and internationally. The company operates through three segments: Printing; Record Management Scanning and Logistics Services; and Other Business. It offers printing solutions, including variable data, continuous stationery, security, book, and magazine printing; bulk mailing; logistics solutions through air, rail, and road transportation, such as speed post, international courier, and moving services; and record and data management services comprising secured storage for business records, data tape storage and back up rotation services, and value items storage, as well as data entry, backlog scanning, and KYC verification. The company also provides newspaper print advertising; manpower supply; bulk SMS and emails; and bulk scanning services, which include off-site records storage, documents, scanning, rotation, evaluating and shredding. It serves banking, education, finance, lottery tickets, healthcare, insurance, manufacturing, retail, stockbroking, telecom, utilities, and other, as well as airlines, shipping, and logistics industries. The company was founded in 1999 and is based in Navi Mumbai, India.",
   "business_summary_reason": null,
   "market_cap_cr": 264.4,
-  "pe_ratio": 21.71,
+  "pe_ratio": 21.27,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 26.27,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-09T23:52:23.282609",
+  "retrieval_time": "2026-11-10T21:17:01.060276",
   "provider_reported_pb_ratio": 2.8,
-  "statements_retrieved_at": "2026-11-09T23:52:23.282609",
+  "statements_retrieved_at": "2026-11-10T21:17:01.060276",
   "retained_fields": []
 }

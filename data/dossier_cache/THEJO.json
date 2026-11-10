@@ -5,13 +5,13 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "Thejo Engineering Limited designs, develops, manufactures, and supplies rubber and polyurethane based engineering products for bulk material handling systems, mineral processing, and corrosion protection applications in India and internationally. It operates through three segments: Manufacturing Units, Service Units, and Others. The company provides conveyor care products, including belt conveyor splicing and repair solutions, pulley lagging sheets, vulcanizing equipment, and belt coiler and de coiler products, as well as school tool kits, such as hand and power tools, and personal protective equipment; and transfer point solutions comprising belt cleaners and trackers, impact cushion pads, skirt sealing systems, and engineered chutes. It also offers high pressure fogging systems for dust suppression; flow promotion products; and abrasion and wear protection products, including mill lining, bulk flow chutes, wear resistant panels and sheeting, and twister cyclone and pump spares, as well as rubber hoses, lined pipes, and fittings; and other services. In addition, the company provides corrosion protection products comprising rubber sheeting, hoses, lined pipes, and fittings; and primers adhesive and repair putty products, expansion joints and bellows, fabrication and linings, and PTFE linings and bellows. Further, it offers scalping and sizing, de-watering, flip flow, and trommel screening solutions, as well as grator spares; rubber, engineered plastic, and metallic spares; and specialty products. Additionally, the company provides conveyor belt, project execution, transfer point, abrasion and wear, filtration, screening, and corrosion protection services. It serves steel, mining, mineral processing, aggregates, sand and gravel, power, metal, chemical and fertilizer, cement, paper and pulp, and food and grain industries, as well as ports and terminals. The company was founded in 1974 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2121.03,
+  "market_cap_cr": 2121.33,
   "pe_ratio": 37.88,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 326.73,
   "dividend_yield_pct": 0.0,
-  "shares_outstanding_cr": 1.0846,
+  "shares_outstanding_cr": 1.0847,
   "fifty_two_week_high": 2286.6,
   "fifty_two_week_low": 1443.6,
   "financial_statements": [
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T00:41:30.009547",
+  "retrieval_time": "2026-11-10T22:03:44.405170",
   "provider_reported_pb_ratio": 5.99,
-  "statements_retrieved_at": "2026-11-10T00:41:30.009547",
+  "statements_retrieved_at": "2026-11-10T22:03:44.405170",
   "retained_fields": []
 }

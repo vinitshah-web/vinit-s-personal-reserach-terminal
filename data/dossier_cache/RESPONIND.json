@@ -6,7 +6,7 @@
   "business_summary": "Responsive Industries Limited manufactures and sells polyvinyl chloride (PVC) based products in India and internationally. The company provides vinyl flooring, synthetic leather/ropes, and luxury vinyl tile, including LVT-SPC and waterproofing membranes. It also offers plastic, non-metallic mineral, rubber products, and fabricated metal products. The company serves the hospitality, transportation, healthcare, IT and telecom, retail, sports infrastructure, education, and real estate sectors. It exports its products. The company was formerly known as Responsive Polymers Limited and changed its name to Responsive Industries Limited in 2007. Responsive Industries Limited was incorporated in 1982 and is based in Thane, India. Responsive Industries Limited is a subsidiary of Wellknown Business Ventures LLP.",
   "business_summary_reason": null,
   "market_cap_cr": 3630.68,
-  "pe_ratio": 35.84,
+  "pe_ratio": 66.43,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 58.24,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T00:29:10.530240",
+  "retrieval_time": "2026-11-10T21:51:56.811669",
   "provider_reported_pb_ratio": 2.34,
-  "statements_retrieved_at": "2026-11-10T00:29:10.530240",
+  "statements_retrieved_at": "2026-11-10T21:51:56.811669",
   "retained_fields": []
 }

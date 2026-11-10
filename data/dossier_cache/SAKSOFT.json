@@ -6,7 +6,7 @@
   "business_summary": "Saksoft Limited, an information technology company, provides digital transformation solutions in Europe, the United States, the Asia Pacific, and internationally. It operates through Banking and Financial Services (BSF); Logistics; Emerging Vertical; and Commerce segments. The company offers services in the field of AI innovation lab, digital product engineering, agentic AI and intelligent solutions, data and advanced analytics, digital commerce platforms, salesforce customer transformation, AI-assisted quality engineering, and application modernisation; cloud and platform engineering; data platform modernisation; AI-assisted code transformation; salesforce and servicenow platform modernisation; cybersecurity and devsecops; enterprise dataops; cloud and infrastructure; quality engineering; automation; and global capability centres. It also provides mobility solution, application development, robotics process automation, analytics, Internet of Things, domain-specific technology solutions, strategic consulting, technology training, digital commerce, and digital testing services. The company serves logistics and transportation, banking and financial, digital commerce, Hi-tech and Saas, telecom, and utility sector. Saksoft Limited was incorporated in 1999 and is headquartered in Chennai, India.",
   "business_summary_reason": null,
   "market_cap_cr": 1715.01,
-  "pe_ratio": 13.3,
+  "pe_ratio": 13.37,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 60.93,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T00:31:17.249688",
+  "retrieval_time": "2026-11-10T21:53:54.824343",
   "provider_reported_pb_ratio": 2.19,
-  "statements_retrieved_at": "2026-11-10T00:31:17.249688",
+  "statements_retrieved_at": "2026-11-10T21:53:54.824343",
   "retained_fields": []
 }

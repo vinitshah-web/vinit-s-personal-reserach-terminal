@@ -6,7 +6,7 @@
   "business_summary": "Lancor Holdings Limited, together with its subsidiaries, engages in the development of residential and commercial properties in India. The company is also involved in the leasing of commercial properties and allied activities. In addition, it provides maintenance services and club memberships. The company was formerly known as DBS Properties Limited. The company is based in Chennai, India.",
   "business_summary_reason": null,
   "market_cap_cr": 242.28,
-  "pe_ratio": 4.37,
+  "pe_ratio": 4.2,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 32.63,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T00:11:49.311692",
+  "retrieval_time": "2026-11-10T21:35:22.214845",
   "provider_reported_pb_ratio": 1.01,
-  "statements_retrieved_at": "2026-11-10T00:11:49.311692",
+  "statements_retrieved_at": "2026-11-10T21:35:22.214845",
   "retained_fields": []
 }

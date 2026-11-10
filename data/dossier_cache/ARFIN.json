@@ -6,7 +6,7 @@
   "business_summary": "Arfin India Limited manufactures and trades in ferrous and non-ferrous metals in India. Its products include conductor and cables, aluminum wire rods, cored wire, ferro alloys, inoculant, aluminum deox, and aluminum alloys ingots. It serves electrical transmission and distribution, steel, foundry, construction, packaging, and infrastructure industries. The company also exports its products. Arfin India Limited was incorporated in 1992 and is based in Gandhinagar, India.",
   "business_summary_reason": null,
   "market_cap_cr": 1627.67,
-  "pe_ratio": 88.5,
+  "pe_ratio": 74.21,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 10.1,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-09T23:40:43.479601",
+  "retrieval_time": "2026-11-10T21:05:54.486556",
   "provider_reported_pb_ratio": 9.56,
-  "statements_retrieved_at": "2026-11-09T23:40:43.479601",
+  "statements_retrieved_at": "2026-11-10T21:05:54.486556",
   "retained_fields": []
 }

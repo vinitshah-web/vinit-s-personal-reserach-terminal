@@ -6,13 +6,13 @@
   "business_summary": "Cohance Lifesciences Limited engages in the contract research, development, and manufacturing of new chemical entity (NCE) based intermediates, active pharmaceutical ingredients (API), specialty chemicals, and formulated drugs in India, the United States, Europe, and internationally. The company offers small molecule APIs, advanced intermediates, and starting materials; antibody drug conjugates; high-purity oligonucleotide building blocks comprising phosphoramidites, nucleosides, pseudouridine, NTPs, CAP reagents, GalNAc conjugates, and fluorescent dyes; pellets and finished dosage forms (FDE); packaging and clinical trial support services; and specialty chemicals, including agrochemicals. It serves pharmaceutical, biotechnology, and chemical companies. The company was formerly known as Suven Pharmaceuticals Limited and changed its name to Cohance Lifesciences Limited in May 2025. The company was founded in 1989 and is headquartered in Hyderabad, India. Cohance Lifesciences Limited is a subsidiary of Berhyanda Limited.",
   "business_summary_reason": null,
   "market_cap_cr": 16975.07,
-  "pe_ratio": 379.19,
+  "pe_ratio": 372.82,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 102.24,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 38.2623,
-  "fifty_two_week_high": 715.0,
+  "fifty_two_week_high": 708.05,
   "fifty_two_week_low": 266.7,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-09T23:49:02.363047",
+  "retrieval_time": "2026-11-10T21:13:52.539033",
   "provider_reported_pb_ratio": 4.34,
-  "statements_retrieved_at": "2026-11-09T23:49:02.363047",
+  "statements_retrieved_at": "2026-11-10T21:13:52.539033",
   "retained_fields": []
 }

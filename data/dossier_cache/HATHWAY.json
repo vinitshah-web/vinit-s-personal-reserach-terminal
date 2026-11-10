@@ -6,7 +6,7 @@
   "business_summary": "Hathway Cable and Datacom Limited provides cable television network and Internet services. It operates through Broadband Business, Cable Television, and Dealing in Securities segments. The company provides home and business broadband services. In It also offers management, technical, and consultancy services. Further, the company engages in the cable TV services business in cities and towns in India. Hathway Cable and Datacom Limited was incorporated in 1959 and is based in Mumbai, India. The company operates as a subsidiary of Reliance Industries Limited.",
   "business_summary_reason": null,
   "market_cap_cr": 1663.9,
-  "pe_ratio": 25.41,
+  "pe_ratio": 24.74,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 26.45,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T00:01:32.543386",
+  "retrieval_time": "2026-11-10T21:25:39.016462",
   "provider_reported_pb_ratio": 0.36,
-  "statements_retrieved_at": "2026-11-10T00:01:32.543386",
+  "statements_retrieved_at": "2026-11-10T21:25:39.016462",
   "retained_fields": []
 }

@@ -6,7 +6,7 @@
   "business_summary": "Metropolis Healthcare Limited, together with its subsidiaries, provides pathology and related healthcare services in India and internationally. The company offers routine and specialised pathology tests; advanced diagnostics, including genetic, molecular, and cytogenetic testing; preventive healthcare packages and corporate wellness screening; clinical trial research, hospital lab management, and home collection services; radiology services, including X-ray, sonography and ECG; and next-generation sequencing services. It also provides diagnostic services for oncology, chronic and infectious diseases, gastroenterology, neurology, nephrology, and women and child health, as well as various health checkup and laboratory services. The company serves a range of customers, including direct-to-consumer diagnostics through patient service centers, mobile app, website, and home collection; partnerships with standalone labs, hospital chains, and diagnostic networks; and institutional clients, such as corporates, government bodies, and hospital lab management services. Metropolis Healthcare Limited was founded in 1980 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
   "market_cap_cr": 12085.45,
-  "pe_ratio": 54.07,
+  "pe_ratio": 54.02,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 79.31,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T00:16:06.541052",
+  "retrieval_time": "2026-11-10T21:39:39.343032",
   "provider_reported_pb_ratio": 7.34,
-  "statements_retrieved_at": "2026-11-10T00:16:06.541052",
+  "statements_retrieved_at": "2026-11-10T21:39:39.343032",
   "retained_fields": []
 }

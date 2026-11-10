@@ -6,7 +6,7 @@
   "business_summary": "Campus Activewear Limited engages in the design, manufacture, marketing, and distribution of sports and athleisure footwear, apparels, and backpacks for men, women, and children in India and internationally. It offers general-purpose sports shoes for fitness, exercising, walking, and light sports activities; and sneakers, sandals, slippers and open footwear across men's, women's and kids under the CAMPUS brand name. The company distributes its products through e-commerce platforms, distributors, and retail networks, comprising exclusive brand outlets and multi-brand outlets, as well as wholesale nework. Campus Activewear Limited was founded in 2005 and is based in Gurugram, India.",
   "business_summary_reason": null,
   "market_cap_cr": 6056.43,
-  "pe_ratio": 39.31,
+  "pe_ratio": 38.4,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 29.68,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-09T23:47:02.823197",
+  "retrieval_time": "2026-11-10T21:11:58.224212",
   "provider_reported_pb_ratio": 6.68,
-  "statements_retrieved_at": "2026-11-09T23:47:02.823197",
+  "statements_retrieved_at": "2026-11-10T21:11:58.224212",
   "retained_fields": []
 }

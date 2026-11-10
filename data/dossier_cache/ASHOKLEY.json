@@ -93,8 +93,12 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-09T23:41:28.599198",
+  "retrieval_time": "2026-11-10T21:06:39.339683",
   "provider_reported_pb_ratio": 7.21,
-  "statements_retrieved_at": "2026-11-09T23:41:28.599198",
-  "retained_fields": []
+  "statements_retrieved_at": "2026-11-10T21:06:39.339683",
+  "retained_fields": [
+    "market_cap_cr",
+    "shares_outstanding_cr"
+  ],
+  "previous_retrieval_time": "2026-11-09T23:41:28.599198"
 }

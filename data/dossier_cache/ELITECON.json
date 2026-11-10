@@ -6,7 +6,7 @@
   "business_summary": "Elitecon International Limited manufactures and trades in tobacco and other related products in India, the United Arab Emirates, Singapore, Hong Kong, Europe, and the United Kingdom. The company operates in two segments, Tobacco Products and Agro Commodities. It offers smoking mixtures, cigarettes, sheesha, and other tobacco products. The company sells its products under the INHALE and Al Noor brands. It also exports its products. The company was formerly known as Kashiram Jain and Company Limited and changed its name to Elitecon International Limited in November 2019. Elitecon International Limited was incorporated in 1987 and is headquartered in New Delhi, India.",
   "business_summary_reason": null,
   "market_cap_cr": 960.7,
-  "pe_ratio": 5.23,
+  "pe_ratio": 5.18,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 2.48,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-09T23:54:09.492979",
+  "retrieval_time": "2026-11-10T21:18:41.635790",
   "provider_reported_pb_ratio": 2.43,
-  "statements_retrieved_at": "2026-11-09T23:54:09.492979",
+  "statements_retrieved_at": "2026-11-10T21:18:41.635790",
   "retained_fields": []
 }

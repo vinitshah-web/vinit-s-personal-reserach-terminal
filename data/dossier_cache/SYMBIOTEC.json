@@ -6,7 +6,7 @@
   "business_summary": "Symbiotec Pharmalab Limited develops, manufactures, and markets active pharmaceutical ingredients (APIs) in India. The company provides cortico-steroid and hormone (Steroid) APIs; nutraceuticals; and other services. The company was founded in 1995 and is based in Indore, India.",
   "business_summary_reason": null,
   "market_cap_cr": 9989.9,
-  "pe_ratio": 112.17,
+  "pe_ratio": 78.16,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 183.27,
@@ -78,8 +78,12 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T00:39:46.923464",
+  "retrieval_time": "2026-11-10T22:02:03.975334",
   "provider_reported_pb_ratio": 8.48,
-  "statements_retrieved_at": "2026-11-10T00:39:46.923464",
-  "retained_fields": []
+  "statements_retrieved_at": "2026-11-10T22:02:03.975334",
+  "retained_fields": [
+    "market_cap_cr",
+    "shares_outstanding_cr"
+  ],
+  "previous_retrieval_time": "2026-11-10T00:39:46.923464"
 }

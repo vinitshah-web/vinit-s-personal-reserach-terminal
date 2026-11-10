@@ -6,7 +6,7 @@
   "business_summary": "Moksh Ornaments Limited manufactures and sells jewellery in India. It offers gold jewellery, such as bangles and malas. The company also exports its products. Moksh Ornaments Limited was incorporated in 2012 and is based in Mumbai, India.",
   "business_summary_reason": null,
   "market_cap_cr": 72.78,
-  "pe_ratio": 6.84,
+  "pe_ratio": 6.95,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 15.41,
@@ -63,8 +63,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T00:17:25.977279",
+  "retrieval_time": "2026-11-10T21:40:56.184821",
   "provider_reported_pb_ratio": 0.56,
-  "statements_retrieved_at": "2026-11-10T00:17:25.977279",
+  "statements_retrieved_at": "2026-11-10T21:40:56.184821",
   "retained_fields": []
 }

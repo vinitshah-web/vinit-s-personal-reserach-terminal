@@ -6,7 +6,7 @@
   "business_summary": "Mukka Proteins Limited manufactures and sells fish protein products in India. The company offers fish meal, oil, and soluble paste; frozen surimi and exports seafood. It also provides insect meal, oil, and compost; humic acid, and briquettes. The company's products are used for aqua feed, poultry feed, pet feed, EPA-DHA extraction, animal feed, soap manufacture, leather tanneries, and paint industries. It also exports its products to Bahrain, Bangladesh, Chile, Indonesia, Malaysia, Myanmar, the Philippines, China, Saudi Arabia, South Korea, Oman, Taiwan, and Vietnam. The company was formerly known as Mukka Sea Food Industries Limited and changed its name to Mukka Proteins Limited in August 2021. The company was founded in 1977 and is based in Mangalore, India.",
   "business_summary_reason": null,
   "market_cap_cr": 834.3,
-  "pe_ratio": 12.14,
+  "pe_ratio": 12.04,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 16.64,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T00:18:51.893784",
+  "retrieval_time": "2026-11-10T21:42:18.019291",
   "provider_reported_pb_ratio": 1.67,
-  "statements_retrieved_at": "2026-11-10T00:18:51.893784",
+  "statements_retrieved_at": "2026-11-10T21:42:18.019291",
   "retained_fields": []
 }
