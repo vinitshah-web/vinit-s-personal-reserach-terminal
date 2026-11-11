@@ -5,8 +5,8 @@
   "industry": "Travel Services",
   "business_summary": "Thomas Cook (India) Limited offers integrated travel services in India and internationally. It operates through Financial Services, Travel and Related Services, Leisure Hospitality and Resorts Business, and Digiphoto Imaging Services segments. The Financial Services segment engages in wholesale, and retail purchase and sale of foreign currencies and paid documents. Its Travel and Related Services segment is involved in tour operations, travel management, visa services, and travel insurance and related activities. The Leisure Hospitality and Resorts Business segment provides room rentals and other allied services. Its Imaging Services provides turnkey imaging solutions and related services. The company was founded in 1881 and is headquartered in Mumbai, India. Thomas Cook (India) Limited operates as a subsidiary of Fairbridge Capital (Mauritius) Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 4767.31,
-  "pe_ratio": 23.14,
+  "market_cap_cr": 4888.19,
+  "pe_ratio": 23.73,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 57.0,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T22:03:50.161499",
-  "provider_reported_pb_ratio": 1.78,
-  "statements_retrieved_at": "2026-11-10T22:03:50.161499",
+  "retrieval_time": "2026-11-11T22:34:39.710792",
+  "provider_reported_pb_ratio": 1.82,
+  "statements_retrieved_at": "2026-11-11T22:34:39.710792",
   "retained_fields": []
 }

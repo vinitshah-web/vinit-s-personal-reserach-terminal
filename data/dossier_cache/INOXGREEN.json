@@ -5,8 +5,8 @@
   "industry": "Utilities - Renewable",
   "business_summary": "Inox Green Energy Services Limited provides renewable energy operation and maintenance services in India. The company operates through Operation & Maintenance; Power Generation; Power Evacuation; and Consultancy Income segments. It offers operational services, including remote monitoring and control through supervisory control and data acquisition system; daily generation reports to the customers; and wind farm maintenance services, as well as infrastructure facilities for wind turbine generators. The company was formerly known as Inox Wind Infrastructure Services Limited and changed its name to Inox Green Energy Services Limited in October 2021. The company was incorporated in 2012 and is based in Noida, India. Inox Green Energy Services Limited operates as a subsidiary of Inox Wind Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 4953.41,
-  "pe_ratio": 37.96,
+  "market_cap_cr": 4963.06,
+  "pe_ratio": 38.03,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 43.62,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:29:47.227236",
+  "retrieval_time": "2026-11-11T22:01:17.073203",
   "provider_reported_pb_ratio": 2.71,
-  "statements_retrieved_at": "2026-11-10T21:29:47.227236",
+  "statements_retrieved_at": "2026-11-11T22:01:17.073203",
   "retained_fields": []
 }

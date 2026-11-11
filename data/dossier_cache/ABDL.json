@@ -5,8 +5,8 @@
   "industry": "Beverages - Wineries & Distilleries",
   "business_summary": "Allied Blenders and Distillers Limited produces and sells alcoholic beverages in India and internationally. The company offers whisky, brandy, rum, vodka, and gin under the Arthaus, Officer's Choice, Sterling Reserve Blend 7, ICONiQ Winter, X&O Barrel, Srishti, Officer's Choice Blue, Sterling Reserve, Officer's Choice Star, Kyron, Jolly Roger, Class 21, and Zoya brand names. It also provides packaged drinking water under the Officer's Choice Blue, Sterling Reserve, and ICONiQ White brand names. Allied Blenders and Distillers Limited was founded in 1988 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 20113.96,
-  "pe_ratio": 88.12,
+  "market_cap_cr": 20600.65,
+  "pe_ratio": 90.26,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 58.76,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:01:28.778915",
-  "provider_reported_pb_ratio": 12.24,
-  "statements_retrieved_at": "2026-11-10T21:01:28.778915",
+  "retrieval_time": "2026-11-11T21:34:06.299841",
+  "provider_reported_pb_ratio": 12.53,
+  "statements_retrieved_at": "2026-11-11T21:34:06.299841",
   "retained_fields": []
 }

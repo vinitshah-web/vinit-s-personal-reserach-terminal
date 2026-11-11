@@ -5,14 +5,14 @@
   "industry": "Aluminum",
   "business_summary": "Century Extrusions Limited manufactures and sells aluminum extrusion products in India. It operates through two segments, Manufacturing of Aluminum Extruded Products; and Manufacturing of Transmission and Distribution Line. The company offers profiles and drawn products used in machinery, engineering systems, pump bodies, motor housings, process equipment, pneumatic components, valve bodies, and other industrial uses; aluminium sections for windows, doors, curtain walls, partitions, handrails, facades, and related building systems; transport and structural solutions for bus bodies, truck and trailer sections, and railway coach components; and products and fittings used in power transmission and distribution networks, including clamps, connectors, and related line hardware. It also supplies extruded and cold drawn round bars and hexagonal bars in straight lengths and cold drawn rods and wires in coil form for use in armour rods, detonator shell stock, lamp pin stock, metallising wire, rivet stock, and welding filler wire; and manufactures power transmission and distribution line hardware. In addition, the company offers aluminium extrusions, including standard sections and customised profiles for electrical busbars, building systems, automotive, and industrial applications. It markets its products under the Century brand. Century Extrusions Limited was incorporated in 1988 and is headquartered in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 137.6,
-  "pe_ratio": 12.2,
+  "market_cap_cr": 140.32,
+  "pe_ratio": 12.44,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 10.36,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 8.0,
-  "fifty_two_week_high": 27.96,
+  "fifty_two_week_high": 27.45,
   "fifty_two_week_low": 15.67,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:12:41.926189",
-  "provider_reported_pb_ratio": 1.66,
-  "statements_retrieved_at": "2026-11-10T21:12:41.926189",
+  "retrieval_time": "2026-11-11T21:44:40.841477",
+  "provider_reported_pb_ratio": 1.69,
+  "statements_retrieved_at": "2026-11-11T21:44:40.841477",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Paper & Paper Products",
   "business_summary": "Genus Paper & Boards Limited primarily manufactures and sells kraft paper in India and internationally. It operates through Paper Business, Coke Business, and Strategic Investment Activity segments. The company offers carton boards, container boards, speciality kraft and boards, writing printing paper, and duplex boards, as well as other specialty papers. It also invests in shares and securities, and loans. The company serves FMCG, pharmaceutical, consumer durable products, and e-commerce sectors. Genus Paper & Boards Limited was incorporated in 1996 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 269.21,
-  "pe_ratio": 15.63,
+  "market_cap_cr": 269.98,
+  "pe_ratio": 15.67,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 19.74,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:22:09.792286",
+  "retrieval_time": "2026-11-11T21:53:50.468534",
   "provider_reported_pb_ratio": 0.53,
-  "statements_retrieved_at": "2026-11-10T21:22:09.792286",
+  "statements_retrieved_at": "2026-11-11T21:53:50.468534",
   "retained_fields": []
 }

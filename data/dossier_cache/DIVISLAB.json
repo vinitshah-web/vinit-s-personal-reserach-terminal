@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Divi's Laboratories Limited engages in the manufacture and sale of generic active pharmaceutical ingredients (APIs), intermediates, and nutraceuticals in India, North America, Asia, Europe, and internationally. The company also undertakes custom synthesis contract manufacturing services of APIs and intermediates; and supplies a range of carotenoids, such as astaxanthin, beta-carotene, lycopene, canthaxanthin, apocarotenal, and vitamins used in the food, beverage, dietary supplement, pet food, and feed industries. It also exports its products. The company was formerly known as Divi's Research Center and changed its name to Divi's Laboratories Limited in 1994. Divi's Laboratories Limited was incorporated in 1990 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 307027.69,
-  "pe_ratio": 91.26,
+  "market_cap_cr": 301758.13,
+  "pe_ratio": 89.69,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 678.52,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:16:56.247565",
-  "provider_reported_pb_ratio": 17.05,
-  "statements_retrieved_at": "2026-11-10T21:16:56.247565",
+  "retrieval_time": "2026-11-11T21:48:46.185595",
+  "provider_reported_pb_ratio": 16.75,
+  "statements_retrieved_at": "2026-11-11T21:48:46.185595",
   "retained_fields": []
 }

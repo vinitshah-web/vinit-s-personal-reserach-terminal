@@ -5,7 +5,7 @@
   "industry": "Information Technology Services",
   "business_summary": "Handson Global Management (HGM) Limited, together with its subsidiaries, provides software and IT enabled services in North America, Asia Pacific, and the Middle East. It offers data entry services, software development, and support services; AI - driven pre -authorization transformation; AI-driven charting, coding, and billing transformation; autonomous coding for specialties using NLP and ML; intelligent claims processing and first-pass acceptance; denials prevention, resolution, and audit compliance with AI insights; and real-time dashboards, velocity tracking, and predictive analytics supporting operational intelligence. The company also engages in designing and deploying AI-native and cloud-first ecosystems to modernize infrastructure, automate workflows, and drive measurable business impact. In addition, it provides modular solutions, such as autonomous coding and AI agent, as well as voice and conversation intelligence; process discovery and optimization, workflow automation, intelligent document processing, case management, exception handling, executive dashboards and analytics, and AI-augmented decisioning. The company was formerly known as HOV Services Limited and changed its name to Handson Global Management (HGM) Limited in August 2025. Handson Global Management (HGM) Limited was incorporated in 1989 and is headquartered in Pune, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 51.48,
+  "market_cap_cr": 50.25,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:26:53.473291",
-  "provider_reported_pb_ratio": 2.52,
-  "statements_retrieved_at": "2026-11-10T21:26:53.473291",
+  "retrieval_time": "2026-11-11T21:58:25.241940",
+  "provider_reported_pb_ratio": 2.46,
+  "statements_retrieved_at": "2026-11-11T21:58:25.241940",
   "retained_fields": []
 }

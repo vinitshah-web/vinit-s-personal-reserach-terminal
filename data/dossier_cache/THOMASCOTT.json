@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Thomas Scott (India) Limited manufactures and trades in textile and textile related products in India. The company offers formal and casual wear, as well as semiformal wear, such as casual business shirts, jackets, ethnic wear, trousers, and other related products. It sells its products under the Hammersmith, Bang & Scott, Italian Gold, and Thomas Scott brand names. The company was incorporated in 2010 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 430.9,
-  "pe_ratio": 19.98,
+  "market_cap_cr": 452.14,
+  "pe_ratio": 20.96,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 96.33,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T22:03:51.192771",
-  "provider_reported_pb_ratio": 3.01,
-  "statements_retrieved_at": "2026-11-10T22:03:51.192771",
+  "retrieval_time": "2026-11-11T22:34:40.949696",
+  "provider_reported_pb_ratio": 3.16,
+  "statements_retrieved_at": "2026-11-11T22:34:40.949696",
   "retained_fields": []
 }

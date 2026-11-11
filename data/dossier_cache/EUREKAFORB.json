@@ -5,13 +5,13 @@
   "industry": "Furnishings, Fixtures & Appliances",
   "business_summary": "Eureka Forbes Limited engages in manufacturing, trading, renting, selling, and servicing of vacuum cleaners, water filter cum purifiers, air purifiers electronic air cleaning systems, and related products in India and internationally. The company also offers water softeners and water solutions. It serves individual consumers, educational institutions, retail stores, households, banks, IT companies, hospitals, small and medium enterprises (SMEs), hotels, government organizations, and other commercial establishments. The company was formerly known as Forbes Enviro Solutions Limited and changed its name to Eureka Forbes Limited in February 2022. Eureka Forbes Limited was founded in 1982 and is based in Mumbai, India. The company operates as a subsidiary of Lunolux Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 7206.16,
-  "pe_ratio": 37.66,
+  "market_cap_cr": 7109.88,
+  "pe_ratio": 37.12,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 243.95,
   "dividend_yield_pct": 0.0,
-  "shares_outstanding_cr": 19.3662,
+  "shares_outstanding_cr": 19.3862,
   "fifty_two_week_high": 668.3,
   "fifty_two_week_low": 299.8,
   "financial_statements": [
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:19:59.496483",
-  "provider_reported_pb_ratio": 1.53,
-  "statements_retrieved_at": "2026-11-10T21:19:59.496483",
+  "retrieval_time": "2026-11-11T21:51:44.171258",
+  "provider_reported_pb_ratio": 1.5,
+  "statements_retrieved_at": "2026-11-11T21:51:44.171258",
   "retained_fields": []
 }

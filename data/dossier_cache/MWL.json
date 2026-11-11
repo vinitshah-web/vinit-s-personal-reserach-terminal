@@ -5,15 +5,15 @@
   "industry": "Steel",
   "business_summary": "Mangalam Worldwide Limited manufactures and sells stainless steel billets and ingots in India and internationally. The company offers stainless steel billets, flat bars, and round bars. It also provides bright bars, seamless tubes, pipes, and ERW pipes. In addition, the company is involved in the dealing and trading of steel and other merchandise. Further, it provides continuous cast billets; square bars; hexagonal bars; forged quality ingots; forged and proof machined round bars; RCS bars; hot rolled round bars; heat exchanger and U tubes; hydraulic and instrumentation tubes; welded pipes and tubes; and hot finish mother hollows. Its products are used in heat exchanger fabrication, oil and gas, automotive, chemical, food and beverage, nuclear and atomic energy, power generation, and pharmaceutical industries. Mangalam Worldwide Limited was founded in 1942 and is headquartered in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1130.11,
-  "pe_ratio": 20.46,
+  "market_cap_cr": 1122.09,
+  "pe_ratio": 20.31,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 11.29,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 29.7007,
   "fifty_two_week_high": 48.0,
-  "fifty_two_week_low": 21.201,
+  "fifty_two_week_low": 21.205,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:42:33.276964",
-  "provider_reported_pb_ratio": 3.37,
-  "statements_retrieved_at": "2026-11-10T21:42:33.276964",
+  "retrieval_time": "2026-11-11T22:13:38.501316",
+  "provider_reported_pb_ratio": 3.35,
+  "statements_retrieved_at": "2026-11-11T22:13:38.501316",
   "retained_fields": []
 }

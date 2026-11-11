@@ -6,7 +6,7 @@
   "business_summary": "Kusumgar Limited manufactures, markets, and supplies a range of technical textile fabrics. It offers fabrics used in aerospace and defence applications, including tactical gear, rucksacks, ponchos, parachute systems, sleeping bags, slides and rafts, etc.; fabrics for wire harness tape systems in automobiles, mechanical rubber goods, and inflatable fabrics, as well as custom fabric solutions; and outdoor and lifestyle fabrics for synthetic performance wear, such as athleisure, winter wear, rainwear, fashion jackets and personal gear such as backpacks, luggage, sleeping bags, and tents. The company also provides aerospace and defence solutions comprising aerial systems such as parachute systems; stealth systems such as camouflage nets; and rapid deployment systems such as decoys and temporary shelters, as well as maintenance and repair services. It operates in India, the United States, Germany, South Africa, Srilanka, Bangladesh, France, Singapore, Turkey, and internationally. The company was formerly known as Kusumgar Private Limited. The company was founded in 1970 and is based in Mumbai, India.",
   "business_summary_reason": null,
   "market_cap_cr": null,
-  "pe_ratio": 35.38,
+  "pe_ratio": 35.71,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 49.38,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:35:04.572453",
-  "provider_reported_pb_ratio": 11.15,
-  "statements_retrieved_at": "2026-11-10T21:35:04.572453",
+  "retrieval_time": "2026-11-11T22:06:33.212499",
+  "provider_reported_pb_ratio": 11.25,
+  "statements_retrieved_at": "2026-11-11T22:06:33.212499",
   "retained_fields": []
 }

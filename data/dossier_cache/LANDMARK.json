@@ -5,8 +5,8 @@
   "industry": "Auto & Truck Dealerships",
   "business_summary": "Landmark Cars Limited engages in the automotive retail business in India. It provides dealership services for Mercedes-Benz, BYD, MG Motor, Mahindra & Mahindra, Kia, Honda, Renault, Volkswagen, Jeep, Citro\u00ebn and Ashok Leyland. The company also sells new and pre-owned passenger vehicles; provides after-sales service and repairs, including sale of spare parts, lubricants, and accessories; and facilitates the sales of third-party financial and insurance products. Landmark Cars Limited was founded in 1998 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1951.96,
-  "pe_ratio": 43.39,
+  "market_cap_cr": 2030.54,
+  "pe_ratio": 45.13,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 141.14,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:35:23.565860",
-  "provider_reported_pb_ratio": 3.34,
-  "statements_retrieved_at": "2026-11-10T21:35:23.565860",
+  "retrieval_time": "2026-11-11T22:06:53.836646",
+  "provider_reported_pb_ratio": 3.47,
+  "statements_retrieved_at": "2026-11-11T22:06:53.836646",
   "retained_fields": []
 }

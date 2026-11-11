@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "Tarmat Limited engages in the construction of airfield, and national and state highways in India. The company undertakes various construction works, including airport runways, highways, and railways; and develops infrastructure projects, such as ports, industrial area developments, refineries, etc., as well as parking bays and taxi track related work. It also develops real estate properties; and provides engineering, procurement, and construction services for infrastructure projects. The company was formerly known as Roman Tarmat Limited and changed its name to Tarmat Limited in September 2012. Tarmat Limited was incorporated in 1986 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 137.73,
-  "pe_ratio": 19.15,
+  "market_cap_cr": 139.16,
+  "pe_ratio": 19.34,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 74.5,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T22:02:34.463336",
-  "provider_reported_pb_ratio": 0.74,
-  "statements_retrieved_at": "2026-11-10T22:02:34.463336",
+  "retrieval_time": "2026-11-11T22:33:24.062324",
+  "provider_reported_pb_ratio": 0.75,
+  "statements_retrieved_at": "2026-11-11T22:33:24.062324",
   "retained_fields": []
 }

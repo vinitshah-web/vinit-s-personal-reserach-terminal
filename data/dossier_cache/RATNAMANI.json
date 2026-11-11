@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "Ratnamani Metals & Tubes Limited engages in the manufacturing of stainless-steel pipes, tubes, and carbon steel pipes in India and internationally. The company offers stainless steel products, such as heat exchanger tubes, instrumentation seamless tubes, and stainless-steel pipes; nickel alloy seamless heat exchanger tubes; titanium welded tubes; carbon steel products, including ERW pipes and SAW pipes; pipe coating solutions; and spools, induction bends, fittings, hangers, and engineered support systems. It also provides boiler tubes, heat exchanger tubes, instrumentation tubes, coiled tubing, integral low finned tubes, hollow bars, and diameter electric fusion welded SS pipes, as well as carbon steel line and submerged arc welded pipes. In addition, the company is involved in the sale of power generated from windmills. It serves oil and gas, city gas distribution, slurry lines, water transportation, LNG, petrochemicals, thermal power, defense, aerospace, and nuclear and atomic energy industries. The company was incorporated in 1983 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 17014.13,
-  "pe_ratio": 42.79,
+  "market_cap_cr": 17530.71,
+  "pe_ratio": 44.09,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 586.46,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:51:13.533271",
-  "provider_reported_pb_ratio": 4.14,
-  "statements_retrieved_at": "2026-11-10T21:51:13.533271",
+  "retrieval_time": "2026-11-11T22:22:07.892746",
+  "provider_reported_pb_ratio": 4.26,
+  "statements_retrieved_at": "2026-11-11T22:22:07.892746",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "German Green Steel and Power Limited manufactures and distributes iron and steel products. The company's products include TMT Bars, MS Billets, and Sponge Iron. German Green Steel And Power Limited was formerly known as Haq Steels and Metaliks Limited and changed its name to German Green Steel And Power Limited in May 2018. The company was founded in 1976 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 781.45,
-  "pe_ratio": 9.91,
+  "market_cap_cr": 788.6,
+  "pe_ratio": 10.0,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 77.02,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:22:14.812574",
-  "provider_reported_pb_ratio": 1.35,
-  "statements_retrieved_at": "2026-11-10T21:22:14.812574",
+  "retrieval_time": "2026-11-11T21:53:55.027834",
+  "provider_reported_pb_ratio": 1.36,
+  "statements_retrieved_at": "2026-11-11T21:53:55.027834",
   "retained_fields": []
 }

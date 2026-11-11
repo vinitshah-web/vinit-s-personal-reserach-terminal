@@ -5,7 +5,7 @@
   "industry": "Credit Services",
   "business_summary": "TruCap Finance Limited, a non-banking finance company, provides loans in India. The company operates in two segments, Fund Based Activities and Advisory Services. It offers micro enterprise loans, small and medium-sized enterprise loans, other structured business, personal loans, and gold loans, as well as related ancillary services. The company was formerly known as Dhanvarsha Finvest Limited and changed its name to TruCap Finance Limited in August 2022. The company was incorporated in 1994 and is headquartered in Mumbai, India. TruCap Finance Limited operates as a subsidiary Wilson Holdings Private Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 51.02,
+  "market_cap_cr": 51.26,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T22:05:01.955240",
-  "provider_reported_pb_ratio": 3.57,
-  "statements_retrieved_at": "2026-11-10T22:05:01.955240",
+  "retrieval_time": "2026-11-11T22:35:50.762757",
+  "provider_reported_pb_ratio": 3.58,
+  "statements_retrieved_at": "2026-11-11T22:35:50.762757",
   "retained_fields": []
 }

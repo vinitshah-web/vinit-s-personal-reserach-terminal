@@ -5,7 +5,7 @@
   "industry": "Steel",
   "business_summary": "Supreme Engineering Limited engages in the manufacturing and sale of steel products in India. The company is also involved in heavy engineering activities. It also exports its products. The company was formerly known as Supreme Engineering Private Limited. Supreme Engineering Limited was incorporated in 1987 and is based in Navi Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 124.73,
+  "market_cap_cr": 130.72,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -13,7 +13,7 @@
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 24.995,
   "fifty_two_week_high": 5.31,
-  "fifty_two_week_low": 0.68,
+  "fifty_two_week_low": 0.71,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -63,8 +63,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T22:01:19.108252",
-  "provider_reported_pb_ratio": -1.39,
-  "statements_retrieved_at": "2026-11-10T22:01:19.108252",
+  "retrieval_time": "2026-11-11T22:32:13.149927",
+  "provider_reported_pb_ratio": -1.46,
+  "statements_retrieved_at": "2026-11-11T22:32:13.149927",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Restaurants",
   "business_summary": "Speciality Restaurants Limited owns and operates restaurant outlets and sweet shops in India and internationally. The company operates its restaurants under the Mainland China, Oh! Calcutta, Asia Kitchen by Mainland China, Sigree, Sigree Global Grill, Bohoba, KIX, Jungle Safari, Hoppipola, Gong, Caf\u00e9 Mezzuna, Flame & Grill, HAKA, Machaan, Kaazi, Sweet Bengal, Bizarre Asia, Siciliana, Walters, Riyasat, Episode one, and Chourangi brand names. In addition, the company provides catering services; operates cloud kitchens; and franchises its restaurants and confectionaries stores. The company serves fine and casual diners, families, business professionals, tourists, food enthusiasts, and takeaway customers. Speciality Restaurants Limited was founded in 1992 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 675.54,
-  "pe_ratio": 28.82,
+  "market_cap_cr": 674.48,
+  "pe_ratio": 28.77,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 73.83,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:59:26.272839",
-  "provider_reported_pb_ratio": 1.9,
-  "statements_retrieved_at": "2026-11-10T21:59:26.272839",
+  "retrieval_time": "2026-11-11T22:30:25.396146",
+  "provider_reported_pb_ratio": 1.89,
+  "statements_retrieved_at": "2026-11-11T22:30:25.396146",
   "retained_fields": []
 }

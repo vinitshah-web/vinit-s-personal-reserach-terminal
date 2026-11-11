@@ -5,7 +5,7 @@
   "industry": "Credit Services",
   "business_summary": "Maha Rashtra Apex Corporation Limited does not have significant operations. Previously, the company was engaged in the hire purchase and leasing business. Maha Rashtra Apex Corporation Limited was formerly known as Maharashtra Apex Bank Ltd. The company was incorporated in 1943 and is based in Manipal, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 133.87,
+  "market_cap_cr": 132.91,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:37:25.378057",
-  "provider_reported_pb_ratio": 0.15,
-  "statements_retrieved_at": "2026-11-10T21:37:25.378057",
+  "retrieval_time": "2026-11-11T22:08:52.803928",
+  "provider_reported_pb_ratio": 0.14,
+  "statements_retrieved_at": "2026-11-11T22:08:52.803928",
   "retained_fields": []
 }

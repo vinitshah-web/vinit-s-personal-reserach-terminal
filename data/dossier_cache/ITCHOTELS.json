@@ -5,8 +5,8 @@
   "industry": "Resorts & Casinos",
   "business_summary": "ITC Hotels Limited owns, operates, and manages hotels and resorts in India and internationally. The company operates under the ITC Hotels, Mementos, Storii, EPIQ Collection, Welcomhotel, Fortune Hotels, and WelcomHeritage brands. It also owns and operates golf club under the Classic Golf & Country Club name. The company was founded in 1975 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 36851.74,
-  "pe_ratio": 39.49,
+  "market_cap_cr": 36078.88,
+  "pe_ratio": 38.66,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 56.65,
@@ -48,8 +48,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:30:40.603915",
-  "provider_reported_pb_ratio": 3.12,
-  "statements_retrieved_at": "2026-11-10T21:30:40.603915",
+  "retrieval_time": "2026-11-11T22:02:08.295713",
+  "provider_reported_pb_ratio": 3.06,
+  "statements_retrieved_at": "2026-11-11T22:02:08.295713",
   "retained_fields": []
 }

@@ -5,14 +5,14 @@
   "industry": "Diagnostics & Research",
   "business_summary": "Suraksha Diagnostic Limited provides pathological and radiological services through diagnostic centers in India. It offers home collection services; pathology services, such as microbiology, serology, molecular biology, histopathology, cytopathology, clinical pathology, haematology, clinical biochemistry and immunology, immunohistochemistry, fluorescence in-situ hybridization, cytogenetics, flow cytometry, newborn screening, and NGS. The company also provides microarray, QF-PCR, FISH, karyotyping, and NIPT services; X-Ray, MRI scan, CT scan, USG, DEXA scan, Mammography, OPG radiology services; ECG, echocardiogram, stress test and treadmill test, wireless holter monitoring, and PFT cardiology services; EEG, EMG, and NCV neurology services; and upper GI and lower GI endoscopy, sigmoidoscopy, proctoscopy, colonoscopy, and proctosigmoidoscopy gastroenterology services. In addition, it offers clinic services, including dental, physiotherapy, immunology and rheumatology, ENT, eye, and specialty clinics, as well as fetal care; home doctor visit services; online doctor consultation; and doctor curated lab packages for bone and health, men's and women's health, senior citizens, diabetes care, fever, full-body checkups, and at-home packages. The company was founded in 1992 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1824.91,
-  "pe_ratio": 50.93,
+  "market_cap_cr": 1856.42,
+  "pe_ratio": 51.81,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
-  "book_value": 47.17,
+  "book_value": 47.01,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 5.2081,
-  "fifty_two_week_high": 360.0,
+  "fifty_two_week_high": 384.0,
   "fifty_two_week_low": 224.1,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T22:01:29.288462",
-  "provider_reported_pb_ratio": 7.43,
-  "statements_retrieved_at": "2026-11-10T22:01:29.288462",
+  "retrieval_time": "2026-11-11T22:32:22.465466",
+  "provider_reported_pb_ratio": 7.58,
+  "statements_retrieved_at": "2026-11-11T22:32:22.465466",
   "retained_fields": []
 }

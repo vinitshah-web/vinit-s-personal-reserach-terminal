@@ -5,8 +5,8 @@
   "industry": "Real Estate - Development",
   "business_summary": "Hazoor Multi Projects Limited engages in infrastructure and real estate development activities in India. The company is also involved in engineering, procurement, and construction activities; construction of hotels, dams, bridges, and roads, as well as irrigation and railway projects; mining and quarrying; extraction of crude petroleum and natural gas; oilfield equipment; and provision of drilling and consulting services. In addition, the company provides ship construction, repair, and offshore fabrication services. Further, it operates shipyards; and hybrid renewable energy parks that integrate solar, wind, and battery storage solutions. The company serves government bodies, public sector undertakings, and private sector clients. Hazoor Multi Projects Limited was incorporated in 1992 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 396.48,
-  "pe_ratio": 12.4,
+  "market_cap_cr": 394.46,
+  "pe_ratio": 12.33,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 25.43,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:25:45.637605",
+  "retrieval_time": "2026-11-11T21:57:16.446255",
   "provider_reported_pb_ratio": 0.54,
-  "statements_retrieved_at": "2026-11-10T21:25:45.637605",
+  "statements_retrieved_at": "2026-11-11T21:57:16.446255",
   "retained_fields": []
 }

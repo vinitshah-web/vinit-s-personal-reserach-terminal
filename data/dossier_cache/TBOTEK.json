@@ -5,8 +5,8 @@
   "industry": "Travel Services",
   "business_summary": "TBO Tek Limited operates travel distribution platforms in India and internationally. It offers an online technology platform which provides its customers with access to book global travel inventory through travel suppliers, such as airlines, hotels, car rentals, transfers, cruises, insurance, rail services, and others. The company's products include hotels, air, packages, car rentals, transfers, sightseeing, rail, insurance, cargo, cruise, marine, and Umrah. TBO Tek Limited was incorporated in 2006 and is headquartered in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 16555.98,
-  "pe_ratio": 60.97,
+  "market_cap_cr": 16788.23,
+  "pe_ratio": 61.83,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 161.86,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T22:02:54.363812",
-  "provider_reported_pb_ratio": 9.56,
-  "statements_retrieved_at": "2026-11-10T22:02:54.363812",
+  "retrieval_time": "2026-11-11T22:33:44.017478",
+  "provider_reported_pb_ratio": 9.69,
+  "statements_retrieved_at": "2026-11-11T22:33:44.017478",
   "retained_fields": []
 }

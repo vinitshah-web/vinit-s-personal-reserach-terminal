@@ -5,14 +5,14 @@
   "industry": "Apparel Retail",
   "business_summary": "Indian Terrain Fashions Limited engages in the retail of branded apparel through retail stores in India. It offers shirts, T-shirts, trousers, jeans, and shorts. The company also provides its products for men under the Indian Terrain brand name. It sells its products through various channels, including multi-branded outlets, exclusive brand outlets, large format stores, and e-commerce platforms. Indian Terrain Fashions Limited was founded in 2000 and is headquartered in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 146.88,
-  "pe_ratio": 322.11,
+  "market_cap_cr": 155.14,
+  "pe_ratio": 340.22,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 36.78,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 5.0667,
-  "fifty_two_week_high": 41.5,
+  "fifty_two_week_high": 40.87,
   "fifty_two_week_low": 24.56,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:29:27.104726",
-  "provider_reported_pb_ratio": 0.79,
-  "statements_retrieved_at": "2026-11-10T21:29:27.104726",
+  "retrieval_time": "2026-11-11T22:00:57.157886",
+  "provider_reported_pb_ratio": 0.83,
+  "statements_retrieved_at": "2026-11-11T22:00:57.157886",
   "retained_fields": []
 }

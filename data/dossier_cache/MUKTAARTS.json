@@ -5,7 +5,7 @@
   "industry": "Entertainment",
   "business_summary": "Mukta Arts Limited engages in the production, distribution, and exhibition of films in India. It operates through five segments: Software Division, Equipment Division, Education, Theatrical Exhibition Division, and Others. The Software Division segment is involved in the film/TV production and distribution operations; production and co-production of movies, television content, and other related services; and acquisition of movie rights for overseas and for Indian distribution. Its Equipment Division segment provides equipment on hire to outsiders. The Education segment operates an education, research, and training institute that offers training in skills related to the film, television, and media industry. Its Theatrical Exhibition Division segment includes various services offered at theatres, including the sale of tickets, catering of food and beverages, and advertising services, as well as related services. The Others segment engages in the facility rental business. The company was founded in 1978 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 125.35,
+  "market_cap_cr": 119.79,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:42:19.256932",
-  "provider_reported_pb_ratio": -2.02,
-  "statements_retrieved_at": "2026-11-10T21:42:19.256932",
+  "retrieval_time": "2026-11-11T22:13:25.065414",
+  "provider_reported_pb_ratio": -1.93,
+  "statements_retrieved_at": "2026-11-11T22:13:25.065414",
   "retained_fields": []
 }

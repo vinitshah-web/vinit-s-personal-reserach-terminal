@@ -5,13 +5,13 @@
   "industry": "Restaurants",
   "business_summary": "United Foodbrands Limited owns and operates a chain of casual dining restaurants under the Barbeque Nation brand name. The company also owns and operates Italian restaurants under the Toscano brand name; and offers buffet packed in a box to cater to the delivery segment under the brand Barbeque in a Box. It operates in India, Sri Lanka, Saudi Arabia, the United Arab Emirates, Oman, Malaysia, and Bahrain. The company was formerly known as Barbeque-Nation Hospitality Limited and changed its name to United Foodbrands Limited in September 2025. The company was incorporated in 2006 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2059.05,
+  "market_cap_cr": 2030.35,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 80.05,
   "dividend_yield_pct": 0.0,
-  "shares_outstanding_cr": 3.9119,
+  "shares_outstanding_cr": 3.9128,
   "fifty_two_week_high": 850.0,
   "fifty_two_week_low": 172.34,
   "financial_statements": [
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T22:05:32.030176",
-  "provider_reported_pb_ratio": 6.58,
-  "statements_retrieved_at": "2026-11-10T22:05:32.030176",
+  "retrieval_time": "2026-11-11T22:36:21.252257",
+  "provider_reported_pb_ratio": 6.48,
+  "statements_retrieved_at": "2026-11-11T22:36:21.252257",
   "retained_fields": []
 }

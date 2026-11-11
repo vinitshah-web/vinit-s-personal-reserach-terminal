@@ -5,14 +5,14 @@
   "industry": "Conglomerates",
   "business_summary": "Nesco Limited builds an IT park in India and internationally. The company operates through Realty, Bombay Exhibition Center, Industrial Capital Goods Division, Foods, and Way Side Amenities segments. It is also involved in the operation of exhibition venue that hosts trade shows, events, exhibitions, conventions, conferences, as well as wedding and social celebrations, and outdoor catering; and meetings, incentives, and exhibitions. In addition, the company offers shot blasting machines, air pollution control systems, painting systems, spares, and abrasives, as well as operations and maintenance and annual maintenance contract services. Further, it provides workspaces, residential, and assembly spaces; and engages in kitchens, food courts, food kiosks, and mass catering businesses. The company was formerly known as New Standard Engineering Co. Ltd. Nesco Limited was founded in 1939 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 7444.09,
-  "pe_ratio": 18.48,
+  "market_cap_cr": 7483.9,
+  "pe_ratio": 18.58,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 447.34,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 7.046,
-  "fifty_two_week_high": 1329.7,
+  "fifty_two_week_high": 1323.9,
   "fifty_two_week_low": 933.4,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:43:27.108659",
-  "provider_reported_pb_ratio": 2.36,
-  "statements_retrieved_at": "2026-11-10T21:43:27.108659",
+  "retrieval_time": "2026-11-11T22:14:32.600223",
+  "provider_reported_pb_ratio": 2.37,
+  "statements_retrieved_at": "2026-11-11T22:14:32.600223",
   "retained_fields": []
 }

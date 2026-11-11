@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Jullundur Motor Agency (Delhi) Limited trades and distributes automobile parts, accessories, and petroleum products in India. The company offers brake equipment and friction range products, including air and hydraulic brake parts, brake fluids and linings, disc pads, and lined shoes; and engine components, such as crankshafts, cylinder liners, engine oil and valves, gaskets, radiators, cabins, air filters, engine bearings and bushes, thrust washers, timing belts and kits, turbo chargers, valve guides and tappets, and water and oil pumps. It also provides steering and suspension components, including half shafts, manual steering gears, power steering assemblies and pumps, suspension bush kits, shocks absorbers, struts and dampers, tie rod ends, suspension kits, and steering linkages; and bearings, such as ball, clutch, king pin, needle, steering, tapper roller, and wheel bearings. In addition, the company offers clutch and transmission products, including clutch drive and pressure plates, clutch release bearings and systems, flywheel assy and starter ring gears, gear, TQ, and transmission oil; and other parts, such as A/C gas, coolants, dickey shockers, fasteners, fuel filters, fuel pump motors, hose clamps, lubricants and grease, module reservoir assy, rubber parts, and window balancer. Further, it engages in the distribution of auto spare parts. Jullundur Motor Agency (Delhi) Limited was founded in 1927 and is based in Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 213.54,
-  "pe_ratio": 6.67,
+  "market_cap_cr": 217.74,
+  "pe_ratio": 6.8,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 120.26,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:31:55.107753",
-  "provider_reported_pb_ratio": 0.78,
-  "statements_retrieved_at": "2026-11-10T21:31:55.107753",
+  "retrieval_time": "2026-11-11T22:03:20.729385",
+  "provider_reported_pb_ratio": 0.79,
+  "statements_retrieved_at": "2026-11-11T22:03:20.729385",
   "retained_fields": []
 }

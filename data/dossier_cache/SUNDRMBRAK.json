@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Sundaram Brake Linings Limited manufactures and sells asbestos free friction materials in India and internationally. The company offers brake linings, such as CV linings, PV linings, brake pads and clutch facings. Its products are used in commercial vehicles, passenger cars, agricultural tractors, railways, and two wheelers. The company also exports its products to approximately 60 countries. Sundaram Brake Linings Limited was founded in 1974 and is headquartered in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 249.06,
-  "pe_ratio": 69.48,
+  "market_cap_cr": 248.51,
+  "pe_ratio": 69.33,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 259.34,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T22:00:59.469824",
+  "retrieval_time": "2026-11-11T22:31:53.274369",
   "provider_reported_pb_ratio": 2.44,
-  "statements_retrieved_at": "2026-11-10T22:00:59.469824",
+  "statements_retrieved_at": "2026-11-11T22:31:53.274369",
   "retained_fields": []
 }

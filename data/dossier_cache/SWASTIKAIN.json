@@ -5,15 +5,15 @@
   "industry": "Engineering & Construction",
   "business_summary": "Swastika Infra Limited provides engineering, procurement, and construction services and engages in the execution of power T&D infrastructure projects in India. The company offers solutions on a turnkey basis, including the supply, erection, installation, testing, and commissioning of power infrastructure. It provides underground cabling work, including the laying, installation, and commissioning of high-voltage/low-voltage power cables; construction of substations, such as gas-insulated substations, air-insulated substations, and grid substations; rural and urban electrification projects; installation of street lighting systems; and renewable energy works. It also engages in the trading of electrical products, such as power cables and other electrical items. The company was founded in 1969 and is based in Jaipur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 658.49,
-  "pe_ratio": 12.75,
+  "market_cap_cr": 643.1,
+  "pe_ratio": 12.45,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 106.45,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 3.412,
   "fifty_two_week_high": 254.7,
-  "fifty_two_week_low": 187.99,
+  "fifty_two_week_low": 187.0,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T22:01:56.626586",
-  "provider_reported_pb_ratio": 1.81,
-  "statements_retrieved_at": "2026-11-10T22:01:56.626586",
+  "retrieval_time": "2026-11-11T22:32:49.910973",
+  "provider_reported_pb_ratio": 1.77,
+  "statements_retrieved_at": "2026-11-11T22:32:49.910973",
   "retained_fields": []
 }

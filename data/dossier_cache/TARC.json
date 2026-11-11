@@ -5,7 +5,7 @@
   "industry": "Real Estate - Development",
   "business_summary": "TARC Limited engages in real estate development in India. It is involved in the construction and development of residential projects, commercial projects, township projects, SEZ, IT park, and malls; sale of real estate units, including land, plots, apartments, commercial units, and development rights; and Co-development of projects; and rental of investment properties. The company was formerly known as Anant Raj Global Limited and changed its name to TARC Limited. TARC Limited was incorporated in 2016 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3785.5,
+  "market_cap_cr": 4001.21,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T22:02:32.087587",
-  "provider_reported_pb_ratio": 3.92,
-  "statements_retrieved_at": "2026-11-10T22:02:32.087587",
+  "retrieval_time": "2026-11-11T22:33:21.550765",
+  "provider_reported_pb_ratio": 4.14,
+  "statements_retrieved_at": "2026-11-11T22:33:21.550765",
   "retained_fields": []
 }

@@ -5,14 +5,14 @@
   "industry": "Engineering & Construction",
   "business_summary": "M & B Engineering Limited, an engineering company, engages in the design, manufacturing, and installation of pre-engineered metal buildings, self-supported steel roofing, and complex steel components. The company manufactures structural steel components for projects, including construction of bridges, flyovers, power plant structures, and other industrial applications. It serves general engineering and manufacturing, food and beverages, warehousing and logistics, power, textiles, and railway sectors. M & B Engineering Limited operates in India, the United States, Brazil, South Africa, Qatar, Sri Lanka, Morocco, Nigeria, Kenya, Seychelles, and internationally. The company was incorporated in 1981 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1616.51,
-  "pe_ratio": 22.48,
+  "market_cap_cr": 1655.37,
+  "pe_ratio": 23.02,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 122.19,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 5.7161,
-  "fifty_two_week_high": 518.9,
+  "fifty_two_week_high": 468.0,
   "fifty_two_week_low": 223.05,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:38:50.031661",
-  "provider_reported_pb_ratio": 2.31,
-  "statements_retrieved_at": "2026-11-10T21:38:50.031661",
+  "retrieval_time": "2026-11-11T22:10:15.609196",
+  "provider_reported_pb_ratio": 2.37,
+  "statements_retrieved_at": "2026-11-11T22:10:15.609196",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Confectioners",
   "business_summary": "Magadh Sugar & Energy Limited manufactures and sells sugar and its by-products in India and internationally. It operates in three segments: Sugar, Distillery, and Co-Generation. The company offers white crystal sugar, ethanol, industrial spirits, and bio-compost; and by-products, including molasses and press-mud. It also generates and transmits bagasse-based power. The company exports its products. Magadh Sugar & Energy Limited was founded in 1932 and is headquartered in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 765.39,
-  "pe_ratio": 14.99,
+  "market_cap_cr": 764.75,
+  "pe_ratio": 14.98,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 624.62,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:37:21.625001",
+  "retrieval_time": "2026-11-11T22:08:49.382965",
   "provider_reported_pb_ratio": 0.87,
-  "statements_retrieved_at": "2026-11-10T21:37:21.625001",
+  "statements_retrieved_at": "2026-11-11T22:08:49.382965",
   "retained_fields": []
 }

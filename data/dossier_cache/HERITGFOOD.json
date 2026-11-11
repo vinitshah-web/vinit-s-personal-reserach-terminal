@@ -5,8 +5,8 @@
   "industry": "Packaged Foods",
   "business_summary": "Heritage Foods Limited procures and processes milk and milk products in India. The company operates through Dairy, Renewable Energy, and Feed segments. It offers milk, curd, butter milk, lassi, ice cream, frozen desserts, milkshakes, paneer, ghee, butter, cheese, fresh cream, cold coffee, cooking butter, milk powder, flavored milk, UHT milk, dairy whitener products, and other dairy drinkables and sweets; and operates and franchises Heritage Parlour outlets, as well as exports dairy products. The company also produces power through solar and wind power plants. In addition, it provides cattle feed, feed supplements, veterinary medicines, and fish feed. The company was incorporated in 1992 and is headquartered in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3491.91,
-  "pe_ratio": 30.27,
+  "market_cap_cr": 3481.71,
+  "pe_ratio": 30.19,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 122.51,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:26:41.587099",
-  "provider_reported_pb_ratio": 3.07,
-  "statements_retrieved_at": "2026-11-10T21:26:41.587099",
+  "retrieval_time": "2026-11-11T21:58:09.571936",
+  "provider_reported_pb_ratio": 3.06,
+  "statements_retrieved_at": "2026-11-11T21:58:09.571936",
   "retained_fields": []
 }

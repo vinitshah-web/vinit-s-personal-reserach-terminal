@@ -12,7 +12,7 @@
   "book_value": 81.44,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 2.016,
-  "fifty_two_week_high": 477.9,
+  "fifty_two_week_high": 473.95,
   "fifty_two_week_low": 195.0,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:05:37.768599",
+  "retrieval_time": "2026-11-11T21:37:55.289023",
   "provider_reported_pb_ratio": 6.39,
-  "statements_retrieved_at": "2026-11-10T21:05:37.768599",
+  "statements_retrieved_at": "2026-11-11T21:37:55.289023",
   "retained_fields": []
 }

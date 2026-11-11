@@ -5,8 +5,8 @@
   "industry": "Electrical Equipment & Parts",
   "business_summary": "Schneider Electric Infrastructure Limited designs, manufactures, builds, and services products and systems for electricity distribution in India and internationally. The company offers air-insulated switchgear, e-house and switchyard solutions, vacuum circuit breakers and protection relays, ring main units, gas-insulated switchgear, oil and dry type transformers, automation platforms and digital energy management systems, and battery energy storage solutions. It also offers medium voltage distribution and grid automation products, such as EasyPact EXE, a vacuum circuit breaker; medium voltage switchgear; protection relays, distribution management systems and grid solutions, including self-healing networks; digital substation, as well as EcoStruxure grid, AI-powered, software-defined platform. In addition, the company provides partner managed, and field and automation services. It serves power generation, transmission, distribution, oil and gas, metro rail, mining, metals and other infrastructure sectors, including electro-intensive industries. The company was formerly known as Smartgrid Automation Distribution and Switchgear Limited and changed its name to Schneider Electric Infrastructure Limited in December 2011. The company was incorporated in 2011 and is based in Gurugram, India. Schneider Electric Infrastructure Limited is a subsidiary of Energy Grid Automation Transformers and Switchgears India Private Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 25452.62,
-  "pe_ratio": 157.94,
+  "market_cap_cr": 25316.34,
+  "pe_ratio": 157.09,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 34.22,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:55:12.279326",
-  "provider_reported_pb_ratio": 31.11,
-  "statements_retrieved_at": "2026-11-10T21:55:12.279326",
+  "retrieval_time": "2026-11-11T22:26:11.288839",
+  "provider_reported_pb_ratio": 30.94,
+  "statements_retrieved_at": "2026-11-11T22:26:11.288839",
   "retained_fields": []
 }

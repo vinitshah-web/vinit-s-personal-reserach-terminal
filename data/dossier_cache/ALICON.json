@@ -5,8 +5,8 @@
   "industry": "Metal Fabrication",
   "business_summary": "Alicon Castalloy Limited, together with its subsidiaries, manufactures and sells aluminium castings in India. The company provides 2 and 4-wheelers, fully finished, diesel, and petrol cylinder heads; transcradle, inlet pipe, cac tank, battery tray, motor stator, top yoke/bridge fork top, enclosure body, inverter casing, cooling/junction box, transmission and crank cases, e-axle, and HCV coolant collector products, as well as controller, compressor, motor, distributor, and roof sensor housing parts. It also exports its products to approximately 18 countries. It serves automotive and e-mobility industries; and non-automotive industry, such as internal combustion engine, infrastructure, defence, medical, energy, agriculture, and aerospace. The company was formerly known as Enkei Castalloy Limited and changed its name to Alicon Castalloy Limited in December 2010. Alicon Castalloy Limited was incorporated in 1990 and is headquartered in Pune, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1372.78,
-  "pe_ratio": 37.61,
+  "market_cap_cr": 1373.52,
+  "pe_ratio": 37.63,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 384.59,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:03:54.110029",
-  "provider_reported_pb_ratio": 2.18,
-  "statements_retrieved_at": "2026-11-10T21:03:54.110029",
+  "retrieval_time": "2026-11-11T21:36:20.401962",
+  "provider_reported_pb_ratio": 2.19,
+  "statements_retrieved_at": "2026-11-11T21:36:20.401962",
   "retained_fields": []
 }

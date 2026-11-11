@@ -5,8 +5,8 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "Lohia Corp Limited engages in manufacture and sale of machinery and equipment for woven plastic packaging and technical textiles value chain in India and internationally. It offers tape extrusion lines, winders, circular looms, coating and lamination lines, printing machines, conversion machines, multifilament yarn machines, twister winders, monofilament extrusion lines and recycling machines. Lohia Corp Limited was formerly known as Kanpur Packaging Machines Limited. The company was founded in 1981 and is based in Kanpur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 5255.56,
-  "pe_ratio": 21.62,
+  "market_cap_cr": 5411.92,
+  "pe_ratio": 22.26,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 62.79,
@@ -48,8 +48,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:35:39.961915",
-  "provider_reported_pb_ratio": 7.92,
-  "statements_retrieved_at": "2026-11-10T21:35:39.961915",
+  "retrieval_time": "2026-11-11T22:07:08.800774",
+  "provider_reported_pb_ratio": 8.16,
+  "statements_retrieved_at": "2026-11-11T22:07:08.800774",
   "retained_fields": []
 }

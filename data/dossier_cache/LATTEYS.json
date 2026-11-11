@@ -5,8 +5,8 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "Latteys Industries Limited manufactures and sells water pumping solutions in India. The company offers borewell submersible pumps, including cast iron, engineered plastic, and stainless-steel submersible pumps; vertical and horizontal open well submersible pumps; sewage pumps; centrifugal monoblock and regenerative pumps; self-priming pumps; shallow well, and solar water pumping systems.It also provides LED lights, such as home, street, and road lighting products; EV charging stations; and three core flat cables. In addition, the company exports its products. It serves the agricultural, domestic, industrial, and horticultural sectors. Latteys Industries Limited was founded in 2004 and is headquartered in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 107.17,
-  "pe_ratio": 30.06,
+  "market_cap_cr": 110.62,
+  "pe_ratio": 31.03,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 4.49,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:35:31.300187",
-  "provider_reported_pb_ratio": 4.15,
-  "statements_retrieved_at": "2026-11-10T21:35:31.300187",
+  "retrieval_time": "2026-11-11T22:07:00.313164",
+  "provider_reported_pb_ratio": 4.29,
+  "statements_retrieved_at": "2026-11-11T22:07:00.313164",
   "retained_fields": []
 }

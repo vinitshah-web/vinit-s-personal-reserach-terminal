@@ -5,8 +5,8 @@
   "industry": "Building Materials",
   "business_summary": "The India Cements Limited manufactures and sells cement and cement-related products in India. The company offers grey and white cement, ready mix concrete, and clinkers. It also engages in the generation of power from windmills and thermal power plants; and provision of freight services, including ship hiring and chartering services. The company was incorporated in 1946 and is based in Chennai, India. The India Cements Limited operates as a subsidiary of UltraTech Cement Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 15869.86,
-  "pe_ratio": 86.43,
+  "market_cap_cr": 16285.89,
+  "pe_ratio": 88.7,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 328.09,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:28:55.075476",
-  "provider_reported_pb_ratio": 1.04,
-  "statements_retrieved_at": "2026-11-10T21:28:55.075476",
+  "retrieval_time": "2026-11-11T22:00:25.361629",
+  "provider_reported_pb_ratio": 1.07,
+  "statements_retrieved_at": "2026-11-11T22:00:25.361629",
   "retained_fields": []
 }

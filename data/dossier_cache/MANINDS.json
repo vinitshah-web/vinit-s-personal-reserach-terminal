@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "Man Industries (India) Limited manufactures, processes, sells, and trades in submerged arc-welded steel pipes and products in India and internationally. The company offers longitudinal submerged arc-welded (LSAW), helically submerged arc-welded (HSAW) line pipes, external coatings and internal linings, electro resistance-welded (ERW) pipes, and hot induction bends (HIB) pipes. It serves oil and gas, petrochemicals, water transmission, dredging, fertilizers, hydrocarbons and the city gas distribution (CGD) sectors. The company exports its products. Man Industries (India) Limited was incorporated in 1988 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 5968.14,
-  "pe_ratio": 29.2,
+  "market_cap_cr": 6307.18,
+  "pe_ratio": 30.86,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 287.23,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:38:01.233035",
-  "provider_reported_pb_ratio": 2.77,
-  "statements_retrieved_at": "2026-11-10T21:38:01.233035",
+  "retrieval_time": "2026-11-11T22:09:28.696819",
+  "provider_reported_pb_ratio": 2.93,
+  "statements_retrieved_at": "2026-11-11T22:09:28.696819",
   "retained_fields": []
 }

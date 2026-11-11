@@ -5,14 +5,14 @@
   "industry": "Agricultural Inputs",
   "business_summary": "Khaitan Chemicals and Fertilizers Limited manufactures and sells single super phosphate (SSP), sulphuric acid, and other chemicals in India. The company operates through Fertilizer, and Chemicals & Specialty Chemicals segments. It also provides plain, zincated, and boronated SSP fertilizers in powder and granulated forms under the Khaitan Single super Phosphate and Utsav Single super Phosphate brands for use in crops. In addition, the company produces sulphuric acid, which is used in manufacturing of SSP fertilizers, copper sulphate, zinc sulphate, ferrous sulphate, and health medicines; and sulphur trioxide and oleum that are used for the production of plastics, detergents, and dyestuffs. Further, it offers linier alkyl benzene sulphonic acid, which is used to produce detergent and cake for washing clothes; and refined vegetable oil under the Khaitan Vegetable Oil brand, as well as manufactures and sells crude soya oil and de-oiled cakes. Additionally, the company generates steam as a by-product; and electricity through wind energy. Khaitan Chemicals and Fertilizers Limited was incorporated in 1982 and is headquartered in Indore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 452.94,
-  "pe_ratio": 7.77,
+  "market_cap_cr": 490.96,
+  "pe_ratio": 8.42,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 29.97,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 9.6989,
-  "fifty_two_week_high": 100.8,
+  "fifty_two_week_high": 100.42,
   "fifty_two_week_low": 42.92,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:33:33.560828",
-  "provider_reported_pb_ratio": 1.56,
-  "statements_retrieved_at": "2026-11-10T21:33:33.560828",
+  "retrieval_time": "2026-11-11T22:04:58.281238",
+  "provider_reported_pb_ratio": 1.69,
+  "statements_retrieved_at": "2026-11-11T22:04:58.281238",
   "retained_fields": []
 }

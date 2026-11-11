@@ -6,7 +6,7 @@
   "business_summary": "Dai-ichi Karkaria Limited, together with its subsidiaries, manufactures and sells specialty chemicals in India and internationally. The company offers specialty chemicals for the agricultural industry, including emulsifiers, dispersing agents, and formulation aids used in pesticides and crop protection products; pesticides, insecticides, weedicides, and herbicides; hygiene, cleaning, solubilizers, surfactants, conditioning agents, and emollients; specialty chemical for paint, coating, and pigment industry; and corrosion inhibitors, pour point depressants, demulsifier intermediates, corrosion co-inhibitors, scavengers, Asphaltene inhibitors, FCC metal passivators, diesel fuel lubricity and lubricant oil viscosity index improvers for oil field chemical industry. It also provides cement grinding aids, additives for concrete admixtures, bitumen emulsifiers, and water-proofing sealant for the construction industry; and textile auxiliaries, rayon additives, and sizing chemicals. In addition, the company offers flocculants for pulp and paper, metals and mining, sugar manufacturing, ceramics, water treatment, and solid waste management applications. Dai-ichi Karkaria Limited was incorporated in 1960 and is based in Mumbai, India.",
   "business_summary_reason": null,
   "market_cap_cr": null,
-  "pe_ratio": 106.9,
+  "pe_ratio": 101.59,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 251.59,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:15:14.163609",
-  "provider_reported_pb_ratio": 1.23,
-  "statements_retrieved_at": "2026-11-10T21:15:14.163609",
+  "retrieval_time": "2026-11-11T21:47:05.427582",
+  "provider_reported_pb_ratio": 1.17,
+  "statements_retrieved_at": "2026-11-11T21:47:05.427582",
   "retained_fields": []
 }

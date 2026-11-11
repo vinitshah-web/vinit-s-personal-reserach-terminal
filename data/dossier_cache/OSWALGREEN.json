@@ -5,14 +5,14 @@
   "industry": "Asset Management",
   "business_summary": "Oswal Greentech Limited develops real estate projects in India. It operates through Real Estate and Investment segments. The company is involved in the trading of real estate assets. In addition, it invests in equity instruments and other securities; and extends in the form of intercorporate deposits. The company was formerly known as Oswal Chemicals & Fertilizers Limited. Oswal Greentech Limited was incorporated in 1981 and is headquartered in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 488.96,
+  "market_cap_cr": 512.85,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 92.62,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 25.6809,
-  "fifty_two_week_high": 37.47,
+  "fifty_two_week_high": 37.24,
   "fifty_two_week_low": 17.22,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:46:24.395557",
-  "provider_reported_pb_ratio": 0.21,
-  "statements_retrieved_at": "2026-11-10T21:46:24.395557",
+  "retrieval_time": "2026-11-11T22:17:28.464427",
+  "provider_reported_pb_ratio": 0.22,
+  "statements_retrieved_at": "2026-11-11T22:17:28.464427",
   "retained_fields": []
 }

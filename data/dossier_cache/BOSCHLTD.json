@@ -6,7 +6,7 @@
   "business_summary": "Bosch Limited engages in the manufacture and trading of automotive products in India. It operates through Automotive Products, Consumer Goods, and Others segments. The company offers products, such as spark and glow plugs; ignition coil; nozzle holder, components, and fuel rail assembly; LAG, SAG, rotary drill, hammer, and marble cutter; impact drilling machine; fuel injection pump and components; blower; and machines and components. It also provides diesel and gasoline fuel injection systems; automotive aftermarket products; industrial equipment; electrical power tools; security systems; and industrial and consumer energy products and solutions. In addition, the company offers components and systems for internal combustion engines; develops thermal management systems; two wheeler and power sports; filters to batteries, lubricants, wiper blades, and diagnostic equipment and software; diesel systems, braking systems, auto electricals, and gasoline system products; trading activities in power tools and consumables; engages in hydrogen business; industrial and building technology products and services; and operates authorized workshops and service centers. Further, it supplies power tools and related accessories, garden tools, and measuring technology. Additionally, the company provides fire safety solutions. It also exports its products. The company was founded in 1886 and is headquartered in Bengaluru, India. Bosch Limited operates as a subsidiary of Robert Bosch Internationale Beteiligungen AG.",
   "business_summary_reason": null,
   "market_cap_cr": 146153.17,
-  "pe_ratio": 53.01,
+  "pe_ratio": 54.02,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 2599.52,
@@ -93,12 +93,13 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:11:19.177623",
-  "provider_reported_pb_ratio": 19.06,
-  "statements_retrieved_at": "2026-11-10T21:11:19.177623",
+  "retrieval_time": "2026-11-11T21:43:20.328792",
+  "provider_reported_pb_ratio": 19.42,
+  "statements_retrieved_at": "2026-11-11T21:43:20.328792",
+  "previous_retrieval_time": "2026-11-10T21:11:19.177623",
   "retained_fields": [
     "market_cap_cr",
-    "shares_outstanding_cr"
-  ],
-  "previous_retrieval_time": "2026-11-09T23:46:20.687634"
+    "shares_outstanding_cr",
+    "previous_retrieval_time"
+  ]
 }

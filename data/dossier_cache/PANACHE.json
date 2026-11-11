@@ -5,14 +5,14 @@
   "industry": "Communication Equipment",
   "business_summary": "Panache Digilife Limited designs, manufactures, distributes, sells, and services ICT and IoT devices in India. The company offers AI computing platforms, including all-in-one PCs, laptops, servers, desktops, and mini PCs; networking, connectivity, and digital infrastructure solutions comprising SNOC, GIS, device management, routers, switches, wireless devices, and set-top boxes; and AV and display products that include indoor and outdoor signages, video walls, IoT gateways, and panel PCs. It also provides digital surveillance systems, such as AI CCTV cameras, AI network video recorders, and surveillance towers; EdTech solutions, which consist of AI interactive flat panel displays, EdTech tablets, and rugged laptops; and medical smart devices, healthcare kiosks, and AI IoT solutions. The company was formerly known as Vardhaman Technology Limited and changed its name to Panache Digilife Limited in February 2017. Panache Digilife Limited was incorporated in 2007 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1142.92,
-  "pe_ratio": 48.09,
+  "market_cap_cr": 1165.74,
+  "pe_ratio": 49.05,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 73.09,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.6014,
-  "fifty_two_week_high": 713.7,
+  "fifty_two_week_high": 727.95,
   "fifty_two_week_low": 237.7,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:46:39.054612",
-  "provider_reported_pb_ratio": 9.77,
-  "statements_retrieved_at": "2026-11-10T21:46:39.054612",
+  "retrieval_time": "2026-11-11T22:17:42.754857",
+  "provider_reported_pb_ratio": 9.96,
+  "statements_retrieved_at": "2026-11-11T22:17:42.754857",
   "retained_fields": []
 }

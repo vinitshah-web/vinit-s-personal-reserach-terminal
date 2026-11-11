@@ -5,14 +5,14 @@
   "industry": "Furnishings, Fixtures & Appliances",
   "business_summary": "Pil Italica Lifestyle Limited manufactures and sells plastic molded furniture and other articles in India. The company operates in two segments: Manufacturing and Finance. It offers plastic chairs, tables, stools, trolleys, sun loungers, crates, storage solution, waste bins, and wooden furniture; and engages in financial activities. The company sells its products through a network of distributors and dealers under the ITALICA brand. Its products are used in restaurants, swimming pools, gardens, tent houses, offices, homes, fruits and vegetables, hospitality and catering, electronics, engineering, automotive, textiles, fisheries, and food processing, as well as public and commercial, spaces such as hospitals, railway stations, shopping centers, parks, airports, commercial establishments, and residential complexes applications. The company was formerly known as Peacock Industries Limited and changed its name to Pil Italica Lifestyle Limited in August 2015. Pil Italica Lifestyle Limited was incorporated in 1992 and is headquartered in Udaipur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 170.38,
-  "pe_ratio": 80.56,
+  "market_cap_cr": 173.19,
+  "pe_ratio": 81.89,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 3.43,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 23.5,
-  "fifty_two_week_high": 12.65,
+  "fifty_two_week_high": 12.25,
   "fifty_two_week_low": 6.2,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:47:52.930987",
-  "provider_reported_pb_ratio": 2.12,
-  "statements_retrieved_at": "2026-11-10T21:47:52.930987",
+  "retrieval_time": "2026-11-11T22:18:56.786367",
+  "provider_reported_pb_ratio": 2.15,
+  "statements_retrieved_at": "2026-11-11T22:18:56.786367",
   "retained_fields": []
 }

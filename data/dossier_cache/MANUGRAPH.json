@@ -5,8 +5,8 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "Manugraph India Limited engages in the manufacture and sale of printing machines in India and internationally. It provides newspaper web, folder, and packaging and converting machines, as well as manufactures engineering components. The company also exports its products. In addition, it offers after-sales services and installation services. The company was formerly known as Manugraph Industries Limited. Manugraph India Limited was incorporated in 1972 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 46.66,
-  "pe_ratio": 7.72,
+  "market_cap_cr": 47.41,
+  "pe_ratio": 7.84,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 19.08,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:38:11.355932",
-  "provider_reported_pb_ratio": 0.78,
-  "statements_retrieved_at": "2026-11-10T21:38:11.355932",
+  "retrieval_time": "2026-11-11T22:09:38.516547",
+  "provider_reported_pb_ratio": 0.79,
+  "statements_retrieved_at": "2026-11-11T22:09:38.516547",
   "retained_fields": []
 }

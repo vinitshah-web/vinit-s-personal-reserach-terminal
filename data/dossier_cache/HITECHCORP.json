@@ -5,8 +5,8 @@
   "industry": "Packaging & Containers",
   "business_summary": "Hitech Corporation Limited engages in rigid plastic packaging solution business in India. The company offers bottles, cans, caps and closures, custom enhancement, drums, jars, and pails for paints and coatings, lubricants, agrochemicals, food and beverages, pharmaceuticals, nutraceuticals, personal and home care, specialty chemicals and industrial applications. The company was formerly known as Hitech Plast Limited and changed its name to Hitech Corporation Limited in May 2017. Hitech Corporation Limited was incorporated in 1991 and is headquartered in Mumbai, India. Hitech Corporation Limited is a subsidiary of Geetanjali Trading and Investments Private Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 709.79,
-  "pe_ratio": 40.44,
+  "market_cap_cr": 712.19,
+  "pe_ratio": 40.57,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 165.59,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:27:20.400935",
+  "retrieval_time": "2026-11-11T21:58:52.008356",
   "provider_reported_pb_ratio": 2.5,
-  "statements_retrieved_at": "2026-11-10T21:27:20.400935",
+  "statements_retrieved_at": "2026-11-11T21:58:52.008356",
   "retained_fields": []
 }

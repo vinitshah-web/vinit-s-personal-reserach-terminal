@@ -5,8 +5,8 @@
   "industry": "Credit Services",
   "business_summary": "IIFL Finance Limited, a non-banking financial company, provides financial services in India and internationally. The company offers mortgage and gold loans; business loans, including business loans for manufacturers, women, and e-commerce; loans to micro, small, and medium enterprises; loans against securities; and digital finance loans, as well as supply chain finance. It also provides construction and real estate financing; capital market financing; and lending, broking, and wealth management services. The company was formerly known as IIFL Holdings Limited and changed its name to IIFL Finance Limited in May 2019. IIFL Finance Limited was incorporated in 1995 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 26773.49,
-  "pe_ratio": 10.77,
+  "market_cap_cr": 28449.5,
+  "pe_ratio": 11.44,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 362.44,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:28:35.783158",
-  "provider_reported_pb_ratio": 1.73,
-  "statements_retrieved_at": "2026-11-10T21:28:35.783158",
+  "retrieval_time": "2026-11-11T22:00:05.895800",
+  "provider_reported_pb_ratio": 1.84,
+  "statements_retrieved_at": "2026-11-11T22:00:05.895800",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Packaged Foods",
   "business_summary": "Vadilal Industries Limited, together with its subsidiaries, manufactures and sells ice-cream in India and internationally. The company offers flavored milk under the Power Sip brand; frozen desserts; processed food products, such as frozen fruits, vegetables, pulps, and ready-to-eat and ready-to-serve products, etc.; and other dairy products, as well as paneer and ghee products. It is also involved in money changing and chemical businesses. It provides its products through retail stores, restaurants, and quick and e-commerce platforms. Vadilal Industries Limited was founded in 1907 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 5054.48,
-  "pe_ratio": 21.01,
+  "market_cap_cr": 5005.96,
+  "pe_ratio": 20.81,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 1384.34,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T22:06:26.089428",
-  "provider_reported_pb_ratio": 5.08,
-  "statements_retrieved_at": "2026-11-10T22:06:26.089428",
+  "retrieval_time": "2026-11-11T22:37:16.359838",
+  "provider_reported_pb_ratio": 5.03,
+  "statements_retrieved_at": "2026-11-11T22:37:16.359838",
   "retained_fields": []
 }

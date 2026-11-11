@@ -5,14 +5,14 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "Atam Valves Limited manufactures and sells valves, fittings, steam traps, and strainers in India, Nepal, Italy, Canada, the United Kingdom, Malaysia, South Africa, Dubai, and internationally. The company offers cocks and boiler mountings; moisture separators; sight indicators; steam traps; strainers; water level gauges; fusible plugs; air, ball, butterfly, check, foot, gate, globe, needle, non-return, parallel slide blow off, plug, pressure reducing, safety, steam stop, and wheel valves gauges; drop forged stainless steel needle valve, and screwed ends; and sight flow. It serves the oil and gas refinery, petrochemical, power generation plant, boiler manufacturing, power transformer manufacturing, sugar, textile, rubber, pharmaceutical, chemical, fertilizer, paper, processing, marine and ship building, infrastructure and household, and plumbing industries. The company sells its products under the ATAM and FEBI brands through dealers. Atam Valves Limited was founded in 1972 and is based in Jalandhar, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 60.26,
-  "pe_ratio": 33.27,
+  "market_cap_cr": 61.36,
+  "pe_ratio": 33.88,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 33.32,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.1463,
-  "fifty_two_week_high": 97.0,
+  "fifty_two_week_high": 96.42,
   "fifty_two_week_low": 48.5,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:07:04.333596",
-  "provider_reported_pb_ratio": 1.58,
-  "statements_retrieved_at": "2026-11-10T21:07:04.333596",
+  "retrieval_time": "2026-11-11T21:39:16.628549",
+  "provider_reported_pb_ratio": 1.61,
+  "statements_retrieved_at": "2026-11-11T21:39:16.628549",
   "retained_fields": []
 }

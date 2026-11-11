@@ -5,8 +5,8 @@
   "industry": "Solar",
   "business_summary": "Insolation Energy Limited engages in the manufacture and sale of solar panels and modules under INA brand name in India. The company provides monocrystalline passive emitter and rear cell and polycrystalline solar photovoltaic (PV) modules for use in various applications, such as on-grid large scale utility system, on-grid rooftop residential and commercial system, net metering solution, off-grid residential system, solar pumping applications, rural electrification, green telecom tower, solar streetlight, solar home lighting system, etc. It also offers solar power conditioning units and tall tabular lead acid batteries in combination; and provides solar modules for ground mounted and rooftop solar projects. Insolation Energy Limited was incorporated in 2015 and is headquartered in Jaipur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1568.74,
-  "pe_ratio": 7.82,
+  "market_cap_cr": 1609.96,
+  "pe_ratio": 8.03,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 36.51,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:28:49.234644",
-  "provider_reported_pb_ratio": 1.95,
-  "statements_retrieved_at": "2026-11-10T21:28:49.234644",
+  "retrieval_time": "2026-11-11T22:00:19.403783",
+  "provider_reported_pb_ratio": 2.0,
+  "statements_retrieved_at": "2026-11-11T22:00:19.403783",
   "retained_fields": []
 }

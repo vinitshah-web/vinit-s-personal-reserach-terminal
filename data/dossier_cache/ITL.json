@@ -6,7 +6,7 @@
   "business_summary": "ITL Industries Limited engages in manufacturing and sale of machines and machine parts in India. It operates through Machine Division and Trading Division segments. The company offers semi-automatic, automatic, NC controlled, mitre swivel, kant head and gentry type, special purpose, and jumbo horizontal bandsaw machines; and manual, hydraulic, tool room use, cross cut type, plate saw, and special purpose vertical bandsaw machines. It also provides carbide circular saw machines, including steel cutting, non ferrous cutting, aluminum cutting, pipe tube cutting, plate saw cutting, structural steel and pipe cutting, cutting chamfering and centre drilling machine, and special purpose machines; and bi-metal band saw blades, circular saw blades, HSS circular saw blades, micro mist oil, and wire brush. In addition, the company is involved in trading business. ITL Industries Limited was founded in 1985 and is headquartered in Indore, India.",
   "business_summary_reason": null,
   "market_cap_cr": null,
-  "pe_ratio": 13.71,
+  "pe_ratio": 13.9,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 276.41,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:30:46.428313",
-  "provider_reported_pb_ratio": 1.37,
-  "statements_retrieved_at": "2026-11-10T21:30:46.428313",
+  "retrieval_time": "2026-11-11T22:02:14.570184",
+  "provider_reported_pb_ratio": 1.39,
+  "statements_retrieved_at": "2026-11-11T22:02:14.570184",
   "retained_fields": []
 }

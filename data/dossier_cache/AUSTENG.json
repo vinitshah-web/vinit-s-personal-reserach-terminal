@@ -5,8 +5,8 @@
   "industry": "Tools & Accessories",
   "business_summary": "Austin Engineering Company Limited manufactures and sells bearings and its components in India and internationally. The company offers deep groove ball bearings, angular contact ball bearings, self-aligning ball bearings, thin section ball bearings, thrust ball bearings, angular contact thrust ball bearings, cylindrical roller bearings, needle roller bearings, tapered roller bearings, spherical roller bearings, flexible roller bearings, crossed roller bearings, cylindrical roller thrust bearings, tapered roller thrust bearings, spherical roller thrust bearings, and super precision bearings. Its products are used for aerospace, machine tools, mining and quarry, oil and gas, pulp and paper, pumps and motors, railroads, steel mills, transmission, and wind energy applications. The company serves engineering equipment manufacturers, steel plants and steel rolling mills, process industries, automotive industries, textile machinery manufacturers, power plants, road transport undertakings, railways, atomic energy applications, OEMs, and replacement market customers. It also exports products. Austin Engineering Company Limited was founded in 1973 and is headquartered in Alpharetta, Georgia.",
   "business_summary_reason": null,
-  "market_cap_cr": 48.02,
-  "pe_ratio": 11.3,
+  "market_cap_cr": 51.15,
+  "pe_ratio": 12.04,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 203.1,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:07:28.757503",
-  "provider_reported_pb_ratio": 0.68,
-  "statements_retrieved_at": "2026-11-10T21:07:28.757503",
+  "retrieval_time": "2026-11-11T21:39:39.323109",
+  "provider_reported_pb_ratio": 0.72,
+  "statements_retrieved_at": "2026-11-11T21:39:39.323109",
   "retained_fields": []
 }

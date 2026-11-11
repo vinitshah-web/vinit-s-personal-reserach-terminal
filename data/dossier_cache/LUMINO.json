@@ -6,10 +6,10 @@
   "business_summary": "Lumino Industries Limited manufactures and sells conductors, power cables, electrical wires, and other products and components for power distribution and transmission industries in India and internationally. It offers aluminium conductors; LV XLPE/PVC insulated power, LV XLPE/PVC insulated control, LV aerial bunch, railway signalling, concentric, screened and instrumentation, solar, LV FR/FRLSH/FR-LSZH fire performance, underwriters laboratories, quad, medium voltage cross linked cables, as well as MV overhead covered conductors and electrical wires; and thermoset insulated, single-core service, and house wires. The company also develops power distribution and transmission infrastructure projects; constructs substations; and offers end-to-end solutions for transmission towers. In addition, it engages in the designing, engineering, procurement, testing, inspection, supply, installation, and commissioning of railway electrification projects and solar power plants. Further, the company offers water, sewage, and effluent treatment services; and raises and distributes water pipelines. The company was founded in 1989 and is headquartered in Kolkata, India.",
   "business_summary_reason": null,
   "market_cap_cr": 2867.68,
-  "pe_ratio": 17.94,
+  "pe_ratio": 18.93,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
-  "book_value": 29.96,
+  "book_value": 49.66,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 30.4554,
   "fifty_two_week_high": 122.0,
@@ -78,12 +78,13 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:36:59.592165",
-  "provider_reported_pb_ratio": 3.14,
-  "statements_retrieved_at": "2026-11-10T21:36:59.592165",
+  "retrieval_time": "2026-11-11T22:08:28.378285",
+  "provider_reported_pb_ratio": 2.0,
+  "statements_retrieved_at": "2026-11-11T22:08:28.378285",
+  "previous_retrieval_time": "2026-11-10T21:36:59.592165",
   "retained_fields": [
     "market_cap_cr",
-    "shares_outstanding_cr"
-  ],
-  "previous_retrieval_time": "2026-11-10T00:13:32.107302"
+    "shares_outstanding_cr",
+    "previous_retrieval_time"
+  ]
 }

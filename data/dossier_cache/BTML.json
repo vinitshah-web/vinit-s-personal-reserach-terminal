@@ -5,8 +5,8 @@
   "industry": "Entertainment",
   "business_summary": "Bodhi Tree Multimedia Limited engages in the production of content for television (TV), films, and digital platforms in India. It produces content across various languages, such as Hindi, Tamil, Marathi, Gujarati, and Bengali on TV and over the top OTT platforms; and compresses all genres such as drama, thriller, horror, comedy and lifestyle. The company was incorporated in 2013 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 105.75,
-  "pe_ratio": 12.93,
+  "market_cap_cr": 106.66,
+  "pe_ratio": 13.04,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 5.14,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:11:44.962840",
-  "provider_reported_pb_ratio": 1.13,
-  "statements_retrieved_at": "2026-11-10T21:11:44.962840",
+  "retrieval_time": "2026-11-11T21:43:46.361397",
+  "provider_reported_pb_ratio": 1.14,
+  "statements_retrieved_at": "2026-11-11T21:43:46.361397",
   "retained_fields": []
 }

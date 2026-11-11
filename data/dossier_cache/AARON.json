@@ -5,14 +5,14 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "Aaron Industries Limited engages in the manufacture and sale of elevators and elevator parts in India. It operates through the Elevator and Steel Polishing segments. The Elevator segment offers the manufacturing and sale of elevator cabins, automatic door systems, traction machines, and other elevator components. The Steel Polishing segment undertakes polishing, finishing, and processing of stainless-steel sheets. It also provides elevator doors, control panels, motors, cables, and safety devices. In addition, the company trades in traction machines. It also exports its products. Aaron Industries Limited was incorporated in 2013 and is based in Surat, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 295.07,
-  "pe_ratio": 43.48,
+  "market_cap_cr": 290.49,
+  "pe_ratio": 42.8,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 25.15,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 2.0946,
-  "fifty_two_week_high": 207.0,
+  "fifty_two_week_high": 206.9,
   "fifty_two_week_low": 106.8,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:01:09.038599",
-  "provider_reported_pb_ratio": 5.6,
-  "statements_retrieved_at": "2026-11-10T21:01:09.038599",
+  "retrieval_time": "2026-11-11T21:33:46.731156",
+  "provider_reported_pb_ratio": 5.51,
+  "statements_retrieved_at": "2026-11-11T21:33:46.731156",
   "retained_fields": []
 }

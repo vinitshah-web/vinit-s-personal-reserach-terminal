@@ -5,8 +5,8 @@
   "industry": "Infrastructure Operations",
   "business_summary": "Annu Projects Limited engages in the design, development, implementation, operations and maintenance of essential overhead and underground utilities infrastructure across telecom infrastructure, sewerage infrastructure vertical, gas pipeline vertical and railway signalling vertical in India. The company provides services, such as surveying, designing, and installing cabling and tower infrastructures for communication, automation, and electronic security systems, as well as undertakes the laying of overhead and underground optical fibre cable network for telecom operators. It also constructs manholes, sewerage treatment plants, pumping stations, structural facilities for sewerage, stormwater drainage systems, and screening chambers for combined or sanitary sewers, as well as pipe laying services. In addition, the company engages in the laying medium-density polyethylene for domestic and commercial gas supply. Annu Projects Limited was incorporated in 2003 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 264.0,
-  "pe_ratio": 8.0,
+  "market_cap_cr": 266.82,
+  "pe_ratio": 8.08,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 32.48,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:04:55.887708",
-  "provider_reported_pb_ratio": 1.24,
-  "statements_retrieved_at": "2026-11-10T21:04:55.887708",
+  "retrieval_time": "2026-11-11T21:37:17.991535",
+  "provider_reported_pb_ratio": 1.25,
+  "statements_retrieved_at": "2026-11-11T21:37:17.991535",
   "retained_fields": []
 }

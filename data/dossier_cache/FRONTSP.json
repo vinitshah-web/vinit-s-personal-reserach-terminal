@@ -5,8 +5,8 @@
   "industry": "Metal Fabrication",
   "business_summary": "Frontier Springs Limited engages in the production and sale of L.H.B. springs, hot coiled compression springs, air springs, and forging items in India. Its forging products include anti-roll bar assemblies, screw couplings, draft gear assemblies, hangers, knuckle throwers, top followers, wedge, and brake blocks. The company also offers air spring suspension systems. It serves railways, wagons, locomotives, carriages, coaches, heavy engineering industries, and original earth mover equipment manufacturers. Frontier Springs Limited was incorporated in 1981 and is based in Kanpur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1648.03,
-  "pe_ratio": 27.03,
+  "market_cap_cr": 1757.44,
+  "pe_ratio": 28.82,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 155.28,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:21:23.128632",
-  "provider_reported_pb_ratio": 8.98,
-  "statements_retrieved_at": "2026-11-10T21:21:23.128632",
+  "retrieval_time": "2026-11-11T21:53:04.181621",
+  "provider_reported_pb_ratio": 9.58,
+  "statements_retrieved_at": "2026-11-11T21:53:04.181621",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Building Materials",
   "business_summary": "Vishal Nirmiti Limited, a civil engineering, manufacturing, and construction company, engages in the business of manufacturing and dealing in pre-stressed concrete sleepers for railways. The company operates in two segments, Manufacturing and Services. The company offers fabrication and erection of mild steel pipes (MS Pipes), MS liners, and penstock pipes for pumped storage project. It serves railways, renewable power, and industrial sectors. The company was incorporated in 1994 and is based in Pune, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 321.52,
-  "pe_ratio": 11.5,
+  "market_cap_cr": 317.09,
+  "pe_ratio": 11.35,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 43.83,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T22:08:24.204493",
-  "provider_reported_pb_ratio": 2.78,
-  "statements_retrieved_at": "2026-11-10T22:08:24.204493",
+  "retrieval_time": "2026-11-11T22:39:13.466709",
+  "provider_reported_pb_ratio": 2.74,
+  "statements_retrieved_at": "2026-11-11T22:39:13.466709",
   "retained_fields": []
 }

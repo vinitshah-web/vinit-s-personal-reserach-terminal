@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Ambika Cotton Mills Limited engages in the manufacturing and sale of cotton yarns, waste cotton, and knitted fabrics in India, Europe, Africa, North America, and other Asian countries. It operates windmills with an installed capacity of 27.4 MW in Tirunelveli, Dharapuram, and Theni in the State of Tamil Nadu; and roof top solar power with installed capacity of 8.33 MW in Kanniyapuram and Dindigul for renewable energy. The company serves the manufacturers of shirts and T-shirts. Ambika Cotton Mills Limited was incorporated in 1988 and is headquartered in Coimbatore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 890.47,
-  "pe_ratio": 10.95,
+  "market_cap_cr": 899.63,
+  "pe_ratio": 11.06,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 1666.92,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:04:29.787636",
-  "provider_reported_pb_ratio": 0.93,
-  "statements_retrieved_at": "2026-11-10T21:04:29.787636",
+  "retrieval_time": "2026-11-11T21:36:54.330745",
+  "provider_reported_pb_ratio": 0.94,
+  "statements_retrieved_at": "2026-11-11T21:36:54.330745",
   "retained_fields": []
 }

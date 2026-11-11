@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Alembic Pharmaceuticals Limited, an integrated pharmaceutical company, develops, manufactures, markets, and sells pharmaceutical products in India and internationally. The company provides products in various therapeutic areas, such as cardiology, orthopaedics, anti-diabetic, ophthalmology, gynaecology, nephrology, gastrology, urology, dermatology, anti-infective, cold and cough, and animal health; generics formulations in oral solids, oncology oral solids and injectables, general injectables and ophthalmic products, dermatology, and oral suspension; and active pharmaceutical ingredients. It also exports its products. Alembic Pharmaceuticals Limited was founded in 1907 and is headquartered in Vadodara, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 19996.37,
-  "pe_ratio": 23.7,
+  "market_cap_cr": 20245.02,
+  "pe_ratio": 23.99,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 302.39,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:05:27.516976",
-  "provider_reported_pb_ratio": 3.36,
-  "statements_retrieved_at": "2026-11-10T21:05:27.516976",
+  "retrieval_time": "2026-11-11T21:37:45.766964",
+  "provider_reported_pb_ratio": 3.41,
+  "statements_retrieved_at": "2026-11-11T21:37:45.766964",
   "retained_fields": []
 }

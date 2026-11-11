@@ -5,8 +5,8 @@
   "industry": "Waste Management",
   "business_summary": "Antony Waste Handling Cell Limited, together with its subsidiaries, engages in the municipal solid waste management business in India. The company offers door-to-door waste collection; smart transportation and fleet management; material recovery and processing facilities; composting and bio-methanation; refuse-derived fuel; waste-to-energy; construction and demolition waste processing; mechanized and non-mechanized sweeping; engineered sanitary landfills; and legacy waste remediation. It also provides pest management services, including general pest control, termite management, rodent control, and specialized treatments for corporate and industrial facilities; and deep cleaning solutions, such as move-in/move-out, post-construction, and periodic deep cleaning for commercial and residential properties. The company was founded in 2000 and is based in Thane, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 875.98,
-  "pe_ratio": 15.0,
+  "market_cap_cr": 898.67,
+  "pe_ratio": 15.38,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 260.43,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:07:53.007327",
-  "provider_reported_pb_ratio": 1.19,
-  "statements_retrieved_at": "2026-11-10T21:07:53.007327",
+  "retrieval_time": "2026-11-11T21:40:02.914120",
+  "provider_reported_pb_ratio": 1.22,
+  "statements_retrieved_at": "2026-11-11T21:40:02.914120",
   "retained_fields": []
 }

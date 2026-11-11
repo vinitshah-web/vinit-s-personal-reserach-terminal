@@ -5,7 +5,7 @@
   "industry": "Textile Manufacturing",
   "business_summary": "STL Global Limited engages in the textile business in India. It is involved in knitting, dyeing and processing, yarn dyeing, woven processing, thread sewing, and readymade garments manufacturing activities. The company also offers men's wear, women's tops, boys and girls wear, and kids and infants wear, as well as knitted and woven bed sheets. It exports its products to the United States, the European Union, Canada, and internationally. The company was formerly known as Shivalik Global Ltd. STL Global Limited was incorporated in 1997 and is based in Faridabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 25.29,
+  "market_cap_cr": 25.78,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:56:05.462779",
-  "provider_reported_pb_ratio": 0.97,
-  "statements_retrieved_at": "2026-11-10T21:56:05.462779",
+  "retrieval_time": "2026-11-11T22:27:03.949305",
+  "provider_reported_pb_ratio": 0.99,
+  "statements_retrieved_at": "2026-11-11T22:27:03.949305",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Building Materials",
   "business_summary": "Midwest Limited engages in the exploration, exploitation, manufacturing, processing, and selling of dressed granite blocks and slabs in India and internationally. The company offers black galaxy granite, absolute black granite, color granite, laza grey, quartz grit and powder, quartzite, and cristobalite; heavy mineral sand products, such as rutile, ilmenite, zircon, monazite, and sillimanite; and diamond wires tools, including quarry, stationery, and multi wires. Midwest Limited was incorporated in 1981 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3638.14,
-  "pe_ratio": 30.77,
+  "market_cap_cr": 3566.9,
+  "pe_ratio": 30.17,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 277.17,
@@ -48,8 +48,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:40:06.853146",
-  "provider_reported_pb_ratio": 3.63,
-  "statements_retrieved_at": "2026-11-10T21:40:06.853146",
+  "retrieval_time": "2026-11-11T22:11:17.477888",
+  "provider_reported_pb_ratio": 3.56,
+  "statements_retrieved_at": "2026-11-11T22:11:17.477888",
   "retained_fields": []
 }

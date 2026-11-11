@@ -5,14 +5,14 @@
   "industry": "Metal Fabrication",
   "business_summary": "Manaksia Coated Metals & Industries Limited manufactures and sells coated metal products in India and internationally. The company operates through Metal Products and Others segments. It offers galvanized and pre-painted steel coils/sheets under the Colour Strong, Zingalvo, and Singham brand names. The company also provides ultramarine blue powder used for fabric whitener under the Robin Blue brand name; and mosquito repellent coils. Its products are used in roofing and cladding, industrial metal building construction, HVAC systems, refrigeration, metal ceiling systems, dry wall partition systems, marker boards, metal doors and windows, white goods and appliances, metal safes, elevator systems, bus body buildings, solar water heating equipment, insulated sandwich panels for cold storage, warehouses, refrigerated trucks, steel furniture, and rain water drainage systems. The company was incorporated in 2010 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1740.27,
-  "pe_ratio": 36.51,
+  "market_cap_cr": 1768.95,
+  "pe_ratio": 37.11,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 36.2,
-  "dividend_yield_pct": 0.0301,
+  "dividend_yield_pct": 0.0306,
   "shares_outstanding_cr": 10.6634,
-  "fifty_two_week_high": 167.2,
+  "fifty_two_week_high": 170.0,
   "fifty_two_week_low": 94.2,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:37:48.095772",
-  "provider_reported_pb_ratio": 4.51,
-  "statements_retrieved_at": "2026-11-10T21:37:48.095772",
+  "retrieval_time": "2026-11-11T22:09:15.931731",
+  "provider_reported_pb_ratio": 4.58,
+  "statements_retrieved_at": "2026-11-11T22:09:15.931731",
   "retained_fields": []
 }

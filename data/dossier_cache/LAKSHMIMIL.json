@@ -6,7 +6,7 @@
   "business_summary": "The Lakshmi Mills Company Limited manufactures and sells yarns and fabrics in India and internationally. It operates through two segments, Textiles and Rental Services. The company offers various yarn products, such as cotton, polyester blended, polyester-cotton (PC) blended, PC slub, chief value cotton, contamination free, PC high twist, and bamboo yarn. It also provides grey fabrics, including cotton, PC-blends, and cotton lycra; processed and dyed fabrics; bed linen; school and corporate uniforms; and special products for nursing homes, hospitals, and operation theatres, such as gowns, aprons, maxi dresses, disposable gowns, special treated fabrics, bedspreads, pillow covers, curtains, mattresses, disposable bed sheets, coats, gowns, pyjama-vests, and other uniforms. In addition, the company engages in trading in cloth and garments; and letting out properties. It sells its products under the Lenzing Modal, Micro Modal, Tencel, X- Static, and Supima brands. The company also exports its products. The Lakshmi Mills Company Limited was incorporated in 1910 and is based in Coimbatore, India.",
   "business_summary_reason": null,
   "market_cap_cr": null,
-  "pe_ratio": 58.27,
+  "pe_ratio": 60.33,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 10242.24,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:35:11.986178",
-  "provider_reported_pb_ratio": 0.78,
-  "statements_retrieved_at": "2026-11-10T21:35:11.986178",
+  "retrieval_time": "2026-11-11T22:06:43.200346",
+  "provider_reported_pb_ratio": 0.81,
+  "statements_retrieved_at": "2026-11-11T22:06:43.200346",
   "retained_fields": []
 }

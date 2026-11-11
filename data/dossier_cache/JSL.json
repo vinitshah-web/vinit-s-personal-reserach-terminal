@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "Jindal Stainless Limited manufactures and sells stainless-steel flat products in India and internationally. The company offers ferro alloys, stainless steel slabs and blooms, hot rolled coils, plates and sheets, and cold rolled coils and sheets; specialty products, including razor-blade steel, coin blanks, and precision strips; and long products, such as decorative stainless-steel pipes, rebars, and wire rods. It serves the automotive and transport, railway, process, architecture, building, construction, nuclear application, plumbing, and consumer durables industries. The company exports its products to approximately 50 countries, including Japan, South Korea, Taiwan, and Germany. The company was formerly known as JSL Stainless Ltd. and changed its name to Jindal Stainless Limited in December 2011. Jindal Stainless Limited was founded in 1970 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 56939.05,
-  "pe_ratio": 17.09,
+  "market_cap_cr": 59147.24,
+  "pe_ratio": 17.76,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 257.77,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:32:05.799406",
-  "provider_reported_pb_ratio": 2.68,
-  "statements_retrieved_at": "2026-11-10T21:32:05.799406",
+  "retrieval_time": "2026-11-11T22:03:31.912555",
+  "provider_reported_pb_ratio": 2.78,
+  "statements_retrieved_at": "2026-11-11T22:03:31.912555",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Lumber & Wood Production",
   "business_summary": "Greenlam Industries Limited, together with its subsidiaries, manufactures and sells laminates, plywoods, and allied products in India and internationally. It offers decorative and compact laminates, exterior and interior clads, restroom cubicles and locker solutions, chipboards, decorative veneers, engineered wooden floorings, engineered door sets and frames, plywoods, and worktop surface solutions. The company sells its products under the Greenlam and Mikasa brand names through a network of distributors, dealers, and retailers. It exports its products. The company was founded in 1993 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 5220.58,
-  "pe_ratio": 60.9,
+  "market_cap_cr": 5209.35,
+  "pe_ratio": 60.76,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 47.69,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:24:05.289005",
-  "provider_reported_pb_ratio": 4.29,
-  "statements_retrieved_at": "2026-11-10T21:24:05.289005",
+  "retrieval_time": "2026-11-11T21:55:41.600924",
+  "provider_reported_pb_ratio": 4.28,
+  "statements_retrieved_at": "2026-11-11T21:55:41.600924",
   "retained_fields": []
 }

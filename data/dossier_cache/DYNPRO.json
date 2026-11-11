@@ -5,14 +5,14 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Dynemic Products Limited, together with its subsidiaries, engages in the manufacture and sale of dyes and dye intermediates in India. It offers food colours that are primarily applied in foodstuff, beverages, animal feeds, etc.; lake colours for use in pharmaceuticals, cosmetic and personal care products, spice compounds, bakery and dairy products, and snack food applications; and blended colours. The company also provides food drug and cosmetic colors; salt free dyes for the inkjet industry; and natural food colours. and dyes intermediates, such as pyarazolone based dyes intermediates. In addition, it offers drug and cosmetic colours for tablet coatings, compressed tablets, syrups, hard and soft gelatin capsules, toiletries, skin-care products, water-based make-ups, lipsticks, nail polishes, pencils, foundations, and lip glosses. The company also exports its products. Dynemic Products Limited was incorporated in 1990 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 282.12,
-  "pe_ratio": 12.58,
+  "market_cap_cr": 284.24,
+  "pe_ratio": 12.68,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 205.38,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.2428,
-  "fifty_two_week_high": 306.0,
+  "fifty_two_week_high": 304.7,
   "fifty_two_week_low": 190.8,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:17:46.815811",
+  "retrieval_time": "2026-11-11T21:49:35.467388",
   "provider_reported_pb_ratio": 1.11,
-  "statements_retrieved_at": "2026-11-10T21:17:46.815811",
+  "statements_retrieved_at": "2026-11-11T21:49:35.467388",
   "retained_fields": []
 }

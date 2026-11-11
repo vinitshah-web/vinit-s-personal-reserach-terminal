@@ -5,8 +5,8 @@
   "industry": "Packaged Foods",
   "business_summary": "Chaman Lal Setia Exports Ltd. manufactures, trades, and markets rice in India. The company offers basmati rice, sella rice, bhatti sella rice for diabetic people, smoked rice, and pesticide residue free rice. It sells its products under the Maharani, Mithas, Begum, Green World Aromatic Rice, Maharani Diabetics Rice, Basmati Rice Plus, and Maharani - Brown Basmati Rice brands. The company also exports its products. Chaman Lal Setia Exports Ltd. was founded in 1974 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1443.78,
-  "pe_ratio": 11.53,
+  "market_cap_cr": 1480.08,
+  "pe_ratio": 11.82,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 168.67,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:13:34.578965",
-  "provider_reported_pb_ratio": 1.72,
-  "statements_retrieved_at": "2026-11-10T21:13:34.578965",
+  "retrieval_time": "2026-11-11T21:45:31.155819",
+  "provider_reported_pb_ratio": 1.76,
+  "statements_retrieved_at": "2026-11-11T21:45:31.155819",
   "retained_fields": []
 }

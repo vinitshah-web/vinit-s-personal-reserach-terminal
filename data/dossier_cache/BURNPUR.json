@@ -5,7 +5,7 @@
   "industry": "Building Materials",
   "business_summary": "Burnpur Cement Limited does not have significant operations. Previously, the company was engaged in the manufacture and sale of cement. Burnpur Cement Limited was incorporated in 1986 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 19.95,
+  "market_cap_cr": 19.55,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:11:49.537600",
+  "retrieval_time": "2026-11-11T21:43:51.118522",
   "provider_reported_pb_ratio": -0.03,
-  "statements_retrieved_at": "2026-11-10T21:11:49.537600",
+  "statements_retrieved_at": "2026-11-11T21:43:51.118522",
   "retained_fields": []
 }

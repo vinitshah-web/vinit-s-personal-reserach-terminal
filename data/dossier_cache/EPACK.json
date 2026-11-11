@@ -5,7 +5,7 @@
   "industry": "Furnishings, Fixtures & Appliances",
   "business_summary": "EPACK Durable Limited manufactures original design of room air conditioners in India. The company provides window air conditioners, window inverter air conditioners, indoor units, and outdoor units; small domestic appliances, including induction cooktops, mixer-grinders, air fryers, vacuum cleaner and nutri blenders, and water dispensers; and large domestic appliances, such as washing machines and air-coolers. It also offers appliance heat exchangers, PCBAs, universal motors, copper tubing products, sheet metals, plastic mouldings, crossflow fans, induction coils, copper fabricated products, and axial fans. The company also exports its products. EPACK Durable Limited was incorporated in 2003 and is based in Noida, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1512.99,
+  "market_cap_cr": 1563.92,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:19:26.445290",
-  "provider_reported_pb_ratio": 1.6,
-  "statements_retrieved_at": "2026-11-10T21:19:26.445290",
+  "retrieval_time": "2026-11-11T21:51:12.217232",
+  "provider_reported_pb_ratio": 1.65,
+  "statements_retrieved_at": "2026-11-11T21:51:12.217232",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Stallion India Fluorochemicals Limited engages in debulking, blending, and processing of refrigerants and industrial gases in India. It provides fluorochemicals, such as hydrocarbons (HC), hydrofluorocarbons (HFC), and hydrofluoroolefins (HFO). The company also offers equipment and spares for AC and R industry, including pressure washers and vacuum pumps; consumer cans refrigerants and paints comprising R-290, R-134a, R-600a, hydrocarbon, and paint; refrigerant and fluorines consisting of HFO, HFO blends, HFC's and HFC blends, hydrocarbons, blowing agents, propellants, electrical insulating, and fire extinguishants; and semiconductor, electronics, and specialty gases, such as CF4 and SF6, as well as operates processing facilities. It serves air conditioners and refrigerators, firefighting, semiconductor, automobile manufacturing, pharma and medicals, glass bottle, aerosols, defense, and gas insulated substation and spay foam industries. The company was founded in 1992 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2328.56,
-  "pe_ratio": 37.63,
+  "market_cap_cr": 2348.07,
+  "pe_ratio": 37.95,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 82.79,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:59:58.367016",
-  "provider_reported_pb_ratio": 2.42,
-  "statements_retrieved_at": "2026-11-10T21:59:58.367016",
+  "retrieval_time": "2026-11-11T22:31:04.186627",
+  "provider_reported_pb_ratio": 2.44,
+  "statements_retrieved_at": "2026-11-11T22:31:04.186627",
   "retained_fields": []
 }

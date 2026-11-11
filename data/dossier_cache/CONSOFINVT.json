@@ -5,8 +5,8 @@
   "industry": "Capital Markets",
   "business_summary": "Consolidated Finvest & Holdings Limited, a non-banking financial company, engages in the lending and investment business in India. It invests in shares, stocks, bonds, debentures, mutual funds, and inter corporate deposits, as well as financial services, including loans and advances, asset financing, microfinance, and insurance services. The company was incorporated in 1993 and is headquartered in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1034.93,
-  "pe_ratio": 19.14,
+  "market_cap_cr": 1034.77,
+  "pe_ratio": 19.13,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 358.65,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:14:08.351966",
+  "retrieval_time": "2026-11-11T21:46:03.973482",
   "provider_reported_pb_ratio": 0.89,
-  "statements_retrieved_at": "2026-11-10T21:14:08.351966",
+  "statements_retrieved_at": "2026-11-11T21:46:03.973482",
   "retained_fields": []
 }

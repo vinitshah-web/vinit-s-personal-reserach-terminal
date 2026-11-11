@@ -5,8 +5,8 @@
   "industry": "Furnishings, Fixtures & Appliances",
   "business_summary": "Avro India Limited engages in the manufacture and sale of plastic molded furniture and granules in India. The company provides chairs, tables, stools, gold, cushion, armless chair, baby chair, matt and gloss, round table, plastic cabinets, shoe racks, and kid's chairs. It also offers dining table and almirah. Avro India Limited offers its products under the AVON FURNITURE and AVRO FURNITURE brand names. The company sells its products through retailers, online, and offline channels. Avro India Limited was formerly known as Avon Moldplast Limited and changed its name to Avro India Limited in November 2019. The company was incorporated in 1996 and is based in Ghaziabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 71.51,
-  "pe_ratio": 24.23,
+  "market_cap_cr": 71.38,
+  "pe_ratio": 24.18,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 6.66,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:07:49.454148",
+  "retrieval_time": "2026-11-11T21:39:58.938852",
   "provider_reported_pb_ratio": 0.8,
-  "statements_retrieved_at": "2026-11-10T21:07:49.454148",
+  "statements_retrieved_at": "2026-11-11T21:39:58.938852",
   "retained_fields": []
 }

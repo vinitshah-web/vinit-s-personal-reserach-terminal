@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "Globe Civil Projects Limited primarily engages in the civil construction business in India. The company operates in Engineering, Procurement, and Construction (EPC); and Trading segments. It is involved in the transport and logistics projects, including roads, bridges, and terminals; social and commercial projects, such as education, healthcare, and sports; and non-infrastructure projects, including commercial offices and housing. The company undertakes construction contracts for government departments, local authorities, and other clients. The company was incorporated in 2002 and is headquartered in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 228.84,
-  "pe_ratio": 9.1,
+  "market_cap_cr": 238.7,
+  "pe_ratio": 9.49,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 39.24,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:22:51.413628",
-  "provider_reported_pb_ratio": 0.98,
-  "statements_retrieved_at": "2026-11-10T21:22:51.413628",
+  "retrieval_time": "2026-11-11T21:54:30.277518",
+  "provider_reported_pb_ratio": 1.02,
+  "statements_retrieved_at": "2026-11-11T21:54:30.277518",
   "retained_fields": []
 }

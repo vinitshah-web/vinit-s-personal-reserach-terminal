@@ -5,8 +5,8 @@
   "industry": "Packaged Foods",
   "business_summary": "Godrej Agrovet Limited, an agri-business company, provides products and services that enhance crop and livestock yields in India and internationally. The company operates through Animal Feed, Vegetable Oil, Crop Protection, Dairy, Poultry and Processed Food, and Other segments. It offers animal feed, such as cattle, poultry, and aqua feed. The company also engages in the oil palm cultivation with approximately 75,000 hectares of plantations across Andhra Pradesh, Telangana, Tamil Nadu, Goa, Maharashtra, and Mizoram producing crude palm oil, crude palm kernel oil, and palm kernel cake. In addition, it produces and markets crop protection products, including plant growth regulators, bio-stimulants, herbicides, insecticides, fungicides, and fertilizers and organic manures. Further, the company manufactures and markets processed poultry and vegetarian products under the Real Good Chicken name; vegetarian and non-vegetarian ready-to-cook products under the Yummiez name; and processed food and milk and milk products under the Godrej Jersey brand. Additionally, it produces agrochemical active ingredients, bulk and formulations, and pharmaceutical intermediates. The company was incorporated in 1991 and is based in Mumbai, India. Godrej Agrovet Limited is a subsidiary of Godrej Industries Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 11382.1,
-  "pe_ratio": 24.24,
+  "market_cap_cr": 11279.16,
+  "pe_ratio": 24.02,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 105.66,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:23:13.793173",
-  "provider_reported_pb_ratio": 5.6,
-  "statements_retrieved_at": "2026-11-10T21:23:13.793173",
+  "retrieval_time": "2026-11-11T21:54:51.326396",
+  "provider_reported_pb_ratio": 5.55,
+  "statements_retrieved_at": "2026-11-11T21:54:51.326396",
   "retained_fields": []
 }

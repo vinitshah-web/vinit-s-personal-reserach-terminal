@@ -5,7 +5,7 @@
   "industry": "Communication Equipment",
   "business_summary": "Kavveri Defence & Wireless Technologies Limited engages in the design, development, and manufacture subsystem products, antennas and RF components, for defence, railroad transport, airports, aerospace and telecommunications applications in India and internationally. The company offers omnidirectional antenna, panel and sector antennas, Yagi antennas, vehicular/manpack antenna, adjustable & multisector, low-profile antenna, in-building/DAS/IBS, point-to-point antenna, parabolic and custom multiband and high-gain solutions; filters, including bandpass, high-pass, low-pass, multiple window filters, broadband duplexers, combiners, and tunable dual-cavity filters; and passive RF components, such as isolators, circulators, power dividers, RF switches, couplers, and splitters. It serves the defense, aerospace, counter-drone, satcom, public safety, industrial, and transport sectors. The company was formerly known as Kavveri Telecom Products Limited and changed its name to Kavveri Defence & Wireless Technologies Limited in October 2024. Kavveri Defence & Wireless Technologies Limited was founded in 1991 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 485.74,
+  "market_cap_cr": 487.07,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:33:05.817494",
-  "provider_reported_pb_ratio": 2.56,
-  "statements_retrieved_at": "2026-11-10T21:33:05.817494",
+  "retrieval_time": "2026-11-11T22:04:30.636487",
+  "provider_reported_pb_ratio": 2.57,
+  "statements_retrieved_at": "2026-11-11T22:04:30.636487",
   "retained_fields": []
 }

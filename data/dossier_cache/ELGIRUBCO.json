@@ -5,7 +5,7 @@
   "industry": "Auto Parts",
   "business_summary": "Elgi Rubber Company Limited, together with its subsidiaries, manufactures and sells reclaimed rubber, retreading machinery, and retread rubber in India and internationally. It offers tire retread and repair systems under the Jet brand name; expandable rims and hubs under the CRS brand; retreading and repair tools; retreat process equipment under the Armonas brand name; curing systems; reclaim rubbers; and rasp blades and hubs under the Pincott brand name. The company also provides brazed carbide tools under the Carbrasive brand name; gums, adhesives, and sealants under the Midwest Rubber brand name; tire and tube repair products under the Westernweld name; reclaimed rubber under the Rubber Resources brand name; and retreading consumables under the Kooltread brand. The company was founded in 1981 and is headquartered in Coimbatore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 253.95,
+  "market_cap_cr": 254.1,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:18:36.956362",
+  "retrieval_time": "2026-11-11T21:50:23.784868",
   "provider_reported_pb_ratio": 3.36,
-  "statements_retrieved_at": "2026-11-10T21:18:36.956362",
+  "statements_retrieved_at": "2026-11-11T21:50:23.784868",
   "retained_fields": []
 }

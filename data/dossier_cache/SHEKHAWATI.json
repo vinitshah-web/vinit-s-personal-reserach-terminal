@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Shekhawati Industries Limited engages in the textile and real estate operation businesses in India. The company manufactures polyester and nylon draw textured yarns, twisted yarns, and knitted fabrics; and offers textile consultancy services, including market insights and trends, sourcing and procurement, sustainability strategies, product development support, and quality control and assurance services. It is also involved in real estate development, such as residential and commercial development, mixed-use projects, sustainability initiatives, and community engagement services. The company was formerly known as Shekhawati Poly-Yarn Limited and changed its name to Shekhawati Industries Limited in July 2024. Shekhawati Industries Limited was incorporated in 1990 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 76.18,
-  "pe_ratio": 8.8,
+  "market_cap_cr": 74.94,
+  "pe_ratio": 8.66,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 6.38,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:56:37.350061",
-  "provider_reported_pb_ratio": 3.47,
-  "statements_retrieved_at": "2026-11-10T21:56:37.350061",
+  "retrieval_time": "2026-11-11T22:27:35.842580",
+  "provider_reported_pb_ratio": 3.41,
+  "statements_retrieved_at": "2026-11-11T22:27:35.842580",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Packaged Foods",
   "business_summary": "Ganesh Consumer Products Limited operates as a fast-moving consumer goods company in India. The company offers gold sharbati, multigrain, and diabetes control atta; maida; sooji; wheat, multigrain, and bajra dalia; besan; rajgira, bajri, kuttu, ragi, and jowari atta; and whole, powder, and blended spices. It also provides chana sattu, chana shakti sattu, gold multigrain sattu, and gold shakti sattu jar, as well as wheat bran and chana chunni. In addition, the company offers packaged staples, other packaged food, packaged dairy, packaged beverages, and packaged meat products; and ready-to-eat products. It offers its products under the Ganesh brand name. The company was formerly known as Ganesh Grains Limited and changed its name to Ganesh Consumer Products Limited in August 2024. Ganesh Consumer Products Limited was founded in 1936 and is based in Kolkata, India. Ganesh Consumer Products Limited operates as a subsidiary of Srivaru Agro Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 733.01,
-  "pe_ratio": 16.08,
+  "market_cap_cr": 721.86,
+  "pe_ratio": 15.84,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 92.88,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:21:43.131173",
-  "provider_reported_pb_ratio": 1.95,
-  "statements_retrieved_at": "2026-11-10T21:21:43.131173",
+  "retrieval_time": "2026-11-11T21:53:24.101101",
+  "provider_reported_pb_ratio": 1.92,
+  "statements_retrieved_at": "2026-11-11T21:53:24.101101",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "VMS TMT Limited manufactures and sells thermo-mechanically treated high-strength reinforcement steel bars in India. The company offers TMT bars under the Kamdhenu NXT brand name; and sells scrap, binding wires and billets. VMS TMT Limited was incorporated in 2013 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 207.51,
-  "pe_ratio": 11.71,
+  "market_cap_cr": 208.65,
+  "pe_ratio": 11.78,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 45.97,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T22:08:23.082386",
+  "retrieval_time": "2026-11-11T22:39:12.296739",
   "provider_reported_pb_ratio": 0.91,
-  "statements_retrieved_at": "2026-11-10T22:08:23.082386",
+  "statements_retrieved_at": "2026-11-11T22:39:12.296739",
   "retained_fields": []
 }

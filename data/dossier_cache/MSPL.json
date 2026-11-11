@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "MSP Steel & Power Limited, together with its subsidiaries, engages in the manufacturing and trading of iron and steel products in India and internationally. The company offers MSP premium TMT bars for residential housing and individual home construction, Commercial buildings and institutional infrastructure, and public development project applications; and MSP structural, including H beams, I Beams, channels, angles, round bars, and dowel bars for infrastructure projects, Industrial, general engineering, and domestic applications. It also provides MSP pellet for direct reduced iron production, blast furnace iron-making, sponge iron production, and integrated steel manufacturing applications; sponge iron, MS billets; and MSP pipes. In addition, the company offers power products; and sells scrap and by-products. It serves construction, infrastructure, and industrial sectors. The company also exports its products. MSP Steel & Power Limited was incorporated in 1968 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1109.11,
-  "pe_ratio": 54.72,
+  "market_cap_cr": 1151.43,
+  "pe_ratio": 56.81,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 18.18,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:42:06.877576",
-  "provider_reported_pb_ratio": 1.72,
-  "statements_retrieved_at": "2026-11-10T21:42:06.877576",
+  "retrieval_time": "2026-11-11T22:13:12.892062",
+  "provider_reported_pb_ratio": 1.78,
+  "statements_retrieved_at": "2026-11-11T22:13:12.892062",
   "retained_fields": []
 }

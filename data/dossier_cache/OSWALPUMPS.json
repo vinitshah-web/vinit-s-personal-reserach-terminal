@@ -5,8 +5,8 @@
   "industry": "Electrical Equipment & Parts",
   "business_summary": "Oswal Pumps Limited manufactures and sells solar pumps in India and internationally. The company offers solar-powered and grid-connected submersible and monoblock pumps, electric motors, accessories, pump control, control panel, and solar modules under the Oswal brand. It also offers sewage pumps, submersible winding wires and cables, and electrical panels. The company also serves agricultural, residential, commercial, and industrial sectors. In addition, it exports its products to Australia, Bangladesh, Cyprus, the United Arab Emirates, the United States of America, Germany, Saudi Arabia, Italy, and the United Kingdom. Oswal Pumps Limited was incorporated in 2003 and is headquartered in Karnal, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2631.46,
-  "pe_ratio": 7.68,
+  "market_cap_cr": 2728.59,
+  "pe_ratio": 7.96,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 155.5,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:46:25.690858",
-  "provider_reported_pb_ratio": 1.48,
-  "statements_retrieved_at": "2026-11-10T21:46:25.690858",
+  "retrieval_time": "2026-11-11T22:17:29.672336",
+  "provider_reported_pb_ratio": 1.54,
+  "statements_retrieved_at": "2026-11-11T22:17:29.672336",
   "retained_fields": []
 }

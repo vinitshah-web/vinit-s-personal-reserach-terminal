@@ -5,8 +5,8 @@
   "industry": "Luxury Goods",
   "business_summary": "Titan Company Limited, together with its subsidiaries, manufactures and sells watches, jewelry, eyewear, fragrances, women's bags, and other accessories and products in India and internationally. The company operates through four segments: Watches and Wearables, Jewellery, Eyecare, and Others. The company designs, manufactures, and retails watches and wearables under the Nebula, Titan, Titan Clock, Zoop, Titan Octane, Titan Raga, Xylys, Edge, Fastrack, Sonata, Titan Smart, Fastrack smart, SF, Titan World, and Helios brands; jewellery products under the Mia, CaratLane, Tanishq, and Zoya brands; and eyecare products under the Titan Glares, Titan Eye+ and Fastrack Eyecare brands. It also offers sarees, dress materials, and ready-to-wear kurtas under the Taneira brand; perfumes under the SKINN brand; belts and wallets under the TITAN brand; and bags under the Fastrack and IRTH brands. In addition, the company provides manufacturing services and automation solutions for the aerospace, defense, transportation, electrical and electronics, and medical sectors. Further, it provides automation and precision engineering solutions. It offers its products through owned and franchised retail stores, as well as online. The company was formerly known as Titan Industries Limited and changed its name to Titan Company Limited in August 2013. Titan Company Limited was incorporated in 1984 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 444099.83,
-  "pe_ratio": 63.17,
+  "market_cap_cr": 440994.21,
+  "pe_ratio": 62.73,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 205.75,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T22:04:14.765270",
-  "provider_reported_pb_ratio": 24.33,
-  "statements_retrieved_at": "2026-11-10T22:04:14.765270",
+  "retrieval_time": "2026-11-11T22:35:03.696562",
+  "provider_reported_pb_ratio": 24.16,
+  "statements_retrieved_at": "2026-11-11T22:35:03.696562",
   "retained_fields": []
 }

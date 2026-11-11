@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Uravi Defence and Technology Limited engages in the manufacturing and supply of automotive components in India. The company offers incandescent and halogen head lamps; stop, tail, and indicators signaling lamps; wedge base lamps for dashboard and indicators light; and wedge base lamps holders and silicon caps. It also provides automobile LED and LED filaments lamps. Its products are used for two- wheelers, four-wheelers, tractors, and industrial applications for various automobile manufacturers. The company sells its products under the UVAL brand. Uravi Defence and Technology Limited was formerly known as Uravi T & Wedge Lamps Limited and changed its name to Uravi Defence and Technology Limited in November 2024. The company was incorporated in 2004 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 112.1,
-  "pe_ratio": 64.69,
+  "market_cap_cr": 118.0,
+  "pe_ratio": 68.1,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 44.93,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T22:06:08.196112",
-  "provider_reported_pb_ratio": 2.19,
-  "statements_retrieved_at": "2026-11-10T22:06:08.196112",
+  "retrieval_time": "2026-11-11T22:36:58.400068",
+  "provider_reported_pb_ratio": 2.3,
+  "statements_retrieved_at": "2026-11-11T22:36:58.400068",
   "retained_fields": []
 }

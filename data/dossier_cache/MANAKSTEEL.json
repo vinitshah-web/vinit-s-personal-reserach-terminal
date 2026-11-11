@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "Manaksia Steels Limited manufactures and sells secondary steel products in India and internationally. The company offers cold rolled sheets used for interior and exterior panels of automobiles, buses, and commercial vehicles; galvanized corrugated sheets applied in rural housing and factory buildings; galvanized plain sheets used in manufacturing rural housing, factory buildings, containers and water tanks; and pre-painted galvanized coils and sheets for construction and architectural work, such as roofing, cladding, and paneling. In addition, the company offers hot dipped galvanized steel sheets and coils used in building materials, automobiles, white goods, and electronics appliances industry, as well as offers color coated sheets and coils. Further, it provides pre-painted profile, galvanised corrugated, and galvalume (Alu Zinc) coils and sheets. Manaksia Steels Limited was incorporated in 2001 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 821.4,
-  "pe_ratio": 14.63,
+  "market_cap_cr": 780.38,
+  "pe_ratio": 13.89,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 49.77,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:37:50.400270",
-  "provider_reported_pb_ratio": 2.52,
-  "statements_retrieved_at": "2026-11-10T21:37:50.400270",
+  "retrieval_time": "2026-11-11T22:09:18.218239",
+  "provider_reported_pb_ratio": 2.39,
+  "statements_retrieved_at": "2026-11-11T22:09:18.218239",
   "retained_fields": []
 }

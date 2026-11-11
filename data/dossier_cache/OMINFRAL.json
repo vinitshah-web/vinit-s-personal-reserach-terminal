@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "Om Infra Limited, together with its subsidiaries, engages in the design, detail engineering, manufacture, supply, installation, testing, and commissioning of hydro mechanical equipment for hydroelectric power and irrigation projects in India and internationally. It operates through Engineering, Real Estate, and Road segments. The company offers heavy radial gates, penstocks, and hydraulic hoists. It is also involved in designing, manufacturing, supplying, installation, and commissioning of critical hydro-mechanical equipment such as gates, hoists, cranes, and spillways; construction and rehabilitation of dams, canals, lift irrigation systems, and pumping stations; and construction of pipelines, pumping stations, overhead reservoirs, and water treatment plants, as well as develops residential and commercial units. In addition, the company engages in providing civil and hydro-mechanical irrigation solutions; and hotel business activities. The company was formerly known as Om Metals Infraprojects Limited and changed its name to Om Infra Limited in January 2021. Om Infra Limited was founded in 1969 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 666.23,
-  "pe_ratio": 18.7,
+  "market_cap_cr": 674.42,
+  "pe_ratio": 18.93,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 79.08,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:45:35.956536",
-  "provider_reported_pb_ratio": 0.87,
-  "statements_retrieved_at": "2026-11-10T21:45:35.956536",
+  "retrieval_time": "2026-11-11T22:16:40.833865",
+  "provider_reported_pb_ratio": 0.89,
+  "statements_retrieved_at": "2026-11-11T22:16:40.833865",
   "retained_fields": []
 }

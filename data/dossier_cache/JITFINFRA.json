@@ -5,7 +5,7 @@
   "industry": "Engineering & Construction",
   "business_summary": "JITF Infralogistics Limited, through its subsidiaries, develops urban infrastructure and water infrastructure in India. The company operates through the Water Infrastructure, Urban Infrastructure, and Trading Activity segments. It also engages in trade of steel; management of municipal solid waste and generation of energy from municipal solid waste; and power generation and supply, as well as waste to power activities. JITF Infralogistics Limited was incorporated in 2008 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 659.43,
+  "market_cap_cr": 662.51,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:31:45.631788",
-  "provider_reported_pb_ratio": -1.28,
-  "statements_retrieved_at": "2026-11-10T21:31:45.631788",
+  "retrieval_time": "2026-11-11T22:03:11.100631",
+  "provider_reported_pb_ratio": -1.29,
+  "statements_retrieved_at": "2026-11-11T22:03:11.100631",
   "retained_fields": []
 }

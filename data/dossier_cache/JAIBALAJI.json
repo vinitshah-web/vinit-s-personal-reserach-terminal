@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "Jai Balaji Industries Limited manufactures and markets iron and steel products in India. The company provides TMT bars, cement, sponge iron, pig iron, ductile iron pipe, ferro chrome, billet, coke, sinter, ductile iron pipes, and alloy carbon and mild steel billets and rounds. It also offers steel bars/rods, ferro alloys, MS ingots, and coke/coke fines/nut coke, as well as generates power. The company offers its TMT bars under the Balaji Shakti brand name. It also exports its products. Jai Balaji Industries Limited was incorporated in 1999 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 6038.19,
-  "pe_ratio": 30.93,
+  "market_cap_cr": 6157.7,
+  "pe_ratio": 31.54,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 26.64,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:31:04.641158",
-  "provider_reported_pb_ratio": 2.48,
-  "statements_retrieved_at": "2026-11-10T21:31:04.641158",
+  "retrieval_time": "2026-11-11T22:02:32.546270",
+  "provider_reported_pb_ratio": 2.53,
+  "statements_retrieved_at": "2026-11-11T22:02:32.546270",
   "retained_fields": []
 }

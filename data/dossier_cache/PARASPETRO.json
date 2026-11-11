@@ -5,7 +5,7 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Paras Petrofils Limited does not have significant operations. Previously, it was engaged in manufacturing nylon and polyester yarns, trading of fabrics and commission activities. The company was incorporated in 1991 and is based in Surat, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 69.52,
+  "market_cap_cr": 69.18,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:46:53.411001",
-  "provider_reported_pb_ratio": 4.19,
-  "statements_retrieved_at": "2026-11-10T21:46:53.411001",
+  "retrieval_time": "2026-11-11T22:17:57.093567",
+  "provider_reported_pb_ratio": 4.16,
+  "statements_retrieved_at": "2026-11-11T22:17:57.093567",
   "retained_fields": []
 }

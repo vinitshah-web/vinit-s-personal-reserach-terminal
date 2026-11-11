@@ -5,8 +5,8 @@
   "industry": "Utilities - Renewable",
   "business_summary": "Siemens Energy India Limited engages in energy business. The company offers air insulated and gas insulated switchgears, bushings, instrument transformers and coils, power transformers, reactors, and traction transformers; gas turbines and steam turbines; hydrogen-powered hybrid power plants; and power generators. It also provides engineering procurement and construction services for projects; operation and maintenance; modernization and upgradation; plant flexibilization; control and digitalization services; and professional consulting. Siemens Energy India Limited was founded in 1922 and is based in Mumbai, India. Siemens Energy India Limited operates as a subsidiary of Siemens Aktiengesellschaft.",
   "business_summary_reason": null,
-  "market_cap_cr": 101038.51,
-  "pe_ratio": 67.89,
+  "market_cap_cr": 105493.58,
+  "pe_ratio": 70.89,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 135.12,
@@ -48,8 +48,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:19:21.270665",
-  "provider_reported_pb_ratio": 21.0,
-  "statements_retrieved_at": "2026-11-10T21:19:21.270665",
+  "retrieval_time": "2026-11-11T21:51:07.352209",
+  "provider_reported_pb_ratio": 21.92,
+  "statements_retrieved_at": "2026-11-11T21:51:07.352209",
   "retained_fields": []
 }

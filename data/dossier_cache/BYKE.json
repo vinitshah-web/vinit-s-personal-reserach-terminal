@@ -5,8 +5,8 @@
   "industry": "Lodging",
   "business_summary": "The Byke Hospitality Limited operates in the hospitality business in India. The company operates hotels, resorts, and service apartments. The Byke Hospitality Limited was incorporated in 1990 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 156.52,
-  "pe_ratio": 0.97,
+  "market_cap_cr": 153.81,
+  "pe_ratio": 0.95,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 44.28,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:11:53.343927",
-  "provider_reported_pb_ratio": 0.68,
-  "statements_retrieved_at": "2026-11-10T21:11:53.343927",
+  "retrieval_time": "2026-11-11T21:43:54.621292",
+  "provider_reported_pb_ratio": 0.66,
+  "statements_retrieved_at": "2026-11-11T21:43:54.621292",
   "retained_fields": []
 }

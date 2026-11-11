@@ -5,14 +5,14 @@
   "industry": "Asset Management",
   "business_summary": "UTI Asset Management Company (P) Ltd. is a privately owned investment manager. It manages mutual funds for its clients. The firm invests in money market, fixed income, and public equity markets of India. It employs in-house research while making its investments. UTI Asset Management Company (P) Ltd. was incorporated on November 14, 2002 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 10736.96,
-  "pe_ratio": 22.38,
+  "market_cap_cr": 10806.38,
+  "pe_ratio": 22.52,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 343.25,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 12.854,
-  "fifty_two_week_high": 1204.8,
+  "fifty_two_week_high": 1188.7,
   "fifty_two_week_low": 781.8,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T22:06:16.681043",
-  "provider_reported_pb_ratio": 2.43,
-  "statements_retrieved_at": "2026-11-10T22:06:16.681043",
+  "retrieval_time": "2026-11-11T22:37:06.990000",
+  "provider_reported_pb_ratio": 2.45,
+  "statements_retrieved_at": "2026-11-11T22:37:06.990000",
   "retained_fields": []
 }

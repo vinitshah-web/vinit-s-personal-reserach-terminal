@@ -5,7 +5,7 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Akshar Spintex Limited engages in the spinning, manufacture, and sale of cotton yarns in India. The company offers natural cotton, organic and BCI certified cotton, viscose, modal, and excel fibres. It also orivides carded, semi combed, and combed cotton yarns; and slub, core spun, TFO, Eli twist, fancy, melange, blended, BCI certified, and organic yarns. The company was incorporated in 2013 and is based in Rajkot, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 33.86,
+  "market_cap_cr": 34.65,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:03:42.292760",
-  "provider_reported_pb_ratio": 0.4,
-  "statements_retrieved_at": "2026-11-10T21:03:42.292760",
+  "retrieval_time": "2026-11-11T21:36:08.327819",
+  "provider_reported_pb_ratio": 0.41,
+  "statements_retrieved_at": "2026-11-11T21:36:08.327819",
   "retained_fields": []
 }

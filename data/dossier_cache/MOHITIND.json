@@ -5,14 +5,14 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Mohit Industries Limited engages in manufacturing texturized yarn from partially oriented yarn and weaving of yarn to grey cloth in India. The company offers yarn; grey products, including suiting, shirting, laser, georgette, satin, crepe, gaberdin, black-out, BSY moss, BSY twill, blackberry, and nakab/dupatta; and textile products under the MOHIT brand name. It also exports polyester draw texturized yarns. The company also exports its products to West and South East Asia, Europe, the United Kingdom, South Korea, Mexico, Thailand, Czech Republic, Denmark, Germany, Bangladesh, South America, Egypt, Nepal, Brazil, Guatemala, Vietnam, Indonesia, Bulgaria, and internationally. Mohit Industries Limited was incorporated in 1991 and is headquartered in Surat, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 27.73,
+  "market_cap_cr": 27.44,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 76.39,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.4158,
-  "fifty_two_week_high": 33.46,
+  "fifty_two_week_high": 32.8,
   "fifty_two_week_low": 18.6,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:40:51.595113",
-  "provider_reported_pb_ratio": 0.26,
-  "statements_retrieved_at": "2026-11-10T21:40:51.595113",
+  "retrieval_time": "2026-11-11T22:12:01.064791",
+  "provider_reported_pb_ratio": 0.25,
+  "statements_retrieved_at": "2026-11-11T22:12:01.064791",
   "retained_fields": []
 }

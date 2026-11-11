@@ -5,14 +5,14 @@
   "industry": "Furnishings, Fixtures & Appliances",
   "business_summary": "Nilkamal Limited, together with its subsidiaries, manufactures and sells plastic products in India and internationally. The company offers bins and crates, pallets, material handling equipment, shelving and racking systems, insulated boxes, waste management solutions, road safety barriers for infrastructure management, and hospitality sector products for commercial food preparation and service, as well as provides related technical services. It also engages in the business of ready furniture, furnishings, accessories, and e-commerce; material handling, moulded furniture products, metal racking and storage, bubble guard for packaging and protection, factory made wood furniture, metal furniture, sofa manufacturing, office seating solutions, mattress and foam, and modular furniture. In addition, the company operates company-owned company-operated(COCO) and franchisee-owned franchisee-operated(FOFO) stores. It serves food and beverages, logistics, retail, automotive, e-commerce and quick commerce, pharmaceuticals, construction, electronics, chemicals, engineering, hospitality, and waste management industries. The company offers its products under the Nilkamal brand. Nilkamal Limited was founded in 1934 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3070.07,
-  "pe_ratio": 19.26,
+  "market_cap_cr": 3286.27,
+  "pe_ratio": 20.62,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 1091.51,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.4923,
-  "fifty_two_week_high": 2149.5,
+  "fifty_two_week_high": 2214.7,
   "fifty_two_week_low": 1050.5,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:44:22.017147",
-  "provider_reported_pb_ratio": 1.88,
-  "statements_retrieved_at": "2026-11-10T21:44:22.017147",
+  "retrieval_time": "2026-11-11T22:15:27.010655",
+  "provider_reported_pb_ratio": 2.01,
+  "statements_retrieved_at": "2026-11-11T22:15:27.010655",
   "retained_fields": []
 }

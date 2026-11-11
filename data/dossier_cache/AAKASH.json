@@ -5,8 +5,8 @@
   "industry": "Oil & Gas Equipment & Services",
   "business_summary": "Aakash Exploration Services Limited provides oil and gas field services in India. It offers services using machinery, such as mobile work over rigs, hot oil circulation units, heating units, indirect bath heaters, mobile sucker rod pumping units, utility services for return lines, mobile steaming units. The company also provides mobile high pressure air compressors, mobile high- and low-pressure pumping units, FRAC/ insulated tanks, and acid pumping units. It also engages in manufacturing refined petroleum products. In addition, the company provides oil enhance recovery, well head maintenance, well head greasing, mold guide on sucker rod, drilling rig, chemical dosing pump, sucker rod pumping unit, and flush by unit. Aakash Exploration Services Limited was incorporated in 2007 and is headquartered in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 80.6,
-  "pe_ratio": 22.74,
+  "market_cap_cr": 79.78,
+  "pe_ratio": 22.51,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 6.31,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:01:04.156584",
-  "provider_reported_pb_ratio": 1.26,
-  "statements_retrieved_at": "2026-11-10T21:01:04.156584",
+  "retrieval_time": "2026-11-11T21:33:41.421092",
+  "provider_reported_pb_ratio": 1.25,
+  "statements_retrieved_at": "2026-11-11T21:33:41.421092",
   "retained_fields": []
 }

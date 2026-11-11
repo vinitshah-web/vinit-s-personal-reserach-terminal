@@ -5,8 +5,8 @@
   "industry": "Pharmaceutical Retailers",
   "business_summary": "MedPlus Health Services Limited engages in the retail trading of medicines and general items in India. It manufactures and trades in pharmaceutical and wellness items, such as prescription medicines, over-the-counter drugs, vitamins, vitamins, medical devices, and diagnostic test kits; and fast-moving consumer goods (FMCG), including personal and home care products like toiletries, baby care items, soaps, detergents, and sanitizers. The company also engages in wholesale cash and carry; provision of diagnostic, pathological, and laboratory testing services, as well as contract manufacturing of private-label pharmaceuticals, wellness products, and FMCG goods; and operates diagnostic centres. It distributes its products through retail and online channels. The company was incorporated in 2006 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 7158.36,
-  "pe_ratio": 33.83,
+  "market_cap_cr": 7384.16,
+  "pe_ratio": 34.89,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 174.46,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:39:06.981585",
-  "provider_reported_pb_ratio": 3.42,
-  "statements_retrieved_at": "2026-11-10T21:39:06.981585",
+  "retrieval_time": "2026-11-11T22:10:32.703032",
+  "provider_reported_pb_ratio": 3.52,
+  "statements_retrieved_at": "2026-11-11T22:10:32.703032",
   "retained_fields": []
 }

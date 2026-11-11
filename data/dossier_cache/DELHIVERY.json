@@ -5,8 +5,8 @@
   "industry": "Integrated Freight & Logistics",
   "business_summary": "Delhivery Limited provides supply chain solutions in India. It offers express parcel services; part truckload services; supply chain services that provide integrated warehousing and transportation services; point-to-point and multi-point full-truckload services; and cross-border services comprising door-to-door and port-to-port parcel and freight shipping services. The company also provides Delhivery Rapid, a network of shared in-city forward fulfillment centers, as well as Delhivery Direct, an on-demand intra-city pickup and delivery service. In addition, it offers SaaS and data solutions, such as the OS1 platform that provides APIs and SDKs; TransportOne, a transport management system solution; and LocateOne and RTOne data solutions for e-commerce companies. The company provides its services to e-commerce marketplaces, direct-to-consumer e-tailers, enterprises, FMCG, consumer durables, consumer electronics, lifestyle, retail, automotive, and manufacturing industries. Delhivery Limited was incorporated in 2011 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 32465.57,
-  "pe_ratio": 178.99,
+  "market_cap_cr": 32735.4,
+  "pe_ratio": 180.48,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 130.44,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:16:04.990195",
-  "provider_reported_pb_ratio": 3.32,
-  "statements_retrieved_at": "2026-11-10T21:16:04.990195",
+  "retrieval_time": "2026-11-11T21:47:55.181365",
+  "provider_reported_pb_ratio": 3.35,
+  "statements_retrieved_at": "2026-11-11T21:47:55.181365",
   "retained_fields": []
 }

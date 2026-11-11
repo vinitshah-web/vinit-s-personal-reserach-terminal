@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Alpa Laboratories Limited engages in the manufacture and sale of drugs and chemicals in India. It offers ethical, generic, and over the counter medicines. The company provides tablets, capsules, injections, syrups, ointments, creams, eye drops, and other dosage forms for human and veterinary healthcare, as well as aquaculture products, including probiotics, deodorizer, minerals, feed supplements, and disinfectant. The company was founded in 1967 and is based in Indore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 119.05,
-  "pe_ratio": 33.68,
+  "market_cap_cr": 120.79,
+  "pe_ratio": 34.17,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 88.53,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:04:08.670375",
-  "provider_reported_pb_ratio": 0.64,
-  "statements_retrieved_at": "2026-11-10T21:04:08.670375",
+  "retrieval_time": "2026-11-11T21:36:34.131710",
+  "provider_reported_pb_ratio": 0.65,
+  "statements_retrieved_at": "2026-11-11T21:36:34.131710",
   "retained_fields": []
 }

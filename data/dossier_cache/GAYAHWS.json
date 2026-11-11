@@ -5,7 +5,7 @@
   "industry": "Infrastructure Operations",
   "business_summary": "Gayatri Highways Limited operates as a construction and investment company India. It is involved in the business of construction, operations and maintenance of carriageways on toll, roads, highways, vehicle bridges and tunnels, and toll roads. The company was incorporated in 2006 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 43.14,
+  "market_cap_cr": 44.34,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:21:57.828937",
+  "retrieval_time": "2026-11-11T21:53:38.145402",
   "provider_reported_pb_ratio": -0.07,
-  "statements_retrieved_at": "2026-11-10T21:21:57.828937",
+  "statements_retrieved_at": "2026-11-11T21:53:38.145402",
   "retained_fields": []
 }

@@ -5,7 +5,7 @@
   "industry": "Confectioners",
   "business_summary": "Lotus Chocolate Company Limited manufactures and sells chocolates, cocoa products, and cocoa derivatives to chocolate makers and users in India. The company provides cocoa mass, cocoa butter, cocoa powder, choco and compound chips, compound slabs, milk covering, sugar, spreads, ice-cream coverings, cone sprays, biscuit fillings, decorative, chocolates and couvertures, and others. It offers its chocolate products under the Toffeman, High 5, Ravalgaon, Tango, Chuckles, Eclairs, Symphony, On & On, Kajoos, Greetings, and Zellers brand names. The company sells its products through distributors to bakeries and multinational companies. The company was incorporated in 1988 and is based in Hyderabad, India. Lotus Chocolate Company Limited is a subsidiary of Reliance Consumer Products Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 688.67,
+  "market_cap_cr": 691.49,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:36:37.259911",
-  "provider_reported_pb_ratio": 12.3,
-  "statements_retrieved_at": "2026-11-10T21:36:37.259911",
+  "retrieval_time": "2026-11-11T22:08:06.235067",
+  "provider_reported_pb_ratio": 12.35,
+  "statements_retrieved_at": "2026-11-11T22:08:06.235067",
   "retained_fields": []
 }

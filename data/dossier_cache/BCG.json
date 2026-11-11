@@ -5,8 +5,8 @@
   "industry": "Advertising Agencies",
   "business_summary": "Brightcom Group Limited, together with its subsidiaries, provides digital marketing solutions to businesses, agencies, and online publishers worldwide. It operates through Digital Marketing (& Related) Services; and Software Development Services segments. The company connects advertisers with their audience across various forms of digital media to deliver messages to the right audience through digital channels. It also provides global information technology implementation and outsourcing services; and enterprise solution offerings, ERP solutions, and Microsoft and open-source systems development services. In addition, the company is involved in professional services; and software development services. The company was formerly known as Lycos Internet Limited and changed its name to Brightcom Group Limited in September 2018. Brightcom Group Limited is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1844.93,
-  "pe_ratio": 1.82,
+  "market_cap_cr": 1869.15,
+  "pe_ratio": 1.84,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 52.37,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:09:27.966836",
-  "provider_reported_pb_ratio": 0.17,
-  "statements_retrieved_at": "2026-11-10T21:09:27.966836",
+  "retrieval_time": "2026-11-11T21:41:31.423491",
+  "provider_reported_pb_ratio": 0.18,
+  "statements_retrieved_at": "2026-11-11T21:41:31.423491",
   "retained_fields": []
 }

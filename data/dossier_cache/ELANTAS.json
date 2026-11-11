@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "ELANTAS Beck India Limited manufactures and sells specialty chemicals for the electrical insulation and construction industries in India. The company operates through two segments, Electrical Insulations; and Engineering & Electronic Resins Solutions, and Materials. It provides wire enamels, such as primers, lubricants, and binder varnishes for fiberglass coated conductors; impregnating materials, including insulating varnishes and resins; and flexible electrical insulation materials. The company also offers casting and potting compounds comprising casting, potting, and encapsulation of electrical and electronic components, such as auto-electrical components, high-voltage insulators, instrument transformers, etc.; impregnation of high-voltage electrical machine windings; binder resins for glass-fibre filament wound arc chamber tubes; and diamond dotted paper for oil-filled transformers. In addition, it provides materials for electronic protection, including potting compounds, such as conformal, air drying resistant, rapid process acrylic, waterborne conformal, and silicone coatings; and thermal interface materials. Further, the company offers engineering materials, such as construction chemicals comprising a range of resinous construction chemicals for industrial floorings, protective coatings, structural repairs, waterproofing, adhesives, and sealants, as well as specialty epoxy and polyurethane anti-microbial floorings and wall coating systems; and reactive polyamides used in epoxy resins to produce top coats and primers, as well as thermosetting adhesives for a various substrates. The company was incorporated in 1956 and is headquartered in Pune, India. ELANTAS Beck India Limited is a subsidiary of ELANTAS GmbH.",
   "business_summary_reason": null,
-  "market_cap_cr": 9400.65,
-  "pe_ratio": 50.31,
+  "market_cap_cr": 9854.9,
+  "pe_ratio": 52.74,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 1392.58,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:18:28.173558",
-  "provider_reported_pb_ratio": 8.52,
-  "statements_retrieved_at": "2026-11-10T21:18:28.173558",
+  "retrieval_time": "2026-11-11T21:50:15.591615",
+  "provider_reported_pb_ratio": 8.93,
+  "statements_retrieved_at": "2026-11-11T21:50:15.591615",
   "retained_fields": []
 }

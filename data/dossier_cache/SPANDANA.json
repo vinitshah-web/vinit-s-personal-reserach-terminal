@@ -5,7 +5,7 @@
   "industry": "Credit Services",
   "business_summary": "Spandana Sphoorty Financial Limited engages in the microfinance business in India. The company provides joint liability group based microfinance for women entrepreneurs; loans against the property; and individual loans. It serves low-income customers in semi-urban and rural areas. Spandana Sphoorty Financial Limited was founded in 1998 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1672.18,
+  "market_cap_cr": 1703.03,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:59:19.766246",
-  "provider_reported_pb_ratio": 0.65,
-  "statements_retrieved_at": "2026-11-10T21:59:19.766246",
+  "retrieval_time": "2026-11-11T22:30:18.473011",
+  "provider_reported_pb_ratio": 0.66,
+  "statements_retrieved_at": "2026-11-11T22:30:18.473011",
   "retained_fields": []
 }

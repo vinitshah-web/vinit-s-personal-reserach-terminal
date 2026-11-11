@@ -5,8 +5,8 @@
   "industry": "Metal Fabrication",
   "business_summary": "Pradeep Metals Limited, together with its subsidiaries, engages in the manufacturing and sale of closed die steel forgings and processing in India and internationally. It operates through Power Generation; and Closed Die Forging and Processing segments. The company offers forged flanges; valves; general engineering products; manifolds; and material grade products, such as stainless steel, alloy steel, duplex, carbon steel, and die steel. It also generates power from wind turbine generator and solar power generating system. The company serves defense and aerospace, general engineering, mining, off highway, process and measurement, and valve and flow control industries. Pradeep Metals Limited was incorporated in 1982 and is based in Navi Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1042.07,
-  "pe_ratio": 31.44,
+  "market_cap_cr": 1071.6,
+  "pe_ratio": 32.33,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 95.1,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:48:45.912663",
-  "provider_reported_pb_ratio": 6.35,
-  "statements_retrieved_at": "2026-11-10T21:48:45.912663",
+  "retrieval_time": "2026-11-11T22:19:44.863639",
+  "provider_reported_pb_ratio": 6.52,
+  "statements_retrieved_at": "2026-11-11T22:19:44.863639",
   "retained_fields": []
 }

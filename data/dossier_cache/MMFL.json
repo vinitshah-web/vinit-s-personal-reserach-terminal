@@ -5,15 +5,15 @@
   "industry": "Metal Fabrication",
   "business_summary": "M M Forgings Limited, together with its subsidiaries, manufactures and sells steel forgings in India. It offers sprocket, flange housing, connecting rod, connecting rod integral, rail forging, hub, knuckle, front axle beam, universal joint cross, steering and pivot arm, planetary wheel carrier, upper arm shaft, shifter fork, and rear axle spindle. The company also provides yoke shaft, double yoke, crankshaft, link, yoke, fit yoke, lever, and high pressure valves, such as body and bonnet. Its products are used for passenger cars, commercial vehicles, off highway vehicles, value/oilfield, agriculture, and engineering components. The company offers its products to commercial vehicle, passenger vehicle, tractor OEs, and others customers. It exports its products. The company was formerly known as The Madras Motors Ltd and changed its name to M M Forgings Limited in 1993. M M Forgings Limited was founded in 1945 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3149.89,
-  "pe_ratio": 18.6,
+  "market_cap_cr": 3006.5,
+  "pe_ratio": 17.76,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 230.01,
-  "dividend_yield_pct": 0.5977,
+  "dividend_yield_pct": 0.6131,
   "shares_outstanding_cr": 4.8282,
   "fifty_two_week_high": 687.95,
-  "fifty_two_week_low": 295.4,
+  "fifty_two_week_low": 297.45,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:40:25.705026",
-  "provider_reported_pb_ratio": 2.84,
-  "statements_retrieved_at": "2026-11-10T21:40:25.705026",
+  "retrieval_time": "2026-11-11T22:11:35.228547",
+  "provider_reported_pb_ratio": 2.71,
+  "statements_retrieved_at": "2026-11-11T22:11:35.228547",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Packaged Foods",
   "business_summary": "KSE Limited manufactures and sells ready mixed cattle feed products in India. The company operates through Animal Feed, Oil Cake Processing, and Dairy segments. It provides ready-mixed animal feed and feed supplements, de-oiled coconut cakes, refined coconut, solvent extracted coconut oils, milk products, and ice creams under the Vesta brand name. The company offers its products through a network of dealers and retailers. KSE Limited was incorporated in 1963 and is based in Thrissur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 555.01,
-  "pe_ratio": 11.95,
+  "market_cap_cr": 563.14,
+  "pe_ratio": 12.13,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 109.22,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:34:55.146284",
-  "provider_reported_pb_ratio": 1.59,
-  "statements_retrieved_at": "2026-11-10T21:34:55.146284",
+  "retrieval_time": "2026-11-11T22:06:23.785094",
+  "provider_reported_pb_ratio": 1.61,
+  "statements_retrieved_at": "2026-11-11T22:06:23.785094",
   "retained_fields": []
 }

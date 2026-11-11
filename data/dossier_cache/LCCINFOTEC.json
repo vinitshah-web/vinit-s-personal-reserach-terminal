@@ -5,8 +5,8 @@
   "industry": "Education & Training Services",
   "business_summary": "LCC Infotech Limited, through its subsidiary, eLCC Info.com Limited, operates as an information technology and software training company in India. The company builds skilled human capital and enhances workforce talent; and provides vocational training and skill development solutions. It also offers certificates, diploma, and advanced diploma courses in software, financial accounting, hardware and networking, and graphic design and multimedia; and apparel, made ups, and home furnishing, beauty and wellness, electronics, and retail skill development courses; and competitive courses. In addition, it offers market-linked skills training programs for youth, including differently abled individuals. The company was incorporated in 1985 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 71.15,
-  "pe_ratio": 60.29,
+  "market_cap_cr": 69.97,
+  "pe_ratio": 59.29,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 2.54,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:35:37.594042",
-  "provider_reported_pb_ratio": 1.66,
-  "statements_retrieved_at": "2026-11-10T21:35:37.594042",
+  "retrieval_time": "2026-11-11T22:07:06.573645",
+  "provider_reported_pb_ratio": 1.64,
+  "statements_retrieved_at": "2026-11-11T22:07:06.573645",
   "retained_fields": []
 }

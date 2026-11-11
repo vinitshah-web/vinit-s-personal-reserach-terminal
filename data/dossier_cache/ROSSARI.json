@@ -5,14 +5,14 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Rossari Biotech Limited manufactures and sells specialty chemicals in India and internationally. It offers home, personal care, and performance chemicals products, such as soaps and detergents; oil and gas division; inks; paints and coatings; ceramics and tiles; pulp and paper; cement; water treatment; performance additives; cleaning, hygiene, and disinfection; surfactants; and textile specialty chemicals, such as cotton, polyester, acrylic, wool, silk, nylon, functional finishes, denim, printing, and sustainable solutions. The company also provides pet grooming products, which include natural pet shampoos, powders, deodorants, sprays, and creams; and floor washing liquids under the Lozalo, Hunger Fills, and Sniffy brand names. In addition, it offers poultry nutrition products comprising vitamin-mineral formulations, toxin binders, individual and cocktail enzymes, liquid nutraceuticals, and supplements or herbal preparations. The company was formerly known as Rossari Labtech and changed its name to Rossari Biotech Limited in December 2003. Rossari Biotech Limited was founded in 1997 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2353.97,
-  "pe_ratio": 15.42,
+  "market_cap_cr": 2380.29,
+  "pe_ratio": 15.59,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 253.97,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 5.5394,
-  "fifty_two_week_high": 652.25,
+  "fifty_two_week_high": 639.4,
   "fifty_two_week_low": 375.0,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:52:36.204503",
-  "provider_reported_pb_ratio": 1.67,
-  "statements_retrieved_at": "2026-11-10T21:52:36.204503",
+  "retrieval_time": "2026-11-11T22:23:30.528949",
+  "provider_reported_pb_ratio": 1.69,
+  "statements_retrieved_at": "2026-11-11T22:23:30.528949",
   "retained_fields": []
 }

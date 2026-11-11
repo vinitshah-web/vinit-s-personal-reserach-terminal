@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "W.S. Industries (India) Limited operates as infrastructure development and electrical project handling company in India and internationally. The company undertakes various civil infrastructure, such as drainage systems and integrated bus terminal and multi utility facility centers; and turnkey projects comprising design, supply, installation, testing, and commissioning of HV and EHV substations and transmission lines, network quality regulation, eBOP, rural electrifications, R APDRP, renewables, RDSS, and electrical packages. W.S. Industries (India) Limited was incorporated in 1961 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 511.76,
-  "pe_ratio": 240.82,
+  "market_cap_cr": 514.72,
+  "pe_ratio": 242.21,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 57.93,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T22:09:30.029805",
-  "provider_reported_pb_ratio": 1.16,
-  "statements_retrieved_at": "2026-11-10T22:09:30.029805",
+  "retrieval_time": "2026-11-11T22:40:21.515832",
+  "provider_reported_pb_ratio": 1.17,
+  "statements_retrieved_at": "2026-11-11T22:40:21.515832",
   "retained_fields": []
 }

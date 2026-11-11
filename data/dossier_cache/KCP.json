@@ -5,14 +5,14 @@
   "industry": "Building Materials",
   "business_summary": "The KCP Limited engages in cement, heavy engineering, power generation, and hospitality businesses in India. It operates through Cement Unit, Engineering Unit, Hotel, and Sugar segments. The company manufactures and sells cement; generates power from various sources, including thermal, hydel, solar, wind, and waste heat recovery; and produces refined sugar products under VARELLA brand. It also manufactures heavy equipment for various industries and operates hotel under the Mercure Hyderabad KCP name. KCP Limited was incorporated in 1941 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2012.46,
-  "pe_ratio": 11.81,
+  "market_cap_cr": 2010.4,
+  "pe_ratio": 11.8,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 138.22,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 12.8921,
-  "fifty_two_week_high": 205.9,
+  "fifty_two_week_high": 205.37,
   "fifty_two_week_low": 125.0,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:33:12.846952",
+  "retrieval_time": "2026-11-11T22:04:37.806836",
   "provider_reported_pb_ratio": 1.13,
-  "statements_retrieved_at": "2026-11-10T21:33:12.846952",
+  "statements_retrieved_at": "2026-11-11T22:04:37.806836",
   "retained_fields": []
 }

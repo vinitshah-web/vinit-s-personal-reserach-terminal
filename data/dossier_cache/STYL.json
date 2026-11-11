@@ -5,8 +5,8 @@
   "industry": "Software - Infrastructure",
   "business_summary": "Seshaasai Technologies Limited provides payment, communications and fulfilment, and IoT solutions in India. The company offers smart cards comprising banking, smart ID payment, contact-based, multi-utility contactless, transit, prepaid, access and control payment, and NFT token cards; metal and high-tech payment cards; merchant QR solutions; payment form factor products, such as wrist bands, key fobs and chains, watch straps, payment stickers and bracelets, and custom packaging kits; and secure banking instruments, including personalized cheque books, demand drafts and payment orders, passbooks, and customer communication products. It also provides print communication products consisting of statements, policy documents, business communication documents, utility bills, and loyalty campaigns, as well as direct mail, including brochures, postcards, and packages. In addition, the company offers radio frequency identification (RFID) solutions; RFID components, such as RFID inlays, RFID tags and labels, RFID automation, software integration, and handheld readers; RFID tunnels and antennas; RFID for the banking, financial, and insurance sector; and RFID active tracking, as well as eSIMs and SIM cards. Further, it provides various platforms comprising RUBIC, a customer communication platform; eTaTrak for integrated deliverables and logistics management; IOMS, an inventory and order management system; and izeIOT for connected products over the cloud. The company serves the banking, financial services, insurance, government, retail, supply chain and manufacturing, health and pharma, and renewable energy industries. Seshaasai Technologies Limited was incorporated in 1993 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 5216.62,
-  "pe_ratio": 18.9,
+  "market_cap_cr": 5422.11,
+  "pe_ratio": 19.64,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 92.44,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T22:00:27.893695",
-  "provider_reported_pb_ratio": 3.49,
-  "statements_retrieved_at": "2026-11-10T22:00:27.893695",
+  "retrieval_time": "2026-11-11T22:31:27.047343",
+  "provider_reported_pb_ratio": 3.62,
+  "statements_retrieved_at": "2026-11-11T22:31:27.047343",
   "retained_fields": []
 }

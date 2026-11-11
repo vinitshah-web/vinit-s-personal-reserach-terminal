@@ -5,14 +5,14 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Aarti Drugs Limited, through its subsidiaries, engages in the manufacture and marketing of active pharmaceutical ingredients (APIs), pharmaceutical intermediates, specialty chemicals, and formulations in India and internationally. The company offers aceclofenac, celecoxib, diclofenac sodium, diclodenac potassium, diclofenac diethylamine, diclofenac resinate, diclofenac epolamine, nimesulide, ciprofloxacin HCL, enrofloxacin base, gatifloxacin sesquihydrate, levofloxacin base, norfloxacin, ofloxacin, metronidazole, metronidazole benzoate, ornidazole, secnidazole, tinidazole, clopidogrel bisulphate, ticlopidine HCL, metformin HCL, pioglitazone HCL, teneligliptin, vildagliptin, fluconazole, ketoconazole, tolnaftate, zolpidem tartrate, niacin, raloxifene HCL, and acamprosate. It also provides benzenesulphonyl chloride, benzenesulphonic acid, methyl benzenesulfonate, sodium benzene sulfinate, para toluene sulphonyl chloride, methyl para toluenesulfonate, sodium para toluenesulfinate, para chlorobenzenesulfonyl chloride, formamide, calcium fluoride, potasium formate, benzenesulfonamide, ethyl p- toluenesulfonate, N,N',N'-tris-(4-toluene sulfonyl)-diethylenetriamine, ortho para toluene sulfonamides, ortho para toluene sulfonamides acid methyl ester, para chlorobenznesulfonamide, para toluenesulfonyl hydrazide, para toluenesulfonamide, and sodium benzenesulfonate. In addition, it offers pharma intermediate products, which includes Celecoxib, Ciprofloxacin, Clopidogrel, Diclofenac, Ketoconazole, Nimesulide, Raloxifene, Tinidazole, and Zolpidem. Further, the company develops drugs for antifungal, cardiovascular, and antidiabetic therapeutic areas, as well as non-steroidal anti-inflammatory drugs. The company was incorporated in 1984 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4561.22,
-  "pe_ratio": 23.88,
+  "market_cap_cr": 4471.77,
+  "pe_ratio": 23.41,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 184.24,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 9.127,
-  "fifty_two_week_high": 522.75,
+  "fifty_two_week_high": 513.0,
   "fifty_two_week_low": 318.95,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:01:11.470828",
-  "provider_reported_pb_ratio": 2.71,
-  "statements_retrieved_at": "2026-11-10T21:01:11.470828",
+  "retrieval_time": "2026-11-11T21:33:49.216789",
+  "provider_reported_pb_ratio": 2.66,
+  "statements_retrieved_at": "2026-11-11T21:33:49.216789",
   "retained_fields": []
 }

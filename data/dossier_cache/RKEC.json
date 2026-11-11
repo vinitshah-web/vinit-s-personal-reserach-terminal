@@ -5,7 +5,7 @@
   "industry": "Engineering & Construction",
   "business_summary": "RKEC Projects Limited, a construction company, engages in the civil and defense construction business in India. The company undertakes construction projects, such as bridges comprising major and minor bridges, steel and PSU girders, composite girders, and rail cum road bridges. It is also involved in ports, dams, airports, cross-water, roads, highways, oil and gas pipelines, industrial complexes, warehouses, dredging, and environmental structures. The company also provides marine structure services, including wharves, berths, jetties, mooring dolphins, intake structure breakwaters, and coastal-shore protection works. In addition, the company offers building and infrastructure works, which include civil works for power and refinery projects and port development works. Further, it offers transmission lines, sports complex, building works, water intake systems, heavy RCC pre-stressed concrete and steel structure, and farmed warehouse and industrial sheds, as well as electrification services comprising rural electrification and LT/HT works. RKEC Projects Limited was founded in 1985 and is based in Visakhapatnam, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 48.7,
+  "market_cap_cr": 48.99,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:52:18.249337",
-  "provider_reported_pb_ratio": 0.34,
-  "statements_retrieved_at": "2026-11-10T21:52:18.249337",
+  "retrieval_time": "2026-11-11T22:23:12.913307",
+  "provider_reported_pb_ratio": 0.35,
+  "statements_retrieved_at": "2026-11-11T22:23:12.913307",
   "retained_fields": []
 }

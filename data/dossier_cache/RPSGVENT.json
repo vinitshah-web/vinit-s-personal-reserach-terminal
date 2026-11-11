@@ -5,7 +5,7 @@
   "industry": "Information Technology Services",
   "business_summary": "RPSG Ventures Limited, together with its subsidiaries, owns, operates, invests, and promotes business in the fields of information technology, business process outsourcing, property, entertainment, fast moving consumer goods, and sports activities in India. The company offers application development and management; setup, and operations and maintenance of IT network and infrastructure; data center and disaster recovery solutions; cyber security solutions, operation, and governance; geographic information system solutions; operational technology architecture solutions; and smart building solutions. It also provides software development, IT infrastructure support, and IT consultancy and support services. In addition, the company offers packaged snacks and personal care products under the Too Yumm, Naturali, Within Beauty, and Evita brands; and various ayurvedic formulations under the Dr. Vaidya's brand name. In addition, the company operates shopping malls; develops residential projects; operates and manages Mohun Bagan Super Giant; and owns and operates the Lucknow Super Giants and the Durban Super Giants franchise. It primarily serves customers engaged electric power generation and distribution. The company was formerly known as CESC Ventures Limited and changed its name to RPSG Ventures Limited in January 2021. RPSG Ventures Limited was incorporated in 2017 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2874.22,
+  "market_cap_cr": 2844.11,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:52:49.185623",
-  "provider_reported_pb_ratio": 1.05,
-  "statements_retrieved_at": "2026-11-10T21:52:49.185623",
+  "retrieval_time": "2026-11-11T22:23:44.578388",
+  "provider_reported_pb_ratio": 1.04,
+  "statements_retrieved_at": "2026-11-11T22:23:44.578388",
   "retained_fields": []
 }

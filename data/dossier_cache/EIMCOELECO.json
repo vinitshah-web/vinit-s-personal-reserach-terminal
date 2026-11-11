@@ -5,8 +5,8 @@
   "industry": "Farm & Heavy Construction Machinery",
   "business_summary": "Eimco Elecon (India) Limited engages in the manufacture and sale of equipment for the mining and construction sectors in India. Its products include air motors, chair lift man-riding, coal haulers, drill machines, load haul dumpers, dump trucks, piling rigs, rocker shovel loaders, side dump loaders, and wheel loaders, as well as continuous miner package. The company was incorporated in 1974 and is headquartered in Vallabh Vidya Nagar, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1445.15,
-  "pe_ratio": 34.33,
+  "market_cap_cr": 1425.31,
+  "pe_ratio": 33.86,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 846.82,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:18:24.565527",
-  "provider_reported_pb_ratio": 2.96,
-  "statements_retrieved_at": "2026-11-10T21:18:24.565527",
+  "retrieval_time": "2026-11-11T21:50:12.160285",
+  "provider_reported_pb_ratio": 2.92,
+  "statements_retrieved_at": "2026-11-11T21:50:12.160285",
   "retained_fields": []
 }

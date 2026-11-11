@@ -5,8 +5,8 @@
   "industry": "Other Industrial Metals & Mining",
   "business_summary": "Vedanta Oil and Gas Limited engages in the exploration and production of oil and gas. It holds interests in 44 blocks covering an area of approximately 47,000 square kilometers in India. The company was formerly known as MALCO Energy Limited and changed its name to Vedanta Oil and Gas Limited in June 2026. The company was incorporated in 2001 and is based in Gurugram, India. Vedanta Oil and Gas Limited operates as a subsidiary of Vedanta Resources Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 12134.12,
-  "pe_ratio": 18.18,
+  "market_cap_cr": 12087.27,
+  "pe_ratio": 18.11,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 47.09,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T22:08:26.342634",
+  "retrieval_time": "2026-11-11T22:39:15.794748",
   "provider_reported_pb_ratio": 0.66,
-  "statements_retrieved_at": "2026-11-10T22:08:26.342634",
+  "statements_retrieved_at": "2026-11-11T22:39:15.794748",
   "retained_fields": []
 }

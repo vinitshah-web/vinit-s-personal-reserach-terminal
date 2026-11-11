@@ -5,8 +5,8 @@
   "industry": "Packaging & Containers",
   "business_summary": "Shree Rama Multi-Tech Limited manufactures and sells packaging products in India, Europe, Asia, Africa, North America, and South America. The company's packaging products include multilayer tubes for packing dentifrices, cosmetics, pharmaceuticals, food, and other products; monolayer tubs; tube laminates; laminated tubes; and flexible laminates. It also provides plastic laminates, such as flexible packaging, miniature packs, and carry home packs. Its products are used for packaging of oral care, pharmaceuticals, cosmetic, food packaging, personal care, industrial, and fast-moving consumer goods. Shree Rama Multi-Tech Limited was founded in 1987 and is based in Kalol, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 645.05,
-  "pe_ratio": 26.27,
+  "market_cap_cr": 641.85,
+  "pe_ratio": 26.14,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 13.96,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:57:10.290476",
-  "provider_reported_pb_ratio": 3.46,
-  "statements_retrieved_at": "2026-11-10T21:57:10.290476",
+  "retrieval_time": "2026-11-11T22:28:08.591406",
+  "provider_reported_pb_ratio": 3.45,
+  "statements_retrieved_at": "2026-11-11T22:28:08.591406",
   "retained_fields": []
 }

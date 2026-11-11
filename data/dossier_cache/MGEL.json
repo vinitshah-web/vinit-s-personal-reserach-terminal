@@ -5,8 +5,8 @@
   "industry": "Farm Products",
   "business_summary": "Mangalam Global Enterprise Limited, together with its subsidiaries, manufactures, trades, and imports of edible and non-edible oils, and agricultural products India and internationally. It offers soya oil, soya meal, soya de oiled cake, mustard oil, mustard meal, mustard de oiled cake, refined castor oil first special grade, castor de- oiled cake and high protein castor de-oiled cake, cotton bales, cotton cake cattle feed, and cotton wash oil. The company also provides other agro commodities, other merchandise, and agency services, as well as processes wheat and rice. In addition, it offers refined soyabean oil, refined vegetable oil, and pungent mustard oil under the LAGNAM brand name. The company also exports its products. The company was formerly known as Mangalam Global Enterprise Private Limited and changed its name to Mangalam Global Enterprise Limited in September 2019. Mangalam Global Enterprise Limited was founded in 1942 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 582.32,
-  "pe_ratio": 14.97,
+  "market_cap_cr": 581.67,
+  "pe_ratio": 14.96,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 8.08,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:39:42.822735",
-  "provider_reported_pb_ratio": 2.19,
-  "statements_retrieved_at": "2026-11-10T21:39:42.822735",
+  "retrieval_time": "2026-11-11T22:10:54.848851",
+  "provider_reported_pb_ratio": 2.18,
+  "statements_retrieved_at": "2026-11-11T22:10:54.848851",
   "retained_fields": []
 }

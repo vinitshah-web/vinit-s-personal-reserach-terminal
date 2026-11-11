@@ -5,8 +5,8 @@
   "industry": "Marine Shipping",
   "business_summary": "Essar Shipping Limited engages in the fleet operating and chartering businesses in India, the United Arab Emirates, and Mauritius. It operates in two segments, Fleet Operating and Chartering, and Oilfields Services. The company operates tankers and dry bulkers; and provides land rigs and semi- submersible rig services, as well as logistics services, including trucks, trailers, and tippers. It is also involved in the operation of international and coastal voyages; and provision of contract drilling services to oil and gas companies. The company was formerly known as Essar Shipping Ports & Logistics Ltd., Shipping, Logistics & Oilfields Services Businesses and changed its name to Essar Shipping Limited in May 2011. The company was incorporated in 2010 and is based in Mumbai, India. Essar Shipping Limited is a subsidiary of Essar Shipping Mauritius Holdings Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 345.3,
-  "pe_ratio": 3.78,
+  "market_cap_cr": 350.49,
+  "pe_ratio": 3.84,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": -100.16,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:19:51.124929",
+  "retrieval_time": "2026-11-11T21:51:35.866919",
   "provider_reported_pb_ratio": -0.17,
-  "statements_retrieved_at": "2026-11-10T21:19:51.124929",
+  "statements_retrieved_at": "2026-11-11T21:51:35.866919",
   "retained_fields": []
 }

@@ -5,14 +5,14 @@
   "industry": "Packaged Foods",
   "business_summary": "Annapurna Swadisht Limited manufactures and sells food products in India. It offers potato chips, fryums, namkeen, extruded snacks, noodles, biscuits, candy, and sweets. The company was incorporated in 2015 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 261.95,
-  "pe_ratio": 8.35,
+  "market_cap_cr": 268.36,
+  "pe_ratio": 8.55,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 162.23,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 2.182,
-  "fifty_two_week_high": 287.0,
+  "fifty_two_week_high": 269.9,
   "fifty_two_week_low": 95.32,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:04:54.281521",
-  "provider_reported_pb_ratio": 0.74,
-  "statements_retrieved_at": "2026-11-10T21:04:54.281521",
+  "retrieval_time": "2026-11-11T21:37:16.766434",
+  "provider_reported_pb_ratio": 0.76,
+  "statements_retrieved_at": "2026-11-11T21:37:16.766434",
   "retained_fields": []
 }

@@ -5,14 +5,14 @@
   "industry": "Beverages - Wineries & Distilleries",
   "business_summary": "Associated Alcohols & Breweries Limited engages in liquor manufacturing, distillation, and bottling activities in India and internationally. It operates through two segments, Potable Alcohols and Ethanol. The company offers extra neutral alcohol, grain-based ethanol, and malt spirit manufacturing, as well as Indian Made Indian Liquor and Indian Made Foreign Liquor. It also provides beers, spirits, wine, whisky, vodka, rum, gin, tequila, brandy, and other products. The company's brands include Central Province Superior Grain Whisky, Nicobar Gin, Titanium Vodka Orange, Titanium Vodka Apple, Titanium Vodka Pure, Hillfort Premium Whisky, Central Province Vodka Orange, Central Province Vodka Apple, Central Province Vodka Ultra Plan, Central Province Whisky, Central Province Rum, James Mc Gill Whisky, James Mc Gill Brandy, Lemount Golden Brandy, Lemount White Brandy, Lemount Black Rum, Mood Maker Brandy, Jamaican Magic Rum, Bombay Special Whisky, Superman Fine Whisky, Desi Madira Masala, and Titanium Triple Distilled Vodka; various international brands such as Vat69, Black & White Scotch Whiskey, Black Dog, Captain Morgan, and Smirnoff; and licensed brands, including Bagpiper Whisky, and MC Dowell No. 1 Celebration Rum. It serves household and commercial customers. Associated Alcohols & Breweries Limited was incorporated in 1989 and is headquartered in Indore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1141.8,
-  "pe_ratio": 13.33,
+  "market_cap_cr": 1181.66,
+  "pe_ratio": 13.79,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 364.38,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 2.0079,
-  "fifty_two_week_high": 1037.6,
+  "fifty_two_week_high": 1027.2,
   "fifty_two_week_low": 524.0,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:06:29.913175",
-  "provider_reported_pb_ratio": 1.56,
-  "statements_retrieved_at": "2026-11-10T21:06:29.913175",
+  "retrieval_time": "2026-11-11T21:38:44.312935",
+  "provider_reported_pb_ratio": 1.62,
+  "statements_retrieved_at": "2026-11-11T21:38:44.312935",
   "retained_fields": []
 }

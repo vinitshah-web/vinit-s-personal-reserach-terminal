@@ -5,8 +5,8 @@
   "industry": "Building Materials",
   "business_summary": "Barak Valley Cements Limited manufactures and sells cement and allied products in India. The company offers ordinary portland cement and portland pozzolana cement under the Valley Strong Cement brand name. It is also involved in mining limestone; and generation of electricity. The company serves individuals, contractors, builders, institutions, and government agencies. The company was incorporated in 1999 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 80.77,
-  "pe_ratio": 39.62,
+  "market_cap_cr": 81.42,
+  "pe_ratio": 39.93,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 56.94,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:11:52.006695",
-  "provider_reported_pb_ratio": 0.64,
-  "statements_retrieved_at": "2026-11-10T21:11:52.006695",
+  "retrieval_time": "2026-11-11T21:43:53.453787",
+  "provider_reported_pb_ratio": 0.65,
+  "statements_retrieved_at": "2026-11-11T21:43:53.453787",
   "retained_fields": []
 }

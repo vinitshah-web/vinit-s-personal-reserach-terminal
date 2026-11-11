@@ -5,8 +5,8 @@
   "industry": "Mortgage Finance",
   "business_summary": "GIC Housing Finance Limited provides housing finance services for salaried and self-employed individuals in India. The company offers long-term finance to individuals, cooperative societies, associations of persons, companies, and corporations for the purchase of plots, houses, flats, and apartments, as well as for the construction, repair, renovation, and upgradation of houses, flats, and apartments for residential purposes. It also provides home loans, including individual housing, composite, repair and renovation, and home extension loans, as well as balance transfer services; and non-housing loans, such as loans against housing property and commercial loans. The company was formerly known as GIC Grih Vitta Limited and changed its name to GIC Housing Finance Limited in November 1993. GIC Housing Finance Limited was incorporated in 1989 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 696.51,
-  "pe_ratio": 4.42,
+  "market_cap_cr": 706.04,
+  "pe_ratio": 4.48,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 391.15,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:22:21.842599",
-  "provider_reported_pb_ratio": 0.33,
-  "statements_retrieved_at": "2026-11-10T21:22:21.842599",
+  "retrieval_time": "2026-11-11T21:54:02.574569",
+  "provider_reported_pb_ratio": 0.34,
+  "statements_retrieved_at": "2026-11-11T21:54:02.574569",
   "retained_fields": []
 }

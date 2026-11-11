@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "GE Power India Limited engages in the engineering, procurement, manufacturing, construction, maintenance, and servicing of power plants and power equipment in India and internationally. The company offers steam power services. It also provides automation and control; boilers; mills; and air quality control systems. The company serves power generating utilities, cement, iron and steel, chemical and fertilizer, oil and gas, pulp and paper, power/civil and construction/industrial industries. GE Power India Limited was incorporated in 1992 and is based in Noida, India. GE Power India Limited operates as a subsidiary of Ge Steam Power International Bv.",
   "business_summary_reason": null,
-  "market_cap_cr": 4072.3,
-  "pe_ratio": 11.9,
+  "market_cap_cr": 4265.25,
+  "pe_ratio": 12.46,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 86.65,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:25:19.463257",
-  "provider_reported_pb_ratio": 6.99,
-  "statements_retrieved_at": "2026-11-10T21:25:19.463257",
+  "retrieval_time": "2026-11-11T21:56:51.506037",
+  "provider_reported_pb_ratio": 7.32,
+  "statements_retrieved_at": "2026-11-11T21:56:51.506037",
   "retained_fields": []
 }

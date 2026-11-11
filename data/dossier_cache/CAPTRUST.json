@@ -5,14 +5,14 @@
   "industry": "Credit Services",
   "business_summary": "Capital Trust Limited, a non-banking finance company, provides structured business loans to shopkeepers and traders in India. It also offers secured and unsecured capital business loans; and gold loans. The company was incorporated in 1985 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 79.71,
+  "market_cap_cr": 78.12,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 18.09,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 3.3875,
-  "fifty_two_week_high": 24.7,
+  "fifty_two_week_high": 24.17,
   "fifty_two_week_low": 10.98,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:12:12.094147",
-  "provider_reported_pb_ratio": 1.3,
-  "statements_retrieved_at": "2026-11-10T21:12:12.094147",
+  "retrieval_time": "2026-11-11T21:44:12.228818",
+  "provider_reported_pb_ratio": 1.27,
+  "statements_retrieved_at": "2026-11-11T21:44:12.228818",
   "retained_fields": []
 }

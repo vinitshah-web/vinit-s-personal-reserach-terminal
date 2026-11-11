@@ -5,7 +5,7 @@
   "industry": "Airlines",
   "business_summary": "InterGlobe Aviation Limited, together with its subsidiaries, provides air transportation services under the IndiGo brand in India and internationally. The company offers pre-flight and post-flight ground handling operations; passenger and cargo services; and related allied services, such as in-flight sales, and other allied services at the airports. It also engages in aircraft and other aircraft-related equipment leasing. In addition, the company provides cargo transport; charter flights; hotel booking services through its website and mobile app. As of March 31, 2025, its fleet consisted of 441 aircraft. The company serves business and leisure travelers, students, and families. InterGlobe Aviation Limited was incorporated in 2004 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 209960.5,
+  "market_cap_cr": 219047.19,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:29:03.504006",
-  "provider_reported_pb_ratio": 42.04,
-  "statements_retrieved_at": "2026-11-10T21:29:03.504006",
+  "retrieval_time": "2026-11-11T22:00:33.967381",
+  "provider_reported_pb_ratio": 43.85,
+  "statements_retrieved_at": "2026-11-11T22:00:33.967381",
   "retained_fields": []
 }

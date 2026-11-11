@@ -5,8 +5,8 @@
   "industry": "Apparel Manufacturing",
   "business_summary": "Monte Carlo Fashions Limited manufactures and trades in woolen, cotton, cotton-blended, knitted, and woven garments for men, women, and kids in India and internationally. The company offers sweaters, sweatshirts, jackets, coats, T-shirts, shirts, jeans, trousers, suits, thermals, mufflers, mink blankets, bedsheets, towels, footwear, denims, jackets, sports and fitness wear; bermudas, lowers, high-street fashion shirts, tops, dresses, jumpsuits, urban tunics, shrugs, shorts, capris, narrow pants, leggings, and track suits; and accessories, including ties, belts, and socks. It also offers home furnishings. The company provides its products under the Monte Carlo, Luxuria, Denim, Alpha, Tweens, Cloak & Decker, Monte Carlo Home, and Rock.it brands. It sells its products through exclusive brand outlets, multi brand outlets, national chain stores, shop-in-shop stores, distributors, and retail chains, as well as through e-commerce platforms. Monte Carlo Fashions Limited was founded in 1984 and is based in Ludhiana, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1050.7,
-  "pe_ratio": 11.7,
+  "market_cap_cr": 1026.34,
+  "pe_ratio": 11.43,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 422.93,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:41:31.608440",
-  "provider_reported_pb_ratio": 1.2,
-  "statements_retrieved_at": "2026-11-10T21:41:31.608440",
+  "retrieval_time": "2026-11-11T22:12:38.555377",
+  "provider_reported_pb_ratio": 1.17,
+  "statements_retrieved_at": "2026-11-11T22:12:38.555377",
   "retained_fields": []
 }

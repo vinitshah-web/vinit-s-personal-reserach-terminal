@@ -5,7 +5,7 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "Kirloskar Brothers Limited provides fluid management solutions worldwide. The company manufactures various pumps, including utility, solid handling, process, split-case, multi-stage, sump, vertical inline and turbine, non-clog submersible, special engineered, firefighting, and nuclear pumps; and sluice/gate, non-return/check, globe, air, ball, suction diffuser, triple duty, and butterfly valves. It also provides francis turbines, kaplan turbines, pelton wheel turbines, and micro hydro power generators, as well as pump as turbine; hydro pneumatic systems, HVAC, autoprime pumps, containerised fire pump sets, fire sprinkler pump sets, and watermist systems; automation and internet of thing products; and solutions. The company's products are used in building and construction, irrigation, marine and defense, oil and gas, power, process, retail pumps, valves, and water resource management industries. Kirloskar Brothers Limited was founded in 1888 and is headquartered in Pune, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 12988.92,
+  "market_cap_cr": 12990.51,
   "pe_ratio": 34.54,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:33:49.493725",
+  "retrieval_time": "2026-11-11T22:05:14.197873",
   "provider_reported_pb_ratio": 5.06,
-  "statements_retrieved_at": "2026-11-10T21:33:49.493725",
+  "statements_retrieved_at": "2026-11-11T22:05:14.197873",
   "retained_fields": []
 }

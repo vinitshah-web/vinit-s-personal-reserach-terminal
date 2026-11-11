@@ -5,14 +5,14 @@
   "industry": "Household & Personal Products",
   "business_summary": "Procter & Gamble Hygiene and Health Care Limited manufactures and sells branded packaged fast-moving consumer goods in the feminine care and healthcare businesses in India and internationally. It operates through Health care Products and Hygiene Products segments. The company offers health care products, including ointments and creams, cough drops, and tablets; and hygiene products, such as feminine hygiene and other skin care hygiene products, as well as feminine care pads. It also provides baby care products comprising nappies, pants, and baby wipes; grooming products; laundry products; hair care products; home, personal and skin care, and oral products. The company sells its products under the Vicks, Whisper, Pampers, Ariel, Tide, Gillette, Head & Shoulders, Herbal Essences, Pantene, Ambi Pur, Oral-B, Olay, and Old Spice brands through mass merchandisers, as well as grocery, membership club, drug, department, and high frequency stores. The company was incorporated in 1964 and is based in Mumbai, India. Procter & Gamble Hygiene and Health Care Limited operates as a subsidiary of The Procter & Gamble Company.",
   "business_summary_reason": null,
-  "market_cap_cr": 23168.85,
-  "pe_ratio": 29.3,
+  "market_cap_cr": 23379.85,
+  "pe_ratio": 29.57,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 232.1,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 3.2461,
-  "fifty_two_week_high": 13360.0,
+  "fifty_two_week_high": 13180.0,
   "fifty_two_week_low": 6579.0,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:47:37.430357",
-  "provider_reported_pb_ratio": 30.75,
-  "statements_retrieved_at": "2026-11-10T21:47:37.430357",
+  "retrieval_time": "2026-11-11T22:18:40.865083",
+  "provider_reported_pb_ratio": 31.03,
+  "statements_retrieved_at": "2026-11-11T22:18:40.865083",
   "retained_fields": []
 }

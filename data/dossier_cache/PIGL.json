@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "Power & Instrumental (Gujarat) Limited engages in electrical contract work business and deals in electrical equipment in India. The company provides contracting based, industrial electrical, airport electrical, commercial electrical contractors, lighting and entertainment, and power backup and standby services. It also offers design, installation, maintenance, and repair services for energy efficient power and distribution transformers, generators, switchgear, and others. Power & Instrumental (Gujarat) Limited was founded in 1975 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 195.81,
-  "pe_ratio": 11.72,
+  "market_cap_cr": 202.67,
+  "pe_ratio": 12.13,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 72.1,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:47:49.331165",
-  "provider_reported_pb_ratio": 1.28,
-  "statements_retrieved_at": "2026-11-10T21:47:49.331165",
+  "retrieval_time": "2026-11-11T22:18:53.609940",
+  "provider_reported_pb_ratio": 1.33,
+  "statements_retrieved_at": "2026-11-11T22:18:53.609940",
   "retained_fields": []
 }

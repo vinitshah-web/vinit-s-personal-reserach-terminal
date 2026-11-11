@@ -5,15 +5,15 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Aether Industries Limited produces and sells advanced intermediates and specialty chemicals in India and internationally. It provides large-scale manufacturing, contract research and manufacturing services, as well as contract/exclusive manufacturing services. The company serves its products to the chemical industry, including multinational, regional, and local companies in the pharmaceuticals, agrochemicals, materials science, coatings, photography, additives, and oil and gas industries. It also exports its products. The company collaborate with Dow Chemical International Private Limited to manufactures silicone technology development in India. Aether Industries Limited was incorporated in 2013 and is headquartered in Surat, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 21106.32,
-  "pe_ratio": 84.76,
+  "market_cap_cr": 21714.25,
+  "pe_ratio": 87.2,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 195.42,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 13.2736,
   "fifty_two_week_high": 1814.1,
-  "fifty_two_week_low": 728.0,
+  "fifty_two_week_low": 731.2,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:02:51.489330",
-  "provider_reported_pb_ratio": 8.14,
-  "statements_retrieved_at": "2026-11-10T21:02:51.489330",
+  "retrieval_time": "2026-11-11T21:35:20.318342",
+  "provider_reported_pb_ratio": 8.37,
+  "statements_retrieved_at": "2026-11-11T21:35:20.318342",
   "retained_fields": []
 }

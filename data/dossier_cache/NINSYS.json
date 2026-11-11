@@ -5,8 +5,8 @@
   "industry": "Information Technology Services",
   "business_summary": "NINtec Systems Limited provides software development services and solutions in India. The company offers business analytics services; cloud services, including cloud infrastructure, and management; application engineering comprising web, mobile, and backend systems monoliths, microservices, event-driven architectures, and API-first platforms; testing services, such as functional testing, performance engineering, security testing, and accessibility.; and artificial intelligence and machine learning solutions. It also provides offshore software product development, software migration, and multimedia design services. In addition, the company provides blockchain services, such as enterprise blockchain platforms on hyperledger fabric and besu for supply chain, trade finance, and identity applications; internet of things; process automations; cognitive artificial intelligence; technology consulting services; outsourcing and digital services; and cyber security services. The company serves healthcare and life sciences, automotive and aftermarket, logistics and supply chain, fintech and banking, gaming and I gaming, media and entertainment, retail and e-commerce, pharmaceuticals, high tech and SaaS industries. NINtec Systems Limited was incorporated in 2015 and is headquartered in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1730.08,
-  "pe_ratio": 47.71,
+  "market_cap_cr": 1666.92,
+  "pe_ratio": 45.97,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 60.94,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:44:24.390001",
-  "provider_reported_pb_ratio": 15.28,
-  "statements_retrieved_at": "2026-11-10T21:44:24.390001",
+  "retrieval_time": "2026-11-11T22:15:29.123250",
+  "provider_reported_pb_ratio": 14.73,
+  "statements_retrieved_at": "2026-11-11T22:15:29.123250",
   "retained_fields": []
 }

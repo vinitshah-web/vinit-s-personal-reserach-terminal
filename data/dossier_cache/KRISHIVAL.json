@@ -5,14 +5,14 @@
   "industry": "Packaged Foods",
   "business_summary": "Krishival Foods Limited engages in the processing, selling, and trading of dry fruits and nuts. The company offers cashews, almonds, dry figs, peanuts, raisins, and pistachios, as well as related dry fruit products. It also sells its products through online. The company was formerly known as Empyrean Cashews Limited and changed its name to Krishival Foods Limited in May 2023. Krishival Foods Limited was founded in 1989 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 918.9,
-  "pe_ratio": 36.7,
+  "market_cap_cr": 900.83,
+  "pe_ratio": 35.98,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 106.19,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 2.5619,
-  "fifty_two_week_high": 501.85,
+  "fifty_two_week_high": 492.9,
   "fifty_two_week_low": 282.3,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:34:39.976332",
-  "provider_reported_pb_ratio": 3.38,
-  "statements_retrieved_at": "2026-11-10T21:34:39.976332",
+  "retrieval_time": "2026-11-11T22:06:08.936336",
+  "provider_reported_pb_ratio": 3.31,
+  "statements_retrieved_at": "2026-11-11T22:06:08.936336",
   "retained_fields": []
 }

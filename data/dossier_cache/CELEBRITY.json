@@ -5,7 +5,7 @@
   "industry": "Apparel Manufacturing",
   "business_summary": "Celebrity Fashions Limited manufactures and exports garments in India and internationally. The company offers shirts, t-shirts, sweaters, shackets, trousers, shorts, and denims for men and boys under the Indian Terrain brand. It sells its products through exclusive stores, multi-brand outlets, and e-commerce stores. Celebrity Fashions Limited was incorporated in 1988 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 40.08,
+  "market_cap_cr": 41.18,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:12:32.903934",
-  "provider_reported_pb_ratio": 3.37,
-  "statements_retrieved_at": "2026-11-10T21:12:32.903934",
+  "retrieval_time": "2026-11-11T21:44:32.404024",
+  "provider_reported_pb_ratio": 3.47,
+  "statements_retrieved_at": "2026-11-11T21:44:32.404024",
   "retained_fields": []
 }

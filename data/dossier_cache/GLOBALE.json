@@ -5,7 +5,7 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Globale Tessile Limited manufactures and trades in traditional textiles in India and internationally. It offers shirting, suiting, and fabrics for apparel and home textiles. The company was founded in 1970 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 11.36,
+  "market_cap_cr": 11.35,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:22:47.953304",
-  "provider_reported_pb_ratio": 1.16,
-  "statements_retrieved_at": "2026-11-10T21:22:47.953304",
+  "retrieval_time": "2026-11-11T21:54:26.950892",
+  "provider_reported_pb_ratio": 1.15,
+  "statements_retrieved_at": "2026-11-11T21:54:26.950892",
   "retained_fields": []
 }

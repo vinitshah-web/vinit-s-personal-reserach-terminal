@@ -5,8 +5,8 @@
   "industry": "Publishing",
   "business_summary": "Cyber Media (India) Limited, together with its subsidiaries, engages in the media business in India and internationally. It operates through Media Services and Digital Services segments. The company offers various services, such as digital; online and social media platforms; video focus; print publications for magazines; subscription services; bespoke and industry events; and business solutions, including conferences, lead generation, and influencer marketing, as well as advertising, subscriptions, event sponsorships, and custom content solutions. It also provides market research; and research-based insights and consulting services, such as market intelligence, market sizing, stakeholder satisfaction, growth opportunity identification, incubation advisory, and go-to-market services, as well as content syndication services. The company offers its services through the CYBER MEDIA SERVICES, CMR, DATAQUEST, VOICE&DATA, PCQUEST, CIOL, THE DQ WEEK, DQ CHANNELS, and DARE brands. It serves tech startups and companies in the information technology, telecommunications, digital marketing, semiconductor and electronics, government, smart infrastructure, energy and utilities, and healthcare and life sciences sectors, as well as advertising and PR agencies, SMB, and consumer user segments. Cyber Media (India) Limited was incorporated in 1982 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 35.99,
-  "pe_ratio": 7.14,
+  "market_cap_cr": 36.06,
+  "pe_ratio": 7.15,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": -3.35,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:15:07.112034",
-  "provider_reported_pb_ratio": -5.16,
-  "statements_retrieved_at": "2026-11-10T21:15:07.112034",
+  "retrieval_time": "2026-11-11T21:46:59.243362",
+  "provider_reported_pb_ratio": -5.17,
+  "statements_retrieved_at": "2026-11-11T21:46:59.243362",
   "retained_fields": []
 }

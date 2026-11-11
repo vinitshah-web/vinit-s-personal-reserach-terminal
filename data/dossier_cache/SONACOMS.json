@@ -5,14 +5,14 @@
   "industry": "Auto Parts",
   "business_summary": "Sona BLW Precision Forgings Limited, together with its subsidiaries, designs, manufactures, and supplies systems and components for the automotive industry in India and internationally. The company offers mobility products comprising electronically and limited locking differentials, integrated motor controller modules, traction motors, spool gears, controllers, park gear, spiral bevel gears, input/rotor shafts, starter motors, differential assembly and bevel gears, intermediate and portal axle gears, epicyclic geartrains, in-cabin radar and short range radar sensors, steering bevel boxes, coupling/sleeves, inter-axle gear sets, hub wheel motors, integrated hub motors and controllers, and integrated drive motors and controllers. It also provides railway components comprising brake systems, dampers, couplers, suspension systems, friction and rubber products, HVAC systems, electric control panels, vacuum evacuation systems, air springs, and automatic plug doors. In addition, the company offers non-automotive components, such as AVG/AMR drive units, industrial robot and eVOLT reduction gearboxes, short range radar and zone monitoring sensors, humanoid components, and eVOLT and humanoid motors. Its products are used in conventional and electric passenger vehicles, commercial vehicles, off-highway vehicles, buses, and electric two and three-wheelers, as well as for railways and non-automotive applications. The company was formerly known as Sona Okegawa Precision Forgings Ltd. and changed its name to Sona BLW Precision Forgings Limited in July 2013. Sona BLW Precision Forgings Limited was incorporated in 1995 and is headquartered in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 57766.39,
-  "pe_ratio": 77.0,
+  "market_cap_cr": 57828.91,
+  "pe_ratio": 77.08,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 102.9,
-  "dividend_yield_pct": 0.1981,
+  "dividend_yield_pct": 0.1948,
   "shares_outstanding_cr": 62.5177,
-  "fifty_two_week_high": 924.0,
+  "fifty_two_week_high": 933.25,
   "fifty_two_week_low": 437.7,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:59:08.614222",
-  "provider_reported_pb_ratio": 8.98,
-  "statements_retrieved_at": "2026-11-10T21:59:08.614222",
+  "retrieval_time": "2026-11-11T22:30:07.420793",
+  "provider_reported_pb_ratio": 8.99,
+  "statements_retrieved_at": "2026-11-11T22:30:07.420793",
   "retained_fields": []
 }

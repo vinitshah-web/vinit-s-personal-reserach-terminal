@@ -5,8 +5,8 @@
   "industry": "Conglomerates",
   "business_summary": "Balmer Lawrie & Co. Ltd. engages in industrial packaging, greases and lubricants, chemicals, travel and vacations, logistic services and infrastructure, cold chain, and refinery and oil field businesses in India. The company offers industrial packaging products, including plain steel, lacquer lined, composite, galvanized, conical, internally painted, necked in, and tall drums; and automotive lubricants, such as gear, hydraulic, coolant, diesel engine, agriculture, two-wheeler, passenger car motor, transmission oils, and greases. It also provides chemicals comprising finishing chemicals, such as resin, protein binders, wax emulsion, pigments, auxiliaries, oil and wax, compact binders, and lacquers; wet end chemicals, including fatliquors, vegetable/modifies vegetable tanning agents, mineral training/syntans, replacement, resin syntans, advantages and modified aldehydes tanning agents, and filters and auxiliaries; and beam house chemicals. In addition, the company offers ticketing, and vacations services. Further, it provides logistics infrastructure services comprising container freight stations, warehousing and distribution, multi modal logistics park, centralized warehouse AMTZ; freight and chartering services, cold chain and solutions, container freight stations, custom brokers, warehousing and distribution, project logistics, rail logistics, and express movement logistics. The company was founded in 1867 and is based in Kolkata, India. Balmer Lawrie & Co. Ltd. is a subsidiary of Balmer Lawrie Investments Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 2822.25,
-  "pe_ratio": 9.35,
+  "market_cap_cr": 3071.4,
+  "pe_ratio": 10.17,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 124.6,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:08:38.704360",
-  "provider_reported_pb_ratio": 1.32,
-  "statements_retrieved_at": "2026-11-10T21:08:38.704360",
+  "retrieval_time": "2026-11-11T21:40:45.450717",
+  "provider_reported_pb_ratio": 1.44,
+  "statements_retrieved_at": "2026-11-11T21:40:45.450717",
   "retained_fields": []
 }

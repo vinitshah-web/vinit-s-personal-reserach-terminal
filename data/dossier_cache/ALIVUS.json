@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Alivus Life Sciences Limited develops and manufactures active pharmaceutical ingredients in India, the United States, Europe, Japan, Russia, Brazil, South Korea, Taiwan, Canada, China, and Australia. It offers various APIs, such as amiodarone, ezetimibe, lithium carbonate, oxcarbazepine, mirabegron, solifenacin, atovaquone, etoricoxib, dapagliflozin, and sitagliptin for therapeutic areas, including cardiovascular, central nervous system, diabetes, oncology, urology, and pain management, as well as anti-fungal, anti-histaminic, anti-acne, anti-emetics immunomodulators, anti-ulceratives, immunosuppressant, respiratory agent, ophthalmologic agent, anti-spasmodic, and urology. The company also provides contract development and manufacturing comprising process development, analytical development and support, and API and intermediate manufacturing; and research and development, intellectual property, quality and compliance, customer experience, regulatory support. In addition, it exports its products. The company was formerly known as Glenmark Life Sciences Limited and changed its name to Alivus Life Sciences Limited in December 2024. The company was founded in 2001 and is based in Mumbai, India. Alivus Life Sciences Limited operates as a subsidiary of Nirma Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 18130.3,
-  "pe_ratio": 27.09,
+  "market_cap_cr": 17890.51,
+  "pe_ratio": 26.73,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 295.78,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:03:55.496647",
-  "provider_reported_pb_ratio": 4.98,
-  "statements_retrieved_at": "2026-11-10T21:03:55.496647",
+  "retrieval_time": "2026-11-11T21:36:21.593012",
+  "provider_reported_pb_ratio": 4.92,
+  "statements_retrieved_at": "2026-11-11T21:36:21.593012",
   "retained_fields": []
 }

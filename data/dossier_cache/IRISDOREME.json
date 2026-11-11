@@ -5,8 +5,8 @@
   "industry": "Apparel Manufacturing",
   "business_summary": "Iris Clothings Limited engages in the designing, manufacturing, branding, and sale of readymade garments in India. It offers summer wear, winter wear, sportswear, and swimwear; tops, t-shirts, pyjamas, loungewear, trousers, shorts, dresses, polyfil suits, sweatshirts, hoodies, joggers, and dryfit apparel; and accessories, including bags and bottles for infants, toddlers, boys, girls, women, and men under the DOREME and Oxcgen brand names. The company sells its products through its exclusive brand outlets and distributors. Iris Clothings Limited was founded in 2004 and is based in Howrah, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1086.03,
-  "pe_ratio": 62.02,
+  "market_cap_cr": 1092.12,
+  "pe_ratio": 62.37,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 9.73,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:30:25.169415",
-  "provider_reported_pb_ratio": 5.86,
-  "statements_retrieved_at": "2026-11-10T21:30:25.169415",
+  "retrieval_time": "2026-11-11T22:01:53.264912",
+  "provider_reported_pb_ratio": 5.89,
+  "statements_retrieved_at": "2026-11-11T22:01:53.264912",
   "retained_fields": []
 }

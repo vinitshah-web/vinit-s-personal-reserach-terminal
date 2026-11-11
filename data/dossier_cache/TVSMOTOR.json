@@ -6,13 +6,13 @@
   "business_summary": "TVS Motor Company Limited, together with its subsidiaries, engages in the manufacture and sale of automotive vehicles and components, spare parts, and accessories in India and internationally. The company operates through Automotive Vehicles & Parts and Related Investments; and Investment Held in Financial Services segments. The company offers motorcycles under the Apache RTR, Apache RR, Ronin, Raider, Radeon, StaR City+, HLX, and Sport brand names; scooters under the Jupiter, Neo, Ntorq, and Zest brands; electric vehicles under the TVS X, Orbiter, and iQUBE brands; mopeds under the XL 100 brand name; and three wheelers under the TVS King brand name. It also provides e-bikes under the Cilo, Simpel, Zenith, and Allegro brands; e-cargo bikes and accessories; and electric mobility, predictive analytics, and industrial IoT solutions. In addition, the company is involved in procurement, refurbishment, and retailing of the pre-owned multi-brand two-wheeler motorcycles and scooters; and development, design, manufacture, sale and distribution of high-tech products and components in the field of personal e-mobility. Further, it offers financing services for two and three wheelers, used and new tractors and commercial vehicles, consumer durables, personal loan, gold loan, and mid corporate loans. The company was incorporated in 1992 and is headquartered in Chennai, India. TVS Motor Company Limited operates as a subsidiary of TVS Holdings Limited.",
   "business_summary_reason": null,
   "market_cap_cr": 214132.18,
-  "pe_ratio": 55.94,
+  "pe_ratio": 56.61,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 238.83,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 47.496,
-  "fifty_two_week_high": 4516.2,
+  "fifty_two_week_high": 4636.1,
   "fifty_two_week_low": 3228.0,
   "financial_statements": [
     {
@@ -93,12 +93,13 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T22:05:17.937818",
-  "provider_reported_pb_ratio": 18.87,
-  "statements_retrieved_at": "2026-11-10T22:05:17.937818",
+  "retrieval_time": "2026-11-11T22:36:06.313834",
+  "provider_reported_pb_ratio": 19.09,
+  "statements_retrieved_at": "2026-11-11T22:36:06.313834",
+  "previous_retrieval_time": "2026-11-10T22:05:17.937818",
   "retained_fields": [
     "market_cap_cr",
-    "shares_outstanding_cr"
-  ],
-  "previous_retrieval_time": "2026-11-10T00:43:11.102621"
+    "shares_outstanding_cr",
+    "previous_retrieval_time"
+  ]
 }

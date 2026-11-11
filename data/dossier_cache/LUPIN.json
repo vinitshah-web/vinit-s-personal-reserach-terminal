@@ -5,13 +5,13 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Lupin Limited, together with its subsidiaries, operates as a pharmaceutical company in India, the United States, and internationally. The company operates in two segments: Pharmaceuticals and Others. It produces, develops, and markets various branded and generic formulations, biotechnology products, and active pharmaceutical ingredients (APIs). The company also offers products in the therapeutic areas of cardiovascular, diabetology, asthama, pediatrics, central nervous system, gastro-intestinal, anti-infectives, anti-TB, cephalosporins, and nonsteroidal anti-inflammatory drug therapies. In addition, it provides chronic therapies, and hospital-based products; products for diabetes and iron supplements for anemia, and a Budesonide-Formoterol combination for asthma. Further, the company is involved in the provision of diagnostics services, and digital healthcare services; and neuro rehabilition business. It operates through network consisting of labs and collection centers. The company has a strategic collaboration with TB Alliance to support the clinical development and commercialization of Telacebec for the treatment of tuberculosis, leprosy, and buruli ulcer. The company was formerly known as Lupin Chemicals Limited and changed its name to Lupin Limited in 2001. Lupin Limited was founded in 1968 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 92601.22,
-  "pe_ratio": 17.84,
+  "market_cap_cr": 92528.67,
+  "pe_ratio": 17.83,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 526.08,
   "dividend_yield_pct": 0.0,
-  "shares_outstanding_cr": 45.729,
+  "shares_outstanding_cr": 45.7293,
   "fifty_two_week_high": 2529.5,
   "fifty_two_week_low": 1892.9,
   "financial_statements": [
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:37:00.679577",
+  "retrieval_time": "2026-11-11T22:08:29.684202",
   "provider_reported_pb_ratio": 3.85,
-  "statements_retrieved_at": "2026-11-10T21:37:00.679577",
+  "statements_retrieved_at": "2026-11-11T22:08:29.684202",
   "retained_fields": []
 }

@@ -5,7 +5,7 @@
   "industry": "Shell Companies",
   "business_summary": "Gujarat Lease Financing Limited does not have significant operations. Previously, it was engaged in the provision of non-banking finance services. The company was incorporated in 1983 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 13.45,
+  "market_cap_cr": 14.59,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:22:45.718118",
-  "provider_reported_pb_ratio": -3.39,
-  "statements_retrieved_at": "2026-11-10T21:22:45.718118",
+  "retrieval_time": "2026-11-11T21:54:24.503120",
+  "provider_reported_pb_ratio": -3.68,
+  "statements_retrieved_at": "2026-11-11T21:54:24.503120",
   "retained_fields": []
 }

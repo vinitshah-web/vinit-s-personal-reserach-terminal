@@ -5,8 +5,8 @@
   "industry": "Capital Markets",
   "business_summary": "Spacenet Enterprises India Limited engages in the trading of commodities and related goods in India. It operates in two segments, commodity trading and IT services. The company offers information technology-related services comprising software development, maintenance, consulting, and business process management. It also provides TradFi solutions for structured trade and commodity markets. The company was formerly known as Northgate Com Tech Limited and changed its name to Spacenet Enterprises India Limited in November 2015. Spacenet Enterprises India Limited was incorporated in 2010 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 203.82,
-  "pe_ratio": 7.98,
+  "market_cap_cr": 219.71,
+  "pe_ratio": 8.6,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 3.42,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-10T21:59:22.773907",
-  "provider_reported_pb_ratio": 1.05,
-  "statements_retrieved_at": "2026-11-10T21:59:22.773907",
+  "retrieval_time": "2026-11-11T22:30:21.073708",
+  "provider_reported_pb_ratio": 1.13,
+  "statements_retrieved_at": "2026-11-11T22:30:21.073708",
   "retained_fields": []
 }
