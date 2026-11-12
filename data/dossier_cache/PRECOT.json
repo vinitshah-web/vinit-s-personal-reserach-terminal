@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Precot Limited manufactures and sells yarn and technical textile products in India and internationally. It offers hygienic products, such as cotton pads and balls, exfoliating pads, cotton wool rolls, cotton spunlace rolls, and absorbent cotton fiber. The company also provides cotton yarns and threads for weaving, knitting, crocheting, sewing, and textile production. Its products are used for cosmetic and personal hygiene use. Precot Limited was incorporated in 1962 and is based in Coimbatore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 757.14,
-  "pe_ratio": 14.8,
+  "market_cap_cr": 754.68,
+  "pe_ratio": 14.76,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 400.61,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:53:03.178049",
+  "retrieval_time": "2026-11-12T22:27:34.721094",
   "provider_reported_pb_ratio": 1.57,
-  "statements_retrieved_at": "2026-11-11T23:53:03.178049",
+  "statements_retrieved_at": "2026-11-12T22:27:34.721094",
   "retained_fields": []
 }

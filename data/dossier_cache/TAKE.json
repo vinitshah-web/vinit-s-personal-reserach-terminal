@@ -5,8 +5,8 @@
   "industry": "Health Information Services",
   "business_summary": "TAKE LIMITED, together with its subsidiaries, provides domain-intensive services in life sciences and supply chain industries in India. The company offers intelligent platforms across life sciences, clinical research, biotechnology, and preventive healthcare. It also provides collaboration platform services, including subscription based software, implementation and configuration, maintenance and support, and other professional services. The company was formerly known as TAKE Solutions Limited and change its name to TAKE LIMITED in June 2026. TAKE LIMITED was incorporated in 2000 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 187.73,
-  "pe_ratio": 32.54,
+  "market_cap_cr": 187.28,
+  "pe_ratio": 32.46,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 2.06,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T00:06:33.348985",
-  "provider_reported_pb_ratio": 6.15,
-  "statements_retrieved_at": "2026-11-12T00:06:33.348985",
+  "retrieval_time": "2026-11-12T22:41:31.152019",
+  "provider_reported_pb_ratio": 6.14,
+  "statements_retrieved_at": "2026-11-12T22:41:31.152019",
   "retained_fields": []
 }

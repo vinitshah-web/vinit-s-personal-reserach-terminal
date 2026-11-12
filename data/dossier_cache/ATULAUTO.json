@@ -5,8 +5,8 @@
   "industry": "Auto Manufacturers",
   "business_summary": "Atul Auto Limited manufactures and sells three-wheeler automobiles in India. It operates through Automobiles Business and Non Banking Financial Business segments. The company offers cargo, passenger, and e-rickshaw vehicles, as well as spare parts and accessories. It is also involved in retail finance business. The company sells its products under the Atul RIK, Atul GEM, Atul Elite, Atul:E, Atul Shakti, and Atul Gemini+ brands. It also exports its products. Atul Auto Limited was founded in 1970 and is headquartered in Rajkot, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1126.98,
-  "pe_ratio": 25.19,
+  "market_cap_cr": 1131.0,
+  "pe_ratio": 25.28,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 176.32,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:12:18.512667",
-  "provider_reported_pb_ratio": 2.3,
-  "statements_retrieved_at": "2026-11-11T23:12:18.512667",
+  "retrieval_time": "2026-11-12T21:43:08.806166",
+  "provider_reported_pb_ratio": 2.31,
+  "statements_retrieved_at": "2026-11-12T21:43:08.806166",
   "retained_fields": []
 }

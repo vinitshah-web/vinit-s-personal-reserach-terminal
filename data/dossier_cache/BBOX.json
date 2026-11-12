@@ -5,8 +5,8 @@
   "industry": "Software - Application",
   "business_summary": "Black Box Limited provides information and communications technology solutions in India, the United States, and internationally. It operates through System Integration, Technology Product Solution, and Others segments. The company offers enterprise networking, data centers, digital workplace, connected buildings, and cyber security products; keyboard, video and mouse (KVM), cables, Internet of Things (IoT), and audio video products; and IP-led hardware and software offerings, including KVM switches, OEM-distributed equipment, and contract-manufactured solutions. It also provides connectivity infrastructure, including structured cabling and fiber connectivity, passive infrastructure and network pathways, MDF/IDF modernization, IoT/OT connectivity and physical security infrastructure, and campus and multi-site network infrastructure; and enterprise networking with local and wide area, cloud, and wireless and private LTE networks; customer and employee experience, and advisory and consulting services. In addition, the company offers application development and integration, field and dispatch, project and deployment, training, and consulting and design services; and managed services, such as staff augmentation, support, service desk, and X-as-a-service. It serves airports, broadcast, data center, education, financial services, government, healthcare, manufacturing and industrial, retail, transportation, utilities, power, oil and gas, workspaces, entertainment and leisure venues, military and defense, and public safety industries under the AlertWerks, Boxilla, ControlBridge, DKM 4K, Emerald, Freedom II KM, MCX AVoIP 10G 4K, and MediaCento AVoIP 1G HD/4K brands. The company was formerly known as AGC Networks Limited and changed its name to Black Box Limited in November 2021. Black Box Limited was founded in 1976 and is based in Navi Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 15419.16,
-  "pe_ratio": 66.58,
+  "market_cap_cr": 15696.22,
+  "pe_ratio": 67.78,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 72.5,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:14:19.666193",
-  "provider_reported_pb_ratio": 11.97,
-  "statements_retrieved_at": "2026-11-11T23:14:19.666193",
+  "retrieval_time": "2026-11-12T21:45:21.204752",
+  "provider_reported_pb_ratio": 12.19,
+  "statements_retrieved_at": "2026-11-12T21:45:21.204752",
   "retained_fields": []
 }

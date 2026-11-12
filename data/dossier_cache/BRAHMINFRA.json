@@ -6,7 +6,7 @@
   "business_summary": "Brahmaputra Infrastructure Limited, together with its subsidiaries, operates as an infrastructure company in India. The company operates through two segments: EPC Division and Real Estate Division. The company offers engineering, procurement, and construction services for infrastructure projects, such as bridges, flyovers, highways, airports, flood protection, building construction, and tunnel and mining projects. It also develops real estate properties, such as shopping malls, city centers, and industrial parks. Brahmaputra Infrastructure Limited was founded in 1987 and is based in Guwahati, India.",
   "business_summary_reason": null,
   "market_cap_cr": null,
-  "pe_ratio": 8.31,
+  "pe_ratio": 8.17,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 131.43,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:16:19.440695",
-  "provider_reported_pb_ratio": 1.33,
-  "statements_retrieved_at": "2026-11-11T23:16:19.440695",
+  "retrieval_time": "2026-11-12T21:47:29.249798",
+  "provider_reported_pb_ratio": 1.31,
+  "statements_retrieved_at": "2026-11-12T21:47:29.249798",
   "retained_fields": []
 }

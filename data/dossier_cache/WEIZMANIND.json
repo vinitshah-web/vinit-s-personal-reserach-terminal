@@ -5,14 +5,14 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Weizmann Limited engages in the textile processing business in India and Africa. It offers cotton voiles, pracales, and african prints. The company was formerly known as Weizmann Industries Ltd and changed its name to Weizmann Limited in 1994. Weizmann Limited was incorporated in 1985 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 105.42,
-  "pe_ratio": 17.18,
+  "market_cap_cr": 106.4,
+  "pe_ratio": 17.34,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 42.62,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.5494,
-  "fifty_two_week_high": 111.9,
+  "fifty_two_week_high": 111.0,
   "fifty_two_week_low": 60.11,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T00:13:06.939810",
-  "provider_reported_pb_ratio": 1.6,
-  "statements_retrieved_at": "2026-11-12T00:13:06.939810",
+  "retrieval_time": "2026-11-12T22:48:37.154400",
+  "provider_reported_pb_ratio": 1.61,
+  "statements_retrieved_at": "2026-11-12T22:48:37.154400",
   "retained_fields": []
 }

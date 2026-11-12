@@ -5,8 +5,8 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "MTAR Technologies Limited manufactures and sells high precision, heavy equipment, components, and machines in India and internationally. The company offers space solutions comprising liquid propulsion engines; cryogenic engines, including turbo pumps, booster pumps, gas generators, and injector heads; and electro-pneumatic modules. It also provides mechanical subsystems and systems integration for the defence and aerospace sectors; concaves, body slips, anchors, quick-change systems, packers, mandrels, pumps, jar components, and whipstock assemblies; and fuel machining heads, drive mechanisms, bridge and column assemblies, coolant channel assemblies, and others. In addition, the company manufactures and fabricates critical assemblies; and ball and roller screws for use in various applications, such as defence, nuclear power reactors, aerospace, medical equipment, missiles, and CNC machines. Further, it specializes in the design and fabrication of complex systems and sub-systems, including fuelling machine heads, bridge and column assemblies, fuel transfer systems, coolant channel assemblies, drive mechanisms, fuel locator assemblies, and sealing and shielding doors for civil nuclear reactors. It offers liquid propulsion engines, cryogenic engine sub-systems, electro-pneumatic modules, satellite valves, grid fin structures for space launch vehicles, actuation systems, gear boxes, aerostructures, valves, ball screws, and roller screws. MTAR Technologies Limited was founded in 1969 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 17765.2,
-  "pe_ratio": 93.97,
+  "market_cap_cr": 18440.38,
+  "pe_ratio": 97.54,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 303.18,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:46:14.055677",
-  "provider_reported_pb_ratio": 19.05,
-  "statements_retrieved_at": "2026-11-11T23:46:14.055677",
+  "retrieval_time": "2026-11-12T22:20:11.785843",
+  "provider_reported_pb_ratio": 19.77,
+  "statements_retrieved_at": "2026-11-12T22:20:11.785843",
   "retained_fields": []
 }

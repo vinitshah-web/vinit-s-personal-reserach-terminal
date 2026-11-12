@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "Steel Exchange India Limited engages in the manufacture and sale of steel products under the SIMHADRI TMT brand name in India. It operates through three segments: Iron and Steel, Power, and Logistics. The company offers rebar and wires; billets and ingots; sponge iron and pig iron; steel scrap and structural; iron ore; and mill scale and other products. It also deals in various finished steel products, including semis, coal, scrap, and others. In addition, the company generates and sell power from waste heat recovery boilers. Further, it provides infrastructure and logistics services, including transportation, material handling, warehousing, loading and unloading, railway siding operations, and other allied services. Steel Exchange India Limited was incorporated in 1999 and is based in Visakhapatnam, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1354.6,
-  "pe_ratio": 40.85,
+  "market_cap_cr": 1405.62,
+  "pe_ratio": 42.38,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 7.72,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T00:04:41.665883",
-  "provider_reported_pb_ratio": 1.38,
-  "statements_retrieved_at": "2026-11-12T00:04:41.665883",
+  "retrieval_time": "2026-11-12T22:39:30.976031",
+  "provider_reported_pb_ratio": 1.43,
+  "statements_retrieved_at": "2026-11-12T22:39:30.976031",
   "retained_fields": []
 }

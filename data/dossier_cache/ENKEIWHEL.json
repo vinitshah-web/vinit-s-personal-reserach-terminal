@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Enkei Wheels (India) Limited manufactures and sells aluminium alloy casting wheels for two-wheelers and four-wheelers in India. Its products are used in the automobile industry. The company also exports its products. Enkei Wheels (India) Limited was incorporated in 2009 and is based in Pune, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 712.88,
-  "pe_ratio": 32.72,
+  "market_cap_cr": 717.38,
+  "pe_ratio": 32.93,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 138.95,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:24:11.766184",
-  "provider_reported_pb_ratio": 2.85,
-  "statements_retrieved_at": "2026-11-11T23:24:11.766184",
+  "retrieval_time": "2026-11-12T21:55:54.973030",
+  "provider_reported_pb_ratio": 2.87,
+  "statements_retrieved_at": "2026-11-12T21:55:54.973030",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Lodging",
   "business_summary": "EIH Limited, together with its subsidiaries, owns and manages hotels and cruisers under the Oberoi, Trident, and Maidens brand names in India and internationally. It is involved in flight catering, airport restaurants, project management and corporate, resorts, and air charters activities. The company also rents investment properties. EIH Limited was incorporated in 1949 and is based in Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 19492.6,
-  "pe_ratio": 27.39,
+  "market_cap_cr": 19774.02,
+  "pe_ratio": 27.79,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 84.15,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:23:16.152024",
-  "provider_reported_pb_ratio": 3.7,
-  "statements_retrieved_at": "2026-11-11T23:23:16.152024",
+  "retrieval_time": "2026-11-12T21:54:53.883901",
+  "provider_reported_pb_ratio": 3.76,
+  "statements_retrieved_at": "2026-11-12T21:54:53.883901",
   "retained_fields": []
 }

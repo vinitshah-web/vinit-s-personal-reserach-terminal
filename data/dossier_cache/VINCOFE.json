@@ -5,8 +5,8 @@
   "industry": "Beverages - Non-Alcoholic",
   "business_summary": "Vintage Coffee and Beverages Limited, through its subsidiaries, primarily engages in the manufacture, export, and sale of coffee and beverage products in India and internationally. The company was formerly known as Spaceage Products Limited and changed its name to Vintage Coffee and Beverages Limited in July 2021. Vintage Coffee and Beverages Limited was incorporated in 1980 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2343.23,
-  "pe_ratio": 29.57,
+  "market_cap_cr": 2401.68,
+  "pe_ratio": 26.92,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 37.68,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T00:11:47.155571",
-  "provider_reported_pb_ratio": 4.24,
-  "statements_retrieved_at": "2026-11-12T00:11:47.155571",
+  "retrieval_time": "2026-11-12T22:47:07.664465",
+  "provider_reported_pb_ratio": 4.35,
+  "statements_retrieved_at": "2026-11-12T22:47:07.664465",
   "retained_fields": []
 }

@@ -5,14 +5,14 @@
   "industry": "Engineering & Construction",
   "business_summary": "NCC Limited operates in the construction business in India and internationally. It operates through the Construction, Real Estate, and Others segments. The company constructs buildings, including hospitals, medical colleges, institutional buildings, sports complexes, housing projects, IT parks, hospitals, stadiums, and industrial and commercial buildings; transportation projects comprising construction of expressways and highways, highway realignment and bypass, carriageway widening and strengthening, road sections, rehabilitation and up-gradation, runways, metro projects, bridges, and flyovers; and water and environment projects, such as water supply pipelines, water treatment plants, water distribution networks, river intake works, underground drainage networks, lift irrigation schemes, sewage pumping stations and treatment plants, and storage tanks. It also engages in the irrigation projects, including dams, reservoirs, canals, tunnels, barrages, spillways, hydroelectric power projects, and aqueducts; mining projects that consist of overburden removal, coal excavation and transportation, and mine development and operation; railway projects, which include civil EPC, track laying, signaling and telecommunication, dedicated freight corridor, and high-speed rail; and electrical projects comprising transmission and distribution lines, substations, project electrification, system improvements, smart meters, optical fibre, and allied systems. The company was formerly known as Nagarjuna Construction Company Limited and changed its name to NCC Limited in March 2011. NCC Limited was founded in 1978 and is headquartered in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 8619.08,
-  "pe_ratio": 11.82,
+  "market_cap_cr": 8531.81,
+  "pe_ratio": 11.7,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 129.29,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 62.7847,
-  "fifty_two_week_high": 189.8,
+  "fifty_two_week_high": 187.8,
   "fifty_two_week_low": 113.5,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:47:09.798787",
-  "provider_reported_pb_ratio": 1.06,
-  "statements_retrieved_at": "2026-11-11T23:47:09.798787",
+  "retrieval_time": "2026-11-12T22:21:11.530344",
+  "provider_reported_pb_ratio": 1.05,
+  "statements_retrieved_at": "2026-11-12T22:21:11.530344",
   "retained_fields": []
 }

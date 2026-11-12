@@ -5,8 +5,8 @@
   "industry": "Footwear & Accessories",
   "business_summary": "AKI India Limited manufactures and trades leather and leather goods in India. It also exports its products. The company was formerly known as AKI India Private Limited and changed its name to AKI India Limited. AKI India Limited was incorporated in 1994 and is based in Kanpur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 56.04,
-  "pe_ratio": 18.72,
+  "market_cap_cr": 55.11,
+  "pe_ratio": 18.41,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 9.72,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:08:53.539159",
-  "provider_reported_pb_ratio": 0.56,
-  "statements_retrieved_at": "2026-11-11T23:08:53.539159",
+  "retrieval_time": "2026-11-12T21:39:20.510270",
+  "provider_reported_pb_ratio": 0.55,
+  "statements_retrieved_at": "2026-11-12T21:39:20.510270",
   "retained_fields": []
 }

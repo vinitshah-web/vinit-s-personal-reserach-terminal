@@ -5,8 +5,8 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "Bharat Heavy Electricals Limited operates as power plant equipment manufacturer in India and internationally. The company operates in two segments, Power and Industry. It offers equipment supplies; spares and services; and undertakes engineering, procurement, and construction works for coal and lignite, gas, hydro and nuclear power plant, transportation, transmission, defence, aerospace, captive power plants, process, renewables, upstream and downstream oil and gas, e-mobility and energy storage, and other industries. The company also provides coal based, gas-based, nuclear, and hydro power plants, as well as solar power systems; rail, transportation and transmission systems; defense and aerospace products; industrial systems; and battery energy storage system and e-mobility solutions. In addition, it offers steam generators and steam generator auxiliaries, soot blowers, valves, piping systems, seamless steel tubes, valves, pressurized fluidized bed gasifiers, steam and gas turbines, turbo generators, industrial sets, castings and forgings, condenser and heat exchangers, pumps, Hydro Power Plants, compressors, and automation and control systems. Further, the company provides software system solutions, medium voltage vacuum switchgears, on load tap changers, LT switchgears and bus ducts, transformers and reactors, capacitors, bushings, control gears, insulators and ceramics, and electrical machines. It also provides rail transportation systems and equipment, defence and aerospace, oil field equipment, and fabricated equipment and mechanical packages. The company has a strategic collaboration with E2S Company Limited for the development of excitation systems for synchronous machines. The company was incorporated in 1964 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 150425.13,
-  "pe_ratio": 52.24,
+  "market_cap_cr": 150146.58,
+  "pe_ratio": 52.14,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 76.91,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:15:10.500779",
-  "provider_reported_pb_ratio": 5.62,
-  "statements_retrieved_at": "2026-11-11T23:15:10.500779",
+  "retrieval_time": "2026-11-12T21:46:15.302689",
+  "provider_reported_pb_ratio": 5.61,
+  "statements_retrieved_at": "2026-11-12T21:46:15.302689",
   "retained_fields": []
 }

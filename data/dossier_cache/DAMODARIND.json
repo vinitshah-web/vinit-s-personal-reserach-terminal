@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Damodar Industries Limited manufactures and sells synthetic blended yarns in India. It exports its products to various countries across Europe, South Africa, South America, Australia, Korea, Belgium, Singapore, Italy, Egypt, and the Gulf countries. It offers cotton, melange, specialty, slub, multi blend, and value-added yarns. The company was formerly known as Damodar Threads Limited and changed its name to Damodar Industries Limited in January 2013. Damodar Industries Limited was incorporated in 1987 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 67.9,
-  "pe_ratio": 11.7,
+  "market_cap_cr": 67.48,
+  "pe_ratio": 11.63,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 65.57,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:20:13.808413",
+  "retrieval_time": "2026-11-12T21:51:37.676754",
   "provider_reported_pb_ratio": 0.44,
-  "statements_retrieved_at": "2026-11-11T23:20:13.808413",
+  "statements_retrieved_at": "2026-11-12T21:51:37.676754",
   "retained_fields": []
 }

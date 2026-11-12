@@ -5,7 +5,7 @@
   "industry": "Asset Management",
   "business_summary": "Jindal Poly Investment and Finance Company Limited engages in investment activities in India. Jindal Poly Investment and Finance Company Limited was incorporated in 2012 and is headquartered in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 991.22,
+  "market_cap_cr": 991.64,
   "pe_ratio": 1.23,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:36:33.593471",
+  "retrieval_time": "2026-11-12T22:09:37.636225",
   "provider_reported_pb_ratio": 0.62,
-  "statements_retrieved_at": "2026-11-11T23:36:33.593471",
+  "statements_retrieved_at": "2026-11-12T22:09:37.636225",
   "retained_fields": []
 }

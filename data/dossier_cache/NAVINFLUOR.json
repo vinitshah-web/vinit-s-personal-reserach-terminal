@@ -5,14 +5,14 @@
   "industry": "Chemicals",
   "business_summary": "Navin Fluorine International Limited manufactures and sells specialty fluorochemicals in India and internationally. The company offers refrigerants for various applications, including room air conditioning, commercial refrigeration, industrial cooling, mobile air conditioning, cold chain, and heat pumps under the Mafron brand for original equipment manufacturers, service technicians, and equipment owners. It also provides inorganic fluoride products, such as hydrogen fluoride, diluted hydrofluoric acid, ammonium bifluoride, potassium fluoride, sodium fluoride, hexafluorophosphoric acid, hydrogen fluoride\u0096pyridine complex, and fluoboric acid for oil and gas, steel and abrasives, industrial glass and specialty performance materials, pharmaceutical and agrochemicals, and medical surface treatment applications; and specialty fluorochemicals comprising benzotrifluoride, 2-chloro-5-(trifluoromethyl)pyridine, 4-fluorophenol, 3-aminobenzotrifluoride, 4-fluorobenzonitrile, 4-fluorobenzoic acid, and 3-chlorobenzotrifluoride. The company was founded in 1967 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 49581.21,
-  "pe_ratio": 54.46,
+  "market_cap_cr": 51172.49,
+  "pe_ratio": 56.21,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 869.83,
-  "dividend_yield_pct": 0.1821,
+  "dividend_yield_pct": 0.1719,
   "shares_outstanding_cr": 5.1324,
-  "fifty_two_week_high": 9666.0,
+  "fifty_two_week_high": 10036.0,
   "fifty_two_week_low": 5440.0,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:47:01.437937",
-  "provider_reported_pb_ratio": 11.1,
-  "statements_retrieved_at": "2026-11-11T23:47:01.437937",
+  "retrieval_time": "2026-11-12T22:21:02.470523",
+  "provider_reported_pb_ratio": 11.46,
+  "statements_retrieved_at": "2026-11-12T22:21:02.470523",
   "retained_fields": []
 }

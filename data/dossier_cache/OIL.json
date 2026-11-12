@@ -5,8 +5,8 @@
   "industry": "Oil & Gas Integrated",
   "business_summary": "Oil India Limited engages in the exploration, development, and production of crude oil and natural gas in India. It operates through Crude Oil, Natural Gas, LPG, Pipeline Transportation, Renewable Energy, and Others segments. The company owns and operates crude oil trunk pipeline comprising an area of 1,157 kilometers; and drilling rigs and workover rigs. It is also involved in the transportation of crude oil and natural gas; and production of Liquefied Petroleum Gas (LPG) and condensate, as well as in the pipeline transportation services. In addition, it generates energy through wind and solar power projects. Oil India Limited was founded in 1889 and is based in Noida, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 72514.17,
-  "pe_ratio": 8.68,
+  "market_cap_cr": 71570.74,
+  "pe_ratio": 8.57,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 356.62,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:49:25.604239",
-  "provider_reported_pb_ratio": 1.25,
-  "statements_retrieved_at": "2026-11-11T23:49:25.604239",
+  "retrieval_time": "2026-11-12T22:23:38.022266",
+  "provider_reported_pb_ratio": 1.23,
+  "statements_retrieved_at": "2026-11-12T22:23:38.022266",
   "retained_fields": []
 }

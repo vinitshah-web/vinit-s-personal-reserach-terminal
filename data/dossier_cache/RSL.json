@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "Rajputana Stainless Limited manufactures and markets long and flat stainless-steel products under the RSL brand name in India and internationally. The company offers billets, forging ingots, rolled black bars, rolled bright bars, flat and patti bars, square bars, hexagonal bars, wire rods, flat bars, round corner squares, cold drawn flat bars, precision shaft quality bars, continuous cast billets, precipitation hardening steel, duplex steel, and other ancillary products. Its products serve engineering, construction and infrastructure, automotive and railways, oil manufacturing, food and beverages processing, medical and healthcare utensil manufacturing sectors. Rajputana Stainless Limited was incorporated in 1991 and is headquartered in Kalol, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1403.1,
-  "pe_ratio": 17.67,
+  "market_cap_cr": 1410.62,
+  "pe_ratio": 17.77,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 43.47,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:57:16.836451",
-  "provider_reported_pb_ratio": 3.86,
-  "statements_retrieved_at": "2026-11-11T23:57:16.836451",
+  "retrieval_time": "2026-11-12T22:31:45.838080",
+  "provider_reported_pb_ratio": 3.88,
+  "statements_retrieved_at": "2026-11-12T22:31:45.838080",
   "retained_fields": []
 }

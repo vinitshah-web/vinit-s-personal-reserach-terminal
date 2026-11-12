@@ -5,8 +5,8 @@
   "industry": "Agricultural Inputs",
   "business_summary": "Nova Agritech Limited manufactures, distributes, and markets agricultural inputs in India. It offers soil health management, crop nutrition, bio stimulant products, bio pesticides, integrated pest management, agricultural technologies, insecticides, fungicides, herbicides, plant growth regulators, and crop protection products. The company is also involved in the production of crop seeds. Nova Agritech Limited was incorporated in 2007 and is based in Siddipet, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 211.01,
-  "pe_ratio": 16.86,
+  "market_cap_cr": 210.02,
+  "pe_ratio": 16.78,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 21.11,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:48:50.012371",
+  "retrieval_time": "2026-11-12T22:23:00.002565",
   "provider_reported_pb_ratio": 1.11,
-  "statements_retrieved_at": "2026-11-11T23:48:50.012371",
+  "statements_retrieved_at": "2026-11-12T22:23:00.002565",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Capital Markets",
   "business_summary": "HB Portfolio Limited invests and deals in securities and commodities in India. The company operates in two segments, Financial Services and Commodities Trading. The company was formerly known as HB Stockholdings Limited and changed its name to HB Portfolio Limited in February 1997. HB Portfolio Limited was incorporated in 1994 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 64.05,
-  "pe_ratio": 17.25,
+  "market_cap_cr": 64.56,
+  "pe_ratio": 17.39,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 239.51,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:30:30.159239",
+  "retrieval_time": "2026-11-12T22:02:54.916831",
   "provider_reported_pb_ratio": 0.25,
-  "statements_retrieved_at": "2026-11-11T23:30:30.159239",
+  "statements_retrieved_at": "2026-11-12T22:02:54.916831",
   "retained_fields": []
 }

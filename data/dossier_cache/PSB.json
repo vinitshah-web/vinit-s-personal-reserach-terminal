@@ -5,8 +5,8 @@
   "industry": "Banks - Regional",
   "business_summary": "Punjab & Sind Bank provides various banking and financial products and services in India. It offers deposit products, including saving accounts, current accounts, salary, fixed deposits. The company also provides loans, such as home, auto, education, commercial vehicle, personal, doctor, mortgage, vyapar, e-vahan, gold, mudra, MSME, and agri loans; and SME liquid plus and contractor plus products, as well as sukhmoney for senior citizens, SB OD and central sector interest subsidiary schemes, roof solar top solar finance, and debt restructuring services. In addition, it offers locker facility and government schemes; life, general, and health insurance services; digital banking services comprising internet and mobile banking, SMS banking, Aadhaar seeding and pay, point of sale, unified payment interface, BBPS, IMPS/USSD, RTGS/NEFT, ATM/debit cards, and online payment; international banking services, including NRI schemes, export/import services, forex treasury, residential facilities, and gold card scheme; and social banking services. The company was incorporated in 1908 and is headquartered in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 15326.47,
-  "pe_ratio": 10.24,
+  "market_cap_cr": 15503.85,
+  "pe_ratio": 10.36,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 20.48,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:54:05.807106",
-  "provider_reported_pb_ratio": 1.05,
-  "statements_retrieved_at": "2026-11-11T23:54:05.807106",
+  "retrieval_time": "2026-11-12T22:28:15.642311",
+  "provider_reported_pb_ratio": 1.07,
+  "statements_retrieved_at": "2026-11-12T22:28:15.642311",
   "retained_fields": []
 }

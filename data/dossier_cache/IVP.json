@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "IVP Limited engages in the manufacture and distributes chemicals in India. The company offers polyurethane systems for footwear; adhesives for flexible packaging industry; and foundry chemicals, coatings, composites, refractory, powder, and insulation resin products. IVP Limited was incorporated in 1929 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 182.19,
-  "pe_ratio": 5.78,
+  "market_cap_cr": 178.9,
+  "pe_ratio": 5.68,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 169.13,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:35:24.074086",
-  "provider_reported_pb_ratio": 1.04,
-  "statements_retrieved_at": "2026-11-11T23:35:24.074086",
+  "retrieval_time": "2026-11-12T22:08:23.078983",
+  "provider_reported_pb_ratio": 1.02,
+  "statements_retrieved_at": "2026-11-12T22:08:23.078983",
   "retained_fields": []
 }

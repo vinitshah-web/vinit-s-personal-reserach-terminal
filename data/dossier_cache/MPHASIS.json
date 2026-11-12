@@ -5,8 +5,8 @@
   "industry": "Information Technology Services",
   "business_summary": "Mphasis Limited, together with its subsidiaries, operates as an information technology solutions provider that specializes in cloud and cognitive services in the United States, India, Europe, the Middle East, Africa, and internationally. The company operates through Banking and Financial Services; Logistics and Transportation; Technology Media and Telecom; Insurance; and Others segments. The company offers application, blockchain, business process, cognitive, cyber security, DevOps, AI, digital, enterprise automation, experience design, infrastructure, modernization, data, IT operations, product engineering, salesforce consulting, and cloud; governance, risk, and compliance; GCP, AWS, Azure, and VmwareTanzu services; and platform and protocols services under the Mphasis XaaP. It serves the banking and capital markets comprising asset management, corporate and investment banking, retail banking, wealth management and brokerage, and mortgage industries; and insurance, payment, financial supply chain, hospitality, travel and transportation, healthcare, life sciences, oil and gas, public, hi-tech, communications, energy and utilities, logistics, and manufacturing sectors. Mphasis Limited was incorporated in 1992 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 45654.62,
-  "pe_ratio": 22.81,
+  "market_cap_cr": 46036.66,
+  "pe_ratio": 23.0,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 565.55,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:45:59.147983",
-  "provider_reported_pb_ratio": 4.23,
-  "statements_retrieved_at": "2026-11-11T23:45:59.147983",
+  "retrieval_time": "2026-11-12T22:19:54.872270",
+  "provider_reported_pb_ratio": 4.26,
+  "statements_retrieved_at": "2026-11-12T22:19:54.872270",
   "retained_fields": []
 }

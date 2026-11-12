@@ -5,8 +5,8 @@
   "industry": "Capital Markets",
   "business_summary": "Keynote Financial Services Limited provides investment banking, corporate and ESOP advisory, and brokerage services in India and internationally. The company offers capital market services, including Initial public offers, rights issues, qualified institutional placements and preferential placements, and buybacks and delistings; and mergers and acquisitions, private-equity advisory, fairness opinions, and cross-border structuring. It also provides merchant-banking services for alternative investment funds; debt advisory includes project finance, working-capital and structured finance, syndication, debt restructuring, and special-situations advisory; and provides corporate finance services. The company was formerly known as Keynote Corporate Services Limited and changed its name to Keynote Financial Services Limited in April 2019. Keynote Financial Services Limited was founded in 1993 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 124.62,
-  "pe_ratio": 21.93,
+  "market_cap_cr": 121.0,
+  "pe_ratio": 21.29,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 259.7,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:38:01.555739",
-  "provider_reported_pb_ratio": 0.86,
-  "statements_retrieved_at": "2026-11-11T23:38:01.555739",
+  "retrieval_time": "2026-11-12T22:11:12.203421",
+  "provider_reported_pb_ratio": 0.84,
+  "statements_retrieved_at": "2026-11-12T22:11:12.203421",
   "retained_fields": []
 }

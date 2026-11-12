@@ -5,8 +5,8 @@
   "industry": "Farm & Heavy Construction Machinery",
   "business_summary": "V.S.T. Tillers Tractors Limited manufactures and trades agricultural machinery in India and internationally. The company offers power tillers, power weeders, power reapers, brush cutters, and tractors; spare parts, lubricants and consumables, diesel engines, and electric water pumps; crankshafts, camshafts, and connecting rods; cylinder blocks and heads; locomotive parts; crankcase and transmission case; precision components, including engine components, locomotive and braking, metro components, light engineering components, and rotary assemblies; vertical engines, hydraulics, transmission, and front axles; precision implements comprising sprayers and rotary tillers; and source electric products. It also provides harvesters, binders, transplanters/planters, trench cutters, and front-end loaders. The company markets its products under the VST FIELDTRAC brand through a network of dealers, distributors, and retailers to small and marginal farmers. V.S.T. Tillers Tractors Limited was incorporated in 1967 and is headquartered in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3436.96,
-  "pe_ratio": 31.65,
+  "market_cap_cr": 3421.04,
+  "pe_ratio": 31.51,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 1323.19,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T00:12:48.691101",
-  "provider_reported_pb_ratio": 3.0,
-  "statements_retrieved_at": "2026-11-12T00:12:48.691101",
+  "retrieval_time": "2026-11-12T22:48:17.165924",
+  "provider_reported_pb_ratio": 2.99,
+  "statements_retrieved_at": "2026-11-12T22:48:17.165924",
   "retained_fields": []
 }

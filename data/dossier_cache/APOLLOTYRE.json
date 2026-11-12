@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Apollo Tyres Limited manufactures and sells automotive tires, tubes, and flaps in India and internationally. It offers tires for commercial and passenger vehicles, two-wheelers, trucks and buses, off-highway vehicles, light trucks, earthmovers, and bicycles, as well as for agricultural, farm, and industrial applications. The company provides its products under the Apollo Tyres and Vredestein Tyres brands. Apollo Tyres Limited was incorporated in 1972 and is headquartered in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 26811.96,
-  "pe_ratio": 15.39,
+  "market_cap_cr": 26770.84,
+  "pe_ratio": 15.37,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 277.45,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:10:39.111803",
+  "retrieval_time": "2026-11-12T21:41:16.461829",
   "provider_reported_pb_ratio": 1.53,
-  "statements_retrieved_at": "2026-11-11T23:10:39.111803",
+  "statements_retrieved_at": "2026-11-12T21:41:16.461829",
   "retained_fields": []
 }

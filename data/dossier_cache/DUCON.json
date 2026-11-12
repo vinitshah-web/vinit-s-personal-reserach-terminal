@@ -5,14 +5,14 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "Ducon Infratechnologies Limited, an engineering, procurement and construction (EPC) company, provides solutions in the fields of flue gas desulphurization (FGD) systems, air pollution control system, and material handling systems in India. It operates through the Industrial EPC and Security Solutions & AI segments. The company offers limestone, seawater, and dry sorbet injection type FGD systems for coal based power stations, which includes absorber towers, reagent preparation, gypsum handling, and associated balance of plant; bulk material handling includes belt conveyors, pipe conveyors, pneumatic conveying systems, silo systems and air slides for ash, coal, alumina and other bulk materials; and electrification and related infrastructure works supports grid expansion and rural development projects. It also provides air pollution control equipment such as venturi scrubbers, packed towers, multi-cyclones, electrostatic precipitators, bag filters, and carbon capture systems to manage particulate and gaseous emissions; offers industrial engineering services to various industries such as utilities, chemical, mining, petroleum, hydroelectric plants, aerospace, mining, steel, pulp and paper, cement, and other industries; and provides video security surveillance solutions through artificial intelligence. The company was formerly known as Dynacons Technologies Limited and changed its name to Ducon Infratechnologies Limited May 2016. Ducon Infratechnologies Limited was incorporated in 2009 and is based in Thane, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 82.78,
-  "pe_ratio": 6.55,
+  "market_cap_cr": 85.08,
+  "pe_ratio": 6.73,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 5.11,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 57.4868,
-  "fifty_two_week_high": 5.4,
+  "fifty_two_week_high": 4.99,
   "fifty_two_week_low": 1.15,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:22:31.971723",
-  "provider_reported_pb_ratio": 0.28,
-  "statements_retrieved_at": "2026-11-11T23:22:31.971723",
+  "retrieval_time": "2026-11-12T21:54:04.429233",
+  "provider_reported_pb_ratio": 0.29,
+  "statements_retrieved_at": "2026-11-12T21:54:04.429233",
   "retained_fields": []
 }

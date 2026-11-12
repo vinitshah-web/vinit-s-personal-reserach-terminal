@@ -5,8 +5,8 @@
   "industry": "Auto Manufacturers",
   "business_summary": "Maruti Suzuki India Limited manufactures and sells motor vehicles, parts, and accessories in India. The company offers passenger and commercial vehicles, including hatchbacks, sedans, SUVs, MPVs, and vans, as well as light commercial vehicles. It is also involved in the facilitation of pre-owned car sales, fleet management, and car financing activities. In addition, the company offers driving school, insurance, accessories, and financing products and services. It also exports its products to South Africa, Saudi Arabia, Chile, Japan, Mexico, and internationally. The company was formerly known as Maruti Udyog Limited and changed its name to Maruti Suzuki India Limited in September 2007. The company was incorporated in 1981 and is headquartered in New Delhi, India. Maruti Suzuki India Limited operates as a subsidiary of Suzuki Motor Corporation.",
   "business_summary_reason": null,
-  "market_cap_cr": 414539.76,
-  "pe_ratio": 30.82,
+  "market_cap_cr": 409477.89,
+  "pe_ratio": 30.44,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 3467.07,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:42:52.719456",
-  "provider_reported_pb_ratio": 3.8,
-  "statements_retrieved_at": "2026-11-11T23:42:52.719456",
+  "retrieval_time": "2026-11-12T22:16:32.552292",
+  "provider_reported_pb_ratio": 3.76,
+  "statements_retrieved_at": "2026-11-12T22:16:32.552292",
   "retained_fields": []
 }

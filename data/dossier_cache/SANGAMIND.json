@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Sangam (India) Limited operates as an integrated textile company in India. The company offers polyester, viscose dyed, blended yarn, cotton yarn, pure cotton, PV lycra, and polyester woolen; denim fabric, such as basic, twills, broken, satins, denim shirting, fancy and regular dobby, ecru, RFD, and stretch and non-stretch categories; and seamless garments, including inner wear, active wear and casual wear garments for women and men. It sells its products under the Sangam Suiting, Sangam Denim, and C9 Air Wear brands. The company also exports its products. Sangam (India) Limited was incorporated in 1984 and is headquartered in Bhilwara, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3149.43,
-  "pe_ratio": 26.43,
+  "market_cap_cr": 3158.8,
+  "pe_ratio": 21.21,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 237.08,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:58:44.735406",
-  "provider_reported_pb_ratio": 2.69,
-  "statements_retrieved_at": "2026-11-11T23:58:44.735406",
+  "retrieval_time": "2026-11-12T22:33:08.817019",
+  "provider_reported_pb_ratio": 2.7,
+  "statements_retrieved_at": "2026-11-12T22:33:08.817019",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Publishing",
   "business_summary": "MPS Limited provides platforms and services for content creation, full-service production, and distribution to the publishers, learning companies, corporate institutions, libraries, and content aggregators in India, Europe, the United States, and internationally. It operates through three segments: Research Solutions; Education Solutions; and Corporate Learning. The company offers content authoring and development solutions from PreK\u009612 through higher education and professional development; publishing solutions, including editorial services, proofreading, indexing, project management, journal and book project management, creative studios, rights and permissions, interactive media, composition, and digital production; digital transformation and accessibility solutions; and marketing and customer support solutions. It also provides Digicore, a cloud-based digital publishing platform; MPSTrak, a cloud-based workflow and content management platform for books, journals, reference works, and media; mag+, which publishes content to mobile app; THINK365, an order management fulfillment and BI platform; ScholarStor, a content hosting and delivery platform; SCHOLARLYStats, a cloud-based platform to empower librarians and institutions; and MPSInsight, a cloud-based usage analytics platform that empowers publishers. In addition, the company offers eLearning solutions, including custom e-learning, micro and mobile learning, augmented and virtual reality; experiential learning design and consulting services; and platform solutions, as well as operates experience centers and learning platforms. The company was formerly known as Macmillan India Limited and changed its name to MPS Limited in June 2009. MPS Limited was founded in 1892 and is based in Noida, India. MPS Limited is a subsidiary of ADI BPO Services Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 3841.34,
-  "pe_ratio": 20.4,
+  "market_cap_cr": 3898.37,
+  "pe_ratio": 21.08,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 414.54,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:46:01.312556",
-  "provider_reported_pb_ratio": 5.46,
-  "statements_retrieved_at": "2026-11-11T23:46:01.312556",
+  "retrieval_time": "2026-11-12T22:19:57.436017",
+  "provider_reported_pb_ratio": 5.54,
+  "statements_retrieved_at": "2026-11-12T22:19:57.436017",
   "retained_fields": []
 }

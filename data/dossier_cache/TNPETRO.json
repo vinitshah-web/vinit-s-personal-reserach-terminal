@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Tamilnadu Petroproducts Limited, together with its subsidiaries, manufactures and sells petrochemical products in India. It offers linear alkyl benzene used to manufacture domestic detergents, institutional, and industrial cleaners under the SUPERLAB brand; caustic soda for use in textile, pulp and paper, aluminum, and soap and detergent industries for general purpose; and chlorine, a co-product of caustic soda for use in various sectors, including vinyl chloride, chlorinated paraffin wax, pulp and paper, water purification, chlorinated solvents, propylene oxide etc., as well as hydrochloric acid, sodium hypo chlorite, ammonium chloride, and hydrogen. The company also provides propylene oxide used to manufacture polyol, propylene glycol, etc.; and sells scrap products. Further, it manufactures and sells industrial intermediate chemicals. It also exports its products. Tamilnadu Petroproducts Limited was incorporated in 1984 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1043.58,
-  "pe_ratio": 6.03,
+  "market_cap_cr": 1055.19,
+  "pe_ratio": 6.1,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 127.91,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T00:08:30.041433",
-  "provider_reported_pb_ratio": 0.91,
-  "statements_retrieved_at": "2026-11-12T00:08:30.041433",
+  "retrieval_time": "2026-11-12T22:43:37.258511",
+  "provider_reported_pb_ratio": 0.92,
+  "statements_retrieved_at": "2026-11-12T22:43:37.258511",
   "retained_fields": []
 }

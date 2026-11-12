@@ -5,7 +5,7 @@
   "industry": "Mortgage Finance",
   "business_summary": "Grand Oak Canyons Distillery Limited provides consultancy services in India. The company offers consultancy services to hotels, lodging houses, and the real estate sector. trades in shares and securities. In addition, the company engages in financing and investment activities. Further, it provides loans. The company was formerly known as Pacheli Industrial Finance Limited and changed its name to Grand Oak Canyons Distillery Limited in April 2025. Grand Oak Canyons Distillery Limited was incorporated in 1985 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1644.86,
+  "market_cap_cr": 1582.08,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:28:36.594719",
-  "provider_reported_pb_ratio": 0.56,
-  "statements_retrieved_at": "2026-11-11T23:28:36.594719",
+  "retrieval_time": "2026-11-12T22:00:45.093700",
+  "provider_reported_pb_ratio": 0.54,
+  "statements_retrieved_at": "2026-11-12T22:00:45.093700",
   "retained_fields": []
 }

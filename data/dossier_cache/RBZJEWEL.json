@@ -5,8 +5,8 @@
   "industry": "Luxury Goods",
   "business_summary": "RBZ Jewellers Limited manufactures and trades in jewelries and other accessories in India. The company offers haaram, bridal choker, round necklace, and occasional and daily wear on a wholesale and retail network basis. It also process and supply antique gold jewellery on job work basis to national retailers. In addition, the company operates retail showroom under the brand name H and Harit Zaveri Jewellers. RBZ Jewellers Limited was founded in 1992 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 712.72,
-  "pe_ratio": 12.56,
+  "market_cap_cr": 733.92,
+  "pe_ratio": 12.93,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 81.39,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:55:46.091871",
-  "provider_reported_pb_ratio": 2.19,
-  "statements_retrieved_at": "2026-11-11T23:55:46.091871",
+  "retrieval_time": "2026-11-12T22:30:04.075000",
+  "provider_reported_pb_ratio": 2.25,
+  "statements_retrieved_at": "2026-11-12T22:30:04.075000",
   "retained_fields": []
 }

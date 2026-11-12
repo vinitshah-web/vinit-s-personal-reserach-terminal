@@ -5,7 +5,7 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Natural Capsules Limited engages in the manufacture and sale of hard gelatin and cellulose capsule shells in India and internationally. The company offers bovine spongiform encephalopathy and transmissible spongiform encephalopathy free gelatin, shiny gelatin, sodium lauryl sulfate free gelatin, halal-certified gelatin, fast-release gelatin, printed gelatin/cellulose, vegetarian, and enteric capsule shells. It also provides pharmaceutical dosage forms in capsule dosage form for pharma and neutraceutical products. In addition, the company offers steroidal APIs and derivative salts comprising prednisolone, betamethasone, dexamethasone and hydrocortisone. Natural Capsules Limited was incorporated in 1993 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 159.42,
+  "market_cap_cr": 158.93,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:46:53.245685",
+  "retrieval_time": "2026-11-12T22:20:53.195926",
   "provider_reported_pb_ratio": 0.72,
-  "statements_retrieved_at": "2026-11-11T23:46:53.245685",
+  "statements_retrieved_at": "2026-11-12T22:20:53.195926",
   "retained_fields": []
 }

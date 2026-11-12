@@ -5,8 +5,8 @@
   "industry": "Medical Care Facilities",
   "business_summary": "Aster DM Quality Care Limited operates as an integrated healthcare provider in India. The company operates through Hospitals & Clinics, Labs, Wholesale Pharmacies, and Others segments. It offers comprehensive healthcare services including primary, secondary, tertiary and quaternary care in various specialty areas, including multi-specialty, cardiac sciences, OP pharmacy, anaesthesiology and others, neuro sciences, oncology, gastroenterology and integrated liver care, nephrology and urology, orthopaedics, women's health, and child adolescent health areas. The company also operates hospitals and clinics; wholesale pharmacies and optical outlets; and diagnostic labs. In addition, it provides healthcare consultancy and others services; and digital health platforms. The company offers its services and products under Aster DM, CARE Hospitals, Evercare, and KIMSHEALTH brands. Aster DM Quality Care Limited was formerly known as Aster DM Healthcare Limited and changed its name to Aster DM Quality Care Limited in July 2026. The company was founded in 1987 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 63054.18,
-  "pe_ratio": 92.14,
+  "market_cap_cr": 64072.87,
+  "pe_ratio": 93.63,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 94.84,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:11:58.308528",
-  "provider_reported_pb_ratio": 7.64,
-  "statements_retrieved_at": "2026-11-11T23:11:58.308528",
+  "retrieval_time": "2026-11-12T21:42:47.243359",
+  "provider_reported_pb_ratio": 7.76,
+  "statements_retrieved_at": "2026-11-12T21:42:47.243359",
   "retained_fields": []
 }

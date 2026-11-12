@@ -5,8 +5,8 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "Kirloskar Electric Company Limited engages in the manufacturing and sale of various electrical equipment in India and internationally. The company operates through Power Generation and Distribution Group, Rotating Machines Group, and Others segments. Its products include AC high and low voltage motors; AC generators; DC motors; DG sets; electronics, such as AC and DC drives, battery chargers, and uninterruptible power supply systems; and switchgears, including vacuum circuit breakers, SF6 circuit breakers, unitized package substations, panels, and porcelain clad vacuum circuit breakers. The company also provides traction products, such as dynamic breaking resistors, AC and DC traction motors, traction alternators, and radiator cooling fans; and cast resin, distribution, power, energy, and special transformers. It serves defense, metro rail, nuclear power, sugar, power transmission and distribution, data centers, pharmaceutical, water and irrigation, electronics, fertilizer, textile, steel and metals, building and infrastructure, oil and gas refineries, railways, thermal, mining, port and shipping, IT and telecom, FMCG, green hydrogen, renewable, chemical, automobile, paper, commercial infrastructure, and cement industries. Kirloskar Electric Company Limited was incorporated in 1946 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 782.33,
-  "pe_ratio": 99.07,
+  "market_cap_cr": 768.84,
+  "pe_ratio": 97.36,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 19.85,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:37:52.437763",
-  "provider_reported_pb_ratio": 5.64,
-  "statements_retrieved_at": "2026-11-11T23:37:52.437763",
+  "retrieval_time": "2026-11-12T22:11:01.913804",
+  "provider_reported_pb_ratio": 5.54,
+  "statements_retrieved_at": "2026-11-12T22:11:01.913804",
   "retained_fields": []
 }

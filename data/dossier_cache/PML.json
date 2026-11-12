@@ -5,8 +5,8 @@
   "industry": "Capital Markets",
   "business_summary": "Paul Merchants Limited, together with its subsidiaries, provides financial services in India. It operates through Forex, Travel, and Other segments. The company offers foreign exchange services in the form of currency notes, traveler cheques, travel cards, outward remittance, and foreign currency drafts; tour and travel services, including air ticketing, hotel accommodation, bus and cruise tours, holiday packages, travel insurance, and forex services; domestic and international money transfer services; PPI instruments; insurance products; business, personal, and gold loans; and business payment solutions for legal, financial, and educational institutions. It also engages in buying and selling real estate properties. In addition, it offers large corporate lending, vehicle loans, direct assignment of loans, co-lending partnerships, loans against securities, loans against silver, and other financial products. The company was formerly known as Brite Agro Mills Ltd and changed its name to Paul Merchants Limited in 1991. Paul Merchants Limited was incorporated in 1984 and is based in Chandigarh, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 156.48,
-  "pe_ratio": 7.64,
+  "market_cap_cr": 146.91,
+  "pe_ratio": 7.17,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 2908.93,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:52:07.653851",
-  "provider_reported_pb_ratio": 0.17,
-  "statements_retrieved_at": "2026-11-11T23:52:07.653851",
+  "retrieval_time": "2026-11-12T22:26:37.378580",
+  "provider_reported_pb_ratio": 0.16,
+  "statements_retrieved_at": "2026-11-12T22:26:37.378580",
   "retained_fields": []
 }

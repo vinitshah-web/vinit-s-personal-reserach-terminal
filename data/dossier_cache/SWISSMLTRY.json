@@ -5,8 +5,8 @@
   "industry": "Apparel Manufacturing",
   "business_summary": "Swiss Military Consumer Goods Limited manufactures, trades, and markets lifestyle products in India. The company offers luggage, travel gear and accessories, backpacks, apparels, electronics, eyewear, baggage, leather accessories, and other related products. It offers its products on brand outlets, modern trade, e-commerce marketplaces, and its direct-to-consumer platform. The company was formerly known as Network Limited. Swiss Military Consumer Goods Limited was founded in 1989 and is headquartered in New Delhi, India. Swiss Military Consumer Goods Limited operates as a subsidiary of Anushi Retail LLP.",
   "business_summary_reason": null,
-  "market_cap_cr": 317.13,
-  "pe_ratio": 44.77,
+  "market_cap_cr": 308.63,
+  "pe_ratio": 43.57,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 6.07,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T00:06:15.562150",
-  "provider_reported_pb_ratio": 2.21,
-  "statements_retrieved_at": "2026-11-12T00:06:15.562150",
+  "retrieval_time": "2026-11-12T22:41:12.347993",
+  "provider_reported_pb_ratio": 2.15,
+  "statements_retrieved_at": "2026-11-12T22:41:12.347993",
   "retained_fields": []
 }

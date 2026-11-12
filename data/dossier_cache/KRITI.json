@@ -5,14 +5,14 @@
   "industry": "Building Products & Equipment",
   "business_summary": "Kriti Industries (India) Limited manufactures and sells piping products and solutions, and accessories in India. It offers RPVC pipes and fittings, elastomeric, HDPE, column, casing, suction, spray pipe, and solvent cement; in-line drip, on-line drip, and sprinkler irrigation system; CPVC and UPVC pipes and fittings, SWR/drainage pipe, garden pipes, water storage tank, protect solvent cement; and fiber duct, fiber fly, fiber track, fiber ways, fiberf8, fiber main, fiber micro, and PLB duct. The company also provides gas pipe, telecom ducts, and submersible pipes. It serves farmers, builders, and industrial customers. The company was incorporated in 1983 and is based in Indore, India. Kriti Industries (India) Limited is a subsidiary of Sakam Trading Private Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 270.54,
+  "market_cap_cr": 273.39,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 42.17,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 5.2696,
-  "fifty_two_week_high": 112.98,
+  "fifty_two_week_high": 103.0,
   "fifty_two_week_low": 47.01,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:39:14.649462",
-  "provider_reported_pb_ratio": 1.22,
-  "statements_retrieved_at": "2026-11-11T23:39:14.649462",
+  "retrieval_time": "2026-11-12T22:12:30.878228",
+  "provider_reported_pb_ratio": 1.23,
+  "statements_retrieved_at": "2026-11-12T22:12:30.878228",
   "retained_fields": []
 }

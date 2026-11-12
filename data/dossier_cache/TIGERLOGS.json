@@ -5,8 +5,8 @@
   "industry": "Integrated Freight & Logistics",
   "business_summary": "Tiger Logistics (India) Limited provides inbound and outbound logistics solutions in India and internationally. It offers full container load shipping, less than container load shipping, air freight, rail and road logistics, cold-chain logistics, project defence logistics, and customs clearance solutions. The company also provides renewable energy logistic services; and supply chain financing services. In addition, it operates through FreightJar, a digital freight booking and management platform. Tiger Logistics (India) Limited was incorporated in 2000 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 280.7,
-  "pe_ratio": 16.7,
+  "market_cap_cr": 281.44,
+  "pe_ratio": 16.74,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 16.4,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T00:08:06.620315",
+  "retrieval_time": "2026-11-12T22:43:12.192433",
   "provider_reported_pb_ratio": 1.62,
-  "statements_retrieved_at": "2026-11-12T00:08:06.620315",
+  "statements_retrieved_at": "2026-11-12T22:43:12.192433",
   "retained_fields": []
 }

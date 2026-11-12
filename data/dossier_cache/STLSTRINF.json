@@ -5,7 +5,7 @@
   "industry": "Real Estate Services",
   "business_summary": "Steel Strips Infrastructures Limited engages in the infrastructure, real estate, trading, and commission businesses primarily in India. The company is also involved in the rental of commercial properties; hoarding and publicity activities; and parking area receipts. The company was formerly known as Steel Strips & Tubes Limited. The company was incorporated in 1973 and is headquartered in Chandigarh, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 16.22,
+  "market_cap_cr": 16.97,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T00:04:46.559651",
-  "provider_reported_pb_ratio": 0.24,
-  "statements_retrieved_at": "2026-11-12T00:04:46.559651",
+  "retrieval_time": "2026-11-12T22:39:36.106868",
+  "provider_reported_pb_ratio": 0.25,
+  "statements_retrieved_at": "2026-11-12T22:39:36.106868",
   "retained_fields": []
 }

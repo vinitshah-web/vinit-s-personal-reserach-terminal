@@ -5,8 +5,8 @@
   "industry": "Conglomerates",
   "business_summary": "Signet Industries Limited primarily engages in the merchant trading of various polymer and plastic granules in India. The company operates through Manufacturing, Wind Power Unit, and Trading segments. It distributes and trades in PVC resins; polyolefins, such as HDPE, LLDPE, and PP; PET resins; and DOP and DBP plasticizers, as well as imports and trades in LDPE and metallocine grades. The company also manufactures and sells micro irrigation systems; HDPE sprinkler pipes, HDPE pipes, and cable ducts; PVC pipes and agro fittings; spray pumps; crates; plastic moulded furniture; and household products, as well as ghamela. In addition, it provides exclusive trays, dinner sets, baskets, planters, worthy microwave boxes, material storage racks, keepers, dustbin and bucket ranges, water mugs, multi-purpose basins, soup cases, and bulky drums, as well as Seal N Safe range, store well range, and miscellaneous products. Further, the company manufactures modular furniture products, such as chairs, ergonomic stools, and kid's corner products; and imports and exports petrochemicals, petroleum products, household goods, and plastic packaging materials. Additionally, it generates and distributes electricity through windmills located in the states of Rajasthan and Maharashtra. The company was formerly known as Signet Overseas Limited and changed its name to Signet Industries Limited in January 2010. Signet Industries Limited was incorporated in 1985 and is based in Dhar, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 187.78,
-  "pe_ratio": 8.52,
+  "market_cap_cr": 187.04,
+  "pe_ratio": 8.48,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 79.5,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T00:02:09.584701",
+  "retrieval_time": "2026-11-12T22:36:45.747785",
   "provider_reported_pb_ratio": 0.8,
-  "statements_retrieved_at": "2026-11-12T00:02:09.584701",
+  "statements_retrieved_at": "2026-11-12T22:36:45.747785",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Building Materials",
   "business_summary": "IFGL Refractories Limited manufactures, trades in, and sells refractory items, and related equipment and accessories used in steel plants in India and internationally. The company provides specialized refractories for iron and steel, as well as cement, glass, aluminium, and other industries. It offers direct reduced iron, pelletisations plant, torpedo ladle, raker plate, and granshot tundish for iron making; and basic oxygen furnace, ladle, electric steel making, and continuous casting for steel making. The company was formerly known as IFGL Exports Limited and changed its name to IFGL Refractories Limited in October 2017. IFGL Refractories Limited was founded in 1979 and is headquartered in Kolkata, India. IFGL Refractories Limited is a subsidiary of Bajoria Financial Services Private Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 1300.59,
-  "pe_ratio": 31.77,
+  "market_cap_cr": 1339.08,
+  "pe_ratio": 32.71,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 163.0,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:33:06.736479",
-  "provider_reported_pb_ratio": 1.11,
-  "statements_retrieved_at": "2026-11-11T23:33:06.736479",
+  "retrieval_time": "2026-11-12T22:05:50.608250",
+  "provider_reported_pb_ratio": 1.14,
+  "statements_retrieved_at": "2026-11-12T22:05:50.608250",
   "retained_fields": []
 }

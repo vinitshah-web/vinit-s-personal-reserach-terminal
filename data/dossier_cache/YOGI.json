@@ -5,8 +5,8 @@
   "industry": "Industrial Distribution",
   "business_summary": "Yogi Limited engages in trading of machines and ancillary products in India. The company operates through Real Estate and Trading in Machinery segments. It is also involved in contracting, building, and development of real estate; acquisition and development of immovable and movable properties; and town planning and infrastructure development activities. In addition, the company engages in renting and leasing properties and assets, including equipment, construction machinery, buildings, plots, vehicles, plants, ships, aircraft, vessels, computers, and other assets. The company was formerly known as Parsharti Investment Limited and changed its name to Yogi Limited in June 2022. Yogi Limited was incorporated in 1992 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 723.55,
-  "pe_ratio": 56.42,
+  "market_cap_cr": 715.95,
+  "pe_ratio": 55.82,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 32.18,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T00:13:55.021137",
-  "provider_reported_pb_ratio": 5.0,
-  "statements_retrieved_at": "2026-11-12T00:13:55.021137",
+  "retrieval_time": "2026-11-12T22:49:28.060528",
+  "provider_reported_pb_ratio": 4.94,
+  "statements_retrieved_at": "2026-11-12T22:49:28.060528",
   "retained_fields": []
 }

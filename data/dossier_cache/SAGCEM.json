@@ -5,7 +5,7 @@
   "industry": "Building Materials",
   "business_summary": "Sagar Cements Limited manufactures and sells cement in India. It offers ordinary Portland, Portland Pozzolana, sulphate resistant Portland, composite cement, and Portland slag cement, as well as ground granulated blast furnace slag. The company was incorporated in 1981 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1863.5,
+  "market_cap_cr": 1848.34,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:57:56.137159",
+  "retrieval_time": "2026-11-12T22:32:28.778609",
   "provider_reported_pb_ratio": 0.97,
-  "statements_retrieved_at": "2026-11-11T23:57:56.137159",
+  "statements_retrieved_at": "2026-11-12T22:32:28.778609",
   "retained_fields": []
 }

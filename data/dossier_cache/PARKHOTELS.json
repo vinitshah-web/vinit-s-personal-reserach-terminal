@@ -5,8 +5,8 @@
   "industry": "Lodging",
   "business_summary": "Apeejay Surrendra Park Hotels Limited owns, operates, and manages hotels in India. The company operates hotels under THE PARK, THE PARK Collection, Zone by The Park, Zone Connect by The Park, and Stop by Zone brands. It also operates restaurants, bars, night clubs, lounges, and caf\u00e9s under the Flurys brand. The company was formerly known as Budget Hotels Limited and changed its name to Apeejay Surrendra Park Hotels Limited in March 2004. Apeejay Surrendra Park Hotels Limited was founded in 1967 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2267.74,
-  "pe_ratio": 35.55,
+  "market_cap_cr": 2256.86,
+  "pe_ratio": 35.37,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 63.27,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:50:59.099790",
-  "provider_reported_pb_ratio": 1.68,
-  "statements_retrieved_at": "2026-11-11T23:50:59.099790",
+  "retrieval_time": "2026-11-12T22:25:19.252622",
+  "provider_reported_pb_ratio": 1.67,
+  "statements_retrieved_at": "2026-11-12T22:25:19.252622",
   "retained_fields": []
 }

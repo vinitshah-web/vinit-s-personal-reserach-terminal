@@ -5,8 +5,8 @@
   "industry": "Waste Management",
   "business_summary": "Nupur Recyclers Limited engages in the import, processing, and trading of ferrous and non-ferrous metals in India. The company imports metal scrap, such as shredded zinc scrap and brass, zinc die cast scrap, Zurik scrap, and aluminium zorba grades. It is also involved in the manufacture and trade of metals. Nupur Recyclers Limited was incorporated in 2019 and is based in Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1186.26,
-  "pe_ratio": 69.25,
+  "market_cap_cr": 1193.79,
+  "pe_ratio": 69.69,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 19.42,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:48:56.841399",
-  "provider_reported_pb_ratio": 8.84,
-  "statements_retrieved_at": "2026-11-11T23:48:56.841399",
+  "retrieval_time": "2026-11-12T22:23:07.466853",
+  "provider_reported_pb_ratio": 8.9,
+  "statements_retrieved_at": "2026-11-12T22:23:07.466853",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Education & Training Services",
   "business_summary": "Veranda Learning Solutions Limited operates as an education company in India. The company offers educational services and integrated learning solutions in online, offline hybrid and offline blended models to students, professional career aspirants, graduates, professionals, and working professionals enrolled with courses through career-defining competitive exams, professional courses, exam-oriented courses, short term upskilling, and reskilling courses. It also provides long term and short-term preparatory courses, as well as preparing for exams, such as UPSC, State Public Service commission, staff selection commission, banking, insurance, railways, software upskilling, and Chartered Accountancy; and customized short term skilling courses, long term courses, and other corporate courses. Veranda Learning Solutions Limited was incorporated in 2018 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 304.57,
-  "pe_ratio": 1.98,
+  "market_cap_cr": 309.98,
+  "pe_ratio": 2.01,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 99.65,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T00:11:13.722643",
+  "retrieval_time": "2026-11-12T22:46:31.619595",
   "provider_reported_pb_ratio": 0.32,
-  "statements_retrieved_at": "2026-11-12T00:11:13.722643",
+  "statements_retrieved_at": "2026-11-12T22:46:31.619595",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Aerospace & Defense",
   "business_summary": "Cyient DLM Limited provides electronic manufacturing solutions in India, NAM, rest of the Asia-Pacific, Europe, the Middle East, and Africa. It offers integrated, electronics, mechanical, and additive manufacturing, as well as value-added services. The company also engages in the machining of components for the aerospace, automotive, and defense industries. It serves aerospace and defense, healthcare and lifesciences, industrial, and automotive industries. The company was incorporated in 1993 and is based in Mysore, India. Cyient DLM Limited operates as a subsidiary of Cyient Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 6279.22,
-  "pe_ratio": 74.83,
+  "market_cap_cr": 6628.51,
+  "pe_ratio": 79.0,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 134.41,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:20:05.873897",
-  "provider_reported_pb_ratio": 5.88,
-  "statements_retrieved_at": "2026-11-11T23:20:05.873897",
+  "retrieval_time": "2026-11-12T21:51:29.731213",
+  "provider_reported_pb_ratio": 6.21,
+  "statements_retrieved_at": "2026-11-12T21:51:29.731213",
   "retained_fields": []
 }

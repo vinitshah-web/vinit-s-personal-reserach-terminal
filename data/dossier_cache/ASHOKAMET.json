@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "Ashoka Metcast Limited engages in the trading of steel, goods, and other products in India. It provides thermo-mechanically treated bars, round, mild steel, and angle bars, and steel channels. The company was incorporated in 2009 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 35.37,
-  "pe_ratio": 2.05,
+  "market_cap_cr": 35.07,
+  "pe_ratio": 2.04,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 50.34,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:11:40.685106",
+  "retrieval_time": "2026-11-12T21:42:27.244544",
   "provider_reported_pb_ratio": 0.28,
-  "statements_retrieved_at": "2026-11-11T23:11:40.685106",
+  "statements_retrieved_at": "2026-11-12T21:42:27.244544",
   "retained_fields": []
 }

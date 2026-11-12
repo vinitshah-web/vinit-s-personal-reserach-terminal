@@ -5,8 +5,8 @@
   "industry": "Banks - Regional",
   "business_summary": "Indian Overseas Bank provides various banking products and services in India and internationally. It operates through Treasury Operations, Corporate/Wholesale Banking Operations, Retail Operations, and Other Banking Operations segments. The company accepts various deposits, such as demand, savings, current, fixed, recurring, tax saver, and term deposits. Its loan products include home, vehicle, jewel, consumer durable, education, reverse mortgage, personal, agricultural, and corporate loans, as well as loan against the property and sovereign gold bond; and micro, small, and medium enterprise loans. The company also provides debit and credit cards, export credit, NRI accounts, agricultural and rural banking products, mutual funds, lockers, merchant banking, and internet and mobile banking services; depository services; and life, health, personal accident, digital, and motor insurance products. It operates branches, ATMs, and business correspondents in India; and overseas branches in Singapore, Hong Kong, Thailand, and Sri Lanka. Indian Overseas Bank was incorporated in 1936 and is headquartered in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 60600.49,
-  "pe_ratio": 9.17,
+  "market_cap_cr": 60870.09,
+  "pe_ratio": 9.22,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 20.95,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:34:42.028199",
-  "provider_reported_pb_ratio": 1.5,
-  "statements_retrieved_at": "2026-11-11T23:34:42.028199",
+  "retrieval_time": "2026-11-12T22:07:37.277070",
+  "provider_reported_pb_ratio": 1.51,
+  "statements_retrieved_at": "2026-11-12T22:07:37.277070",
   "retained_fields": []
 }

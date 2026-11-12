@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "Ashoka Buildcon Limited engages in the construction business in India. It operates through Construction & Contract Related Activity; Built, Operate and Transfer (BOT)/ Annuity Projects; and Sale of Goods segments. The company engages in the construction of infrastructure facilities on engineering, procurement, and construction basis, as well as built, operate, and transfer basis. It also sells ready mixed concrete; and real estate properties. It undertakes various projects, such as highways, bridges, power, buildings, solar, water, airports, and railways. Ashoka Buildcon Limited was founded in 1976 and is based in Nashik, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3210.91,
-  "pe_ratio": 1.31,
+  "market_cap_cr": 3177.51,
+  "pe_ratio": 1.29,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 234.37,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:11:39.445061",
-  "provider_reported_pb_ratio": 0.49,
-  "statements_retrieved_at": "2026-11-11T23:11:39.445061",
+  "retrieval_time": "2026-11-12T21:42:25.844643",
+  "provider_reported_pb_ratio": 0.48,
+  "statements_retrieved_at": "2026-11-12T21:42:25.844643",
   "retained_fields": []
 }

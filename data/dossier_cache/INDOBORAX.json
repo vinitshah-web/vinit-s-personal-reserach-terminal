@@ -5,8 +5,8 @@
   "industry": "Chemicals",
   "business_summary": "Indo Borax & Chemicals Limited manufactures and sells boron-based products in India. It offers borax products, such as decahydrate crystals and granular; boric acid products that include boric acid Indian pharmacopoeia grade, and technical grade granular, and powders; boron oxide; and disodium octaborate tetrahydrate. It also manufactures and sells fine chemicals, inorganic chemicals, phosphates, and metallic chemicals. The company was incorporated in 1980 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1230.65,
-  "pe_ratio": 21.84,
+  "market_cap_cr": 1236.27,
+  "pe_ratio": 21.94,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 120.47,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:33:46.968793",
-  "provider_reported_pb_ratio": 3.18,
-  "statements_retrieved_at": "2026-11-11T23:33:46.968793",
+  "retrieval_time": "2026-11-12T22:06:35.635167",
+  "provider_reported_pb_ratio": 3.2,
+  "statements_retrieved_at": "2026-11-12T22:06:35.635167",
   "retained_fields": []
 }

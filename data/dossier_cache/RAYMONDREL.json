@@ -5,8 +5,8 @@
   "industry": "Real Estate - Development",
   "business_summary": "Raymond Realty Limited, through its subsidiaries, engages in the development and sale of housing projects in India. Its projects include residential and commercial properties. The company was formerly known as Raymond Lifestyle Limited and changed its name to Raymond Realty Limited in January 2024. The company was founded in 1925 and is headquartered in Thane, India. Raymond Realty Limited operates as a subsidiary of Raymond Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 3712.72,
-  "pe_ratio": 12.66,
+  "market_cap_cr": 3985.01,
+  "pe_ratio": 13.59,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 243.66,
@@ -48,8 +48,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:55:40.225400",
-  "provider_reported_pb_ratio": 2.29,
-  "statements_retrieved_at": "2026-11-11T23:55:40.225400",
+  "retrieval_time": "2026-11-12T22:29:57.685523",
+  "provider_reported_pb_ratio": 2.45,
+  "statements_retrieved_at": "2026-11-12T22:29:57.685523",
   "retained_fields": []
 }

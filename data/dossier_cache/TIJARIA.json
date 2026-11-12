@@ -5,7 +5,7 @@
   "industry": "Building Products & Equipment",
   "business_summary": "Tijaria Polypipes Limited engages in the manufacture and sale of various types of plastic pipes in India. The company offers high density polyethylene (HDPE) pipes and coils, permanently lubricated (PLB) HDPE ducts, HDPE double wall corrugated structured-wall pipes, HDPE sprinkler systems, medium density polyethylene pipes, unplasticised poly vinyl chloride (uPVC) rigid pipes, uPVC elastomeric seal ring fit pipes, SWR pipes and fittings, PVC-U underground drainage and sewerage pipes. It also provides sprinkler irrigation systems, drip-irrigation systems, mini sprinkler systems, green house, micro irrigation, electrical uPVC conduit pipes and fittings, and DWC and uPVC casing pipes. The company was founded in 1982 and is based in Jaipur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 18.57,
+  "market_cap_cr": 18.63,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T00:08:10.200505",
+  "retrieval_time": "2026-11-12T22:43:15.994151",
   "provider_reported_pb_ratio": -0.54,
-  "statements_retrieved_at": "2026-11-12T00:08:10.200505",
+  "statements_retrieved_at": "2026-11-12T22:43:15.994151",
   "retained_fields": []
 }

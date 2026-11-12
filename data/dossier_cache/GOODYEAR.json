@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Goodyear India Limited manufactures and sells tyres, tubes, and flaps under the Goodyear brand in India. The company offers automotive tyres, such as farm tyres and commercial truck tyres; and passenger car tyres. It is also involved in the trading of tyres, tubes, and flaps. The company serves original equipment manufacturers for tractors, passenger car owners, fleet operators, the export market, and ancillary buyers for tubes and flaps. It also exports its products. Goodyear India Limited was founded in 1898 and is based in Gurugram, India. The company operates as a subsidiary of Goodyear Orient Company (Private) Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 1586.86,
-  "pe_ratio": 29.44,
+  "market_cap_cr": 1583.4,
+  "pe_ratio": 29.37,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 262.8,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:28:23.648406",
-  "provider_reported_pb_ratio": 2.62,
-  "statements_retrieved_at": "2026-11-11T23:28:23.648406",
+  "retrieval_time": "2026-11-12T22:00:32.194245",
+  "provider_reported_pb_ratio": 2.61,
+  "statements_retrieved_at": "2026-11-12T22:00:32.194245",
   "retained_fields": []
 }

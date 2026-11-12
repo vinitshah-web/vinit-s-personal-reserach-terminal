@@ -5,8 +5,8 @@
   "industry": "Entertainment",
   "business_summary": "DEN Networks Limited, a media and entertainment company, engages in the distribution of television channels to households through a digital cable distribution network in India. The company operates through two segments: Cable and Broadband. It distributes and promotes television channels; supplies set-top boxes and related equipment; and provides visual entertainment through cable TV, over-the-top entertainment, and broadband services, as well as offers internet services. The company was incorporated in 2007 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1269.15,
-  "pe_ratio": 8.48,
+  "market_cap_cr": 1273.92,
+  "pe_ratio": 8.51,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 80.43,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:21:06.153587",
+  "retrieval_time": "2026-11-12T21:52:33.789397",
   "provider_reported_pb_ratio": 0.33,
-  "statements_retrieved_at": "2026-11-11T23:21:06.153587",
+  "statements_retrieved_at": "2026-11-12T21:52:33.789397",
   "retained_fields": []
 }

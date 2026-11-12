@@ -5,15 +5,15 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "Axtel Industries Limited manufactures, supplies, and sells process engineering equipment and turnkey systems for food processing and pharmaceutical industries in India and internationally. The company provides solids handling equipment, such as sack tip stations, bulk loaders, belt conveyors, cyclones, reverse jet filters, screw feeders with valve, metering screw feeders, magnets, dual tunnel diverter valves, blowers, idler roller conveyors, Z-bucket elevators, dump booth, and octabin and tote tilters. It also offers storage and discharge equipment comprising bag handling systems, storage tanks, intermediate bulk containers, rotary vane valves, table feeders, bin activators, pneumatic knife gate and butterfly valves, cone discharge, bagging stations, liquified injection pressure tanks, and storage bins. In addition, the company provides sieving and straining and grading equipment, including rotary and gyratory sifters, inline rotary and gyratory sifters, graders, screeners, destoners, zig zag classifiers, chocolate vibrosieve, and vacuum gravity separators; and size reduction equipment consists of hammer and universal mills, nibblers, lump breakers, cone and knife mills, shredders, and roller mills. Further, it offers mixing and blending process equipment, such as vertical single and twin shaft mixers, paste mixers, horizontal round and U-trough mixers, liquifiers, intensive mixers, and double cone blenders. Additionally, the company provides specialized process equipment, including steam sterilizers, molding line cooling tunnels, curved and dryer conveyors, chocolate depositors, temperors, thermoregulation units, extruders, cryogenic mixers, khoa making machines, dewatering screw presses, vacuum cabinet and band dryers, scraped surface heat exchangers, IBC/big bag filling machines, horizontal wiped film evaporators, shell and tube heat exchangers, steaming tunnels, and dough kneaders. Axtel Industries Limited was incorporated in 1991 and is based in Halol, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 607.74,
-  "pe_ratio": 19.47,
+  "market_cap_cr": 600.72,
+  "pe_ratio": 19.25,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 80.56,
-  "dividend_yield_pct": 3.125,
+  "dividend_yield_pct": 3.1898,
   "shares_outstanding_cr": 1.6155,
   "fifty_two_week_high": 459.9,
-  "fifty_two_week_low": 372.0,
+  "fifty_two_week_low": 368.1,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:13:00.135393",
-  "provider_reported_pb_ratio": 4.67,
-  "statements_retrieved_at": "2026-11-11T23:13:00.135393",
+  "retrieval_time": "2026-11-12T21:43:54.533393",
+  "provider_reported_pb_ratio": 4.62,
+  "statements_retrieved_at": "2026-11-12T21:43:54.533393",
   "retained_fields": []
 }

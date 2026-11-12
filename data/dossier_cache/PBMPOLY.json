@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "PBM Polytex Limited manufactures and sells cotton yarns in India and internationally. It offers single and double count yarns; and gassed products. The company also operates yarn spinning units, windmills and solar power plants. It also exports its products. The company was formerly known as The Petlad Bulakhidas Mills Co. Ltd. and changed to PBM Polytex Limited in 1978. PBM Polytex Limited was incorporated in 1919 and is based in Vadodara, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 39.9,
-  "pe_ratio": 21.56,
+  "market_cap_cr": 41.51,
+  "pe_ratio": 22.43,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 165.13,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:51:16.617685",
-  "provider_reported_pb_ratio": 0.35,
-  "statements_retrieved_at": "2026-11-11T23:51:16.617685",
+  "retrieval_time": "2026-11-12T22:25:37.890622",
+  "provider_reported_pb_ratio": 0.37,
+  "statements_retrieved_at": "2026-11-12T22:25:37.890622",
   "retained_fields": []
 }

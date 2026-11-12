@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "India Nippon Electricals Limited manufactures and sells electronic ignition systems for the automotive industry in India and internationally. The company offers AC Generator/ Flywheel Magneto, Regulator and Rectifier, Integral Unit, and Ignition Coil; Controllers, such as Integrated Starter Generator and controller, electronic fuel injection, and electronic control units. It also provides position, angle, pressure, temperature, oil-level, and speed sensors. In addition, the company offers DC-DC converters, tyre pressure monitoring system, traction motors, and motor controllers. Its products have applications in two-wheelers, three-wheelers, small gasoline engines, portable gensets, general purpose engines, and non-automotive industries. The company was incorporated in 1984 and is based in Chennai, India. India Nippon Electricals Limited is a subsidiary of Lucas Indian Service Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 2655.3,
-  "pe_ratio": 23.09,
+  "market_cap_cr": 2851.88,
+  "pe_ratio": 24.8,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 363.08,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:33:44.701811",
-  "provider_reported_pb_ratio": 3.23,
-  "statements_retrieved_at": "2026-11-11T23:33:44.701811",
+  "retrieval_time": "2026-11-12T22:06:32.633277",
+  "provider_reported_pb_ratio": 3.47,
+  "statements_retrieved_at": "2026-11-12T22:06:32.633277",
   "retained_fields": []
 }

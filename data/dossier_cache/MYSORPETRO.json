@@ -6,7 +6,7 @@
   "business_summary": "Mysore Petro Chemicals Limited engages in the manufacturing and trading of petrochemical products in India. The company offers ortho xylene, phthalic anhydride, maleic anhydride, benzoic acid, and other petrochemical products. It also manufactures recycled PET flakes from PET waste bottles that are used in thermoforming applications of food packaging, textiles polyester, and straps. The company was incorporated in 1969 and is based in Mumbai, India.",
   "business_summary_reason": null,
   "market_cap_cr": null,
-  "pe_ratio": 7.78,
+  "pe_ratio": 7.95,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 341.54,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:46:38.819396",
-  "provider_reported_pb_ratio": 0.37,
-  "statements_retrieved_at": "2026-11-11T23:46:38.819396",
+  "retrieval_time": "2026-11-12T22:20:37.687565",
+  "provider_reported_pb_ratio": 0.38,
+  "statements_retrieved_at": "2026-11-12T22:20:37.687565",
   "retained_fields": []
 }

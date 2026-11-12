@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "Kamdhenu Limited engages in manufacturing, marketing, branding, and distribution of thermo mechanical treatment (TMT) bars, structural steel, and allied products under the Kamdhenu brand name in India. The company offers steel rebars, structural steel products, and colour coated profile sheets. It also provides a range of shapes and sizes, including angles, channels, beams, flats, and MS pipes. It offers its products through a network of dealers and distributors. The company was formerly known as Kamdhenu Ispat Limited and changed its name to Kamdhenu Limited in January 2016. Kamdhenu Limited was incorporated in 1994 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1033.66,
-  "pe_ratio": 11.6,
+  "market_cap_cr": 1040.43,
+  "pe_ratio": 11.68,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 15.36,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:37:19.774709",
-  "provider_reported_pb_ratio": 2.39,
-  "statements_retrieved_at": "2026-11-11T23:37:19.774709",
+  "retrieval_time": "2026-11-12T22:10:26.934762",
+  "provider_reported_pb_ratio": 2.4,
+  "statements_retrieved_at": "2026-11-12T22:10:26.934762",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "Gala Precision Engineering Limited manufactures and sells precision components in India and internationally. The company offers technical springs that include disc springs, spring packs, coil springs, spiral springs, and strip springs and high tensile fasteners, such as threaded rods, studs, foundation anchor bolts, hexagonal bolts, flange bolts, allen bolts, cup bolts, hexagonal nuts, flange nuts, gallock wedge lock washers, and grip lock washers. It serves renewable energy, agricultural equipment, construction and mining equipment, electrical and automation, fastener distributors, general, and infrastructure, railways, and automotive industries. Gala Precision Engineering Limited was founded in 1989 and is based in Thane, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1599.85,
-  "pe_ratio": 44.03,
+  "market_cap_cr": 1576.91,
+  "pe_ratio": 43.4,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 228.86,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:26:21.276973",
-  "provider_reported_pb_ratio": 5.45,
-  "statements_retrieved_at": "2026-11-11T23:26:21.276973",
+  "retrieval_time": "2026-11-12T21:58:16.427054",
+  "provider_reported_pb_ratio": 5.38,
+  "statements_retrieved_at": "2026-11-12T21:58:16.427054",
   "retained_fields": []
 }

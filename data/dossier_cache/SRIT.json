@@ -5,8 +5,8 @@
   "industry": "Information Technology Services",
   "business_summary": "SRIT India Limited provides information technology and information technology enabled services in India and Internationally. It offers digital solutions and automations of systems through custom application development and integration services. The company through healthcare vertical, it provides integrated healthcare information technology solutions, such as information systems, revenue cycle management, digital health platforms and related system integration, implementation and maintenance services; through electronic governance vertical, it offers design, development, implementation and maintenance of e-governance platforms, cybersecurity solutions, enterprise software, and integrated digital service delivery systems for government and enterprise clients; and through telecommunications and broadband vertical, it provides networking, connectivity, system integration and managed services for telecommunications, broadband and digital infrastructure projects. The company was incorporated in 1999 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 790.93,
-  "pe_ratio": 18.26,
+  "market_cap_cr": 851.15,
+  "pe_ratio": 19.65,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 40.71,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T00:04:17.751549",
-  "provider_reported_pb_ratio": 3.02,
-  "statements_retrieved_at": "2026-11-12T00:04:17.751549",
+  "retrieval_time": "2026-11-12T22:39:03.202459",
+  "provider_reported_pb_ratio": 3.25,
+  "statements_retrieved_at": "2026-11-12T22:39:03.202459",
   "retained_fields": []
 }

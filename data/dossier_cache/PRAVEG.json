@@ -5,7 +5,7 @@
   "industry": "Advertising Agencies",
   "business_summary": "Praveg Limited provides advertising and hospitality services and organizes and manages events and exhibitions in India. The company offers hotel services, including accommodation/rooms, dining, bar, banquets, conference, meeting rooms, spa, fitness center, and swimming pool; organizes events, exhibitions, conventions, and trade shows, as well as related assistance services; engages in the sale of food and beverages; operates hotels and resorts; and publishes related magazine Praveg's Tourism One. It serves tourists, event and conference attendees, wedding guests, food and beverage patrons, and business travelers. The company also offers vegetarian dining, wellness and recreational facilities, event venues, out-of-home (OOH) advertising, smart toilet infrastructure advertising, and digital marketing services. The company was formerly known as Praveg Communications (India) Limited and changed its name to Praveg Limited in December 2022. Praveg Limited was incorporated in 1995 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 552.07,
+  "market_cap_cr": 535.75,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:52:58.416942",
-  "provider_reported_pb_ratio": 1.23,
-  "statements_retrieved_at": "2026-11-11T23:52:58.416942",
+  "retrieval_time": "2026-11-12T22:27:29.657538",
+  "provider_reported_pb_ratio": 1.19,
+  "statements_retrieved_at": "2026-11-12T22:27:29.657538",
   "retained_fields": []
 }

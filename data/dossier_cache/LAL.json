@@ -5,8 +5,8 @@
   "industry": "Apparel Manufacturing",
   "business_summary": "Monteil Limited designs, manufactures, markets, and distributes ready-made garments in India. The company offers formal, semi-formal, and casual wears for men under the Monteil brand name. It sells its products through retail outlets, online, and third-party e-commerce marketplaces. The company was formerly known as Lorenzini Apparels Limited and changed its name to Monteil Limited in October 2026. The company was incorporated in 2007 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 183.1,
-  "pe_ratio": 33.13,
+  "market_cap_cr": 175.67,
+  "pe_ratio": 31.78,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 2.98,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:39:46.605772",
-  "provider_reported_pb_ratio": 3.55,
-  "statements_retrieved_at": "2026-11-11T23:39:46.605772",
+  "retrieval_time": "2026-11-12T22:13:04.929495",
+  "provider_reported_pb_ratio": 3.41,
+  "statements_retrieved_at": "2026-11-12T22:13:04.929495",
   "retained_fields": []
 }

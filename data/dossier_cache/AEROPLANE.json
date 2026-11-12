@@ -5,14 +5,14 @@
   "industry": "Farm Products",
   "business_summary": "Amir Chand Jagdish Kumar (Exports) Limited engages in the procurement, storage, processing, producing, marketing, exports, and sale of rice and other FMCG products in India. Its products are categorized into two segments: Rice and FMCG. The Rice segment includes basmati rice and other specialty rice such as kolam rice, sona masuri, idli rice and ponni rice, and is further classified into premium, medium, value and HORECA categories based on the type and blend of grain, brands, target customers and price range. The FMCG segment includes kitchen essential products such as wheat flour (atta), refined wheat flour (maida), gram flour (besan), semolina (sooji), salt, sugar, instant phirni and idli rice flour. The company offers its products under the AEROPLANE, Aeroplane La-Taste, Aeroplane Classic, Aeroplane Brown Rice, Ali baba, World Cup, and Jet brand names. The company was incorporated in 2003 and is based in Jind, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2548.09,
-  "pe_ratio": 19.22,
+  "market_cap_cr": 2514.54,
+  "pe_ratio": 18.97,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 95.79,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 10.3552,
-  "fifty_two_week_high": 248.0,
+  "fifty_two_week_high": 252.0,
   "fifty_two_week_low": 117.02,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:08:05.844689",
-  "provider_reported_pb_ratio": 2.57,
-  "statements_retrieved_at": "2026-11-11T23:08:05.844689",
+  "retrieval_time": "2026-11-12T21:38:28.860914",
+  "provider_reported_pb_ratio": 2.54,
+  "statements_retrieved_at": "2026-11-12T21:38:28.860914",
   "retained_fields": []
 }

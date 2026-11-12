@@ -5,8 +5,8 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "Jyoti CNC Automation Limited engages in the manufacture and sale of metal cutting computer numerical control machines in India, rest of Asia, Europe, the Middle East, North America, South America, and Africa. The company's product portfolio includes CNC turning centers, CNC turn mill centers, CNC vertical machining centers, CNC horizontal machining centers, CNC 5 axis machining centers, and CNC multi-tasking machines. It serves the aerospace, agriculture, automobile, diamond and jewellery, die and mould, electronics manufacturing services, general engineering, tele-communication, infrastructure, medical, oil and gas, power, pumps and valves, and railway industries. The company was incorporated in 1989 and is based in Rajkot, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 23851.0,
-  "pe_ratio": 77.28,
+  "market_cap_cr": 24379.76,
+  "pe_ratio": 79.0,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 93.97,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:37:01.393240",
-  "provider_reported_pb_ratio": 11.16,
-  "statements_retrieved_at": "2026-11-11T23:37:01.393240",
+  "retrieval_time": "2026-11-12T22:10:07.552458",
+  "provider_reported_pb_ratio": 11.41,
+  "statements_retrieved_at": "2026-11-12T22:10:07.552458",
   "retained_fields": []
 }

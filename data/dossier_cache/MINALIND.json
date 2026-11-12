@@ -5,8 +5,8 @@
   "industry": "Luxury Goods",
   "business_summary": "Minal Industries Limited operates as a diamantaire, and jewelry and engineering company worldwide. The company is involved in the manufacture and export of diamond studded gold and silver jewelry. It also provides dropshipping and custom jewelry design services. Minal Industries Limited was incorporated in 1988 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 62.18,
-  "pe_ratio": 81.0,
+  "market_cap_cr": 61.02,
+  "pe_ratio": 79.5,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 2.77,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:44:21.669185",
-  "provider_reported_pb_ratio": 1.17,
-  "statements_retrieved_at": "2026-11-11T23:44:21.669185",
+  "retrieval_time": "2026-11-12T22:18:09.726823",
+  "provider_reported_pb_ratio": 1.15,
+  "statements_retrieved_at": "2026-11-12T22:18:09.726823",
   "retained_fields": []
 }

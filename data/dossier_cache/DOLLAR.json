@@ -5,8 +5,8 @@
   "industry": "Apparel Manufacturing",
   "business_summary": "Dollar Industries Limited manufactures and sells hosiery products in knitted inner wears, casual wears, and thermal wears in India and internationally. The company offers vests, briefs, trunks, gym vests, socks, tank tops, crew necks, polos, henley, bermudas, capri, track pants, and joggers for men; camisoles, panties, leggings, socks, leg wears, kurti, and casual wears for women; and T-shirts, socks, and trousers for children, as well as safety mask and personal protective equipment PPE kit. It also operates power generation unit sourced from windmill and solar energies. The company offers its products under the BigBoss, J-Class, Athleisure, Missy, Champion, Force NXT, Force Gowear, Pepe jeans, Lehar, Ultra, Wintercare, and Dollar Protect brands. It also exports its products to the United Arab Emirates, Oman, Qatar, Kuwait, Bahrain, Iraq, Saudi Arabia, Afghanistan, Nepal, Myanmar, Georgia, Sri Lanka, Somalia, Tanzania, Mozambique, Nigeria, and Kenya. The company was founded in 1972 and is headquartered in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1529.75,
-  "pe_ratio": 13.64,
+  "market_cap_cr": 1524.98,
+  "pe_ratio": 13.6,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 167.26,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:22:06.704673",
+  "retrieval_time": "2026-11-12T21:53:37.565816",
   "provider_reported_pb_ratio": 1.61,
-  "statements_retrieved_at": "2026-11-11T23:22:06.704673",
+  "statements_retrieved_at": "2026-11-12T21:53:37.565816",
   "retained_fields": []
 }

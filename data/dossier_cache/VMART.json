@@ -5,8 +5,8 @@
   "industry": "Department Stores",
   "business_summary": "V-Mart Retail Limited operates a chain of retail departmental stores in India. The company offers casual, formal, ethnic, sports, inner, and night wear for men, women, and kids. It also provides accessories and non-apparel products, such as beauty and fashion accessories, footwear, home needs, bags/luggage, toys, and tech wearables and audio accessories; and general merchandise products, including personal and home essentials, package food, non-food, and staples; as well as home furnishings. The company was incorporated in 2002 and is headquartered in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 6102.54,
-  "pe_ratio": 46.81,
+  "market_cap_cr": 6112.09,
+  "pe_ratio": 46.89,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 123.4,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T00:12:27.116162",
-  "provider_reported_pb_ratio": 6.21,
-  "statements_retrieved_at": "2026-11-12T00:12:27.116162",
+  "retrieval_time": "2026-11-12T22:47:52.117434",
+  "provider_reported_pb_ratio": 6.22,
+  "statements_retrieved_at": "2026-11-12T22:47:52.117434",
   "retained_fields": []
 }

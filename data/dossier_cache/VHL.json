@@ -5,8 +5,8 @@
   "industry": "Asset Management",
   "business_summary": "Vardhman Holdings Limited operates as a non-banking financial company in India. It primarily engages in investing activities. The company was formerly known as Vardhman Spinning and General Mills Limited and changed its name to Vardhman Holdings Limited in March 2006. Vardhman Holdings Limited was incorporated in 1962 and is based in Ludhiana, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1134.05,
-  "pe_ratio": 4.51,
+  "market_cap_cr": 1156.93,
+  "pe_ratio": 4.6,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 11798.98,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T00:11:23.281672",
-  "provider_reported_pb_ratio": 0.3,
-  "statements_retrieved_at": "2026-11-12T00:11:23.281672",
+  "retrieval_time": "2026-11-12T22:46:41.448885",
+  "provider_reported_pb_ratio": 0.31,
+  "statements_retrieved_at": "2026-11-12T22:46:41.448885",
   "retained_fields": []
 }

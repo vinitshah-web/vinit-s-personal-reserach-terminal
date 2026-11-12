@@ -5,7 +5,7 @@
   "industry": "Entertainment",
   "business_summary": "GTPL Hathway Limited, together with its subsidiaries, provides digital cable television and broadband services in India. It operates through three segments: Cable Television, Internet Service, and Other. The company engages in the distribution of television channels through digital cable distribution network. It has a network of optical fiber cable; and offers broadband services under the GTPL FIBER brand name. In addition, the company acts as an internet service provider. GTPL Hathway Limited was incorporated in 2006 and is headquartered in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 613.04,
+  "market_cap_cr": 603.03,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:29:46.850717",
-  "provider_reported_pb_ratio": 0.56,
-  "statements_retrieved_at": "2026-11-11T23:29:46.850717",
+  "retrieval_time": "2026-11-12T22:02:03.708317",
+  "provider_reported_pb_ratio": 0.55,
+  "statements_retrieved_at": "2026-11-12T22:02:03.708317",
   "retained_fields": []
 }

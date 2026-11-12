@@ -5,8 +5,8 @@
   "industry": "Packaged Foods",
   "business_summary": "Bikaji Foods International Limited, together with its subsidiaries, manufactures, purchases, and sells snack food products in India and internationally. It offers sweets, pellets, bhujia, namkeen, papad, chips, and other snacks, as well as frozen food products, gift packs, mathris, and cookies under the Bikaji brand. The company sells its products through general trade, supermarkets, hypermarkets, convenience stores and mini markets, wholesalers, and distributors, as well as online channels. In addition, it engages in the operation of quick service restaurant and caf\u00e9 businesses, and retail stores; manufacturing and selling snacks under the InDine brand; contract manufacturing services for various third parties; and manufacturing, marketing, distributing, and selling of savory, samosa, naan, paratha, etc. Further, the company offers bakery products, such as croissants, breads, viennoiseries, cakes, pastries, doughnuts, brownies, and other bakery products. The company was formerly known as Shivdeep Industries Limited and changed its name to Bikaji Foods International Limited in October 2011. Bikaji Foods International Limited was founded in 1986 and is headquartered in Bikaner, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 12208.35,
-  "pe_ratio": 48.98,
+  "market_cap_cr": 12355.04,
+  "pe_ratio": 49.57,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 68.02,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:15:14.105028",
-  "provider_reported_pb_ratio": 7.16,
-  "statements_retrieved_at": "2026-11-11T23:15:14.105028",
+  "retrieval_time": "2026-11-12T21:46:19.279502",
+  "provider_reported_pb_ratio": 7.24,
+  "statements_retrieved_at": "2026-11-12T21:46:19.279502",
   "retained_fields": []
 }

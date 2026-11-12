@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "R.P.P. Infra Projects Limited, together with its subsidiaries, engages in the construction and infrastructure development activities in India and internationally. It operates through three segments: Buildings, Water Management, and Infrastructure. The company undertakes construction across multiple infrastructure verticals like roads, buildings, industrial structures, power, irrigation, and water management. It also engages in construction contracts; non-specialised wholesale trade; Real estate development; deals in various merchandise and articles; and infrastructure project related consultancy services. In addition, the company acts as a distributor, agent, trader, merchant, contractor, broker, clearing agents, freight contractors, forwarding agents, licensing agents, and general brokers, as well as a special purpose vehicle for foreign investments. R.P.P. Infra Projects Limited was founded in 1988 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 225.52,
-  "pe_ratio": 54.8,
+  "market_cap_cr": 223.09,
+  "pe_ratio": 54.2,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 107.86,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:57:07.345304",
+  "retrieval_time": "2026-11-12T22:31:35.220285",
   "provider_reported_pb_ratio": 0.42,
-  "statements_retrieved_at": "2026-11-11T23:57:07.345304",
+  "statements_retrieved_at": "2026-11-12T22:31:35.220285",
   "retained_fields": []
 }

@@ -5,7 +5,7 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Seya Industries Limited manufactures and sells specialty chemicals in India and internationally. The company offers pigment intermediates, such as 3,3 dichloro benzidine, and para and ortho nitro aniline; mono, para, and ortho chloro benzenes; para, ortho, meta, and 2,4 nitro chloro benzenes; and sulphuric, hydrochloric, and nitric acids. Its products are used in pharmaceuticals, personal and health care products, printing inks and paints, agrochemicals, insecticides/pesticides, rubber chemicals, textile dyes, thermic fluids, etc. The company was formerly known as Sriman Organic Chemical Industries Limited and changed its name to Seya Industries Limited in June 2011. Seya Industries Limited was incorporated in 1990 and is based in Palghar, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 35.0,
+  "market_cap_cr": 35.48,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T00:00:29.638546",
+  "retrieval_time": "2026-11-12T22:34:59.142876",
   "provider_reported_pb_ratio": 0.04,
-  "statements_retrieved_at": "2026-11-12T00:00:29.638546",
+  "statements_retrieved_at": "2026-11-12T22:34:59.142876",
   "retained_fields": []
 }

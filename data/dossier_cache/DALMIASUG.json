@@ -5,8 +5,8 @@
   "industry": "Confectioners",
   "business_summary": "Dalmia Bharat Sugar and Industries Limited engages in the sugar business in India and internationally. It operates through Sugar, Distillery, and Others segments. The company offers refined sugar and double sulphitation sugars; alcohol-based hand sanitizers; and sulphur free white crystal sugar and natural brown sugar under the Dalmia Utsav brand name. It also provides alcohol, including rectified spirits, extra neutral alcohol/hydrous alcohol, denatured spirits, and ethanol or anhydrous ethanol, as well as organic manure products. In addition, the company generates renewable energy through co-generation plants with a capacity of 138 MW; operates wind farms with capacity of 16.5 MW; and produce bagasse-based power with a capacity of 118 MW. The company was incorporated in 1951 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3862.83,
-  "pe_ratio": 19.01,
+  "market_cap_cr": 3911.8,
+  "pe_ratio": 15.75,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 405.5,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:20:11.109396",
-  "provider_reported_pb_ratio": 1.18,
-  "statements_retrieved_at": "2026-11-11T23:20:11.109396",
+  "retrieval_time": "2026-11-12T21:51:34.902552",
+  "provider_reported_pb_ratio": 1.19,
+  "statements_retrieved_at": "2026-11-12T21:51:34.902552",
   "retained_fields": []
 }

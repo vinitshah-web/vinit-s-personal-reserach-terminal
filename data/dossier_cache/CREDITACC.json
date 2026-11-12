@@ -5,8 +5,8 @@
   "industry": "Credit Services",
   "business_summary": "CreditAccess Grameen Limited, a non-banking financial company, provides micro finance services for women from poor and low-income households in India. The company offers microcredit loans for income generation, home improvement, emergency, family welfare, and Grameen Unnati, as well as Grameen Suraksha, Grameen Sanchay, life insurance, and national pension schemes. It also provides retail finance loans, such as Grameen Vikas, Unnati loan, Grameen two-wheeler, Grameen Vishesh loan, and Grameen housing loan. In addition, the company offers digital lending products comprising Grameen Mahi, a customer app, Pragathi digital and multi-purpose digital loans. The company was formerly known as Grameen Koota Financial Services Private Limited and changed its name to CreditAccess Grameen Limited in January 2018. CreditAccess Grameen Limited was incorporated in 1991 and is headquartered in Bengaluru, India. CreditAccess Grameen Limited is a subsidiary of CreditAccess India BV.",
   "business_summary_reason": null,
-  "market_cap_cr": 17361.41,
-  "pe_ratio": 10.99,
+  "market_cap_cr": 17633.88,
+  "pe_ratio": 11.16,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 556.05,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:19:37.292783",
-  "provider_reported_pb_ratio": 1.95,
-  "statements_retrieved_at": "2026-11-11T23:19:37.292783",
+  "retrieval_time": "2026-11-12T21:50:58.481158",
+  "provider_reported_pb_ratio": 1.98,
+  "statements_retrieved_at": "2026-11-12T21:50:58.481158",
   "retained_fields": []
 }

@@ -5,14 +5,14 @@
   "industry": "Medical Care Facilities",
   "business_summary": "Kovai Medical Center and Hospital Limited operates a multispecialty hospital and its satellite centers in India. It operates through two segments, Healthcare Services and Education Services. The company offers outpatient and inpatient medical services in the fields of cardiology, cardiac anesthesiology, cardiovascular and thoracic surgery, comprehensive cancer center, critical care medicine, dentistry/faciomaxillary surgery, dermatology and cosmetic dermatology, electrophysiology, emergency services, endocrinology and diabetology, ENT/head and neck, fertility and reproductive medicine, gastroenterology and hepatology, general/laparoscopic surgery, hematology, internal medicine, interventional radiology, liver institute, laboratory medicine, neonatology, nephrology/urology, neurosciences, nuclear medicine and PET CT, obstetrics and gynecology, organ transplant program, orthopedics and joint replacement, pediatrics, pediatric surgery, pediatric intensive care unit, physical medicine and rehabilitation, psychological medicine, pulmonology, and rheumatology. It also provides preventive health check-ups. In addition, the company operates a medical college that provides postgraduate programs in neurology, pediatrics, psychiatry, orthopedics, and cardiopulmonary care. It serves out-patients, in-patients, and the common public. Kovai Medical Center and Hospital Limited was incorporated in 1985 and is based in Coimbatore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 6706.51,
-  "pe_ratio": 26.54,
+  "market_cap_cr": 7144.75,
+  "pe_ratio": 28.28,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
-  "book_value": 1205.66,
+  "book_value": 1326.86,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.0942,
-  "fifty_two_week_high": 6444.0,
+  "fifty_two_week_high": 6750.0,
   "fifty_two_week_low": 2576.65,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:38:57.236249",
-  "provider_reported_pb_ratio": 5.08,
-  "statements_retrieved_at": "2026-11-11T23:38:57.236249",
+  "retrieval_time": "2026-11-12T22:12:12.838195",
+  "provider_reported_pb_ratio": 4.92,
+  "statements_retrieved_at": "2026-11-12T22:12:12.838195",
   "retained_fields": []
 }

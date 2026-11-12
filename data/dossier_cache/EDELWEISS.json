@@ -5,8 +5,8 @@
   "industry": "Financial Conglomerates",
   "business_summary": "Edelweiss Financial Services Limited, an investment company, provides financial products and services to corporations, institutions, and individuals in India. It offers credit products, such as home, small and medium-sized enterprise, and business loans; and investment banking services. The company also provides asset management, mutual funds, alternative asset advisory, asset reconstruction, asset resolution, and housing finance services. In addition, it offers life and general insurance products, and advisory services, as well as engages in lending, investment, and custodian and CSR activities. The company was formerly known as Edelweiss Capital Limited and changed its name to Edelweiss Financial Services Limited in August 2011. Edelweiss Financial Services Limited was incorporated in 1995 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 12459.32,
-  "pe_ratio": 17.62,
+  "market_cap_cr": 12608.87,
+  "pe_ratio": 17.83,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 48.84,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:23:02.253892",
-  "provider_reported_pb_ratio": 2.69,
-  "statements_retrieved_at": "2026-11-11T23:23:02.253892",
+  "retrieval_time": "2026-11-12T21:54:37.344861",
+  "provider_reported_pb_ratio": 2.73,
+  "statements_retrieved_at": "2026-11-12T21:54:37.344861",
   "retained_fields": []
 }

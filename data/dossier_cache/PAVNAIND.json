@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Pavna Industries Limited, together with its subsidiaries, manufactures and sells automotive components for reputed original equipment manufacturers in India and internationally. The company's automotive components include ignition switches, fuel tank caps, latches, auto locks, handles, switches, oil pump, carburettor, throttle body, fuel cocks, injection system, casting components etc.; and aftermarket products comprising filters, clutch plates, bearings, wiper blades, and brake shoes. It also offers steering cum ignition switches, bag hook, assy balancer idler holder, cap strainer, cover comp centrifugal oil filter, clutch and brake lever with bracket, small and big nut; auto decompression unit, oil pump, and chain tensioner; and accessories, such as wheel, helmet, disc brake, and cable locks, as well as horns and foot rests. In addition, the company provides aftermarket sales and services. It offers its components for passenger vehicles, two-wheelers, three-wheelers, heavy and light commercial vehicles, off-road vehicles, and electric vehicles. Pavna Industries Limited was formerly known as Pavna Zadi Security Systems Limited and changed its name to Pavna Industries Limited in May 2019. Pavna Industries Limited was incorporated in 1971 and is based in Aligarh, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 201.76,
-  "pe_ratio": 11.12,
+  "market_cap_cr": 195.9,
+  "pe_ratio": 10.8,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 14.25,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:51:14.074604",
-  "provider_reported_pb_ratio": 1.02,
-  "statements_retrieved_at": "2026-11-11T23:51:14.074604",
+  "retrieval_time": "2026-11-12T22:25:35.301406",
+  "provider_reported_pb_ratio": 0.99,
+  "statements_retrieved_at": "2026-11-12T22:25:35.301406",
   "retained_fields": []
 }

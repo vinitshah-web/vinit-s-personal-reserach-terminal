@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "Sadbhav Infrastructure Project Limited, together with its subsidiaries, engages in the development, construction, operation, and maintenance of infrastructure projects in India. The company constructs and manages roadways and highways. It is also involved in the infrastructure development, including built operate and transfer/hybrid annuity projects and related activities. In addition, the company provides consulting and advisory services; and project management services. Further, it is involved in IT and allied works, computer hardware, software, electronic equipment, electrification, canopy works, road signage and gantry works, and furniture/accessory related works. The company was incorporated in 2007 and is based in Ahmedabad, India. Sadbhav Infrastructure Project Limited operates as a subsidiary of Sadbhav Engineering Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 108.13,
-  "pe_ratio": 61.4,
+  "market_cap_cr": 113.06,
+  "pe_ratio": 64.2,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": -17.56,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:57:49.336778",
-  "provider_reported_pb_ratio": -0.17,
-  "statements_retrieved_at": "2026-11-11T23:57:49.336778",
+  "retrieval_time": "2026-11-12T22:32:20.920270",
+  "provider_reported_pb_ratio": -0.18,
+  "statements_retrieved_at": "2026-11-12T22:32:20.920270",
   "retained_fields": []
 }

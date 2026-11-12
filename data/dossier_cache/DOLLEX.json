@@ -5,14 +5,14 @@
   "industry": "Confectioners",
   "business_summary": "Dollex Agrotech Limited manufactures and trades in sugar and its by-products in India. It operates through Trading and Manufacturing segments. The company offers jaggery, brown sugar, and Khandsari sugar; and cane seeds to farmers. Dollex Agrotech Limited was incorporated in 2013 and is based in Datia, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 140.1,
-  "pe_ratio": 15.31,
+  "market_cap_cr": 142.34,
+  "pe_ratio": 15.56,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 31.03,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 3.9949,
-  "fifty_two_week_high": 42.85,
+  "fifty_two_week_high": 42.45,
   "fifty_two_week_low": 26.0,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:22:07.995918",
-  "provider_reported_pb_ratio": 1.13,
-  "statements_retrieved_at": "2026-11-11T23:22:07.995918",
+  "retrieval_time": "2026-11-12T21:53:38.845034",
+  "provider_reported_pb_ratio": 1.15,
+  "statements_retrieved_at": "2026-11-12T21:53:38.845034",
   "retained_fields": []
 }

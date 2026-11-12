@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Par Drugs and Chemicals Limited develops, manufactures, and sells active pharmaceutical ingredients (APIs) and fine chemicals in India. The company provides API products, including magnesium hydroxide, magnesium oxide USP, sucralfate, almagate BP, dried aluminium hydroxide gel, light magnesium carbonate, magaldrate, magnesium trisilicate, colloidal silicon dioxide, aluminium magnesium silicate, magnesium aluminometasilicate, magnesium aluminosilicate-USP, magnesium oxide light, magnesium oxide heavy, magnesium aluminium hydrate, hydrotalcite, and synthetic aluminium silicate. It offers fine chemicals, such as precipitated silica, sodium aluminium silicate, amorphous aluminium hydroxide, Alusil, PARSIL-HT, aluminium hydroxide magnesium carbonate co-dried gel, magnesium aluminium silicate hydrated (pharma), and magnesium aluminium silicate hydrated (agro). Par Drugs and Chemicals Limited was founded in 1982 and is based in Vadodara, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 145.33,
-  "pe_ratio": 11.09,
+  "market_cap_cr": 145.61,
+  "pe_ratio": 11.21,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 97.17,
@@ -74,27 +74,12 @@
       "total_equity_cr": 71.24,
       "total_debt_cr": 0.0,
       "cash_cr": 22.24
-    },
-    {
-      "period": "FY22 (2022)",
-      "period_end": "2022-03-31",
-      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
-      "revenue_cr": null,
-      "ebitda_cr": null,
-      "net_income_cr": null,
-      "operating_cash_flow_cr": null,
-      "capex_cr": null,
-      "fcff_cr": null,
-      "total_assets_cr": null,
-      "total_equity_cr": null,
-      "total_debt_cr": null,
-      "cash_cr": null
     }
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:50:48.121794",
+  "retrieval_time": "2026-11-12T22:25:07.744060",
   "provider_reported_pb_ratio": 1.22,
-  "statements_retrieved_at": "2026-11-11T23:50:48.121794",
+  "statements_retrieved_at": "2026-11-12T22:25:07.744060",
   "retained_fields": []
 }

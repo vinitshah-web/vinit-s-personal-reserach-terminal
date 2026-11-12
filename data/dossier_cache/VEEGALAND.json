@@ -6,7 +6,7 @@
   "business_summary": "Veegaland Developers Limited engages in the planning, development, and sale of multi storied residential apartment projects in India. It operates under the Veegaland Homes brand name. The company was incorporated in 2007 and is based in Ernakulam, India.",
   "business_summary_reason": null,
   "market_cap_cr": null,
-  "pe_ratio": 20.43,
+  "pe_ratio": 20.19,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 79.08,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T00:11:04.798200",
-  "provider_reported_pb_ratio": 1.75,
-  "statements_retrieved_at": "2026-11-12T00:11:04.798200",
+  "retrieval_time": "2026-11-12T22:46:22.730281",
+  "provider_reported_pb_ratio": 1.73,
+  "statements_retrieved_at": "2026-11-12T22:46:22.730281",
   "retained_fields": []
 }

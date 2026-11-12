@@ -5,8 +5,8 @@
   "industry": "Lodging",
   "business_summary": "Elevate Campuses Limited owns, operates, and manages on-campus student accommodations and K-12 schools in India. Its student accommodations include furnished rooms, dining services, on-site laundry, 24/7 security, recreation and activity zones, and collaborative study areas, as well as tech-enabled institutional platform for student communication. The company also leases school properties to school operators. It operates accommodations under the Good Host Spaces and ScholarZ names. The company was formerly known as Good Host Spaces Private Limited and changed its name to Elevate Campuses Limited in September 2025. The company was incorporated in 2005 and is based in Mumbai, India. Elevate Campuses Limited operates as a subsidiary of Genius Bidco Holdings Pte. Ltd.",
   "business_summary_reason": null,
-  "market_cap_cr": 5178.96,
-  "pe_ratio": 25.02,
+  "market_cap_cr": 5247.21,
+  "pe_ratio": 25.35,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 432.62,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:23:27.316384",
-  "provider_reported_pb_ratio": 0.71,
-  "statements_retrieved_at": "2026-11-11T23:23:27.316384",
+  "retrieval_time": "2026-11-12T21:55:05.456759",
+  "provider_reported_pb_ratio": 0.72,
+  "statements_retrieved_at": "2026-11-12T21:55:05.456759",
   "retained_fields": []
 }

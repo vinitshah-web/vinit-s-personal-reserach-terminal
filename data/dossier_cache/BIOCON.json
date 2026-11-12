@@ -5,8 +5,8 @@
   "industry": "Biotechnology",
   "business_summary": "Biocon Limited, together with its subsidiaries, manufactures biotechnology products and offers research services in India, the United States, Ireland, rest of the European Union, and internationally. It operates through Generics; Biosimilars; and Contract Research, Development and Manufacturing Organization (CRDMO) segments. The company offers generic formulations and API products, including cardiovascular, anti-diabetics, obesity, central nervous system, anti-cancer/oncology, multiple sclerosis, immunosuppressants, and specialty molecules; and biosimilars products for oncology, diabetes, and immunology therapeutic areas. It also provides integrated discovery, development, and manufacturing services to pharmaceutical, biotechnology, animal health, consumer goods, and specialty chemical industries, as well as academic institutions, non-profit organizations, and government agencies. In addition, the company offers enzyme, biopharmaceutical, and medicinal goods; contract research and manufacturing services; clinical research; and business support and development, and marketing services. Biocon Limited was incorporated in 1978 and is headquartered in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 60277.54,
-  "pe_ratio": 123.51,
+  "market_cap_cr": 60752.49,
+  "pe_ratio": 124.48,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 210.91,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:15:19.782234",
-  "provider_reported_pb_ratio": 1.75,
-  "statements_retrieved_at": "2026-11-11T23:15:19.782234",
+  "retrieval_time": "2026-11-12T21:46:25.743570",
+  "provider_reported_pb_ratio": 1.76,
+  "statements_retrieved_at": "2026-11-12T21:46:25.743570",
   "retained_fields": []
 }

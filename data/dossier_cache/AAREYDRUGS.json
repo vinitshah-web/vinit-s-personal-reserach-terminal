@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Aarey Drugs & Pharmaceuticals Limited manufactures and sells active pharmaceutical ingredients, intermediates, and specialty chemicals for various industrial applications in India. The company offers intermediates, including mono methyl urea, di methyl urea, ortho para nitro anisole, 2-bromomethyl-1,3-dioxolane, and uracil. It also provides active pharmaceutical ingredients, such as metformin HCl, mefenamic acid, and doxofylline. In addition, the company trades chemicals and solvents, including aromatic chemicals, chemical acids, chlor-alkali, chlorinated solvent, glycols and glycol ethers, fiber intermediates, and acetates and esters, as well as industrial alcohols, ketones, amines, oleochemicals, intermediates, olefins, phosphates, fertilizers, monomers, and chemicals. Further, it offers lumefantrine; nimesulide; albendazole; carbamazepine; and oxcarbazepine. It serves pharmaceutical formulation manufacturers and pharmaceutical merchant exporters. Aarey Drugs & Pharmaceuticals Limited was incorporated in 1990 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 346.98,
-  "pe_ratio": 74.05,
+  "market_cap_cr": 363.72,
+  "pe_ratio": 77.63,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 52.87,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:06:32.069182",
-  "provider_reported_pb_ratio": 2.06,
-  "statements_retrieved_at": "2026-11-11T23:06:32.069182",
+  "retrieval_time": "2026-11-12T21:36:45.732758",
+  "provider_reported_pb_ratio": 2.16,
+  "statements_retrieved_at": "2026-11-12T21:36:45.732758",
   "retained_fields": []
 }

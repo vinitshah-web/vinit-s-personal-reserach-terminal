@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "PPAP Automotive Limited manufactures and sells automotive sealing systems and injection-molded plastic components in India and internationally. The company offers automotive products, including interior/exterior products, and body sealing system products; aftermarket products, including body side moulding, bumper, fender lining, battery box, front lower grill, mud flap, wiper, horn, door visor, grill, double armed hook, jimny power supply glaco glass compound products, and car accessories comprising smartphone holder, drink holder, ash bottle, rear tray, jimny drink holder, perfume, and trash box; and Industrial Products, such as architectural sealing, container sealing, electrical panel sealings, air handing units sealings, custom profiles, pail containers, custom injection moulded products, such as washing m/c tub, C grill, and cooler body. The company also offers multi-cavity molds, gas-assisted molds, hot runner systems, 2K moulding and over-moulding; and battery pack products. PPAP Automotive Limited was formerly known as Precision Pipes and Profiles Co. Ltd. and changed its name to PPAP Automotive Limited in May 2014. The company was founded in 1978 and is based in Noida, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 377.96,
-  "pe_ratio": 8.16,
+  "market_cap_cr": 374.25,
+  "pe_ratio": 8.08,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 241.67,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:52:39.950663",
-  "provider_reported_pb_ratio": 1.11,
-  "statements_retrieved_at": "2026-11-11T23:52:39.950663",
+  "retrieval_time": "2026-11-12T22:27:08.965738",
+  "provider_reported_pb_ratio": 1.09,
+  "statements_retrieved_at": "2026-11-12T22:27:08.965738",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Solar",
   "business_summary": "Urja Global Limited, together with its subsidiaries, engages in the design, consultancy, integration, supply, installation, commissioning, and maintenance of off-grid and grid-connected solar power plants and decentralized solar applications in India. The company offers lithium IOB, automotive, inverter, solar, and e-rickshaw batteries under the Urja and I-volt brand names; solar study lamps, LED lanterns, solar panels and inverters, and solar home lighting solutions; Urja Solar Atta Chakki, solar water pumps, and solar rooftop systems; and e-rickshaws and e-scooters. It is also involved in mineral exploration, extraction, and processing; residential and commercial property development; and digital technology landscape. In addition, the company manufactures and distributes wide range of batteries, including automotive, industrial, and renewable energy storage solutions. Urja Global Limited was incorporated in 1992 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 484.21,
-  "pe_ratio": 434.5,
+  "market_cap_cr": 483.1,
+  "pe_ratio": 433.5,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 3.31,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T00:10:20.798067",
+  "retrieval_time": "2026-11-12T22:45:35.595843",
   "provider_reported_pb_ratio": 2.62,
-  "statements_retrieved_at": "2026-11-12T00:10:20.798067",
+  "statements_retrieved_at": "2026-11-12T22:45:35.595843",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Solar",
   "business_summary": "Emmvee Photovoltaic Power Limited manufactures and sales solar cells, photovoltaic modules, and photovoltaic systems across India and Europe. Its products include TopCon Photovoltaic Module and TopCon Photovoltaic cells. It also executes grid and off-grid photovoltaic power projects on a turnkey basis and operates solar power plants. The company serves independent power producers, entities operating in the commercial and industrial sector, and engineering, procurement and construction service providers in both public and private sectors. The company was incorporated in 2007 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 18402.53,
-  "pe_ratio": 12.78,
+  "market_cap_cr": 18592.93,
+  "pe_ratio": 12.92,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 63.43,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:23:53.173010",
-  "provider_reported_pb_ratio": 4.19,
-  "statements_retrieved_at": "2026-11-11T23:23:53.173010",
+  "retrieval_time": "2026-11-12T21:55:34.734340",
+  "provider_reported_pb_ratio": 4.23,
+  "statements_retrieved_at": "2026-11-12T21:55:34.734340",
   "retained_fields": []
 }

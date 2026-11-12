@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Banco Products (India) Limited, together with its subsidiaries, engages in the manufacture and sale of heat exchangers/cooling systems in India and internationally. The company offers engine cooling systems, such as radiators, charge air coolers, oil coolers, transmission and hydraulic type, condensers, fuel coolers, battery coolers, inverter coolers configurations and accessories, expansion tanks, fan motor assembly, fan shroud and guard, and miscellaneous mounting plumbing accessories. It also provides precision-engineered sealing solutions, including cylinder head gaskets, peripheral gaskets, heat shields, compressed fibre gaskets, industrial and jointing gaskets, rubber/cork gaskets, exhaust manifold and ring gaskets, oil pan and valve cover gaskets, as well as intake manifold, water/oil pump, and transmission gaskets. The company's products are used in passenger cars; trucks and buses; light, medium, and heavy commercial vehicles; agricultural tractors and harvesters; windmills; forestry equipment; compressors; high-performance motorcycles; construction equipment; material handling equipment; mining machinery; traction locomotives; industrial air compressors; and standalone gensets and backup power systems for data centres. The company was incorporated in 1961 and is based in Vadodara, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 9606.38,
-  "pe_ratio": 18.56,
+  "market_cap_cr": 9677.19,
+  "pe_ratio": 18.69,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 117.75,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:13:44.297974",
-  "provider_reported_pb_ratio": 5.7,
-  "statements_retrieved_at": "2026-11-11T23:13:44.297974",
+  "retrieval_time": "2026-11-12T21:44:42.879566",
+  "provider_reported_pb_ratio": 5.75,
+  "statements_retrieved_at": "2026-11-12T21:44:42.879566",
   "retained_fields": []
 }

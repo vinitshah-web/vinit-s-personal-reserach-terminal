@@ -6,7 +6,7 @@
   "business_summary": "Bharat Coking Coal Limited produces and sells coal in India. The company offers coking coal, non-coking coal, and washed coking and power coal products, as well as rejects and slurries. Its products are used in power, steel, cement, fertilizer, and glass manufacturing applications. The company serves the power and non-power sectors. The company was incorporated in 1972 and is based in Dhanbad, India. Bharat Coking Coal Limited operates as a subsidiary of Coal India Limited.",
   "business_summary_reason": null,
   "market_cap_cr": null,
-  "pe_ratio": 244.92,
+  "pe_ratio": 245.08,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 12.71,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:15:00.710132",
+  "retrieval_time": "2026-11-12T21:46:05.341209",
   "provider_reported_pb_ratio": 2.51,
-  "statements_retrieved_at": "2026-11-11T23:15:00.710132",
+  "statements_retrieved_at": "2026-11-12T21:46:05.341209",
   "retained_fields": []
 }

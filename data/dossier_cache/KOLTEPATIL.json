@@ -5,8 +5,8 @@
   "industry": "Real Estate - Development",
   "business_summary": "Kolte-Patil Developers Limited operates as a real estate development company in India. It constructs and develops residential complexes, commercial spaces, IT parks, and integrated townships; rents immovable properties; and provides project management services for managing and developing real estate projects. It serves retail clients, middle-income groups, and high-net worth individuals. The company markets its projects under the Kolte-Patil and 24K brands. Kolte-Patil Developers Limited was founded in 1970 and is based in Pune, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3958.68,
-  "pe_ratio": 31.79,
+  "market_cap_cr": 4027.41,
+  "pe_ratio": 28.74,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 152.76,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:38:45.369619",
-  "provider_reported_pb_ratio": 2.92,
-  "statements_retrieved_at": "2026-11-11T23:38:45.369619",
+  "retrieval_time": "2026-11-12T22:11:59.534227",
+  "provider_reported_pb_ratio": 2.97,
+  "statements_retrieved_at": "2026-11-12T22:11:59.534227",
   "retained_fields": []
 }

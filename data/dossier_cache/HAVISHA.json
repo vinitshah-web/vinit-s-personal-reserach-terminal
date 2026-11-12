@@ -5,7 +5,7 @@
   "industry": "Lodging",
   "business_summary": "Sri Havisha Hospitality and Infrastructure Limited owns, operates, and manages hotels in India. It provides dining, conference facilities, swimming pool, gymnasium, travel desk, and spa services. The company was formerly known as Shri Matre Power & Infrastructure Limited and changed its name to Sri Havisha Hospitality and Infrastructure Limited in November 2016. Sri Havisha Hospitality and Infrastructure Limited was incorporated in 1993 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 40.95,
+  "market_cap_cr": 39.74,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:30:24.120065",
-  "provider_reported_pb_ratio": 1.75,
-  "statements_retrieved_at": "2026-11-11T23:30:24.120065",
+  "retrieval_time": "2026-11-12T22:02:48.392081",
+  "provider_reported_pb_ratio": 1.7,
+  "statements_retrieved_at": "2026-11-12T22:02:48.392081",
   "retained_fields": []
 }

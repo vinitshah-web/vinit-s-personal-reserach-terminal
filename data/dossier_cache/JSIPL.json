@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "Jindal Supreme (India) Limited engages in the manufacturing and supply of steel pipes and tubes for infrastructure and industrial applications in India. The company's products include mild steel (MS) black pipes and tubes, MS galvanized pipes and tubes, metal beam crash barriers, hollow sections, and galvanized iron tubular poles. The company serves various industries, such as water supply and plumbing, infrastructure and construction, road and highways, bridges, oil and gas, chemicals, agriculture, rural electrification, and others. Jindal Supreme (India) Limited was incorporated in 1974 and is headquartered in Hisar, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 833.27,
-  "pe_ratio": 34.02,
+  "market_cap_cr": 854.95,
+  "pe_ratio": 34.91,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 26.07,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:36:37.200259",
-  "provider_reported_pb_ratio": 6.26,
-  "statements_retrieved_at": "2026-11-11T23:36:37.200259",
+  "retrieval_time": "2026-11-12T22:09:41.472722",
+  "provider_reported_pb_ratio": 6.43,
+  "statements_retrieved_at": "2026-11-12T22:09:41.472722",
   "retained_fields": []
 }

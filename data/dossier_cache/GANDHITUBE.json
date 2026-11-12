@@ -5,8 +5,8 @@
   "industry": "Metal Fabrication",
   "business_summary": "Gandhi Special Tubes Limited manufactures and markets welded and seamless steel tubes, and nuts in India. The company offers cold drawn bright annealed seamless steel tubes; precision electric resistance welded steel tubes; cold formed coupling nuts; and high-pressure fuel injection tubes. It is also involved in the wind power generation business. It supplies its products primarily to the original equipment manufacturers of the automotive sector, farm equipment manufacturers, construction equipment manufacturers, and other engineering industries. In addition, the company offers products to commercial vehicles, hydraulic systems and general engineering. The company was formerly known as Gandhi Special 07 Tubes Ltd. Gandhi Special Tubes Limited was incorporated in 1985 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1019.39,
-  "pe_ratio": 14.7,
+  "market_cap_cr": 1015.61,
+  "pe_ratio": 14.17,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 220.65,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:26:25.749307",
-  "provider_reported_pb_ratio": 4.09,
-  "statements_retrieved_at": "2026-11-11T23:26:25.749307",
+  "retrieval_time": "2026-11-12T21:58:21.673402",
+  "provider_reported_pb_ratio": 4.08,
+  "statements_retrieved_at": "2026-11-12T21:58:21.673402",
   "retained_fields": []
 }

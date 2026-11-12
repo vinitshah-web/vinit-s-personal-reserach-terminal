@@ -5,14 +5,14 @@
   "industry": "Health Information Services",
   "business_summary": "Indegene Limited operates as a digital-first life sciences commercialization company in India, the United States, Europe, North America, and internationally. It operates through Enterprise Medical Solutions, Enterprise Commercial Solutions, and Other segments. The company provides AI-embedded commercialization services for biopharmaceutical, emerging biotech, and medical devices companies. It also offers enterprise commercial, medical, and clinical solutions; and omnichannel activation solutions. In addition, the company operates NEXT technology platforms, as well as provides analytics, technology, commercial, medical, regulatory, and safety services to life science and healthcare organizations. Further, it engages in the professional, and scientific and technical activities. Indegene Limited was incorporated in 1998 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 14834.76,
-  "pe_ratio": 36.24,
+  "market_cap_cr": 16040.09,
+  "pe_ratio": 39.18,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 139.66,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 24.0824,
-  "fifty_two_week_high": 638.0,
+  "fifty_two_week_high": 674.35,
   "fifty_two_week_low": 414.0,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:33:30.465790",
-  "provider_reported_pb_ratio": 4.41,
-  "statements_retrieved_at": "2026-11-11T23:33:30.465790",
+  "retrieval_time": "2026-11-12T22:06:16.949526",
+  "provider_reported_pb_ratio": 4.77,
+  "statements_retrieved_at": "2026-11-12T22:06:16.949526",
   "retained_fields": []
 }

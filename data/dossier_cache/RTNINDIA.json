@@ -5,14 +5,14 @@
   "industry": "Internet Retail",
   "business_summary": "RattanIndia Enterprises Limited, together with its subsidiaries, engages in the retail business in India and internationally. It operates through Retail-E-commerce Business, EV (E-Motorcycles), Investments, and Others segments. The company engages in the retail trade of apparel, shoes, wire accessories, office products, musical instruments, eyewear, handbags, and books through online e-commerce platforms; and everyday fashion, denims, athleisure, and performance wear. It also manufactures electric motorcycles; and operates Wefin, a fintech platform for personal and two-wheeler loans, and credit cards. In addition, the company provides drone products and services; enterprise, defence, and delivery drone hardware and software; and drone logistics. Further, it is involved in manpower/human resource supply and consultancy; management support services; payroll management; dealership of Revolt products and after sale services; monetary intermediation activities; insurance broking business; and management consultancy and project management. The company was formerly known as RattanIndia Infrastructure Limited and changed its name to RattanIndia Enterprises Limited in March 2021. RattanIndia Enterprises Limited was incorporated in 2010 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3631.73,
+  "market_cap_cr": 3611.02,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 5.63,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 138.0888,
-  "fifty_two_week_high": 49.18,
+  "fifty_two_week_high": 48.88,
   "fifty_two_week_low": 22.52,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:57:21.579820",
-  "provider_reported_pb_ratio": 4.67,
-  "statements_retrieved_at": "2026-11-11T23:57:21.579820",
+  "retrieval_time": "2026-11-12T22:31:50.784258",
+  "provider_reported_pb_ratio": 4.64,
+  "statements_retrieved_at": "2026-11-12T22:31:50.784258",
   "retained_fields": []
 }

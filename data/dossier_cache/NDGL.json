@@ -5,7 +5,7 @@
   "industry": "Capital Markets",
   "business_summary": "Naga Dhunseri Group Limited, an investment company, operates as a non-banking financial company. It operates in investments in Shares and Securities. The company was formerly known as Naga Dhunseri Holding Group Ltd. and changed its name to Naga Dhunseri Group Limited in March 1995. Naga Dhunseri Group Limited was incorporated in 1918 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 239.42,
+  "market_cap_cr": 242.0,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:47:12.238601",
+  "retrieval_time": "2026-11-12T22:21:14.137761",
   "provider_reported_pb_ratio": null,
-  "statements_retrieved_at": "2026-11-11T23:47:12.238601",
+  "statements_retrieved_at": "2026-11-12T22:21:14.137761",
   "retained_fields": []
 }

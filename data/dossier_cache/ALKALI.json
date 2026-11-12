@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Alkali Metals Limited manufactures and sells chemicals in India and internationally. The company offers API products, including benzocaine, fluconazole, loperamide hydrochloride, losartan potassium, metformin hydrochloride, phenylephrine hydrochloride, and rabeprazole sodium. It also provides pyridine, acetylpyridine, alkyl borate, aminopyridine, bipyridine, bromopyridine, carbazole, chloropyridine, cyanopyridine, cyclic, diethylamino pyridine, ethoxypyridine, fluoropyridine, hydroxypyridine, methoxypyridine, nitropyridine, picolylalcohol, pyridine n-oxide, pyrimidine, quinoline, tetrazole, and triazole compounds; azaindole, potassium, sodium, and other metal derivatives; boronic acids, and DSSC and OLED materials; and organic, inorganic, and fine chemicals. The company's products are used in pharma intermediates, anti retrovirals, flu vaccines, antibiotics, cardio/anti inflammation, agrochemicals, and automobiles applications. Alkali Metals Limited was incorporated in 1968 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 81.5,
-  "pe_ratio": 32.02,
+  "market_cap_cr": 80.71,
+  "pe_ratio": 31.7,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 42.41,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:09:09.709489",
-  "provider_reported_pb_ratio": 1.89,
-  "statements_retrieved_at": "2026-11-11T23:09:09.709489",
+  "retrieval_time": "2026-11-12T21:39:38.518377",
+  "provider_reported_pb_ratio": 1.87,
+  "statements_retrieved_at": "2026-11-12T21:39:38.518377",
   "retained_fields": []
 }

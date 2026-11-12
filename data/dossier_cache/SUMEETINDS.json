@@ -5,14 +5,14 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Sumeet Industries Limited manufactures and sells polyester chips and polyester yarns in India. The company provides pet chips, polyester and textile grade chips, as well as partially oriented, fully drawn, polyester texturized yarn, micro filament yarn, dope dyed yarn and textile grade chips. It exports its products to Egypt, Saudi Arabia, China, Argentina, Poland, Portugal, Morocco, Columbia, Bangladesh, Russia, Ethiopia, Mexico, Nepal, Brazil, Peru, Algeria, Thailand, the United States, Singapore, and Turkey, etc. The company was formerly known as Sumeet Synthetics Limited and changed its name to Sumeet Industries Limited in 1996. Sumeet Industries Limited was incorporated in 1988 and is based in Surat, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 750.33,
-  "pe_ratio": 36.0,
+  "market_cap_cr": 760.06,
+  "pe_ratio": 36.47,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 6.63,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 69.4749,
-  "fifty_two_week_high": 37.5,
+  "fifty_two_week_high": 36.25,
   "fifty_two_week_low": 9.05,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T00:05:08.436100",
-  "provider_reported_pb_ratio": 1.63,
-  "statements_retrieved_at": "2026-11-12T00:05:08.436100",
+  "retrieval_time": "2026-11-12T22:40:00.354519",
+  "provider_reported_pb_ratio": 1.65,
+  "statements_retrieved_at": "2026-11-12T22:40:00.354519",
   "retained_fields": []
 }

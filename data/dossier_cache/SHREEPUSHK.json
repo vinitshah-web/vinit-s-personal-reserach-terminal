@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Shree Pushkar Chemicals & Fertilisers Limited, together with its subsidiaries, manufactures and trades in chemicals, dyes and dyes intermediate, cattle feeds, fertilizers, and soil conditioners for farmers and multinationals in India. The company offers reactive dyes under the DYECOL name; dye intermediates, including H acid, vinyl sulphone, sulpho para base, K acid, and gamma acid; and water-soluble fertilizers, such as single super phosphate, sulphate of potash, mono potassium phosphate, monoammonium phosphate, and calcium nitrate, as well as nitrogen, phosphorus, and potash fertilizers. It also provides sulphuric, oleum, and chloro sulphonic acids; and cattle feed supplements. The company also exports its products. The company was formerly known as Shree Pushkar Petro Products Limited and changed its name to Shree Pushkar Chemicals & Fertilisers Limited in March 2012. Shree Pushkar Chemicals & Fertilisers Limited was incorporated in 1993 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1885.29,
-  "pe_ratio": 21.46,
+  "market_cap_cr": 1807.35,
+  "pe_ratio": 20.57,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 188.67,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T00:01:38.657029",
-  "provider_reported_pb_ratio": 3.09,
-  "statements_retrieved_at": "2026-11-12T00:01:38.657029",
+  "retrieval_time": "2026-11-12T22:36:13.712856",
+  "provider_reported_pb_ratio": 2.96,
+  "statements_retrieved_at": "2026-11-12T22:36:13.712856",
   "retained_fields": []
 }

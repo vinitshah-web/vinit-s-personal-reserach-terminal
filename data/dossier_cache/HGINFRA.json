@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "H.G. Infra Engineering Limited, together with its subsidiaries, engages in the provision of engineering, procurement, and construction (EPC) services in India. It operates through two segments, Construction and Renewable segments. The company provides EPC services on a turnkey basis and hybrid annuity model for civil construction and related infrastructure projects. It also undertakes projects under the hybrid annuity model, including transportation, renewable energy, and emerging areas, such as battery energy storage systems and power transmission. In addition, the company operates, constructs and maintains roads, highways, bridges, flyovers, railway lines, other infrastructure contract, and related works, as well as railways, metro, solar powered plant, water infrastructure projects, and transmission and distribution projects. Further, it generates and sells electricity. The company serves central and state government agencies, statutory authorities, and private sector enterprises. H.G. Infra Engineering Limited was incorporated in 2003 and is based in Jaipur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2707.53,
-  "pe_ratio": 14.55,
+  "market_cap_cr": 2695.8,
+  "pe_ratio": 12.6,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 508.63,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:31:31.799839",
-  "provider_reported_pb_ratio": 0.82,
-  "statements_retrieved_at": "2026-11-11T23:31:31.799839",
+  "retrieval_time": "2026-11-12T22:04:06.190660",
+  "provider_reported_pb_ratio": 0.81,
+  "statements_retrieved_at": "2026-11-12T22:04:06.190660",
   "retained_fields": []
 }

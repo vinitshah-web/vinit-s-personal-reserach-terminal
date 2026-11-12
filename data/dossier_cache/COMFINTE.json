@@ -5,8 +5,8 @@
   "industry": "Conglomerates",
   "business_summary": "Comfort Intech Limited engages in the manufacturing, bottling, and distribution of Indian made foreign liquor; and trading of goods in India. It operates through liquor manufacturing and goods trading division. The company trades in a range of products across various categories, including agri-commodities, electronics, consumer products, and textile and fabrics. It also operates e-commerce marketplace platforms and the immediate suppliers of the marketplace platforms, as well as through offline channels of distribution. The company was formerly known as Comfort Finvest Limited and changed its name to Comfort Intech Limited in July 2000. Comfort Intech Limited was incorporated in 1994 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 192.28,
-  "pe_ratio": 75.13,
+  "market_cap_cr": 192.6,
+  "pe_ratio": 75.25,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 5.6,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:18:52.154370",
-  "provider_reported_pb_ratio": 1.07,
-  "statements_retrieved_at": "2026-11-11T23:18:52.154370",
+  "retrieval_time": "2026-11-12T21:50:10.586789",
+  "provider_reported_pb_ratio": 1.08,
+  "statements_retrieved_at": "2026-11-12T21:50:10.586789",
   "retained_fields": []
 }

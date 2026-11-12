@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "Rudra Global Infra Products Limited manufactures and trades billets and TMT bars in India. The company is also involved in ship recycling, oxygen plant, induction furnace, and re-rolling mill businesses. It offers its products under the Rudra TMX brand. The company was formerly known as M.D. Inducto Cast Limited and changed its name to Rudra Global Infra Products Limited in January 2018. Rudra Global Infra Products Limited was founded in 1991 and is based in Bhavnagar, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 174.9,
-  "pe_ratio": 13.2,
+  "market_cap_cr": 175.9,
+  "pe_ratio": 13.28,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 13.82,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:57:30.865017",
-  "provider_reported_pb_ratio": 1.26,
-  "statements_retrieved_at": "2026-11-11T23:57:30.865017",
+  "retrieval_time": "2026-11-12T22:32:01.493005",
+  "provider_reported_pb_ratio": 1.27,
+  "statements_retrieved_at": "2026-11-12T22:32:01.493005",
   "retained_fields": []
 }

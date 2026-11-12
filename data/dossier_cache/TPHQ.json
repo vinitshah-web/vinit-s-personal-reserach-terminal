@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "Teamo Productions HQ Limited provides film production, distribution, and related media services in India and internationally. The company engages in the information technology-based engineering business; trading of engineering goods to support infrastructure development and promote industrial and commercial growth; and film production, distribution, and allied businesses and other related services. It is also involved media and trading of steel and engineering products for infrastructure projects. The company was formerly known as GI Engineering Solutions Limited and changed its name to Teamo Productions HQ Limited in September 2023. Teamo Productions HQ Limited was incorporated in 2006 and is based in Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 48.23,
-  "pe_ratio": 7.33,
+  "market_cap_cr": 49.33,
+  "pe_ratio": 7.5,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 1.24,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T00:08:46.585913",
-  "provider_reported_pb_ratio": 0.35,
-  "statements_retrieved_at": "2026-11-12T00:08:46.585913",
+  "retrieval_time": "2026-11-12T22:43:54.864831",
+  "provider_reported_pb_ratio": 0.36,
+  "statements_retrieved_at": "2026-11-12T22:43:54.864831",
   "retained_fields": []
 }

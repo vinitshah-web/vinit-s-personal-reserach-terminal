@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "ZIM Laboratories Limited engages in the development, manufacture, and supply of generic pharmaceutical and nutraceutical products in India and internationally. It provides its products in pre- formulation intermediates and finished formulations in the oral solid dosage forms, such as pellets, taste-masked powders, directly compressible granules, tablets, capsules, dry syrup, and oral thin films. The company offers therapeutics in the areas of urology, gastroenterology, antibiotics, anti-infectives, cardiovascular, central nervous system, NSAIDs/pain analgesics, and vitamins and supplements. The company was founded in 1984 and is based in Nagpur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 721.09,
-  "pe_ratio": 164.22,
+  "market_cap_cr": 755.15,
+  "pe_ratio": 171.98,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 54.22,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T00:14:09.981424",
-  "provider_reported_pb_ratio": 2.48,
-  "statements_retrieved_at": "2026-11-12T00:14:09.981424",
+  "retrieval_time": "2026-11-12T22:49:43.778399",
+  "provider_reported_pb_ratio": 2.6,
+  "statements_retrieved_at": "2026-11-12T22:49:43.778399",
   "retained_fields": []
 }

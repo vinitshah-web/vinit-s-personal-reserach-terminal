@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Fine Organic Industries Limited engages in manufacture, processing, supply, distribution, dealing, import, and export of oleochemical-based additives in India and internationally. The company offers food ingredient, such as emulsifiers, antifungal agents, bakery products, starch complexity agents, viscosity modifiers, anti-blooming agents, anti-splattering agents, crystal promoters, and anti-foam agents. It also provides polymer additives, including lubricants, anti-fogging additives, anti-slip agents, anti-static additives, anti-scratch additives, processing aids, slip and anti-blocking, dispersants, mold release agents, and rubber processor additives; personal care ingredients; feed ingredients; and specialty additives. The company's products are used in plastics, foods, rubbers, coatings, cosmetics, feed nutrition, and other specialty applications. Fine Organic Industries Limited was founded in 1970 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 16355.56,
-  "pe_ratio": 33.96,
+  "market_cap_cr": 16349.43,
+  "pe_ratio": 33.94,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 955.14,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:25:35.242504",
-  "provider_reported_pb_ratio": 5.59,
-  "statements_retrieved_at": "2026-11-11T23:25:35.242504",
+  "retrieval_time": "2026-11-12T21:57:26.011658",
+  "provider_reported_pb_ratio": 5.58,
+  "statements_retrieved_at": "2026-11-12T21:57:26.011658",
   "retained_fields": []
 }

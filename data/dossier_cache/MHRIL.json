@@ -5,8 +5,8 @@
   "industry": "Resorts & Casinos",
   "business_summary": "Mahindra Holidays & Resorts India Limited operates in the leisure hospitality sector in India, Finland, Sweden, Spain, Dubai, Thailand, and Malaysia. It provides vacation ownership and other accommodation-related services. The company was incorporated in 1996 and is based in Mumbai, India. Mahindra Holidays & Resorts India Limited operates as a subsidiary of Mahindra & Mahindra Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 4007.52,
-  "pe_ratio": 72.79,
+  "market_cap_cr": 4045.64,
+  "pe_ratio": 73.48,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 39.26,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:43:58.976346",
-  "provider_reported_pb_ratio": 5.06,
-  "statements_retrieved_at": "2026-11-11T23:43:58.976346",
+  "retrieval_time": "2026-11-12T22:17:44.955433",
+  "provider_reported_pb_ratio": 5.11,
+  "statements_retrieved_at": "2026-11-12T22:17:44.955433",
   "retained_fields": []
 }

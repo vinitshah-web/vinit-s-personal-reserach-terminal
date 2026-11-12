@@ -5,14 +5,14 @@
   "industry": "Marine Shipping",
   "business_summary": "Knowledge Marine & Engineering Works Limited owns and operates marine crafts in India. The company operates through three segments: Dredging, Owning, and Operating Marine and Port Ancillary Crafts; Ship Building and Repair and Maintenance of Marine Crafts; and Marine Infrastructure. It also provides repair and maintenance/refitting services for marine crafts and marine infrastructure, as well as builds ships, boats, etc. In addition, the company offers dredging services, as well as involved in manning, operation and technical maintenance of marine crafts, repairs, refitting and maintenance of marine crafts and marine infrastructure, and allied works. Further, its fleet include pilot, speed patrol, work, survey, mooring, and service cum tug boats, as well as grab and trailing suction hopper dredgers, hopper barges, backhoe dredgers, and green tug. Knowledge Marine & Engineering Works Limited was incorporated in 2015 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 8229.45,
-  "pe_ratio": 109.98,
+  "market_cap_cr": 9042.38,
+  "pe_ratio": 120.85,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
-  "book_value": 46.65,
+  "book_value": 65.22,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 12.6822,
-  "fifty_two_week_high": 683.4,
+  "fifty_two_week_high": 723.8,
   "fifty_two_week_low": 248.61,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:38:35.986065",
-  "provider_reported_pb_ratio": 13.91,
-  "statements_retrieved_at": "2026-11-11T23:38:35.986065",
+  "retrieval_time": "2026-11-12T22:11:49.135463",
+  "provider_reported_pb_ratio": 10.93,
+  "statements_retrieved_at": "2026-11-12T22:11:49.135463",
   "retained_fields": []
 }

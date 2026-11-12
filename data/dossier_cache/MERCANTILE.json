@@ -5,8 +5,8 @@
   "industry": "Real Estate Services",
   "business_summary": "Mercantile Ventures Limited provides security services in India. It operates through Rent and Maintenance of Immovable Properties; Manpower Services; and Investment Activities segments. The company acquires immovable properties for letting out on lease or mounting them for resale; and leases and maintains immovable properties. It also offers facility management, manpower supply, and security services. The company was formerly known as MCC Finance Limited and changed its name to Mercantile Ventures Limited in March 2013. Mercantile Ventures Limited was incorporated in 1985 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 235.35,
-  "pe_ratio": 33.33,
+  "market_cap_cr": 231.88,
+  "pe_ratio": 32.84,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 24.36,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:43:41.442516",
-  "provider_reported_pb_ratio": 0.86,
-  "statements_retrieved_at": "2026-11-11T23:43:41.442516",
+  "retrieval_time": "2026-11-12T22:17:25.766221",
+  "provider_reported_pb_ratio": 0.85,
+  "statements_retrieved_at": "2026-11-12T22:17:25.766221",
   "retained_fields": []
 }

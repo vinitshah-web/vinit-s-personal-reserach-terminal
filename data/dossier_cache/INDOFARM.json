@@ -5,14 +5,14 @@
   "industry": "Farm & Heavy Construction Machinery",
   "business_summary": "Indo Farm Equipment Limited manufactures and sells agricultural, industrial, and construction equipment in India and internationally. The company operates through the Tractor, Crane, NBFC, and Others segments. It offers tractors, rotary tillers, and harvesters, as well as hydraulic pick and carry cranes, and tower cranes. The company also provides financing for new tractors and refinancing for pre-owned tractors. In addition, the company offers engineering solutions. It exports its products to 30 countries across Asia, Africa, Europe, and South America. The company was formerly known as Indo Farm Industries Limited and changed its name to Indo Farm Equipment Limited in November 2009. Indo Farm Equipment Limited was incorporated in 1994 and is based in Baddi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 613.81,
-  "pe_ratio": 24.61,
+  "market_cap_cr": 615.44,
+  "pe_ratio": 24.68,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 115.53,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 4.8052,
-  "fifty_two_week_high": 239.0,
+  "fifty_two_week_high": 227.84,
   "fifty_two_week_low": 110.7,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:33:49.206336",
+  "retrieval_time": "2026-11-12T22:06:38.548592",
   "provider_reported_pb_ratio": 1.11,
-  "statements_retrieved_at": "2026-11-11T23:33:49.206336",
+  "statements_retrieved_at": "2026-11-12T22:06:38.548592",
   "retained_fields": []
 }

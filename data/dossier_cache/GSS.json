@@ -5,7 +5,7 @@
   "industry": "Information Technology Services",
   "business_summary": "GSS Infotech Limited, together with its subsidiaries, provides information technology (IT) services in India, Bangladesh, and the United States. The company provides consulting services comprising professional services; digital transformation services consisting of agile and DevOps, API platform, enterprise platform management, and big data; application services, including application development, transformation, and maintenance services, and quality engineering solutions; and managed services, including network operations center, security operations center, data center, and storage infrastructure services. It also offers applied intelligence solutions, such as artificial intelligence, data science and machine learning, Internet of Things, and automation; enterprise security solutions, including digital identity governance, application security, and cyber security services; and enterprise cloud solutions, such as cloud infrastructure, cloud migration, and hybrid cloud management services. In addition, the company provides an asset management software; TruVu, a data visualization and analytics platform; UniDesk, a cloud-based service desk platform; ibStream, a mobile marketing solution; and IT service support management tool that offers tighter integration of functions that correlates with the activities of the broader IT support organization, as well as involved in vegetable and fruits business. It serves government entities, educational institutions, healthcare organizations, and other businesses. The company was formerly known as GSS America Infotech Limited and changed its name to GSS Infotech Limited in March 2011. GSS Infotech Limited was founded in 1999 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 25.94,
+  "market_cap_cr": 26.4,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:29:40.633590",
+  "retrieval_time": "2026-11-12T22:01:57.414470",
   "provider_reported_pb_ratio": 0.09,
-  "statements_retrieved_at": "2026-11-11T23:29:40.633590",
+  "statements_retrieved_at": "2026-11-12T22:01:57.414470",
   "retained_fields": []
 }

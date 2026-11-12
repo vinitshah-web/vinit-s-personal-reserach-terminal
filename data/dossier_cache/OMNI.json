@@ -5,8 +5,8 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "Omnitech Engineering Limited engages in the manufacturing and supply of engineered components and assemblies worldwide. The company offers drilling, exploration, and refining products for upstream, midstream, and downstream applications, as well as braking systems, drive systems, and pumping units for renewable energy, electricity generation, and power production. It also provides actuator systems, motion control and drive technologies, robotic systems, and conveying and handling systems; crushing and screening systems, conveying solutions, drilling and blasting equipment, surface and underground rig components, and core drilling equipment for mining and earth moving equipment; and valve components for gas and stream equipment. In addition, the company offers hydraulic and pneumatic systems for airport ground support operations and heavy-duty industrial equipment. Omnitech Engineering Limited was founded in 2006 and is based in Rajkot, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 7113.89,
-  "pe_ratio": 61.66,
+  "market_cap_cr": 7052.67,
+  "pe_ratio": 61.13,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 59.69,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:49:39.684393",
-  "provider_reported_pb_ratio": 9.64,
-  "statements_retrieved_at": "2026-11-11T23:49:39.684393",
+  "retrieval_time": "2026-11-12T22:23:53.651269",
+  "provider_reported_pb_ratio": 9.55,
+  "statements_retrieved_at": "2026-11-12T22:23:53.651269",
   "retained_fields": []
 }

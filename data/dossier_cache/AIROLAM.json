@@ -5,8 +5,8 @@
   "industry": "Furnishings, Fixtures & Appliances",
   "business_summary": "Airo Lam Limited engages in the production, processing, and marketing of decorative laminate sheets and plywood in India. The company offers decorative laminates, decorative postforming, I Lam, I lite, color code laminates, and classico products; specialty laminates, including anti fingerprint, dura gloss pro, chalk grade, marker grade, synchronized, metallic, flicker, and digital laminates; and performance laminates, such as electrostatic dissipative, fire retardant, chemical resistant, and magnetic laminates. It also provides exterior and interior wall cladding, and restroom and cubicle laminates; plywood, blockboards, and flush door airoply products; gloss and matte acrylic panels; and matte finish products. The company sells its products through a network of distributors and dealers. It exports its products to Singapore, Malaysia, the United States, the United Kingdom, Kuwait, Bangladesh, Saudi Arabia, Sri Lanka, Thailand, Qatar, the United Arab Emirates, Syria, Iran, Egypt, Nepal, and Vietnam. Airo Lam Limited was incorporated in 2007 and is based in Prantij, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 164.5,
-  "pe_ratio": 31.33,
+  "market_cap_cr": 168.55,
+  "pe_ratio": 32.1,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 52.38,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:08:41.750699",
-  "provider_reported_pb_ratio": 2.09,
-  "statements_retrieved_at": "2026-11-11T23:08:41.750699",
+  "retrieval_time": "2026-11-12T21:39:07.504561",
+  "provider_reported_pb_ratio": 2.15,
+  "statements_retrieved_at": "2026-11-12T21:39:07.504561",
   "retained_fields": []
 }

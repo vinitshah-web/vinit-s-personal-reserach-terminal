@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Agarwal Industrial Corporation Limited manufactures and trades in petrochemicals in India and internationally. It operates through five segments: Ancillary Infra - Bitumen & Allied Products, Petroleum Vessels Operating and Chartering, Petroleum Products, Logistics, and Windmill. The company provides various bituminous products, including viscosity grade bitumen and industrial grade bitumen; paving grade bitumen and crumb rubber modified bitumen; polymer modified bitumen, such as ethylene vinyl acetate, ethylene butyl acrylate, ethylene ter polymer, styrene-butadiene styrene, and styrene isoprene styrene; byproducts waterproof materials comprising bitubond, bituplast, bituminous black, bitukote, bituprimer, bitufelt, and cable compound; bitumen insulation materials; and bitumen emulsions. It is involved in the transportation of bulk bitumen and liquefied petroleum gas; rubber processing oil; and generation of power through windmills, as well as imports and stores bitumen. The company was formerly known as Bombay Baroda Roadways (India) Limited and changed its name to Agarwal Industrial Corporation Limited in March 2008. Agarwal Industrial Corporation Limited was incorporated in 1995 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 642.21,
-  "pe_ratio": 15.7,
+  "market_cap_cr": 660.91,
+  "pe_ratio": 16.16,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 460.71,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:08:15.348575",
-  "provider_reported_pb_ratio": 0.93,
-  "statements_retrieved_at": "2026-11-11T23:08:15.348575",
+  "retrieval_time": "2026-11-12T21:38:39.478425",
+  "provider_reported_pb_ratio": 0.96,
+  "statements_retrieved_at": "2026-11-12T21:38:39.478425",
   "retained_fields": []
 }

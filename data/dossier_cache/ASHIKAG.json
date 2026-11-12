@@ -5,8 +5,8 @@
   "industry": "Credit Services",
   "business_summary": "Ashika Global Securities Limited provides investment and lending solutions in India. It provides loans and advances, loans against securities, inter-corporate deposits, and investment in shares and securities. The company also offers retail broking; lending; investment banking; global family office services; alternative investment funds; research advisory; institutional broking; private equity services; and insurance and insurance related services. It serves individuals, corporates, and financial institutions. The company was formerly known as Ashika Credit Capital Limited and changed its name to Ashika Global Securities Limited in January 2026. Ashika Global Securities Limited was incorporated in 1994 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2724.16,
-  "pe_ratio": 31.85,
+  "market_cap_cr": 2712.33,
+  "pe_ratio": 31.71,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 172.17,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:11:36.875009",
-  "provider_reported_pb_ratio": 2.14,
-  "statements_retrieved_at": "2026-11-11T23:11:36.875009",
+  "retrieval_time": "2026-11-12T21:42:23.137307",
+  "provider_reported_pb_ratio": 2.13,
+  "statements_retrieved_at": "2026-11-12T21:42:23.137307",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Alpine Texworld Limited manufactures and trades in textiles in India. The company offers grey cloth products. It also engages in the spinning of cotton yarn; and the sizing and weaving of cotton/ blended yarn. The company was formerly known as Alpine Spinweave Limited and changed its name to Alpine Texworld Limited in February 2025. Alpine Texworld Limited was incorporated in 2016 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 161.82,
-  "pe_ratio": 7.54,
+  "market_cap_cr": 162.21,
+  "pe_ratio": 7.56,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 27.79,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:09:27.033969",
-  "provider_reported_pb_ratio": 1.52,
-  "statements_retrieved_at": "2026-11-11T23:09:27.033969",
+  "retrieval_time": "2026-11-12T21:39:56.511057",
+  "provider_reported_pb_ratio": 1.53,
+  "statements_retrieved_at": "2026-11-12T21:39:56.511057",
   "retained_fields": []
 }

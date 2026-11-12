@@ -5,14 +5,14 @@
   "industry": "Capital Markets",
   "business_summary": "Motilal Oswal Financial Services Limited offers financial services in India. It operates through Wealth Management, Capital Markets, Asset and Private Wealth Management, Home Finance, and Treasury Investments segments. The company offers wealth and asset management, private wealth management, and home finance; stock broking, securities brokerage, investment funds shares brokerage, and commodity contracts brokerage services; and financial and insurance services. It also offers institutional equities services, including cash and derivatives; private equity services; and investment banking services. It serves high net worth individuals; and mutual funds, foreign institutional investors, financial institutions, and corporate clients. Motilal Oswal Financial Services Limited was founded in 1987 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 69734.31,
-  "pe_ratio": 26.28,
+  "market_cap_cr": 73370.27,
+  "pe_ratio": 27.65,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 257.97,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 60.2977,
-  "fifty_two_week_high": 1191.95,
+  "fifty_two_week_high": 1227.5,
   "fifty_two_week_low": 614.9,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:45:50.657371",
-  "provider_reported_pb_ratio": 4.48,
-  "statements_retrieved_at": "2026-11-11T23:45:50.657371",
+  "retrieval_time": "2026-11-12T22:19:46.403802",
+  "provider_reported_pb_ratio": 4.72,
+  "statements_retrieved_at": "2026-11-12T22:19:46.403802",
   "retained_fields": []
 }

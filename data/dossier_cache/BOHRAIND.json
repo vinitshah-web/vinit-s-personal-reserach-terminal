@@ -5,7 +5,7 @@
   "industry": "Agricultural Inputs",
   "business_summary": "Bohra Industries Limited manufactures and trades in phosphate fertilizers in India. The company offers single super phosphate, granulated single super phosphate, and triple super phosphate. It engages in the trading of fertilizers, agro-chemicals, and industrial chemicals, as well as minerals, ores, metals, industrial materials, and related products. In addition, the company provides engineering, procurement, construction and consultancy services for industrial and infrastructure projects. Further, it is involved in power and renewable energy sector, including wind, and solar and captive power projects. It markets its products under the MAHALAXMI brand. The company also offers its products through a network of dealers. The company was incorporated in 1996 and is based in Udaipur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 27.99,
+  "market_cap_cr": 27.42,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:16:02.396581",
-  "provider_reported_pb_ratio": 0.38,
-  "statements_retrieved_at": "2026-11-11T23:16:02.396581",
+  "retrieval_time": "2026-11-12T21:47:10.778580",
+  "provider_reported_pb_ratio": 0.37,
+  "statements_retrieved_at": "2026-11-12T21:47:10.778580",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Food Distribution",
   "business_summary": "Dodla Dairy Limited, together with its subsidiaries, engages in the production and sale of milk and value-added dairy products in India and internationally. The company offers flavoured, toned, standardized, full cream, ultrahigh temperature processed (UHT)-toned, UHT cow, and UHT-double toned milk; and milk products, such as butter milk, lassi, ghee, paneer, cheese, curd, flavored milk, yoghurt, butter, ice cream, and sweets. It also engages production and sale of cattle feed. The company was incorporated in 1995 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 5815.9,
-  "pe_ratio": 26.97,
+  "market_cap_cr": 5825.25,
+  "pe_ratio": 27.01,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 285.14,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:22:04.366423",
-  "provider_reported_pb_ratio": 3.38,
-  "statements_retrieved_at": "2026-11-11T23:22:04.366423",
+  "retrieval_time": "2026-11-12T21:53:35.172496",
+  "provider_reported_pb_ratio": 3.39,
+  "statements_retrieved_at": "2026-11-12T21:53:35.172496",
   "retained_fields": []
 }

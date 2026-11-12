@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Welspun Living Limited manufactures and sells home textile products in India and internationally. It operates through two segments, Home Textiles and Flooring. The company offers bath solutions, such as towels, bathrobes, and bath rugs; bed linen, duvet covers, pillows, pillowcases, top-of-bed products, utility and fashion bedding, and bed sheets; mats, carpet tiles, broadloom, area rugs, artificial turf, wall to wall carpets, SPC tiles, and artificial grass; and wet wipes, beaty sheet masks, and other nonwoven fabrics. It also engages in the power generation, real estate, and industrial park development businesses, as well as trading of home textile products. The company sells its products under the owned and licensed brands, such as Christy, Spaces, Welspun, Welspun Flooring, SPUN, Welhome, and Martha Stewart. It sells its products through online and offline stores. The company was formerly known as Welspun India Limited and changed its name to Welspun Living Limited in September 2023. Welspun Living Limited was incorporated in 1985 and is headquartered in Mumbai, India. Welspun Living Limited is a subsidiary of Welspun Group Master Trust.",
   "business_summary_reason": null,
-  "market_cap_cr": 24075.57,
-  "pe_ratio": 55.96,
+  "market_cap_cr": 23312.06,
+  "pe_ratio": 54.18,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 53.93,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T00:13:14.029592",
-  "provider_reported_pb_ratio": 4.74,
-  "statements_retrieved_at": "2026-11-12T00:13:14.029592",
+  "retrieval_time": "2026-11-12T22:48:45.472853",
+  "provider_reported_pb_ratio": 4.59,
+  "statements_retrieved_at": "2026-11-12T22:48:45.472853",
   "retained_fields": []
 }

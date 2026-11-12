@@ -5,8 +5,8 @@
   "industry": "Banks - Regional",
   "business_summary": "Tamilnad Mercantile Bank Limited provides banking and financial products and services in India. It operates through the Treasury, Corporate and Wholesale Banking, Retail Banking, and Other Banking Operations segments. The company offers savings, fixed, recurring, term deposit, and current accounts; debit and credit cards; and demat and equity trading accounts, mutual fund, insurance, portfolio management, online bill payment, sovereign gold bond scheme, forex, e-tax payment, e-stamping, SMS alert, POS terminal, and Internet and mobile banking services. It also provides home, car, two wheeler, personal, LAP, pension, gold overdraft, education, jewel, traders and services, MSME, vyapari, GST, commercial vehicles, rice and dhall mill, Mahalir, doctor, genset, pharma and healthcare, green energy, smart business, and agricultural loans, as well as loans against sovereign gold bonds and secured overdraft facilities; NRI products; and microenterprise and pharma finance. The company was formerly known as The Nadar Bank Ltd. and changed its name to Tamilnad Mercantile Bank Limited in November 1962. Tamilnad Mercantile Bank Limited was incorporated in 1921 and is headquartered in Thoothukudi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 13825.08,
-  "pe_ratio": 8.76,
+  "market_cap_cr": 14106.16,
+  "pe_ratio": 8.94,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 680.1,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T00:08:25.634860",
-  "provider_reported_pb_ratio": 1.28,
-  "statements_retrieved_at": "2026-11-12T00:08:25.634860",
+  "retrieval_time": "2026-11-12T22:43:31.895775",
+  "provider_reported_pb_ratio": 1.31,
+  "statements_retrieved_at": "2026-11-12T22:43:31.895775",
   "retained_fields": []
 }

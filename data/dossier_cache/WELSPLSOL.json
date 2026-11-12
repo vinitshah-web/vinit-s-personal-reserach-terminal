@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "Welspun Specialty Solutions Limited manufactures and sells steel and steel products in India and internationally. The company offers alloy, stainless, and Ni-alloy steel products; cast blooms and ingots; round bars and corner squares; peeled and polished bright bars; and heat treated products, such as annealed, spheroidised annealed, normalized, and soft annealed. It also provides billets, black bars, tubes, pipes, and hollow profiles of tube or pipe fittings; hot and cold-rolled steel products; and tube and tube fittings of steel. In addition, the company serves various sectors, including aerospace, automotive, dairy, machine building, pharmaceutical, shipbuilding/marine, architecture, consumer goods, energy and power, nuclear power, petrochemical, waste incineration, agriculture/fertiliser, engineering, railways, oil and gas, and defense. It exports its products. The company was formerly known as RMG Alloy Steel Limited and changed its name to Welspun Specialty Solutions Limited in August 2019. The company was incorporated in 1980 and is based in Mumbai, India. Welspun Specialty Solutions Limited is a subsidiary of Welspun Corp Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 2879.71,
-  "pe_ratio": 206.95,
+  "market_cap_cr": 2865.79,
+  "pe_ratio": 205.95,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 7.1,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T00:13:12.731634",
-  "provider_reported_pb_ratio": 6.12,
-  "statements_retrieved_at": "2026-11-12T00:13:12.731634",
+  "retrieval_time": "2026-11-12T22:48:43.931469",
+  "provider_reported_pb_ratio": 6.09,
+  "statements_retrieved_at": "2026-11-12T22:48:43.931469",
   "retained_fields": []
 }

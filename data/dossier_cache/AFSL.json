@@ -5,14 +5,14 @@
   "industry": "Capital Markets",
   "business_summary": "Abans Financial Services Limited, together with its subsidiaries, operates as a non-banking finance company in India and internationally. It operates through Fee Based Investment Services, Principal Investment & Treasury, Lending & Credit Solutions, and Others segments. The company provides wealth and asset management services, including financial asset distribution, broking, lending, credit, investment solutions, asset and portfolio management, treasury operations, and allied activities. It also engages in trading of commodities, securities, and derivative contracts, as well as offers lending services to private traders, and other small and medium businesses involved in the commodities trading market. In addition, the company provides client-based institutional trading, wealth management and private client brokerage services in the areas of equity, commodities, and foreign exchange; invests in physical and exchange traded commodities, and other instruments; and offers warehousing services to commodity market participants. Additionally, it is involved in the trading of derivatives, agricultural products, base metals, and other precious metals; and provision of secured and unsecured loans. The company was formerly known as Abans Holdings Limited and changed its name to Abans Financial Services Limited in January 2025. Abans Financial Services Limited was incorporated in 2009 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1046.22,
-  "pe_ratio": 7.7,
+  "market_cap_cr": 1030.6,
+  "pe_ratio": 7.59,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 246.75,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 5.1215,
-  "fifty_two_week_high": 227.0,
+  "fifty_two_week_high": 223.0,
   "fifty_two_week_low": 198.51,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:08:13.968145",
-  "provider_reported_pb_ratio": 0.83,
-  "statements_retrieved_at": "2026-11-11T23:08:13.968145",
+  "retrieval_time": "2026-11-12T21:38:38.208443",
+  "provider_reported_pb_ratio": 0.82,
+  "statements_retrieved_at": "2026-11-12T21:38:38.208443",
   "retained_fields": []
 }

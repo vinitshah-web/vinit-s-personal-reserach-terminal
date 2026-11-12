@@ -5,7 +5,7 @@
   "industry": "Information Technology Services",
   "business_summary": "Xelpmoc Design and Tech Limited, a technology-driven company, provides consulting, software development, and digital transformation solutions to enterprises, startups, and government organizations in India and internationally. The company's products include DocuXray, an AI-powered document intelligence platform designed to help enterprises process, analyse, and derive actionable insights from large volumes of structured and unstructured documents; VideoXray, a video intelligence platform designed to analyze, process, and derive actionable insights from video content and workflows; and RELY, an ERP platform built for senior living operators to streamline operations, workflows, and decision-making across facilities. It also provides technology services and solutions to public and private sector clients engaged in e-commerce, hospitality, healthcare, education, and various other industries. In addition, the company offers mobile and web application development, prototype development, thematic product development, and data analytics assistance. Further, it provides enterprise AI and digital transformation solutions; and LegalTech and BFSI solutions. Xelpmoc Design and Tech Limited was incorporated in 2015 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 126.64,
+  "market_cap_cr": 124.7,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T00:13:43.295306",
-  "provider_reported_pb_ratio": 1.68,
-  "statements_retrieved_at": "2026-11-12T00:13:43.295306",
+  "retrieval_time": "2026-11-12T22:49:15.277502",
+  "provider_reported_pb_ratio": 1.66,
+  "statements_retrieved_at": "2026-11-12T22:49:15.277502",
   "retained_fields": []
 }

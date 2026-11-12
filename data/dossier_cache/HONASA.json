@@ -5,8 +5,8 @@
   "industry": "Household & Personal Products",
   "business_summary": "Honasa Consumer Limited operates as a digital beauty and personal care company in India and internationally. The company provides baby care, skin and hair care, color cosmetics, other related personal care products, as well as beauty salon and hair styling services. It sells in products under the Mamaearth, The Derma Co., BBlunt, Aqualogica, Lumineve, Reginald Men, Molecular, Staze, and Dr. Sheth's brands through online and offline stores. The company was formerly known as Honasa Consumer Private Limited and changed its name to Honasa Consumer Limited in November 2022. Honasa Consumer Limited was incorporated in 2016 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 15857.22,
-  "pe_ratio": 56.18,
+  "market_cap_cr": 16172.08,
+  "pe_ratio": 57.3,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 45.54,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:32:15.097573",
-  "provider_reported_pb_ratio": 10.67,
-  "statements_retrieved_at": "2026-11-11T23:32:15.097573",
+  "retrieval_time": "2026-11-12T22:04:55.546279",
+  "provider_reported_pb_ratio": 10.88,
+  "statements_retrieved_at": "2026-11-12T22:04:55.546279",
   "retained_fields": []
 }

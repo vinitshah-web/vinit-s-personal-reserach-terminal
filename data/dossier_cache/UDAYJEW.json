@@ -6,7 +6,7 @@
   "business_summary": "Uday Jewellery Industries Limited engages in the manufacturing and sales of fashion jewellery in India and internationally. The company offers gold jewellery studded with precious and semi-precious natural gemstones, flat diamonds, rose cut diamonds, diamonds, and cubic zirconia. It also provides short and long necklace, bangles, bracelets, maang tikka, and earrings. The company distributes its products through retail and wholesale distribution network. It also exports its products. The company was formerly known as Hifunda Limited and changed its name to Uday Jewellery Industries Limited in October 2011. Uday Jewellery Industries Limited was founded in 1905 and is based in Hyderabad, India.",
   "business_summary_reason": null,
   "market_cap_cr": null,
-  "pe_ratio": 18.94,
+  "pe_ratio": 18.13,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 87.93,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T00:09:36.538909",
-  "provider_reported_pb_ratio": 2.59,
-  "statements_retrieved_at": "2026-11-12T00:09:36.538909",
+  "retrieval_time": "2026-11-12T22:44:48.447869",
+  "provider_reported_pb_ratio": 2.48,
+  "statements_retrieved_at": "2026-11-12T22:44:48.447869",
   "retained_fields": []
 }

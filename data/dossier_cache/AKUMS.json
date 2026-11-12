@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Akums Drugs and Pharmaceuticals Limited manufactures and sells pharmaceutical products and active pharmaceutical ingredients India and internationally. The company provides drugs, ayurvedic, nutraceuticals, food and dietary supplements, derma and cosmetics, healthcare and hospital products, over-the-counter (OTC) products, active pharmaceutical ingredients, excipients, and compounds. It also offers branded formulations on various dosage forms, including tablets, hard and soft gelatin capsules, liquid orals, sachets, vials, ampoules, form-fill-seal products, topical preparations, eye drops, dry powder injections, and gummies for therapeutic areas, such as antiinfectives, pain management, gastroenterology, orthopaedics, cardio-diabetic care, critical care, respiratory, and gynaecology. In addition, the company operates as pharmaceutical contract development and manufacturing company. Akums Drugs and Pharmaceuticals Limited was incorporated in 2004 and is based in Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 11786.56,
-  "pe_ratio": 32.4,
+  "market_cap_cr": 11481.12,
+  "pe_ratio": 31.56,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 228.76,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:08:59.181327",
-  "provider_reported_pb_ratio": 3.37,
-  "statements_retrieved_at": "2026-11-11T23:08:59.181327",
+  "retrieval_time": "2026-11-12T21:39:27.172281",
+  "provider_reported_pb_ratio": 3.28,
+  "statements_retrieved_at": "2026-11-12T21:39:27.172281",
   "retained_fields": []
 }

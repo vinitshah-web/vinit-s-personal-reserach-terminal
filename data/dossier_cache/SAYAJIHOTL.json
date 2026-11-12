@@ -5,7 +5,7 @@
   "industry": "Lodging",
   "business_summary": "Sayaji Hotels Limited engages in owning, operating, and managing hotels in India. It operates hotels under the Sayaji, Effotel, Enrise, Sayaji Resorts & Spa, and The Forest Chapter brands. The company was incorporated in 1982 and is based in Indore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 525.54,
+  "market_cap_cr": 560.58,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:59:15.899160",
-  "provider_reported_pb_ratio": 3.38,
-  "statements_retrieved_at": "2026-11-11T23:59:15.899160",
+  "retrieval_time": "2026-11-12T22:33:41.270892",
+  "provider_reported_pb_ratio": 3.61,
+  "statements_retrieved_at": "2026-11-12T22:33:41.270892",
   "retained_fields": []
 }

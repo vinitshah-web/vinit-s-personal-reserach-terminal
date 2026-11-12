@@ -5,14 +5,14 @@
   "industry": "Capital Markets",
   "business_summary": "Dhunseri Investments Limited, a non-banking finance company, invests in shares and securities in India, Singapore, and internationally. The company operates through Trading, Treasury Operations, Flexible Packaging Films, and Tea segments. The Trading segment engages in trading PET resin. The Treasury Operations segment holds treasury assets for capital appreciation and other related gains. The Flexible Packaging Films segment engages in manufacturing BOPET films. The Tea segment invests in tea manufacturing companies. The company was formerly known as DI Marketing Limited. Dhunseri Investments Limited was incorporated in 1997 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 582.86,
-  "pe_ratio": 6.36,
+  "market_cap_cr": 612.67,
+  "pe_ratio": 6.68,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 4497.93,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 0.6097,
-  "fifty_two_week_high": 1392.9,
+  "fifty_two_week_high": 1367.5,
   "fifty_two_week_low": 667.1,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:21:31.705983",
-  "provider_reported_pb_ratio": 0.21,
-  "statements_retrieved_at": "2026-11-11T23:21:31.705983",
+  "retrieval_time": "2026-11-12T21:53:01.771826",
+  "provider_reported_pb_ratio": 0.22,
+  "statements_retrieved_at": "2026-11-12T21:53:01.771826",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Agricultural Inputs",
   "business_summary": "Mangalam Seeds Limited produces, processes, and markets hybrid and GM seeds in India. It offers grain, oil, spicy, pulse, fiber, fodder, kitchen garden vegetable, and hybrid vegetable seeds. The company markets its products through distributors, dealers, and retailers. Mangalam Seeds Limited was incorporated in 2011 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 150.43,
-  "pe_ratio": 18.07,
+  "market_cap_cr": 153.6,
+  "pe_ratio": 18.46,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 80.6,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:46:09.245944",
-  "provider_reported_pb_ratio": 1.7,
-  "statements_retrieved_at": "2026-11-11T23:46:09.245944",
+  "retrieval_time": "2026-11-12T22:20:06.206307",
+  "provider_reported_pb_ratio": 1.74,
+  "statements_retrieved_at": "2026-11-12T22:20:06.206307",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "VA Tech Wabag Limited, together with its subsidiaries, engages in the design, supply, installation, construction, operation, and maintenance of drinking water, waste and industrial water treatment, and desalination plants in India and internationally. The company offers drinking water treatment, desalination, wastewater treatment, industrial water treatment, effluent treatment, sludge treatment, water reclamation, industrial water recycling, zero liquid discharge, potable reuse, vio CNG, and high purity water solutions. It also provides engineering, procurement, construction, and operation and maintenance of water and wastewater treatment plants including PPP projects under HAM and BOOT Models. The company serves municipal water and wastewater, oil and gas, power plants, steel, food and beverage, fertilizer, industrial parks, PV solar, semiconductors, and green hydrogen industries. The company was formerly known as Balcke Durr and Wabag Technologies Limited and changed its name to VA Tech Wabag Limited in April 2000. VA Tech Wabag Limited was incorporated in 1995 and is headquartered in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 13021.44,
-  "pe_ratio": 30.75,
+  "market_cap_cr": 13011.44,
+  "pe_ratio": 30.73,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 440.91,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T00:12:55.832737",
+  "retrieval_time": "2026-11-12T22:48:25.297464",
   "provider_reported_pb_ratio": 4.72,
-  "statements_retrieved_at": "2026-11-12T00:12:55.832737",
+  "statements_retrieved_at": "2026-11-12T22:48:25.297464",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Chemicals",
   "business_summary": "The Andhra Sugars Limited, together with its subsidiaries, manufactures and sells organic and inorganic chemicals in India. It operates through Sugars, Chlor Alkali, Power Generation, Industrial Chemicals, and Others segments. The company offers chemicals and fertilizers, including poly aluminum chlorides, super phosphates, sulphuric acids, hydrogen gases, sodium hypochlorite, hydrochloric acids, liquid chlorine, potassium carbonates, caustic potash, ethanol, rectified spirits/industrial alcohol, and caustic soda. It also provides sugar products. In addition, the company offers aspirin products, including salicylic acids, sodium salicylate, aspirin starch granules, and acetylsalicylic acids, as well as aspirin IP, USP, and BP products. Further, the company provides soaps, glycerin, fatty acids, liquid and solid propellants, and bulk drugs; bulk drugs and cattle feed, and superphosphate; and liquid hydrogen, UH 25 and MMH, and HTPB products. Additionally, it engages in power generation through coal, wind, and solar resources. It also exports its products. The Andhra Sugars Limited was incorporated in 1947 and is based in Tanuku, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1112.75,
-  "pe_ratio": 10.69,
+  "market_cap_cr": 1089.98,
+  "pe_ratio": 10.47,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 123.33,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:09:56.176697",
-  "provider_reported_pb_ratio": 0.67,
-  "statements_retrieved_at": "2026-11-11T23:09:56.176697",
+  "retrieval_time": "2026-11-12T21:40:28.080933",
+  "provider_reported_pb_ratio": 0.65,
+  "statements_retrieved_at": "2026-11-12T21:40:28.080933",
   "retained_fields": []
 }

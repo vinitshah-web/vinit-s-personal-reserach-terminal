@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "FDC Limited, together with its subsidiaries, manufactures and trades in pharmaceutical products in India, the United States, and internationally. The company offers pharmaceutical formulations for various therapeutic segments, including anti-infectives, gastroenterology, ophthalmology, anti-diabetics, cardiovascular care, respiratory care, gynaecology, dermatology, paediatrics, analgesics, vitamins, and nutritional health in the form of tablets, capsules, oral liquids, ophthalmic drops, topical preparations, and paediatric-friendly solutions. It also provides functional food, such as flavoured oral rehydration solution powders, ready-to-drink electrolyte beverages, vitamin-enriched supplements, antioxidant blends and protein-fortified drinks; and various active pharmaceutical ingredients. The company sells its products under the Zifi, Zifi-0, Zocon, Mycoderm, Zathrin, Victofol, Cotaryl, Ziglim-M, Amodep-AT, MumMum 1, Victofol Injection, Simyl MCT, Victofol \u0096 C, Electral, and Enerzal brands. It also exports its products to approximately 50 countries. FDC Limited was founded in 1936 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 6403.32,
-  "pe_ratio": 20.44,
+  "market_cap_cr": 6356.11,
+  "pe_ratio": 20.29,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 163.75,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:25:17.263256",
-  "provider_reported_pb_ratio": 2.4,
-  "statements_retrieved_at": "2026-11-11T23:25:17.263256",
+  "retrieval_time": "2026-11-12T21:57:06.881555",
+  "provider_reported_pb_ratio": 2.38,
+  "statements_retrieved_at": "2026-11-12T21:57:06.881555",
   "retained_fields": []
 }

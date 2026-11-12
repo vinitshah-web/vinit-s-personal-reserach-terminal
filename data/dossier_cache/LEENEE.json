@@ -5,8 +5,8 @@
   "industry": "Information Technology Services",
   "business_summary": "Lee & Nee Softwares (Exports) Ltd. designs, develops, manufactures, processes, and assembles computer software, hardware, and allied products in India and worldwide. The company offers SAP Business One for small to medium-sized enterprises; BizERP, an enterprise resource planning software for manufacturing and trading industries; Campus Konnect, a software to manage the day-to-day operations of schools, colleges, and universities; artificial intelligence(AI) solutions, such as AI chatbots, voice AI, conversational agents, and enterprise GPT; and Spine HR Management Software, a secure and cloud-enabled system management software. It also provides website and e-commerce design and development, mobile application development, and cloud services. In addition, the company offers digital marketing services comprising search engine marketing and optimization, content and email marketing, LinkedIn and YouTube marketing, Google my business page, social media optimization, and pay per click services. Further, it is involved in share trading and brokerage businesses. Lee & Nee Softwares (Exports) Ltd. was incorporated in 1988 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 40.16,
-  "pe_ratio": 90.0,
+  "market_cap_cr": 40.38,
+  "pe_ratio": 90.5,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 13.41,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:40:13.223072",
+  "retrieval_time": "2026-11-12T22:13:33.363943",
   "provider_reported_pb_ratio": 0.54,
-  "statements_retrieved_at": "2026-11-11T23:40:13.223072",
+  "statements_retrieved_at": "2026-11-12T22:13:33.363943",
   "retained_fields": []
 }

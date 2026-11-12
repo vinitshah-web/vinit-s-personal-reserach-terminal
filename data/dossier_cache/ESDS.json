@@ -5,8 +5,8 @@
   "industry": "Information Technology Services",
   "business_summary": "ESDS Software Solution Limited operates as a provider of cloud and data center services, offering integrated solutions across cloud infrastructure, managed services, and software platforms. The company provides cloud infrastructure solutions, including Infrastructure as a Service (IaaS), Software as a Service (SaaS), and managed services. It offers government community cloud (GCC) and enterprise community cloud (ECC) platforms, managed security services, advanced IT assistance, and pay-per-use models. Its digital IT solutions include ERP, CRM, mobile applications, digital twins, IoT integration, SAP HANA services, cloud customer portals, and near-line disaster recovery services. The company operates data centers and supports IT operations for clients. The company serves banking and financial services, government and public sector bodies, healthcare providers, commercial, residential, facility management, retail, and manufacturing enterprises, as well as small to mid-sized businesses. The company was founded in 2005 and is based in Thane, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 14123.92,
-  "pe_ratio": 103.97,
+  "market_cap_cr": 14829.53,
+  "pe_ratio": 109.16,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 54.13,
@@ -63,8 +63,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:24:35.219392",
-  "provider_reported_pb_ratio": 22.26,
-  "statements_retrieved_at": "2026-11-11T23:24:35.219392",
+  "retrieval_time": "2026-11-12T21:56:20.712805",
+  "provider_reported_pb_ratio": 23.37,
+  "statements_retrieved_at": "2026-11-12T21:56:20.712805",
   "retained_fields": []
 }

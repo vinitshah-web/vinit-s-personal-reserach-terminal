@@ -5,8 +5,8 @@
   "industry": "Building Materials",
   "business_summary": "Pacific Industries Limited, together with its subsidiaries, engages in the manufacture and trading of granite tiles and slabs, and quartz slabs in India. The company also provides marbles. In addition, it is involved in trading activities; and investment and finance businesses, as well as provision of other goods and commissioning and mining activities. The company also exports its products. Pacific Industries Limited was incorporated in 1989 and is based in Udaipur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 91.41,
-  "pe_ratio": 33.24,
+  "market_cap_cr": 91.53,
+  "pe_ratio": 33.28,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 643.15,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:50:32.453244",
+  "retrieval_time": "2026-11-12T22:24:51.270018",
   "provider_reported_pb_ratio": 0.21,
-  "statements_retrieved_at": "2026-11-11T23:50:32.453244",
+  "statements_retrieved_at": "2026-11-12T22:24:51.270018",
   "retained_fields": []
 }

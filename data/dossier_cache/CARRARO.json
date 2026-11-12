@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Carraro India Limited manufactures and sells automotive equipment, parts, and components in India and internationally. The company offers mechanical transmissions, clutches, hydraulic lifts and planetary drives, and axles for agricultural tractors; and construction equipment, including components, parts and spares, backhoe loaders, soil compactors, cranes, self-loading concrete mixers, and small motor graders. It also provides gears, shafts, and ring gears for industrial, automotive, and material handling applications. The company was incorporated in 1997 and is based in Pune, India. Carraro India Limited operates as a subsidiary of Carraro International S.E.",
   "business_summary_reason": null,
-  "market_cap_cr": 2804.49,
-  "pe_ratio": 21.11,
+  "market_cap_cr": 2810.74,
+  "pe_ratio": 21.16,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 99.31,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:17:16.130316",
-  "provider_reported_pb_ratio": 4.97,
-  "statements_retrieved_at": "2026-11-11T23:17:16.130316",
+  "retrieval_time": "2026-11-12T21:48:26.209585",
+  "provider_reported_pb_ratio": 4.98,
+  "statements_retrieved_at": "2026-11-12T21:48:26.209585",
   "retained_fields": []
 }

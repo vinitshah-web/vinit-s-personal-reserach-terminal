@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Chemcon Speciality Chemicals Limited engages in the manufacture and sale of specialty chemicals for pharmaceutical, agro-chemical, textile, personal care, construction, automotive, electronics, aromatic chemicals, fine chemical, silanes, and oilfield chemicals industries in India and internationally. The company offers oilfield chemicals, including calcium bromide liquid, calcium bromide powder, sodium bromide solution, and zinc bromide solution; pharmaceutical chemicals, such as hexamethyl disilazane, trimethyl chlorosilane, hexamethyl disiloxane, bromobenzene, dibromomethane, and chloromethyl isopropyl carbonate; silanes comprising hexamethyl disilazane, trimethyl chlorosilane, and hexamethyl disiloxane; agro chemicals, including bromobenzene, ammonium chloride, and dibromomethane; and fragrance chemicals. The company also provides contract development and manufacturing services. The company was incorporated in 1988 and is based in Vadodara, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 732.65,
-  "pe_ratio": 24.45,
+  "market_cap_cr": 748.62,
+  "pe_ratio": 24.98,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 130.27,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:18:04.920314",
-  "provider_reported_pb_ratio": 1.54,
-  "statements_retrieved_at": "2026-11-11T23:18:04.920314",
+  "retrieval_time": "2026-11-12T21:49:19.704175",
+  "provider_reported_pb_ratio": 1.57,
+  "statements_retrieved_at": "2026-11-12T21:49:19.704175",
   "retained_fields": []
 }

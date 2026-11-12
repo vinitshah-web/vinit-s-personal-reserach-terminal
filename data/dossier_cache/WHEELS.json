@@ -5,14 +5,14 @@
   "industry": "Auto Parts",
   "business_summary": "Wheels India Limited, together with its subsidiary, manufactures and sells automotive and industrial components in India and internationally. The company provides steel, cast aluminum, forged aluminum, and wire wheel for use in passenger and light cargo vehicles, trucks, trailers, buses, agriculture and farm equipment, off-road vehicles, and defense vehicles; vehicle chassis and suspensions; wind turbines; fabricated and precision products for construction, mining vehicle, and other equipment; hydraulic cylinders for energy equipment and off-road vehicles; and railway products, such as bogie frames and bolsters. It also offers components and structures for windmill, railways, and thermal power plants. The company was incorporated in 1960 and is headquartered in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 6373.36,
-  "pe_ratio": 30.27,
+  "market_cap_cr": 6575.37,
+  "pe_ratio": 31.23,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 615.39,
-  "dividend_yield_pct": 0.3828,
+  "dividend_yield_pct": 0.3852,
   "shares_outstanding_cr": 2.6862,
-  "fifty_two_week_high": 2515.8,
+  "fifty_two_week_high": 2549.0,
   "fifty_two_week_low": 705.85,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T00:13:21.290465",
-  "provider_reported_pb_ratio": 3.86,
-  "statements_retrieved_at": "2026-11-12T00:13:21.290465",
+  "retrieval_time": "2026-11-12T22:48:53.030372",
+  "provider_reported_pb_ratio": 3.98,
+  "statements_retrieved_at": "2026-11-12T22:48:53.030372",
   "retained_fields": []
 }

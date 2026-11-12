@@ -5,7 +5,7 @@
   "industry": "Aerospace & Defense",
   "business_summary": "Aequs Limited, a contract manufacturing company, engages in the provision of integrated products solutions in India, the United States of America, France, Hong Kong, Sweden, United Kingdom, Germany, and internationally. It operates through Aerospace and Consumer segments. The company operates a fully vertically integrated aerospace manufacturing value chain that offers end-to-end manufacturing and integration solutions, such as forging, precision machining, surface engineering, and aero structure assembly. It also manufactures aluminum non-stick and ceramic coating cookware, triply cookware and triply cooker, kitchenware and houseware including cookware, bakeware utensils, cutlery and cutting boards; consumer electronic products comprising of components for portable computers and smart devices; as well as plastic products such as outdoor games/darts, toy vehicles, figures, dolls, role play toys and STEM toys. The company was incorporated in 2000 and is based in Belagavi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 15759.72,
+  "market_cap_cr": 15591.42,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T23:08:00.134152",
-  "provider_reported_pb_ratio": 11.31,
-  "statements_retrieved_at": "2026-11-11T23:08:00.134152",
+  "retrieval_time": "2026-11-12T21:38:22.590550",
+  "provider_reported_pb_ratio": 11.19,
+  "statements_retrieved_at": "2026-11-12T21:38:22.590550",
   "retained_fields": []
 }
