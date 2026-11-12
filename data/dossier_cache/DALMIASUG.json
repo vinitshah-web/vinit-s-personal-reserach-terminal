@@ -35,15 +35,15 @@
       "period_end": "2025-03-31",
       "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 3724.94,
-      "ebitda_cr": 538.7,
+      "ebitda_cr": 537.6,
       "net_income_cr": 365.5,
       "operating_cash_flow_cr": 409.84,
       "capex_cr": 143.32,
       "fcff_cr": 266.52,
-      "total_assets_cr": 4863.45,
-      "total_equity_cr": 3234.52,
+      "total_assets_cr": 4648.45,
+      "total_equity_cr": 3063.21,
       "total_debt_cr": 1044.08,
-      "cash_cr": 333.34
+      "cash_cr": 286.93
     },
     {
       "period": "FY24 (2024)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-11T21:47:07.755265",
+  "retrieval_time": "2026-11-11T23:20:11.109396",
   "provider_reported_pb_ratio": 1.18,
-  "statements_retrieved_at": "2026-11-11T21:47:07.755265",
+  "statements_retrieved_at": "2026-11-11T23:20:11.109396",
   "retained_fields": []
 }
