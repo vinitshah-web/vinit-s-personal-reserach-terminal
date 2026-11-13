@@ -74,27 +74,12 @@
       "total_equity_cr": 1438.21,
       "total_debt_cr": 1246.45,
       "cash_cr": 74.59
-    },
-    {
-      "period": "FY22 (2022)",
-      "period_end": "2022-03-31",
-      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
-      "revenue_cr": null,
-      "ebitda_cr": null,
-      "net_income_cr": null,
-      "operating_cash_flow_cr": null,
-      "capex_cr": null,
-      "fcff_cr": null,
-      "total_assets_cr": null,
-      "total_equity_cr": null,
-      "total_debt_cr": null,
-      "cash_cr": null
     }
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-13T21:08:05.474288",
+  "retrieval_time": "2026-11-13T22:21:57.348286",
   "provider_reported_pb_ratio": 6.65,
-  "statements_retrieved_at": "2026-11-13T21:08:05.474288",
+  "statements_retrieved_at": "2026-11-13T22:21:57.348286",
   "retained_fields": []
 }

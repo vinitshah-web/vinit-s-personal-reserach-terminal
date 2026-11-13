@@ -6,10 +6,10 @@
   "business_summary": "Orient Technologies Limited provides information technology services in India and internationally. It operates through IT Infrastructure Solutions; and IT Infrastructure and Application Services segments. The company provides IT infrastructure and technology services, such as infrastructure design, systems integration, data centres, cloud, hyperconverged infrastructure, software defined wide area networking, software-defined storage and virtual desktop infrastructure solutions. It also offers IaaS, PaaS, FaaS, DBaaS, storage as a service, as well as network as a service, security as a service, backup as a service, monitoring as a service, software as a service, content delivery network, and serverless computing solutions; and enterprise IT services, including infrastructure managed, break fix, managed print, cloud computing, systems integration, and applications development and maintenance services. In addition, the company provides managed services, such as monitoring, maintenance, and support of IT systems; multi vendor support; network operations centre services; and renewals of software licenses. Further, it offers data centre solutions that include servers, storage, active, and passive networking components; collaboration solutions for CCTV, virtual conferences, and meetings; and security solutions; as well as hyper converged infrastructure; virtualization solutions; and end-user computing that include desktop management, end-user support, and mobile device management. It serves BFSI, media, communication, healthcare, ITeS, manufacturing, government, infrastructure, real estate, logistics, education, e-commerce, conglomerates, energy, and service industries. The company was incorporated in 1997 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
   "market_cap_cr": 954.69,
-  "pe_ratio": 975.5,
+  "pe_ratio": 947.36,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
-  "book_value": 77.14,
+  "book_value": 73.44,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 4.5806,
   "fifty_two_week_high": 464.0,
@@ -93,11 +93,11 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-13T21:45:31.993319",
-  "provider_reported_pb_ratio": 2.7,
-  "statements_retrieved_at": "2026-11-13T21:45:31.993319",
+  "retrieval_time": "2026-11-13T23:01:35.727489",
+  "provider_reported_pb_ratio": 2.84,
+  "statements_retrieved_at": "2026-11-13T23:01:35.727489",
+  "previous_retrieval_time": "2026-11-13T21:45:31.993319",
   "retained_fields": [
-    "pe_ratio"
-  ],
-  "previous_retrieval_time": "2026-11-12T22:24:33.606487"
+    "previous_retrieval_time"
+  ]
 }

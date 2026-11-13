@@ -6,7 +6,7 @@
   "business_summary": "Par Drugs and Chemicals Limited develops, manufactures, and sells active pharmaceutical ingredients (APIs) and fine chemicals in India. The company provides API products, including magnesium hydroxide, magnesium oxide USP, sucralfate, almagate BP, dried aluminium hydroxide gel, light magnesium carbonate, magaldrate, magnesium trisilicate, colloidal silicon dioxide, aluminium magnesium silicate, magnesium aluminometasilicate, magnesium aluminosilicate-USP, magnesium oxide light, magnesium oxide heavy, magnesium aluminium hydrate, hydrotalcite, and synthetic aluminium silicate. It offers fine chemicals, such as precipitated silica, sodium aluminium silicate, amorphous aluminium hydroxide, Alusil, PARSIL-HT, aluminium hydroxide magnesium carbonate co-dried gel, magnesium aluminium silicate hydrated (pharma), and magnesium aluminium silicate hydrated (agro). Par Drugs and Chemicals Limited was founded in 1982 and is based in Vadodara, India.",
   "business_summary_reason": null,
   "market_cap_cr": 146.43,
-  "pe_ratio": 11.27,
+  "pe_ratio": 11.17,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 97.17,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-13T21:46:04.470455",
+  "retrieval_time": "2026-11-13T23:02:09.876998",
   "provider_reported_pb_ratio": 1.22,
-  "statements_retrieved_at": "2026-11-13T21:46:04.470455",
+  "statements_retrieved_at": "2026-11-13T23:02:09.876998",
   "retained_fields": []
 }

@@ -6,7 +6,7 @@
   "business_summary": "Exxaro Tiles Limited engages in the manufacture and trade of vitrified tiles used for flooring solutions in India and internationally. The company offers callistro marble, emarble series, surface, spanzia, prima, earthstone, and adhesive products under the Exxaro brand. Its company supplies its products through dealer network for infrastructure related projects, including accent wall, bathroom, kitchen, residential flooring, staircase solutions, and exterior applications. The company was formerly known as Ricasil Ceramic Industries Private Limited and changed its name to Exxaro Tiles Limited in December 2020. Exxaro Tiles Limited was founded in 2007 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
   "market_cap_cr": 281.42,
-  "pe_ratio": 52.42,
+  "pe_ratio": 69.89,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 6.5,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-13T21:19:16.737402",
+  "retrieval_time": "2026-11-13T22:33:50.434587",
   "provider_reported_pb_ratio": 0.97,
-  "statements_retrieved_at": "2026-11-13T21:19:16.737402",
+  "statements_retrieved_at": "2026-11-13T22:33:50.434587",
   "retained_fields": []
 }

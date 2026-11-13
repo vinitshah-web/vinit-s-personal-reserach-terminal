@@ -5,13 +5,13 @@
   "industry": "Software - Infrastructure",
   "business_summary": "Newgen Software Technologies Limited, a software company, engages in the business of software product development in India, Europe, the Middle East, Africa, the Asia Pacific, Australia, and the United States. It designs and delivers software solutions, including workflow automation, document management, and imaging. The company also offers the NewgenONE platform that include agentic AI, AI and data science, intelligent process automation, content services platform, omnichannel customer engagement, low code application development, governance and security, integration ecosystem, developer ecosystem, and pricing solutions, which are used in enterprise content management, records lifecycle management, business process management, workflow management, customer communication management, document management, case management, intelligent document processing, and email archival. It serves enterprise customers in the banking and financial services, government, healthcare, insurance, and other domains. Newgen Software Technologies Limited was incorporated in 1992 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 6207.46,
+  "market_cap_cr": 6199.02,
   "pe_ratio": 25.12,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 125.91,
   "dividend_yield_pct": 0.0,
-  "shares_outstanding_cr": 14.1352,
+  "shares_outstanding_cr": 14.116,
   "fifty_two_week_high": 958.0,
   "fifty_two_week_low": 401.05,
   "financial_statements": [
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-13T21:42:50.296238",
+  "retrieval_time": "2026-11-13T22:58:43.050540",
   "provider_reported_pb_ratio": 3.49,
-  "statements_retrieved_at": "2026-11-13T21:42:50.296238",
+  "statements_retrieved_at": "2026-11-13T22:58:43.050540",
   "retained_fields": []
 }

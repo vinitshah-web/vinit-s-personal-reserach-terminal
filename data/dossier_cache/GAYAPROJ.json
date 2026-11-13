@@ -6,7 +6,7 @@
   "business_summary": "Gayatri Projects Limited engages in the construction business in India. The company is involved in engineering, procurement and construction of roads, irrigation, rail, airports development, power, and industrial works, as well as transportation, water works, land development, and mining projects. It also engages in the ownership of infrastructure assets; and vehicle bridges and tunnels and toll roads. Gayatri Projects Limited was founded in 1963 and is based in Hyderabad, India.",
   "business_summary_reason": null,
   "market_cap_cr": 859.42,
-  "pe_ratio": 0.17,
+  "pe_ratio": 0.16,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 32.42,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-13T21:20:57.893567",
+  "retrieval_time": "2026-11-13T22:35:37.888230",
   "provider_reported_pb_ratio": 0.57,
-  "statements_retrieved_at": "2026-11-13T21:20:57.893567",
+  "statements_retrieved_at": "2026-11-13T22:35:37.888230",
   "retained_fields": []
 }

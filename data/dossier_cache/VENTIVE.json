@@ -6,7 +6,7 @@
   "business_summary": "Ventive Hospitality Limited engages in the hotel and resorts operations in India and internationally. It operates through three segments: Hospitality, Commercial Leasing, and Others. The company is also involved in the leasing of commercial spaces; operation of a retail mall; and operation of windmills. It also operates restaurants under the Alto Vino, Paasha, and Ukiyo brand name; and outlets under Ithaa name. The company was incorporated in 2002 and is headquartered in Pune, India.",
   "business_summary_reason": null,
   "market_cap_cr": 12758.38,
-  "pe_ratio": 28.32,
+  "pe_ratio": 28.8,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 242.47,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-13T22:06:24.753246",
+  "retrieval_time": "2026-11-13T23:24:04.359874",
   "provider_reported_pb_ratio": 2.25,
-  "statements_retrieved_at": "2026-11-13T22:06:24.753246",
+  "statements_retrieved_at": "2026-11-13T23:24:04.359874",
   "retained_fields": []
 }

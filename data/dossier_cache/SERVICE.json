@@ -20,7 +20,7 @@
       "period_end": "2026-03-31",
       "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
       "revenue_cr": 193.4,
-      "ebitda_cr": 7.19,
+      "ebitda_cr": 7.24,
       "net_income_cr": 5.02,
       "operating_cash_flow_cr": -2.08,
       "capex_cr": 8.42,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-13T21:55:10.412242",
+  "retrieval_time": "2026-11-13T23:11:57.421002",
   "provider_reported_pb_ratio": 1.38,
-  "statements_retrieved_at": "2026-11-13T21:55:10.412242",
+  "statements_retrieved_at": "2026-11-13T23:11:57.421002",
   "retained_fields": []
 }

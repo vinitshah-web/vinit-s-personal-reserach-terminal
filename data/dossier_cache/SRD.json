@@ -6,7 +6,7 @@
   "business_summary": "Shankar Lal Rampal Dye-Chem Limited engages in trading of dyes, chemicals, and allied products. It offers sulphur dyes, fully and semi refined paraffin wax, phosphoric acid, sodium sulphide flakes, sodium hydrosulphite, hydrogen peroxide, citric acid monohydrate, phosphate chemicals, refined glycerine, and other chemical and dyes products. It serves textile, garments, dyes, and chemical industry. The company was incorporated in 2005 and is based in Bhilwara, India.",
   "business_summary_reason": null,
   "market_cap_cr": 299.04,
-  "pe_ratio": 16.18,
+  "pe_ratio": 16.4,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 21.71,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-13T21:59:05.030250",
+  "retrieval_time": "2026-11-13T23:16:16.858518",
   "provider_reported_pb_ratio": 2.15,
-  "statements_retrieved_at": "2026-11-13T21:59:05.030250",
+  "statements_retrieved_at": "2026-11-13T23:16:16.858518",
   "retained_fields": []
 }

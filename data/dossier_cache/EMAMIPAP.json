@@ -6,7 +6,7 @@
   "business_summary": "Emami Paper Mills Limited engages in the manufacture and sale of paper and paper board products in India. It offers packaging boards; and newsprint, writing, and printing papers, kraft papers, paperboards, as well as specialty papers. The company serves business-to-business customers consisting of packaging converters and processors, food and pharmaceutical product companies, publishers, educational institutions, commercial printers, and media houses. The company was incorporated in 1981 and is based in Kolkata, India.",
   "business_summary_reason": null,
   "market_cap_cr": 697.49,
-  "pe_ratio": 5.93,
+  "pe_ratio": 5.92,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 82.37,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-13T21:17:49.135700",
+  "retrieval_time": "2026-11-13T22:32:14.767504",
   "provider_reported_pb_ratio": 1.4,
-  "statements_retrieved_at": "2026-11-13T21:17:49.135700",
+  "statements_retrieved_at": "2026-11-13T22:32:14.767504",
   "retained_fields": []
 }

@@ -5,13 +5,13 @@
   "industry": "Furnishings, Fixtures & Appliances",
   "business_summary": "Onida Electronics Limited engages in manufacturing and trading of electronics and consumer durables in India. The company offers mini-LED, karaoke, QLED, 4K Ultra HD, Full HD, and HD ready televisions; inverter and fixed air conditioners; mobile phones; LED light speaker systems; HD media players; and home appliances, such as washing machines, washers, refrigerators, and air coolers under the Onida brand. It also exports its products. The company was formerly known as MIRC Electronics Limited and changed its name to Onida Electronics Limited in May 2026. Onida Electronics Limited was incorporated in 1981 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1042.87,
+  "market_cap_cr": 1042.81,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 5.18,
   "dividend_yield_pct": 0.0,
-  "shares_outstanding_cr": 36.955,
+  "shares_outstanding_cr": 36.9528,
   "fifty_two_week_high": 49.23,
   "fifty_two_week_low": 21.5,
   "financial_statements": [
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-13T21:45:03.158934",
+  "retrieval_time": "2026-11-13T23:01:05.655275",
   "provider_reported_pb_ratio": 5.45,
-  "statements_retrieved_at": "2026-11-13T21:45:03.158934",
+  "statements_retrieved_at": "2026-11-13T23:01:05.655275",
   "retained_fields": []
 }

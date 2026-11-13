@@ -6,7 +6,7 @@
   "business_summary": "Indef Manufacturing Limited provides material handling solutions in India. It also manufactures, sells, distributes and markets mechanical hoists, ergonomic handling solutions, overhead crane, EOT crane, electric chain hoists and wire rope hoists, stackers, and storage and retrieval solutions. The company also offers chain pulley blocks and ratchet lever hoists, as well as electric chain hoists and electric wire rope hoists; electric overhead travelling (EOT) cranes, gantry cranes, jib cranes, and light profile cranes; and floor-operated stackers and roll-out racks under Bajaj Indef, iCrane, and iStacker brands. The company serves oil and gas, engineering, auto and auto ancillary, cement, metals, and other industries. Indef Manufacturing Limited was incorporated in 2022 and is headquartered in Navi Mumbai, India.",
   "business_summary_reason": null,
   "market_cap_cr": 641.18,
-  "pe_ratio": 31.7,
+  "pe_ratio": 27.3,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 84.9,
@@ -63,8 +63,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-13T21:07:16.875648",
+  "retrieval_time": "2026-11-13T22:21:05.623187",
   "provider_reported_pb_ratio": 2.36,
-  "statements_retrieved_at": "2026-11-13T21:07:16.875648",
+  "statements_retrieved_at": "2026-11-13T22:21:05.623187",
   "retained_fields": []
 }

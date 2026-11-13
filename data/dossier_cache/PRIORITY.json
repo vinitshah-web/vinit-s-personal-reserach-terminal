@@ -6,7 +6,7 @@
   "business_summary": "Priority Jewels Limited engages in the designing, manufacturing, and sale of diamond-studded gold and platinum fine jewellery in India. Its portfolio includes daily wear jewellery, such as rings, earrings, pendants, mangalsutras, neckwear, bracelets, and occasion couture jewellery, as well as customized lab-grown diamond jewellery. The company sells its products to jewellery chains, including CaratLane Trading Private Limited, Kalyan Jewellers India Limited, Reliance Retail Limited, Malabar Gold & Diamonds FZCO, Tribhovandas Bhimji Zaveri Limited, and Senco Gold Limited, as well as independent jewellers. It exports its products to Australia, Denmark, Hong Kong, Israel, Norway, the United States, the United Arab Emirates, Singapore, Belgium, Japan, Fiji Island, Nepal, and Sweden. The company was incorporated in 2007 and is Mumbai, India.",
   "business_summary_reason": null,
   "market_cap_cr": 469.44,
-  "pe_ratio": 20.55,
+  "pe_ratio": 20.33,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 174.31,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-13T21:48:39.831818",
+  "retrieval_time": "2026-11-13T23:04:58.766199",
   "provider_reported_pb_ratio": 1.5,
-  "statements_retrieved_at": "2026-11-13T21:48:39.831818",
+  "statements_retrieved_at": "2026-11-13T23:04:58.766199",
   "retained_fields": []
 }

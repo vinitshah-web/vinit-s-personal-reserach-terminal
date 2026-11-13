@@ -5,13 +5,13 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Faze Three Limited manufactures and exports home textile products and auto fabrics in India, the United States, the United Kingdom, Europe, and internationally. The company offers bathmats, rugs, blankets, throws, cushions, durries, hand tufted carpets, cushion covers, curtains, chairpads, poly cotton and cotton mask, table covers, patio mats, seat covers, floor coverings, etc.; and recycled yarn, germieshield, microcapsules, boost yarn, and ani-flammatory yarn, as well as provides outdoor textiles, pet products, and beach products. It markets its products under the AA Living and NatureStep brand names. The company serves retailers, hotels, automotive, and cruises. Faze Three Limited was founded in 1982 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1345.34,
+  "market_cap_cr": 1360.79,
   "pe_ratio": 26.38,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 197.78,
   "dividend_yield_pct": 0.0,
-  "shares_outstanding_cr": 2.4271,
+  "shares_outstanding_cr": 2.455,
   "fifty_two_week_high": 650.05,
   "fifty_two_week_low": 322.1,
   "financial_statements": [
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-13T21:19:24.155129",
+  "retrieval_time": "2026-11-13T22:33:57.899043",
   "provider_reported_pb_ratio": 2.8,
-  "statements_retrieved_at": "2026-11-13T21:19:24.155129",
+  "statements_retrieved_at": "2026-11-13T22:33:57.899043",
   "retained_fields": []
 }
