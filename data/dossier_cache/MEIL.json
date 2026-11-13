@@ -5,14 +5,14 @@
   "industry": "Electrical Equipment & Parts",
   "business_summary": "Mangal Electrical Industries Limited engages in the manufacture and trade of electrical transformers, cold rolled grain oriented (CRGO) electrical steel, electrical accessories, and other related products under the Mangal Electrical brand name in India and internationally. It offers transformer components, including transformer components, including CRGO slit coils, transformer laminations, amorphous cores, coil and core assemblies, wound cores, toroidal cores, immersed circuit breakers, and vacuum circuit breakers. The company also traders in CRGO and cold rolled non-oriented steel coils, as well as amorphous ribbons; and manufactures transformers with capacities ranging from single-phase 5 KVA to three-phase 10 MVA (medium power) units, as well as customized products. In addition, it offers engineering, procurement, and construction services for setting up electrical sub-stations. Mangal Electrical Industries Limited was founded in 1989 and is headquartered in Jaipur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 700.73,
-  "pe_ratio": 15.48,
+  "market_cap_cr": 693.9,
+  "pe_ratio": 15.33,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 220.1,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 2.763,
-  "fifty_two_week_high": 462.0,
+  "fifty_two_week_high": 451.85,
   "fifty_two_week_low": 206.26,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:17:20.639740",
-  "provider_reported_pb_ratio": 1.15,
-  "statements_retrieved_at": "2026-11-12T22:17:20.639740",
+  "retrieval_time": "2026-11-13T21:38:40.740055",
+  "provider_reported_pb_ratio": 1.14,
+  "statements_retrieved_at": "2026-11-13T21:38:40.740055",
   "retained_fields": []
 }

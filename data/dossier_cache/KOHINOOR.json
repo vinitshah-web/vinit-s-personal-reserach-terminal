@@ -5,8 +5,8 @@
   "industry": "Packaged Foods",
   "business_summary": "Kohinoor Foods Limited, together with its subsidiaries, manufactures and sells food products in Asia-Pacific, the Americas, Europe, Africa, and the Middle East. The company offers basmati and organic rice. It also provides packaged food products comprising ready to eat food, such as curries; ready to cook products consisting of simmer sauces, instant mixes, and cooking pastes chutney; frozen food, including paneers, bread, snacks, curries and biryani, and desserts; chakki atta; spices; and pulses and jaggery and sweeteners. The company sells its products under the Kohinoor and Monsoon brands through retailers and distributors. The company was formerly known as Satnam Overseas Limited and changed its name to Kohinoor Foods Limited in 1989. Kohinoor Foods Limited was founded in 1981 and is based in Faridabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 103.69,
-  "pe_ratio": 1.22,
+  "market_cap_cr": 104.28,
+  "pe_ratio": 1.23,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": -25.31,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:11:56.802468",
-  "provider_reported_pb_ratio": -1.1,
-  "statements_retrieved_at": "2026-11-12T22:11:56.802468",
+  "retrieval_time": "2026-11-13T21:33:35.270795",
+  "provider_reported_pb_ratio": -1.11,
+  "statements_retrieved_at": "2026-11-13T21:33:35.270795",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "Ahluwalia Contracts (India) Limited, together with its subsidiaries, operates as an engineering, procurement, and construction company in India and internationally. The company operates through Construction Contract, Lease Rental, and Others segments. Its portfolio includes residential and commercial buildings/complexes, hotels, institutional and hospital buildings, corporate offices, information technology (IT) parks, industrial complexes, automated car parking lot, townships, BOT projects, metro station and depot, redevelopment/upgradation of railway stations, urban infrastructure, and data centres. The company is also involved in the developing and operating commercial complex; real estate trading business, as well as rentals activities. It serves government authorities, central and state governments, including public sector undertakings, private sector companies, real estate developers, and other institutional clients. The company was founded in 1965 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3425.74,
-  "pe_ratio": 15.22,
+  "market_cap_cr": 3536.94,
+  "pe_ratio": 15.72,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 307.25,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:38:58.386050",
-  "provider_reported_pb_ratio": 1.66,
-  "statements_retrieved_at": "2026-11-12T21:38:58.386050",
+  "retrieval_time": "2026-11-13T21:02:18.628098",
+  "provider_reported_pb_ratio": 1.72,
+  "statements_retrieved_at": "2026-11-13T21:02:18.628098",
   "retained_fields": []
 }

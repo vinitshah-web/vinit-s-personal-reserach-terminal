@@ -5,8 +5,8 @@
   "industry": "Biotechnology",
   "business_summary": "Supriya Lifescience Limited engages in the research and development, manufacture, and sale of bulk drugs and pharmaceutical chemicals in India and internationally. The company offers active pharmaceuticals ingredients in antihistamine, anti-allergic, anti-asthmatic, decongestant, analgesic/anti-pyretic/anesthetic, anti\u0096hypertensive, vitamins, anti-malarial, and anti-gout areas. It also provides finished formulation products. In addition, the company offers GelHeal, a wound care solution; and Quickblue, an oral cancer detection kit. Further, it develops drugs in the areas of anti-depressant, anti-inflammatory, contrast media, hormones, antibiotic, smoking cessation, anti-diabetic/obesity, anti-ataxia, decongestant, veterinary API, anti-cancer, allogeneic hematopoietic stem cell transplantation, and anti-migraine. Supriya Lifescience Limited was founded in 1987 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 5167.4,
-  "pe_ratio": 29.17,
+  "market_cap_cr": 5087.32,
+  "pe_ratio": 28.72,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 148.82,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:40:35.408117",
-  "provider_reported_pb_ratio": 4.31,
-  "statements_retrieved_at": "2026-11-12T22:40:35.408117",
+  "retrieval_time": "2026-11-13T22:00:40.525398",
+  "provider_reported_pb_ratio": 4.25,
+  "statements_retrieved_at": "2026-11-13T22:00:40.525398",
   "retained_fields": []
 }

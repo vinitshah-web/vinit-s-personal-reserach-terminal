@@ -5,8 +5,8 @@
   "industry": "Food Distribution",
   "business_summary": "Vadilal Enterprises Limited engages in the marketing and distribution of ice creams, dairy products, frozen desserts, and processed food products under the Vadilal brand in India. It also offers flavored milk under the Power Sip brand, as well as paneer and ghee. The company was founded in 1985 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 811.25,
-  "pe_ratio": 53.23,
+  "market_cap_cr": 814.88,
+  "pe_ratio": 53.47,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 796.49,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:45:52.021156",
-  "provider_reported_pb_ratio": 11.81,
-  "statements_retrieved_at": "2026-11-12T22:45:52.021156",
+  "retrieval_time": "2026-11-13T22:05:50.984569",
+  "provider_reported_pb_ratio": 11.86,
+  "statements_retrieved_at": "2026-11-13T22:05:50.984569",
   "retained_fields": []
 }

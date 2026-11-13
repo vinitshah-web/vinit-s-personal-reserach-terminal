@@ -5,8 +5,8 @@
   "industry": "Utilities - Independent Power Producers",
   "business_summary": "PTC India Limited, together with its subsidiaries, engages in the trading and generating power in India, Nepal, Bhutan, and Bangladesh. The company operates through two segments, Power and Financing Business. It engages in long term, medium term, and short-term power trading activities; and cross border power trading business. The company provides financing solutions to the energy value chain, including investing in equity or extending debt to power projects in generation, transmission, distribution, fuel resources, and fuel related infrastructure, as well as consultancy and advisory services. It serves its products to state distribution and private distribution companies, corporates, and entities trading power on power exchanges. The company was formerly known as Power Trading Corporation of India Ltd and changed its name to PTC India Limited. PTC India Limited was incorporated in 1999 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4164.24,
-  "pe_ratio": 9.04,
+  "market_cap_cr": 4116.88,
+  "pe_ratio": 8.93,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 181.57,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:28:25.118764",
+  "retrieval_time": "2026-11-13T21:49:08.776219",
   "provider_reported_pb_ratio": 0.77,
-  "statements_retrieved_at": "2026-11-12T22:28:25.118764",
+  "statements_retrieved_at": "2026-11-13T21:49:08.776219",
   "retained_fields": []
 }

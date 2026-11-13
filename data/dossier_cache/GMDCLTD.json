@@ -5,8 +5,8 @@
   "industry": "Thermal Coal",
   "business_summary": "Gujarat Mineral Development Corporation Limited engages in mining and mineral processing business in India. The company operates through two segments, Mining and Power. It explores for lignite, bauxite, fluorspar, manganese, silica sand, limestone, bentonite, and ball clay. The company's products used in the textiles, chemicals, ceramics, bricks and captive power. It also generates power using thermal, wind, and solar resources. The company has a strategic collaboration with University of Cambridge for the development of an AI-powered rare earth supply chain observatory and a platform that tracks the rare earth elements value chain. Gujarat Mineral Development Corporation Limited was incorporated in 1963 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 15836.4,
-  "pe_ratio": 23.95,
+  "market_cap_cr": 15527.94,
+  "pe_ratio": 23.49,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 223.07,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:59:43.928546",
-  "provider_reported_pb_ratio": 2.23,
-  "statements_retrieved_at": "2026-11-12T21:59:43.928546",
+  "retrieval_time": "2026-11-13T21:21:57.190961",
+  "provider_reported_pb_ratio": 2.19,
+  "statements_retrieved_at": "2026-11-13T21:21:57.190961",
   "retained_fields": []
 }

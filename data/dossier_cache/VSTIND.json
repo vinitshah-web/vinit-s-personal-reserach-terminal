@@ -5,8 +5,8 @@
   "industry": "Tobacco",
   "business_summary": "VST Industries Limited engages in the manufacturing, trading, and marketing of cigarettes, tobacco, and tobacco products in India and internationally. It sells unmanufactured tobacco. The company was formerly known as Vazir Sultan Tobacco Company Limited and changed its name to VST Industries Limited in April 1983. VST Industries Limited was incorporated in 1930 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3371.04,
-  "pe_ratio": 12.97,
+  "market_cap_cr": 3355.95,
+  "pe_ratio": 12.91,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 77.87,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:48:14.289571",
-  "provider_reported_pb_ratio": 2.55,
-  "statements_retrieved_at": "2026-11-12T22:48:14.289571",
+  "retrieval_time": "2026-11-13T22:08:02.832863",
+  "provider_reported_pb_ratio": 2.54,
+  "statements_retrieved_at": "2026-11-13T22:08:02.832863",
   "retained_fields": []
 }

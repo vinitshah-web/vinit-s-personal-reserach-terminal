@@ -1,25 +1,25 @@
 {
-  "available_selected_count": 5677,
+  "available_selected_count": 5672,
   "coverage_by_exchange": {
     "BSE": {
-      "fundamentals_available": 2731,
-      "listed_in_snapshot": 2732,
+      "fundamentals_available": 2725,
+      "listed_in_snapshot": 2726,
       "unavailable": 1
     },
     "NSE": {
-      "fundamentals_available": 2946,
+      "fundamentals_available": 2947,
       "listed_in_snapshot": 3392,
-      "unavailable": 446
+      "unavailable": 445
     }
   },
-  "cross_listed_count": 1,
+  "cross_listed_count": 0,
   "failed_batches": [],
   "refreshed_count": 3073,
-  "requested_count": 3531,
-  "retrieved_at": "2026-11-12T21:35:58.909596+00:00",
-  "selected_instrument_count": 6124,
+  "requested_count": 3530,
+  "retrieved_at": "2026-11-13T20:59:23.516895+00:00",
+  "selected_instrument_count": 6118,
   "source": "Yahoo Finance quote feed",
   "source_class": "SECONDARY_AGGREGATOR",
   "status": "VERIFIED_SECONDARY_SOURCE",
-  "total_cached_count": 5731
+  "total_cached_count": 5733
 }

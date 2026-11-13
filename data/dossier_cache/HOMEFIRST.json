@@ -5,8 +5,8 @@
   "industry": "Mortgage Finance",
   "business_summary": "Home First Finance Company India Limited operates as a housing finance company in India. The company offers home, self-construction, renovation, mortgage, shop, and resale, as well as top-up loans. It also provides insurance loan products and loans through mobile applications. The company serves salaried professionals, self-employed individuals, informal earners, and small business owners, as well as corporates. Home First Finance Company India Limited was incorporated in 2010 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 11437.22,
-  "pe_ratio": 18.59,
+  "market_cap_cr": 11603.49,
+  "pe_ratio": 18.86,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 446.25,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:04:54.357921",
-  "provider_reported_pb_ratio": 2.45,
-  "statements_retrieved_at": "2026-11-12T22:04:54.357921",
+  "retrieval_time": "2026-11-13T21:26:46.766545",
+  "provider_reported_pb_ratio": 2.49,
+  "statements_retrieved_at": "2026-11-13T21:26:46.766545",
   "retained_fields": []
 }

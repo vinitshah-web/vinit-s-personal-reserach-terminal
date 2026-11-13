@@ -5,8 +5,8 @@
   "industry": "Luxury Goods",
   "business_summary": "D. P. Abhushan Limited manufactures, sells, and trades gold, diamond, platinum, silver jewelry, and other precious metals in India. It also offers bars; gold and silver coins. It retails its products through company owned and franchise owned outlets. The company was founded in 1940 and is based in Ratlam, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4571.52,
-  "pe_ratio": 19.07,
+  "market_cap_cr": 4485.91,
+  "pe_ratio": 18.71,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 277.12,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:53:43.888213",
-  "provider_reported_pb_ratio": 7.23,
-  "statements_retrieved_at": "2026-11-12T21:53:43.888213",
+  "retrieval_time": "2026-11-13T21:16:17.558392",
+  "provider_reported_pb_ratio": 7.09,
+  "statements_retrieved_at": "2026-11-13T21:16:17.558392",
   "retained_fields": []
 }

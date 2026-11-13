@@ -5,7 +5,7 @@
   "industry": "Broadcasting",
   "business_summary": "New Delhi Television Limited, together with its subsidiaries, operates as a news television and digital journalism company in India, the United States, Europe, and internationally. Its channels include NDTV 24X7, an English news channel; NDTV India, a Hindi news channel; NDTV Profit, a business news channel; NDTV World, a digital platform for global news; and regional channels, including NDTV Madhya Pradesh and Chhattisgarh, NDTV Rajasthan, and NDTV Marathi. The company was incorporated in 1988 and is based in Noida, India. New Delhi Television Limited operates as a subsidiary of RRPR Holding Private Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 748.7,
+  "market_cap_cr": 737.54,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:21:19.877037",
-  "provider_reported_pb_ratio": -48.87,
-  "statements_retrieved_at": "2026-11-12T22:21:19.877037",
+  "retrieval_time": "2026-11-13T21:42:28.703721",
+  "provider_reported_pb_ratio": -48.14,
+  "statements_retrieved_at": "2026-11-13T21:42:28.703721",
   "retained_fields": []
 }

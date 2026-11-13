@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Automobile Corporation of Goa Limited manufactures and sells pressed parts, components, sub-assemblies, and bus bodies for range of automobiles in India. It operates in two segments, Pressing Division and Bus Body Building Division. The Pressing Division segment offers pressed parts, components, sub-assemblies, and assemblies for various automobiles. The Bus Body Building Division segment provides bus bodies and component parts for bus bodies. In addition, the company offers bus variants, such as LCV, ICV, MCV, HCV, sleeper coaches, mobile vans, ambulances, defense vehicles, staff, school, luxury, military, STU, police, wider AC staff, and city and intercity buses, as well as moffusil, police vans, and mobile blood banks. Further, it provides sheet metal components, assemblies, and sheet metal pressings. It also exports its products. Automobile Corporation of Goa Limited was incorporated in 1980 and is based in Sattari, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1138.63,
-  "pe_ratio": 20.12,
+  "market_cap_cr": 1129.2,
+  "pe_ratio": 19.95,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 522.82,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:37:44.423366",
-  "provider_reported_pb_ratio": 3.58,
-  "statements_retrieved_at": "2026-11-12T21:37:44.423366",
+  "retrieval_time": "2026-11-13T21:01:07.790175",
+  "provider_reported_pb_ratio": 3.55,
+  "statements_retrieved_at": "2026-11-13T21:01:07.790175",
   "retained_fields": []
 }

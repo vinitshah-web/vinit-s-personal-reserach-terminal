@@ -5,14 +5,14 @@
   "industry": "Engineering & Construction",
   "business_summary": "Vascon Engineers Limited provides engineering, procurement, and construction (EPC) services in India. It operates through EPC; and Real Estate Development segments. The company constructs residential, commercial and IT, industrial, institutional, hospitals, airport, and hospitality projects; and develops residential and industrial properties, hotel premises, industrial parks, public infrastructure projects, malls and multiplexes, hospitality and community welfare centres, and schools and hospitals. In addition, the company engages in construction of infrastructure such as roads, airports, metros, bridges, and urban projects. Vascon Engineers Limited was incorporated in 1986 and is based in Pune, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 733.55,
-  "pe_ratio": 25.26,
+  "market_cap_cr": 722.17,
+  "pe_ratio": 24.87,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
-  "book_value": 49.58,
+  "book_value": 50.95,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 23.1697,
-  "fifty_two_week_high": 59.95,
+  "fifty_two_week_high": 58.82,
   "fifty_two_week_low": 26.75,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:46:11.064985",
-  "provider_reported_pb_ratio": 0.64,
-  "statements_retrieved_at": "2026-11-12T22:46:11.064985",
+  "retrieval_time": "2026-11-13T22:06:09.107726",
+  "provider_reported_pb_ratio": 0.61,
+  "statements_retrieved_at": "2026-11-13T22:06:09.107726",
   "retained_fields": []
 }

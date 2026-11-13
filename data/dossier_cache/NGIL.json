@@ -5,8 +5,8 @@
   "industry": "Packaged Foods",
   "business_summary": "Nakoda Group of Industries Limited engages in manufacturing, processing, selling, distribution, and trading of tutti frutti, cotton bales, and other agricultural commodities in India. The company offers Papaya Preserve, karonda cherries, sweet lime peels, orange cut peels, various jams, fruit pulp, sauces, canned vegetables, and frozen fruits and vegetables; prepares, process, trades in dry fruits, roasted and salted nuts, popcorns, sesame seeds, spices, fox nuts, cotton and cotton bales, chia seeds, sabja seeds, gulkand, amla powder, amla murabba, inverted sugar syrup, and other food and agro-based products, as well as energy drinks and flavored carbonated soft drinks under the NO CTRL brand name. It serves its products to ice-cream manufacturers, bakeries, sweets and namkeen manufacturers, airline companies, railway catering, the Indian defence sector, food processing companies, pharmaceutical companies and other institutional customers. The company exports also its products to the Middle East and European countries. Nakoda Group of Industries Limited was founded in 1989 and is based in Nagpur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 76.66,
-  "pe_ratio": 46.5,
+  "market_cap_cr": 76.54,
+  "pe_ratio": 46.43,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 20.11,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:21:54.534594",
+  "retrieval_time": "2026-11-13T21:43:02.018813",
   "provider_reported_pb_ratio": 2.17,
-  "statements_retrieved_at": "2026-11-12T22:21:54.534594",
+  "statements_retrieved_at": "2026-11-13T21:43:02.018813",
   "retained_fields": []
 }

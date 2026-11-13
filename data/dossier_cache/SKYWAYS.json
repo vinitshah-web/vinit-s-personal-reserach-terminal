@@ -5,8 +5,8 @@
   "industry": "Integrated Freight & Logistics",
   "business_summary": "Skyways Air Services Limited operates as a logistics and freight forwarding service provider. The company offers freight forwarding, trucking, warehousing, customs brokerage, technology driven express cargo, and parcel delivery, as well as value-added services domestic and international markets. It also provides live animal transport and dangerous goods logistics services. The company was incorporated in 1984 and is headquartered in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1623.92,
-  "pe_ratio": 28.58,
+  "market_cap_cr": 1689.47,
+  "pe_ratio": 29.73,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 28.57,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:37:43.977452",
-  "provider_reported_pb_ratio": 3.91,
-  "statements_retrieved_at": "2026-11-12T22:37:43.977452",
+  "retrieval_time": "2026-11-13T21:57:57.495968",
+  "provider_reported_pb_ratio": 4.07,
+  "statements_retrieved_at": "2026-11-13T21:57:57.495968",
   "retained_fields": []
 }

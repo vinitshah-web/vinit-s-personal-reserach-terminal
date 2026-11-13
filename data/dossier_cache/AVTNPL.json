@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "AVT Natural Products Limited engages in the production, trading, and distribution of oleoresins, spices extract, and value-added tea and animal nutritional products in India, Europe, the United States, and internationally. The company offers marigold extracts for eye care, food coloring, and poultry pigmentation; spice oleoresin and oils for food coloring and flavoring; value added teas, such as decaffeinated and instant teas; animal health and nutrition products; and agricultural crop inputs. It serves food, beverage, animal nutrition, and nutraceutical industries. AVT Natural Products Limited was incorporated in 1986 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1512.79,
-  "pe_ratio": 18.06,
+  "market_cap_cr": 1471.37,
+  "pe_ratio": 17.57,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 36.73,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:43:43.661580",
-  "provider_reported_pb_ratio": 2.7,
-  "statements_retrieved_at": "2026-11-12T21:43:43.661580",
+  "retrieval_time": "2026-11-13T21:06:42.063901",
+  "provider_reported_pb_ratio": 2.63,
+  "statements_retrieved_at": "2026-11-13T21:06:42.063901",
   "retained_fields": []
 }

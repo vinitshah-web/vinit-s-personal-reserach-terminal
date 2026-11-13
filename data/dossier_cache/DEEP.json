@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Deep Polymers Limited manufactures and sells filler masterbatches in India. The company offers white, black, color, and UV, as well as additive masterbatches, including antiblock, antifog, antimicrobial/bactiblock additive, antioxidant, antirodent, antistatic, desiccant, flame retardant, nucleating and clarifying agent, optical brightener, oxo biodegradable, PPA, and slip masterbatches. It also provides antifab fillers, such as calcium filler PP/PE, calcium filler PP/PE \u0096 lamination, super brightener filler, coloured tinge filler, natural filler \u0096 TPFN 001, and process modifier. In addition, the company offers non-woven, PP multifilament, and biodegradable master batches. Its products are used in HDPE; PP; LDPE; LLDPE; FBLK007- black tone; PPCP; PS; HIPS; blown film/cast film/mono layer/multi layer; pipes; automotive compound PE/PP/glass filled; engineering compound PC/ABS/nylon; antifab filler PP/PE; ABS; SAN; PP/PE tape extrusion; PP/PE lamination; PP/PE injection and blow moulding; PP box strapping; PP/PE calendaring process; PP non-woven; bio-degradable oxo/compostible; PET optical fiber; PET bottle; polyester sheet; and engineering masterbatch PC/ABS/PBT/nylon/PET applications. Deep Polymers Limited was founded in 1992 and is based in Gandhinagar, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 96.7,
-  "pe_ratio": 5.35,
+  "market_cap_cr": 96.45,
+  "pe_ratio": 5.34,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 45.18,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:52:18.534212",
-  "provider_reported_pb_ratio": 0.89,
-  "statements_retrieved_at": "2026-11-12T21:52:18.534212",
+  "retrieval_time": "2026-11-13T21:14:53.776724",
+  "provider_reported_pb_ratio": 0.88,
+  "statements_retrieved_at": "2026-11-13T21:14:53.776724",
   "retained_fields": []
 }

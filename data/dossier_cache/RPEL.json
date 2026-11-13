@@ -5,14 +5,14 @@
   "industry": "Chemicals",
   "business_summary": "Raghav Productivity Enhancers Limited manufactures, trades in, and sells ramming mass and other quartz related items in India and internationally. It offers silica ramming mass and refractory products for use in creating linings for furnaces, incinerators, kilns, and reactors. The company also exports its products. It serves recycled steel manufacturers, as well as foundry, steel, casting, and incineration industries. The company was formerly known as Raghav Ramming Mass Limited and changed its name to Raghav Productivity Enhancers Limited in November 2017. Raghav Productivity Enhancers Limited was incorporated in 2009 and is based in Jaipur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 8727.93,
-  "pe_ratio": 123.82,
+  "market_cap_cr": 8937.33,
+  "pe_ratio": 126.79,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 61.3,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 4.5922,
-  "fifty_two_week_high": 1943.7,
+  "fifty_two_week_high": 1987.9,
   "fifty_two_week_low": 561.3,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:31:31.485569",
-  "provider_reported_pb_ratio": 31.0,
-  "statements_retrieved_at": "2026-11-12T22:31:31.485569",
+  "retrieval_time": "2026-11-13T21:52:07.762262",
+  "provider_reported_pb_ratio": 31.75,
+  "statements_retrieved_at": "2026-11-13T21:52:07.762262",
   "retained_fields": []
 }

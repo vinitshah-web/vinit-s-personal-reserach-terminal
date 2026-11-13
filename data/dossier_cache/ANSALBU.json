@@ -5,8 +5,8 @@
   "industry": "Real Estate - Development",
   "business_summary": "Ansal Buildwell Limited promotes, constructs, and develops real estate properties in India. Its real estate portfolio includes high-rise commercial and residential complexes; environmental upgradation projects, farmlands, engineering projects, schools, technical and professional institutes, industrial estates; and integrated townships, residential and commercial complexes, multi-storeyed buildings, flats, houses, apartments, etc. The company undertakes civil engineering projects, such as dams, canals, and viaducts to critical hi-tech construction projects. Ansal Buildwell Limited was incorporated in 1983 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 63.1,
-  "pe_ratio": 13.76,
+  "market_cap_cr": 65.7,
+  "pe_ratio": 14.33,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 175.85,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:40:42.935447",
-  "provider_reported_pb_ratio": 0.49,
-  "statements_retrieved_at": "2026-11-12T21:40:42.935447",
+  "retrieval_time": "2026-11-13T21:03:57.343913",
+  "provider_reported_pb_ratio": 0.51,
+  "statements_retrieved_at": "2026-11-13T21:03:57.343913",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Agricultural Inputs",
   "business_summary": "Indo Us Bio-Tech Limited engages in the production, processing, packing, and marketing of seeds in India. The company offers vegetable seeds, such as tomato, okra, bottle gourd, brinjal, carrot, cluster bean, bitter gourd, ridge gourd, cucumber, cabbage, radish, sponge gourd, pepper, chilly, sweet pepper, beet root, cow pea, corriander, onion, watermelon, musk melon, and flower seeds; cotton seeds; and oil seeds, including castor, groundnut, sesamum, mustard, and soyabean seeds. It also provides cumin and isabgul spices seeds; pulses seeds comprising val, gram, black gram, and green gram seeds; and cereals seeds consisting of wheat, maize, bajra, and pegeon pea seeds. It also exports its products. The company was incorporated in 2004 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 134.47,
-  "pe_ratio": 30.76,
+  "market_cap_cr": 131.46,
+  "pe_ratio": 30.07,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 45.99,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:06:47.788135",
-  "provider_reported_pb_ratio": 1.46,
-  "statements_retrieved_at": "2026-11-12T22:06:47.788135",
+  "retrieval_time": "2026-11-13T21:28:34.444242",
+  "provider_reported_pb_ratio": 1.43,
+  "statements_retrieved_at": "2026-11-13T21:28:34.444242",
   "retained_fields": []
 }

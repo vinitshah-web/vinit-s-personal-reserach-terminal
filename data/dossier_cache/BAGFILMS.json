@@ -5,8 +5,8 @@
   "industry": "Broadcasting",
   "business_summary": "B.A.G. Films and Media Limited engages in content production, distribution, and allied activities in India. The company operates through Audio -Visual Production; Leasing; FM Radio; F.M. Radio Podcast; Television Broadcasting Content Syndication; and Television Broadcasting segments. It operates News24, a 24-hour national Hindi news channel; E24, a 24-hour entertainment channel; and FM radio stations under the Dhamaal24 brand. The company also provides infrastructural support for content production. B.A.G. Films and Media Limited was incorporated in 1993 and is based in Noida, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 89.13,
-  "pe_ratio": 15.73,
+  "market_cap_cr": 88.91,
+  "pe_ratio": 15.69,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 8.25,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:44:03.147256",
-  "provider_reported_pb_ratio": 0.5,
-  "statements_retrieved_at": "2026-11-12T21:44:03.147256",
+  "retrieval_time": "2026-11-13T21:06:59.828815",
+  "provider_reported_pb_ratio": 0.49,
+  "statements_retrieved_at": "2026-11-13T21:06:59.828815",
   "retained_fields": []
 }

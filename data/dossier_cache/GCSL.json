@@ -5,14 +5,14 @@
   "industry": "Capital Markets",
   "business_summary": "Gretex Corporate Services Limited, a merchant banking company, provides financial and consultancy services in the areas of capital markets advisory, corporate finance, corporate restructuring, debt syndication, and compliance advisory in India. The company offers initial public offerings, follow-on public offers, rights issues and qualified institutional placements, and open offers, exit offers, and delisting; corporate finance advisory services, such as capital structuring and fundraising strategy, private equity and venture capital advisory, structured debt, and bank financing debt issuance; strategic and restructuring advisory comprising mergers and acquisitions, takeovers and open offers, demergers and reorganizations, and financial restructuring; and compliance advisory which includes post-listing compliance, corporate governance advisory, and ongoing regulatory monitoring. It serves small and medium enterprises. Gretex Corporate Services Limited was incorporated in 2008 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1958.17,
-  "pe_ratio": 50.72,
+  "market_cap_cr": 2057.82,
+  "pe_ratio": 53.3,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 70.27,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 2.5005,
-  "fifty_two_week_high": 802.0,
+  "fifty_two_week_high": 824.0,
   "fifty_two_week_low": 280.0,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:58:44.869237",
-  "provider_reported_pb_ratio": 11.14,
-  "statements_retrieved_at": "2026-11-12T21:58:44.869237",
+  "retrieval_time": "2026-11-13T21:21:00.410286",
+  "provider_reported_pb_ratio": 11.71,
+  "statements_retrieved_at": "2026-11-13T21:21:00.410286",
   "retained_fields": []
 }

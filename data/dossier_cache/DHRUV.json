@@ -5,7 +5,7 @@
   "industry": "Engineering & Construction",
   "business_summary": "Dhruv Consultancy Services Limited, an infrastructure consultancy company, provides design, engineering, procurement, construction, and integrated project management services for highways, bridges, tunnels, architectural, environmental engineering, and ports in India. The company engages in the preparation of detailed project report and feasibility studies for infrastructure projects; operations and maintenance works; project management consultancy services; and independent and authority's engineer, project planning, designing, estimation, traffic and transportation engineering, financial analysis, technical audit, structural audit, bridges inspection, and techno legal services. It serves ministry of road transport and highways, national highways authority of India, Maharashtra state road development corporation, Mumbai metropolitan region development authority, and government authorities. Dhruv Consultancy Services Limited was incorporated in 2003 and is based in Navi Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 36.04,
+  "market_cap_cr": 36.61,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:52:59.053289",
-  "provider_reported_pb_ratio": 0.56,
-  "statements_retrieved_at": "2026-11-12T21:52:59.053289",
+  "retrieval_time": "2026-11-13T21:15:33.349871",
+  "provider_reported_pb_ratio": 0.57,
+  "statements_retrieved_at": "2026-11-13T21:15:33.349871",
   "retained_fields": []
 }

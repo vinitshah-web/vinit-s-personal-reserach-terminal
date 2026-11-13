@@ -5,14 +5,14 @@
   "industry": "Real Estate - Development",
   "business_summary": "Godrej Properties Limited, together with its subsidiaries, engages primarily in the business of real estate construction, development, hospitality, and other related activities in India. It develops residential and commercial projects. Godrej Properties Limited was incorporated in 1985 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 56615.52,
-  "pe_ratio": 41.95,
+  "market_cap_cr": 55874.51,
+  "pe_ratio": 41.4,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 642.98,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 30.1226,
-  "fifty_two_week_high": 2233.4,
+  "fifty_two_week_high": 2218.5,
   "fifty_two_week_low": 1434.0,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:00:06.484206",
-  "provider_reported_pb_ratio": 2.92,
-  "statements_retrieved_at": "2026-11-12T22:00:06.484206",
+  "retrieval_time": "2026-11-13T21:22:17.639790",
+  "provider_reported_pb_ratio": 2.88,
+  "statements_retrieved_at": "2026-11-13T21:22:17.639790",
   "retained_fields": []
 }

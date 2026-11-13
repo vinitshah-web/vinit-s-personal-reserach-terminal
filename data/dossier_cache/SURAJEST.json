@@ -5,8 +5,8 @@
   "industry": "Real Estate - Development",
   "business_summary": "Suraj Estate Developers Limited, together with its subsidiaries, engages in the real estate development business in India. The company develops and sells residential and commercial infrastructure projects. It serves residential homebuyers and investors across the value-luxury, luxury, and ultra-luxury segments, as well as institutional and corporate customers. Suraj Estate Developers Limited was incorporated in 1986 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 899.94,
-  "pe_ratio": 10.71,
+  "market_cap_cr": 900.76,
+  "pe_ratio": 10.72,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 224.49,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:40:37.796241",
+  "retrieval_time": "2026-11-13T22:00:42.922042",
   "provider_reported_pb_ratio": 0.84,
-  "statements_retrieved_at": "2026-11-12T22:40:37.796241",
+  "statements_retrieved_at": "2026-11-13T22:00:42.922042",
   "retained_fields": []
 }

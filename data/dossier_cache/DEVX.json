@@ -5,13 +5,13 @@
   "industry": "Real Estate Services",
   "business_summary": "Dev Accelerator Limited develops and licenses fully serviced office space and allied services in India and internationally. It also offers payroll and facility management; design and execution services; enterprise workspace designing and building, and custom software development services. The company serves large corporates, MNCs, SMEs, and startup. Dev Accelerator Limited was founded in 2017 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 406.73,
-  "pe_ratio": 34.38,
+  "market_cap_cr": 421.64,
+  "pe_ratio": 34.43,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 23.47,
   "dividend_yield_pct": 0.0,
-  "shares_outstanding_cr": 9.4632,
+  "shares_outstanding_cr": 9.7965,
   "fifty_two_week_high": 50.28,
   "fifty_two_week_low": 29.95,
   "financial_statements": [
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:52:40.065393",
+  "retrieval_time": "2026-11-13T21:15:14.711275",
   "provider_reported_pb_ratio": 1.83,
-  "statements_retrieved_at": "2026-11-12T21:52:40.065393",
+  "statements_retrieved_at": "2026-11-13T21:15:14.711275",
   "retained_fields": []
 }

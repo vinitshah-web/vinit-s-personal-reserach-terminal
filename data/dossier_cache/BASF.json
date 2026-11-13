@@ -5,15 +5,15 @@
   "industry": "Specialty Chemicals",
   "business_summary": "BASF India Limited provides chemicals, materials, industrial solutions, nutrition and care, and agricultural solutions in India and internationally. The company's Agricultural Solution segment offers crop protection products, such as insecticides, herbicides, fungicides, and plant growth regulators, as well as seed treatment solutions. Its Materials segment offers performance materials, such as polyurethane, and engineering and specialty plastics; and monomers comprising basic raw materials for polyurethanes, inorganics, and polyamides, as well as its precursors. The company's Industrial Solutions segment provides dispersions, resins, additives, and performance chemicals for paints and coatings, construction, paper, adhesives, automobiles, printing, and packaging industries. Its Nutrition & Care segment provides solutions for personal care, home care and institutional cleaning, and industrial formulation for textile, leather, agrochemicals, and metal surface cleaning; and products for human and animal nutrition, pharma solutions, and aroma ingredients. The company's Chemicals segment provides petrochemicals, including oxo-alcohols, acrylic acid, acrylic monomers, superabsorbent, and specialty plasticizers used in paints and coatings, adhesives, and baby diapers, as well as flexible PVC applications, such as artificial leather for automotive upholstery, wires and cables, and packaging; and intermediate chemicals for pharmaceuticals, agrochemicals, coatings, food and feed, flavor and fragrance, surfactants, rubber chemicals, textiles, personal care, adhesives, and dyes. BASF India Limited was incorporated in 1943 and is based in Mumbai, India. BASF India Limited is a subsidiary of BASF SE.",
   "business_summary_reason": null,
-  "market_cap_cr": 12650.66,
-  "pe_ratio": 21.86,
+  "market_cap_cr": 12703.04,
+  "pe_ratio": 21.95,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 993.36,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 4.3286,
-  "fifty_two_week_high": 4560.0,
-  "fifty_two_week_low": 2913.9,
+  "fifty_two_week_high": 4539.0,
+  "fifty_two_week_low": 2905.0,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:45:06.665423",
-  "provider_reported_pb_ratio": 2.94,
-  "statements_retrieved_at": "2026-11-12T21:45:06.665423",
+  "retrieval_time": "2026-11-13T21:08:01.572053",
+  "provider_reported_pb_ratio": 2.95,
+  "statements_retrieved_at": "2026-11-13T21:08:01.572053",
   "retained_fields": []
 }

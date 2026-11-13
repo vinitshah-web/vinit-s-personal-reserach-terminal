@@ -5,7 +5,7 @@
   "industry": "Utilities - Independent Power Producers",
   "business_summary": "Vedanta Power Limited builds, owns, and operates a coal based thermal power plant in Punjab. Vedanta Power Limited was formerly known as Talwandi Sabo Power Limited and changed its name to Vedanta Power Limited in June 2026. The company was incorporated in 2007 and is based in Mumbai, India. Vedanta Power Limited operates independently of Vedanta Limited as of May 1, 2026. Vedanta Power Limited operates as a subsidiary of Vedanta Resources Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 13539.61,
+  "market_cap_cr": 13633.31,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:46:20.261310",
-  "provider_reported_pb_ratio": 1.04,
-  "statements_retrieved_at": "2026-11-12T22:46:20.261310",
+  "retrieval_time": "2026-11-13T22:06:17.418954",
+  "provider_reported_pb_ratio": 1.05,
+  "statements_retrieved_at": "2026-11-13T22:06:17.418954",
   "retained_fields": []
 }

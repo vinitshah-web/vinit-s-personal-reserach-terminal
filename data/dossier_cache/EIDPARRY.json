@@ -5,8 +5,8 @@
   "industry": "Agricultural Inputs",
   "business_summary": "E.I.D.- Parry (India) Limited, together with its subsidiaries, engages in the manufacture and sale of sugar, ethanol, cogeneration, nutraceuticals, and consumer products in India, North America, Europe, and internationally. The company offers sugar for use in food, bakery, confectioneries, beverage, and pharmaceutical industries; and grains, such as millets and dals, as well as rice. It also provides nutraceuticals products, such as organic spirulina and chlorella, carotenoid, astaxanthin, and lutein and zeaxanthin; and distillery products, including extra neutral alcohol, ethanol, etc. In addition, the company offers generates and sells approximately 140 MW of power for state electricity grids and private energy. E.I.D.- Parry (India) Limited was founded in 1788 and is headquartered in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 11926.59,
-  "pe_ratio": 25.74,
+  "market_cap_cr": 11654.32,
+  "pe_ratio": 25.15,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 494.27,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:54:47.923262",
-  "provider_reported_pb_ratio": 1.36,
-  "statements_retrieved_at": "2026-11-12T21:54:47.923262",
+  "retrieval_time": "2026-11-13T21:17:18.804925",
+  "provider_reported_pb_ratio": 1.32,
+  "statements_retrieved_at": "2026-11-13T21:17:18.804925",
   "retained_fields": []
 }

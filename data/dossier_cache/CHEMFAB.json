@@ -5,7 +5,7 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Chemfab Alkalis Limited, together with its subsidiary, Chemfab Karaiikal Limited, manufactures and sells basic inorganic chemicals in India and internationally. The company operates in Chemicals and Related Products/Services; and PVC-O Pipes segments. It offers caustic soda lye and flakes, liquid chlorine, hydrogen gas, sodium chlorate, hydrochloric acid, and sodium hypochlorite/bleach liquor products; and industrial grade and edible salt products, as well as PVCO pipes. The company was formerly known as Teamec Chlorates Limited and changed its name to Chemfab Alkalis Limited in July 2017. Chemfab Alkalis Limited was founded in 1985 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 458.38,
+  "market_cap_cr": 453.63,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:49:22.323596",
-  "provider_reported_pb_ratio": 1.21,
-  "statements_retrieved_at": "2026-11-12T21:49:22.323596",
+  "retrieval_time": "2026-11-13T21:12:06.139388",
+  "provider_reported_pb_ratio": 1.2,
+  "statements_retrieved_at": "2026-11-13T21:12:06.139388",
   "retained_fields": []
 }

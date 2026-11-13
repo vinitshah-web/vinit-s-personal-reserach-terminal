@@ -5,14 +5,14 @@
   "industry": "Auto Parts",
   "business_summary": "Jullundur Motor Agency (Delhi) Limited trades and distributes automobile parts, accessories, and petroleum products in India. The company offers brake equipment and friction range products, including air and hydraulic brake parts, brake fluids and linings, disc pads, and lined shoes; and engine components, such as crankshafts, cylinder liners, engine oil and valves, gaskets, radiators, cabins, air filters, engine bearings and bushes, thrust washers, timing belts and kits, turbo chargers, valve guides and tappets, and water and oil pumps. It also provides steering and suspension components, including half shafts, manual steering gears, power steering assemblies and pumps, suspension bush kits, shocks absorbers, struts and dampers, tie rod ends, suspension kits, and steering linkages; and bearings, such as ball, clutch, king pin, needle, steering, tapper roller, and wheel bearings. In addition, the company offers clutch and transmission products, including clutch drive and pressure plates, clutch release bearings and systems, flywheel assy and starter ring gears, gear, TQ, and transmission oil; and other parts, such as A/C gas, coolants, dickey shockers, fasteners, fuel filters, fuel pump motors, hose clamps, lubricants and grease, module reservoir assy, rubber parts, and window balancer. Further, it engages in the distribution of auto spare parts. Jullundur Motor Agency (Delhi) Limited was founded in 1927 and is based in Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 218.29,
-  "pe_ratio": 6.82,
+  "market_cap_cr": 237.43,
+  "pe_ratio": 7.41,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 120.26,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 2.2841,
-  "fifty_two_week_high": 103.7,
+  "fifty_two_week_high": 106.0,
   "fifty_two_week_low": 70.25,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:09:31.418520",
-  "provider_reported_pb_ratio": 0.79,
-  "statements_retrieved_at": "2026-11-12T22:09:31.418520",
+  "retrieval_time": "2026-11-13T21:31:12.884958",
+  "provider_reported_pb_ratio": 0.86,
+  "statements_retrieved_at": "2026-11-13T21:31:12.884958",
   "retained_fields": []
 }

@@ -5,14 +5,14 @@
   "industry": "Utilities - Regulated Electric",
   "business_summary": "India Power Corporation Limited, together with its subsidiaries, engages in the generation and distribution of electricity in India. The company operates 24.8 MW of wind assets in Gujarat; 2 MW of solar asset in West Bengal; and 12 MW thermal power plants in Asansol, West Bengal. It serves government establishments, industrial houses, railways, and domestic consumers. The company was formerly known as DPSC Limited and changed its name to India Power Corporation Limited in August 2013. India Power Corporation Limited was incorporated in 1919 and is headquartered in Kolkata, India. India Power Corporation Limited operates as a subsidiary of India Power Corporation of India Ltd.",
   "business_summary_reason": null,
-  "market_cap_cr": 673.86,
-  "pe_ratio": 86.5,
+  "market_cap_cr": 671.91,
+  "pe_ratio": 86.25,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 6.46,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 97.379,
-  "fifty_two_week_high": 11.46,
+  "fifty_two_week_high": 11.3,
   "fifty_two_week_low": 5.42,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:53:46.540301",
+  "retrieval_time": "2026-11-13T21:16:19.776328",
   "provider_reported_pb_ratio": 1.07,
-  "statements_retrieved_at": "2026-11-12T21:53:46.540301",
+  "statements_retrieved_at": "2026-11-13T21:16:19.776328",
   "retained_fields": []
 }

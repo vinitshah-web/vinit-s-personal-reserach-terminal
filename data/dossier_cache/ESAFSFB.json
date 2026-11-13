@@ -5,14 +5,14 @@
   "industry": "Banks - Regional",
   "business_summary": "ESAF Small Finance Bank provides banking products and services to rural and semi-urban markets in India. The company operates through four segments: Treasury, Wholesale Banking, Retail Banking, and Other Banking Operations. It offers savings and current accounts; fixed, recurring, green, and FCNR deposits; debit and credit cards; and home, gold, vehicle, MSME, Agri, clean energy, QR, and micro finance and micro loans, as well as loan against property, and financial institution lending. The company also provides payment products, such as Bharat bill payment system and BHIM unified payment interface; and investment products, including life insurance, health insurance, general insurance, demat, mutual funds, National Pension System, Atal Pension Yojana, Pradhan Mantri Jeevan Jyoti Bima Yojana, and Pradhan Mantri Suraksha Bima Yojana. In addition, it offers digital products comprising internet banking, mobile banking, and WhatsApp banking; Forex and remittance consisting of inward and outward remittance, MTSS, foreign currency sale and purchase, and Forex cards; and safe deposit lockers. The company was founded in 1992 and is based in Thrissur, India. ESAF Small Finance Bank operates as a subsidiary of ESAF Financial Holdings Private Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 2326.86,
-  "pe_ratio": 8.6,
+  "market_cap_cr": 2397.06,
+  "pe_ratio": 8.86,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 39.4,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 51.6163,
-  "fifty_two_week_high": 46.0,
+  "fifty_two_week_high": 46.7,
   "fifty_two_week_low": 19.78,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:56:16.880405",
-  "provider_reported_pb_ratio": 1.14,
-  "statements_retrieved_at": "2026-11-12T21:56:16.880405",
+  "retrieval_time": "2026-11-13T21:18:40.647353",
+  "provider_reported_pb_ratio": 1.18,
+  "statements_retrieved_at": "2026-11-13T21:18:40.647353",
   "retained_fields": []
 }

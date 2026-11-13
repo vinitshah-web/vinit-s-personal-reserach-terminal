@@ -5,8 +5,8 @@
   "industry": "Healthcare Plans",
   "business_summary": "Medi Assist Healthcare Services Limited, together with its subsidiaries, provides third-party administration services for health insurance claims in India and internationally. The company offers MAtrix, a claims administration platform; MAven, a fraud, waste, and abuse prevention platform; MAven IDP, an intelligent document processing platform; MAven Insights, an analytics and decision intelligence platform; MAven Global, a global benefits administration platform; and Network-as-a-Service platform, which provides access to a healthcare provider network. It also provides business support, health management, consultancy, contact center support, and other allied services related to the healthcare and health insurance sector. The company was incorporated in 2000 and is headquartered in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2053.93,
-  "pe_ratio": 19.05,
+  "market_cap_cr": 2098.37,
+  "pe_ratio": 19.47,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 118.31,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:17:10.656869",
-  "provider_reported_pb_ratio": 2.32,
-  "statements_retrieved_at": "2026-11-12T22:17:10.656869",
+  "retrieval_time": "2026-11-13T21:38:30.991017",
+  "provider_reported_pb_ratio": 2.37,
+  "statements_retrieved_at": "2026-11-13T21:38:30.991017",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Electronics & Computer Distribution",
   "business_summary": "Rashi Peripherals Limited operates as a distribution partner for information and communications technology (ICT) products of various brands in India. The company provides personal computing, enterprise, cloud solutions, lifestyle and IT essentials. It also offers solutions, such as remote access, identity access management, privileged access management, remote monitoring and management, patch management, mobile device management, data back-up, data security, DLP, insider risk management. In addition, the company provides consulting and technical support, supply service, and financial services, as well as enterprise solutions. It serves healthcare, pharma, manufacturing, BFSI, education, data centers, and ITeS and retail industries. Rashi Peripherals Limited was incorporated in 1989 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4630.8,
-  "pe_ratio": 12.09,
+  "market_cap_cr": 4578.68,
+  "pe_ratio": 11.96,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 338.67,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:31:39.095554",
-  "provider_reported_pb_ratio": 2.06,
-  "statements_retrieved_at": "2026-11-12T22:31:39.095554",
+  "retrieval_time": "2026-11-13T21:52:15.614872",
+  "provider_reported_pb_ratio": 2.04,
+  "statements_retrieved_at": "2026-11-13T21:52:15.614872",
   "retained_fields": []
 }

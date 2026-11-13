@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Suryalakshmi Cotton Mills Limited manufactures and sells cotton and blended yarns, denim fabrics, and garments in India, Bangladesh, Ethiopia, Guatemala, Kenya, Mauritius, Madagascar, South Korea, and internationally. The company offers yarns, including cotton, polyester, viscose, ring spun fibres, and blended yarns, as well as a range of denim fabrics, such as coloured, mercerized, dyed, coated, stretch, and rigid fabrics. It serves private labels, fashion brands, and retail chains. The company was incorporated in 1962 and is based in Secunderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 101.59,
-  "pe_ratio": 25.36,
+  "market_cap_cr": 106.61,
+  "pe_ratio": 26.62,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 144.92,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:40:46.972830",
-  "provider_reported_pb_ratio": 0.37,
-  "statements_retrieved_at": "2026-11-12T22:40:46.972830",
+  "retrieval_time": "2026-11-13T22:00:51.327947",
+  "provider_reported_pb_ratio": 0.39,
+  "statements_retrieved_at": "2026-11-13T22:00:51.327947",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Conglomerates",
   "business_summary": "Swan Corp Limited manufactures and markets cotton, polyester cotton, linen and viscose fabrics, and non-lycra products in India and internationally. It operates through Textiles, Energy, Construction/Others, Distribution & Development, Warehousing, Manufacturing, and Shipyard segments. The company develops commercial and residential real estate projects. It is also involved in the operation of the LNG port terminal. In addition, the company engages in the trading of petrochemical products. Further, it engages in commercial shipbuilding, defense vessels, repairs and refits, offshore fabrication, port infrastructure, and port security. The company was formerly known as Swan Energy Limited and changed its name to Swan Corp Limited in July 2025. Swan Corp Limited was incorporated in 1909 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 7487.86,
-  "pe_ratio": 9.61,
+  "market_cap_cr": 7287.56,
+  "pe_ratio": 9.35,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 274.78,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:41:01.268262",
-  "provider_reported_pb_ratio": 0.87,
-  "statements_retrieved_at": "2026-11-12T22:41:01.268262",
+  "retrieval_time": "2026-11-13T22:01:04.880279",
+  "provider_reported_pb_ratio": 0.85,
+  "statements_retrieved_at": "2026-11-13T22:01:04.880279",
   "retained_fields": []
 }

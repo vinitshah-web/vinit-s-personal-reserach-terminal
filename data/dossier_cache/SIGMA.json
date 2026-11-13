@@ -5,8 +5,8 @@
   "industry": "Information Technology Services",
   "business_summary": "Sigma Solve Limited, together with its subsidiary, Sigma Solve Inc., engages in the enterprise software development business worldwide. The company offers IT and turnkey consultancy services to customers in their business domain. It also provides web and e-commerce development, mobile app and real-time application development, cloud solutions, business intelligence analytics, CRM development, digital marketing, UI and UX design, automation testing, and quality assurance services. Sigma Solve Limited was incorporated in 2010 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 466.7,
-  "pe_ratio": 18.53,
+  "market_cap_cr": 453.24,
+  "pe_ratio": 17.93,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 8.92,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:36:46.832376",
-  "provider_reported_pb_ratio": 5.09,
-  "statements_retrieved_at": "2026-11-12T22:36:46.832376",
+  "retrieval_time": "2026-11-13T21:57:04.821865",
+  "provider_reported_pb_ratio": 4.95,
+  "statements_retrieved_at": "2026-11-13T21:57:04.821865",
   "retained_fields": []
 }

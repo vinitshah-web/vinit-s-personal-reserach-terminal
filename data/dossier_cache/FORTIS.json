@@ -5,8 +5,8 @@
   "industry": "Medical Care Facilities",
   "business_summary": "Fortis Healthcare Limited operates as a healthcare delivery service provider in India. The company services in the areas of cardiac science, nephrology, diabetology/endocrinology, foetal medicine, infectious diseases, mental health and behavioral science, oncology, orthopedics, physiotherapy and rehabilitation, rheumatology, urology, nuclear medicine, critical care, emergency and trauma, general surgery, internal medicine, neurointerventional radiology, obstetrics and gynaecology, pediatrics, pediatrics, vascular surgery, and support facilities. It also provides services in the areas of infertility medicine, dental science, endocrine surgery, geriatric medicine, liver transplant and hepatobiliary sciences, neurology, ophthalmology, pain and palliative medicine, pulmonology, thoracic surgery, gastroenterology sciences, dermatology, ENT, haematology, medical generics, neurology, organ transplant, radiology, and transfusion medicines. In addition, the company offers various spectrum integrated healthcare services ranging from clinics to quaternary care facilities and a range of ancillary services, as well as secondary, and tertiary care services. The company's healthcare verticals comprise hospitals, diagnostics, and day care specialty facilities. Fortis Healthcare Limited was incorporated in 1996 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 57376.82,
-  "pe_ratio": 55.23,
+  "market_cap_cr": 57678.8,
+  "pe_ratio": 55.52,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 138.87,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:57:56.768411",
-  "provider_reported_pb_ratio": 5.47,
-  "statements_retrieved_at": "2026-11-12T21:57:56.768411",
+  "retrieval_time": "2026-11-13T21:20:14.617348",
+  "provider_reported_pb_ratio": 5.5,
+  "statements_retrieved_at": "2026-11-13T21:20:14.617348",
   "retained_fields": []
 }

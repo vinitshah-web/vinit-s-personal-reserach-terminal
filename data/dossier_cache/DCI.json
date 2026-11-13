@@ -5,8 +5,8 @@
   "industry": "Electronics & Computer Distribution",
   "business_summary": "DC Infotech and Communication Limited engages in the provision of networking and security solutions in India and internationally. The company offers KVM, PRO-AV intelligence, and PDC/Cables under Aten brand; router, switches, wireless, surveillance structured, and cabling and network rack products under D-link brand. It also provides managed/smart/unmanaged poe/non poe switches; chassis switches; 10G AV ready wireless indoor/outdoor; campus mesh wireless devices under Netgear brand; network/cloud performance, management, and security monitoring under Netscout brand; and digital signage, video walls LED signage, UHD/UST projectors lifestyle TVs, and smart monitor under Samsung brand. In addition, the company offers network security firewall, secure SD wan, virtual security firewall, remote access, email security, advanced threat protection, and network security management under Sonicwall; and internet access, private access business to business cloud protection, and digital experience under Zscaler brand. DC Infotech and Communication Limited was founded in 1998 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 545.38,
-  "pe_ratio": 24.93,
+  "market_cap_cr": 553.99,
+  "pe_ratio": 25.32,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 65.72,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:51:58.464396",
-  "provider_reported_pb_ratio": 5.06,
-  "statements_retrieved_at": "2026-11-12T21:51:58.464396",
+  "retrieval_time": "2026-11-13T21:14:35.985953",
+  "provider_reported_pb_ratio": 5.14,
+  "statements_retrieved_at": "2026-11-13T21:14:35.985953",
   "retained_fields": []
 }

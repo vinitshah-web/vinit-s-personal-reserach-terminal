@@ -5,8 +5,8 @@
   "industry": "Oil & Gas Equipment & Services",
   "business_summary": "Dolphin Offshore Enterprises (India) Limited provides offshore and marine services to the oil and gas industry in India. The company offers diving and underwater services, including underwater construction services entailing modification and redevelopment of existing offshore facilities; pre-engineering surveys; diving support for pipe laying and pipeline stabilization; inspection, maintenance, and repair of platforms; installation and replacement of tie-ins, risers, and conductors; underwater ship repair and maintenance; rig support diving services, including UWILD surveys; and inspection required for various certifying bodies. It also provides pre-engineering surveys, preparation of ISO's and bill of materials, transportation, and prefabrication of spools; onshore fabrication services; modifications on unmanned and process platform, installation of riser clamps and protectors, deck extension, boat landing, clamp-on structure, and running conductors; painting; hook-up and commissioning work; installation of walk-way bridges; replacement of cranes, FG skids, chlorinators, and deluge systems; piping works; structural works; and repairs to spud-can, mud-mats, and shock-pad foundation on jack-up rigs. In addition, the company offers pre-engineering, pre-construction, and post installation surveys of offshore structures/ pipelines; procurement of material and onshore fabrication; marine load outs, sea fastening, and transportation; installation of riser, conductor, i-tube, anodes and relocation of subsea clamps; diving and topside support; free span corrections; and design engineering services. Further, it provides floating/dry dock and in-situ emergency repairs; underwater repairs and maintenance; hull painting, plating, and piping and structural repairs and replacement; and engine repairs services. The company was incorporated in 1979 and is based in Mumbai, India. Dolphin Offshore Enterprises (India) Limited is a subsidiary of Deep Onshore Services Private Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 2629.7,
-  "pe_ratio": 34.98,
+  "market_cap_cr": 2606.9,
+  "pe_ratio": 34.68,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 97.36,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:53:40.218207",
-  "provider_reported_pb_ratio": 6.75,
-  "statements_retrieved_at": "2026-11-12T21:53:40.218207",
+  "retrieval_time": "2026-11-13T21:16:13.887582",
+  "provider_reported_pb_ratio": 6.69,
+  "statements_retrieved_at": "2026-11-13T21:16:13.887582",
   "retained_fields": []
 }

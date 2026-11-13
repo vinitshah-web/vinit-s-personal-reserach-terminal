@@ -5,8 +5,8 @@
   "industry": "Confectioners",
   "business_summary": "Rana Sugars Limited engages in the manufacture of sugar, ethanol, and co-generation of power in India. It operates through three segments: Sugar Manufacturing, Ethanol/ENA Manufacturing, and Power Generation. The company offers sugar, molasses, and bagasse. It also provides ethanol, liquor, and various grades of alcohol, such as rectified spirit and potable grade extra neutral alcohol. In addition, the company generates the power from by-products bagasse of sugar. Further, it offers sugar beet pulp as cattle and poultry feed. The company was incorporated in 1991 and is based in Chandigarh, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 196.57,
-  "pe_ratio": 34.59,
+  "market_cap_cr": 191.81,
+  "pe_ratio": 33.76,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 37.27,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:29:44.576196",
+  "retrieval_time": "2026-11-13T21:50:29.576422",
   "provider_reported_pb_ratio": 0.34,
-  "statements_retrieved_at": "2026-11-12T22:29:44.576196",
+  "statements_retrieved_at": "2026-11-13T21:50:29.576422",
   "retained_fields": []
 }

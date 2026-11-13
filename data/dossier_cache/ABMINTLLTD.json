@@ -5,7 +5,7 @@
   "industry": "Specialty Chemicals",
   "business_summary": "ABM International Limited engages in the importing and trading of plastic raw materials in India. The company sells PVC resins, finished leather products, DOP, urea, etc. ABM International Limited was incorporated in 1983 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 38.94,
+  "market_cap_cr": 38.17,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:37:18.481281",
-  "provider_reported_pb_ratio": 3.2,
-  "statements_retrieved_at": "2026-11-12T21:37:18.481281",
+  "retrieval_time": "2026-11-13T21:00:43.145515",
+  "provider_reported_pb_ratio": 3.13,
+  "statements_retrieved_at": "2026-11-13T21:00:43.145515",
   "retained_fields": []
 }

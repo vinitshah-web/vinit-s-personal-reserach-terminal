@@ -5,8 +5,8 @@
   "industry": "Packaging & Containers",
   "business_summary": "EPL Limited, together with its subsidiaries, manufactures and sells plastic packaging materials in the Americas, Europe, Africa, the Middle East, South Asia, and East Asia Pacific. It offers dispensing systems, caps and closures, laminated tubes, laminates, and extruded tubes. The company also provides laminated tubes, including Platina, Platina Pro, r-Platina, Platina Me, Platina Vision, Platina Plus, Etain, Super Titanium, and Clarion, as well as Organic Green Maple Leaf and Green Maple Leaf. In addition, it offers printing technologies, such as NEOSeam, glitter, glow in the dark, 3D foil, screen braille effect, and lens foil effect. The company's products are used in the beauty and cosmetics, oral care, food and nutrition, pharmaceutical and health, and home care industries. It exports its products. The company was formerly known as Essel Propack Limited and changed its name to EPL Limited in October 2020. EPL Limited was incorporated in 1982 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 7659.49,
-  "pe_ratio": 19.49,
+  "market_cap_cr": 7629.33,
+  "pe_ratio": 19.41,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 98.08,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:56:05.304779",
-  "provider_reported_pb_ratio": 2.43,
-  "statements_retrieved_at": "2026-11-12T21:56:05.304779",
+  "retrieval_time": "2026-11-13T21:18:30.359781",
+  "provider_reported_pb_ratio": 2.42,
+  "statements_retrieved_at": "2026-11-13T21:18:30.359781",
   "retained_fields": []
 }

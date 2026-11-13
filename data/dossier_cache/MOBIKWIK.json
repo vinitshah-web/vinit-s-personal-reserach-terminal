@@ -5,14 +5,14 @@
   "industry": "Software - Infrastructure",
   "business_summary": "One MobiKwik Systems Limited provides digital payments and financial services for consumers and merchants in India and internationally. The company offers payment services for consumers, such as recharge, utility payments, bill payments, merchant payments, and other services through wallet; and operates prepaid payment instruments, including wallet payment system. It also provides Pocket UPI to make UPI payments through MobiKwik Wallet without linking bank account; MobiKwik ZIP, a pay-later product with a 30-day interest free credit line; ZIP EMI, a personal loan for salaried and self-employed individuals; co-branded credit cards backed by fixed deposits; Lens, a personal financial management product using bank data; Xtra, a peer to peer lending product; fixed deposits with RBI-registered NBFCs and banks; and mutual funds and digital gold distribution services. In addition, the company offers personal finance management, which utilized account aggregator technology to provide consumers with a personal financial management product; Lens.ai, an AI-based chatbot where users can have a conversation regarding finances; money-tracking solutions; and fixed deposit and stock broking services, soundboxes, and EDC E-H wallets. Further, it provides online checkout for e-commerce merchants to accept payments; Kwik QRs to scan and pay to retail merchant partners; MobiKwik Vibe, a QR enabled payment announcement device; MobiKwik EDC Machine, a point-of-sale machine to accept various modes of in-person payments; and merchant cash advance credit products. One MobiKwik Systems Limited was incorporated in 2008 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1820.08,
-  "pe_ratio": 99.66,
+  "market_cap_cr": 1793.28,
+  "pe_ratio": 98.19,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 68.45,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 7.9062,
-  "fifty_two_week_high": 267.35,
+  "fifty_two_week_high": 265.8,
   "fifty_two_week_low": 151.46,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:18:31.470597",
-  "provider_reported_pb_ratio": 3.36,
-  "statements_retrieved_at": "2026-11-12T22:18:31.470597",
+  "retrieval_time": "2026-11-13T21:39:48.148604",
+  "provider_reported_pb_ratio": 3.31,
+  "statements_retrieved_at": "2026-11-13T21:39:48.148604",
   "retained_fields": []
 }

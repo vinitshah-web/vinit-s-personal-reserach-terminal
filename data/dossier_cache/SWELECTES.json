@@ -5,14 +5,14 @@
   "industry": "Solar",
   "business_summary": "Swelect Energy Systems Limited engages in the manufacture and trading of solar mounting structures, solar photovoltaic inverters**and other ancillary products in India. The company offers photovoltaic modules, including mono PERC, TOPCon, monofacial, bifacial, domestic content requirements, and non-DCR; module mounting structures (MMS), such as ground mount, rooftop, and solar water pumps; energy storage systems, including solar energy storage systems, and solar-wind hybrid energy storage systems. It also provides electrical BoS, such as string combiner boxes (SCBs), DCDBs, AJBs, and ACDBs; and auxiliary transformers, including servo stabilisers. In addition, the company distributes solar power products, such as solar modules and MMS plus BOS accessories. Further, the company engages in solar and wind power generation, and provision of contract manufacturing and installation and maintenance services. It serves homes, SME'S, EPC, O&M services, and independent power producer markets. The company was formerly known as Numeric Power Systems Limited and changed its name to Swelect Energy Systems Limited in May 2012. Swelect Energy Systems Limited was incorporated in 1994 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 961.62,
-  "pe_ratio": 22.17,
+  "market_cap_cr": 959.91,
+  "pe_ratio": 22.13,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 607.66,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.5159,
-  "fifty_two_week_high": 821.15,
+  "fifty_two_week_high": 804.0,
   "fifty_two_week_low": 483.1,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:41:09.968257",
+  "retrieval_time": "2026-11-13T22:01:13.625570",
   "provider_reported_pb_ratio": 1.02,
-  "statements_retrieved_at": "2026-11-12T22:41:09.968257",
+  "statements_retrieved_at": "2026-11-13T22:01:13.625570",
   "retained_fields": []
 }

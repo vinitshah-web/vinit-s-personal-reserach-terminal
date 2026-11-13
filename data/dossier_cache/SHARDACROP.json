@@ -5,8 +5,8 @@
   "industry": "Agricultural Inputs",
   "business_summary": "Sharda Cropchem Limited, a crop protection chemical company, engages in the provision of various formulations and generic active ingredients worldwide. The company operates through Agrochemicals and Non- Agrochemicals segments. It offers agrochemical products, including insecticides, fungicides, herbicides, veterinary drugs, plant growth regulators, fumigants, regulators, rodenticides, dithianon, metalaxyl, propiconazole, phenthoate, pendimethalin, and dithianon; and biocides. The company also provides conveyor belts, such as textile ply, rough top, steel cord, chevron/pattern, elevator, sidewall, pipe, and PVC/PVG solid woven conveyor belts, as well as cotton transmission belts, PVC and polyurethane light duty belting products, and V-belts. In addition, it offers industrial chemicals used in water treatment, food and food ingredients, and other industrial applications; and dyes and dye intermediates, as well as general chemicals. Further, the company supplies and distributes pharmaceuticals and intermediates products, including prothioconazole, azoxystrobin, P-nitrophenol - parathion-methyl, 2,4-dichloroacetophenone - propiconazole, cyclopropanecarboxylic acid - trinexapac-ethyl, and P-fluorobenzaledehyde - cyfluthrin. Sharda Cropchem Limited was founded in 1987 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 6697.07,
-  "pe_ratio": 10.41,
+  "market_cap_cr": 6590.61,
+  "pe_ratio": 10.24,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 360.1,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:35:28.525027",
-  "provider_reported_pb_ratio": 2.06,
-  "statements_retrieved_at": "2026-11-12T22:35:28.525027",
+  "retrieval_time": "2026-11-13T21:55:50.988930",
+  "provider_reported_pb_ratio": 2.03,
+  "statements_retrieved_at": "2026-11-13T21:55:50.988930",
   "retained_fields": []
 }

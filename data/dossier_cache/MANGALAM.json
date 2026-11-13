@@ -5,14 +5,14 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Mangalam Drugs & Organics Limited, together with its subsidiary, manufactures and sells active pharmaceutical ingredients (APIs) and intermediates in India. The company offers active pharmaceutical ingredients (API) products, including acyclovir, amodiaquine, artemether, artesunate, bisoprolol fumarate, chloroquine phosphate, dihydroartemisinin, dolutegravir sodium, efavirenz, emtricitabine, etodolac, furosemide, hydroxychloroquine sulphate, lumefantrine, nimesulide, nitrofurantoin anhydrous and monohydrate, olanzapine, primaquine and piperaquine phosphate, pyrimethamine, pyronaridine tetraphosphate, sulfadoxine, tenofovir alafenamide hemifumarate, and tenofovir disoproxil fumarate. It also provides intermediates, such as 2-dibutylamino-1-(2,7-dichloro-9H-fluorine-4-yl)-ethanol; 4,6-dichloro-5-methoxy pyrimidine; 4,7 dichloroquinoline; ortho phenoxy methane sulfonanilide; tenofovir alafenamide base; and tenofovir disoproxil base. In addition, the company offers specialty chemicals comprising menthol; 2,3-dihydrophthalazine-1, 4-dione or phthalazine-1,4-dione; and 4-cynoethyl-2-methy phenol. Further, it offers organic and inorganic chemicals and heavy chemicals; and offers active pharmaceutical ingredients; and products covering various therapeutic areas comprising anti-malaria, anti-retroviral, anti-hypertensive, anti-inflammatory, anti-convulsant, anti-viral, anti-rheumatic arthritis agents, and anti-bacterial, as well as develops product for anti-hypertensive indications. Mangalam Drugs & Organics Limited was incorporated in 1972 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 46.19,
+  "market_cap_cr": 46.27,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 65.11,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.5828,
-  "fifty_two_week_high": 63.0,
+  "fifty_two_week_high": 62.9,
   "fifty_two_week_low": 22.8,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:16:01.482766",
+  "retrieval_time": "2026-11-13T21:37:26.291764",
   "provider_reported_pb_ratio": 0.45,
-  "statements_retrieved_at": "2026-11-12T22:16:01.482766",
+  "statements_retrieved_at": "2026-11-13T21:37:26.291764",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Software - Application",
   "business_summary": "SoftTech Engineers Limited provide software, platforms, and digital solutions for architecture, engineering, and construction projects in India. The company offers CivitAI, a construction intelligence platform; CivitBUILD, an end-to-end construction management platform; CivitPERMIT, an online building plan and permit application management; CivitINFRA, an infrastructure project management application; CivitPLAN, a pre-submission building plan validation tool for compliance; RuleBuddy PlanAssist of CivitPLAN; CivitTWIN, an ai-powered pre-review platform for architects, planners, and developers; and CivitSUSTAIN. It also provides solutions comprising smart solutions for design validation, code compliance, permits, and planning for architects, builders, and government agencies; management of public infrastructure projects by government agencies, as well as residential, commercial, and industrial projects by developers and contractors; and digital twin technology, AI/ML modeling, and team delivering energy in constructions and existing buildings. In addition, the company offers building information modeling and geospatial services. It serves government bodies, municipalities, property developers, investors, municipal corporations, real estate companies, contractors, architects, and consultants. SoftTech Engineers Limited was incorporated in 1996 and is headquartered in Pune, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 582.68,
-  "pe_ratio": 115.96,
+  "market_cap_cr": 589.54,
+  "pe_ratio": 117.33,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 126.15,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:38:10.588039",
-  "provider_reported_pb_ratio": 3.34,
-  "statements_retrieved_at": "2026-11-12T22:38:10.588039",
+  "retrieval_time": "2026-11-13T21:58:22.539844",
+  "provider_reported_pb_ratio": 3.38,
+  "statements_retrieved_at": "2026-11-13T21:58:22.539844",
   "retained_fields": []
 }

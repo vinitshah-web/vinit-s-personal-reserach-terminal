@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Omax Autos Limited manufactures and sells automotive sheet metal components, frames, long members, and assemblies in India. The company offers chassis assemblies, cross members, bumpers, cross car beam sub-assemblies, fender support brackets, holding brackets for number plates and rear tail lights, rear cross members, side rails, and sub structures for commercial vehicles. It also provides roofs, side walls, underframes, bogie frames, vertical and horizontal dampers, stainless steel benches, bio-toilets, electric loco shells, and diesel locomotives for railways and heavy fabrication industries. The company was incorporated in 1983 and is headquartered in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 431.16,
-  "pe_ratio": 8.29,
+  "market_cap_cr": 427.28,
+  "pe_ratio": 8.22,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 167.55,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:23:46.956018",
-  "provider_reported_pb_ratio": 1.2,
-  "statements_retrieved_at": "2026-11-12T22:23:46.956018",
+  "retrieval_time": "2026-11-13T21:44:46.962820",
+  "provider_reported_pb_ratio": 1.19,
+  "statements_retrieved_at": "2026-11-13T21:44:46.962820",
   "retained_fields": []
 }

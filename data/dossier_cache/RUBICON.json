@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - General",
   "business_summary": "Rubicon Research Limited operates as a specialty pharmaceutical company in India, the United States, and internationally. The company develops products in the areas of analgesics/pain management, cardiovascular system, central nervous system, hypokalemia, skeletal muscle relaxants, nicotine replacement therapy, gastrointestinal, metabolic, and immunosuppressant. Its primary proprietary technologies for drug delivery comprising RubiReten, a gastro-retentive system for drugs with poor solubility and a limited window of absorption, as well as RubiSRL for the formulation of sustained release liquids using a combination of ion exchange and membrane diffusion controlled-release technologies. The company was incorporated in 1999 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 28428.03,
-  "pe_ratio": 88.07,
+  "market_cap_cr": 27764.22,
+  "pe_ratio": 86.01,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 85.63,
@@ -48,8 +48,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:31:55.848299",
-  "provider_reported_pb_ratio": 20.06,
-  "statements_retrieved_at": "2026-11-12T22:31:55.848299",
+  "retrieval_time": "2026-11-13T21:52:31.578202",
+  "provider_reported_pb_ratio": 19.59,
+  "statements_retrieved_at": "2026-11-13T21:52:31.578202",
   "retained_fields": []
 }

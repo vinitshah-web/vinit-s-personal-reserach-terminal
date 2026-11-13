@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - General",
   "business_summary": "Sai Parenteral's Limited, a pharmaceutical formulations company, engages in the branded generic formulations and contract development and manufacturing businesses in India and internationally. Its portfolio includes formulation products across various therapeutic areas, such as cardiovascular, neuropsychiatry, anti-diabetic, respiratory health, antibiotics, gastroenterology, vitamins, minerals and supplements, analgesics, oncology, and dermatology in various dosage forms, including injectables, solid orals, liquid orals, and topicals. The company was founded in 1988 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2218.46,
-  "pe_ratio": 89.03,
+  "market_cap_cr": 2195.05,
+  "pe_ratio": 88.09,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 112.27,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:32:43.149265",
-  "provider_reported_pb_ratio": 4.47,
-  "statements_retrieved_at": "2026-11-12T22:32:43.149265",
+  "retrieval_time": "2026-11-13T21:53:14.382640",
+  "provider_reported_pb_ratio": 4.43,
+  "statements_retrieved_at": "2026-11-13T21:53:14.382640",
   "retained_fields": []
 }

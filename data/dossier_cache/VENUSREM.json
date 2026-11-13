@@ -5,15 +5,15 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Venus Remedies Limited engages in the pharmaceutical business in India, Latin America, Europe, the Middle East, Africa, Asia, and internationally. The company is involved in the research and development of solutions focusing on antimicrobial resistance, oncology, skin and wound care, and pain management. It also provides analgesic, analgesic and antipyretic, antibiotic, antidiabetic anticoagulant, antiemetic, antiviral, cardiac, cardiovascular, CNS, disinfectant and antiseptic, gastro therapy, gastro therapy, hepatoprotective, hormones (steroid), immunostimulating agent, iron supplements, mucolytic, muscle relaxant, neurology, respiratory, stress reliver, urology, vitamins, nutrients, minerals, and solvent products, as well as herbal medicine. The company was incorporated in 1989 and is headquartered in Panchkula, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1933.26,
-  "pe_ratio": 15.87,
+  "market_cap_cr": 2004.46,
+  "pe_ratio": 16.45,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 527.08,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.3367,
   "fifty_two_week_high": 2044.3,
-  "fifty_two_week_low": 534.05,
+  "fifty_two_week_low": 550.0,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:46:30.291624",
-  "provider_reported_pb_ratio": 2.74,
-  "statements_retrieved_at": "2026-11-12T22:46:30.291624",
+  "retrieval_time": "2026-11-13T22:06:27.296060",
+  "provider_reported_pb_ratio": 2.84,
+  "statements_retrieved_at": "2026-11-13T22:06:27.296060",
   "retained_fields": []
 }

@@ -5,7 +5,7 @@
   "industry": "Communication Equipment",
   "business_summary": "Tamilnadu Telecommunications Limited engages in the manufacture and sale of optical fiber cables for telecommunications in India. The company provides nylon jacketed metal-free duct cables, armoured cables for direct burial, aerial cables, ADSS cables, composite cables, and ribbon cables. It also offers consultancy services, as well as undertakes turnkey projects. Tamilnadu Telecommunications Limited was incorporated in 1988 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 43.53,
+  "market_cap_cr": 44.04,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:43:39.893832",
+  "retrieval_time": "2026-11-13T22:03:37.678867",
   "provider_reported_pb_ratio": -0.22,
-  "statements_retrieved_at": "2026-11-12T22:43:39.893832",
+  "statements_retrieved_at": "2026-11-13T22:03:37.678867",
   "retained_fields": []
 }

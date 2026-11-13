@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "BMW Ventures Limited engages in the trading and distribution of iron and steel products in India. It operates through Steel and Allied Products; Tractor Engines and Spares; PVC Pipes (Manufactured and Traded); Pre-engineered Buildings and Railway Girders; and Other segments. The company trades in and distributes TMT bars, GC sheets, HR sheets, wire rods, galvanised colour-coated sheets, GP sheets, hollow sections, pipes, and screws and allied products; distributes tractors, tractor engines, and spare parts; manufactures PVC pipes under the BMW Polytube brand; rents construction equipment; and fabricates pre-engineered buildings and railway girders. It also provides construction-equipment trading and hire; and job work/processing services, as well as residential and commercial doors and windows; hoes, shovels, sickles, crowbars, pickaxes, and hammers; and galvanized wires. The company was incorporated in 1994 and is based in Patna, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 569.89,
-  "pe_ratio": 12.45,
+  "market_cap_cr": 561.39,
+  "pe_ratio": 12.26,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 53.6,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:47:04.313803",
-  "provider_reported_pb_ratio": 1.23,
-  "statements_retrieved_at": "2026-11-12T21:47:04.313803",
+  "retrieval_time": "2026-11-13T21:09:55.756638",
+  "provider_reported_pb_ratio": 1.21,
+  "statements_retrieved_at": "2026-11-13T21:09:55.756638",
   "retained_fields": []
 }

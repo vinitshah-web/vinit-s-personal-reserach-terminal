@@ -5,8 +5,8 @@
   "industry": "Information Technology Services",
   "business_summary": "Trigyn Technologies Limited provides communications and information technology staffing support services in India and internationally. The company provides cloud and infrastructure, Medicaid MMIS, SAP, data and artificial intelligence, cloud and infrastructure, digital, quality assurance and engineering, staffing and consulting, digital learning and transformation, smart cities and iot, vaccination management services. It serves BFSI, education, government, healthcare, and IGO industries. The company was formerly known as Leading Edge Systems Ltd and changed its name to Trigyn Technologies Limited in July 2000. Trigyn Technologies Limited was incorporated in 1986 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 185.08,
-  "pe_ratio": 18.39,
+  "market_cap_cr": 182.77,
+  "pe_ratio": 18.16,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 271.02,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:44:13.900651",
+  "retrieval_time": "2026-11-13T22:04:13.227774",
   "provider_reported_pb_ratio": 0.22,
-  "statements_retrieved_at": "2026-11-12T22:44:13.900651",
+  "statements_retrieved_at": "2026-11-13T22:04:13.227774",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Electrical Equipment & Parts",
   "business_summary": "Veto Switchgears and Cables Limited, together with its subsidiaries, engages in the manufacture and sale of wires and cables, and electrical accessories in India and internationally. It operates through Wire and Cables, Lighting & Fittings, and Accessories & Others segments. The company offers modular switches; LED lightning, including slim LED panel, concealed light, deep light, spotlight, flood light, streetlight, strip light, rope light, LED bulb, LED tube light, wall and track light, and surface panel; and wire and cables, comprising Vimal multi strand cables, Veto multistrand cables, and Vimal flexible wire. It also provides fans; and MCB and distribution board, which includes circuit breaker, distribution panels, isolator, and AC box. In addition, the company offers bells and extension cords, which comprise ding dong, stereo, and multi tune bells, as well as extension cords. The company markets its products under the VETO and VIMAL POWER brand names through a network of dealers and distributors. Veto Switchgears and Cables Limited was founded in 1967 and is based in Jaipur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 261.76,
-  "pe_ratio": 9.56,
+  "market_cap_cr": 259.18,
+  "pe_ratio": 9.46,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 151.55,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:46:35.246375",
-  "provider_reported_pb_ratio": 0.9,
-  "statements_retrieved_at": "2026-11-12T22:46:35.246375",
+  "retrieval_time": "2026-11-13T22:06:32.135227",
+  "provider_reported_pb_ratio": 0.89,
+  "statements_retrieved_at": "2026-11-13T22:06:32.135227",
   "retained_fields": []
 }

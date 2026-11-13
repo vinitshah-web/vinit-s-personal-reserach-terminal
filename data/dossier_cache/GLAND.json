@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Gland Pharma Limited engages in manufacturing and sale of injectable formulations in India, the United States, Europe, Canada, Australia, New Zealand, and internationally. It engages in research and development of active pharmaceutical ingredient products, including synthesis of complex drug molecules, such as low molecular weight heparins, corticosteroids, peptides, and cytotoxic molecules. The company also offers its products for various therapeutic categories, such as anti- diabetic, anti-malarial, anti-infectives, anti-neoplastic, and neurological and central nervous system; blood related, ophthalmics and otologicals, cardiac, gastro-intestinal, and hormonal products; pain, neuromuscular blocking agents, and analgesics; respiratory and pulmonology; and vitamins, minerals, and nutrients. In addition, it provides contract development, dossier preparation, and technology transfer services. The company was incorporated in 1978 and is based in Hyderabad, India. Gland Pharma Limited operates as a subsidiary of Fosun Pharma Industrial Pte. Ltd.",
   "business_summary_reason": null,
-  "market_cap_cr": 54597.14,
-  "pe_ratio": 44.15,
+  "market_cap_cr": 55016.27,
+  "pe_ratio": 44.48,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 628.68,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:59:25.643906",
-  "provider_reported_pb_ratio": 5.26,
-  "statements_retrieved_at": "2026-11-12T21:59:25.643906",
+  "retrieval_time": "2026-11-13T21:21:40.109589",
+  "provider_reported_pb_ratio": 5.3,
+  "statements_retrieved_at": "2026-11-13T21:21:40.109589",
   "retained_fields": []
 }

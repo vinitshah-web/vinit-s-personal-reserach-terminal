@@ -5,8 +5,8 @@
   "industry": "Real Estate - Development",
   "business_summary": "Agi Infra Limited, together with its subsidiary, engages in the real estate and construction businesses in India. The company primarily constructs and develops commercial building and residential housing projects. It also operates cold storage facilities that provide storing, trading, dealing, and distribution of vegetables, fruits, dry fruits, etc., as well as leases or rents the cold chain facilities. The company was formerly known as G. I. Builders Private Limited and changed its name to AGI Infra Limited in June 2012. Agi Infra Limited was incorporated in 2005 and is based in Jalandhar, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3773.92,
-  "pe_ratio": 36.51,
+  "market_cap_cr": 3957.79,
+  "pe_ratio": 38.29,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 37.19,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:38:45.822925",
-  "provider_reported_pb_ratio": 8.12,
-  "statements_retrieved_at": "2026-11-12T21:38:45.822925",
+  "retrieval_time": "2026-11-13T21:02:06.056351",
+  "provider_reported_pb_ratio": 8.51,
+  "statements_retrieved_at": "2026-11-13T21:02:06.056351",
   "retained_fields": []
 }

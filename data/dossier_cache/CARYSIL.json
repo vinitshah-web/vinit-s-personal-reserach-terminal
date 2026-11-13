@@ -5,8 +5,8 @@
   "industry": "Furnishings, Fixtures & Appliances",
   "business_summary": "Carysil Limited, together with its subsidiaries, manufactures and trades in quartz kitchen and stainless steel kitchen sinks, bath products, tiles, kitchen appliances, and accessories in India. It provides faucets and food waste disposers; kitchen surfaces; built-in kitchen appliances, which includes chimneys, cook-tops, wine chillers, dishwashers, built-in ovens, microwave ovens, hobs, cooking ranges, ice and coffee makers, fryer, refrigerator, small appliances, and other products, as well as sink accessories, including chopping board, colander, expandable basket, floor grid, fold mat, and glass rinser. The company sells its products under the Carysil and Sternhagen brands. It also exports its products to approximately 55 countries. The company was formerly known as Acrysil Limited. Carysil Limited was incorporated in 1987 and is headquartered in Bhavnagar, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2691.67,
-  "pe_ratio": 25.21,
+  "market_cap_cr": 2741.3,
+  "pe_ratio": 25.4,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 231.52,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:48:29.235849",
-  "provider_reported_pb_ratio": 4.09,
-  "statements_retrieved_at": "2026-11-12T21:48:29.235849",
+  "retrieval_time": "2026-11-13T21:11:15.375037",
+  "provider_reported_pb_ratio": 4.16,
+  "statements_retrieved_at": "2026-11-13T21:11:15.375037",
   "retained_fields": []
 }

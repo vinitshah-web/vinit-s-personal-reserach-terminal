@@ -5,15 +5,15 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Pondy Oxides And Chemicals Limited produces and sells lead, lead alloys, and plastic additives in India. The company provides calcium, antimony, master, tin, silver, cadmium, and babbit Alloys. It also offers aluminium products; copper products, such as wire, uncoated and unalloyed copper wire scrap nodules; plastic products, including PP granules and ABS granules; and trading products, including zinc and cadmium. The company exports its products to Japan, South Korea, Thailand, Indonesia, the Middle East, and internationally. Pondy Oxides And Chemicals Limited was incorporated in 1995 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3044.64,
-  "pe_ratio": 24.9,
+  "market_cap_cr": 2887.13,
+  "pe_ratio": 23.61,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 103.36,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 7.6278,
   "fifty_two_week_high": 647.6,
-  "fifty_two_week_low": 372.8,
+  "fifty_two_week_low": 352.55,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:26:47.784944",
-  "provider_reported_pb_ratio": 3.86,
-  "statements_retrieved_at": "2026-11-12T22:26:47.784944",
+  "retrieval_time": "2026-11-13T21:47:37.149979",
+  "provider_reported_pb_ratio": 3.66,
+  "statements_retrieved_at": "2026-11-13T21:47:37.149979",
   "retained_fields": []
 }

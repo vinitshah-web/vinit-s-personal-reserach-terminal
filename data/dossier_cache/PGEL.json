@@ -5,8 +5,8 @@
   "industry": "Electronic Components",
   "business_summary": "PG Electroplast Limited engages in the provision of electronic manufacturing services in India and internationally. It manufactures and/or assembles various consumer electronic components and finished products, such as kitchen appliances, air conditioners sub-assemblies, air cooler, washing machines, mobile handsets, and LEDs for third parties. The company also offers automotive components; printed circuit board assemblies; LED televisions; bathroom fittings; and consumer electronics components. In addition, it provides plastic moulding and other component, as well as engages in sheet metal parts. The company was founded in 1977 and is based in Greater Noida, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 16439.78,
-  "pe_ratio": 76.14,
+  "market_cap_cr": 16253.39,
+  "pe_ratio": 75.27,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 108.26,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:26:01.139064",
-  "provider_reported_pb_ratio": 5.3,
-  "statements_retrieved_at": "2026-11-12T22:26:01.139064",
+  "retrieval_time": "2026-11-13T21:46:56.672054",
+  "provider_reported_pb_ratio": 5.24,
+  "statements_retrieved_at": "2026-11-13T21:46:56.672054",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Zydus Lifesciences Limited engages in the research, development, production, marketing, distribution, and sale of pharmaceutical products in India, the United States, Europe, and internationally. It operates through three segments: Pharmaceuticals, Consumer Products, and Medical Technologies. The company offers active pharmaceutical ingredients, human and finished dosage formulations, generics, branded generics, specialty formulations, biosimilars, vaccines, novel therapeutics, medical devices and technologies, consumer wellness, veterinary, and animal health products. It also provides biological products in the areas of oncology, autoimmune disorders, nephrology, inflammation, rheumatology, hepatology, and infectious diseases; and designs and executes clinical trials across new chemical entities (NCEs), biologics, vaccines, and specialty generics. In addition, the company operates seasonal, skin and healthcare, and food and nutrition products under the Glucon D, Complan, Sugar Free, Nycil, Everyuth, Nutralite, and RiteBite Max Protein brands. The company was formerly known as Cadila Healthcare Limited and changed its name to Zydus Lifesciences Limited in February 2022. Zydus Lifesciences Limited was founded in 1952 and is headquartered in Ahmedabad, India. Zydus Lifesciences Limited is a subsidiary of Zydus Family Trust.",
   "business_summary_reason": null,
-  "market_cap_cr": 120298.96,
-  "pe_ratio": 28.82,
+  "market_cap_cr": 118692.98,
+  "pe_ratio": 28.43,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 278.92,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:49:53.914151",
-  "provider_reported_pb_ratio": 4.32,
-  "statements_retrieved_at": "2026-11-12T22:49:53.914151",
+  "retrieval_time": "2026-11-13T22:09:36.122395",
+  "provider_reported_pb_ratio": 4.27,
+  "statements_retrieved_at": "2026-11-13T22:09:36.122395",
   "retained_fields": []
 }

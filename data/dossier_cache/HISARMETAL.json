@@ -5,14 +5,14 @@
   "industry": "Steel",
   "business_summary": "Hisar Metal Industries Limited manufactures and sells cold rolled precision stainless steel strips, stainless steel welded tubes and pipes, and stainless-steel plumbing pipes and fittings in India. It also exports its products. Hisar Metal Industries Limited was incorporated in 1990 and is based in Hisar, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 82.88,
-  "pe_ratio": 17.13,
+  "market_cap_cr": 82.43,
+  "pe_ratio": 17.04,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 121.73,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 0.54,
-  "fifty_two_week_high": 187.54,
+  "fifty_two_week_high": 184.78,
   "fifty_two_week_low": 124.99,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:04:33.160284",
-  "provider_reported_pb_ratio": 1.26,
-  "statements_retrieved_at": "2026-11-12T22:04:33.160284",
+  "retrieval_time": "2026-11-13T21:26:30.057019",
+  "provider_reported_pb_ratio": 1.25,
+  "statements_retrieved_at": "2026-11-13T21:26:30.057019",
   "retained_fields": []
 }

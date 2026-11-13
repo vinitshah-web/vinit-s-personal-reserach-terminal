@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Sansera Engineering Limited engages in the manufacture and sale of precision engineered components in India, Europe, the United States, and internationally. The company offers automotive components, such as connecting rods, rocker arms, finger followers, balancer shafts, gear shifter forks, suspension and steering parts, assembly components, aluminum parts, drivetrain and rotar parts, sprockets, adapters, rocker shafts, housing shift lever shafts, lever and arm shifts, shaft propellers, spacer input gears, shaft controls, braking system parts, tans axle parts, generator shafts, valve bridges, braking assembly parts, transmission parts, and chassis parts for two- wheelers, passenger vehicles, four-wheelers, and commercial vehicles, as well as crank shafts. It also provides non-automotive products, including off-road vehicles; industrial and stationery engines; agriculture; aerospace; and medical implants. In addition, the company offers forging and other related services. Sansera Engineering Limited was incorporated in 1981 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 29347.58,
-  "pe_ratio": 76.39,
+  "market_cap_cr": 29388.78,
+  "pe_ratio": 76.5,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 496.13,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:33:15.062032",
-  "provider_reported_pb_ratio": 9.48,
-  "statements_retrieved_at": "2026-11-12T22:33:15.062032",
+  "retrieval_time": "2026-11-13T21:53:45.032080",
+  "provider_reported_pb_ratio": 9.49,
+  "statements_retrieved_at": "2026-11-13T21:53:45.032080",
   "retained_fields": []
 }

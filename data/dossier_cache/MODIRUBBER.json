@@ -5,8 +5,8 @@
   "industry": "Real Estate Services",
   "business_summary": "Modi Rubber Limited, together with its subsidiaries, manufactures and sells automobile tyres, tubes, and flaps in India. It also manufactures and sells resin coated sand. In addition, it operates salons. The company was incorporated in 1971 and is headquartered in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 291.5,
-  "pe_ratio": 11641.0,
+  "market_cap_cr": 283.98,
+  "pe_ratio": 11341.0,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 270.14,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:18:37.350309",
-  "provider_reported_pb_ratio": 0.43,
-  "statements_retrieved_at": "2026-11-12T22:18:37.350309",
+  "retrieval_time": "2026-11-13T21:39:53.906413",
+  "provider_reported_pb_ratio": 0.42,
+  "statements_retrieved_at": "2026-11-13T21:39:53.906413",
   "retained_fields": []
 }

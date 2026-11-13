@@ -5,8 +5,8 @@
   "industry": "Building Materials",
   "business_summary": "JSW Cement Limited manufactures and sells cement under the JSW Cement brand in India. The company offers Portland slag, ordinary Portland, composite, and Portland pozzolana cement products. It also provides construction chemicals comprising precision steel grouts, mortars, and waterproofing compounds, as well as tile adhesives, grouts, and cleaners; cementitious materials, including ground granulated blast furnace slag (GGBS) and microfine GGBS; aggregates consisting of screened slag; ready-mix concrete under the JSW Concrete brand; and clinkers. In addition, the company offers concrete laboratory testing services. It sells its products through a network of dealers and sub-dealers, as well as warehouses. The company was incorporated in 2006 and is headquartered in Mumbai, India. JSW Cement Limited is a subsidiary of Adarsh Advisory Services Private Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 16993.57,
-  "pe_ratio": 22.31,
+  "market_cap_cr": 16917.82,
+  "pe_ratio": 22.21,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 50.17,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:09:45.491767",
-  "provider_reported_pb_ratio": 2.5,
-  "statements_retrieved_at": "2026-11-12T22:09:45.491767",
+  "retrieval_time": "2026-11-13T21:31:26.816961",
+  "provider_reported_pb_ratio": 2.49,
+  "statements_retrieved_at": "2026-11-13T21:31:26.816961",
   "retained_fields": []
 }

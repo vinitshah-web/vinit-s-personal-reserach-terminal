@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "SPR Auto Technologies Limited manufactures and sells automotive components in India. The company offers pistons, piston pins, piston rings, and engine valves. It also provides cylinder liners; crankshafts; connecting rods; cylinder heads; lubricating oils, fuel, air, cabin, and hydraulic filters; and gaskets, such as copper asbestos copper, aluminium asbestos aluminium, multilayer steel, asbestos steel asbestos, and cylinder head gaskets. In addition, the company offers electric motors and motors controllers, and precision moulded/assembled parts and precision metal moulds. The company also exports its products. The company was formerly known as Shriram Pistons & Rings Limited and change its name to SPR Auto Technologies Limited in March 2026. SPR Auto Technologies Limited was incorporated in 1963 and is headquartered in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 19940.07,
-  "pe_ratio": 32.73,
+  "market_cap_cr": 19906.2,
+  "pe_ratio": 32.67,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 926.15,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:36:23.678736",
-  "provider_reported_pb_ratio": 4.64,
-  "statements_retrieved_at": "2026-11-12T22:36:23.678736",
+  "retrieval_time": "2026-11-13T21:56:42.053538",
+  "provider_reported_pb_ratio": 4.63,
+  "statements_retrieved_at": "2026-11-13T21:56:42.053538",
   "retained_fields": []
 }

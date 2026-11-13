@@ -5,8 +5,8 @@
   "industry": "Building Products & Equipment",
   "business_summary": "Aditya Infotech Limited manufactures, assembles and trades security and surveillance equipment in India and internationally. The company offers analog cameras, digital video recorders, internet protocol network cameras, network video recorders, access control products, mobile surveillance solutions, body-worn cameras, smart Wi-Fi cameras, digital door locks, video door phones and other surveillance-aligned products temperature screening solutions, interactive displays, routers, cables, power supplies, and thermal cameras. It also provides temperature screening solutions, explosion-proof cameras, integrated central command and control software, learning-based video analytics solutions, access control, time-attendance solutions, biometric products, wifi doorbells and video door-phones, HMS, AMS, interactive displays, monitors, SD Cards, as well as other accessories and products including cabling, racks, storage solutions and customized solutions; and products for enterprise and consumer segments under the CP PLUS and Dahua brands. In addition, it offers power over ethernet network switches, NVR/DVR racks, switched-mode power supply power supplies, and cables. Further, it provides cloud storage services for surveillance management under CP PLUS Cloud Storage brand name; and software solutions, such as health monitoring systems, attendance management systems, and video management software. It offers its products to government establishments, retail chains, financial institutions, residential, industrial warehouse, public spaces, and infrastructure projects. The company was formerly known as Perfect Lucky Goldstar International Limited and changed its name to Aditya Infotech Limited in August 1997. The company was founded in 1994 and is based in Noida, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 51638.83,
-  "pe_ratio": 83.72,
+  "market_cap_cr": 50885.61,
+  "pe_ratio": 82.5,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 309.85,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:50:47.207321",
-  "provider_reported_pb_ratio": 13.59,
-  "statements_retrieved_at": "2026-11-12T21:50:47.207321",
+  "retrieval_time": "2026-11-13T21:13:29.251009",
+  "provider_reported_pb_ratio": 13.39,
+  "statements_retrieved_at": "2026-11-13T21:13:29.251009",
   "retained_fields": []
 }

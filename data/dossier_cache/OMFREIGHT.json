@@ -5,8 +5,8 @@
   "industry": "Integrated Freight & Logistics",
   "business_summary": "Om Freight Forwarders Limited provides logistics and allied services through sea, road, rail, and air in India. It offers customs clearance; international air and sea freight forwarding; charter services; project logistics; nominated cargo; bonded trucking and trans shipping; port and vessel handling; road transportation; inventory warehousing and distribution; third country export cross trade; post shipment activities; export import DGFT licensing; and value added services. Om Freight Forwarders Limited was incorporated in 1995 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 391.71,
-  "pe_ratio": 19.45,
+  "market_cap_cr": 402.32,
+  "pe_ratio": 19.98,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 61.63,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:23:49.910535",
-  "provider_reported_pb_ratio": 1.89,
-  "statements_retrieved_at": "2026-11-12T22:23:49.910535",
+  "retrieval_time": "2026-11-13T21:44:49.481620",
+  "provider_reported_pb_ratio": 1.94,
+  "statements_retrieved_at": "2026-11-13T21:44:49.481620",
   "retained_fields": []
 }

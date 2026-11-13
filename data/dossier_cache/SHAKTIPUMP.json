@@ -5,8 +5,8 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "Shakti Pumps (India) Limited, together with its subsidiaries, manufactures and sells pumping solutions in India and internationally. It offers submersible, solar, vertical multistage centrifugal, monoblock end suction, pressure booster, waste water, open well, positive displacement submersible, shallow well and slow speed, immersible, single shaft vertical multistage, solar open well, plug and play, sero vertical multi stage, mechanical seal, vertical turbine, SCRI EE, and immersible coolant pumps, as well as hydro pneumatic boosters systems and inverter submersible, micro surface, and firefighting pump sets. The company also provides submersible, EV, surface, and slip start synchronous motors; and universal drives, universal solar pump controllers, smart controllers, smart starters, grid tie inverters, hybrid inverters, hybrid controllers, RMS/IoT dongles, micro RMS 4G, DU/DT filters, solar tracker controllers, electronics and control plants, and soft starters. In addition, it offers mechanical seals, hydro pneumatic PLC parameter setting manuals, solar structures, and all products, as well as mounting structures, EV steering and compressor motors, electronic controllers, and EV chargers. The company serves the agriculture, water management, industrial, residential, commercial, solar solution, and renewable energy industries. It exports its products. The company was founded in 1982 and is headquartered in Pithampur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4853.24,
-  "pe_ratio": 30.32,
+  "market_cap_cr": 4704.55,
+  "pe_ratio": 29.39,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 144.79,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:35:16.929049",
-  "provider_reported_pb_ratio": 2.72,
-  "statements_retrieved_at": "2026-11-12T22:35:16.929049",
+  "retrieval_time": "2026-11-13T21:55:40.574821",
+  "provider_reported_pb_ratio": 2.63,
+  "statements_retrieved_at": "2026-11-13T21:55:40.574821",
   "retained_fields": []
 }

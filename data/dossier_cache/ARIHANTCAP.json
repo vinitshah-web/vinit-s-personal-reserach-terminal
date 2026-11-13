@@ -5,8 +5,8 @@
   "industry": "Capital Markets",
   "business_summary": "Arihant Capital Markets Limited, together with its subsidiaries, engages in the broking and related businesses in India. The company offers stock, commodities, and insurance broking services, as well as portfolio management, financial, real estate, and other related services. It is also involved in the retail broking, and depository services; Serving banks, insurance companies, mutual funds, and other institutions; mobile, web and desktop trading platforms for equities, ETFs, derivatives, IPOs, NCDs, commodities, and currencies; capital markets services, corporate finance, strategic advisory services, valuation, and specialized services; and mutual funds, fixed income, bonds, and NPS distribution services. In addition, the company provides NBFC and MTF loan against shares, and margin trading funding services; portfolio management services; and investment across asset classes, and platforms. It serves retail customers, mutual funds and financial institutions, and corporate clients. Arihant Capital Markets Limited was incorporated in 1992 and is headquartered in Indore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1044.83,
-  "pe_ratio": 33.1,
+  "market_cap_cr": 1021.04,
+  "pe_ratio": 32.34,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 44.17,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:41:46.731392",
-  "provider_reported_pb_ratio": 2.16,
-  "statements_retrieved_at": "2026-11-12T21:41:46.731392",
+  "retrieval_time": "2026-11-13T21:04:53.530182",
+  "provider_reported_pb_ratio": 2.11,
+  "statements_retrieved_at": "2026-11-13T21:04:53.530182",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Lodging",
   "business_summary": "Juniper Hotels Limited provides hotel services in India. The company develops, manages, and operates hotels and serviced apartments under the Grand Hyatt Mumbai Hotel and Residences, Andaz Delhi, Hyatt Delhi Residences, Hyatt Regency Ahmedabad, Hyatt Regency Lucknow, Hyatt Raipur, and Hyatt Place Hampi names. It also provides accommodation, dining options, and personalized guest services; and various amenities, including spa services, fine dining restaurants, and extensive conference and meeting facilities. In addition, the company develops, operates, and manages hospitality and leisure facilities, banquet areas, and motels; and leases spaces for retail and offices. It provides its services through direct booking and global loyalty ecosystems, corporate sales desks, online travel platforms and destination management partners, and digital and social engagement channels. The company serves business and leisure travelers. Juniper Hotels Limited was incorporated in 1985 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4536.16,
-  "pe_ratio": 27.37,
+  "market_cap_cr": 4499.44,
+  "pe_ratio": 27.14,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 132.06,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:10:01.574276",
-  "provider_reported_pb_ratio": 1.54,
-  "statements_retrieved_at": "2026-11-12T22:10:01.574276",
+  "retrieval_time": "2026-11-13T21:31:43.457314",
+  "provider_reported_pb_ratio": 1.53,
+  "statements_retrieved_at": "2026-11-13T21:31:43.457314",
   "retained_fields": []
 }

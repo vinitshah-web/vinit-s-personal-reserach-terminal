@@ -5,14 +5,14 @@
   "industry": "Communication Equipment",
   "business_summary": "Kavveri Defence & Wireless Technologies Limited engages in the design, development, and manufacture subsystem products, antennas and RF components, for defence, railroad transport, airports, aerospace and telecommunications applications in India and internationally. The company offers omnidirectional antenna, panel and sector antennas, Yagi antennas, vehicular/manpack antenna, adjustable & multisector, low-profile antenna, in-building/DAS/IBS, point-to-point antenna, parabolic and custom multiband and high-gain solutions; filters, including bandpass, high-pass, low-pass, multiple window filters, broadband duplexers, combiners, and tunable dual-cavity filters; and passive RF components, such as isolators, circulators, power dividers, RF switches, couplers, and splitters. It serves the defense, aerospace, counter-drone, satcom, public safety, industrial, and transport sectors. The company was formerly known as Kavveri Telecom Products Limited and changed its name to Kavveri Defence & Wireless Technologies Limited in October 2024. Kavveri Defence & Wireless Technologies Limited was founded in 1991 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 478.83,
+  "market_cap_cr": 489.11,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 31.56,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 6.0124,
-  "fifty_two_week_high": 110.38,
+  "fifty_two_week_high": 108.17,
   "fifty_two_week_low": 51.51,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:10:46.053206",
-  "provider_reported_pb_ratio": 2.52,
-  "statements_retrieved_at": "2026-11-12T22:10:46.053206",
+  "retrieval_time": "2026-11-13T21:32:24.990867",
+  "provider_reported_pb_ratio": 2.58,
+  "statements_retrieved_at": "2026-11-13T21:32:24.990867",
   "retained_fields": []
 }

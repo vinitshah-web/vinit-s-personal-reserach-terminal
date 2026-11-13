@@ -5,7 +5,7 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Visagar Polytex Limited engages in the design, manufacture, wholesale, retail, and trade of textiles primarily in India. The company offers ethnic wear, including sarees, lehengas, and suits; and interlining goods, as well as various fabrics. It sells its products under the Vividha brand. Visagar Polytex Limited was incorporated in 1983 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 14.05,
+  "market_cap_cr": 14.34,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:47:41.973191",
-  "provider_reported_pb_ratio": -48.0,
-  "statements_retrieved_at": "2026-11-12T22:47:41.973191",
+  "retrieval_time": "2026-11-13T22:07:34.175987",
+  "provider_reported_pb_ratio": -49.0,
+  "statements_retrieved_at": "2026-11-13T22:07:34.175987",
   "retained_fields": []
 }

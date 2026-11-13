@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Rain Industries Limited, together with its subsidiaries, manufactures and sells carbon, advanced materials, and cement products in India and internationally. The company operates through three segments: Carbon, Advanced Materials, and Cement. It offers calcined petroleum coke, coal tar pitch, green petroleum coke, and derivatives of coal tar distillation, including carbon black, creosote, naphthalene, and other aromatic oils, as well as generates electricity and steam from waste-heat recovery process. The company also provides engineered products comprising CARBORES, PETRORES, and LP sealer base; chemical intermediates, such as refined naphthalene, phthalic anhydride, modifiers, benzene, toluene, xylene, solvents, and fuel additives; and resin products, including carbon, pure, and hydrogenated hydrocarbon resins, as well as phenolics for specialty chemicals, coatings, adhesives, construction, automotive, lithium-ion batteries, energy storage, petroleum, and other industries. In addition, it offers ordinary cement and Portland pozzolana cement for construction under the Priya Cement brand. The company was formerly known as Rain Commodities Limited and changed its name to Rain Industries Limited in July 2013. Rain Industries Limited was incorporated in 1974 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 5599.15,
-  "pe_ratio": 8.72,
+  "market_cap_cr": 5466.96,
+  "pe_ratio": 8.52,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 221.47,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:29:15.671182",
-  "provider_reported_pb_ratio": 0.75,
-  "statements_retrieved_at": "2026-11-12T22:29:15.671182",
+  "retrieval_time": "2026-11-13T21:49:57.294604",
+  "provider_reported_pb_ratio": 0.73,
+  "statements_retrieved_at": "2026-11-13T21:49:57.294604",
   "retained_fields": []
 }

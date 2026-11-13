@@ -5,8 +5,8 @@
   "industry": "Specialty Retail",
   "business_summary": "SS Retail Limited sales consumer electronics products in India. It offers mobile phones, pre-owned mobile phones; bluetooth speakers, sound bars, and trolley/karaoke speakers; air buds/ear buds, neck bands, and headphones; smart watches; power banks and wireless power banks, power adaptors, chargers, type C cables, lightning cables, micro cables and multi-pin cables and memory cards, pen drives, and on the go pen drives; and televisions, laptops, and tablets, as well as wholesales mobile phones. The company also provides ancillary services, which includes mobile protection plans, anti-theft software, credit / EMI (equated monthly instalment) facilities, and recharge of mobile phones. It operates through stores. The company was incorporated in 2016 and is based in Kolhapur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 5206.47,
-  "pe_ratio": 75.93,
+  "market_cap_cr": 5497.25,
+  "pe_ratio": 80.17,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 34.23,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:39:14.674884",
-  "provider_reported_pb_ratio": 20.45,
-  "statements_retrieved_at": "2026-11-12T22:39:14.674884",
+  "retrieval_time": "2026-11-13T21:59:20.570224",
+  "provider_reported_pb_ratio": 21.6,
+  "statements_retrieved_at": "2026-11-13T21:59:20.570224",
   "retained_fields": []
 }

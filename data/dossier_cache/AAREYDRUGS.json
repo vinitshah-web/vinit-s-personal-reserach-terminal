@@ -5,14 +5,14 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Aarey Drugs & Pharmaceuticals Limited manufactures and sells active pharmaceutical ingredients, intermediates, and specialty chemicals for various industrial applications in India. The company offers intermediates, including mono methyl urea, di methyl urea, ortho para nitro anisole, 2-bromomethyl-1,3-dioxolane, and uracil. It also provides active pharmaceutical ingredients, such as metformin HCl, mefenamic acid, and doxofylline. In addition, the company trades chemicals and solvents, including aromatic chemicals, chemical acids, chlor-alkali, chlorinated solvent, glycols and glycol ethers, fiber intermediates, and acetates and esters, as well as industrial alcohols, ketones, amines, oleochemicals, intermediates, olefins, phosphates, fertilizers, monomers, and chemicals. Further, it offers lumefantrine; nimesulide; albendazole; carbamazepine; and oxcarbazepine. It serves pharmaceutical formulation manufacturers and pharmaceutical merchant exporters. Aarey Drugs & Pharmaceuticals Limited was incorporated in 1990 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 363.72,
-  "pe_ratio": 77.63,
+  "market_cap_cr": 367.03,
+  "pe_ratio": 78.33,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 52.87,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 3.1874,
-  "fifty_two_week_high": 114.8,
+  "fifty_two_week_high": 116.0,
   "fifty_two_week_low": 50.31,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:36:45.732758",
-  "provider_reported_pb_ratio": 2.16,
-  "statements_retrieved_at": "2026-11-12T21:36:45.732758",
+  "retrieval_time": "2026-11-13T21:00:11.136537",
+  "provider_reported_pb_ratio": 2.18,
+  "statements_retrieved_at": "2026-11-13T21:00:11.136537",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "Sadbhav Engineering Limited engages in the engineering, procurement, construction, and infrastructure development projects business in India. It undertakes infrastructure facilities in areas of canals, irrigations projects, roads, bridge, mining activities on contract basis, dams that includes civil, electrical and mechanical contractor, designer and engineers, structural contractor, earthwork contractor for repairing, reconstruction, renovation, demolitions and construction. The company also undertakes roads and highway development projects; and establishes, maintains, operates, leases, and transfers infrastructure facilities on BOT, BOLT, and BOOT basis. In addition, it engages in the maintenance of infrastructure projects and related consulting and advisory services. Sadbhav Engineering Limited was incorporated in 1988 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 130.39,
-  "pe_ratio": 4.37,
+  "market_cap_cr": 124.9,
+  "pe_ratio": 4.18,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": -3.94,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:32:19.639439",
-  "provider_reported_pb_ratio": -1.93,
-  "statements_retrieved_at": "2026-11-12T22:32:19.639439",
+  "retrieval_time": "2026-11-13T21:52:52.889284",
+  "provider_reported_pb_ratio": -1.85,
+  "statements_retrieved_at": "2026-11-13T21:52:52.889284",
   "retained_fields": []
 }

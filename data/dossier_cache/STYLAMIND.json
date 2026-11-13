@@ -5,8 +5,8 @@
   "industry": "Furnishings, Fixtures & Appliances",
   "business_summary": "Stylam Industries Limited engages in the manufacture and sale of laminates and allied products under the STYLAM brand name in India. It offers woodgrain, marble, abstract, fabric, solids, patterns, and synchro high pressure laminates; and compact laminates, such as cuboid, fascia, tablex, kitchenate, unicore, play and slay, stella, and lab mate. It also provides specialty laminates, including mirror, magnetic, flicker, metallic, digital, and electrostatic dissipative laminates, as well as chalk and marker laminates. In addition, the company offers anti-fingerprint and high gloss laminates, and anti-fingerprint and high gloss prelam boards. Further, the company provides acrylic solid surface, exterior cladding, restroom cubicles, and surface solutions. It also exports its products to North and South America, Europe, the Far East, and the Middle East. Stylam Industries Limited was incorporated in 1991 and is based in Chandigarh, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 5567.04,
-  "pe_ratio": 31.93,
+  "market_cap_cr": 5486.32,
+  "pe_ratio": 31.46,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 528.26,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:39:43.647167",
-  "provider_reported_pb_ratio": 6.21,
-  "statements_retrieved_at": "2026-11-12T22:39:43.647167",
+  "retrieval_time": "2026-11-13T21:59:48.446506",
+  "provider_reported_pb_ratio": 6.12,
+  "statements_retrieved_at": "2026-11-13T21:59:48.446506",
   "retained_fields": []
 }

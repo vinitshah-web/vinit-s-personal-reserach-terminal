@@ -5,14 +5,14 @@
   "industry": "Integrated Freight & Logistics",
   "business_summary": "Allcargo Terminals Limited operates container freight stations (CFS) and logistics business in India and internationally. It provides import and export handling; bonded, non-bonded, and open warehousing; direct port delivery; hazardous cargo; cargo handling; reefer container; ISO tank; and last mile transportation services. Allcargo Terminals Limited was founded in 2003 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 788.31,
-  "pe_ratio": 18.5,
+  "market_cap_cr": 818.08,
+  "pe_ratio": 19.2,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 14.72,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 25.206,
-  "fifty_two_week_high": 35.067978,
+  "fifty_two_week_high": 33.39,
   "fifty_two_week_low": 18.2,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:43:00.788360",
-  "provider_reported_pb_ratio": 1.83,
-  "statements_retrieved_at": "2026-11-12T21:43:00.788360",
+  "retrieval_time": "2026-11-13T21:06:02.333529",
+  "provider_reported_pb_ratio": 1.9,
+  "statements_retrieved_at": "2026-11-13T21:06:02.333529",
   "retained_fields": []
 }

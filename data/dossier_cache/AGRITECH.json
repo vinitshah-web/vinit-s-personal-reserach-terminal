@@ -5,7 +5,7 @@
   "industry": "Farm Products",
   "business_summary": "Agri-Tech (India) Limited engages in horticulture business in India. It primarily cultivates mangoes. The company was incorporated in 1993 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 50.79,
+  "market_cap_cr": 51.84,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:38:50.664620",
+  "retrieval_time": "2026-11-13T21:02:11.292456",
   "provider_reported_pb_ratio": null,
-  "statements_retrieved_at": "2026-11-12T21:38:50.664620",
+  "statements_retrieved_at": "2026-11-13T21:02:11.292456",
   "retained_fields": []
 }

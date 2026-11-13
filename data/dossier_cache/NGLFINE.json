@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - General",
   "business_summary": "NGL Fine-Chem Limited develops and manufactures veterinary APIs, human APIs, intermediates, and finished dosage forms in India, Europe, the Asia Pacific, the United States, and internationally. The company offers afoxolaner, amitraz, atovaquone, buparvaquone, butaphosphan, carprofen, clorsulon, closantel base, closantel sodium, decoquinate, diminazene diaceturate, febantel, fenbendazole, fluazuron, flumethrin, flunixin meglumine, fluralaner, halquinol, homidium chloride, imidocarb dipropionate, isometamidium chlroide HCl, lotilaner, marbofloxacin, maropitant citrate monohydrate, nitroscanate, nitroxynil, oclacitinib maleate, oxfendazole, parvaquone, permethrin, phenazone, ponazuril, praziquantel, ractopamine HCL, rafoxanide, ricobendazole, r-praziquantel, sarolaner, s-methoprene, toldimfos sodium, toltrazuril, triclabendazole, xylazine base, xylazine HCl, and zilpaterol. It also provides anthelmintics, antiprotozoals, ectoparasiticides, phosphorus supplements, coccidiostats, and non-steroidal anti-inflammatory drugs. In addition, the company offers atovaquone, nitazoxanide, and praziquantel for anti malarial, anti diarrheal, and anthelmintic therapeutic categories. Further, it provides specialty chemicals, such as meglumine, n-ethyl-d-glucamine, n-octyl-d-glucamine, 1,4,7-trimethyl-1,4,7-triazonane, and Mn-MeTACN. It serves companies engages in manufacturing custom pharmaceuticals. NGL Fine-Chem Limited was incorporated in 1981 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1926.37,
-  "pe_ratio": 33.68,
+  "market_cap_cr": 1878.92,
+  "pe_ratio": 32.85,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 532.92,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:21:56.002012",
-  "provider_reported_pb_ratio": 5.85,
-  "statements_retrieved_at": "2026-11-12T22:21:56.002012",
+  "retrieval_time": "2026-11-13T21:43:03.273203",
+  "provider_reported_pb_ratio": 5.71,
+  "statements_retrieved_at": "2026-11-13T21:43:03.273203",
   "retained_fields": []
 }

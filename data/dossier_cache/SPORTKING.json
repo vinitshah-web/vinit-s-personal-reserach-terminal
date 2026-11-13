@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Sportking India Limited manufactures, purchases, and sells textile yarns in India and internationally. It offers cotton, polyester/cotton blended, fancy, dyed, grey, and acrylic and acrylic/polyester blended yarns, as well as knitted fabrics. The company also engages in the yarns and fibers dyeing and processing business. In addition, it produces T-shirts, shirts, sweatshirts, sweaters, jackets, jeans, trousers, track pants, tracksuits, Bermuda and shorts, and nightwear for boys and men; and tops, tunics, shirts, kurtis, sweatshirts, sweaters, cardigans, jeans, trousers, leggings, track pants, tracksuits, shorts, nightwear, and lingerie for girls and ladies. The company sells its products to the weaving and knitting industries through retail outlets, as well as through its online retail store. It also exports its products. Sportking India Limited was founded in 1977 and is based in Ludhiana, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2643.03,
-  "pe_ratio": 11.51,
+  "market_cap_cr": 2576.97,
+  "pe_ratio": 11.22,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 100.31,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:38:52.093728",
-  "provider_reported_pb_ratio": 2.07,
-  "statements_retrieved_at": "2026-11-12T22:38:52.093728",
+  "retrieval_time": "2026-11-13T21:59:01.720757",
+  "provider_reported_pb_ratio": 2.02,
+  "statements_retrieved_at": "2026-11-13T21:59:01.720757",
   "retained_fields": []
 }

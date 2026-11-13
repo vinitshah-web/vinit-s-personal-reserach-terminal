@@ -5,14 +5,14 @@
   "industry": "Chemicals",
   "business_summary": "Epigral Limited manufactures and sells chlor-alkali and derivative products in India and internationally. The company offers chlorinated polyvinyl chloride (CPVC) resin, epichlorohydrin, chloromethanes value chain, hydrogen peroxide, caustic soda and potash, chlorine, hydrogen, chloromethanes, captive power plant (CPP), and chlorotoluene value chain, as well as operates wind-solar hybrid power plant. Its products are used in CPVC pipes and fittings, windmills, construction, paints and coatings, electronics, water treatment, agrochemicals, pharmaceuticals, refineries, soap and detergents, fluoropolymers, paper and pulp, textiles, alumina, polyurethane foam, lithium, and polytetrafluoroethylene (PTFE) pipes. The company was formerly known as Meghmani Finechem Limited and changed its name to Epigral Limited in August 2023. Epigral Limited was incorporated in 2007 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4035.44,
-  "pe_ratio": 14.17,
+  "market_cap_cr": 4101.45,
+  "pe_ratio": 14.4,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 548.3,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 4.3141,
-  "fifty_two_week_high": 1536.9,
+  "fifty_two_week_high": 1535.2,
   "fifty_two_week_low": 807.0,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:56:03.982072",
-  "provider_reported_pb_ratio": 1.71,
-  "statements_retrieved_at": "2026-11-12T21:56:03.982072",
+  "retrieval_time": "2026-11-13T21:18:29.017056",
+  "provider_reported_pb_ratio": 1.73,
+  "statements_retrieved_at": "2026-11-13T21:18:29.017056",
   "retained_fields": []
 }

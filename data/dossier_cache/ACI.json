@@ -5,8 +5,8 @@
   "industry": "Chemicals",
   "business_summary": "Archean Chemical Industries Limited manufactures and sells specialty marine chemicals in India and internationally. It offers bromine for use in pharmaceuticals, agrochemicals, flame retardants, and water treatment products, as well as oil and gas, and energy storage industries; industrial salt for chloralkali chemical, food and beverage, water treatment, and oil and gas industries; and sulphate of potash, an inorganic salt for use as a water-soluble fertiliser in agricultural applications. Archean Chemical Industries Limited was founded in 2003 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 5268.23,
-  "pe_ratio": 52.55,
+  "market_cap_cr": 5618.25,
+  "pe_ratio": 56.04,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 159.21,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:37:45.780720",
-  "provider_reported_pb_ratio": 2.68,
-  "statements_retrieved_at": "2026-11-12T21:37:45.780720",
+  "retrieval_time": "2026-11-13T21:01:09.050278",
+  "provider_reported_pb_ratio": 2.86,
+  "statements_retrieved_at": "2026-11-13T21:01:09.050278",
   "retained_fields": []
 }

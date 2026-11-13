@@ -5,14 +5,14 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "SHUKRA MEDTECH LIMITED engages in the manufacturing, marketing, and export of pharmaceutical formulations in India and internationally. The company offers various products, such as antibiotics, anti biotics, macrolides, quinolones, anti bacterial, anti fungal, anti malarial, anti viral, anti protozoal, anti anthelmintic, sedative and tranquilliser, anti depressant, anti manic, anti emetic, anti ulcer, beta blockers, diuretics, analgesic, muscle relaxants, anti tuberculosis, vitamin products, anti allergics, corticosteroids, hyper and hypoglycemic, and other products. It provides its products in ampoules, capsules, vials, and tablet forms. In addition, the company provides laboratory services; and surgical robots, diabetes technologies, cardiac sciences, advanced surgical and diagnostic solutions, imaging and critical care, medical simulations, wound care, boron neutron capture therapy, and virtual autopsy and forensic sciences. Further, it is involved in the supplying, selling, and distributing medical consumables; offers wound care products, medical, surgical, healthcare devices, materials, consumables, and allied solutions, as well as diabetes-related medical technologies solutions; and provision of virtual autopsy services and solutions. Additionally, the company offers expendable and non-expendable medical products, medical devices, emergency healthcare systems, combat medical support systems, first aid kits, trauma care kits; and artificial intelligence (AI), machine learning, deep learning, data analytics, predictive analytics, computer vision, natural language processing, generative AI, robotics, automation, digital platforms, hardware, cloud-based systems, decision support systems, and other technology solutions. The company was formerly known as Shukra Pharmaceuticals Limited and changed its name to SHUKRA MEDTECH LIMITED in October 2026. SHUKRA MEDTECH LIMITED was incorporated in 1993 and is headquartered in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3637.53,
-  "pe_ratio": 105.38,
+  "market_cap_cr": 3638.86,
+  "pe_ratio": 81.42,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 2.71,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 44.2522,
-  "fifty_two_week_high": 84.5,
+  "fifty_two_week_high": 84.8,
   "fifty_two_week_low": 40.06,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:36:32.327138",
-  "provider_reported_pb_ratio": 30.39,
-  "statements_retrieved_at": "2026-11-12T22:36:32.327138",
+  "retrieval_time": "2026-11-13T21:56:50.426771",
+  "provider_reported_pb_ratio": 30.4,
+  "statements_retrieved_at": "2026-11-13T21:56:50.426771",
   "retained_fields": []
 }

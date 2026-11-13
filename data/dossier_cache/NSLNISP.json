@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "NMDC Steel Limited manufactures and sells iron and steel products in India. The company offers hot rolled coils, sheets, and plates; structural steel; pig iron; and LPG cylinders, bridges, automobile, pipes, storage tanks, boilers, railway wagons and other structural steel products. It also provides tube and pipe grade, boiler and pressure vessel grade, commercial forming grades, cold rolling grade, and HSLA Grade. It serves infrastructure and construction; automotive and mobility; energy, oil, and gas; and engineering and fabrication industries. NMDC Steel Limited was incorporated in 2015 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 11930.5,
-  "pe_ratio": 140.38,
+  "market_cap_cr": 11880.68,
+  "pe_ratio": 139.79,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 45.04,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:23:11.839451",
+  "retrieval_time": "2026-11-13T21:44:13.045506",
   "provider_reported_pb_ratio": 0.9,
-  "statements_retrieved_at": "2026-11-12T22:23:11.839451",
+  "statements_retrieved_at": "2026-11-13T21:44:13.045506",
   "retained_fields": []
 }

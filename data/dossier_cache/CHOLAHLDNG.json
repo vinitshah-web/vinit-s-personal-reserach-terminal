@@ -5,8 +5,8 @@
   "industry": "Credit Services",
   "business_summary": "Cholamandalam Financial Holdings Limited, an investment company, provides financial services in India. It operates through Financing, Insurance, and Others segments. The company offers vehicle finance, loans against property, home loans, secured business and personal loans, consumer and small enterprises loans, gold loans, and small and medium enterprise loans, as well as various other financial services to customers; and general insurance services, including motor, property and casualty, health, accident, fire and engineering, crop, marine, and travel insurance, as well as reinsurance. It serves first-time borrowers, new to credit customers, and individuals, as well as corporates, small, micro, medium enterprises. The company was formerly known as TI Financial Holdings Limited and changed its name to Cholamandalam Financial Holdings Limited in March 2019. Cholamandalam Financial Holdings Limited was incorporated in 1949 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 27460.58,
-  "pe_ratio": 9.94,
+  "market_cap_cr": 27415.51,
+  "pe_ratio": 9.93,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 911.96,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:49:33.478898",
+  "retrieval_time": "2026-11-13T21:12:17.159244",
   "provider_reported_pb_ratio": 1.6,
-  "statements_retrieved_at": "2026-11-12T21:49:33.478898",
+  "statements_retrieved_at": "2026-11-13T21:12:17.159244",
   "retained_fields": []
 }

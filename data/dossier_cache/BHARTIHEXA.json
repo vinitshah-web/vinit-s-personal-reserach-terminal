@@ -5,8 +5,8 @@
   "industry": "Telecom Services",
   "business_summary": "Bharti Hexacom Limited provides mobile services, fixed-line telephone, and broadband services to end consumers under the Airtel brand in India and internationally. It operates through Mobile Services; and Homes, Office and Other Services segments. The Mobile Services segment provides voice and data telecom services through wireless technology comprising 2G, 4G, and 5G networks; and offers intra-city fiber networks. The Home and Office Services segment offers voice and data communication services through fixed-line network and broadband technology for homes and offices. It also offers subscriptions for voice, data, messaging, and interconnection/roaming services, as well as other added value services. In addition, the company provides Connectivity and digital solutions for mobility, homes, business, as well as broadband, fixed-line, IPTV services. The company was formerly known as Hexacom India Limited and changed its name to Bharti Hexacom Limited in December 2004. The company was incorporated in 1995 and is based in New Delhi, India. Bharti Hexacom Limited is a subsidiary of Bharti Airtel Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 79660.0,
-  "pe_ratio": 40.47,
+  "market_cap_cr": 83275.0,
+  "pe_ratio": 42.3,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 146.24,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:46:14.009305",
-  "provider_reported_pb_ratio": 10.89,
-  "statements_retrieved_at": "2026-11-12T21:46:14.009305",
+  "retrieval_time": "2026-11-13T21:09:06.714152",
+  "provider_reported_pb_ratio": 11.39,
+  "statements_retrieved_at": "2026-11-13T21:09:06.714152",
   "retained_fields": []
 }

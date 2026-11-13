@@ -5,7 +5,7 @@
   "industry": "Industrial Distribution",
   "business_summary": "DCM Shriram International Limited engages in the manufacturing and sales of industrial fiber in India. The company offers Rayons, such as yarn, tyre cord, and treated rayon fabric. It also manufactures multi-role armoured vehicles unmanned aerial vehicles (uavs), communication equipment, and opto-electronic systems; and robust container systems for industrial, logistics, offshore, power, defence, and infrastructure applications, as well as provides end-to-end manufacturing solutions from prototype to large-scale production. The company serves Industrial Fibres, Shipping Container Manufacturing, Defence Armoured Vehicles, UAVs, Engineering Services, and Industrial Research sector. The company was incorporated in 2022 and is headquartered in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 585.54,
+  "market_cap_cr": 592.16,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -48,8 +48,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:52:04.921256",
-  "provider_reported_pb_ratio": 1.57,
-  "statements_retrieved_at": "2026-11-12T21:52:04.921256",
+  "retrieval_time": "2026-11-13T21:14:42.217306",
+  "provider_reported_pb_ratio": 1.59,
+  "statements_retrieved_at": "2026-11-13T21:14:42.217306",
   "retained_fields": []
 }

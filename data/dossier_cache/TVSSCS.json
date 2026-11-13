@@ -5,8 +5,8 @@
   "industry": "Integrated Freight & Logistics",
   "business_summary": "TVS Supply Chain Solutions Limited provides integrated supply chain solutions in India. The company operates in two segments, Integrated Supply Chain Solutions (ISCS) and Global Forwarding Solutions (GFS). The ISCS segment engages in sourcing and procurement, integrated transportation, logistics operation centers, in-plant logistics, finished goods, aftermarket fulfillment, and supply chain consulting operations, as well as offers integrated final mile solutions, including closed loop logistics and support, which comprises spares logistics, break-fix, refurbishment and engineering support, and courier and consignment management services. The GFS segment offers global forwarding solutions, such as managing end-to-end freight forwarding and distribution across ocean, air and land, warehousing and at port storage, and value-added services. The company serves automotive, beverage, consumers, defence, e-commerce and omnichannel, financial services, healthcare, industrial, rail, telecommunication, tech and tech infra, and utilities sectors. The company was formerly known as TVS Logistics Services Limited and changed its name to TVS Supply Chain Solutions Limited in November 2019. TVS Supply Chain Solutions Limited was incorporated in 2004 and is headquartered in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 5421.86,
-  "pe_ratio": 84.02,
+  "market_cap_cr": 5403.3,
+  "pe_ratio": 83.73,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 46.09,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:44:38.294508",
-  "provider_reported_pb_ratio": 2.66,
-  "statements_retrieved_at": "2026-11-12T22:44:38.294508",
+  "retrieval_time": "2026-11-13T22:04:36.862076",
+  "provider_reported_pb_ratio": 2.65,
+  "statements_retrieved_at": "2026-11-13T22:04:36.862076",
   "retained_fields": []
 }

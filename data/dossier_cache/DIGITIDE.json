@@ -5,7 +5,7 @@
   "industry": "Specialty Business Services",
   "business_summary": "Digitide Solutions Limited engages in business process management services and technology. The company provides tech and AI services, such as AI, data and analytics, cloud migrations, and infrastructure managed services; cybersecurity; data center; digital assurance, engineering, and experience; enterprise modernization and managed services; ERP services; GenAI solutions; IT consulting services; and low-code application platforms. It also offers business process services, including banking back-office operations, Digi CCaaS, collections, customer and employee experience management, and finance and accounting services. In addition, the company provides insurance data hub, an advanced data aggregation and analytics for the insurance sector; Pulse.ai, an AI-powered analytics and insights; integrated insurance platform (IIP), an end-to-end insurance; SmartHR, an AI driven HR management platform; SmartPay; Digital BPaaS, a business process transformation; and Sequre, a technology solutions tailored for enterprise needs. It serves the banking and finance, insurance, healthcare, fast-growth tech, auto and manufacturing, public sector, and other diversified industries. Digitide Solutions Limited was incorporated in 2024 and is headquartered in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 956.1,
+  "market_cap_cr": 936.07,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -48,8 +48,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:53:13.668507",
-  "provider_reported_pb_ratio": 1.16,
-  "statements_retrieved_at": "2026-11-12T21:53:13.668507",
+  "retrieval_time": "2026-11-13T21:15:47.112974",
+  "provider_reported_pb_ratio": 1.14,
+  "statements_retrieved_at": "2026-11-13T21:15:47.112974",
   "retained_fields": []
 }

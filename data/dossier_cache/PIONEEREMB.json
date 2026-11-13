@@ -5,14 +5,14 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Pioneer Embroideries Limited, together with its subsidiaries, engages in the manufacture of special polyester filament yarn, embroidery, and lace products in India. The company offers special polyester filament yarns, which include air texturized, carpet, twisted, fully drawn, draw textured, thermal, camouflage, biodegradable, recycle, flame retardant, and anti-microbial / UV-stabilised and partially oriented yarns under the SILKOLITE brand name. It also provides sarees, salwar kameez, SKDs, fashion fabrics, apparels, and men's ethnic wear under the Hakoba brand name. In addition, the company offers embroidery and lace products comprising guipure and fabric allovers and laces, as well as braided and fancy laces. Further, it provides dope dyed polyester yarns, elastics, embroidered dress materials and laces, flat bed knitted laces, motifs/collars/necks, and torchon/bobbin laces products. The company also exports its products. The company was incorporated in 1991 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 61.63,
+  "market_cap_cr": 61.6,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 50.68,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 3.0815,
-  "fifty_two_week_high": 36.8,
+  "fifty_two_week_high": 34.24,
   "fifty_two_week_low": 17.05,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:26:24.310072",
+  "retrieval_time": "2026-11-13T21:47:15.940571",
   "provider_reported_pb_ratio": 0.39,
-  "statements_retrieved_at": "2026-11-12T22:26:24.310072",
+  "statements_retrieved_at": "2026-11-13T21:47:15.940571",
   "retained_fields": []
 }

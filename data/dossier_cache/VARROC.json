@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Varroc Engineering Limited provides aftermarket automotive components and solutions in India, the Asia Pacific, Europe, North America, and internationally. It operates through Automotive and Others segments. The company offers internal combustion engine parts; electrical vehicle products, such as telematics, BMS, charger, DC-DC converter, traction motor/hub motor, and traction motor controller; final drive, pump, and park lock gears; hollow stem, titanium, and sodium valves; headlamps; instrument panel, console, roof rails, door trims, and pillar trims; CMS and DMS, ADAS, telematics, surround view system, video telematics, and advanced infotainment system; and tail gate, surface LED, signature LED lighting 3D effect, and LED signal lamp personalization. It also provides engine valves, transmission components, ICE electronics, ACG and integrated starter generator, starter motors, BLDC motors, electronic fuel injection and injection driver, magneto and regular rectifier, actuator motors, starter clutch assembly, and crankpins and balancers. In addition, the company offers e-powertrain solutions, EV chargers, DC-DC converter, and battery management system; painted parts, exterior and interior molded parts, and functional polymer components; digital instrument clusters, smart telematics and monitoring systems, smart sensors, and ergonomic handlebar switches; lighting solutions; and Varroc Connect, a connected vehicle platform. It serves automotive 2W and 3W original equipment manufacturers (OEMs); EV and new mobility players; commercial vehicle manufacturers; passenger vehicles manufacturing; off-highway and heavy equipment OEMs; industrial and engineering companies; and aftermarket partners. Varroc Engineering Limited was incorporated in 1988 and is headquartered in Aurangabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 12679.29,
-  "pe_ratio": 74.89,
+  "market_cap_cr": 12815.28,
+  "pe_ratio": 75.69,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 122.41,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:46:09.732490",
-  "provider_reported_pb_ratio": 6.78,
-  "statements_retrieved_at": "2026-11-12T22:46:09.732490",
+  "retrieval_time": "2026-11-13T22:06:07.723243",
+  "provider_reported_pb_ratio": 6.85,
+  "statements_retrieved_at": "2026-11-13T22:06:07.723243",
   "retained_fields": []
 }

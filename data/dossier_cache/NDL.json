@@ -5,14 +5,14 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Nandan Denim Limited manufactures and sells denim, shirting materials, yarn, and various fabrics in India. The company offers denim products, such as core classics, reinvented classics, novelty, structured, knit, light weight, blends, feather touch, stretch tech, and printed denims; shirting products, including plain weaves, twill, dobby, chambray, fil-\u00e0-fil, herringbone, basket weave, and pinpoint oxford; and blended, special open end, organic cotton, core-spun and fully dyed yarns. It also exports its products. The company offers its products to fabric re-sellers, garment converter, distributors, wholesalers, dealers, brand owners, and exporters. The company was formerly known as Nandan Exim Limited and changed its name to Nandan Denim Limited in November 2013. Nandan Denim Limited was incorporated in 1994 and is headquartered in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 367.58,
-  "pe_ratio": 9.81,
+  "market_cap_cr": 370.46,
+  "pe_ratio": 9.52,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 4.7,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 144.1472,
-  "fifty_two_week_high": 3.34,
+  "fifty_two_week_high": 3.3,
   "fifty_two_week_low": 1.8,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:21:15.591233",
-  "provider_reported_pb_ratio": 0.54,
-  "statements_retrieved_at": "2026-11-12T22:21:15.591233",
+  "retrieval_time": "2026-11-13T21:42:25.094030",
+  "provider_reported_pb_ratio": 0.55,
+  "statements_retrieved_at": "2026-11-13T21:42:25.094030",
   "retained_fields": []
 }

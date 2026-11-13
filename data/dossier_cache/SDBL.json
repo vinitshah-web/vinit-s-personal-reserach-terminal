@@ -5,14 +5,14 @@
   "industry": "Beverages - Brewers",
   "business_summary": "Som Distilleries & Breweries Limited manufactures and sells beer and Indian made foreign liquor in India and internationally. The company offers beer under the Hunter, Woodpecker, Black Fort, Legend, Power 10000, and Power Cool brands; whisky under the Pentagon Gold, Milestone Blue, Super Power, Genius, Milestone 100, Bhimbetka, Legend Premium, and Mahavat brands; rum under the Pentagon XO and Black Fort brands; vodka under the Milestone and White Fox brands; brandy under the Legend Rare and Milestone VSOP brands; and ready-to-drink products under the White Fox brand. It also provides hand sanitizer under the Genius brand. The company exports its products. It serves retail consumers, restaurants, hotels, and Canteen Store's Department through government corporations and distributors. The company was incorporated in 1993 and is based in Bhopal, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1545.75,
+  "market_cap_cr": 1599.18,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 37.77,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 20.7901,
-  "fifty_two_week_high": 131.0,
+  "fifty_two_week_high": 123.37,
   "fifty_two_week_low": 61.8,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:34:19.942208",
-  "provider_reported_pb_ratio": 1.97,
-  "statements_retrieved_at": "2026-11-12T22:34:19.942208",
+  "retrieval_time": "2026-11-13T21:54:45.533298",
+  "provider_reported_pb_ratio": 2.04,
+  "statements_retrieved_at": "2026-11-13T21:54:45.533298",
   "retained_fields": []
 }

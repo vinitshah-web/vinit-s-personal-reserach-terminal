@@ -5,7 +5,7 @@
   "industry": "Entertainment",
   "business_summary": "PNC Media and Entertainment Limited, a media and entertainment company, engages in the production and exploitation of content in India and internationally. The company produces cinematographic films, TV serials and digital series, etc. it is also involved in sourcing content; and setting up delivery systems for digital streaming using the internet as its primary delivery platform. The company was formerly known as Pritish Nandy Communications Ltd and change its name to PNC Media and Entertainment Limited in August 2026. PNC Media and Entertainment Limited was incorporated in 1993 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 25.84,
+  "market_cap_cr": 26.11,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:26:42.755159",
+  "retrieval_time": "2026-11-13T21:47:32.283795",
   "provider_reported_pb_ratio": 0.43,
-  "statements_retrieved_at": "2026-11-12T22:26:42.755159",
+  "statements_retrieved_at": "2026-11-13T21:47:32.283795",
   "retained_fields": []
 }

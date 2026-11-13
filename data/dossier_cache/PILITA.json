@@ -5,8 +5,8 @@
   "industry": "Furnishings, Fixtures & Appliances",
   "business_summary": "Pil Italica Lifestyle Limited manufactures and sells plastic molded furniture and other articles in India. The company operates in two segments: Manufacturing and Finance. It offers plastic chairs, tables, stools, trolleys, sun loungers, crates, storage solution, waste bins, and wooden furniture; and engages in financial activities. The company sells its products through a network of distributors and dealers under the ITALICA brand. Its products are used in restaurants, swimming pools, gardens, tent houses, offices, homes, fruits and vegetables, hospitality and catering, electronics, engineering, automotive, textiles, fisheries, and food processing, as well as public and commercial, spaces such as hospitals, railway stations, shopping centers, parks, airports, commercial establishments, and residential complexes applications. The company was formerly known as Peacock Industries Limited and changed its name to Pil Italica Lifestyle Limited in August 2015. Pil Italica Lifestyle Limited was incorporated in 1992 and is headquartered in Udaipur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 170.61,
-  "pe_ratio": 80.67,
+  "market_cap_cr": 169.43,
+  "pe_ratio": 80.11,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 3.43,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:26:21.844950",
-  "provider_reported_pb_ratio": 2.12,
-  "statements_retrieved_at": "2026-11-12T22:26:21.844950",
+  "retrieval_time": "2026-11-13T21:47:13.396073",
+  "provider_reported_pb_ratio": 2.1,
+  "statements_retrieved_at": "2026-11-13T21:47:13.396073",
   "retained_fields": []
 }

@@ -5,14 +5,14 @@
   "industry": "Solar",
   "business_summary": "Borosil Renewables Limited engages in the manufacture and sale of flat glass products in India and internationally. It provides low iron textured solar glass for various applications in photovoltaic (PV) panels, flat plate collectors, and greenhouses. It also offers 2 MM fully tempered solar glass; Shakti, a solar glass in matt-matt finish; NoSbEra, an antimony-free solar glass; Selene, an anti-glare solar glass; and solar glass with anti-reflective and anti-soiling, and grid printed back glass for bifacial, as well as solar glass for green house and roof tile applications. The company was formerly known as Borosil Glass Works Limited and changed its name to Borosil Renewables Limited in February 2020. Borosil Renewables Limited was incorporated in 1962 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 6233.97,
-  "pe_ratio": 14.05,
+  "market_cap_cr": 6125.79,
+  "pe_ratio": 13.81,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 135.04,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 14.7184,
-  "fifty_two_week_high": 682.75,
+  "fifty_two_week_high": 674.0,
   "fifty_two_week_low": 369.0,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:47:17.157061",
-  "provider_reported_pb_ratio": 3.14,
-  "statements_retrieved_at": "2026-11-12T21:47:17.157061",
+  "retrieval_time": "2026-11-13T21:10:08.365021",
+  "provider_reported_pb_ratio": 3.08,
+  "statements_retrieved_at": "2026-11-13T21:10:08.365021",
   "retained_fields": []
 }

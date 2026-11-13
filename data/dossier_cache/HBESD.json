@@ -6,13 +6,13 @@
   "business_summary": "HB Estate Developers Limited owns and manages hotels and real estate properties in India. The company operates hotels; and develops commercial complexes. It also provides allied services, including laundry, communication, health club, airport transfers, and other related services. The company was formerly known as HB Housing & Development Corporation Limited and changed its name to HB Estate Developers Limited in January 1996. HB Estate Developers Limited was incorporated in 1994 and is based in Gurugram, India.",
   "business_summary_reason": null,
   "market_cap_cr": null,
-  "pe_ratio": 13.75,
+  "pe_ratio": 14.23,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
-  "book_value": 84.33,
+  "book_value": 86.12,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": null,
-  "fifty_two_week_high": 90.97,
+  "fifty_two_week_high": 94.0,
   "fifty_two_week_low": 60.26,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:02:52.242855",
-  "provider_reported_pb_ratio": 0.94,
-  "statements_retrieved_at": "2026-11-12T22:02:52.242855",
+  "retrieval_time": "2026-11-13T21:24:51.852699",
+  "provider_reported_pb_ratio": 0.96,
+  "statements_retrieved_at": "2026-11-13T21:24:51.852699",
   "retained_fields": []
 }

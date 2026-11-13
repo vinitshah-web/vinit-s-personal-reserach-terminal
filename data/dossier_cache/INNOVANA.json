@@ -5,8 +5,8 @@
   "industry": "Software - Application",
   "business_summary": "Innovana Thinklabs Limited engages in the software and application development business in India and internationally. The company designs, develops, and maintains software systems and solutions. It also operates astrology and tarot platforms which include Anytime Astro, Tarot Life, mPanchang, and Tarot Life (VR), as well as offers utility and security apps, such as FlashScan, a multipurpose document scanner app that scans and digitizes documents; ZCleaner, an optimization app to keep clutter free and improve security; and Web Assist Plus for estimating the risk level associated with online websites. In addition, the company provides system security tools, such as ITL total security that scans system for viruses, adware, malware and assists in eliminating to keep the system secure; ITL driver updater that analyzes and updates outdated drivers; and malware crusher, an anti-malware tool that detects and removes visible and invisible dangers from the system by creating a security shield around it. The company was formerly known as PCVARK Software Limited and changed its name to Innovana Thinklabs Limited in August 2017. Innovana Thinklabs Limited was incorporated in 2015 and is based in Jaipur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 602.03,
-  "pe_ratio": 20.73,
+  "market_cap_cr": 607.4,
+  "pe_ratio": 20.91,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 81.45,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:07:14.274163",
-  "provider_reported_pb_ratio": 3.58,
-  "statements_retrieved_at": "2026-11-12T22:07:14.274163",
+  "retrieval_time": "2026-11-13T21:28:59.059566",
+  "provider_reported_pb_ratio": 3.61,
+  "statements_retrieved_at": "2026-11-13T21:28:59.059566",
   "retained_fields": []
 }

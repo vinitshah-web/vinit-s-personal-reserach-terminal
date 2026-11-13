@@ -5,8 +5,8 @@
   "industry": "Real Estate - Development",
   "business_summary": "Max Estates Limited engages in Construction and development of residential and commercial properties. The company also offers investment, facility management, managed office, and shared services. In addition, it engages in the real estate development, letting, and sub-letting; leasing, and selling and distribution of residential or commercial complex, houses, buildings, etc. The company was incorporated in 2016 and is based in Noida, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 9316.73,
-  "pe_ratio": 1054.72,
+  "market_cap_cr": 9482.76,
+  "pe_ratio": 1073.52,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 151.37,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:16:43.364484",
-  "provider_reported_pb_ratio": 3.76,
-  "statements_retrieved_at": "2026-11-12T22:16:43.364484",
+  "retrieval_time": "2026-11-13T21:38:05.265416",
+  "provider_reported_pb_ratio": 3.83,
+  "statements_retrieved_at": "2026-11-13T21:38:05.265416",
   "retained_fields": []
 }

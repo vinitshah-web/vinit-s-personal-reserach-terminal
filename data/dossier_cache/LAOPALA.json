@@ -5,14 +5,14 @@
   "industry": "Furnishings, Fixtures & Appliances",
   "business_summary": "La Opala RG Limited manufactures, markets, and sells glass and glassware products in India and internationally. Its opal glass tableware products include plates, bowls, dinner sets, cup and saucer sets, coffee mugs and cups, tea and soup sets, dessert sets, etc., as well as crystalware, such as barware, including tumblers and stemware; and vases. The company offers its products under the La Opala, Diva from La Opala, Solitaire crystal, and Cook Serve Store Borosilicate brands. It sells its products through distributors and retailers. La Opala RG Limited was incorporated in 1987 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1743.37,
-  "pe_ratio": 18.72,
+  "market_cap_cr": 1727.16,
+  "pe_ratio": 18.55,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 73.91,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 11.1,
-  "fifty_two_week_high": 226.74,
+  "fifty_two_week_high": 226.0,
   "fifty_two_week_low": 137.45,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:13:16.647909",
-  "provider_reported_pb_ratio": 2.13,
-  "statements_retrieved_at": "2026-11-12T22:13:16.647909",
+  "retrieval_time": "2026-11-13T21:34:52.829038",
+  "provider_reported_pb_ratio": 2.11,
+  "statements_retrieved_at": "2026-11-13T21:34:52.829038",
   "retained_fields": []
 }

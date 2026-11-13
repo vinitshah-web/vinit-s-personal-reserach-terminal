@@ -5,8 +5,8 @@
   "industry": "Medical Care Facilities",
   "business_summary": "KMC Speciality Hospitals (India) Limited provides medical and healthcare services in India. The company offers healthcare services in the areas of anesthesiology, arthroscopy, breast clinic, cardiology, critical care, dermatology, dental maxillofacial, diabetology, emergency and urgent care, endocrinology, family clinic, fertility centre, general surgery, general medicine, geriatrics, gastroenterology, heart and lung transplant, interventional radiology, infectious diseases, laboratory services, lung centre, liver disease, neurology, and neurosurgery; and nephrology and urology science, as well as ENT, head, and neck surgery; and kidney, liver, and bone marrow transplant. It also provides healthcare services in the areas of ophthalmology, obstetrics and gynecology, orthopaedics, oncology, paediatrics and neonatology, plastic surgery, psychiatry, pulmonology, rheumatology, spine surgery, transfusion medicine, sports medicine, and vascular surgery. The company was formerly known as Seahorse Hospital Limited and changed its name to KMC Speciality Hospitals (India) Limited in October 2008. KMC Speciality Hospitals (India) Limited was incorporated in 1982 and is based in Trichy, India. KMC Speciality Hospitals (India) Limited is a subsidiary of Sri Kauvery Medical Care (India) Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 2877.31,
-  "pe_ratio": 51.59,
+  "market_cap_cr": 2738.03,
+  "pe_ratio": 49.09,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 12.95,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:11:47.799053",
-  "provider_reported_pb_ratio": 13.63,
-  "statements_retrieved_at": "2026-11-12T22:11:47.799053",
+  "retrieval_time": "2026-11-13T21:33:25.796296",
+  "provider_reported_pb_ratio": 12.97,
+  "statements_retrieved_at": "2026-11-13T21:33:25.796296",
   "retained_fields": []
 }

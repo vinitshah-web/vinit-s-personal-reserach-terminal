@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Borana Weaves Limited engages in the manufacture and sale of textiles in India. The company offers synthetic grey fabrics; yarn; microfilament woven fabrics; and greige polyester woven fabrics for apparel and garments, home textiles, and tent fabrics applications. Borana Weaves Limited was incorporated in 2020 and is based in Surat, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 607.17,
-  "pe_ratio": 8.78,
+  "market_cap_cr": 632.21,
+  "pe_ratio": 9.23,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 105.67,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:47:14.579642",
-  "provider_reported_pb_ratio": 2.16,
-  "statements_retrieved_at": "2026-11-12T21:47:14.579642",
+  "retrieval_time": "2026-11-13T21:10:05.988008",
+  "provider_reported_pb_ratio": 2.25,
+  "statements_retrieved_at": "2026-11-13T21:10:05.988008",
   "retained_fields": []
 }

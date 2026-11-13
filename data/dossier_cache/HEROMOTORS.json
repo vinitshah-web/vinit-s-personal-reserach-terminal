@@ -5,13 +5,13 @@
   "industry": "Auto Parts",
   "business_summary": "Hero Motors Limited designs, develops, manufactures, and supplies engineered powertrain solutions catering to automotive original equipment manufacturers (OEMs) in United States, Europe, India, and the Association of Southeast Asian Nations region. It operates through Powertrain Solutions and Alloys and Metallics segments. The company offers gears and transmission products comprising ice and EV gearboxes, e-axles, gearset assemblies, and gear and shaft components; bike powertrains products, such as continuous variable transmission products, electric motors, and electric drive units; and alloys and metallic products, including structural components, alloy frames, suspension forks, wheel rims, and BB catridges and seats, as well as design and validation services. The company's products have applications in two-wheelers, performance automotive, e-bikes, off-road vehicles, electric and hybrid cars, heavy duty vehicles, and electric vertical take-off and landing categories. Hero Motors Limited was formerly known as Hero Auto Limited and changed its name to Hero Motors Limited in September 2004. The company was incorporated in 1998 and is based in Noida, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 5566.41,
-  "pe_ratio": 56.74,
+  "market_cap_cr": 5773.3,
+  "pe_ratio": 58.02,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 12.66,
   "dividend_yield_pct": 0.0,
-  "shares_outstanding_cr": 45.4216,
+  "shares_outstanding_cr": 46.0685,
   "fifty_two_week_high": 178.84,
   "fifty_two_week_low": 80.5,
   "financial_statements": [
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:03:56.642100",
-  "provider_reported_pb_ratio": 9.68,
-  "statements_retrieved_at": "2026-11-12T22:03:56.642100",
+  "retrieval_time": "2026-11-13T21:25:51.503323",
+  "provider_reported_pb_ratio": 9.9,
+  "statements_retrieved_at": "2026-11-13T21:25:51.503323",
   "retained_fields": []
 }

@@ -5,14 +5,14 @@
   "industry": "Conglomerates",
   "business_summary": "Jain Irrigation Systems Limited manufactures and sells precision-irrigation systems in India, Europe, North America, and internationally. The company operates through Hi-Tech Agri Input Products; Plastic Division; and Agro Processing Division segments. It provides drip irrigation; micro and mini sprinklers; sprinkler irrigation systems; filters, dosing pumps, and injectors; PVC and PE pipes and fittings; plastic sheets; hi-tech planting material; green energy products; environment-controlled agriculture; polypropylene piping products; and plumbing systems. The company also offers solar agri pump, integrated irrigation projects, and tissue culture plants; fruits, onion products, beverages, bio gas; and solar thermal, solar photovoltaic grid, and off grid products, as well as invests in solar power generation. In addition, it is involved in the fruit and spice processing activities; provision of dehydrated onion and vegetable products, aseptic fruit pulps and purees, fruit concentrates, clarified juices, individually quick frozen fruits and vegetables, herbs, spices, seasonings and private label food products under the Jain Farm Fresh brand; and blending, repacking, trading and distribution of food ingredients. The company was founded in 1963 and is headquartered in Jalgaon, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2014.22,
+  "market_cap_cr": 2013.49,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 80.03,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 71.4216,
-  "fifty_two_week_high": 48.94,
+  "fifty_two_week_high": 48.76,
   "fifty_two_week_low": 22.96,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:09:19.526528",
+  "retrieval_time": "2026-11-13T21:31:01.211292",
   "provider_reported_pb_ratio": 0.34,
-  "statements_retrieved_at": "2026-11-12T22:09:19.526528",
+  "statements_retrieved_at": "2026-11-13T21:31:01.211292",
   "retained_fields": []
 }

@@ -5,15 +5,15 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Pashupati Cotspin Limited engages in the ginning, manufacture, processing, and sale of cotton bales, cotton yarn, and black cotton seeds (delineate seeds) in India. It offers yarn cones, cotton cakes, and seed; eli twist and lycra cotton yarn and wash oil. The company also offers BCI, organic, and other types of cotton yarns. Pashupati Cotspin Limited was founded in 1997 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1320.96,
-  "pe_ratio": 92.99,
+  "market_cap_cr": 1385.05,
+  "pe_ratio": 97.5,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 11.03,
   "dividend_yield_pct": 0.0,
-  "shares_outstanding_cr": 15.784,
-  "fifty_two_week_high": 155.49,
-  "fifty_two_week_low": 67.5,
+  "shares_outstanding_cr": 39.46,
+  "fifty_two_week_high": 62.196,
+  "fifty_two_week_low": 27.0,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:25:25.612189",
-  "provider_reported_pb_ratio": 7.59,
-  "statements_retrieved_at": "2026-11-12T22:25:25.612189",
+  "retrieval_time": "2026-11-13T21:46:21.761316",
+  "provider_reported_pb_ratio": 3.18,
+  "statements_retrieved_at": "2026-11-13T21:46:21.761316",
   "retained_fields": []
 }

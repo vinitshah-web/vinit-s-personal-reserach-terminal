@@ -5,7 +5,7 @@
   "industry": "Railroads",
   "business_summary": "Quadrant Future Tek Limited, a research-oriented company, develops and sells train control and signaling systems in India. The company offers train control systems, such as train collision avoidance and electronic interlocking systems; and interconnect products, including electrical connectors and wiring harness products. It also provides specialty cables comprising railway rolling stock and naval defense industries, and solar installations and electric vehicles; and renewable energy, automotive, and railway signalling cables. The company was incorporated in 2015 and is based in Mohali, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1724.8,
+  "market_cap_cr": 1720.4,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:28:52.860433",
-  "provider_reported_pb_ratio": 7.17,
-  "statements_retrieved_at": "2026-11-12T22:28:52.860433",
+  "retrieval_time": "2026-11-13T21:49:34.552750",
+  "provider_reported_pb_ratio": 7.15,
+  "statements_retrieved_at": "2026-11-13T21:49:34.552750",
   "retained_fields": []
 }

@@ -5,14 +5,14 @@
   "industry": "Lodging",
   "business_summary": "Blue Coast Hotels Limited does not have significant operations. Previously, the company was engaged in the hotel business. The company was formerly known as Blue Coast Hotels and Resorts Ltd. and changed its name to Blue Coast Hotels Limited in October 2009. Blue Coast Hotels Limited was incorporated in 1992 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 41.66,
+  "market_cap_cr": 43.94,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": -11.46,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.968,
-  "fifty_two_week_high": 49.99,
+  "fifty_two_week_high": 49.89,
   "fifty_two_week_low": 18.57,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:46:50.395557",
-  "provider_reported_pb_ratio": -1.85,
-  "statements_retrieved_at": "2026-11-12T21:46:50.395557",
+  "retrieval_time": "2026-11-13T21:09:42.073996",
+  "provider_reported_pb_ratio": -1.95,
+  "statements_retrieved_at": "2026-11-13T21:09:42.073996",
   "retained_fields": []
 }

@@ -5,14 +5,14 @@
   "industry": "Luxury Goods",
   "business_summary": "Kalyan Jewellers India Limited, together with its subsidiaries, engages in the manufacture and retail of various gold and precious stone studded jewelry products in India, the Middle East, the United states of America, and United Kingdom, and internationally. It offers gold, diamond, silver, platinum, gemstone, and white and rose gold jewelry, including wedding, staple regional, aspirational, studded, and other jewelries. The company also provides chains, necklaces, bangles, bracelets, nose studs, choker, jewelry, and moti sets, daily wear, vaddanam, rings, earrings, pendants, anklets, pearls, studs, jhumka, lockets, harams, kadas, payals, and second studs. It offers its products under MUDHRA, NIMAH, ANOKHI, RANG, TEJASVI, ZIAH, LAYA, GLO, CANDERE, VEDHA, APOORVA, HERA, and MUHURAT brand names. Further, it sells its products through an online platform, candere.com. Kalyan Jewellers India Limited was founded in 1993 and is headquartered in Thrissur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 73418.27,
-  "pe_ratio": 45.89,
+  "market_cap_cr": 71982.74,
+  "pe_ratio": 45.0,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 64.35,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 103.2751,
-  "fifty_two_week_high": 717.0,
+  "fifty_two_week_high": 718.05,
   "fifty_two_week_low": 327.05,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:10:21.982897",
-  "provider_reported_pb_ratio": 11.05,
-  "statements_retrieved_at": "2026-11-12T22:10:21.982897",
+  "retrieval_time": "2026-11-13T21:32:01.874925",
+  "provider_reported_pb_ratio": 10.83,
+  "statements_retrieved_at": "2026-11-13T21:32:01.874925",
   "retained_fields": []
 }

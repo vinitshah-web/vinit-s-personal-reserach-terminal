@@ -5,7 +5,7 @@
   "industry": "Capital Markets",
   "business_summary": "HB Stockholdings Limited operates as a non-banking financial company in India. It undertakes financial services; invests and deals in various kinds of securities; and sells and purchases securities. The company was formerly known as HB Portfolio Leasing Limited and changed its name to HB Stockholdings Limited in February 1997. HB Stockholdings Limited was incorporated in 1985 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 38.64,
+  "market_cap_cr": 37.6,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:02:56.257486",
-  "provider_reported_pb_ratio": 0.49,
-  "statements_retrieved_at": "2026-11-12T22:02:56.257486",
+  "retrieval_time": "2026-11-13T21:24:55.714947",
+  "provider_reported_pb_ratio": 0.48,
+  "statements_retrieved_at": "2026-11-13T21:24:55.714947",
   "retained_fields": []
 }

@@ -5,7 +5,7 @@
   "industry": "Specialty Business Services",
   "business_summary": "Hinduja Global Solutions Limited engages in technology, AI, and business services in the United States, Canada, the United Kingdom, Europe, India, and internationally. The company operates through Business Process Management and Digital, Media, and Communications segments. It provides voice and non-voice based services, such as contact center solutions and back-office transaction processing, as well as operates NXTDIGITAL that provides satellite, digital cable, and broadband services. The company also offers customer service solutions, including CX management, cloud contact centers, AI-powered contact center solutions, autonomous and agentic, interaction intelligence (QA/QC), and consulting services; digital marketing services, including marketing strategy, content and creative, insights and measurement, social engagement, performance marketing, and marketing operations; trade promotion solutions including, assessment, advisory and accelerators, implementations and upgrades, analytics, operations and resourcing, application managed, and social listening and moderation shape services; health checks and assessments; financial operations support; financial oversight and compliance; reporting, MIS, and analytics; automation and agentic finance operations; and payroll management, employee claims administration, HR services, and HR compliance management. It serves banking, finance, insurance, consumer and retail, government and public sector, healthcare and life science, media, telecommunications, and entertainment industries. The company was formerly known as HTMT Global Solutions Limited and changed its name to Hinduja Global Solutions Limited in December 2008. Hinduja Global Solutions Limited was founded in 1973 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1627.74,
+  "market_cap_cr": 1587.74,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:04:08.696257",
-  "provider_reported_pb_ratio": 0.2,
-  "statements_retrieved_at": "2026-11-12T22:04:08.696257",
+  "retrieval_time": "2026-11-13T21:26:03.040190",
+  "provider_reported_pb_ratio": 0.19,
+  "statements_retrieved_at": "2026-11-13T21:26:03.040190",
   "retained_fields": []
 }

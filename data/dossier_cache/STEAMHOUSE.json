@@ -6,13 +6,13 @@
   "business_summary": "Steamhouse India Limited develops, owns, operates, and maintains centralized steam generation plants and distributes industrial steam through pipeline networks to industrial customers. The company provides steam generation and distribution services, nitrogen compression and distribution, waste-to-steam solutions, utility plant operation and maintenance, and engineering, procurement, construction, commissioning, and utility management services. It also designs and operates boiler systems, pipelines, water treatment systems, pollution control equipment, and SCADA-based monitoring systems. It serves pharmaceuticals, chemicals, agrochemicals, textiles, tyres, dyes and pigments, polymers, paints, food processing, paper, and other manufacturing sectors. Steamhouse India Limited was formerly known as Ankleshwar Eco Energy Limited and changed its name to Steamhouse India Limited in September 2021. Steamhouse India Limited was founded in 2014 and is based in Surat, India with additional offices in Ankleshwar, Vapi, Sarigam, Nandesari, and Panoli, India.",
   "business_summary_reason": null,
   "market_cap_cr": null,
-  "pe_ratio": 74.18,
+  "pe_ratio": 74.1,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 24.5,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": null,
-  "fifty_two_week_high": 152.98,
+  "fifty_two_week_high": 154.3,
   "fifty_two_week_low": 91.6,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:39:27.137343",
-  "provider_reported_pb_ratio": 6.18,
-  "statements_retrieved_at": "2026-11-12T22:39:27.137343",
+  "retrieval_time": "2026-11-13T21:59:32.766576",
+  "provider_reported_pb_ratio": 6.17,
+  "statements_retrieved_at": "2026-11-13T21:59:32.766576",
   "retained_fields": []
 }

@@ -5,7 +5,7 @@
   "industry": "Capital Markets",
   "business_summary": "Twentyfirst Century Management Services Limited, together with its subsidiary, engages in the investment business in India. It invests and trades in shares and derivatives, capital, and futures and options markets. The company was incorporated in 1986 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 57.79,
+  "market_cap_cr": 56.8,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:36:27.555167",
-  "provider_reported_pb_ratio": 0.98,
-  "statements_retrieved_at": "2026-11-12T21:36:27.555167",
+  "retrieval_time": "2026-11-13T20:59:51.198433",
+  "provider_reported_pb_ratio": 0.96,
+  "statements_retrieved_at": "2026-11-13T20:59:51.198433",
   "retained_fields": []
 }

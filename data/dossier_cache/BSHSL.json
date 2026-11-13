@@ -5,8 +5,8 @@
   "industry": "Agricultural Inputs",
   "business_summary": "Bombay Super Hybrid Seeds Limited engages in the research, production, processing, and marketing of hybrid and GM seeds in India. It provides various field and vegetable crop seeds, such as groundnut, coriander, sesame, maize, lucerne, fenugreek, wheat, onion, soybean, tomato, fennel, pigeon pea, watermelon, ajwain, beet root, paddy, isabgol, spinach, cucumber, pumpkin, lentil, carrot, okra, radish, cauliflower, cabbage, brinjal, bottle gourd, gram, bajra, gum guar, black gram, guar, green gram, hybrid sweet corn, cumin, jowar, peas, muskmelon, mustard, french bean, limabean, rajka bajri, chilli, bhindi/okra, cowpea, ridge gourd, sponge gourd, bitter gourd, castor, coriander, papaya, and drumstick seeds under the Kasturi and Bombay Super brands. The company also exports its products. Bombay Super Hybrid Seeds Limited was founded in 1983 and is based in Rajkot, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 941.81,
-  "pe_ratio": 32.64,
+  "market_cap_cr": 931.11,
+  "pe_ratio": 32.27,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 13.81,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:47:42.668040",
-  "provider_reported_pb_ratio": 6.5,
-  "statements_retrieved_at": "2026-11-12T21:47:42.668040",
+  "retrieval_time": "2026-11-13T21:10:32.056997",
+  "provider_reported_pb_ratio": 6.42,
+  "statements_retrieved_at": "2026-11-13T21:10:32.056997",
   "retained_fields": []
 }

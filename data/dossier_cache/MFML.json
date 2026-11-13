@@ -5,14 +5,14 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Mahalaxmi Fabric Mills Limited manufactures and trades in traditional textile and technical textile products in India. The company offers finished and processed, cotton, polyester, denim, bottom-weight, and other fabrics. It also engages in fabric print and fab dyeing activities. The company exports its products. Mahalaxmi Fabric Mills Limited was incorporated in 1991 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 21.69,
+  "market_cap_cr": 20.91,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 91.99,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.062,
-  "fifty_two_week_high": 29.25,
+  "fifty_two_week_high": 28.8,
   "fifty_two_week_low": 16.51,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:17:35.994685",
-  "provider_reported_pb_ratio": 0.22,
-  "statements_retrieved_at": "2026-11-12T22:17:35.994685",
+  "retrieval_time": "2026-11-13T21:38:54.822621",
+  "provider_reported_pb_ratio": 0.21,
+  "statements_retrieved_at": "2026-11-13T21:38:54.822621",
   "retained_fields": []
 }

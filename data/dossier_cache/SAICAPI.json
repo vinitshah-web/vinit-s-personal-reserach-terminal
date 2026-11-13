@@ -5,7 +5,7 @@
   "industry": "Capital Markets",
   "business_summary": "Sai Capital Limited engages in buying, selling, and dealing in shares, debentures, and securities in India. The company buys and sells movable and immovable properties; trades in goods; and acts as a commission agent. It also provides technical, logistic, and management consultancy services; and manufactures and supplies supplementary nutrition food products to the government sponsored nutritive programme for infants, preschool children, adolescent girls, etc. Sai Capital Limited was incorporated in 1995 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 45.49,
+  "market_cap_cr": 45.46,
   "pe_ratio": 3.54,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:32:37.888020",
+  "retrieval_time": "2026-11-13T21:53:09.535214",
   "provider_reported_pb_ratio": 0.12,
-  "statements_retrieved_at": "2026-11-12T22:32:37.888020",
+  "statements_retrieved_at": "2026-11-13T21:53:09.535214",
   "retained_fields": []
 }

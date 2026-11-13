@@ -5,8 +5,8 @@
   "industry": "Packaged Foods",
   "business_summary": "Manorama Industries Limited manufactures, processes, and supplies specialty fats and butters from tree-borne, and plant-based seeds worldwide. The company offers shea butter and fat, sal butter, sal fat, shea oil, sal oil, sal stearine, shea stearine, mango butter and fat, mango oil, mango stearine, kokum butter and oil, mowrah fat, and de-oiled cakes, as well as cocoa, mowrah, and phulwara butter. It also provides organic castor, neem, karanja, moringa, and rice bran oil; and organic glycerine. In addition, the company trades in rice, wheat, sugar, raw cotton, cotton linter, maize/corn, soy meal, cotton seed meal, rice bran meal, sesame, sorghum yellow and white jawar, safflower, niger seeds, cassia tora, medicinal herbs, etc. Further, it offers value-added tailor-made products to form the ingredients of cocoa butter equivalents. Its products are used in bakery, plant-based food, chocolate and confectionery, technical products, culinary and savory, cosmetics, and animal nutrition industries. The company was incorporated in 2005 and is based in Raipur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 13256.33,
-  "pe_ratio": 50.85,
+  "market_cap_cr": 12524.11,
+  "pe_ratio": 48.04,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 114.24,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:16:12.189515",
-  "provider_reported_pb_ratio": 18.38,
-  "statements_retrieved_at": "2026-11-12T22:16:12.189515",
+  "retrieval_time": "2026-11-13T21:37:37.365818",
+  "provider_reported_pb_ratio": 17.37,
+  "statements_retrieved_at": "2026-11-13T21:37:37.365818",
   "retained_fields": []
 }

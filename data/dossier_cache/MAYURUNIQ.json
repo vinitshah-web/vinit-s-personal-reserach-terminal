@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Mayur Uniquoters Limited engages in the manufacture and sale of coated textile fabrics in India, the United States, South Africa, and internationally. Its products include artificial leather, PU/PVC synthetic leather, and other products. The company's products are used in footwear, furnishings, automotive OEM, automotive replacement, and automotive exports markets. Mayur Uniquoters Limited was incorporated in 1992 and is based in Jaipur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3173.78,
-  "pe_ratio": 15.32,
+  "market_cap_cr": 3116.85,
+  "pe_ratio": 13.9,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 281.55,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:16:51.287857",
-  "provider_reported_pb_ratio": 2.59,
-  "statements_retrieved_at": "2026-11-12T22:16:51.287857",
+  "retrieval_time": "2026-11-13T21:38:12.386951",
+  "provider_reported_pb_ratio": 2.55,
+  "statements_retrieved_at": "2026-11-13T21:38:12.386951",
   "retained_fields": []
 }

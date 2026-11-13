@@ -5,7 +5,7 @@
   "industry": "Broadcasting",
   "business_summary": "Entertainment Network (India) Limited, together with its subsidiary, operates FM radio broadcasting stations in India and internationally. The company operates radio channels, including radio mirchi, mirchi 95, mirchi love, and kool fm. It also operates Gaana, a music streaming platform that provides on-demand audio, video, and live events contents; and provides radio advertising services. In addition, the company is involved in the provision of various branded solutions, including concerts, award shows, on-air properties, brand licensing, multimedia, and digital services; and services to manage the intellectual properties, and activities or events of clients, as well as influencer marketing campaigns. It provides services under the Mirchi and Gaana brands. The company was incorporated in 1999 and is based in Mumbai, India. Entertainment Network (India) Limited operates as a subsidiary of Bennett, Coleman & Company Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 404.25,
+  "market_cap_cr": 399.29,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:55:53.816822",
-  "provider_reported_pb_ratio": 0.55,
-  "statements_retrieved_at": "2026-11-12T21:55:53.816822",
+  "retrieval_time": "2026-11-13T21:18:18.744205",
+  "provider_reported_pb_ratio": 0.54,
+  "statements_retrieved_at": "2026-11-13T21:18:18.744205",
   "retained_fields": []
 }

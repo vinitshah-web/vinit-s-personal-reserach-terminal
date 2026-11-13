@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "Vardhman Special Steels Limited engages in the manufacture and sale of billets, steel bars, and bright bars of various categories of special and alloy steels in India and internationally. Its customers include passenger vehicles, two wheelers, commercial vehicles, tractors, off-highway vehicles,and railways, as well as engineering, bearing, and allied industries. The company was founded in 1973 and is headquartered in Ludhiana, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3686.14,
-  "pe_ratio": 22.88,
+  "market_cap_cr": 3652.3,
+  "pe_ratio": 22.67,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 138.44,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:48:13.013540",
-  "provider_reported_pb_ratio": 2.75,
-  "statements_retrieved_at": "2026-11-12T22:48:13.013540",
+  "retrieval_time": "2026-11-13T22:08:01.528740",
+  "provider_reported_pb_ratio": 2.73,
+  "statements_retrieved_at": "2026-11-13T22:08:01.528740",
   "retained_fields": []
 }

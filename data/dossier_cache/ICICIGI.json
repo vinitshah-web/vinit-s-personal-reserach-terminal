@@ -5,14 +5,14 @@
   "industry": "Insurance - Diversified",
   "business_summary": "ICICI Lombard General Insurance Company Limited provides various general insurance products and services in India. The company primarily offers fire, marine, cargo, engineering, aviation, public/product liability, employee group, workmen's compensation, cyber, personal accident, and travel insurance solutions. It also provides credit, crop, cattle, weather, mass health, and motor, as well as home insurance solutions. In addition, the company offers underwriting and claims, customer relationship, technology, operations, finance and accounts, human resources, actuarial, marketing, business analytics, administration, and fraud control, as well as reinsurance solutions. It serves its customers comprising individuals, corporates, state and central governments, government-owned enterprises, and rural customers, as well as micro, small, and medium enterprises through agents, brokers, bancassurance, motor insurance service providers, and online platforms. The company was incorporated in 2000 and is based in Mumbai, India. ICICI Lombard General Insurance Company Limited operates as a subsidiary of ICICI Bank Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 84971.38,
-  "pe_ratio": 33.4,
+  "market_cap_cr": 84505.84,
+  "pe_ratio": 33.22,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 418.15,
-  "dividend_yield_pct": 1.2224,
-  "shares_outstanding_cr": 49.9655,
-  "fifty_two_week_high": 2064.9,
+  "dividend_yield_pct": 1.2055,
+  "shares_outstanding_cr": 49.968,
+  "fifty_two_week_high": 2059.4,
   "fifty_two_week_low": 1423.1,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:05:31.183530",
-  "provider_reported_pb_ratio": 4.07,
-  "statements_retrieved_at": "2026-11-12T22:05:31.183530",
+  "retrieval_time": "2026-11-13T21:27:23.617172",
+  "provider_reported_pb_ratio": 4.04,
+  "statements_retrieved_at": "2026-11-13T21:27:23.617172",
   "retained_fields": []
 }

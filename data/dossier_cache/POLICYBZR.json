@@ -5,8 +5,8 @@
   "industry": "Insurance Brokers",
   "business_summary": "PB Fintech Limited operates an online marketplace for insurance and lending products in India and the United Arab Emirates. It operates through two segments, Insurance Broker Services and Other Services. The company provides Policybazaar that enables consumers to compare, evaluate, and apply for insurance products, such as term, life, health, car, 2 wheeler, family health, travel, and home insurance products, as well as investment, guaranteed return, child savings, and retirement plans. It also offers Paisabazaar, which facilitates access to lending and personal credit products. In addition, the company provides online healthcare related services; insurance broking services; support services for motor vehicle claims and related assistance; account aggregation services; online marketing and sales consulting services; and information technology and related services. Further, the company engages in the operation of call center; online comparison, sale, and online, offline, and direct marketing of financial products; and payment aggregator, payment gateway services, payment facilitation activities by offline and a digital payment acceptance. PB Fintech Limited was incorporated in 2008 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 48779.76,
-  "pe_ratio": 60.63,
+  "market_cap_cr": 51330.0,
+  "pe_ratio": 63.8,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 168.06,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:26:52.863059",
-  "provider_reported_pb_ratio": 6.25,
-  "statements_retrieved_at": "2026-11-12T22:26:52.863059",
+  "retrieval_time": "2026-11-13T21:47:42.035063",
+  "provider_reported_pb_ratio": 6.58,
+  "statements_retrieved_at": "2026-11-13T21:47:42.035063",
   "retained_fields": []
 }

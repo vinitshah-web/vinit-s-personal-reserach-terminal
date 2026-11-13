@@ -5,8 +5,8 @@
   "industry": "Credit Services",
   "business_summary": "Mufin Green Finance Limited, a non-banking financial company, provides financing and investing services in India. The company offers Mediclaim insurance premium financing, salary-linked loans to government employees, electric vehicles and solar ecosystem financing, and loans to corporates and MSMEs. It also provides operating or financial lease services to fleet operators for vehicles, including two-, three-, and four-wheelers, as well as charging infra and battery swapping. In addition, the company offers asset financing for residential and commercial solar; solar financing consisting of working capital, individual PPA, group PPA, and captive PPA financing; B2B financing for hypothecated loans and leasing, fleet aggregators and mobility platforms, battery swapping and leasing, charging point operators, dealer inventory financing, and nano entrepreneurs entering EV; and B2C financing for loans for 2W and 3W EVs, partnerships with OEMs, self-employed customers, semi-urban and rural markets, and drivers transitioning to owners. It serves retail and individual customers, small and medium enterprises, electric vehicle customers, commercial vehicle operators, solar product customers, and insurance finance customers. The company was formerly known as APM Finvest Limited and changed its name to Mufin Green Finance Limited in July 2022. Mufin Green Finance Limited was incorporated in 2016 and is headquartered in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2776.41,
-  "pe_ratio": 67.67,
+  "market_cap_cr": 2745.69,
+  "pe_ratio": 66.92,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 29.0,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:20:15.487037",
-  "provider_reported_pb_ratio": 4.83,
-  "statements_retrieved_at": "2026-11-12T22:20:15.487037",
+  "retrieval_time": "2026-11-13T21:41:27.383225",
+  "provider_reported_pb_ratio": 4.78,
+  "statements_retrieved_at": "2026-11-13T21:41:27.383225",
   "retained_fields": []
 }

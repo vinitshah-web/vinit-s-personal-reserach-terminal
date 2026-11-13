@@ -5,7 +5,7 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Eastern Silk Industries Limited engages in the manufacture and sale of textile products under the Eastern brand in India. The company offers drapery products, such as curtain sheer and drapes, curtain blackouts, embroidered, jacquard, printed, burnouts, plain, textured, blackouts, and other products; upholstery fabrics; beddings, including bed sheets, comforters, fitted sheet sets, quilted bed covers, pillow covers, duvet and duvet covers, and cushion covers; rugs; and textile accessories. It also provides made-ups comprising cushions, throws, curtains, bed scarves, etc.; and yarns, including cotton, linene, silk, viscose, chenille, acrylic, nylon, polyester, zari, and fancy yarn products. The company also exports its products. Eastern Silk Industries Limited was incorporated in 1946 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 35.7,
+  "market_cap_cr": 36.5,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:54:19.977942",
-  "provider_reported_pb_ratio": 1.0,
-  "statements_retrieved_at": "2026-11-12T21:54:19.977942",
+  "retrieval_time": "2026-11-13T21:16:51.745329",
+  "provider_reported_pb_ratio": 1.02,
+  "statements_retrieved_at": "2026-11-13T21:16:51.745329",
   "retained_fields": []
 }

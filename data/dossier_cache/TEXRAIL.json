@@ -5,8 +5,8 @@
   "industry": "Railroads",
   "business_summary": "Texmaco Rail & Engineering Limited manufactures, sells, and provides services for rail and rail related products in India. It operates through four segments: Freight Car Division, Infra Rail & Green Energy, Infra Electrical, and Real Estate. The company offers freight cars, such as railway freight cars, loco components and shells, and steel castings; steel girders for railway bridges; and pressure vessels. It also undertakes EPC contracts for execution of railway track, and signaling and telecommunication projects; rail electrification and automatic fare collection; hydro-mechanical equipment. In addition, the company provides wagons, parcel vans, brake vans, as well as components for fabricated bogie; front end; fuel tank; car body shell; platform sub-assemblies; bogie and base frame; and end, side, bolster, floor, and ballast assembly. The company was founded in 1939 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4610.59,
-  "pe_ratio": 21.26,
+  "market_cap_cr": 4522.3,
+  "pe_ratio": 20.85,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 61.7,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:42:46.229277",
-  "provider_reported_pb_ratio": 1.84,
-  "statements_retrieved_at": "2026-11-12T22:42:46.229277",
+  "retrieval_time": "2026-11-13T22:02:46.455331",
+  "provider_reported_pb_ratio": 1.8,
+  "statements_retrieved_at": "2026-11-13T22:02:46.455331",
   "retained_fields": []
 }

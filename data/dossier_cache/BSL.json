@@ -5,14 +5,14 @@
   "industry": "Textile Manufacturing",
   "business_summary": "BSL Limited, a textile company, engages in the manufacture and sale of various yarns and fabrics in India and internationally. The company offers polyester viscose, worsted and cotton yarns, poly wool, vortex, and cotton yarns; and polyester viscose, worsted spinning, and fashion fabrics. It also provides suits for men; pure wool; and furnishings, including curtains, upholsteries, madeups, and silk fabrics. The company offers its products under the Geoffrey Hammonds, Geoffrey Hammonds Insignia, Unicare, and Basilio brand names. It also exports its products. BSL Limited was incorporated in 1970 and is headquartered in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 133.07,
-  "pe_ratio": 36.63,
+  "market_cap_cr": 133.36,
+  "pe_ratio": 36.71,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 116.51,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.0292,
-  "fifty_two_week_high": 205.0,
+  "fifty_two_week_high": 202.19,
   "fifty_two_week_low": 98.0,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:47:44.087825",
+  "retrieval_time": "2026-11-13T21:10:33.359814",
   "provider_reported_pb_ratio": 1.11,
-  "statements_retrieved_at": "2026-11-12T21:47:44.087825",
+  "statements_retrieved_at": "2026-11-13T21:10:33.359814",
   "retained_fields": []
 }

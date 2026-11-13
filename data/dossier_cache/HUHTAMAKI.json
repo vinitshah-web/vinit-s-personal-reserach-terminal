@@ -5,8 +5,8 @@
   "industry": "Packaging & Containers",
   "business_summary": "Huhtamaki India Limited engages in the manufacture and sale of packaging materials in India. The company offers packaging solutions for beverages; dry and wet culinary packaging solutions; home and personal care packaging, such as beauty, cleaning and laundry, and family care; and pet food packaging. It also provides pharmaceutical packaging; functional labels, anti-counterfeit labels, extended text labels, value-added aesthetic labels, and other labeling solutions; PE products under the blueloop brand; products for PET and PE platforms under the blueLite brand; PO and PP Retort products under the blueloop brand; and laser engraved cylinders. The company was formerly known as Huhtamaki PPL Limited and changed its name to Huhtamaki India Limited in November 2020. The company was founded in 1935 and is based in Thane, India. Huhtamaki India Limited operates as a subsidiary of Huhtavefa BV.",
   "business_summary_reason": null,
-  "market_cap_cr": 1727.87,
-  "pe_ratio": 13.35,
+  "market_cap_cr": 1712.46,
+  "pe_ratio": 13.23,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 178.59,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:05:15.401271",
-  "provider_reported_pb_ratio": 1.28,
-  "statements_retrieved_at": "2026-11-12T22:05:15.401271",
+  "retrieval_time": "2026-11-13T21:27:06.596481",
+  "provider_reported_pb_ratio": 1.27,
+  "statements_retrieved_at": "2026-11-13T21:27:06.596481",
   "retained_fields": []
 }

@@ -5,14 +5,14 @@
   "industry": "Travel Services",
   "business_summary": "Le Travenues Technology Limited operates online travel agency (OTA) platforms in India. Its OTA platforms allow travelers to book train tickets, flight tickets, bus tickets, hotels and cabs; provide travel utility tools and services, including PNR status updates, flight status updates, LIVE bus tracking, train seat availability alerts, train running status updates and delay predictions, pricing and availability alerts, deal discovery, destination content, personalized recommendations, instant fare alerts for flights and automated customer support services. The company also offers ancillary services, including travel insurance, car rentals, and visa processing; hotel booking and food delivery; and software development and maintenance services. In addition, the company operates OTA platforms through its websites and mobile applications under ixigo, Confirmtkt, and AbhiBus brand names. Le Travenues Technology Limited was incorporated in 2006 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 7268.86,
-  "pe_ratio": 49.17,
+  "market_cap_cr": 7200.9,
+  "pe_ratio": 48.71,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 48.61,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 44.1259,
-  "fifty_two_week_high": 280.9,
+  "fifty_two_week_high": 280.0,
   "fifty_two_week_low": 136.35,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:08:31.212868",
-  "provider_reported_pb_ratio": 3.39,
-  "statements_retrieved_at": "2026-11-12T22:08:31.212868",
+  "retrieval_time": "2026-11-13T21:30:13.074317",
+  "provider_reported_pb_ratio": 3.36,
+  "statements_retrieved_at": "2026-11-13T21:30:13.074317",
   "retained_fields": []
 }

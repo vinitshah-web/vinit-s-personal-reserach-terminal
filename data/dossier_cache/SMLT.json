@@ -5,14 +5,14 @@
   "industry": "Metal Fabrication",
   "business_summary": "Sarthak Metals Limited manufactures, sells, and exports cored wires and aluminum flipping coils in India and internationally. The company offers calcium silicide, calcium iron, calcium solid wire, calcium aluminum iron, lead cored, ferro titanium, carbon, ferro boron, magnesium ferrosilicon, nitride manganese, carbon steel, stainless steel, hardfacing, and ferro niobium wires, as well as aluminum flipping coils. It also offers wire injection Systems, such as wire feeder machines. The company serves steel mills, flat and long product manufacturers, automotive-grade steel producers, stainless steel, foundries, shipbuilding, infrastructure and construction, fabrication workshops, mechanical engineering, and hardfacing and surfacing industries. Sarthak Metals Limited was incorporated in 1995 and is headquartered in Bhilai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 100.67,
-  "pe_ratio": 20.54,
+  "market_cap_cr": 102.26,
+  "pe_ratio": 20.87,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 91.57,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.369,
-  "fifty_two_week_high": 103.85,
+  "fifty_two_week_high": 103.0,
   "fifty_two_week_low": 56.61,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:38:00.230545",
-  "provider_reported_pb_ratio": 0.8,
-  "statements_retrieved_at": "2026-11-12T22:38:00.230545",
+  "retrieval_time": "2026-11-13T21:58:12.781533",
+  "provider_reported_pb_ratio": 0.82,
+  "statements_retrieved_at": "2026-11-13T21:58:12.781533",
   "retained_fields": []
 }

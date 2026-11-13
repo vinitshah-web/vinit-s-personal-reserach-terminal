@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Indigo Paints Limited manufactures and sells decorative paints in India and internationally. The company offers interior and exterior emulsions, enamels, putties and primers, and sleek wood coatings, as well as waterproofing solutions and construction chemicals; aluminium paints, stone and tiles paints, roof paints, stainers, interior lustre finish under the Indigo brand. The company was incorporated in 2000 and is headquartered in Pune, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4684.0,
-  "pe_ratio": 31.47,
+  "market_cap_cr": 4597.13,
+  "pe_ratio": 30.89,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 248.72,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:06:29.779497",
-  "provider_reported_pb_ratio": 3.95,
-  "statements_retrieved_at": "2026-11-12T22:06:29.779497",
+  "retrieval_time": "2026-11-13T21:28:18.480744",
+  "provider_reported_pb_ratio": 3.87,
+  "statements_retrieved_at": "2026-11-13T21:28:18.480744",
   "retained_fields": []
 }

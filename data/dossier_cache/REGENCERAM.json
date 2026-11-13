@@ -5,7 +5,7 @@
   "industry": "Building Products & Equipment",
   "business_summary": "Regency Ceramics Limited engages in the manufacturing and sale of ceramic floor and wall tiles in India and internationally. It offers glazed vitrified, parking, and heavy-duty tiles for high traffic areas; and polished vitrified tiles, wall tiles, and special tiles. The company was incorporated in 1983 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 83.95,
+  "market_cap_cr": 82.02,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:30:21.259948",
-  "provider_reported_pb_ratio": -1.0,
-  "statements_retrieved_at": "2026-11-12T22:30:21.259948",
+  "retrieval_time": "2026-11-13T21:51:01.558043",
+  "provider_reported_pb_ratio": -0.98,
+  "statements_retrieved_at": "2026-11-13T21:51:01.558043",
   "retained_fields": []
 }

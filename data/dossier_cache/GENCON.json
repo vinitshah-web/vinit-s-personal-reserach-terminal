@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "Generic Engineering Construction and Projects Limited engages in the construction of commercial, residential, industrial, health and leisure, and institutional buildings in India. It focuses on general contracting, design-build, engineering, and procurement and construction work for data centers, hospitals, schools, cold storages, and other types of industrial and residential buildings. The company provides designing and engineering services for architecture, structural, electrical, mechanical, HVAC, plumbing and sewerage, fire protection, building management, and infrastructure works, as well as project management consultancy services. Generic Engineering Construction and Projects Limited was founded in 1967 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 154.26,
-  "pe_ratio": 18.05,
+  "market_cap_cr": 151.07,
+  "pe_ratio": 17.67,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 52.7,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:58:49.950195",
-  "provider_reported_pb_ratio": 0.51,
-  "statements_retrieved_at": "2026-11-12T21:58:49.950195",
+  "retrieval_time": "2026-11-13T21:21:04.904951",
+  "provider_reported_pb_ratio": 0.5,
+  "statements_retrieved_at": "2026-11-13T21:21:04.904951",
   "retained_fields": []
 }

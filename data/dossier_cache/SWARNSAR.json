@@ -5,8 +5,8 @@
   "industry": "Luxury Goods",
   "business_summary": "Swarnsarita Jewels India Limited manufactures and trades gold and diamond jewelry in India and internationally. It offers studded rings, bracelets, pendants, necklaces, earrings, and other gold products. The company was formerly known as Swarnsarita Gems Limited and changed its name to Swarnsarita Jewels India Limited in November 2021. Swarnsarita Jewels India Limited was founded in 1989 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 85.74,
-  "pe_ratio": 6.98,
+  "market_cap_cr": 86.76,
+  "pe_ratio": 7.07,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 67.19,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:41:06.270698",
-  "provider_reported_pb_ratio": 0.61,
-  "statements_retrieved_at": "2026-11-12T22:41:06.270698",
+  "retrieval_time": "2026-11-13T22:01:09.514305",
+  "provider_reported_pb_ratio": 0.62,
+  "statements_retrieved_at": "2026-11-13T22:01:09.514305",
   "retained_fields": []
 }

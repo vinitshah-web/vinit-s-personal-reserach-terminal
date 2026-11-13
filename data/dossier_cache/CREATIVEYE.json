@@ -5,7 +5,7 @@
   "industry": "Entertainment",
   "business_summary": "Creative Eye Limited engages in the media and entertainment sector in India. It is involved in the digital content, advertising, subscriptions, licensing, and intellectual property activity. In addition, the company offers television shows, films, and digital contents. Creative Eye Limited was incorporated in 1986 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 12.44,
+  "market_cap_cr": 12.1,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:50:56.166536",
-  "provider_reported_pb_ratio": 0.82,
-  "statements_retrieved_at": "2026-11-12T21:50:56.166536",
+  "retrieval_time": "2026-11-13T21:13:37.300295",
+  "provider_reported_pb_ratio": 0.8,
+  "statements_retrieved_at": "2026-11-13T21:13:37.300295",
   "retained_fields": []
 }

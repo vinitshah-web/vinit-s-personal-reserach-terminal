@@ -5,8 +5,8 @@
   "industry": "Industrial Distribution",
   "business_summary": "Khaitan (India) Limited engages in trading of electrical goods in the agriculture and sugar sectors primarily in India. It operates through three segments: Electrical Goods, Sugar, and Agriculture. The company offers fans, geyser and light products, cables, wires, switchgear, switches, motors, industrial air circulators, air coolers, pumps, electric FHP motors, and electrical accessories for use in infrastructure, industrial, housing, and commercial projects. It also provides agricultural and sugar products. Khaitan (India) Limited was incorporated in 1936 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 73.41,
-  "pe_ratio": 9.99,
+  "market_cap_cr": 72.8,
+  "pe_ratio": 9.9,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 80.78,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:11:17.616250",
-  "provider_reported_pb_ratio": 1.81,
-  "statements_retrieved_at": "2026-11-12T22:11:17.616250",
+  "retrieval_time": "2026-11-13T21:32:55.184999",
+  "provider_reported_pb_ratio": 1.79,
+  "statements_retrieved_at": "2026-11-13T21:32:55.184999",
   "retained_fields": []
 }

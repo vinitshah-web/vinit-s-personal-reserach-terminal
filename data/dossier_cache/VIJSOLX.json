@@ -5,8 +5,8 @@
   "industry": "Packaged Foods",
   "business_summary": "Vijay Solvex Limited manufactures and sells edible oils and vanaspati ghee in India and internationally. It operates through three segments: Edible Oils, Ceramics, and Wind Power Generation. The company provides vanaspati, oil cake, de-oiled cake, etc.; and insulators, as well as generates wind power. It also manufactures and exports fine bone China tableware, decorative ceramic items, grey insulators, high tension porcelain insulators, etc., as well as offers mustard oil, vanaspati ghee, and refined soyabean/mustard oil under SCOOTER brand. The company also exports its products to U.K, Germany, Hungary, Middle East, Sri Lanka, US etc. Vijay Solvex Limited was incorporated in 1987 and is based in Alwar, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 265.86,
-  "pe_ratio": 11.16,
+  "market_cap_cr": 260.07,
+  "pe_ratio": 10.91,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 1101.48,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:46:55.794121",
-  "provider_reported_pb_ratio": 0.75,
-  "statements_retrieved_at": "2026-11-12T22:46:55.794121",
+  "retrieval_time": "2026-11-13T22:06:51.577462",
+  "provider_reported_pb_ratio": 0.74,
+  "statements_retrieved_at": "2026-11-13T22:06:51.577462",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Apparel Manufacturing",
   "business_summary": "Bang Overseas Limited, together with its subsidiaries, engages in the manufacture and trade of textile and textile products in India and internationally. The company provides men's formal and casual wear under the Thomas Scott, Italian Gold, Hammersmith, Bang & Scott, Bang Europa, and FCC brand names. It also provides concept development, designing, manufacturing, logistics, and marketing services. The company was incorporated in 1992 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 39.77,
-  "pe_ratio": 8.65,
+  "market_cap_cr": 40.23,
+  "pe_ratio": 8.75,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 69.0,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:44:45.439694",
+  "retrieval_time": "2026-11-13T21:07:41.499141",
   "provider_reported_pb_ratio": 0.43,
-  "statements_retrieved_at": "2026-11-12T21:44:45.439694",
+  "statements_retrieved_at": "2026-11-13T21:07:41.499141",
   "retained_fields": []
 }

@@ -5,7 +5,7 @@
   "industry": "Real Estate - Development",
   "business_summary": "Kamanwala Housing Construction Limited engages in the real estate development business in India. It is also involved in the construction of residential and commercial buildings, and related activities. The company was formerly known as Kamanwala Industries Limited and changed its name to Kamanwala Housing Construction Limited in December 2006. Kamanwala Housing Construction Limited was incorporated in 1984 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 25.16,
+  "market_cap_cr": 24.18,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:10:24.532838",
-  "provider_reported_pb_ratio": 0.22,
-  "statements_retrieved_at": "2026-11-12T22:10:24.532838",
+  "retrieval_time": "2026-11-13T21:32:04.445774",
+  "provider_reported_pb_ratio": 0.21,
+  "statements_retrieved_at": "2026-11-13T21:32:04.445774",
   "retained_fields": []
 }

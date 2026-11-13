@@ -5,14 +5,14 @@
   "industry": "Building Materials",
   "business_summary": "JK Lakshmi Cement Limited manufactures and supplies cement in India. The company provides an array of cement products, including portland cement, portland pozzolana cement, portland slag cement and composite cement; and value-added products and services, including ready-mixed concrete, gypsum plaster, wall putty, primer, fly ash blocks, autoclaved aerated blocks, and adhesives. The company offers its products under the JK Lakshmi Cement, Platinum Heavy Duty Cement, JK Lakshmi PRO+ Cement, Platinum Supremo Cement, JK Lakshmi Classic Gypsum Plaster, JK Lakshmi Classic Wall Putty, JK Lakshmi Tile Adhesives, JK Lakshmi Green+ Cement, Platinum Heavy Duty Cement, JK Lakshmi White Cement, JK Lakshmi Concrete, JK Lakshmi Mortar, JK Lakshmi Wall Primer, and JK Lakshmi Fly-Ash Block brand names. It serves home builders, masons and contractors, architects, and engineers channel partners. The company was incorporated in 1938 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 6155.08,
-  "pe_ratio": 19.89,
+  "market_cap_cr": 6209.7,
+  "pe_ratio": 20.06,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 319.2,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 12.4144,
-  "fifty_two_week_high": 842.9,
+  "fifty_two_week_high": 840.95,
   "fifty_two_week_low": 452.65,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:09:26.136222",
-  "provider_reported_pb_ratio": 1.55,
-  "statements_retrieved_at": "2026-11-12T22:09:26.136222",
+  "retrieval_time": "2026-11-13T21:31:07.451745",
+  "provider_reported_pb_ratio": 1.57,
+  "statements_retrieved_at": "2026-11-13T21:31:07.451745",
   "retained_fields": []
 }

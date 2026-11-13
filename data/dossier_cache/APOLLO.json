@@ -5,14 +5,14 @@
   "industry": "Aerospace & Defense",
   "business_summary": "Apollo Micro Systems Limited designs, develops, and assembles electronic and electromechanical solutions in India. The company offers actuation systems, AI engines, avionics, avionic bus products, automated test equipment, communication systems, composite systems, ground support equipment, navigation systems, power supply systems, RF systems, satellite data handling, sonar systems, telemetry, and warhead and propulsion systems. It also provides hardware and software design, manufacturing, environmental testing, and inertial system calibration services, as well as electronic and mechanical CAD services. Apollo Micro Systems Limited was incorporated in 1985 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 16354.09,
-  "pe_ratio": 115.21,
+  "market_cap_cr": 17673.27,
+  "pe_ratio": 124.5,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 41.41,
-  "dividend_yield_pct": 0.055,
+  "dividend_yield_pct": 0.0568,
   "shares_outstanding_cr": 37.16,
-  "fifty_two_week_high": 466.5,
+  "fifty_two_week_high": 478.0,
   "fifty_two_week_low": 179.5,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:41:12.093862",
-  "provider_reported_pb_ratio": 10.63,
-  "statements_retrieved_at": "2026-11-12T21:41:12.093862",
+  "retrieval_time": "2026-11-13T21:04:24.537962",
+  "provider_reported_pb_ratio": 11.49,
+  "statements_retrieved_at": "2026-11-13T21:04:24.537962",
   "retained_fields": []
 }

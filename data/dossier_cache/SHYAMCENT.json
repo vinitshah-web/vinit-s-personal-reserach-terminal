@@ -5,7 +5,7 @@
   "industry": "Steel",
   "business_summary": "Shyam Century Ferrous Limited does not have significant operations. It was previously engaged in the manufacturing and sale of ferro alloys. Shyam Century Ferrous Limited was incorporated in 2011 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 106.51,
+  "market_cap_cr": 105.66,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:36:33.426067",
-  "provider_reported_pb_ratio": 0.63,
-  "statements_retrieved_at": "2026-11-12T22:36:33.426067",
+  "retrieval_time": "2026-11-13T21:56:51.751401",
+  "provider_reported_pb_ratio": 0.62,
+  "statements_retrieved_at": "2026-11-13T21:56:51.751401",
   "retained_fields": []
 }

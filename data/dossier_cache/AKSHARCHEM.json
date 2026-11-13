@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "AksharChem (India) Limited manufactures and sells dyes intermediates, pigments, and inorganic chemicals in India. The company provides H-acid, vinyl sulphone, and ortho anicidine and sulpho para vinyl sulphone; reactive blue 21 and black 5 dyes; green 7 pigments; and precipitated silica. It serves textile, ink, paint, and plastic industries. The company also exports its products to Europe, the Far East, Southeast Asia, China, the United States, and internationally. The company was formerly known as Audichem (India) Limited and changed its name to AksharChem (India) Limited in March 2003. AksharChem (India) Limited was incorporated in 1989 and is headquartered in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 288.11,
-  "pe_ratio": 10.02,
+  "market_cap_cr": 285.34,
+  "pe_ratio": 9.92,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 361.02,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:39:24.545412",
-  "provider_reported_pb_ratio": 0.99,
-  "statements_retrieved_at": "2026-11-12T21:39:24.545412",
+  "retrieval_time": "2026-11-13T21:02:44.429426",
+  "provider_reported_pb_ratio": 0.98,
+  "statements_retrieved_at": "2026-11-13T21:02:44.429426",
   "retained_fields": []
 }

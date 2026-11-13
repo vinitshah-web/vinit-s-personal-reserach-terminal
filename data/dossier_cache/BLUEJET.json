@@ -5,8 +5,8 @@
   "industry": "Biotechnology",
   "business_summary": "Blue Jet Healthcare Limited engages in the manufacturing and sale of artificial sweeteners, pharmaceutical intermediates and active pharmaceutical ingredients (APIs) for use in products. It provides contrast media intermediates, as well as end-to-end solutions from process development and commercialization of NCEs, advance intermediates, API, and building blocks. The company develops, manufactures, and markets saccharin and related supplies to healthcare, pharma, animal feed, and food and beverages industries. It has operations in India, Norway, France, the United States, Denmark, Thailand, Spain, Italy, Sweden, and internationally. Blue Jet Healthcare Limited was incorporated in 1968 and is headquartered in Thane, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 9354.99,
-  "pe_ratio": 33.64,
+  "market_cap_cr": 9355.86,
+  "pe_ratio": 33.65,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 122.42,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:46:52.949635",
+  "retrieval_time": "2026-11-13T21:09:44.485560",
   "provider_reported_pb_ratio": 4.41,
-  "statements_retrieved_at": "2026-11-12T21:46:52.949635",
+  "statements_retrieved_at": "2026-11-13T21:09:44.485560",
   "retained_fields": []
 }

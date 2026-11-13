@@ -5,8 +5,8 @@
   "industry": "Insurance - Life",
   "business_summary": "Life Insurance Corporation of India provides life insurance products in India, Fiji, Mauritius, and the United Kingdom. The company offers insurance plans, including endowment, whole life, term insurance, money back, and term assurance plans, as well as riders comprising accidental death and disability benefit, critical illness benefit, and premium waiver benefit riders. It also provides pension, unit linked, micro insurance, withdrawn, and health plans, as well as various group schemes. The company was incorporated in 1956 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 511059.79,
-  "pe_ratio": 8.23,
+  "market_cap_cr": 505114.32,
+  "pe_ratio": 8.13,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 133.39,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:13:49.403914",
-  "provider_reported_pb_ratio": 3.03,
-  "statements_retrieved_at": "2026-11-12T22:13:49.403914",
+  "retrieval_time": "2026-11-13T21:35:23.341010",
+  "provider_reported_pb_ratio": 2.99,
+  "statements_retrieved_at": "2026-11-13T21:35:23.341010",
   "retained_fields": []
 }

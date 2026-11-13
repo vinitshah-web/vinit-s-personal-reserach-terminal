@@ -5,8 +5,8 @@
   "industry": "Asset Management",
   "business_summary": "Aditya Birla Sun Life AMC Limited is privately owned investment manager. The firm provides its services to individuals including high net worth individuals and institutional clients. It manages separate equity and fixed income portfolios. The firm also manages launches and manages equity and fixed income mutual funds, manages balanced mutual funds, and hedge funds for its clients. It invests in the public equity and fixed income markets across the globe. The firm employs a fundamental analysis to make its investments. It also make real estate investments. It was founded in 1994 and is based in Mumbai, India with an additional office in Ahmedabad, India. The firm was formerly known as Birla Sun Life Asset Management Company Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 26908.42,
-  "pe_ratio": 27.31,
+  "market_cap_cr": 25924.41,
+  "pe_ratio": 26.31,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 134.2,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:37:23.668301",
-  "provider_reported_pb_ratio": 6.93,
-  "statements_retrieved_at": "2026-11-12T21:37:23.668301",
+  "retrieval_time": "2026-11-13T21:00:48.416397",
+  "provider_reported_pb_ratio": 6.67,
+  "statements_retrieved_at": "2026-11-13T21:00:48.416397",
   "retained_fields": []
 }

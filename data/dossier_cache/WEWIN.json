@@ -5,8 +5,8 @@
   "industry": "Information Technology Services",
   "business_summary": "We Win Limited provides customer relationship management services in India. The company offers BPO services, which include outbound and inbound call centre management, customer support, helpdesk operations, and allied value-added services; website design and development; software and mobile application development; virtual reality solutions; architectural design studios; digital and social marketing; and skill development and training services. It also provides grievances support systems, new client acquisition, abandoned cart sales, outbound sales, email support, debt collection services, back-office support, and social media management solutions; GovTech solutions; and global capability center solutions. In addition, the company offers workforce analytics solutions, such as HRMS and We360.ai to meet the needs of business owners, HR professionals, and IT specialists. It serves businesses; government; banking, financial services, and insurance (BFSI); telecom; healthcare; technology; retail and ecommerce; and travel and leisure industries. The company was incorporated in 2007 and is based in Bhopal, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 42.72,
-  "pe_ratio": 15.29,
+  "market_cap_cr": 43.18,
+  "pe_ratio": 15.45,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 31.65,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:48:49.263578",
-  "provider_reported_pb_ratio": 1.33,
-  "statements_retrieved_at": "2026-11-12T22:48:49.263578",
+  "retrieval_time": "2026-11-13T22:08:34.085521",
+  "provider_reported_pb_ratio": 1.34,
+  "statements_retrieved_at": "2026-11-13T22:08:34.085521",
   "retained_fields": []
 }

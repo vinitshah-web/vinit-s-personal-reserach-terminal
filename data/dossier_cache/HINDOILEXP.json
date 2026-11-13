@@ -5,8 +5,8 @@
   "industry": "Oil & Gas E&P",
   "business_summary": "Hindustan Oil Exploration Company Limited, together with its subsidiaries, engages in the exploration, development, and production of onshore and offshore crude oil and natural gas in India. The company also provides oil field equipment and services. Hindustan Oil Exploration Company Limited was incorporated in 1983 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2496.62,
-  "pe_ratio": 99.36,
+  "market_cap_cr": 2544.36,
+  "pe_ratio": 101.26,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 104.71,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:04:25.009996",
-  "provider_reported_pb_ratio": 1.8,
-  "statements_retrieved_at": "2026-11-12T22:04:25.009996",
+  "retrieval_time": "2026-11-13T21:26:22.790051",
+  "provider_reported_pb_ratio": 1.84,
+  "statements_retrieved_at": "2026-11-13T21:26:22.790051",
   "retained_fields": []
 }

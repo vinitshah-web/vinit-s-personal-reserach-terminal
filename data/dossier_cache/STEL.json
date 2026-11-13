@@ -5,14 +5,14 @@
   "industry": "Asset Management",
   "business_summary": "STEL Holdings Limited, a core investment company, engages in the investment in securities of group companies in India. The company was formerly known as Sentinel Tea and Exports Limited and changed its name to STEL Holdings Limited in July 2011. STEL Holdings Limited was incorporated in 1990 and is based in Cochin, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1138.79,
-  "pe_ratio": 58.05,
+  "market_cap_cr": 1225.53,
+  "pe_ratio": 37.54,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 888.37,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.8455,
-  "fifty_two_week_high": 689.95,
+  "fifty_two_week_high": 699.9,
   "fifty_two_week_low": 385.1,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:39:32.249820",
-  "provider_reported_pb_ratio": 0.69,
-  "statements_retrieved_at": "2026-11-12T22:39:32.249820",
+  "retrieval_time": "2026-11-13T21:59:37.263478",
+  "provider_reported_pb_ratio": 0.75,
+  "statements_retrieved_at": "2026-11-13T21:59:37.263478",
   "retained_fields": []
 }

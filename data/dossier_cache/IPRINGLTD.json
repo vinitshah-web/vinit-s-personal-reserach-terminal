@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "IP Rings Limited manufactures and sells engine and transmission components in India, the United States, Thailand, France, and internationally. The company offers piston rings, including top, second, and oil rings, as well as turbo charger rings; gear and pinion small commercial vehicles, three wheelers, passenger cars, and tractors; synchrocone with lining, MIBA carbon lining, and synchrocone products; and polewheel/toner ring products. It also provides rotor shafts and diff case assembly products; and other transmission components comprising gear shift sleeves, edge collar nuts, lock rings, nut mutters, and dog clutches. The company was incorporated in 1991 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 171.4,
-  "pe_ratio": 55.42,
+  "market_cap_cr": 178.35,
+  "pe_ratio": 57.66,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 81.33,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:07:46.689754",
-  "provider_reported_pb_ratio": 1.66,
-  "statements_retrieved_at": "2026-11-12T22:07:46.689754",
+  "retrieval_time": "2026-11-13T21:29:29.424179",
+  "provider_reported_pb_ratio": 1.73,
+  "statements_retrieved_at": "2026-11-13T21:29:29.424179",
   "retained_fields": []
 }

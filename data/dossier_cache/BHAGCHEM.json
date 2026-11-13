@@ -5,8 +5,8 @@
   "industry": "Agricultural Inputs",
   "business_summary": "Bhagiradha Chemicals & Industries Limited manufactures and sells crop protection chemicals in India, rest of Asia, and Europe. The company offers insecticides, such as chlorpyrifos, chlorpyrifos-methyl, diafenthiuron, fipronil, dinotefuran, thiamethoxam, imidacloprid, pymetrozine, and chlorantraniliprole; fungicides, including azoxystrobin and trifloxystrobin; herbicides comprising triclopyr, cloquintocet-mexyl, clodinafop-propargyl, sulfosulfuron, and pinoxaden; and specialty intermediates consisting of 2,6-dichloroaniline and 2-ethylsulfonylimidazo pyridine-3-sulfonamide. It serves agrochemical manufacturers and pesticide formulators and traders. The company was incorporated in 1993 and is headquartered in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2437.91,
-  "pe_ratio": 88.68,
+  "market_cap_cr": 2437.52,
+  "pe_ratio": 88.67,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 55.55,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:46:00.151575",
+  "retrieval_time": "2026-11-13T21:08:52.735751",
   "provider_reported_pb_ratio": 3.38,
-  "statements_retrieved_at": "2026-11-12T21:46:00.151575",
+  "statements_retrieved_at": "2026-11-13T21:08:52.735751",
   "retained_fields": []
 }

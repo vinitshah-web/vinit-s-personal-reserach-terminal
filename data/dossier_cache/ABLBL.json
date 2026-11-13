@@ -5,8 +5,8 @@
   "industry": "Apparel Retail",
   "business_summary": "Aditya Birla Lifestyle Brands Limited engages in the retail of garments and accessories in India and the Middle East. The company is also involved in the western wear business under the lifestyle brands, including Louis Philippe, Simon Carter, Van Heusen, Allen Solly, and Peter England brands; the sportswear business under the Reebok brand; and the innerwear business under the Van Heusen brand, as well as offers youth wear and casual wear under the American Eagle brand name. It operates a chain of apparel and accessories retail stores. The company was incorporated in 2024 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 9732.9,
-  "pe_ratio": 48.86,
+  "market_cap_cr": 9505.76,
+  "pe_ratio": 47.72,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 11.88,
@@ -48,8 +48,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:37:17.301457",
-  "provider_reported_pb_ratio": 6.74,
-  "statements_retrieved_at": "2026-11-12T21:37:17.301457",
+  "retrieval_time": "2026-11-13T21:00:41.654816",
+  "provider_reported_pb_ratio": 6.59,
+  "statements_retrieved_at": "2026-11-13T21:00:41.654816",
   "retained_fields": []
 }

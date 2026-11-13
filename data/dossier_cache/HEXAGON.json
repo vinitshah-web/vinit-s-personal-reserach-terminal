@@ -5,8 +5,8 @@
   "industry": "Packaged Foods",
   "business_summary": "Hexagon Nutrition Limited operates as a nutraceutical business focused on the development and supply of micronutrient premixes, clinical nutrition, and therapeutic food in India and internationally. The company provides ready-to-use supplementary food (RUSF), ready-to-use therapeutic food (RUTF), health and wellness products, and home fortification solutions. It also develops functional foods, dietary supplements, plant-based nutritional alternatives, maternal and geriatric nutrition products, and condition-specific formulations aimed at managing lifestyle disorders, such as cardiovascular health, and obesity. It serves food companies and nutraceutical industry. The company exports its products to Southeast Asia, the Middle East, Africa, Latin America, and Pacific. Hexagon Nutrition Limited was founded in 1991 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 736.4,
-  "pe_ratio": 34.63,
+  "market_cap_cr": 721.53,
+  "pe_ratio": 33.93,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 21.18,
@@ -63,8 +63,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:03:59.207084",
-  "provider_reported_pb_ratio": 2.83,
-  "statements_retrieved_at": "2026-11-12T22:03:59.207084",
+  "retrieval_time": "2026-11-13T21:25:54.115763",
+  "provider_reported_pb_ratio": 2.77,
+  "statements_retrieved_at": "2026-11-13T21:25:54.115763",
   "retained_fields": []
 }

@@ -5,7 +5,7 @@
   "industry": "Agricultural Inputs",
   "business_summary": "Shiva Global Agro Industries Limited, together with its subsidiaries, engages in the manufacture and marketing of fertilizers, soil and crop health products, oils, and de-oiled cakes primarily in India. It operates through Fertilizers, and Seeds & Other Agricultural products segments. The company offers single super phosphate, (SSP), granulated SSP, and NPK mix fertilizers. It provides soybean and sunflower seed oils for food consumption; and de-oiled cakes for cattle and poultry feed. The company was formerly known as Shiva Fertilizers Ltd. Shiva Global Agro Industries Limited was incorporated in 1993 and is based in Nanded, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 38.87,
+  "market_cap_cr": 38.4,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:35:50.520960",
-  "provider_reported_pb_ratio": 0.44,
-  "statements_retrieved_at": "2026-11-12T22:35:50.520960",
+  "retrieval_time": "2026-11-13T21:56:11.081376",
+  "provider_reported_pb_ratio": 0.43,
+  "statements_retrieved_at": "2026-11-13T21:56:11.081376",
   "retained_fields": []
 }

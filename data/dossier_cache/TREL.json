@@ -5,8 +5,8 @@
   "industry": "Real Estate Services",
   "business_summary": "Transindia Real Estate Limited, a a diversified real estate and infrastructure development company, invests in, develops, owns, leases, and manages logistics parks, warehousing infrastructure, commercial office spaces, container freight stations (CFS), inland container depots (ICD), and private freight terminals in India. It operates through Equipment Hiring and Logistics Park and Commercial Properties segments. The company engages in the leasing of land and commercial properties; logistics parks; warehousing; real estate development and leasing activities; equipment hiring solutions; and other related businesses. It also provides integrated end-to-end project, engineering, and logistics services through a fleet of owned or rented specialized equipment across various sectors. The company was formerly known as Transindia Realty & Logistics Parks Limited and changed its name to TransIndia Real Estate Limited in May 2023. Transindia Real Estate Limited was incorporated in 2021 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 628.49,
-  "pe_ratio": 15.41,
+  "market_cap_cr": 655.52,
+  "pe_ratio": 16.07,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 51.96,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:44:08.531277",
-  "provider_reported_pb_ratio": 0.49,
-  "statements_retrieved_at": "2026-11-12T22:44:08.531277",
+  "retrieval_time": "2026-11-13T22:04:08.338308",
+  "provider_reported_pb_ratio": 0.51,
+  "statements_retrieved_at": "2026-11-13T22:04:08.338308",
   "retained_fields": []
 }

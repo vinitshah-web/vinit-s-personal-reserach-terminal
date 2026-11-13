@@ -6,7 +6,7 @@
   "business_summary": "Rentomojo Limited provides online rental service for furniture and appliances. The company provides rental services for various products, including delivery, installation, and pick-up. The company was founded in 2012 and is based in Bengaluru, India.",
   "business_summary_reason": null,
   "market_cap_cr": null,
-  "pe_ratio": 61.87,
+  "pe_ratio": 61.05,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 99.64,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T22:30:35.040378",
-  "provider_reported_pb_ratio": 6.22,
-  "statements_retrieved_at": "2026-11-12T22:30:35.040378",
+  "retrieval_time": "2026-11-13T21:51:13.927958",
+  "provider_reported_pb_ratio": 6.14,
+  "statements_retrieved_at": "2026-11-13T21:51:13.927958",
   "retained_fields": []
 }

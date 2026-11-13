@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Ajanta Pharma Limited, together with its subsidiaries, a pharmaceutical formulation company engages in the development, manufacture, and marketing of specialty pharmaceutical finished dosages. The company offers chronic and acute therapies; branded generic products; and a range of dosage forms, including tablets, capsules, eye drops, dry powder suspension, injectables, inhalers, ointments, creams, and liquids. It also serves various therapeutic areas comprising cardiology, dermatology, ophthalmology, gynaecology, nephrology, and pain management. The company operates in India, Africa, Asia, the United States, and internationally. Ajanta Pharma Limited was founded in 1973 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 41536.38,
-  "pe_ratio": 32.91,
+  "market_cap_cr": 41036.54,
+  "pe_ratio": 32.51,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 388.9,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-12T21:39:09.995079",
-  "provider_reported_pb_ratio": 8.55,
-  "statements_retrieved_at": "2026-11-12T21:39:09.995079",
+  "retrieval_time": "2026-11-13T21:02:30.282998",
+  "provider_reported_pb_ratio": 8.44,
+  "statements_retrieved_at": "2026-11-13T21:02:30.282998",
   "retained_fields": []
 }
