@@ -28,7 +28,7 @@
       "total_assets_cr": 1418.28,
       "total_equity_cr": 456.38,
       "total_debt_cr": 657.53,
-      "cash_cr": 71.29
+      "cash_cr": null
     },
     {
       "period": "FY25 (2025)",
@@ -43,7 +43,7 @@
       "total_assets_cr": 1470.81,
       "total_equity_cr": 467.76,
       "total_debt_cr": 425.35,
-      "cash_cr": 35.6
+      "cash_cr": null
     },
     {
       "period": "FY24 (2024)",
@@ -58,7 +58,7 @@
       "total_assets_cr": 1555.95,
       "total_equity_cr": 509.43,
       "total_debt_cr": 421.92,
-      "cash_cr": 53.56
+      "cash_cr": null
     },
     {
       "period": "FY23 (2023)",
@@ -73,13 +73,13 @@
       "total_assets_cr": 1588.95,
       "total_equity_cr": 511.96,
       "total_debt_cr": 420.39,
-      "cash_cr": 46.48
+      "cash_cr": null
     }
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T00:10:50.091805",
+  "retrieval_time": "2026-11-17T01:21:41.670871",
   "provider_reported_pb_ratio": 0.8,
-  "statements_retrieved_at": "2026-11-17T00:10:50.091805",
+  "statements_retrieved_at": "2026-11-17T01:21:41.670871",
   "retained_fields": []
 }

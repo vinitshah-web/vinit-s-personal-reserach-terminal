@@ -27,7 +27,7 @@
       "fcff_cr": 2812.75,
       "total_assets_cr": 12630.71,
       "total_equity_cr": 5980.77,
-      "total_debt_cr": 1768.82,
+      "total_debt_cr": null,
       "cash_cr": 275.34
     },
     {
@@ -42,7 +42,7 @@
       "fcff_cr": 1858.39,
       "total_assets_cr": 12915.88,
       "total_equity_cr": 5805.11,
-      "total_debt_cr": 2962.43,
+      "total_debt_cr": null,
       "cash_cr": 1709.82
     },
     {
@@ -57,7 +57,7 @@
       "fcff_cr": 2447.68,
       "total_assets_cr": 15122.95,
       "total_equity_cr": 5141.92,
-      "total_debt_cr": 4327.1,
+      "total_debt_cr": null,
       "cash_cr": 860.02
     },
     {
@@ -72,7 +72,7 @@
       "fcff_cr": 3573.3,
       "total_assets_cr": 16629.6,
       "total_equity_cr": 5018.74,
-      "total_debt_cr": 6546.0,
+      "total_debt_cr": null,
       "cash_cr": 966.01
     },
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T00:11:02.061222",
+  "retrieval_time": "2026-11-17T01:21:55.662357",
   "provider_reported_pb_ratio": 0.75,
-  "statements_retrieved_at": "2026-11-17T00:11:02.061222",
+  "statements_retrieved_at": "2026-11-17T01:21:55.662357",
   "retained_fields": []
 }
