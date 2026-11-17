@@ -5,8 +5,8 @@
   "industry": "Electrical Equipment & Parts",
   "business_summary": "Marsons Limited engages in manufacturing and selling of power and distribution transformers in India. The company offers distribution, power, dry type, pad mounted, WTG, furnace and inverter duty, liquid-filled power, substation power, generator step-up, and specialty transformers. It also provides after sales services. The company was incorporated in 1976 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2811.94,
-  "pe_ratio": 63.82,
+  "market_cap_cr": 2768.06,
+  "pe_ratio": 62.83,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 12.64,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T01:09:43.258085",
-  "provider_reported_pb_ratio": 12.92,
-  "statements_retrieved_at": "2026-11-17T01:09:43.258085",
+  "retrieval_time": "2026-11-17T23:10:44.370995",
+  "provider_reported_pb_ratio": 12.72,
+  "statements_retrieved_at": "2026-11-17T23:10:44.370995",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Thermal Coal",
   "business_summary": "Anmol India Limited trades in coal and related products in India. The company offers sponge iron pellets and lumps, steel billets, and steam coal, as well as pet coke. It serves the brick kiln industry, coal traders and dealers, and other industries. The company was incorporated in 1998 and is headquartered in Ludhiana, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 62.61,
-  "pe_ratio": 5.45,
+  "market_cap_cr": 61.52,
+  "pe_ratio": 5.35,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 20.9,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T00:35:20.691592",
-  "provider_reported_pb_ratio": 0.53,
-  "statements_retrieved_at": "2026-11-17T00:35:20.691592",
+  "retrieval_time": "2026-11-17T22:43:00.428495",
+  "provider_reported_pb_ratio": 0.52,
+  "statements_retrieved_at": "2026-11-17T22:43:00.428495",
   "retained_fields": []
 }

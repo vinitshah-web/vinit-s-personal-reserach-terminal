@@ -5,14 +5,14 @@
   "industry": "Solar",
   "business_summary": "Vikram Solar Limited engages in the manufacture and sale of solar photovoltaic modules/systems in India and internationally. It also engineering, procurement and construction (EPC) and operation and maintenance of solar power plant. It sells its products under the Suryava, Hypersol, Hypersol Pro, Paradea, and SOMERA brand names. It also involved in rooftop projects. The company was incorporated in 2005 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 5070.06,
-  "pe_ratio": 13.87,
+  "market_cap_cr": 5064.26,
+  "pe_ratio": 13.85,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 86.29,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 36.2354,
-  "fifty_two_week_high": 319.6,
+  "fifty_two_week_high": 316.6,
   "fifty_two_week_low": 124.5,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T01:40:28.942971",
+  "retrieval_time": "2026-11-17T23:34:42.075503",
   "provider_reported_pb_ratio": 1.62,
-  "statements_retrieved_at": "2026-11-17T01:40:28.942971",
+  "statements_retrieved_at": "2026-11-17T23:34:42.075503",
   "retained_fields": []
 }

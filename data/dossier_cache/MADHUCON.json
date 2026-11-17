@@ -5,14 +5,14 @@
   "industry": "Engineering & Construction",
   "business_summary": "Madhucon Projects Limited, together with its subsidiaries, operates as an integrated construction, infrastructure development, and management company in India. The company engages in the development and execution of engineering, procurement, and construction, as well as undertakes turnkey projects in various sectors, such as transportation projects, including highways, tunnels, railways, flyovers, etc.; irrigation projects, such as canals, dams, tunnels, spillways, pump houses, and lift irrigation projects; water resource infrastructures; railways; mining; water supply and sanitation; and industrial projects. It also engages in the development of smart cities and properties, as well as urban infrastructure projects. The company was founded in 1983 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 30.48,
+  "market_cap_cr": 30.7,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
-  "book_value": -254.61,
+  "book_value": -254.63,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 7.3795,
-  "fifty_two_week_high": 7.1,
+  "fifty_two_week_high": 6.95,
   "fifty_two_week_low": 3.55,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T01:08:31.310186",
+  "retrieval_time": "2026-11-17T23:09:47.049598",
   "provider_reported_pb_ratio": -0.02,
-  "statements_retrieved_at": "2026-11-17T01:08:31.310186",
+  "statements_retrieved_at": "2026-11-17T23:09:47.049598",
   "retained_fields": []
 }

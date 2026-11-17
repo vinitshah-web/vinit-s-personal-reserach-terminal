@@ -5,7 +5,7 @@
   "industry": "Real Estate - Diversified",
   "business_summary": "Hemisphere Properties India Limited operates as a real estate company in India. It focuses on acquiring, constructing, developing, holding, managing, administering, protecting, reserving, and dealing in properties, including sale and purchase. The company was incorporated in 2005 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3155.48,
+  "market_cap_cr": 3169.45,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T00:57:26.146035",
-  "provider_reported_pb_ratio": 7.52,
-  "statements_retrieved_at": "2026-11-17T00:57:26.146035",
+  "retrieval_time": "2026-11-17T23:00:54.748120",
+  "provider_reported_pb_ratio": 7.55,
+  "statements_retrieved_at": "2026-11-17T23:00:54.748120",
   "retained_fields": []
 }

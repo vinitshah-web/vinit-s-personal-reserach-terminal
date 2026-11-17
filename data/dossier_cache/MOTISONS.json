@@ -5,8 +5,8 @@
   "industry": "Luxury Goods",
   "business_summary": "Motisons Jewellers Limited engages in the manufacture and retail of jewelry in India. It offers necklaces, earrings, pendants, bracelets, rings, and mangalsutras made of gold, diamond, kundan, pearl, silver, earth, platinum, precious, semi-precious stones, and other metals. The company also offers gold and silver coins, utensils, and various artifacts. It serves its customers through its online platform. The company was founded in 1997 and is based in Jaipur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1569.76,
-  "pe_ratio": 21.9,
+  "market_cap_cr": 1587.96,
+  "pe_ratio": 22.16,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 4.98,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T01:12:58.599159",
-  "provider_reported_pb_ratio": 2.77,
-  "statements_retrieved_at": "2026-11-17T01:12:58.599159",
+  "retrieval_time": "2026-11-17T23:13:19.656513",
+  "provider_reported_pb_ratio": 2.8,
+  "statements_retrieved_at": "2026-11-17T23:13:19.656513",
   "retained_fields": []
 }

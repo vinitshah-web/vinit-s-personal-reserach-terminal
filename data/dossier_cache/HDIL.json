@@ -5,14 +5,14 @@
   "industry": "Real Estate - Diversified",
   "business_summary": "Housing Development and Infrastructure Limited engages in the real estate construction, development, and other related activities in India. The company's residential projects include apartment complexes, towers, and townships; commercial projects comprise office spaces and multiplex cinemas; and retail projects consists of shopping malls. It also develops slum rehabilitation projects. The company was incorporated in 1996 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 70.63,
+  "market_cap_cr": 73.0,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": -93.28,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 47.4004,
-  "fifty_two_week_high": 2.94,
+  "fifty_two_week_high": 2.9,
   "fifty_two_week_low": 1.21,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T00:57:12.508881",
+  "retrieval_time": "2026-11-17T23:00:43.405132",
   "provider_reported_pb_ratio": -0.02,
-  "statements_retrieved_at": "2026-11-17T00:57:12.508881",
+  "statements_retrieved_at": "2026-11-17T23:00:43.405132",
   "retained_fields": []
 }

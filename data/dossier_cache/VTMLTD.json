@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "VTM Limited manufactures and sells textile products in India. It offers fabrics, such as drills, twills, sateens, piques, jacquards, dobbies, plain weaves, structured fabrics, specialty woven fabrics; home textiles, including bed sheets, bed linen, duvet covers, comforters, blankets, pillow covers, cushions, hospitality linen, spa linen, table linen, bath linen, and window furnishings; sustainable and specialty fibres, comprising cotton, organic cotton, linen, bamboo, TENCEL, lyocell, modal, polyester blends, and CVC blends. The company also exports its products. The company was incorporated in 1946 and is based in Virudhunagar, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 406.3,
-  "pe_ratio": 47.53,
+  "market_cap_cr": 392.12,
+  "pe_ratio": 45.87,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 31.71,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T01:41:44.548759",
-  "provider_reported_pb_ratio": 1.27,
-  "statements_retrieved_at": "2026-11-17T01:41:44.548759",
+  "retrieval_time": "2026-11-17T23:35:43.971751",
+  "provider_reported_pb_ratio": 1.23,
+  "statements_retrieved_at": "2026-11-17T23:35:43.971751",
   "retained_fields": []
 }

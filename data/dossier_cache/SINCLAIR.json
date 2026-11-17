@@ -5,14 +5,14 @@
   "industry": "Lodging",
   "business_summary": "Sinclairs Hotels Limited operates in the hospitality sector in India. The company operates a chain of hotels and resorts under Sinclairs brand name, including Sinclairs Burdwan, Sindlairs Siliguri, Sinclairs Darjeeling, Sinclairs Retreat Kalimpong, and Sinclairs Retreat Dooars in West Bengal; Sinclairs Gangtok in Sikkim. It also operates Sinclairs Palace Retreat Udaipur in Rajasthan; Sinclairs Retreat Ooty in Tamil Nadu; and Sinclairs Bayview Port Blair in Andamans. Sinclairs Hotels Limited was incorporated in 1971 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 377.12,
-  "pe_ratio": 35.03,
+  "market_cap_cr": 368.92,
+  "pe_ratio": 34.27,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 24.32,
-  "dividend_yield_pct": 1.0672,
+  "dividend_yield_pct": 1.0874,
   "shares_outstanding_cr": 5.126,
-  "fifty_two_week_high": 90.55,
+  "fifty_two_week_high": 89.08,
   "fifty_two_week_low": 68.82,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T01:30:40.603853",
-  "provider_reported_pb_ratio": 3.02,
-  "statements_retrieved_at": "2026-11-17T01:30:40.603853",
+  "retrieval_time": "2026-11-17T23:27:03.077791",
+  "provider_reported_pb_ratio": 2.96,
+  "statements_retrieved_at": "2026-11-17T23:27:03.077791",
   "retained_fields": []
 }

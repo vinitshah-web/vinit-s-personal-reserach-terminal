@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Gufic Biosciences Limited manufactures and markets active pharmaceutical ingredients (APIs), generic pharmaceuticals, and related services in India, Africa, Asia, Europe, Australia, North America, and South America. The company manufactures APIs and bulk drugs, such as antifungals, anaethetics, immuno suppressants, anginotensin receptor blocker, and intermediates for antifungals. It also manufactures lyophilized injections for antibiotic, antifungal, cardiac medications, infertility treatments, antiviral solutions, and proton pump inhibitors (PPIs) segments. In addition, the company offers criti care, criticare life, ferticare, and spark pharmaceutical products; and herbal, aesthaderm, gufic stridden, and personal care products. Further, it engages in contract and bulk drug manufacturing business. Gufic Biosciences Limited was founded in 1970 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4426.47,
-  "pe_ratio": 60.3,
+  "market_cap_cr": 4410.93,
+  "pe_ratio": 61.86,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 66.31,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T00:55:51.042845",
-  "provider_reported_pb_ratio": 6.66,
-  "statements_retrieved_at": "2026-11-17T00:55:51.042845",
+  "retrieval_time": "2026-11-17T22:59:36.617622",
+  "provider_reported_pb_ratio": 6.63,
+  "statements_retrieved_at": "2026-11-17T22:59:36.617622",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Packaged Foods",
   "business_summary": "KRBL Limited manufactures and markets rice products in India and internationally. The company operates through Agri and Energy segments. The Agri segment offers agricultural commodities, such as rice, furfural, seed, bran, bran oil, etc. The Energy segment generates power from wind turbine, and husk based and solar power plants. This segment has a total wind power project capacity of 112.25 megawatts, solar power project capacity of 17 megawatts, and biomass project capacity of 21.49 megawatts. It offers its products under the India Gate, Nur Jahan, Zabreen, Uplife, Unity, Rameez, and other brands. The company was formerly known as Khushi Ram Behari Lal Limited and changed its name to KRBL Limited in February 2000. The company was founded in 1889 and is based in Noida, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 9596.21,
-  "pe_ratio": 11.36,
+  "market_cap_cr": 9452.01,
+  "pe_ratio": 11.18,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 272.09,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T01:05:44.214100",
-  "provider_reported_pb_ratio": 1.54,
-  "statements_retrieved_at": "2026-11-17T01:05:44.214100",
+  "retrieval_time": "2026-11-17T23:07:32.205690",
+  "provider_reported_pb_ratio": 1.52,
+  "statements_retrieved_at": "2026-11-17T23:07:32.205690",
   "retained_fields": []
 }

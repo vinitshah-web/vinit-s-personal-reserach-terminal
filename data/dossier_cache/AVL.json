@@ -5,8 +5,8 @@
   "industry": "Specialty Retail",
   "business_summary": "Aditya Vision Limited engages in the retail business of consumer durables and electronics in India. The company sells digital gadgets, such as mobile phones, laptops, and tablets; entertainment solutions, including televisions, sound bars, home theaters, cameras, and accessories; home appliances comprising air conditioners, air coolers, refrigerators, and washing machines. It also offers small appliances/cooking and kitchen appliances, including chimneys, air fryers, soup makers, cooktops, and dishwashers, as well as mobility and IT products. Aditya Vision Limited was incorporated in 1999 and is headquartered in Patna, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 7349.25,
-  "pe_ratio": 52.74,
+  "market_cap_cr": 7234.31,
+  "pe_ratio": 52.11,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 42.67,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T00:38:13.246116",
-  "provider_reported_pb_ratio": 13.34,
-  "statements_retrieved_at": "2026-11-17T00:38:13.246116",
+  "retrieval_time": "2026-11-17T22:45:18.194145",
+  "provider_reported_pb_ratio": 13.13,
+  "statements_retrieved_at": "2026-11-17T22:45:18.194145",
   "retained_fields": []
 }

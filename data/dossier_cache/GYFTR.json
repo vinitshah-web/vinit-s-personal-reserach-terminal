@@ -5,14 +5,14 @@
   "industry": "Specialty Business Services",
   "business_summary": "Gyftr Limited operates a digital gift card and instant voucher platform in India. The company offers products, such as digital gift vouchers across categories, including, dining, e-commerce, electronics, entertainment, fashion, gaming, gifting, home needs, travel, and wellness. The company was formerly known as LKP Finance Limited ad changed its name to Gyftr Limited in April 2026. Gyftr Limited was incorporated in 1984 and is based in Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1721.81,
-  "pe_ratio": 70.05,
+  "market_cap_cr": 1749.15,
+  "pe_ratio": 71.17,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 63.17,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 7.6808,
-  "fifty_two_week_high": 228.0,
+  "fifty_two_week_high": 233.99,
   "fifty_two_week_low": 139.69,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T00:56:08.568001",
-  "provider_reported_pb_ratio": 3.55,
-  "statements_retrieved_at": "2026-11-17T00:56:08.568001",
+  "retrieval_time": "2026-11-17T22:59:50.825733",
+  "provider_reported_pb_ratio": 3.6,
+  "statements_retrieved_at": "2026-11-17T22:59:50.825733",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "K.P.R. Mill Limited operates as an integrated apparel manufacturing company in India and internationally. It operates through three segments: Textile, Sugar, and Others. The company offers textile products, such as compact, cotton combed, carded, polyester cotton, viscose, grindel yarn, red label yarn, colour melange, slub yarn, cotton, poly cotton, melange, BCI, organic, and CMIA REEL yarns; knitted cotton fabrics and readymade knitted apparel; and readymade garments comprising casual, sports, active, sleep, and work wear for men, women, and children. It also produces sugar; ethanol; green energy through co-gen power; and wind power; and acts as a dealer for cars. The company offers its products under FASO brand name. K.P.R. Mill Limited was founded in 1984 and is based in Coimbatore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 41479.48,
-  "pe_ratio": 39.82,
+  "market_cap_cr": 41688.42,
+  "pe_ratio": 40.02,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 181.79,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T01:05:43.105881",
-  "provider_reported_pb_ratio": 6.66,
-  "statements_retrieved_at": "2026-11-17T01:05:43.105881",
+  "retrieval_time": "2026-11-17T23:07:31.068855",
+  "provider_reported_pb_ratio": 6.7,
+  "statements_retrieved_at": "2026-11-17T23:07:31.068855",
   "retained_fields": []
 }

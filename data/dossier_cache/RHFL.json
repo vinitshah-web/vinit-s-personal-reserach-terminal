@@ -5,14 +5,14 @@
   "industry": "Mortgage Finance",
   "business_summary": "Reliance Home Finance Limited engages in the housing finance business in India. The company offers a range of loans, such as home and affordable housing loans, loans against properties, and construction finance loans. It also provides property services. Reliance Home Finance Limited was incorporated in 2008 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 76.61,
-  "pe_ratio": 3.27,
+  "market_cap_cr": 75.63,
+  "pe_ratio": 3.1,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": -0.77,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 48.5059,
-  "fifty_two_week_high": 3.52,
+  "fifty_two_week_high": 3.36,
   "fifty_two_week_low": 1.11,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T01:24:13.396309",
-  "provider_reported_pb_ratio": -2.04,
-  "statements_retrieved_at": "2026-11-17T01:24:13.396309",
+  "retrieval_time": "2026-11-17T23:21:54.904469",
+  "provider_reported_pb_ratio": -2.01,
+  "statements_retrieved_at": "2026-11-17T23:21:54.904469",
   "retained_fields": []
 }

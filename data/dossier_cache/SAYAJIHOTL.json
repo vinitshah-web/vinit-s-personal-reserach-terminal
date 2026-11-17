@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T01:27:03.364437",
+  "retrieval_time": "2026-11-17T23:24:10.110821",
   "provider_reported_pb_ratio": 3.41,
-  "statements_retrieved_at": "2026-11-17T01:27:03.364437",
+  "statements_retrieved_at": "2026-11-17T23:24:10.110821",
   "retained_fields": []
 }

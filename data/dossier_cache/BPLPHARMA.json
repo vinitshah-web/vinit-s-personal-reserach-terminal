@@ -5,7 +5,7 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Bharat Parenterals Limited engages in the research, development, manufacturing, marketing, sourcing, and distribution of pharmaceutical products in India and internationally. The company provides antibiotics, cardiovascular and central nervous system, antifungal, antimalarial, gastrointestinal tract/alimentary systems, analgesics, anaesthetics, quinolones, erectile dysfunction medicines, nutritional supplements, steroids and hormones, and other drugs. It also engages in manufacturing general products in capsules, tablets, ointment and creams, injections, oral liquids, and powder sachets forms; and beta lactum and cephalosporin products in capsules, tablets, dry syrup, and powder for injection forms. In addition, it offers research, development and manufacture of pharmaceutical formula ons, including sterile injectable products, oral liquid formula ons, prefilled syringes, other specialty, and eye drops. Bharat Parenterals Limited was incorporated in 1992 and is based in Vadodara, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1525.6,
+  "market_cap_cr": 1521.75,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T00:41:53.222275",
-  "provider_reported_pb_ratio": 3.66,
-  "statements_retrieved_at": "2026-11-17T00:41:53.222275",
+  "retrieval_time": "2026-11-17T22:48:16.146653",
+  "provider_reported_pb_ratio": 3.65,
+  "statements_retrieved_at": "2026-11-17T22:48:16.146653",
   "retained_fields": []
 }

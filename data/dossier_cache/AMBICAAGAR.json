@@ -5,14 +5,14 @@
   "industry": "Household & Personal Products",
   "business_summary": "Ambica Agarbathies Aroma & Industries Limited manufactures and sells incense sticks in India and internationally. The company operates through Agarbathies Division and Hotel Division segments. It offers Durbar Bathi, Amrutham, and Athjisaya Dhoop, as well as Dhoop and Sambrani, mosquito repellants, and Pooja products. The company is also involved in a portfolio of hotels in urban and leisure destinations; film production and distribution activities; wind power generation. In addition, it owns farmland with resort club house and health centre. The company was founded in 1946 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 39.28,
-  "pe_ratio": 11.55,
+  "market_cap_cr": 38.82,
+  "pe_ratio": 11.47,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 62.53,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.7177,
-  "fifty_two_week_high": 29.68,
+  "fifty_two_week_high": 28.8,
   "fifty_two_week_low": 20.0,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T00:34:56.533214",
-  "provider_reported_pb_ratio": 0.37,
-  "statements_retrieved_at": "2026-11-17T00:34:56.533214",
+  "retrieval_time": "2026-11-17T22:42:41.257494",
+  "provider_reported_pb_ratio": 0.36,
+  "statements_retrieved_at": "2026-11-17T22:42:41.257494",
   "retained_fields": []
 }

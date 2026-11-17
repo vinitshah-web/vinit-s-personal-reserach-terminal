@@ -5,8 +5,8 @@
   "industry": "Specialty Business Services",
   "business_summary": "Bluspring Enterprises Limited provides integrated facility management, security, food catering, telecom network, and client asset management services in India, Singapore, and internationally. It offers soft and hard services, pest control and landscaping, on-site and central kitchen, and event catering services. It also provides telecom and industrial services, such as installation and commissioning, digital consulting, network deployment, architecture and assurance, and tower infra management; and security services comprising manned guarding, electronic surveillance, background verification and training, and other services, as well as catering services. In addition, the company operates Foundit, an AI-powered talent and recruitment platform; and provision of candidate and recruiter services. Bluspring Enterprises Limited was incorporated in 2024 and is headquartered in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2354.22,
-  "pe_ratio": 81.57,
+  "market_cap_cr": 2299.49,
+  "pe_ratio": 61.76,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 49.52,
@@ -48,8 +48,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T00:41:26.675317",
-  "provider_reported_pb_ratio": 3.18,
-  "statements_retrieved_at": "2026-11-17T00:41:26.675317",
+  "retrieval_time": "2026-11-17T22:47:55.417610",
+  "provider_reported_pb_ratio": 3.11,
+  "statements_retrieved_at": "2026-11-17T22:47:55.417610",
   "retained_fields": []
 }

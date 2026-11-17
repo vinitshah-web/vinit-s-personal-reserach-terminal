@@ -5,14 +5,14 @@
   "industry": "Real Estate - Diversified",
   "business_summary": "Unitech Limited together with its subsidiaries, engages in the real estate development and related activities in India. It is also involved in property management, hospitality, and investment businesses, as well as construction and allied services. The company was incorporated in 1971 and is headquartered in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 994.19,
+  "market_cap_cr": 1009.89,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": -40.61,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 261.6301,
-  "fifty_two_week_high": 6.8,
+  "fifty_two_week_high": 6.71,
   "fifty_two_week_low": 3.1,
   "financial_statements": [
     {
@@ -93,13 +93,11 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T01:38:52.179232",
-  "provider_reported_pb_ratio": -0.09,
-  "statements_retrieved_at": "2026-11-17T01:38:52.179232",
-  "previous_retrieval_time": "2026-11-17T00:24:22.008839",
+  "retrieval_time": "2026-11-17T23:33:24.073755",
+  "provider_reported_pb_ratio": -0.1,
+  "statements_retrieved_at": "2026-11-17T23:33:24.073755",
+  "previous_retrieval_time": "2026-11-17T01:38:52.179232",
   "retained_fields": [
-    "market_cap_cr",
-    "shares_outstanding_cr",
     "previous_retrieval_time"
   ]
 }

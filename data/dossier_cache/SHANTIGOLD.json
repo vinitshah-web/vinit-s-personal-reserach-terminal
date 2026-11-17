@@ -5,8 +5,8 @@
   "industry": "Luxury Goods",
   "business_summary": "Shanti Gold International Limited engages in the design, development, manufacture, sale, and wholesale of gold and silver jewelry in India and internationally. The company offers bangles, rings, necklaces, chokers, harams, pendants, chand balis, jhumkas, jewelry sets, and other occasion-specific jewelry for weddings, festive, and daily-wear applications. It serves jewelry retailers and wholesalers. The company exports its products to the United Arab Emirates. Shanti Gold International Limited was founded in 2003 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1955.32,
-  "pe_ratio": 10.16,
+  "market_cap_cr": 1999.06,
+  "pe_ratio": 10.39,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 105.04,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T01:28:46.059760",
-  "provider_reported_pb_ratio": 2.43,
-  "statements_retrieved_at": "2026-11-17T01:28:46.059760",
+  "retrieval_time": "2026-11-17T23:25:33.214533",
+  "provider_reported_pb_ratio": 2.48,
+  "statements_retrieved_at": "2026-11-17T23:25:33.214533",
   "retained_fields": []
 }

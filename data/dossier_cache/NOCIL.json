@@ -5,13 +5,13 @@
   "industry": "Specialty Chemicals",
   "business_summary": "NOCIL Limited engages in the manufacture and sale of rubber chemicals for tire, automotive, rubber goods, and industrial sectors in India and internationally. It provides rubber chemicals, including pilflex, pilnox, pilcure, and pilgard, as well as anti-degradants/anti-oxidants accelerators. The company also offers technical services. NOCIL Limited was incorporated in 1961 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2292.42,
-  "pe_ratio": 29.45,
+  "market_cap_cr": 2285.48,
+  "pe_ratio": 29.36,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 108.15,
   "dividend_yield_pct": 0.0,
-  "shares_outstanding_cr": 16.7025,
+  "shares_outstanding_cr": 16.7043,
   "fifty_two_week_high": 211.2,
   "fifty_two_week_low": 125.31,
   "financial_statements": [
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T01:16:35.581211",
+  "retrieval_time": "2026-11-17T23:15:45.604968",
   "provider_reported_pb_ratio": 1.27,
-  "statements_retrieved_at": "2026-11-17T01:16:35.581211",
+  "statements_retrieved_at": "2026-11-17T23:15:45.604968",
   "retained_fields": []
 }

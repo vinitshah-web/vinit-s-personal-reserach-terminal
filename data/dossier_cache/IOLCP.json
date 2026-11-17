@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "IOL Chemicals and Pharmaceuticals Limited manufactures and sells pharmaceutical and chemical products in India and internationally. It operates through two segments: Pharmaceuticals and Specialty Chemicals. The Chemical segment offers ethyl acetate, iso butyl benzene, acetyl chloride, mono chloro acetic acid, and acetic anhydride to the food processing, flexible packaging, pharmaceuticals, textiles, ink, paint, plasticizers and ploymers, and chemical intermediates industries. The Pharmaceutical segment provides active pharmaceutical ingredients, such as ibuprofen, metformin, fenofibrate, lamotrigine, clopidogrel bisulphate, pantoprazole sodium, ursodeoxycholic acid, losartan potassium, gabapentin, levetiracetam, and paracetamol. Its active pharmaceutical ingredients are used for the treatment of anti-inflammatory, analgesic and antipyretic, anti-diabetic, antiplatelet, anti-cholesterol, anti-convulsant, anti-epileptic, anti-hypertensive, and anti-cholelithic, as well as proton pump inhibitor. IOL Chemicals and Pharmaceuticals Limited was incorporated in 1986 and is based in Ludhiana, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 5671.25,
-  "pe_ratio": 27.92,
+  "market_cap_cr": 5598.74,
+  "pe_ratio": 27.56,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 65.7,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T01:01:06.302805",
-  "provider_reported_pb_ratio": 2.94,
-  "statements_retrieved_at": "2026-11-17T01:01:06.302805",
+  "retrieval_time": "2026-11-17T23:03:50.972796",
+  "provider_reported_pb_ratio": 2.9,
+  "statements_retrieved_at": "2026-11-17T23:03:50.972796",
   "retained_fields": []
 }

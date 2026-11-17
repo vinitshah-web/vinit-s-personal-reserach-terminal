@@ -5,7 +5,7 @@
   "industry": "Consumer Electronics",
   "business_summary": "BPL Limited, together with its subsidiaries, manufactures and sells consumer electronics durable products in India. It offers televisions, washing machines, TV speakers and soundbars, refrigerator, air-conditioner, wireless products, cables and cords, fan, computer networking cables, party speakers, bluetooth neckbands, and headphones and headsets; single, double, and multi-layer printed circuit boards; and medical technologies. The company sells its products under the BPL brand. The company was incorporated in 1963 and is based in Palakkad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 206.14,
+  "market_cap_cr": 205.45,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T00:41:51.898242",
-  "provider_reported_pb_ratio": 0.88,
-  "statements_retrieved_at": "2026-11-17T00:41:51.898242",
+  "retrieval_time": "2026-11-17T22:48:15.114931",
+  "provider_reported_pb_ratio": 0.87,
+  "statements_retrieved_at": "2026-11-17T22:48:15.114931",
   "retained_fields": []
 }

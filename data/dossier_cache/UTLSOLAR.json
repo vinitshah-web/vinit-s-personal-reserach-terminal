@@ -5,8 +5,8 @@
   "industry": "Solar",
   "business_summary": "Fujiyama Power Systems Limited manufactures and sells roof-top solar products and solutions under the UTL Solar and Fujiyama Solar brands in India and internationally. It offers solar power generation systems, such as solar panels, hybrid solar inverter, off and on- grid inverter, online solar power conditioning units, solar management unit, and lithium-ion and tubular lead acid batteries; power backup solutions comprising online uninterruptible power supplies and inverters; power supply solutions, including hybrid charge controller units; and electronic vehicle, marine, and engine start chargers. The company was founded in 1996 and is based in Greater Noida, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 10576.19,
-  "pe_ratio": 42.12,
+  "market_cap_cr": 9943.12,
+  "pe_ratio": 39.6,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 47.77,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T01:39:15.487415",
-  "provider_reported_pb_ratio": 7.2,
-  "statements_retrieved_at": "2026-11-17T01:39:15.487415",
+  "retrieval_time": "2026-11-17T23:33:42.464857",
+  "provider_reported_pb_ratio": 6.77,
+  "statements_retrieved_at": "2026-11-17T23:33:42.464857",
   "retained_fields": []
 }

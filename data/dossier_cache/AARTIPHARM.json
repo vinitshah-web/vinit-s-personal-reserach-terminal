@@ -5,14 +5,14 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Aarti Pharmalabs Limited, together with its subsidiaries, manufactures and sells active pharmaceutical ingredients, pharmaceutical intermediates, and xanthine derivatives in India and internationally. The company offers active pharmaceutical ingredients for various therapeutic areas, such as cardiovascular, anti-asthmatic, anti-cancer, anti-coagulant, anti-diabetic, arthritis, central nervous system agent, skincare, overactive bladder, calcimimetic, decongestant, anti-thalassaemic, analgesic, ophthalmologic, antidepressant medications. It also provides contract development and manufacturing services for drug substance projects. In addition, the company offers intermediates, such as xanthine derivatives, including caffeine, theophylline anhydrous, aminophylline, etophylline, and theophylline; and acid and allied products, including sulphuric acid, sulphur trioxide, oil, dimethyl sulphate, diethyl sulphate, and sodium vinyl sulfonate. It serves pharmaceutical, nutraceutical, and beverage industries. The company was formerly known as Aarti Organics Limited. Aarti Pharmalabs Limited was incorporated in 2019 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 8947.83,
-  "pe_ratio": 34.88,
+  "market_cap_cr": 9212.16,
+  "pe_ratio": 35.91,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 234.28,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 9.068,
-  "fifty_two_week_high": 1023.8,
+  "fifty_two_week_high": 1047.25,
   "fifty_two_week_low": 585.0,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T00:31:44.526798",
-  "provider_reported_pb_ratio": 4.21,
-  "statements_retrieved_at": "2026-11-17T00:31:44.526798",
+  "retrieval_time": "2026-11-17T22:40:08.390338",
+  "provider_reported_pb_ratio": 4.34,
+  "statements_retrieved_at": "2026-11-17T22:40:08.390338",
   "retained_fields": []
 }

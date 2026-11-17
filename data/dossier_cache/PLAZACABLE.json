@@ -5,8 +5,8 @@
   "industry": "Electrical Equipment & Parts",
   "business_summary": "Plaza Wires Limited manufactures and sells electrical wires and allied products in India. The company offers electric fans, water heaters, switches and switchgears, poly vinyl chloride insulated electrical tape, and poly vinyl chloride conduit pipe and accessories, as well as wires and cables under the PLAZA CABLES, Action Wire, and PCG brand names. It also markets and sells LT aluminum cables and fast-moving electrical goods. The company was incorporated in 2006 and is headquartered in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 239.76,
-  "pe_ratio": 22.37,
+  "market_cap_cr": 232.89,
+  "pe_ratio": 21.73,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 29.61,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T01:20:10.940244",
-  "provider_reported_pb_ratio": 1.85,
-  "statements_retrieved_at": "2026-11-17T01:20:10.940244",
+  "retrieval_time": "2026-11-17T23:18:40.027147",
+  "provider_reported_pb_ratio": 1.8,
+  "statements_retrieved_at": "2026-11-17T23:18:40.027147",
   "retained_fields": []
 }

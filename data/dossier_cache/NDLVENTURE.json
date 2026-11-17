@@ -5,8 +5,8 @@
   "industry": "Entertainment",
   "business_summary": "NDL Ventures Limited, through its subsidiaries, engages in real estate business in India. The company was formerly known as Nxtdigital Limited and changed its name to NDL Ventures Limited in April 2023. NDL Ventures Limited was incorporated in 1985 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 371.3,
-  "pe_ratio": 479.43,
+  "market_cap_cr": 361.23,
+  "pe_ratio": 466.43,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 17.61,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T01:15:02.183849",
-  "provider_reported_pb_ratio": 6.26,
-  "statements_retrieved_at": "2026-11-17T01:15:02.183849",
+  "retrieval_time": "2026-11-17T23:14:30.141441",
+  "provider_reported_pb_ratio": 6.09,
+  "statements_retrieved_at": "2026-11-17T23:14:30.141441",
   "retained_fields": []
 }

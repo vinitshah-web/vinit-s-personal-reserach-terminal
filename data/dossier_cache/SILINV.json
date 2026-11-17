@@ -5,14 +5,14 @@
   "industry": "Asset Management",
   "business_summary": "SIL Investments Limited, a non-banking financial company, engages in the business of investment and lending activities in India. It invests in the shares, securities, debts, etc. The company was formerly known as Sutlej Industries Limited and changed its name to SIL Investments Limited in March 2007. SIL Investments Limited was incorporated in 1934 and is based in Bhawanimandi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 465.85,
-  "pe_ratio": 7.85,
+  "market_cap_cr": 466.22,
+  "pe_ratio": 7.86,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 2540.75,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.0596,
-  "fifty_two_week_high": 594.0,
+  "fifty_two_week_high": 589.8,
   "fifty_two_week_low": 380.0,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T01:30:17.681296",
+  "retrieval_time": "2026-11-17T23:26:45.247658",
   "provider_reported_pb_ratio": 0.17,
-  "statements_retrieved_at": "2026-11-17T01:30:17.681296",
+  "statements_retrieved_at": "2026-11-17T23:26:45.247658",
   "retained_fields": []
 }

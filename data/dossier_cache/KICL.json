@@ -5,8 +5,8 @@
   "industry": "Asset Management",
   "business_summary": "Kalyani Investment Company Limited, an investment company, engages in making investments in group companies in India. It invests in companies, including forging, steel, power generation, chemicals, and banking sectors. The company was incorporated in 2009 and is based in Pune, India. Kalyani Investment Company Limited is a subsidiary of Sundaram Trading and Investment Private Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 1940.38,
-  "pe_ratio": 35.01,
+  "market_cap_cr": 1926.37,
+  "pe_ratio": 34.76,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 29478.27,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T01:04:46.778233",
+  "retrieval_time": "2026-11-17T23:06:45.326711",
   "provider_reported_pb_ratio": 0.15,
-  "statements_retrieved_at": "2026-11-17T01:04:46.778233",
+  "statements_retrieved_at": "2026-11-17T23:06:45.326711",
   "retained_fields": []
 }

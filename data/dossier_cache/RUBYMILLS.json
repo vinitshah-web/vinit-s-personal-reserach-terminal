@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "The Ruby Mills Limited engages in the manufacture of textile products in India. The company operates in two segments, Textiles, and Real Estate and Related. It offers pure and blended fabrics, including cotton, polyester, viscose, modal, lyocell, linen, Bemberg, ramie, rayon, Lycra, and their blends under the Ruby, Lukas, Hitline, and Label R brand names; basic, LDPE, and HDPE micro dot fusible and non-fusible interlining products, as well as interlining pre-cuts and fragranced interlining products; and ready-to-wears garments, such as uniforms for healthcare institutions, corporates, educational institutions, and defence forces, as well as workwear and fashion apparels. It also engages in the business of renewable power generation; and owning, operating and maintaining water treatment plants. The company is also involved in the development of real estate properties. It also exports its products. The company was incorporated in 1917 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1499.78,
-  "pe_ratio": 34.71,
+  "market_cap_cr": 1516.17,
+  "pe_ratio": 35.09,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 201.66,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T01:25:20.974870",
-  "provider_reported_pb_ratio": 2.22,
-  "statements_retrieved_at": "2026-11-17T01:25:20.974870",
+  "retrieval_time": "2026-11-17T23:22:49.392038",
+  "provider_reported_pb_ratio": 2.25,
+  "statements_retrieved_at": "2026-11-17T23:22:49.392038",
   "retained_fields": []
 }

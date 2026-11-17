@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Bharat Seats Limited manufactures and sells seating systems and moulded carpets and extruded components for the automotive and surface transport industries in India. It offers seats for four-wheeler, two-wheeler, and railway chair cars; carpets; roof and windshield modeling products; and two-wheeler frame parts. The company also offers NVH components like floor carpet, silencer dash inner, silencer dash outer, motor cover under, fender lining, wheel housing cover for passenger cars; and design & development of rear doors for passenger cars. The company was incorporated in 1986 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1286.14,
-  "pe_ratio": 24.95,
+  "market_cap_cr": 1317.48,
+  "pe_ratio": 25.55,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 39.56,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T00:40:38.834887",
-  "provider_reported_pb_ratio": 5.18,
-  "statements_retrieved_at": "2026-11-17T00:40:38.834887",
+  "retrieval_time": "2026-11-17T22:47:15.041630",
+  "provider_reported_pb_ratio": 5.3,
+  "statements_retrieved_at": "2026-11-17T22:47:15.041630",
   "retained_fields": []
 }

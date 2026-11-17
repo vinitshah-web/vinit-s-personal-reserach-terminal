@@ -5,7 +5,7 @@
   "industry": "Lodging",
   "business_summary": "Kamat Hotels (India) Limited, together with its subsidiaries, engages in the hospitality business in India. The company operates hotels and resorts under The Orchid, Fort JadhavGadh, Lotus Resorts, Toyam by Orchid, Mahodadhi Palace, and IRA by Orchid brands. It also operates restaurants. Kamat Hotels (India) Limited was founded in 1958 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 658.88,
+  "market_cap_cr": 659.0,
   "pe_ratio": 13.3,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T01:03:48.906169",
+  "retrieval_time": "2026-11-17T23:06:01.155517",
   "provider_reported_pb_ratio": 1.99,
-  "statements_retrieved_at": "2026-11-17T01:03:48.906169",
+  "statements_retrieved_at": "2026-11-17T23:06:01.155517",
   "retained_fields": []
 }

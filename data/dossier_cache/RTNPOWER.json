@@ -5,8 +5,8 @@
   "industry": "Utilities - Independent Power Producers",
   "business_summary": "RattanIndia Power Limited, together with its subsidiary, Poena Power Development Limited, engages in power generation, distribution, trading and transmission, and other ancillary and incidental activities in India. It generates electricity through coal-based thermal power plants with an installed capacity of 2,700 MW located in Amravati and Nasik cities. The company also trades electricity in the open market. The company was formerly known as Indiabulls Power Limited and changed its name to RattanIndia Power Limited in October 2014. RattanIndia Power Limited was incorporated in 2007 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3657.04,
-  "pe_ratio": 20.03,
+  "market_cap_cr": 3624.82,
+  "pe_ratio": 19.85,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 8.61,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T01:25:16.025163",
-  "provider_reported_pb_ratio": 0.79,
-  "statements_retrieved_at": "2026-11-17T01:25:16.025163",
+  "retrieval_time": "2026-11-17T23:22:45.091058",
+  "provider_reported_pb_ratio": 0.78,
+  "statements_retrieved_at": "2026-11-17T23:22:45.091058",
   "retained_fields": []
 }

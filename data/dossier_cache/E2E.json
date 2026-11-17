@@ -5,13 +5,13 @@
   "industry": "Software - Infrastructure",
   "business_summary": "E2E Networks Limited provides cloud computing services in India. The company offers smart dedicated servers, graphics processing units, object storage, content delivery network service, and continuous data protection back up services. It also provides cloud GPUs, linux cloud, infiniband, storage and cloud solutions, containers and serverless, AI labs as a service, and sovereign cloud platform, as well as TIR, an GenAI Platform; and compute and infrastructure services. E2E Networks Limited was incorporated in 2009 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 10931.39,
-  "pe_ratio": 94.84,
+  "market_cap_cr": 10397.85,
+  "pe_ratio": 90.15,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 87.84,
   "dividend_yield_pct": 0.0,
-  "shares_outstanding_cr": 20.5458,
+  "shares_outstanding_cr": 20.5593,
   "fifty_two_week_high": 765.0,
   "fifty_two_week_low": 183.36,
   "financial_statements": [
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T00:48:24.268036",
-  "provider_reported_pb_ratio": 6.06,
-  "statements_retrieved_at": "2026-11-17T00:48:24.268036",
+  "retrieval_time": "2026-11-17T22:53:35.550996",
+  "provider_reported_pb_ratio": 5.76,
+  "statements_retrieved_at": "2026-11-17T22:53:35.550996",
   "retained_fields": []
 }

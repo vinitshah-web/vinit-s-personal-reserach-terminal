@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "The Sandur Manganese & Iron Ores Limited, together with its subsidiary, engages in the mining of manganese and iron ores in Deogiri village of Ballari District, Karnataka. It operates through three segments: Mining, Ferroalloys, and Coke and Energy. The company also manufactures and sells steel, ferroalloys and coke. In addition, it generates power through a 32-megawatt of cleaner by-product energy. The company serves steel manufacturers and ferroalloy producers. It also exports its products. The company was incorporated in 1954 and is based in Bengaluru, India. The Sandur Manganese & Iron Ores Limited is a subsidiary of Skand Private Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 8933.63,
-  "pe_ratio": 10.65,
+  "market_cap_cr": 8754.75,
+  "pe_ratio": 10.43,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 76.37,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T01:26:31.227454",
-  "provider_reported_pb_ratio": 2.41,
-  "statements_retrieved_at": "2026-11-17T01:26:31.227454",
+  "retrieval_time": "2026-11-17T23:23:44.124583",
+  "provider_reported_pb_ratio": 2.36,
+  "statements_retrieved_at": "2026-11-17T23:23:44.124583",
   "retained_fields": []
 }

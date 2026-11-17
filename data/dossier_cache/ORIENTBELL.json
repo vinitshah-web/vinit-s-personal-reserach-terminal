@@ -5,8 +5,8 @@
   "industry": "Building Products & Equipment",
   "business_summary": "Orient Bell Limited manufactures, trades in, and sells ceramic, wall, and floor tiles in India and internationally. The company also offers bathroom, kitchen, room, marble, vitrified, flexi, and subway tiles. It sells its products through channel partners. The company was incorporated in 1977 and is headquartered in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 583.09,
-  "pe_ratio": 27.62,
+  "market_cap_cr": 567.16,
+  "pe_ratio": 26.87,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 236.87,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T01:18:01.675010",
-  "provider_reported_pb_ratio": 1.67,
-  "statements_retrieved_at": "2026-11-17T01:18:01.675010",
+  "retrieval_time": "2026-11-17T23:16:55.729201",
+  "provider_reported_pb_ratio": 1.62,
+  "statements_retrieved_at": "2026-11-17T23:16:55.729201",
   "retained_fields": []
 }

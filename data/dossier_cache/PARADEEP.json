@@ -5,8 +5,8 @@
   "industry": "Agricultural Inputs",
   "business_summary": "Paradeep Phosphates Limited manufactures, trades, distributes, and sells urea and complex fertilizers in India. The company offers di-ammonium phosphate; nitrogen, phosphorus, and potassium fertilizers; muriate of potash; triple super phosphate; zypmite; phospho-gypsum; sulphuric acid; hydrofluorosilicic acid; and ammonia; as well as sulphur and zinc. It sells its products through dealers and retailers under the Navratna and Jai Kisaan and Mangala brand names. The company was incorporated in 1981 and is based in Bengaluru, India. Paradeep Phosphates Limited operates as a subsidiary of Zuari Maroc Phosphates Private Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 14209.04,
-  "pe_ratio": 16.71,
+  "market_cap_cr": 14686.75,
+  "pe_ratio": 17.27,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 68.49,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T01:18:47.080616",
-  "provider_reported_pb_ratio": 2.0,
-  "statements_retrieved_at": "2026-11-17T01:18:47.080616",
+  "retrieval_time": "2026-11-17T23:17:33.851942",
+  "provider_reported_pb_ratio": 2.06,
+  "statements_retrieved_at": "2026-11-17T23:17:33.851942",
   "retained_fields": []
 }

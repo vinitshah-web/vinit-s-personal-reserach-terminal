@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "Hariom Pipe Industries Limited manufactures and sells iron and steel products in India. It offers mild steel pipes, tubes, and billets; hot and cold rolled square, rectangular, and circular pipes and tubes; hot dipped galvanized pipes; pre galvanized pipes; and cold rolled full hard, galvanized, hot rolled pickled and oiled, and cold rolled closed annealed slit coils. The company also provides scaffolding solutions, such as cuplocks, telescopic props/adjustable props/jacks, spans/acro spans/telescopic spans/adjustable spans, H frame systems, fixed base plates, adjustable base plates, stirrup head/universal jacks, spigot/joint pins, jalli/plank/platform products, and clamps/ couplers. It offers its products for various applications, including steel manufacturing, rolling and downstream steelmaking, industrial applications, pipes and structural steel products, engineering applications, structural fabrications, automotive, furniture and fabrication, plumbing system, railways and infrastructure, and irrigation networks. Hariom Pipe Industries Limited was incorporated in 2007 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1117.3,
-  "pe_ratio": 13.59,
+  "market_cap_cr": 1107.54,
+  "pe_ratio": 13.47,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 226.41,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T00:56:20.739160",
-  "provider_reported_pb_ratio": 1.59,
-  "statements_retrieved_at": "2026-11-17T00:56:20.739160",
+  "retrieval_time": "2026-11-17T23:00:01.277637",
+  "provider_reported_pb_ratio": 1.58,
+  "statements_retrieved_at": "2026-11-17T23:00:01.277637",
   "retained_fields": []
 }
