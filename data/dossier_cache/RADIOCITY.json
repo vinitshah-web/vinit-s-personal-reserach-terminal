@@ -5,7 +5,7 @@
   "industry": "Broadcasting",
   "business_summary": "Music Broadcast Limited engages in the operating of FM radio stations under the Radio City brand name in India. It operates radiocity.in website, and 39 radio stations. The company was incorporated in 1999 and is based in Mumbai, India. Music Broadcast Limited is a subsidiary of Jagran Prakashan Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 208.0,
+  "market_cap_cr": 202.37,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-13T23:06:18.792220",
-  "provider_reported_pb_ratio": 0.45,
-  "statements_retrieved_at": "2026-11-13T23:06:18.792220",
+  "retrieval_time": "2026-11-17T00:11:38.689230",
+  "provider_reported_pb_ratio": 0.44,
+  "statements_retrieved_at": "2026-11-17T00:11:38.689230",
   "retained_fields": []
 }

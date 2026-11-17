@@ -5,14 +5,14 @@
   "industry": "Agricultural Inputs",
   "business_summary": "Madhya Bharat Agro Products Limited manufactures and sells phosphatic fertilizers and industrial chemicals in India. The company offers single super phosphate (SSP); nitrogen, phosphate, and potassium (NPK) and di-ammonium phosphate (DAP) complex fertilizers; beneficiated rock phosphate; secondary nutrients, including casma products; supplements and organic products; sulphuric and phosphoric acid; granulated, boronated, zincated boronated magnesium, ZIBO, zincated, and urea SSP; muriate of potash and zincated APS; and sulphur bentonite, potash, and PROM products. It sells its products under the Bharat and Annadata brands. The company was incorporated in 1997 and is based in Bhilwara, India. Madhya Bharat Agro Products Limited is a subsidiary of Ostwal Phoschem (India) Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 8601.9,
-  "pe_ratio": 55.62,
+  "market_cap_cr": 8512.08,
+  "pe_ratio": 55.04,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 12.55,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 43.8135,
-  "fifty_two_week_high": 202.63,
+  "fifty_two_week_high": 209.0,
   "fifty_two_week_low": 76.56,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-13T22:53:50.424356",
-  "provider_reported_pb_ratio": 15.65,
-  "statements_retrieved_at": "2026-11-13T22:53:50.424356",
+  "retrieval_time": "2026-11-17T00:02:03.511832",
+  "provider_reported_pb_ratio": 15.49,
+  "statements_retrieved_at": "2026-11-17T00:02:03.511832",
   "retained_fields": []
 }

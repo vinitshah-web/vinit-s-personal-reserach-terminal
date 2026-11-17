@@ -5,14 +5,14 @@
   "industry": "Capital Markets",
   "business_summary": "Blue Chip India Limited provides inter corporate deposits in India. It also invests in equity and preference shares, mutual and alternative investment funds, corporate deposits and loans to corporate bodies and individuals. Blue Chip India Limited was incorporated in 1993 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 8.79,
+  "market_cap_cr": 8.96,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
-  "book_value": -0.15,
+  "book_value": -0.12,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 5.5304,
-  "fifty_two_week_high": 3.56,
+  "fifty_two_week_high": 3.48,
   "fifty_two_week_low": 1.43,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-13T22:23:35.358179",
-  "provider_reported_pb_ratio": -10.26,
-  "statements_retrieved_at": "2026-11-13T22:23:35.358179",
+  "retrieval_time": "2026-11-16T23:38:55.899701",
+  "provider_reported_pb_ratio": -13.06,
+  "statements_retrieved_at": "2026-11-16T23:38:55.899701",
   "retained_fields": []
 }

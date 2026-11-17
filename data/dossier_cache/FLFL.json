@@ -13,7 +13,7 @@
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 20.1775,
   "fifty_two_week_high": 1.92,
-  "fifty_two_week_low": 0.69,
+  "fifty_two_week_low": 0.68,
   "financial_statements": [
     {
       "period": "FY22 (2022)",
@@ -33,8 +33,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-13T22:34:36.341312",
+  "retrieval_time": "2026-11-16T23:47:20.487535",
   "provider_reported_pb_ratio": -0.01,
-  "statements_retrieved_at": "2026-11-13T22:34:36.341312",
+  "statements_retrieved_at": "2026-11-16T23:47:20.487535",
   "retained_fields": []
 }

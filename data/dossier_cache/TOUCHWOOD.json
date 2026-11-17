@@ -5,8 +5,8 @@
   "industry": "Advertising Agencies",
   "business_summary": "Touchwood Entertainment Limited engages in the provision of wedding and event management services in India. It offers wedding planning and destination, weddings event conceptualization and execution, decor and thematic design, stage show production, venue and property rental, exhibition stall design and setup, corporate events and brand services to manufacturing, real estate, media and entertainment, FMCG, hospitality, education, and professional services industries. Touchwood Entertainment Limited was incorporated in 1997 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 64.12,
-  "pe_ratio": 15.81,
+  "market_cap_cr": 61.64,
+  "pe_ratio": 15.2,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 40.97,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-13T23:21:24.180811",
-  "provider_reported_pb_ratio": 1.41,
-  "statements_retrieved_at": "2026-11-13T23:21:24.180811",
+  "retrieval_time": "2026-11-17T00:23:10.595340",
+  "provider_reported_pb_ratio": 1.36,
+  "statements_retrieved_at": "2026-11-17T00:23:10.595340",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Vinyl Chemicals (India) Limited engages in the trading of chemicals in India. The company trades in vinyl acetate monomer. The company was incorporated in 1986 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 457.27,
-  "pe_ratio": 16.82,
+  "market_cap_cr": 454.47,
+  "pe_ratio": 16.71,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 74.06,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-13T23:24:53.572735",
-  "provider_reported_pb_ratio": 3.37,
-  "statements_retrieved_at": "2026-11-13T23:24:53.572735",
+  "retrieval_time": "2026-11-17T00:25:51.286076",
+  "provider_reported_pb_ratio": 3.35,
+  "statements_retrieved_at": "2026-11-17T00:25:51.286076",
   "retained_fields": []
 }

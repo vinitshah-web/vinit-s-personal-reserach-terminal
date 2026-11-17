@@ -3,9 +3,9 @@
   "company_name": "OMAXE LIMITED",
   "sector": "Real Estate",
   "industry": "Real Estate - Development",
-  "business_summary": "Omaxe Limited engages in real estate development activities in India. Its portfolio includes residential, commercial, retail and integrated township projects, as well as group housing, SCOs, shopping malls, and hotels. The company was formerly known as Omaxe Construction Limited and changed its name to Omaxe Limited in June 2006. Omaxe Limited was founded in 1987 and is based in New Delhi, India. Omaxe Limited operates as a subsidiary of Guild Builders Private Limited.",
+  "business_summary": "Omaxe Limited engages in real estate development activities in India. Its portfolio includes residential, commercial, retail and integrated township projects, as well as group housing, SCOs, shopping malls, and hotels. The company was formerly known as Omaxe Construction Limited and changed its name to Omaxe Limited in June 2006. Omaxe Limited was founded in 1987 and is based in New Delhi, India. Omaxe Limited is a subsidiary of Guild Builders Private Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 1842.05,
+  "market_cap_cr": 1788.79,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-13T23:00:49.387196",
-  "provider_reported_pb_ratio": -1.99,
-  "statements_retrieved_at": "2026-11-13T23:00:49.387196",
+  "retrieval_time": "2026-11-17T00:07:26.679485",
+  "provider_reported_pb_ratio": -1.93,
+  "statements_retrieved_at": "2026-11-17T00:07:26.679485",
   "retained_fields": []
 }

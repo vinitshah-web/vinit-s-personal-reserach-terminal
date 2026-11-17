@@ -5,14 +5,14 @@
   "industry": "Credit Services",
   "business_summary": "Finkurve Financial Services Limited, a non-banking financial company, provides loans and financial services in India. It offers personal loans; loans against gold jewelry; and other secured and unsecured lending, as well as inter-corporate loans. The company was formerly known as Sanjay Leasing Limited and changed its name to Finkurve Financial Services Limited in March 2012. Finkurve Financial Services Limited was incorporated in 1984 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 985.63,
-  "pe_ratio": 34.14,
+  "market_cap_cr": 945.69,
+  "pe_ratio": 32.76,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 24.63,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 14.0144,
-  "fifty_two_week_high": 119.7,
+  "fifty_two_week_high": 114.5,
   "fifty_two_week_low": 48.02,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-13T22:34:24.573207",
-  "provider_reported_pb_ratio": 2.86,
-  "statements_retrieved_at": "2026-11-13T22:34:24.573207",
+  "retrieval_time": "2026-11-16T23:47:11.571491",
+  "provider_reported_pb_ratio": 2.74,
+  "statements_retrieved_at": "2026-11-16T23:47:11.571491",
   "retained_fields": []
 }

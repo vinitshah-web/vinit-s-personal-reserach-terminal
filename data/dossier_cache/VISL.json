@@ -5,7 +5,7 @@
   "industry": "Steel",
   "business_summary": "Vedanta Iron and Steel Limited engages in the exploration, mining, and processing of iron ore in India and West Africa. It offers iron ores, TMT bars, ductile iron pipes, wire rods, steel billets, metallurgical coke, pig iron, and cement. The company was founded in 1954 and is based in Panjim, India. Vedanta Iron and Steel Limited operates as a subsidiary of Vedanta Resources Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 10283.55,
+  "market_cap_cr": 10135.19,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -48,8 +48,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-13T23:25:13.708452",
-  "provider_reported_pb_ratio": 1.75,
-  "statements_retrieved_at": "2026-11-13T23:25:13.708452",
+  "retrieval_time": "2026-11-17T00:26:06.149788",
+  "provider_reported_pb_ratio": 1.73,
+  "statements_retrieved_at": "2026-11-17T00:26:06.149788",
   "retained_fields": []
 }

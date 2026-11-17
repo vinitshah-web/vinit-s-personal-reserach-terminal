@@ -5,14 +5,14 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "The Anup Engineering Limited, together with its subsidiaries, provides engineering products in India and internationally. The company is also involved in manufacturing and fabrication of process equipment. In addition, it offers static process equipment, including heat exchangers, reactors, pressure vessels, columns and towers, and custom fabrication products; technology products, such as helix changers, EMBaffle heat exchangers, and polymerization reactors; and industrial centrifuges, as well as pre-fabrication engineering services for static process equipment. The company serves oil and gas, petrochemicals, LNG, fertilisers, chemicals, power, hydrogen, water, paper and pulp, aerospace, and other industries. It also exports its products. The company was formerly known as Anveshan Heavy Engineering Limited and changed its name to The Anup Engineering Limited in January 2019. The Anup Engineering Limited was founded in 1962 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3455.43,
-  "pe_ratio": 40.88,
+  "market_cap_cr": 3628.5,
+  "pe_ratio": 42.92,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
-  "book_value": 344.96,
+  "book_value": 338.64,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 2.0031,
-  "fifty_two_week_high": 2479.9,
+  "fifty_two_week_high": 2459.3,
   "fifty_two_week_low": 1262.3,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-13T22:17:44.346413",
-  "provider_reported_pb_ratio": 5.0,
-  "statements_retrieved_at": "2026-11-13T22:17:44.346413",
+  "retrieval_time": "2026-11-16T23:34:22.745225",
+  "provider_reported_pb_ratio": 5.35,
+  "statements_retrieved_at": "2026-11-16T23:34:22.745225",
   "retained_fields": []
 }

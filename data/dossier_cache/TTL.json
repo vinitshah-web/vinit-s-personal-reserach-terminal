@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "T.T. Limited engages in the manufacture and sale of cotton, cotton yarn, and textile products in India. The company offers knitted and woven, and other fabrics; and organic and recycled cotton yarns. It also provides a range of casual, active, inner, and yoga wear products for men, women, and kids through retail stores and online; and food products. The company sells its products under the TT brand name. It also exports its products. T.T. Limited was founded in 1947 and is headquartered in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 176.68,
-  "pe_ratio": 342.0,
+  "market_cap_cr": 176.94,
+  "pe_ratio": 342.5,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 4.84,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-13T23:22:00.906674",
+  "retrieval_time": "2026-11-17T00:23:38.861306",
   "provider_reported_pb_ratio": 1.41,
-  "statements_retrieved_at": "2026-11-13T23:22:00.906674",
+  "statements_retrieved_at": "2026-11-17T00:23:38.861306",
   "retained_fields": []
 }

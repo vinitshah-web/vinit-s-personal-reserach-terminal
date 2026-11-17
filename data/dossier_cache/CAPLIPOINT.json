@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Caplin Point Laboratories Limited, together with its subsidiaries, engages in the development, production, marketing, and export of generic formulations and branded products in India. The company provides tablets, capsules, injections, ophthalmic, liquid orals, softgel, capsules, ointments, creams and gels, powder for injections, suppositories, ovules, pre-mix bag, inhalers, and sprays and IV infusion. It also provides dry and syrups, lyophilized vials, prefilled syringes, emulsion injection, ophthalmic droppers, sachets, liquid injectables, topicals, pre-filled syringes, and pre-mix bags. Caplin Point Laboratories Limited was incorporated in 1990 and is headquartered in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 18156.91,
-  "pe_ratio": 26.42,
+  "market_cap_cr": 17838.43,
+  "pe_ratio": 25.96,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 443.33,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-13T22:25:05.199184",
-  "provider_reported_pb_ratio": 5.39,
-  "statements_retrieved_at": "2026-11-13T22:25:05.199184",
+  "retrieval_time": "2026-11-16T23:40:05.166087",
+  "provider_reported_pb_ratio": 5.29,
+  "statements_retrieved_at": "2026-11-16T23:40:05.166087",
   "retained_fields": []
 }

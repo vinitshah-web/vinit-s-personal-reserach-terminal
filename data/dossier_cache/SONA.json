@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Sonaselection India Limited engages in the manufacturing and processing of textile fabrics in India. It offers cotton fabrics, cotton lycra fabrics, cotton blends, and polyester blends; and specialty finishes, including anti-microbial, Teflon, oil and water repellant, biomagical, enzyme, and bio-polishing. The company was founded in 1987 and is based in Bhilwara, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 687.29,
-  "pe_ratio": 20.19,
+  "market_cap_cr": 678.14,
+  "pe_ratio": 21.5,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 24.49,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-13T23:15:40.697238",
-  "provider_reported_pb_ratio": 4.94,
-  "statements_retrieved_at": "2026-11-13T23:15:40.697238",
+  "retrieval_time": "2026-11-17T00:18:48.141224",
+  "provider_reported_pb_ratio": 4.87,
+  "statements_retrieved_at": "2026-11-17T00:18:48.141224",
   "retained_fields": []
 }

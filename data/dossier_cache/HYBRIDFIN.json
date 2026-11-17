@@ -5,15 +5,15 @@
   "industry": "Capital Markets",
   "business_summary": "Hybrid Financial Services Limited, together with its subsidiaries, provides management consultancy services in India. The company offers debt recovery advice; and consultancy services in financial, secretarial, commercial, legal, direct and indirect taxation, other levies, statistical, accountancy, and other fields. It also engages in investment; share and stock broking; and depository participant and marketing of financial products. It serves telecom, and other sectors. The company was formerly known as Mafatlal Finance Company Limited and changed its name to Hybrid Financial Services Limited in 2008. Hybrid Financial Services Limited was incorporated in 1986 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 44.12,
-  "pe_ratio": 17.23,
+  "market_cap_cr": 41.89,
+  "pe_ratio": 16.36,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 16.9,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 2.9436,
   "fifty_two_week_high": 27.0,
-  "fifty_two_week_low": 14.5,
+  "fifty_two_week_low": 13.6,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-13T22:42:08.343099",
-  "provider_reported_pb_ratio": 0.89,
-  "statements_retrieved_at": "2026-11-13T22:42:08.343099",
+  "retrieval_time": "2026-11-16T23:53:04.978534",
+  "provider_reported_pb_ratio": 0.84,
+  "statements_retrieved_at": "2026-11-16T23:53:04.978534",
   "retained_fields": []
 }

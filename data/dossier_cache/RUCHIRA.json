@@ -5,14 +5,14 @@
   "industry": "Paper & Paper Products",
   "business_summary": "Ruchira Papers Limited manufactures and markets kraft paper, and writing and printing paper products in India and internationally. The company offers white writing and printing papers used for fabrication of spiral notebooks and writing materials; and colored papers used in the fabrication of spiral notebooks, wedding cards, disposable cups and bowls, shade cards, children's colouring books, and bill books; and kraft paper used for making corrugated boxes/cartons, carry bags, burger boxes, and other packaging requirements. It also provides copier paper. In addition, the company offers packaging solutions. It sells its products under Ruchira, Sitara, Kora, Mogra, Gehua, Mela, Baadal, Leher, Pahari, Rozaana, Tarang, Maati, Khadi, Chandan, Kansa, and Neroli brands. Ruchira Papers Limited was incorporated in 1980 and is based in Yamuna Nagar, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 296.69,
-  "pe_ratio": 8.91,
+  "market_cap_cr": 288.87,
+  "pe_ratio": 8.67,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
-  "book_value": 165.68,
+  "book_value": 165.87,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 2.9845,
-  "fifty_two_week_high": 134.01,
+  "fifty_two_week_high": 133.32,
   "fifty_two_week_low": 95.17,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-13T23:09:03.623512",
-  "provider_reported_pb_ratio": 0.6,
-  "statements_retrieved_at": "2026-11-13T23:09:03.623512",
+  "retrieval_time": "2026-11-17T00:13:46.555372",
+  "provider_reported_pb_ratio": 0.58,
+  "statements_retrieved_at": "2026-11-17T00:13:46.555372",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Luxury Goods",
   "business_summary": "Thangamayil Jewellery Limited operates a chain of retail jewelry stores in India. The company offers gold, diamond, silver, precious stones, and platinum jewelries, as well as silver articles and gold coins. It also involved in the manufacture and sale of jewelry, and other accessories and products. In addition, it offers gold saving schemes. The company provides its products through online. Thangamayil Jewellery Limited was founded in 1947 and is headquartered in Madurai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 13038.91,
-  "pe_ratio": 33.26,
+  "market_cap_cr": 12609.98,
+  "pe_ratio": 32.17,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 484.29,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-13T23:20:26.223966",
-  "provider_reported_pb_ratio": 8.66,
-  "statements_retrieved_at": "2026-11-13T23:20:26.223966",
+  "retrieval_time": "2026-11-17T00:22:26.041969",
+  "provider_reported_pb_ratio": 8.38,
+  "statements_retrieved_at": "2026-11-17T00:22:26.041969",
   "retained_fields": []
 }

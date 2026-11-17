@@ -5,8 +5,8 @@
   "industry": "Real Estate - Development",
   "business_summary": "Horizon Industrial Parks Limited engaged in the business of developing, operating, and maintaining industrial and warehousing parks in India. It offers industrial and logistic parks, fulfillment centers and industrial facilities, and in-city centers. The company also offers turnkey solutions, energy solutions, on-site staff accommodation and skill development centers, cold storage, and hospitality. It caters to the auto, engineering and aerospace, logistics and supply chain, FMCG and retail, packaging, e-commerce, energy, and chemicals industries. The company was incorporated in 2009 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 13607.3,
-  "pe_ratio": 90.77,
+  "market_cap_cr": 13696.67,
+  "pe_ratio": 91.37,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 31.89,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-13T22:41:45.852379",
-  "provider_reported_pb_ratio": 1.48,
-  "statements_retrieved_at": "2026-11-13T22:41:45.852379",
+  "retrieval_time": "2026-11-16T23:52:49.680109",
+  "provider_reported_pb_ratio": 1.49,
+  "statements_retrieved_at": "2026-11-16T23:52:49.680109",
   "retained_fields": []
 }

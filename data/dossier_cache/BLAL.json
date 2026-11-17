@@ -5,7 +5,7 @@
   "industry": "Shell Companies",
   "business_summary": "BEML Land Assets Limited engages in real estate business in India. It leases out properties in Bangalore and Mysore. The company was incorporated in 2021 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 684.97,
+  "market_cap_cr": 685.76,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-13T22:23:24.649298",
-  "provider_reported_pb_ratio": 674.1,
-  "statements_retrieved_at": "2026-11-13T22:23:24.649298",
+  "retrieval_time": "2026-11-16T23:38:47.568109",
+  "provider_reported_pb_ratio": 674.88,
+  "statements_retrieved_at": "2026-11-16T23:38:47.568109",
   "retained_fields": []
 }
