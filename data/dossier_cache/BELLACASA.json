@@ -5,15 +5,15 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Bella Casa Fashion & Retail Limited engages in the production and retail of apparels and home furnishing products in India. The company offers a range of products, including Western and ethnic attire for women; and traditional Indian wear for men and kids, as well as bed sheets for kids, comforters, dohars, cotton quilts, bedding sets, pillow covers, elasticated fitted bedsheet set, and cushion covers. It sells its products under the Bella Casa brand name. The company also exports its textile products. Bella Casa Fashion & Retail Limited was founded in 1957 and is based in Jaipur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 267.66,
-  "pe_ratio": 14.8,
+  "market_cap_cr": 253.91,
+  "pe_ratio": 16.18,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 129.86,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.3388,
   "fifty_two_week_high": 435.85,
-  "fifty_two_week_low": 195.0,
+  "fifty_two_week_low": 188.25,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T23:48:44.309714",
-  "provider_reported_pb_ratio": 1.54,
-  "statements_retrieved_at": "2026-11-17T23:48:44.309714",
+  "retrieval_time": "2026-11-18T22:29:22.351515",
+  "provider_reported_pb_ratio": 1.46,
+  "statements_retrieved_at": "2026-11-18T22:29:22.351515",
   "retained_fields": []
 }

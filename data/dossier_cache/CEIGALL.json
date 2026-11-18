@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "Ceigall India Limited, an infrastructure construction company, engages in the engineering, procurement, and construction businesses in India. The company undertakes specialized structural works, including elevated roads, flyovers, bridges, railway overbridges, tunnels, highways, expressways, and runways, as well as metro, airports, solar, specialized infrastructure, water/irrigation, and utility shifting solutions. It also undertakes hybrid annuity model (HAM) projects; and operation and maintenance projects for maintaining lightning, electrical systems, and barriers, as well as road maintenance and incident management. Ceigall India Limited was incorporated in 2002 and is headquartered in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 6729.53,
-  "pe_ratio": 18.83,
+  "market_cap_cr": 6744.34,
+  "pe_ratio": 18.87,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 132.64,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T23:51:28.649747",
-  "provider_reported_pb_ratio": 2.91,
-  "statements_retrieved_at": "2026-11-17T23:51:28.649747",
+  "retrieval_time": "2026-11-18T22:32:14.481787",
+  "provider_reported_pb_ratio": 2.92,
+  "statements_retrieved_at": "2026-11-18T22:32:14.481787",
   "retained_fields": []
 }

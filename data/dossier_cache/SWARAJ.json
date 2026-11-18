@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Swaraj Suiting Limited manufacturing ecosystem spans cotton processing, spinning, weaving, yarn dyeing, denim, synthetic, and cotton fabrics. It also engages in the trade of yarn, dyes, grey, and finished fabric, as well as weaving on a job work basis. The company was incorporated in 2003 and is based in Bhilwara, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 964.84,
-  "pe_ratio": 13.91,
+  "market_cap_cr": 965.24,
+  "pe_ratio": 13.92,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 129.27,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-18T00:39:46.585364",
+  "retrieval_time": "2026-11-18T23:28:29.477252",
   "provider_reported_pb_ratio": 2.78,
-  "statements_retrieved_at": "2026-11-18T00:39:46.585364",
+  "statements_retrieved_at": "2026-11-18T23:28:29.477252",
   "retained_fields": []
 }

@@ -5,14 +5,14 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "AstraZeneca Pharma India Limited, a biopharmaceutical company, manufactures, markets, and trades in pharmaceutical products in India and internationally. It provides medicines for cancers, including pancreatic cancer, certain blood cancers, and cancers within breast, lung, ovary, and prostate; rare diseases; and cardiovascular, renal and metabolism, and respiratory and immunology, as well as diabetes. The company serves distributors, hospitals, and government institutions. The company was incorporated in 1979 and is based in Bengaluru, India. AstraZeneca Pharma India Limited is a subsidiary of AstraZeneca Pharmaceuticals AB.",
   "business_summary_reason": null,
-  "market_cap_cr": 15420.0,
-  "pe_ratio": 86.76,
+  "market_cap_cr": 15108.75,
+  "pe_ratio": 85.01,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 351.54,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 2.5,
-  "fifty_two_week_high": 9469.5,
+  "fifty_two_week_high": 9264.0,
   "fifty_two_week_low": 5640.0,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T23:46:06.237723",
-  "provider_reported_pb_ratio": 17.55,
-  "statements_retrieved_at": "2026-11-17T23:46:06.237723",
+  "retrieval_time": "2026-11-18T22:26:48.476217",
+  "provider_reported_pb_ratio": 17.19,
+  "statements_retrieved_at": "2026-11-18T22:26:48.476217",
   "retained_fields": []
 }

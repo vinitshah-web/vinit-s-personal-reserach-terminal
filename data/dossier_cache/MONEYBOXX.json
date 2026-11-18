@@ -5,8 +5,8 @@
   "industry": "Credit Services",
   "business_summary": "Moneyboxx Finance Limited, a non-banking financial company, engages in the lending and allied activities in India. The company offers loans under the Moneyboxx Vyapaar name for small and medium-sized enterprises; value-added services, renewable energy loans; and commercial and MSME loans. It also operates Sikka App, an application that enables customers to apply and track loan applications and manage EMIs. The company was formerly known as Dhanuka Commercial Limited and changed its name to Moneyboxx Finance Limited in January 2019. Moneyboxx Finance Limited was incorporated in 1994 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 295.19,
-  "pe_ratio": 234.89,
+  "market_cap_cr": 293.38,
+  "pe_ratio": 221.16,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 52.53,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-18T00:19:30.862813",
+  "retrieval_time": "2026-11-18T23:00:28.274072",
   "provider_reported_pb_ratio": 0.8,
-  "statements_retrieved_at": "2026-11-18T00:19:30.862813",
+  "statements_retrieved_at": "2026-11-18T23:00:28.274072",
   "retained_fields": []
 }

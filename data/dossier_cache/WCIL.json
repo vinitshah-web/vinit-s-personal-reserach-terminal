@@ -5,8 +5,8 @@
   "industry": "Integrated Freight & Logistics",
   "business_summary": "Western Carriers (India) Limited provides logistics and allied services in India. The company provides single window logistics, multi-modal transportation, rail, road, cargo handling, custom house agency, and ocean and air freight services, as well as labelling, product packaging, customs clearance, stevedoring, palletizing, fumigation, pre-shipment inspection, and containerization services. It also operates warehouse/redistribution centers. Western Carriers (India) Limited was founded in 1972 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 891.8,
-  "pe_ratio": 24.3,
+  "market_cap_cr": 857.34,
+  "pe_ratio": 23.36,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 85.03,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-18T00:46:49.319965",
-  "provider_reported_pb_ratio": 1.03,
-  "statements_retrieved_at": "2026-11-18T00:46:49.319965",
+  "retrieval_time": "2026-11-18T23:35:29.415063",
+  "provider_reported_pb_ratio": 0.99,
+  "statements_retrieved_at": "2026-11-18T23:35:29.415063",
   "retained_fields": []
 }

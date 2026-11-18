@@ -5,8 +5,8 @@
   "industry": "Apparel Retail",
   "business_summary": "Arvind Fashions Limited engages in the wholesale and retail trading of ready-made garments and accessories in India and internationally. The company offers a portfolio of owned and licensed international brands, such as US Polo, Arrow, Tommy Hilfiger, Flying Machine, Calvin Klein, and others. It also provides footwear and accessories, including belts, bags, etc. It sells its menswear, womenswear, and kids wear products through retail and departmental stores, brand outlets, and e-commerce platforms. The company was formerly known as Arvind J&M Limited. Arvind Fashions Limited was incorporated in 2016 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4586.92,
-  "pe_ratio": 34.75,
+  "market_cap_cr": 4645.09,
+  "pe_ratio": 35.19,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 73.29,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T23:45:28.362663",
-  "provider_reported_pb_ratio": 4.68,
-  "statements_retrieved_at": "2026-11-17T23:45:28.362663",
+  "retrieval_time": "2026-11-18T22:26:10.861650",
+  "provider_reported_pb_ratio": 4.74,
+  "statements_retrieved_at": "2026-11-18T22:26:10.861650",
   "retained_fields": []
 }

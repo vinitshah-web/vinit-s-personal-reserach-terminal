@@ -5,8 +5,8 @@
   "industry": "Packaged Foods",
   "business_summary": "Prataap Snacks Limited manufactures and sells packaged snacks in India and internationally. It provides chips, extruded snacks, namkeen, and pellets, as well as fryums, cakes, sweet snacks, and popcorn under the Yellow Diamond and Avadh brands. The company was incorporated in 2003 and is based in Indore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2474.12,
-  "pe_ratio": 601.05,
+  "market_cap_cr": 2468.14,
+  "pe_ratio": 599.59,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 292.12,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T23:55:34.247665",
-  "provider_reported_pb_ratio": 3.54,
-  "statements_retrieved_at": "2026-11-17T23:55:34.247665",
+  "retrieval_time": "2026-11-18T22:36:20.815530",
+  "provider_reported_pb_ratio": 3.53,
+  "statements_retrieved_at": "2026-11-18T22:36:20.815530",
   "retained_fields": []
 }

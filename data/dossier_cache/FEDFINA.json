@@ -5,8 +5,8 @@
   "industry": "Credit Services",
   "business_summary": "Fedbank Financial Services Limited, a non-banking finance company (NBFC), provides financing services to individuals and businesses in India. It offers loan products, including gold, home, and property loans. The company was incorporated in 1995 and is headquartered in Mumbai, India. Fedbank Financial Services Limited operates as a subsidiary of The Federal Bank Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 5840.78,
-  "pe_ratio": 13.54,
+  "market_cap_cr": 5496.7,
+  "pe_ratio": 12.74,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 86.17,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T23:59:18.683779",
-  "provider_reported_pb_ratio": 1.81,
-  "statements_retrieved_at": "2026-11-17T23:59:18.683779",
+  "retrieval_time": "2026-11-18T22:40:10.515490",
+  "provider_reported_pb_ratio": 1.7,
+  "statements_retrieved_at": "2026-11-18T22:40:10.515490",
   "retained_fields": []
 }

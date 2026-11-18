@@ -5,7 +5,7 @@
   "industry": "Packaged Foods",
   "business_summary": "Kwality Walls (India) Limited produces and sells ice creams in India. Its products includes cones, sticks, cups and other single-serve products, and In-home formats, including tubs and party packs. It sells its products under Kwality Wall's, Magnum and Cornetto, Kulfeez, Chuski, Feast, Twister, and Paddle Pop brand names. The company was founded in 1956 and is based in Mumbai, India. As of March 30, 2026, Kwality Walls (India) Limited is a subsidiary of The Magnum Ice Cream Company Holdco 1 Netherlands B.V..",
   "business_summary_reason": null,
-  "market_cap_cr": 9943.47,
+  "market_cap_cr": 9762.55,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -17,10 +17,10 @@
   "financial_statements": [],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": false,
-  "retrieval_time": "2026-11-18T00:13:40.372008",
-  "provider_reported_pb_ratio": 14.74,
+  "retrieval_time": "2026-11-18T22:54:32.529888",
+  "provider_reported_pb_ratio": 14.47,
   "statements_retrieved_at": "2026-11-01T07:03:24.885129",
-  "previous_retrieval_time": "2026-11-17T23:08:00.329282",
+  "previous_retrieval_time": "2026-11-18T00:13:40.372008",
   "retained_fields": [
     "financial_statements",
     "previous_retrieval_time"

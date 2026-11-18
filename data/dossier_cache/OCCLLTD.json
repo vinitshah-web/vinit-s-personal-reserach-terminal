@@ -5,8 +5,8 @@
   "industry": "Chemicals",
   "business_summary": "OCCL Limited manufactures and sells insoluble sulphur in India. The company also offers commercial grade and battery grade sulphuric acid and oleums for use as a dehydrating agent, and catalyst and active reactant in chemical processes, solvents, and absorbents. It markets its products to approximately 25 countries. The company was incorporated in 1978 and is based in Noida, India. OCCL Limited is a subsidiary of Oriental Carbon & Chemicals Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 804.35,
-  "pe_ratio": 10.75,
+  "market_cap_cr": 780.78,
+  "pe_ratio": 10.43,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": null,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-18T00:23:20.380792",
+  "retrieval_time": "2026-11-18T23:04:20.131509",
   "provider_reported_pb_ratio": null,
-  "statements_retrieved_at": "2026-11-18T00:23:20.380792",
+  "statements_retrieved_at": "2026-11-18T23:04:20.131509",
   "retained_fields": []
 }

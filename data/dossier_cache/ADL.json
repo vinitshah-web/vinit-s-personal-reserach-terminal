@@ -5,7 +5,7 @@
   "industry": "Furnishings, Fixtures & Appliances",
   "business_summary": "Archidply Decor Limited engages in the manufacturing and trading of wood-based products in India and internationally. The company provides decorative laminates, decorative veneers, plywood and block board, and pre-laminated particle boards. It also provides Gurjan based plywood, Pureply plywood, Bon Vivant, particle board & MDF, as well as decorative veneered and plain flush doors. Archidply Decor Limited was incorporated in 2017 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 39.52,
+  "market_cap_cr": 38.52,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T23:41:44.473850",
-  "provider_reported_pb_ratio": 0.78,
-  "statements_retrieved_at": "2026-11-17T23:41:44.473850",
+  "retrieval_time": "2026-11-18T22:22:31.063475",
+  "provider_reported_pb_ratio": 0.76,
+  "statements_retrieved_at": "2026-11-18T22:22:31.063475",
   "retained_fields": []
 }

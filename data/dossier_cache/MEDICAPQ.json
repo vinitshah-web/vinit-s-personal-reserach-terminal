@@ -5,7 +5,7 @@
   "industry": "Real Estate - Diversified",
   "business_summary": "Medi-Caps Limited operates in real estate sector in India. The company was incorporated in 1983 and is based in Indore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 28.42,
+  "market_cap_cr": 27.41,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-18T00:17:31.274282",
-  "provider_reported_pb_ratio": 0.26,
-  "statements_retrieved_at": "2026-11-18T00:17:31.274282",
+  "retrieval_time": "2026-11-18T22:58:26.083131",
+  "provider_reported_pb_ratio": 0.25,
+  "statements_retrieved_at": "2026-11-18T22:58:26.083131",
   "retained_fields": []
 }

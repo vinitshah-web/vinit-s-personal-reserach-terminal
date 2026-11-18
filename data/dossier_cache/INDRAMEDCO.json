@@ -5,14 +5,14 @@
   "industry": "Medical Care Facilities",
   "business_summary": "Indraprastha Medical Corporation Limited provides hospital services in India. The company offers services primarily in the areas of genomic medicine, internal medicine, elder care, anesthesiology, bariatric and metabolic surgery, bone marrow transplant, dental and cosmetic clinic, dermatology, dietetics and clinical nutrition, vascular and endovascular surgery, endocrinology, ENT, fetal medicine, general and laparoscopic surgery, gynecology and obstetrics, hyperbaric oxygen therapy, IVF, neonatology, nephrology, nuclear medicine, ophthalmology, pediatric sciences, urology, and plastic and cosmetic surgery, as well as pediatric urology and surgery, physiotherapy and rehabilitation, psychiatry and clinical psychology, radiology and radio diagnosis, respiratory, rheumatology, spine surgery, urology and andrology, cardiology, oncology, emergency care, gastroenterology, neurology/neurosurgery, critical care, orthopedics, robotic surgery, and organ transplant, as well as laboratory services, interventional medicine, preventive medicine, and sleep medicine. Indraprastha Medical Corporation Limited was founded in 1983 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3236.52,
-  "pe_ratio": 17.21,
+  "market_cap_cr": 3281.89,
+  "pe_ratio": 17.45,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 88.77,
-  "dividend_yield_pct": 1.1331,
+  "dividend_yield_pct": 1.133,
   "shares_outstanding_cr": 9.1673,
-  "fifty_two_week_high": 546.3,
+  "fifty_two_week_high": 543.95,
   "fifty_two_week_low": 293.65,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-18T00:08:03.890510",
-  "provider_reported_pb_ratio": 3.98,
-  "statements_retrieved_at": "2026-11-18T00:08:03.890510",
+  "retrieval_time": "2026-11-18T22:48:57.722315",
+  "provider_reported_pb_ratio": 4.03,
+  "statements_retrieved_at": "2026-11-18T22:48:57.722315",
   "retained_fields": []
 }

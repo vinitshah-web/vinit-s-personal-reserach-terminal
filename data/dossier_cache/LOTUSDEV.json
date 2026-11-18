@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "Sri Lotus Developers and Realty Limited develops residential and commercial projects in India. Its portfolio covers luxury and ultra-luxury residential and commercial properties, including retail spaces, commercial offices, and residences. The company was formerly known as AKP Holdings Limited and changed its name to Sri Lotus Developers and Realty Limited in December 2024. Sri Lotus Developers and Realty Limited was founded in 2003 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 11365.27,
-  "pe_ratio": 38.82,
+  "market_cap_cr": 11575.91,
+  "pe_ratio": 39.54,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 41.65,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-18T00:15:09.013976",
-  "provider_reported_pb_ratio": 5.58,
-  "statements_retrieved_at": "2026-11-18T00:15:09.013976",
+  "retrieval_time": "2026-11-18T22:56:03.340285",
+  "provider_reported_pb_ratio": 5.69,
+  "statements_retrieved_at": "2026-11-18T22:56:03.340285",
   "retained_fields": []
 }

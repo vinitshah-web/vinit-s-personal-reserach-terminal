@@ -5,8 +5,8 @@
   "industry": "Apparel Manufacturing",
   "business_summary": "Cantabil Retail India Limited engages in designing, manufacturing, branding, and retailing of apparel and apparel accessories in India. The company offers formal-wear, party-wear, wedding wear and casuals clothing for men, women, girls, boys, footwear, accessories, active wear and innerwear for men, women, and kids under the Cantabil brand name. The company was incorporated in 1989 and is headquartered in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2196.34,
-  "pe_ratio": 22.66,
+  "market_cap_cr": 2156.61,
+  "pe_ratio": 22.13,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 57.15,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T23:51:03.652066",
-  "provider_reported_pb_ratio": 4.59,
-  "statements_retrieved_at": "2026-11-17T23:51:03.652066",
+  "retrieval_time": "2026-11-18T22:31:50.014645",
+  "provider_reported_pb_ratio": 4.51,
+  "statements_retrieved_at": "2026-11-18T22:31:50.014645",
   "retained_fields": []
 }

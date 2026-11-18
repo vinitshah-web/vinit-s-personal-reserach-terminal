@@ -5,8 +5,8 @@
   "industry": "Packaged Foods",
   "business_summary": "GRM Overseas Limited engages in the milling, processing, and marketing of branded and non-branded basmati rice in India. It offers spices; and chakki fresh atta, as well as a ready-to-cook biryani kit. The company markets its products under 10X, Tanoush, Shakti, and Himalaya River brands. It also exports its products to the Middle East, the United Kingdom, and the United States, and internationally. The company was founded in 1974 and is based in Panipat, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1816.04,
-  "pe_ratio": 19.15,
+  "market_cap_cr": 1766.44,
+  "pe_ratio": 18.63,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 29.03,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-18T00:02:59.603348",
-  "provider_reported_pb_ratio": 3.01,
-  "statements_retrieved_at": "2026-11-18T00:02:59.603348",
+  "retrieval_time": "2026-11-18T22:43:52.193305",
+  "provider_reported_pb_ratio": 2.93,
+  "statements_retrieved_at": "2026-11-18T22:43:52.193305",
   "retained_fields": []
 }

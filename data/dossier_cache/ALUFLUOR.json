@@ -5,14 +5,14 @@
   "industry": "Chemicals",
   "business_summary": "Alufluoride Limited manufactures and sells aluminum fluoride and related products for aluminum smelters in India. The company offers aluminum fluoride, which is used as a flux in reducing the melting point of alumina; silica that is used as filler in the rubber industry; and calcium fluoride, which is used as a flux in welding electrodes. It also sells coal fine and scrap. Alufluoride Limited was incorporated in 1984 and is based in Visakhapatnam, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 539.89,
-  "pe_ratio": 21.78,
+  "market_cap_cr": 554.12,
+  "pe_ratio": 22.35,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 160.7,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 0.782,
-  "fifty_two_week_high": 701.0,
+  "fifty_two_week_high": 716.0,
   "fifty_two_week_low": 430.0,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T23:43:33.682472",
-  "provider_reported_pb_ratio": 4.3,
-  "statements_retrieved_at": "2026-11-17T23:43:33.682472",
+  "retrieval_time": "2026-11-18T22:24:16.708372",
+  "provider_reported_pb_ratio": 4.41,
+  "statements_retrieved_at": "2026-11-18T22:24:16.708372",
   "retained_fields": []
 }

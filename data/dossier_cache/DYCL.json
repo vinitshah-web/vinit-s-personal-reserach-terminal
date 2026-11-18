@@ -5,8 +5,8 @@
   "industry": "Electrical Equipment & Parts",
   "business_summary": "Dynamic Cables Limited manufactures and supplies cables and conductors in India and internationally. The company offers 66 kV, MV, and LV unarmored aluminum cables; MV single-core aluminum armored and LV copper power cables; MV aerial bunched, LV aluminum multicore FRLS, LV copper armored, railway signaling, LV aerial bunched, UL, solar power AC/DC, and FR-LSH cables; MV covered, ACSR, bare copper, AL59, and AA/AAA conductors; and dynamic building wires. It serves government and private utility and distribution companies, EPC contractors, industrial sectors, solar projects, and railway systems. Dynamic Cables Limited was formerly known as Dynamic Engineers. The company was founded in 1986 and is based in Jaipur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1751.3,
-  "pe_ratio": 18.36,
+  "market_cap_cr": 1727.55,
+  "pe_ratio": 18.44,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 103.58,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T23:56:35.913468",
-  "provider_reported_pb_ratio": 3.49,
-  "statements_retrieved_at": "2026-11-17T23:56:35.913468",
+  "retrieval_time": "2026-11-18T22:37:22.200947",
+  "provider_reported_pb_ratio": 3.44,
+  "statements_retrieved_at": "2026-11-18T22:37:22.200947",
   "retained_fields": []
 }

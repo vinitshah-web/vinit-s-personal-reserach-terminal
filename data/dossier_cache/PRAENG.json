@@ -5,7 +5,7 @@
   "industry": "Real Estate - Development",
   "business_summary": "Prajay Engineers Syndicate Limited, together with its subsidiaries, engages in the development and construction of real estate in India. It operates through Real estate, and Hotels and resorts segments. It is involved in the development, sale, management, and operation of town ships and housing projects, as well as leasing of self-owned commercial premises. It also maintains hotels, restaurants, and resorts. Prajay Engineers Syndicate Limited was incorporated in 1994 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 125.46,
+  "market_cap_cr": 115.81,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -13,7 +13,7 @@
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 6.9936,
   "fifty_two_week_high": 32.6,
-  "fifty_two_week_low": 15.51,
+  "fifty_two_week_low": 15.37,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-18T00:26:47.407777",
-  "provider_reported_pb_ratio": 0.26,
-  "statements_retrieved_at": "2026-11-18T00:26:47.407777",
+  "retrieval_time": "2026-11-18T23:07:45.124949",
+  "provider_reported_pb_ratio": 0.24,
+  "statements_retrieved_at": "2026-11-18T23:07:45.124949",
   "retained_fields": []
 }

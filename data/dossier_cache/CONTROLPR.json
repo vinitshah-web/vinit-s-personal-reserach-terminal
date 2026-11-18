@@ -5,14 +5,14 @@
   "industry": "Business Equipment & Supplies",
   "business_summary": "Control Print Limited engages in the manufacture and sale of coding and marking machines and consumables in India and internationally. It offers continuous inkjet printers, thermal inkjet printers, high-resolution printers, thermal transfer over printers, hot roller and quick coders, laser printers, and large character printers, as well as consumables. The company provides surgical face masks and other mask products, such as N95, FFP2, and IS 9473 masks. It serves agrochemicals and seeds, automotive, beverages, building and construction material, cable and wire, cement, chemicals and lubricants, electronics, food, fast-moving consumer goods, healthcare, packaging and packaging materials, pipes and extruded plastics, plywood, rubber and tires, steel and metal, and textile industries. The company exports its products. Control Print Limited was incorporated in 1991 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 932.61,
-  "pe_ratio": 27.94,
+  "market_cap_cr": 977.53,
+  "pe_ratio": 29.29,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 294.17,
-  "dividend_yield_pct": 1.6972,
+  "dividend_yield_pct": 1.7082,
   "shares_outstanding_cr": 1.5931,
-  "fifty_two_week_high": 785.0,
+  "fifty_two_week_high": 784.4,
   "fifty_two_week_low": 517.0,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T23:53:08.541061",
-  "provider_reported_pb_ratio": 1.99,
-  "statements_retrieved_at": "2026-11-17T23:53:08.541061",
+  "retrieval_time": "2026-11-18T22:33:55.760982",
+  "provider_reported_pb_ratio": 2.09,
+  "statements_retrieved_at": "2026-11-18T22:33:55.760982",
   "retained_fields": []
 }

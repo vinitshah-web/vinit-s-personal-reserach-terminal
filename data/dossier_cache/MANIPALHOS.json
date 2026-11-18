@@ -5,8 +5,8 @@
   "industry": "Medical Care Facilities",
   "business_summary": "Manipal Health Enterprises Limited operates hospitals in India. The company offers services, such as multi-specialty tertiary and quaternary care through its network of hospitals. Its services include accident and emergency care, cancer care, cardiology, organ transplants, obstetrics and gynaecology, neurology, nephrology, orthopaedics, proctology, rheumatology, and urology. The company also offers medical services, including robotic spine surgery, bariatric surgery, head and neck surgery, liver transplantation, dialysis, laparoscopic surgery, organ transplant, orthopaedic robotic surgery, spine care, and clinics for conditions like epilepsy, chronic pain, and diabetes. In addition, it offers home care, a woman's and childcare centre, an insurance helpdesk, and international patient services, diagnostic services, pharmacy sales, home healthcare, teleconsultations, e-pharmacy, and digital health solutions. Further, it delivers outpatient treatment, diagnostics, and advanced clinical care through its hospital network, and collaborates with foundations and NGOs to offer healharmathcare services to underserved populations. The company was formerly known as Manipal Health Enterprises Private Limited and changed its name to Manipal Health Enterprises Limited in December 2025. The company was founded in 1991 and is headquartered in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 92332.9,
-  "pe_ratio": 145.03,
+  "market_cap_cr": 90609.75,
+  "pe_ratio": 143.81,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 132.52,
@@ -63,8 +63,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-18T00:16:33.268123",
-  "provider_reported_pb_ratio": 5.3,
-  "statements_retrieved_at": "2026-11-18T00:16:33.268123",
+  "retrieval_time": "2026-11-18T22:57:27.437163",
+  "provider_reported_pb_ratio": 5.2,
+  "statements_retrieved_at": "2026-11-18T22:57:27.437163",
   "retained_fields": []
 }

@@ -5,7 +5,7 @@
   "industry": "Steel",
   "business_summary": "Neueon Corporation Limited engages in power transmission and telecom infrastructure business in India. The company also manufactures and trades related products and strategic business activities; turnkey projects, and renewable energy services. It offers engineering, procurement, and construction services to telecom and power companies. The company was formerly known as Neueon Towers Limited and changed its name to Neueon Corporation Limited in September 2025. Neueon Corporation Limited was incorporated in 2006 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 550.18,
+  "market_cap_cr": 549.61,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-18T00:21:37.191236",
-  "provider_reported_pb_ratio": 10.42,
-  "statements_retrieved_at": "2026-11-18T00:21:37.191236",
+  "retrieval_time": "2026-11-18T23:02:36.442091",
+  "provider_reported_pb_ratio": 10.41,
+  "statements_retrieved_at": "2026-11-18T23:02:36.442091",
   "retained_fields": []
 }

@@ -5,14 +5,14 @@
   "industry": "Beverages - Brewers",
   "business_summary": "United Breweries Limited engages in manufacture, purchase, and sale of beer and non-alcoholic beverages in India and internationally. The company provides beer products under the Heineken Original, Heineken Silver, Kingfisher Premium, Kingfisher Strong, Kingfisher Ultra, Kingfisher Ultra Max, Kingfisher Ultra Witbier, Amstel, Amstel Grande, Bullet, Bullet Super Strong, Cannon 10000, Zingaro, Kingfisher Strong, Kingfisher Flavour Mango and lemon, Kalyani Black Label, UB Export Lager, UB Export Strong, London Pilsner Premium, London Pilsner Strong, and Queenfisher brands; and non-alcoholic products under the Kingfisher Premium Packaged Drinking Water, Kingfisher Strong Power Soda, Kingfisher Ultra-Premium Soda, and Heineken 0.0. It also licenses its brands; and offers contract manufacturing services. In addition, the company is involved in scrap sales. The company was founded in 1915 and is headquartered in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 31905.77,
-  "pe_ratio": 65.87,
+  "market_cap_cr": 32336.75,
+  "pe_ratio": 66.76,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 172.5,
-  "dividend_yield_pct": 0.836,
+  "dividend_yield_pct": 0.8287,
   "shares_outstanding_cr": 26.4405,
-  "fifty_two_week_high": 1792.0,
+  "fifty_two_week_high": 1779.1,
   "fifty_two_week_low": 1128.6,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-18T00:43:17.017358",
-  "provider_reported_pb_ratio": 7.0,
-  "statements_retrieved_at": "2026-11-18T00:43:17.017358",
+  "retrieval_time": "2026-11-18T23:31:58.773041",
+  "provider_reported_pb_ratio": 7.09,
+  "statements_retrieved_at": "2026-11-18T23:31:58.773041",
   "retained_fields": []
 }

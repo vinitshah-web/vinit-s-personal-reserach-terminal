@@ -5,14 +5,14 @@
   "industry": "Engineering & Construction",
   "business_summary": "Garuda Construction and Engineering Limited offers civil construction services in India. It constructs residential, commercial, residential-cum-commercial, industrial, infrastructure, and hospitality projects. The company also constructs concrete building structures and composite steel structures. In addition, it provides operations and maintenance services; and mechanical, electrical, and plumbing services, as well as finishing works. The company was incorporated in 2010 and is headquartered in Mumbai, India. Garuda Construction and Engineering Limited is a subsidiary of PKH Ventures Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 1410.14,
-  "pe_ratio": 9.43,
+  "market_cap_cr": 1432.84,
+  "pe_ratio": 9.58,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 57.72,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 9.3042,
-  "fifty_two_week_high": 241.56,
+  "fifty_two_week_high": 239.27,
   "fifty_two_week_low": 130.0,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-18T00:00:38.122082",
-  "provider_reported_pb_ratio": 2.63,
-  "statements_retrieved_at": "2026-11-18T00:00:38.122082",
+  "retrieval_time": "2026-11-18T22:41:28.749542",
+  "provider_reported_pb_ratio": 2.67,
+  "statements_retrieved_at": "2026-11-18T22:41:28.749542",
   "retained_fields": []
 }

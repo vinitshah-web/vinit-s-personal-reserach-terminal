@@ -5,15 +5,15 @@
   "industry": "Auto Manufacturers",
   "business_summary": "Tata Motors Limited engages in the design, manufacture, and sale of automotive vehicles in India, South Korea, and internationally. The company offers pick-ups, trucks, buses, small commercial vehicles, and electric vehicles. It also provides related spare parts, accessories, and distribution and services of vehicles. The company was formerly known as TML Commercial Vehicles Limited and changed its name to Tata Motors Limited in October 2025. Tata Motors Limited was founded in 1961 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 164125.38,
-  "pe_ratio": 25.99,
+  "market_cap_cr": 163444.06,
+  "pe_ratio": 25.88,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 41.47,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 368.2831,
   "fifty_two_week_high": 509.0,
-  "fifty_two_week_low": 310.0,
+  "fifty_two_week_low": 310.05,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -63,8 +63,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-18T00:42:08.872834",
-  "provider_reported_pb_ratio": 10.75,
-  "statements_retrieved_at": "2026-11-18T00:42:08.872834",
+  "retrieval_time": "2026-11-18T23:30:51.576547",
+  "provider_reported_pb_ratio": 10.7,
+  "statements_retrieved_at": "2026-11-18T23:30:51.576547",
   "retained_fields": []
 }

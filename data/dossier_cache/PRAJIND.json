@@ -5,15 +5,15 @@
   "industry": "Engineering & Construction",
   "business_summary": "Praj Industries Limited operates in the field of bio-based technologies and engineering in India and internationally. It offers solutions for the ethanol industry, including multi-feed multi-product plants, modernization of existing plants, and renewable fuels comprising BioCNG, iso-butanol, etc.; and high purity system solutions for the biopharma industry, sterile formulations, topical and oral formulations, personal care, and nutraceutical industry. The company also provides customized plants, and equipment and technology solutions to customers in the brewing and beverage industry; reactors, pressure vessels, heat exchangers, columns, and proprietary equipment to hydrocarbon industry, petrochemicals, industrial gas plants, and chemical plants; and modular process packages. In addition, it offers wastewater treatment solutions, including treatment and disposal; 3Rs of reduce, recycle, and reuse; ZLD and resource recovery; operation and maintenance services; and value-added services. The company was incorporated in 1985 and is headquartered in Pune, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4501.03,
-  "pe_ratio": 132.36,
+  "market_cap_cr": 4423.46,
+  "pe_ratio": 130.08,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 69.54,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 18.3813,
   "fifty_two_week_high": 427.65,
-  "fifty_two_week_low": 240.1,
+  "fifty_two_week_low": 238.5,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-18T00:26:48.570749",
-  "provider_reported_pb_ratio": 3.52,
-  "statements_retrieved_at": "2026-11-18T00:26:48.570749",
+  "retrieval_time": "2026-11-18T23:07:46.424261",
+  "provider_reported_pb_ratio": 3.46,
+  "statements_retrieved_at": "2026-11-18T23:07:46.424261",
   "retained_fields": []
 }

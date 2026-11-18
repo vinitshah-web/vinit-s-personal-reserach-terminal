@@ -5,8 +5,8 @@
   "industry": "Asset Management",
   "business_summary": "BF Investment Limited engages in investment and financing businesses in India. BF Investment Limited was incorporated in 2009 and is based in Pune, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1838.18,
-  "pe_ratio": 4.72,
+  "market_cap_cr": 1853.81,
+  "pe_ratio": 4.76,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 2531.49,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T23:48:55.987895",
+  "retrieval_time": "2026-11-18T22:29:34.346825",
   "provider_reported_pb_ratio": 0.19,
-  "statements_retrieved_at": "2026-11-17T23:48:55.987895",
+  "statements_retrieved_at": "2026-11-18T22:29:34.346825",
   "retained_fields": []
 }

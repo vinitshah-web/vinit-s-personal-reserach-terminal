@@ -5,8 +5,8 @@
   "industry": "Building Products & Equipment",
   "business_summary": "Euro Panel Products Limited engages in the manufacture and supply of aluminum composite panels (ACP) in India and Europe. The company provides ACP, HPL, core composite, and honeycomb panels; fire retardant, zinc composite, solid aluminum, and engineered solid panels; and ACP louvers and fins. It offers its products under the Eurobond brand through a network of dealers and distributors. The company also exports its products. It serves pharma/hospitals, automobile, corporate signage, transport, metro and railways, petroleum, government, construction, and banking sectors. The company was founded in 2002 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 318.84,
-  "pe_ratio": 12.44,
+  "market_cap_cr": 323.08,
+  "pe_ratio": 12.61,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 65.34,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T23:58:48.917085",
-  "provider_reported_pb_ratio": 1.99,
-  "statements_retrieved_at": "2026-11-17T23:58:48.917085",
+  "retrieval_time": "2026-11-18T22:39:40.451703",
+  "provider_reported_pb_ratio": 2.02,
+  "statements_retrieved_at": "2026-11-18T22:39:40.451703",
   "retained_fields": []
 }

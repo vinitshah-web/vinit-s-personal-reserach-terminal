@@ -5,13 +5,13 @@
   "industry": "Real Estate - Diversified",
   "business_summary": "The Phoenix Mills Limited engages in the operation and management of malls, construction of commercial and residential properties, and hotel business in India. The company operates in three segments: Property and Related Services, Hospitality services, and Residential Business. Its real estate asset portfolio consists of retail mall, commercial office, residential, and hospitality projects located in Mumbai, Chennai, Bengaluru, Pune, Kolkata, Lucknow, Bareilly, Agra, Ahmedabad, Indore, Surat, Chandigarh, Thane, and Coimbatore. The company owns and operates hotels under The St. Regis and Courtyard by Marriott brand name in Mumbai and Agra. It operates malls primarily under the Phoenix Palladium, Phoenix Avenue Of Stars, Phoenix MarketCity, Palladium, Phoenix United, Phoenix Palassio, Phoenix Paragon, Phoenix Citadel, Phoenix Grand Victoria, Phoenix Mall of Asia, and Phoenix Mall of the Millennium brand names. The Phoenix Mills Limited was incorporated in 1905 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 79729.58,
-  "pe_ratio": 59.63,
+  "market_cap_cr": 78858.96,
+  "pe_ratio": 60.4,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 254.5,
   "dividend_yield_pct": 0.0,
-  "shares_outstanding_cr": 35.7692,
+  "shares_outstanding_cr": 35.7702,
   "fifty_two_week_high": 2300.0,
   "fifty_two_week_low": 1465.6,
   "financial_statements": [
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-18T00:25:45.678676",
-  "provider_reported_pb_ratio": 8.76,
-  "statements_retrieved_at": "2026-11-18T00:25:45.678676",
+  "retrieval_time": "2026-11-18T23:06:44.016301",
+  "provider_reported_pb_ratio": 8.66,
+  "statements_retrieved_at": "2026-11-18T23:06:44.016301",
   "retained_fields": []
 }
