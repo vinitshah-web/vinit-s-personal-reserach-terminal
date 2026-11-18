@@ -6,7 +6,7 @@
   "business_summary": "CESC Limited, an integrated electrical utility company, engages in the generation and distribution of electricity in India. It owns and operates two thermal power plants, including Budge Budge generating station with a generating capacity of 750 megawatts and Southern generating stations with a generating capacity of 135 megawatts; a 40-megawatt atmospheric fluidized bed combustion power plant in Asansol, West Bengal; a 300-megawatt solar project in Bhadla, Rajasthan; and a 450-megawatt hybrid project that consists of a 150-megawatt solar unit in Bikaner, Rajasthan and a 300-megawatt wind unit in Ananthapuram, Andhra Pradesh. The company serves domestic, industrial, commercial, government agencies, pumping stations, local bodies, schools etc. CESC Limited was founded in 1899 and is headquartered in Kolkata, India.",
   "business_summary_reason": null,
   "market_cap_cr": 16677.0,
-  "pe_ratio": 10.64,
+  "pe_ratio": 10.76,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 94.32,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T22:49:26.471987",
+  "retrieval_time": "2026-11-17T23:51:46.504545",
   "provider_reported_pb_ratio": 1.33,
-  "statements_retrieved_at": "2026-11-17T22:49:26.471987",
+  "statements_retrieved_at": "2026-11-17T23:51:46.504545",
   "retained_fields": []
 }

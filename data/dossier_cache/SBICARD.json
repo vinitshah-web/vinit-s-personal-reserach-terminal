@@ -6,7 +6,7 @@
   "business_summary": "SBI Cards and Payment Services Limited, a non-banking financial company, provides credit cards to individual and corporate customers in India. The company offers corporate, central travel, utility, and corporate purchase and virtual cards. It also acts as a corporate insurance agent for selling insurance policies to credit card customers. The company was incorporated in 1998 and is headquartered in Gurugram, India. SBI Cards and Payment Services Limited operates as a subsidiary of State Bank of India.",
   "business_summary_reason": null,
   "market_cap_cr": 54672.25,
-  "pe_ratio": 20.78,
+  "pe_ratio": 20.97,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 180.42,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T23:24:17.128356",
+  "retrieval_time": "2026-11-18T00:32:55.196386",
   "provider_reported_pb_ratio": 3.18,
-  "statements_retrieved_at": "2026-11-17T23:24:17.128356",
+  "statements_retrieved_at": "2026-11-18T00:32:55.196386",
   "retained_fields": []
 }

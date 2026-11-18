@@ -6,7 +6,7 @@
   "business_summary": "Five-Star Business Finance Limited operates as a non-banking financial company in India. The company offers business and other loans to small business owners and self-employed individuals, as well as for other purposes such as business expansion, home renovation/improvement and other mortgage purposes, including marriage, education, emergency. It also provides mortgage loans. Five-Star Business Finance Limited was incorporated in 1984 and is headquartered in Chennai, India.",
   "business_summary_reason": null,
   "market_cap_cr": 12951.22,
-  "pe_ratio": 11.76,
+  "pe_ratio": 11.27,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 267.75,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T22:56:10.052564",
+  "retrieval_time": "2026-11-17T23:59:41.936147",
   "provider_reported_pb_ratio": 1.64,
-  "statements_retrieved_at": "2026-11-17T22:56:10.052564",
+  "statements_retrieved_at": "2026-11-17T23:59:41.936147",
   "retained_fields": []
 }

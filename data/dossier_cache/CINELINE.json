@@ -5,13 +5,13 @@
   "industry": "Entertainment",
   "business_summary": "Cineline India Limited, an entertainment company, engages in the theatrical exhibition and allied activities business under the Movie MAX brand name in India. The company operates multiplexes and single-screen theatres. It is also involved in the sale of movie tickets, food and beverages, and in-cinema advertisements and product displays. The company was formerly known as Cinemax Properties Limited and changed its name to Cineline India Limited in March 2013. Cineline India Limited was founded in 1997 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 335.33,
+  "market_cap_cr": 372.97,
   "pe_ratio": 21.84,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 51.55,
   "dividend_yield_pct": 0.0,
-  "shares_outstanding_cr": 3.4266,
+  "shares_outstanding_cr": 3.8113,
   "fifty_two_week_high": 104.4,
   "fifty_two_week_low": 73.35,
   "financial_statements": [
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T22:49:55.223824",
+  "retrieval_time": "2026-11-17T23:52:19.691805",
   "provider_reported_pb_ratio": 1.9,
-  "statements_retrieved_at": "2026-11-17T22:49:55.223824",
+  "statements_retrieved_at": "2026-11-17T23:52:19.691805",
   "retained_fields": []
 }

@@ -6,7 +6,7 @@
   "business_summary": "Landsmill Green Limited engages in the IT-enabled BPO, infrastructure, and general trading businesses in India. The company provides customer care services, as well as handles the business relations of clients on their behalf. It also develops infrastructure facilities. The company was formerly known as Excel Realty N Infra Limited and changed its name to Landsmill Green Limited in December 2025. The company was incorporated in 2003 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
   "market_cap_cr": 98.75,
-  "pe_ratio": 35.0,
+  "pe_ratio": 70.0,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 0.9,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T23:08:15.244262",
+  "retrieval_time": "2026-11-18T00:13:58.250044",
   "provider_reported_pb_ratio": 0.78,
-  "statements_retrieved_at": "2026-11-17T23:08:15.244262",
+  "statements_retrieved_at": "2026-11-18T00:13:58.250044",
   "retained_fields": []
 }

@@ -6,7 +6,7 @@
   "business_summary": "Haldyn Glass Limited engages in the manufacture and sale of glass bottles in India and internationally. The company offers liquor bottles, such as flint glass bottles; and food and beverage products, including food bottles, amber glass bottles, and green glass bottles. It also provides pharmaceutical glass containers for storage and preservation of medicines and healthcare products; and cosmetic and toiletry glass containers. The company was formerly known as Haldyn Glass Gujarat Limited and changed its name to Haldyn Glass Limited in November 2011. The company was incorporated in 1991 and is based in Mumbai, India. Haldyn Glass Limited operates as a subsidiary of Haldyn Corporation Ltd.",
   "business_summary_reason": null,
   "market_cap_cr": 711.46,
-  "pe_ratio": 24.29,
+  "pe_ratio": 23.72,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 47.79,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T22:59:53.878185",
+  "retrieval_time": "2026-11-18T00:04:10.825998",
   "provider_reported_pb_ratio": 2.77,
-  "statements_retrieved_at": "2026-11-17T22:59:53.878185",
+  "statements_retrieved_at": "2026-11-18T00:04:10.825998",
   "retained_fields": []
 }

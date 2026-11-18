@@ -6,7 +6,7 @@
   "business_summary": "Welspun Enterprises Limited engages in the engineering, procurement, and construction of infrastructure development projects in India. The company develops and operates infrastructure for road transport, water, tunneling, and rehabilitation; hybrid annuity model and build; operate and transfer; and oil and gas exploration activities. It engages in carrying out operation and maintenance activities, as well as water transmission and distribution, water, and wastewater treatment businesses. The company was formerly known as Welspun Projects Limited and changed its name to Welspun Enterprises Limited in May 2015. The company was incorporated in 1994 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
   "market_cap_cr": 9509.24,
-  "pe_ratio": 17.53,
+  "pe_ratio": 17.87,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 246.95,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T23:35:59.883016",
+  "retrieval_time": "2026-11-18T00:46:56.419081",
   "provider_reported_pb_ratio": 2.84,
-  "statements_retrieved_at": "2026-11-17T23:35:59.883016",
+  "statements_retrieved_at": "2026-11-18T00:46:56.419081",
   "retained_fields": []
 }

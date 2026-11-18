@@ -6,7 +6,7 @@
   "business_summary": "Sonam Limited engages in the manufacture and sale of horological items, clocks, clock movements, and related items in India. The company also provides rotating pendulum musical, light sensor, sweep office, economy, diamond series, classy dial, and corporate clocks. In addition, it offers quartz clock movements, and calculators. The company markets its products under the Sonam, Lotus, LEXY, and ampm brand names. Sonam Limited was formerly known as Sonam Clock Limited and changed its name to Sonam Limited in September 2023. Sonam Limited was founded in 1996 and is based in Morbi, India.",
   "business_summary_reason": null,
   "market_cap_cr": 272.98,
-  "pe_ratio": 37.26,
+  "pe_ratio": 36.08,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 19.58,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T23:27:54.445327",
+  "retrieval_time": "2026-11-18T00:37:19.799628",
   "provider_reported_pb_ratio": 3.48,
-  "statements_retrieved_at": "2026-11-17T23:27:54.445327",
+  "statements_retrieved_at": "2026-11-18T00:37:19.799628",
   "retained_fields": []
 }

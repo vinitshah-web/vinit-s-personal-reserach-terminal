@@ -6,7 +6,7 @@
   "business_summary": "Wealth First Portfolio Managers Limited engages in the distribution of various mutual fund schemes in India. It engages in distribution of various financial products and services, including insurance products, portfolio management services (PMS), alternative investment funds (AIFs), unlisted securities, bonds, fixed deposits, stock broking, and other investment solutions. In addition, it offers investment strategizing asset research, asset allocation, tax and retirement planning, treasury management, portfolio review and accounting, and inheritance planning services. The company was founded in 1990 and is headquartered in Ahmedabad, India.",
   "business_summary_reason": null,
   "market_cap_cr": 870.94,
-  "pe_ratio": 31.15,
+  "pe_ratio": 31.32,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 154.96,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T23:35:54.890929",
+  "retrieval_time": "2026-11-18T00:46:50.537739",
   "provider_reported_pb_ratio": 5.27,
-  "statements_retrieved_at": "2026-11-17T23:35:54.890929",
+  "statements_retrieved_at": "2026-11-18T00:46:50.537739",
   "retained_fields": []
 }

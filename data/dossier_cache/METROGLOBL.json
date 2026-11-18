@@ -6,7 +6,7 @@
   "business_summary": "MetroGlobal Limited engages in trading of chemicals, textiles, minerals, ores, metals, and precious metals in India, China, the United States, South Africa, and the Middle East. It develops residential, commercial, and industrial construction projects. The company also provides financial services. MetroGlobal Limited was incorporated in 1992 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
   "market_cap_cr": 147.4,
-  "pe_ratio": 5.92,
+  "pe_ratio": 6.03,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 344.65,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T23:11:34.792312",
+  "retrieval_time": "2026-11-18T00:17:49.826663",
   "provider_reported_pb_ratio": 0.35,
-  "statements_retrieved_at": "2026-11-17T23:11:34.792312",
+  "statements_retrieved_at": "2026-11-18T00:17:49.826663",
   "retained_fields": []
 }

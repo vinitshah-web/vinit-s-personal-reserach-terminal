@@ -5,7 +5,7 @@
   "industry": "Luxury Goods",
   "business_summary": "Timex Group India Limited engages in designing, manufacturing, and trading of watches in India and internationally. It offers wrist watches for men, women, and children under the Timex, Guess, Gc, Versace, Salvatore Ferragamo, Nautica, Ted Baker, Furla, Adidas Originals, Philipp Plein, Plein Sports, Helix, Aston Martin, UNLTD., and TMX brand names. The company also provides after-sales services. The company also offers information and technology support services. It sells its products through distributors, dealers, franchise-operated brand outlets, modern trade chain stores, defence and institutional buyers, e-commerce platforms, and brand webstore. The company was founded in 1854 and is based in Noida, India. Timex Group India Limited operates as a subsidiary of Timex Group Luxury Watches B.V.",
   "business_summary_reason": null,
-  "market_cap_cr": 7563.17,
+  "market_cap_cr": 7457.68,
   "pe_ratio": 72.78,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,13 +93,11 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T23:31:46.096293",
+  "retrieval_time": "2026-11-18T00:41:56.885101",
   "provider_reported_pb_ratio": 44.36,
-  "statements_retrieved_at": "2026-11-17T23:31:46.096293",
-  "previous_retrieval_time": "2026-11-17T01:36:50.497617",
+  "statements_retrieved_at": "2026-11-18T00:41:56.885101",
+  "previous_retrieval_time": "2026-11-17T23:31:46.096293",
   "retained_fields": [
-    "market_cap_cr",
-    "shares_outstanding_cr",
     "previous_retrieval_time"
   ]
 }

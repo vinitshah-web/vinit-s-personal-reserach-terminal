@@ -6,7 +6,7 @@
   "business_summary": "Arham Technologies Limited manufactures and sells LED smart televisions in India. It also offers ceiling, BLDC, pedestal, table, and exhaust fans; and washing machine, mixer grinder, and air cooler under the STARSHINE brand. The company was incorporated in 2013 and is based in Raipur, India.",
   "business_summary_reason": null,
   "market_cap_cr": null,
-  "pe_ratio": 30.61,
+  "pe_ratio": 29.78,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 45.2,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T22:43:48.019473",
+  "retrieval_time": "2026-11-17T23:45:03.325319",
   "provider_reported_pb_ratio": 4.65,
-  "statements_retrieved_at": "2026-11-17T22:43:48.019473",
+  "statements_retrieved_at": "2026-11-17T23:45:03.325319",
   "retained_fields": []
 }

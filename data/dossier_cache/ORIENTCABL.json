@@ -6,7 +6,7 @@
   "business_summary": "Orient Cables (India) Limited engages in the manufacturing of networking cables and passive networking equipment in India and internationally. It manufactures networking cables, optical fiber cables, copper terminated assemblies, optical fiber terminated assemblies, coaxial cables, telecommunication cables, solar DC cables, power cables, and other products, including tethered drone system, EV charging cables and gun, power cord, power stripes/extension board, and keystone jack. Orient Cables (India) Limited was incorporated in 2005 and is based in Gurugram, India.",
   "business_summary_reason": null,
   "market_cap_cr": 4498.5,
-  "pe_ratio": 83.57,
+  "pe_ratio": 82.53,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 23.14,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T23:16:56.802405",
+  "retrieval_time": "2026-11-18T00:24:07.683591",
   "provider_reported_pb_ratio": 17.09,
-  "statements_retrieved_at": "2026-11-17T23:16:56.802405",
+  "statements_retrieved_at": "2026-11-18T00:24:07.683591",
   "retained_fields": []
 }

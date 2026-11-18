@@ -6,7 +6,7 @@
   "business_summary": "Amarjothi Spinning Mills Limited manufactures and processes yarns and fibers in India. The company provides cotton, viscose, polyester, slub, neps, fancy, grindle, and cut thread melange yarn. It generates wind power through windmills. Amarjothi Spinning Mills Limited was incorporated in 1987 and is based in Tirupur, India.",
   "business_summary_reason": null,
   "market_cap_cr": 103.19,
-  "pe_ratio": 7.96,
+  "pe_ratio": 7.86,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 309.86,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T22:42:37.179381",
+  "retrieval_time": "2026-11-17T23:43:39.530682",
   "provider_reported_pb_ratio": 0.49,
-  "statements_retrieved_at": "2026-11-17T22:42:37.179381",
+  "statements_retrieved_at": "2026-11-17T23:43:39.530682",
   "retained_fields": []
 }

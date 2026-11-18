@@ -6,7 +6,7 @@
   "business_summary": "CSL Finance Limited, a non-banking financial company, provides SME and wholesale loaning businesses in India. The company offers structured finance for real estate developers, such as loans against property and securities; loans for small builders, including construction finance, refinance and inventory funding, and partner with developers; corporate loans, which include construction linked disbursal plans and principal moratorium facility; and emergency credit line guarantee scheme to SMEs, MSMEs, self-employed individuals, schools, and salaried professionals. The company was formerly known as Consolidated Securities Limited and changed its name to CSL Finance Limited in January 2016. CSL Finance Limited was incorporated in 1992 and is based in Noida, India.",
   "business_summary_reason": null,
   "market_cap_cr": 538.17,
-  "pe_ratio": 6.11,
+  "pe_ratio": 6.27,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 283.44,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T22:51:08.790511",
+  "retrieval_time": "2026-11-17T23:53:45.612192",
   "provider_reported_pb_ratio": 0.84,
-  "statements_retrieved_at": "2026-11-17T22:51:08.790511",
+  "statements_retrieved_at": "2026-11-17T23:53:45.612192",
   "retained_fields": []
 }

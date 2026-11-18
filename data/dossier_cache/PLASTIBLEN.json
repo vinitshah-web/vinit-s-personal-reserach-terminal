@@ -6,7 +6,7 @@
   "business_summary": "Plastiblends India Limited engages in the manufacture and sale of masterbatches in India and internationally. The company offers additive, black, color, filler, polyester, and white masterbatches, as well as conductive and engineered plastic compounds. Its products are used in agriculture, appliances, automotive and transportation, electrical and electronics, telecommunication, flexible packaging, healthcare and pharmaceutical, rigid packaging, textiles, and wire and cable industries. The company was incorporated in 1991 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
   "market_cap_cr": 440.75,
-  "pe_ratio": 9.6,
+  "pe_ratio": 9.49,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 196.68,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T23:18:37.773250",
+  "retrieval_time": "2026-11-18T00:26:05.711116",
   "provider_reported_pb_ratio": 0.86,
-  "statements_retrieved_at": "2026-11-17T23:18:37.773250",
+  "statements_retrieved_at": "2026-11-18T00:26:05.711116",
   "retained_fields": []
 }

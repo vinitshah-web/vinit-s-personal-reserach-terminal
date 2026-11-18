@@ -6,7 +6,7 @@
   "business_summary": "Sumedha Fiscal Services Limited provides investment banking services in India. The company offers merchant banking, debt syndication, financial restructuring, stressed assets resolution, merger and takeover, equity placement, techno-economic viability study, lenders independent engineers report, employee stock option plans advisory, and corporate consulting services, as well as public issues of equities and debt. It also provides capital market services, such as corporate advisory, private placement, delisting and buyback, initial public offer, and valuation; and wealth management services comprising distribution of mutual funds, as well as a digital platform for mutual fund transactions. In addition, the company offers various fee-based services consisting of fund mobilization through debt, quasi equity, and structured hybrid instruments. It serves public and private corporates. The company was incorporated in 1989 and is based in Kolkata, India.",
   "business_summary_reason": null,
   "market_cap_cr": 30.84,
-  "pe_ratio": 10.97,
+  "pe_ratio": 10.76,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 88.54,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-17T23:29:06.044093",
+  "retrieval_time": "2026-11-18T00:38:44.928524",
   "provider_reported_pb_ratio": 0.44,
-  "statements_retrieved_at": "2026-11-17T23:29:06.044093",
+  "statements_retrieved_at": "2026-11-18T00:38:44.928524",
   "retained_fields": []
 }
