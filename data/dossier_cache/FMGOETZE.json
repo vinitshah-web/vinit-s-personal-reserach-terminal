@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Federal-Mogul Goetze (India) Limited manufactures, supplies, and distributes automotive components for automobiles in India and internationally. It provides pistons, piston rings, and wet and dry cylinder liners for a range of applications, including bi-wheelers, passenger cars, SUVs, tractors, light and heavy commercial vehicles, locomotive engines, stationary engines, and high output locomotive diesel engines. The company also offers sintered metal products for various engines and automotive applications, such as valve trains, transmission, lubrication pumps, and other engine/structural parts. It exports its products. The company was formerly known as Goetze (India) Limited and changed its name to Federal-Mogul Goetze (India) Limited in 2006. Federal-Mogul Goetze (India) Limited was incorporated in 1954 and is based in Gurugram, India. Federal-Mogul Goetze (India) Limited is a subsidiary of Federal Mogul Holding Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 2376.6,
-  "pe_ratio": 13.91,
+  "market_cap_cr": 2392.74,
+  "pe_ratio": 14.01,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 258.26,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-18T22:40:44.192846",
-  "provider_reported_pb_ratio": 1.65,
-  "statements_retrieved_at": "2026-11-18T22:40:44.192846",
+  "retrieval_time": "2026-11-19T22:51:49.747402",
+  "provider_reported_pb_ratio": 1.67,
+  "statements_retrieved_at": "2026-11-19T22:51:49.747402",
   "retained_fields": []
 }

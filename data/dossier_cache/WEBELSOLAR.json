@@ -5,8 +5,8 @@
   "industry": "Solar",
   "business_summary": "Websol Energy System Limited manufactures and sells solar photovoltaic (PV) cells and modules in India and internationally. It serves solar module manufacturers. The company was formerly known as Websol Energy Systems Ltd. and changed its name to Websol Energy System Limited in October 2011. The company was incorporated in 1990 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2828.57,
-  "pe_ratio": 8.24,
+  "market_cap_cr": 2838.56,
+  "pe_ratio": 8.27,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 17.92,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-18T23:35:31.681204",
-  "provider_reported_pb_ratio": 3.64,
-  "statements_retrieved_at": "2026-11-18T23:35:31.681204",
+  "retrieval_time": "2026-11-19T23:47:53.360752",
+  "provider_reported_pb_ratio": 3.65,
+  "statements_retrieved_at": "2026-11-19T23:47:53.360752",
   "retained_fields": []
 }

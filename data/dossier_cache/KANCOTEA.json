@@ -5,7 +5,7 @@
   "industry": "Farm Products",
   "business_summary": "Kanco Tea & Industries Limited engages in the plantation, manufacture, and sale of black tea in India. It also undertakes agricultural projects. The company was formerly known as Dhanvaridhi Concerns Limited and changed its name to Kanco Tea & Industries Limited in April 2010. The company was incorporated in 1983 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 34.8,
+  "market_cap_cr": 31.41,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-18T22:52:19.903044",
-  "provider_reported_pb_ratio": 0.62,
-  "statements_retrieved_at": "2026-11-18T22:52:19.903044",
+  "retrieval_time": "2026-11-19T23:05:33.428246",
+  "provider_reported_pb_ratio": 0.56,
+  "statements_retrieved_at": "2026-11-19T23:05:33.428246",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Software - Application",
   "business_summary": "IZMO Limited engages in interactive marketing business in India and internationally. The company offers hi-tech automotive e-retailing solutions. It also provides software solutions and services. The company was formerly known as Logix Microsystems Limited and changed its name to IZMO Limited in 2014. The company was incorporated in 1995 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1173.03,
-  "pe_ratio": 21.77,
+  "market_cap_cr": 1158.2,
+  "pe_ratio": 21.49,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 273.33,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-18T22:50:29.045013",
-  "provider_reported_pb_ratio": 2.86,
-  "statements_retrieved_at": "2026-11-18T22:50:29.045013",
+  "retrieval_time": "2026-11-19T23:03:20.513196",
+  "provider_reported_pb_ratio": 2.83,
+  "statements_retrieved_at": "2026-11-19T23:03:20.513196",
   "retained_fields": []
 }

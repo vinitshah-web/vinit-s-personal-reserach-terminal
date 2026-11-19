@@ -5,7 +5,7 @@
   "industry": "Entertainment",
   "business_summary": "Tips Films Limited engages in the production and distribution of films, web-series, and related content in India and internationally. The company was incorporated in 2009 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 158.07,
+  "market_cap_cr": 163.53,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-18T23:30:43.291225",
-  "provider_reported_pb_ratio": 20313.89,
-  "statements_retrieved_at": "2026-11-18T23:30:43.291225",
+  "retrieval_time": "2026-11-19T23:41:51.144029",
+  "provider_reported_pb_ratio": 21016.67,
+  "statements_retrieved_at": "2026-11-19T23:41:51.144029",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Luxury Goods",
   "business_summary": "Rajesh Exports Limited, a gold refiner, engages in the manufacture, wholesale, and retail of gold and various gold jewellery products in India. It also owns retail showrooms under the SHUBH Jewellers brand. The company also exports its products. The company serves wholesale gold jewellery buyers, bullion dealers, and retail customers. Rajesh Exports Limited was incorporated in 1989 and is headquartered in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1436.14,
-  "pe_ratio": 8.5,
+  "market_cap_cr": 1447.66,
+  "pe_ratio": 8.57,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 584.87,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-18T23:09:39.887722",
+  "retrieval_time": "2026-11-19T23:26:14.521596",
   "provider_reported_pb_ratio": 0.08,
-  "statements_retrieved_at": "2026-11-18T23:09:39.887722",
+  "statements_retrieved_at": "2026-11-19T23:26:14.521596",
   "retained_fields": []
 }

@@ -5,7 +5,7 @@
   "industry": "Advertising Agencies",
   "business_summary": "Odigma Consultancy Solutions Limited operates as a digital marketing agency and domain registry service provider in India. The company operates through Digital Marketing, and Global Top Level Domain Undertaking. It design, development, and optimisation of websites and digital platforms; and offers email marketing, social media, online reputation management, video marketing, programmatic advertising, search engine marketing and optimization, and content marketing services, as well as answer engine optimisation and generative engine optimisation (AEO & GEO). The company was founded in 2010 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 62.7,
+  "market_cap_cr": 61.2,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-18T23:04:21.252715",
-  "provider_reported_pb_ratio": 1.22,
-  "statements_retrieved_at": "2026-11-18T23:04:21.252715",
+  "retrieval_time": "2026-11-19T23:20:01.003883",
+  "provider_reported_pb_ratio": 1.19,
+  "statements_retrieved_at": "2026-11-19T23:20:01.003883",
   "retained_fields": []
 }

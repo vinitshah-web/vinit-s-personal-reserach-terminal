@@ -5,8 +5,8 @@
   "industry": "Asset Management",
   "business_summary": "Pilani Investment and Industries Corporation Limited, a non-banking financial company, engages in the investment and financing activities in India. It holds investments in shares and securities, loans and trade accounts receivable, and invests in mutual funds. The company was incorporated in 1948 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4447.94,
-  "pe_ratio": null,
+  "market_cap_cr": 4453.48,
+  "pe_ratio": 13.2,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 16327.6,
@@ -40,7 +40,7 @@
       "operating_cash_flow_cr": 631.26,
       "capex_cr": 0.46,
       "fcff_cr": 630.8,
-      "total_assets_cr": 19311.48,
+      "total_assets_cr": 19317.3,
       "total_equity_cr": 15980.09,
       "total_debt_cr": 1936.9,
       "cash_cr": 18.17
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-18T23:06:52.245516",
+  "retrieval_time": "2026-11-19T23:22:59.862407",
   "provider_reported_pb_ratio": 0.25,
-  "statements_retrieved_at": "2026-11-18T23:06:52.245516",
+  "statements_retrieved_at": "2026-11-19T23:22:59.862407",
   "retained_fields": []
 }

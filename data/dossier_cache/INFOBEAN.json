@@ -5,8 +5,8 @@
   "industry": "Software - Application",
   "business_summary": "InfoBeans Technologies Limited designs, builds, and manages digital applications in the United States, Germany, India, the United Arab Emirates, and internationally. The company offers Expona AI 2.0, a context trained AI agent for conversational intelligence; BeanTrail, an AI-driven Salesforce audit intelligence for critical field history insights; Spacewarp, an AI rules-based tool for ServiceNow; and GCC services for end-to-end setup, transformation, and managed services. It also provides agentic AI, an enterprise-grade development and deployment of scalable AI agents; managed support for AI-enabled L2/L3 support driving year-over-year cost reduction; InsaneSDD 2.0, a software creation with AI native spec driven development; RAI for AI-led engineering and trusted deployments; and Stanza, a committee management, voting, and balloting platform. InfoBeans Technologies Limited was founded in 2000 and is headquartered in Indore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1535.21,
-  "pe_ratio": 17.34,
+  "market_cap_cr": 1550.43,
+  "pe_ratio": 17.51,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 46.75,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-18T22:49:06.025230",
-  "provider_reported_pb_ratio": 3.39,
-  "statements_retrieved_at": "2026-11-18T22:49:06.025230",
+  "retrieval_time": "2026-11-19T23:01:39.975377",
+  "provider_reported_pb_ratio": 3.42,
+  "statements_retrieved_at": "2026-11-19T23:01:39.975377",
   "retained_fields": []
 }

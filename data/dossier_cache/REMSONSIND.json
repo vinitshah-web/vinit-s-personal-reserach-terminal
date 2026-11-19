@@ -6,7 +6,7 @@
   "business_summary": "Remsons Industries Limited, together with its subsidiaries, manufactures and sells automotive components parts and related products in India and internationally. The company offers cables, such as parking brake, clutch, door, seat, throttle, sunroof, retainer, window regulator, and winch cables; hood and fuel flap release cable with mechanism, and boot release mechanism with cable; flexible shafts, pull to stop, decompressor, and choke; handle assemblies; and brake slack adjusters, air brake components for wagons, defense brakes, and steering systems. It also provides gear shift and combi brake systems; parking brake mechanisms; winches; jack kits; pedal box assemblies; sensors, including contactless, panel setting, brush mounting, angle sensing, hollow shaft, linear, and multi turn pots, as well as joystick controllers, resenso, advance control sensors, and other automotive products; automotive exterior and interior lighting; and other electronics. The company's products are used in two and three-wheelers, passenger and commercial vehicles, and off-highway vehicles. It exports its products to United States, Brazil, the United Kingdom, France, Germany, Austria, Sweden, Italy, Spain, Turkey, Kenya, Nepal, Bangladesh, Bhutan, Sri Lanka, and Singapore, and others. Remsons Industries Limited was founded in 1959 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
   "market_cap_cr": 303.72,
-  "pe_ratio": 17.5,
+  "pe_ratio": 16.82,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 44.8,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-18T23:10:45.690096",
+  "retrieval_time": "2026-11-19T23:27:31.018487",
   "provider_reported_pb_ratio": 1.93,
-  "statements_retrieved_at": "2026-11-18T23:10:45.690096",
+  "statements_retrieved_at": "2026-11-19T23:27:31.018487",
   "retained_fields": []
 }

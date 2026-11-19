@@ -5,11 +5,11 @@
   "industry": "Insurance - Life",
   "business_summary": "Religare Enterprises Limited, through its subsidiaries, provides various financial services in India. It operates through Investment and Financing Activities; Broking Related Activities; E-Governance; and Insurance segments. The company provides small and medium enterprise financing; and housing finance products comprising home-purchase, home construction, and home improvement loans. It also offers broking services in equity, currency, and commodity; and depository participant services, as well as operates as a NSDL-appointed enrolment agency for Aadhaar Unique Identification Number, and a mutual fund distributor. In addition, the company provides health, critical illness, personal accident, top-up coverage, international travel, and maternity insurance products, as well as group health and personal accident insurance for corporates. Further, the company engages in the permanent account number issuance; tax deduction and collection account number and e-TDS returns; acting as a business correspondent for banking services; bharat bill payment systems and recharges services; ticketing services; and digital signature certificate and token services. The company was incorporated in 1984 and is headquartered in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 7620.48,
+  "market_cap_cr": 7939.72,
   "pe_ratio": 148.26,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
-  "book_value": 87.38,
+  "book_value": 87.36,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 34.4756,
   "fifty_two_week_high": 280.0,
@@ -93,11 +93,12 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-18T23:10:42.006969",
-  "provider_reported_pb_ratio": 2.53,
-  "statements_retrieved_at": "2026-11-18T23:10:42.006969",
+  "retrieval_time": "2026-11-19T23:27:26.713372",
+  "provider_reported_pb_ratio": 2.64,
+  "statements_retrieved_at": "2026-11-19T23:27:26.713372",
+  "previous_retrieval_time": "2026-11-18T23:10:42.006969",
   "retained_fields": [
-    "pe_ratio"
-  ],
-  "previous_retrieval_time": "2026-11-18T00:29:46.762019"
+    "pe_ratio",
+    "previous_retrieval_time"
+  ]
 }

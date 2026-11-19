@@ -5,14 +5,14 @@
   "industry": "Textile Manufacturing",
   "business_summary": "GHCL Textiles Limited engages in the production and sale of yarn in India and internationally. It offers open end, ring spun cotton, TFO, vortex, synthetic and synthetic blend ring spun yarn products. The company was founded in 1927 and is headquartered in Noida, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1308.57,
-  "pe_ratio": 11.28,
+  "market_cap_cr": 1357.13,
+  "pe_ratio": 11.7,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 164.45,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 9.5586,
-  "fifty_two_week_high": 144.59,
+  "fifty_two_week_high": 149.65,
   "fifty_two_week_low": 65.26,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-18T22:41:57.977704",
-  "provider_reported_pb_ratio": 0.83,
-  "statements_retrieved_at": "2026-11-18T22:41:57.977704",
+  "retrieval_time": "2026-11-19T22:53:15.455071",
+  "provider_reported_pb_ratio": 0.86,
+  "statements_retrieved_at": "2026-11-19T22:53:15.455071",
   "retained_fields": []
 }

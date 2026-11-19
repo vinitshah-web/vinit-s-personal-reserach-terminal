@@ -5,14 +5,14 @@
   "industry": "Real Estate - Development",
   "business_summary": "Oswal Agro Mills Limited engages in the development and trading of real estate properties in India. It operates through Trading, Real Estate, and Investment segments. It also trades in goods and commodities. In addition, the company invests in equity instruments and other securities; and surplus funds in inter-corporate deposits, and other miscellaneous incomes. Oswal Agro Mills Limited was incorporated in 1979 and is headquartered in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 468.63,
+  "market_cap_cr": 473.61,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 68.38,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 13.4235,
-  "fifty_two_week_high": 66.0,
+  "fifty_two_week_high": 65.75,
   "fifty_two_week_low": 31.15,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-18T23:05:23.750759",
+  "retrieval_time": "2026-11-19T23:21:15.599098",
   "provider_reported_pb_ratio": 0.51,
-  "statements_retrieved_at": "2026-11-18T23:05:23.750759",
+  "statements_retrieved_at": "2026-11-19T23:21:15.599098",
   "retained_fields": []
 }

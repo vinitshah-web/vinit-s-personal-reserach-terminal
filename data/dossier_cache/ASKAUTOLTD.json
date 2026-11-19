@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "ASK Automotive Limited manufactures and sells auto components for the automobile industry in India. The company offers advanced braking systems, such as brake shoe and pad, brake panel assembly, clutch plate and shoe, brake linings, disc brake pad, and brake liner. It also provides aluminum lightweighting precision solutions for two and four-wheeler and electric vehicles. In addition, the company offers front and rear brake, throttle, seat lock, fuel lid, and speedometer cable assembly products, as well as accelerator cables. It serves original equipment manufacturers. The company was incorporated in 1988 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 12424.91,
-  "pe_ratio": 36.75,
+  "market_cap_cr": 12634.87,
+  "pe_ratio": 37.37,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 74.11,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-18T22:26:37.652031",
-  "provider_reported_pb_ratio": 8.5,
-  "statements_retrieved_at": "2026-11-18T22:26:37.652031",
+  "retrieval_time": "2026-11-19T22:35:04.228176",
+  "provider_reported_pb_ratio": 8.65,
+  "statements_retrieved_at": "2026-11-19T22:35:04.228176",
   "retained_fields": []
 }
