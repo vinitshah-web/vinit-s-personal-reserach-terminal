@@ -5,14 +5,14 @@
   "industry": "Apparel Manufacturing",
   "business_summary": "Monte Carlo Fashions Limited manufactures and trades in woolen, cotton, cotton-blended, knitted, and woven garments for men, women, and kids in India and internationally. The company offers sweaters, sweatshirts, jackets, coats, T-shirts, shirts, jeans, trousers, suits, thermals, mufflers, mink blankets, bedsheets, towels, footwear, denims, jackets, sports and fitness wear; bermudas, lowers, high-street fashion shirts, tops, dresses, jumpsuits, urban tunics, shrugs, shorts, capris, narrow pants, leggings, and track suits; and accessories, including ties, belts, and socks. It also offers home furnishings. The company provides its products under the Monte Carlo, Luxuria, Denim, Alpha, Tweens, Cloak & Decker, Monte Carlo Home, and Rock.it brands. It sells its products through exclusive brand outlets, multi brand outlets, national chain stores, shop-in-shop stores, distributors, and retail chains, as well as through e-commerce platforms. Monte Carlo Fashions Limited was founded in 1984 and is based in Ludhiana, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1036.29,
-  "pe_ratio": 11.54,
+  "market_cap_cr": 1025.93,
+  "pe_ratio": 11.43,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 422.93,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 2.0732,
-  "fifty_two_week_high": 860.95,
+  "fifty_two_week_high": 847.5,
   "fifty_two_week_low": 464.0,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-19T23:15:28.086468",
-  "provider_reported_pb_ratio": 1.18,
-  "statements_retrieved_at": "2026-11-19T23:15:28.086468",
+  "retrieval_time": "2026-11-20T22:46:34.804041",
+  "provider_reported_pb_ratio": 1.17,
+  "statements_retrieved_at": "2026-11-20T22:46:34.804041",
   "retained_fields": []
 }

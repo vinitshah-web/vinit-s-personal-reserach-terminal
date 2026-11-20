@@ -5,8 +5,8 @@
   "industry": "Lumber & Wood Production",
   "business_summary": "The Western India Plywoods Limited manufactures and sells hardboard, plywood, and compreg wood products in India and internationally. The company offers fire retardant, resin surfaced shuttering, marine, and boiling water-resistant plywood; hard boards, such as standard hardboard, oil tempered, and perforated; densified woods, including compreg slats, moulded seats, WIPCHECK, WIPBEAR, WIPROC, WIP filter plates, WIPCOM, WIPLAM, and WIPWOOD; softwoods; furniture; doors; and WIPRESS, a hard and rigid board. It also provides value-added products. It serves customers automobiles customers, and packaging industry and construction companies. The Company was incorporated in 1945 and is based in Kannur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 140.05,
-  "pe_ratio": 970.65,
+  "market_cap_cr": 139.06,
+  "pe_ratio": 963.76,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 52.72,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-19T23:48:29.569830",
-  "provider_reported_pb_ratio": 3.13,
-  "statements_retrieved_at": "2026-11-19T23:48:29.569830",
+  "retrieval_time": "2026-11-20T23:19:20.993782",
+  "provider_reported_pb_ratio": 3.11,
+  "statements_retrieved_at": "2026-11-20T23:19:20.993782",
   "retained_fields": []
 }

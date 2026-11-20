@@ -5,14 +5,14 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "Greaves Cotton Limited operates engineering and mobility retail business in India, the Middle East, Africa, Southeast Asia, and internationally. It operates in four segments: Engines; Electric Mobility & Other Vehicles; Cables & Control Levers; and Others. The company engages in the provision of engines for farm equipment, gensets, and spares; manufacture and trade of electric vehicles and its spare parts; and manufacture of cables and control levers for commercial vehicles, industrial machines, construction equipment, as well as boats and vehicles. It also provides the greaves care and aftermarket spares services; offers vehicle financing; manufactures mechanical and electronic motion control systems; manufactures and supplies e-rickshaw and e-3wheeler under the ELE brand; designs, develops, manufactures, markets, and sells L5 three-wheelers; and designs and manufactures 2-wheelers under the Ampere brand. In addition, the company offers engineering services to the OEMs for development and maintenance of engines, plant and machinery, and equipment; fuel-agnostic powertrain solutions; lending and related solutions to purchasers of electric 2-wheeler and 3-wheeler vehicles; and lease financing options. Further, it offers engineering services, which includes auto application, such as diesel engine, and gasoline and alternate fuel; and non-automotive applications comprising power, agriculture, and industrial solutions. Greaves Cotton Limited was founded in 1859 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 6138.27,
-  "pe_ratio": 78.66,
+  "market_cap_cr": 6250.32,
+  "pe_ratio": 80.09,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 56.66,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 23.2951,
-  "fifty_two_week_high": 271.9,
+  "fifty_two_week_high": 281.01,
   "fifty_two_week_low": 119.99,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-19T22:55:12.173493",
-  "provider_reported_pb_ratio": 4.65,
-  "statements_retrieved_at": "2026-11-19T22:55:12.173493",
+  "retrieval_time": "2026-11-20T22:26:10.506006",
+  "provider_reported_pb_ratio": 4.74,
+  "statements_retrieved_at": "2026-11-20T22:26:10.506006",
   "retained_fields": []
 }

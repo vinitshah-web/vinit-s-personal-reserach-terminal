@@ -5,14 +5,14 @@
   "industry": "Furnishings, Fixtures & Appliances",
   "business_summary": "Essen Speciality Films Limited manufactures and exports specialized plastic products in India and internationally. The company offers bath area products, such as PEVA shower curtains and liners, and bathtubs and shower mats, as well as shower curtain accessories, including curtain rings, hooks, hangers, anti-draft clips, magnets, and glass stones; and kitchen and dining products comprising chopping boards, tablecloths with non-woven backing, disposable party table covers, EVA foam placemats and coasters, and PP placemats. It also offers home d\u00e9cor products consisting of artificial plants and flowers; storage and organization products, which include shelf liners/drawer liners and desk mats; and fitness and lifestyle products, which comprise yoga mats, interlocking foam tiles, and kid's puzzle mats. In addition, the company provides outdoor and utility products, such as tarps/tarpaulins, vehicle covers, pond liners, and rain gears and ponchos; and customized products, which include delivery bags, reusable shopping bags, spa slippers, baby shower caps, plant pots, bottle carriers, and films/rolls. It also serves customers in home improvement and home furnishings, retailers and OEMs. Essen Speciality Films Limited was formerly known as Essen Speciality Films Private Limited. The company was incorporated in 2002 and is based in Rajkot, India.",
   "business_summary_reason": "The secondary provider returned no company overview.",
-  "market_cap_cr": 306.76,
+  "market_cap_cr": 296.33,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 57.63,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 2.4839,
-  "fifty_two_week_high": 244.6,
+  "fifty_two_week_high": 233.5,
   "fifty_two_week_low": 99.0,
   "financial_statements": [
     {
@@ -93,10 +93,10 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-19T22:50:16.516756",
-  "provider_reported_pb_ratio": 2.14,
-  "statements_retrieved_at": "2026-11-19T22:50:16.516756",
-  "previous_retrieval_time": "2026-11-18T22:39:26.186245",
+  "retrieval_time": "2026-11-20T22:21:08.799540",
+  "provider_reported_pb_ratio": 2.07,
+  "statements_retrieved_at": "2026-11-20T22:21:08.799540",
+  "previous_retrieval_time": "2026-11-19T22:50:16.516756",
   "retained_fields": [
     "business_summary_reason",
     "previous_retrieval_time"

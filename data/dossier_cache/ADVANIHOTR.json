@@ -5,8 +5,8 @@
   "industry": "Lodging",
   "business_summary": "Advani Hotels & Resorts (India) Limited engages in the hotel business in India. The company owns and operates the Caravela Beach Resort, a five-star Deluxe Resort situated in South Goa. The company was formerly known as Ramada Hotels (India) Limited and changed its name to Advani Hotels & Resorts (India) Limited in 1999. Advani Hotels & Resorts (India) Limited was incorporated in 1987 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 422.63,
-  "pe_ratio": 18.44,
+  "market_cap_cr": 419.21,
+  "pe_ratio": 18.29,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 55.73,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-19T22:30:10.668543",
-  "provider_reported_pb_ratio": 0.82,
-  "statements_retrieved_at": "2026-11-19T22:30:10.668543",
+  "retrieval_time": "2026-11-20T22:00:22.466105",
+  "provider_reported_pb_ratio": 0.81,
+  "statements_retrieved_at": "2026-11-20T22:00:22.466105",
   "retained_fields": []
 }

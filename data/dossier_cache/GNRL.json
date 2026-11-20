@@ -5,8 +5,8 @@
   "industry": "Oil & Gas E&P",
   "business_summary": "Gujarat Natural Resources Limited, together with its subsidiaries, engages in the exploration and production of oil and natural gas in India. The company holds interests in producing 6 blocks, including five operated blocks in the Cambay basin. It also provides well engineering, technical advisory, and drilling project management services. In addition, the company engages in the trading of goods; and other activities. The company was formerly known as Lesha Energy Resources Limited and changed its name to Gujarat Natural Resources Limited in March 2010. Gujarat Natural Resources Limited was incorporated in 1991 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1722.71,
-  "pe_ratio": 86.38,
+  "market_cap_cr": 1837.76,
+  "pe_ratio": 92.15,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 1.61,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-19T22:54:06.426328",
-  "provider_reported_pb_ratio": 6.99,
-  "statements_retrieved_at": "2026-11-19T22:54:06.426328",
+  "retrieval_time": "2026-11-20T22:25:03.029265",
+  "provider_reported_pb_ratio": 7.45,
+  "statements_retrieved_at": "2026-11-20T22:25:03.029265",
   "retained_fields": []
 }

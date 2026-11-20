@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "Kridhan Infra Limited manufactures and trades in iron and steel and allied materials in India and internationally. The company provides bridge expansion joints for asphalt and concrete connections; and rebar mechanical couplers. In addition, the company offers bored piling, driven piling, micro piling and soil improvement, and soil investigation services. The company was formerly known as Readymade Steel India Limited and changed its name to Kridhan Infra Limited in June 2014. Kridhan Infra Limited was incorporated in 2006 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 22.54,
-  "pe_ratio": 22.44,
+  "market_cap_cr": 22.2,
+  "pe_ratio": 22.11,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": -26.94,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-19T23:07:38.507405",
+  "retrieval_time": "2026-11-20T22:38:43.891468",
   "provider_reported_pb_ratio": -0.07,
-  "statements_retrieved_at": "2026-11-19T23:07:38.507405",
+  "statements_retrieved_at": "2026-11-20T22:38:43.891468",
   "retained_fields": []
 }

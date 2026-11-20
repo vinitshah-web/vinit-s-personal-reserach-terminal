@@ -5,14 +5,14 @@
   "industry": "Steel",
   "business_summary": "Salasar Techno Engineering Limited engages in the manufacture and sale of galvanized and non-galvanized steel structures in India and internationally. It operates in two segments, Steel Structure, and Engineering Procurement and Construction. The company's products include transmission structures, monopoles, solar structures, utility poles, smart poles, and heavy steel structures supported by integrated design, fabrication, and EPC capabilities; and power transmission line towers, substation structures, railway electrification structures, solar module mounting structures, guard rails, and customized galvanized and non-galvanized steel products. It also provides smart city poles and camouflaging solutions. In addition, the company undertakes engineering, procurement, and construction projects for survey, supply of materials, design, erection, and testing and commissioning on a turnkey basis. Salasar Techno Engineering Limited was incorporated in 2001 and is based in Noida, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 978.85,
-  "pe_ratio": 70.0,
+  "market_cap_cr": 933.41,
+  "pe_ratio": 66.75,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 9.32,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 174.795,
-  "fifty_two_week_high": 10.93,
+  "fifty_two_week_high": 10.79,
   "fifty_two_week_low": 3.6,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-19T23:30:03.193526",
-  "provider_reported_pb_ratio": 0.6,
-  "statements_retrieved_at": "2026-11-19T23:30:03.193526",
+  "retrieval_time": "2026-11-20T23:01:28.151410",
+  "provider_reported_pb_ratio": 0.57,
+  "statements_retrieved_at": "2026-11-20T23:01:28.151410",
   "retained_fields": []
 }

@@ -5,14 +5,14 @@
   "industry": "Financial Conglomerates",
   "business_summary": "Centrum Capital Limited, together with its subsidiaries, provides various financial services for institutions and individuals in India. It operates through Banking Business; Institutional Business; Wealth Management & Distribution; and Housing Finance Business segments. The company offers investment banking services, including equity initial public offerings (IPO), follow-on public offerings and rights issues, pre-IPO placements, qualified institutional placements, American depository receipts, global depository receipts, alternative investment markets, convertible issuances, buybacks and delisting, open offers, and valuation advisory services; working capital, project finance, term/corporate loans, and external commercial borrowings/foreign currency loans; and mergers and acquisitions, structured finance advisory, and private equity advisory services, as well as infrastructure advisory services. It also provides home and non-home loans; distribution services, tax and financial planning, family legacy and leadership, philanthropy, trust and estate, and ancillary services; corporate treasury services; stock broking services; general, travel, health, and life insurance services; private credit and venture debt funding services; and portfolio and wealth management, and retail broking services. In addition, the company offers institutional equities and research services, as well as trades in bonds. Further, it offers MSME loans and micro finance services. Centrum Capital Limited was incorporated in 1977 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 975.57,
+  "market_cap_cr": 976.54,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 3.04,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 48.6568,
-  "fifty_two_week_high": 33.18,
+  "fifty_two_week_high": 33.0,
   "fifty_two_week_low": 16.39,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-19T22:42:01.461334",
-  "provider_reported_pb_ratio": 6.59,
-  "statements_retrieved_at": "2026-11-19T22:42:01.461334",
+  "retrieval_time": "2026-11-20T22:12:45.491557",
+  "provider_reported_pb_ratio": 6.6,
+  "statements_retrieved_at": "2026-11-20T22:12:45.491557",
   "retained_fields": []
 }

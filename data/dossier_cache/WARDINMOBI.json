@@ -5,13 +5,13 @@
   "industry": "Auto Manufacturers",
   "business_summary": "Wardwizard Innovations & Mobility Limited, together with its subsidiary, Wardwizard Global PTE Ltd, manufactures and sells electrical vehicles, spare parts, and other related services in India, Uganda, and Nepal. The company operates through Sales of Electric Vehicles, its Components & Related Services; Vyom Innovation; Sale of Services; and Other segments. It offers two-wheeler electric vehicles under the Joy E-Bikes brand; and 3-wheelers under the Joy E-Rik brand. The company was formerly known as Manvijay Development Company Limited and changed its name to Wardwizard Innovations & Mobility Limited in February 2020. Wardwizard Innovations & Mobility Limited was incorporated in 1982 and is headquartered in Vadodara, India.",
   "business_summary_reason": null,
-  "market_cap_cr": null,
+  "market_cap_cr": 94.16,
   "pe_ratio": 83.75,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 4.72,
   "dividend_yield_pct": 0.0,
-  "shares_outstanding_cr": null,
+  "shares_outstanding_cr": 30.0817,
   "fifty_two_week_high": 6.99,
   "fifty_two_week_low": 2.95,
   "financial_statements": [
@@ -93,11 +93,12 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-19T23:47:46.026120",
-  "provider_reported_pb_ratio": 0.7,
-  "statements_retrieved_at": "2026-11-19T23:47:46.026120",
+  "retrieval_time": "2026-11-20T23:18:50.082702",
+  "provider_reported_pb_ratio": 0.66,
+  "statements_retrieved_at": "2026-11-20T23:18:50.082702",
+  "previous_retrieval_time": "2026-11-19T23:47:46.026120",
   "retained_fields": [
-    "pe_ratio"
-  ],
-  "previous_retrieval_time": "2026-11-18T23:35:26.983189"
+    "pe_ratio",
+    "previous_retrieval_time"
+  ]
 }

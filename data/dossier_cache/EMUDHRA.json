@@ -5,8 +5,8 @@
   "industry": "Software - Application",
   "business_summary": "eMudhra Limited provides trust and enterprise solutions to individuals and organizations in India, North America, Europe, the Middle East, Africa, and the Asia Pacific. The company provides solutions such as emSigner paperless workflow, SecurePass identity and authentication management, Certinext certificate issuance and life cycle management; ID broker; data discovery and management platform; and emSign trust services. It serves corporate, retail, and private banking sectors. eMudhra Limited was incorporated in 2008 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2918.41,
-  "pe_ratio": 24.0,
+  "market_cap_cr": 2940.18,
+  "pe_ratio": 24.18,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 119.15,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-19T22:49:28.372115",
-  "provider_reported_pb_ratio": 2.98,
-  "statements_retrieved_at": "2026-11-19T22:49:28.372115",
+  "retrieval_time": "2026-11-20T22:20:20.419616",
+  "provider_reported_pb_ratio": 3.0,
+  "statements_retrieved_at": "2026-11-20T22:20:20.419616",
   "retained_fields": []
 }

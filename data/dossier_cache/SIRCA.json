@@ -5,14 +5,14 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Sirca Paints India Limited manufactures and sells wood coatings and decorative paints in India and internationally. The company offers wood, metal, glass, polyester, metallic, specialty, protective, polyurethane polish (PU), and nitrocellulose (NC) coatings; wall paints; solid color finishes and wall textures; acrylic PUs and UVs; enamels; thinners, reducers, retarders, paint removers, and interior finishing products; and melamine and economical PU products. It sells its products under the Sirca, Oikos, Wembley, Valentino, Welcome, Unico, San Marco, and Durante Vivan brands. The company serves architects, interior designers, retail dealers, homeowners, and original equipment manufacturers (OEMs). It exports its products to Nepal, Bangladesh, and Sri Lanka. Sirca Paints India Limited was founded in 1973 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2295.25,
-  "pe_ratio": 32.83,
+  "market_cap_cr": 2290.41,
+  "pe_ratio": 32.76,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 88.03,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 5.6793,
-  "fifty_two_week_high": 533.0,
+  "fifty_two_week_high": 532.55,
   "fifty_two_week_low": 385.0,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-19T23:35:14.042657",
-  "provider_reported_pb_ratio": 4.58,
-  "statements_retrieved_at": "2026-11-19T23:35:14.042657",
+  "retrieval_time": "2026-11-20T23:06:42.613128",
+  "provider_reported_pb_ratio": 4.57,
+  "statements_retrieved_at": "2026-11-20T23:06:42.613128",
   "retained_fields": []
 }

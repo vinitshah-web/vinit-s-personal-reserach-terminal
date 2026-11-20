@@ -5,15 +5,15 @@
   "industry": "Steel",
   "business_summary": "Scoda Tubes Limited manufactures and sells stainless steel pipes and tubes in India and internationally. The company provides stainless steel and welded pipes, tubes, u tubes, carbon steel tubes, brazed double walled stainless steel pipes and tubes, and brazed double walled copper coated tubes and tubes. The company serves oil, fertilizer, gas, power, pharmaceuticals, automotive, railways, and transportation industries. Scoda Tubes Limited was incorporated in 2008 and is based in Mehsana, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 545.89,
-  "pe_ratio": 19.77,
+  "market_cap_cr": 539.3,
+  "pe_ratio": 19.53,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 66.96,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 5.9909,
   "fifty_two_week_high": 173.7,
-  "fifty_two_week_low": 90.62,
+  "fifty_two_week_low": 88.5,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-19T23:31:41.924188",
-  "provider_reported_pb_ratio": 1.36,
-  "statements_retrieved_at": "2026-11-19T23:31:41.924188",
+  "retrieval_time": "2026-11-20T23:03:06.547533",
+  "provider_reported_pb_ratio": 1.34,
+  "statements_retrieved_at": "2026-11-20T23:03:06.547533",
   "retained_fields": []
 }

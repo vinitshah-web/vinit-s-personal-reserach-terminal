@@ -5,15 +5,15 @@
   "industry": "Information Technology Services",
   "business_summary": "Handson Global Management (HGM) Limited, together with its subsidiaries, provides software and IT enabled services in North America, Asia Pacific, and the Middle East. It offers data entry services, software development, and support services; AI - driven pre -authorization transformation; AI-driven charting, coding, and billing transformation; autonomous coding for specialties using NLP and ML; intelligent claims processing and first-pass acceptance; denials prevention, resolution, and audit compliance with AI insights; and real-time dashboards, velocity tracking, and predictive analytics supporting operational intelligence. The company also engages in designing and deploying AI-native and cloud-first ecosystems to modernize infrastructure, automate workflows, and drive measurable business impact. In addition, it provides modular solutions, such as autonomous coding and AI agent, as well as voice and conversation intelligence; process discovery and optimization, workflow automation, intelligent document processing, case management, exception handling, executive dashboards and analytics, and AI-augmented decisioning. The company was formerly known as HOV Services Limited and changed its name to Handson Global Management (HGM) Limited in August 2025. Handson Global Management (HGM) Limited was incorporated in 1989 and is headquartered in Pune, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 48.0,
+  "market_cap_cr": 47.92,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 9.72,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.2595,
-  "fifty_two_week_high": 77.65,
-  "fifty_two_week_low": 37.05,
+  "fifty_two_week_high": 77.0,
+  "fifty_two_week_low": 37.5,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-19T22:58:31.586353",
+  "retrieval_time": "2026-11-20T22:29:35.337396",
   "provider_reported_pb_ratio": 3.92,
-  "statements_retrieved_at": "2026-11-19T22:58:31.586353",
+  "statements_retrieved_at": "2026-11-20T22:29:35.337396",
   "retained_fields": []
 }

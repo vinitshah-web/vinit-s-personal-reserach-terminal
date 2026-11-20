@@ -5,8 +5,8 @@
   "industry": "Capital Markets",
   "business_summary": "Dolat Algotech Limited engages in the proprietary trading of shares, securities, commodities, derivatives, and other financial products in India. The company was formerly known as Dolat Investments Limited and changed its name to Dolat Algotech Limited in November 2021. Dolat Algotech Limited was incorporated in 1983 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1124.64,
-  "pe_ratio": 7.81,
+  "market_cap_cr": 1126.05,
+  "pe_ratio": 7.82,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 64.22,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-19T22:47:11.662670",
-  "provider_reported_pb_ratio": 0.99,
-  "statements_retrieved_at": "2026-11-19T22:47:11.662670",
+  "retrieval_time": "2026-11-20T22:18:04.039925",
+  "provider_reported_pb_ratio": 1.0,
+  "statements_retrieved_at": "2026-11-20T22:18:04.039925",
   "retained_fields": []
 }

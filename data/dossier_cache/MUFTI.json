@@ -5,8 +5,8 @@
   "industry": "Apparel Retail",
   "business_summary": "Credo Brands Marketing Limited engages in the retail of men's casual wear under the MUFTI brand in India. The company offers athleisure merchandise, shirts, jeans, cargos, polos, t-shirts, sweatshirts, sweaters, outerwear, blazers, chinos, and trousers, as well as authentic, relaxed, and urban casuals. It also operates an online shop for its products. The company sells its products through multi-brand and exclusive brand outlets, large format stores, and online channels comprising its website and e-commerce marketplaces. The company was founded in 1998 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 488.23,
-  "pe_ratio": 9.34,
+  "market_cap_cr": 482.67,
+  "pe_ratio": 9.24,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 69.69,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-19T23:16:24.730437",
-  "provider_reported_pb_ratio": 1.07,
-  "statements_retrieved_at": "2026-11-19T23:16:24.730437",
+  "retrieval_time": "2026-11-20T22:47:27.983673",
+  "provider_reported_pb_ratio": 1.06,
+  "statements_retrieved_at": "2026-11-20T22:47:27.983673",
   "retained_fields": []
 }

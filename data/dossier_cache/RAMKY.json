@@ -5,14 +5,14 @@
   "industry": "Engineering & Construction",
   "business_summary": "Ramky Infrastructure Limited, together with its subsidiaries, provides integrated construction, infrastructure development, and management services primarily in India. The company operates through Construction Business and Developer Business segments. It constructs water and waste water projects, such as water treatment plants, water transmission and distribution systems, elevated and ground level service reservoirs, sewage treatment plants, common effluent treatment plants, tertiary treatment plants, underground drainage systems, and lake restorations. The company also engages in the irrigation projects, including cross-drainage works, lift irrigation projects, canals, feeder channels, and barrages. In addition, it undertakes industrial construction projects comprising industrial parks, SEZs, and related industrial infrastructure works; roads and bridges projects, such as expressways, highways, bridges, flyovers, rural roads, terminals, and dedicated service corridors; commercial, residential, public, institutional, corporate buildings, mass housing projects, healthcare infrastructure, high-rise, integrated townships projects, and related infrastructure facilities, including hospitals and shopping malls; and power transmission and distribution projects comprising electricity transmission networks, substations, feeder lines, and high and low tension distribution lines. Further, the company develops various development projects based on public-private partnership comprising transportation and transportation terminals, industrial parks and industrial solutions, urban water and waste water management solutions, urban solutions, and integrated townships. Ramky Infrastructure Limited was incorporated in 1994 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2647.51,
-  "pe_ratio": 10.49,
+  "market_cap_cr": 2661.69,
+  "pe_ratio": 10.55,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 330.34,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 6.9198,
-  "fifty_two_week_high": 635.0,
+  "fifty_two_week_high": 630.75,
   "fifty_two_week_low": 244.0,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-19T23:26:39.801370",
+  "retrieval_time": "2026-11-20T22:57:55.794592",
   "provider_reported_pb_ratio": 1.16,
-  "statements_retrieved_at": "2026-11-19T23:26:39.801370",
+  "statements_retrieved_at": "2026-11-20T22:57:55.794592",
   "retained_fields": []
 }

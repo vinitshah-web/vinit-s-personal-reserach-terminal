@@ -5,14 +5,14 @@
   "industry": "Textile Manufacturing",
   "business_summary": "United Polyfab Gujarat Limited manufactures, trades in, and sells woven fabrics and processed yarn products in India. Its products' portfolio includes spinning and cotton yarn, dyed fabric, grey fabric, and denim fabric. otton carded, combed, combed compact, core-spun, Eli Twist, and doubling yarns for both weaving and knitting. United Polyfab Gujarat Limited also exports its products through third party. The company was formerly known as United Polyfab (Unit-II) Limited and changed its name to United Polyfab Gujarat Limited in December 2015. United Polyfab Gujarat Limited was incorporated in 2010 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1282.53,
-  "pe_ratio": 41.39,
+  "market_cap_cr": 1254.76,
+  "pe_ratio": 40.5,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 6.66,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 22.9516,
-  "fifty_two_week_high": 59.65,
+  "fifty_two_week_high": 58.0,
   "fifty_two_week_low": 20.6,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-19T23:44:04.458747",
-  "provider_reported_pb_ratio": 8.39,
-  "statements_retrieved_at": "2026-11-19T23:44:04.458747",
+  "retrieval_time": "2026-11-20T23:15:33.196772",
+  "provider_reported_pb_ratio": 8.21,
+  "statements_retrieved_at": "2026-11-20T23:15:33.196772",
   "retained_fields": []
 }

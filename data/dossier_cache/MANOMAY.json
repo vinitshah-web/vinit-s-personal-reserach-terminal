@@ -5,14 +5,14 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Manomay Tex India Limited manufactures and sells denims and denim fabrics in India and internationally. It also offers cotton yarn/textured yarn. The company exports its products to Colombia, Mexico, Egypt, Chile, Venezuela, Paraguay, Guatemala, Peru, Ecuador, Lebanon, Bangladesh, Argentina, Bolivia, Morocco, the United States, and Zimbabwe. Manomay Tex India Limited was founded in 1978 and is based in Bhilwara, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 485.66,
-  "pe_ratio": 23.96,
+  "market_cap_cr": 497.78,
+  "pe_ratio": 24.56,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 94.72,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.8049,
-  "fifty_two_week_high": 275.93,
+  "fifty_two_week_high": 278.0,
   "fifty_two_week_low": 160.25,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-19T23:11:50.283792",
-  "provider_reported_pb_ratio": 2.84,
-  "statements_retrieved_at": "2026-11-19T23:11:50.283792",
+  "retrieval_time": "2026-11-20T22:42:53.958766",
+  "provider_reported_pb_ratio": 2.91,
+  "statements_retrieved_at": "2026-11-20T22:42:53.958766",
   "retained_fields": []
 }

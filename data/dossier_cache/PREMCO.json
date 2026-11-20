@@ -6,14 +6,14 @@
   "business_summary": "Premco Global Limited, together with its subsidiaries, manufactures and sells elastic and non-elastic woven and knitted narrow fabrics, tapes, and webbings in India and internationally. The company offers name and plain tapes; buttonholes, rigid tapes, and medical tapes; panty and shoulder elastics; and jacquard elastic tapes for use in underwear manufacture. The company also manufactures and supplies elastic tapes and related products. It serves apparel, lingerie, athleisure, sportswear, medical, footwear, luggage, furnishing, and automotive industries. Premco Global Limited was founded in 1966 and is based in Mumbai, India.",
   "business_summary_reason": null,
   "market_cap_cr": null,
-  "pe_ratio": 16.32,
+  "pe_ratio": 16.27,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 324.92,
-  "dividend_yield_pct": 4.2661,
+  "dividend_yield_pct": 4.2758,
   "shares_outstanding_cr": null,
   "fifty_two_week_high": 484.5,
-  "fifty_two_week_low": 365.0,
+  "fifty_two_week_low": 363.05,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-19T23:24:23.650538",
+  "retrieval_time": "2026-11-20T22:55:36.595336",
   "provider_reported_pb_ratio": 1.15,
-  "statements_retrieved_at": "2026-11-19T23:24:23.650538",
+  "statements_retrieved_at": "2026-11-20T22:55:36.595336",
   "retained_fields": []
 }

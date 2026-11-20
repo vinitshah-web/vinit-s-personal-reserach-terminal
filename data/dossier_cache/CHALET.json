@@ -6,7 +6,7 @@
   "business_summary": "Chalet Hotels Limited owns, develops, manages, and operates hotels and resorts in India. It also operates in rental and annuity, and real estate development business. The company's portfolio comprises hotels and commercial spaces. In addition, it engages in construction and development of residential properties. Chalet Hotels Limited was incorporated in 1986 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
   "market_cap_cr": null,
-  "pe_ratio": 30.46,
+  "pe_ratio": 30.63,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 181.83,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-19T22:42:16.963811",
-  "provider_reported_pb_ratio": 4.51,
-  "statements_retrieved_at": "2026-11-19T22:42:16.963811",
+  "retrieval_time": "2026-11-20T22:13:04.958906",
+  "provider_reported_pb_ratio": 4.53,
+  "statements_retrieved_at": "2026-11-20T22:13:04.958906",
   "retained_fields": []
 }

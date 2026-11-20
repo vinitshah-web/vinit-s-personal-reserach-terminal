@@ -5,15 +5,15 @@
   "industry": "Engineering & Construction",
   "business_summary": "Consolidated Construction Consortium Limited, together with its subsidiaries, engages in the provision of construction design, engineering, procurement, construction, and project management services in India and internationally. It undertakes special structures, biotech parks, commercial, convention centers, factory/industrial, green buildings, healthcare, hotels and resorts, institutional/university, IT Parks, residential, data centers, airports, bridges and flyovers, heavy civil, metro rail, power plants, sports complexes, automatic and conventional car parking, and water effluent treatment projects. The company also provides precast units, such as double tee slabs, columns, wall panels, inverted T beams, flat and roof slabs, staircases, spandrel, hollow core slabs, psc (I) girders and parapets, folded plates, wall panels, and Y girders. In addition, it offers mechanical, electrical, plumbing, firefighting, heating, ventilation, and air-conditioning works; interior furnishing and other services, including networking and building management system; and precast pre-stressed structures, pre-engineered steel building, and shell structures. The company was founded in 1997 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 476.69,
+  "market_cap_cr": 458.82,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 5.75,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 44.6759,
-  "fifty_two_week_high": 20.64,
-  "fifty_two_week_low": 10.2,
+  "fifty_two_week_high": 20.6,
+  "fifty_two_week_low": 10.08,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-19T22:41:36.813691",
-  "provider_reported_pb_ratio": 1.86,
-  "statements_retrieved_at": "2026-11-19T22:41:36.813691",
+  "retrieval_time": "2026-11-20T22:12:09.000473",
+  "provider_reported_pb_ratio": 1.79,
+  "statements_retrieved_at": "2026-11-20T22:12:09.000473",
   "retained_fields": []
 }

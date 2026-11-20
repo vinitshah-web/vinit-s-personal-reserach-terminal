@@ -5,14 +5,14 @@
   "industry": "Textile Manufacturing",
   "business_summary": "RRIL Limited, together with its subsidiary, manufactures and trades in textile products in India. It operates through Textiles and Real Estate Development segments. The company also develops residential, commercial, retail, and social infrastructure projects, as well as engages in the redevelopment of housing projects. The company was formerly known as S R K Industries Limited and changed its name to RRIL Limited in January 2020. RRIL Limited was incorporated in 1991 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 203.03,
-  "pe_ratio": 20.68,
+  "market_cap_cr": 228.85,
+  "pe_ratio": 23.31,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 9.4,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 12.1214,
-  "fifty_two_week_high": 18.48,
+  "fifty_two_week_high": 19.5,
   "fifty_two_week_low": 13.52,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-19T23:28:48.744596",
-  "provider_reported_pb_ratio": 1.78,
-  "statements_retrieved_at": "2026-11-19T23:28:48.744596",
+  "retrieval_time": "2026-11-20T23:00:06.675827",
+  "provider_reported_pb_ratio": 2.01,
+  "statements_retrieved_at": "2026-11-20T23:00:06.675827",
   "retained_fields": []
 }

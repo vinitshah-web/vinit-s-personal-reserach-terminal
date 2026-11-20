@@ -5,14 +5,14 @@
   "industry": "Chemicals",
   "business_summary": "DCW Limited engages in the manufacture and sale of heavy chemical products in India. The company offers specialty chemicals, including chlorinated poly vinyl chloride, synthetic iron oxide pigment, and synthetic rutile; intermediate chemicals comprising sodium bicarbonate, hydrochloric acid, liquid chlorine, trichloroethylene, perchloroethylene, ferric chloride, sodium hypochlorite, and ammonium bicarbonate; and commodity chemicals, such as soda ash, caustic soda, and poly vinyl chloride. Its products are used as key ingredients for the manufacturers of agricultural products, detergents, food, pharmaceuticals, pigments, fertilizers, alumina, and other industrial products. The company also exports its products to the United States, Europe, Japan, and Malaysia. The company was formerly known as Dhrangadhra Chemical Works Limited. DCW Limited was founded in 1925 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1385.39,
-  "pe_ratio": 20.46,
+  "market_cap_cr": 1379.2,
+  "pe_ratio": 20.37,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 37.83,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 29.445,
-  "fifty_two_week_high": 70.65,
+  "fifty_two_week_high": 67.5,
   "fifty_two_week_low": 37.11,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-19T22:45:33.001744",
+  "retrieval_time": "2026-11-20T22:16:24.775910",
   "provider_reported_pb_ratio": 1.24,
-  "statements_retrieved_at": "2026-11-19T22:45:33.001744",
+  "statements_retrieved_at": "2026-11-20T22:16:24.775910",
   "retained_fields": []
 }

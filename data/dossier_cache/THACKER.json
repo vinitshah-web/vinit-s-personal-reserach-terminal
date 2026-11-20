@@ -5,8 +5,8 @@
   "industry": "Asset Management",
   "business_summary": "Thacker and Company Limited trades in scanners and related products in India. It operates through Investment & Finance; Business Centre; and Trading Business segments. The company also engages in real estate activities with owned or leased properties. In addition, it provides investment and financing services. Thacker and Company Limited was incorporated in 1878 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 102.46,
-  "pe_ratio": 5.16,
+  "market_cap_cr": 101.92,
+  "pe_ratio": 5.13,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 1607.98,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-19T23:41:16.666816",
-  "provider_reported_pb_ratio": 0.59,
-  "statements_retrieved_at": "2026-11-19T23:41:16.666816",
+  "retrieval_time": "2026-11-20T23:12:52.696882",
+  "provider_reported_pb_ratio": 0.58,
+  "statements_retrieved_at": "2026-11-20T23:12:52.696882",
   "retained_fields": []
 }

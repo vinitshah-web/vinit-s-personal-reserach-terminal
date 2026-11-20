@@ -5,8 +5,8 @@
   "industry": "Medical Care Facilities",
   "business_summary": "Jupiter Life Line Hospitals Limited, a multi-specialty hospital, provides health care services under the Jupiter brand in India. The company offers treatments in the areas of bariatric surgery, breast care center, cardiac surgery, cardiology, chest medicine, dental care, dermatology, endocrinology and diabetes, ENT, gastroenterology, general surgery and minimal access surgery, hematology and BMT, HPB and surgical gastroenterology, infectious diseases, internal medicine, interventional radiology, mental health, nephrology, neurology, neurosurgery, nutrition and dietetics, Obs and gynecology, oncology, ophthalmology, organ transplant, orthopedics, pediatrics, pain clinic, plastic and cosmetic surgery, rehabilitation, rheumatology, robotic knee replacement, robotic surgery, TAVI/TAVR, and urology. It also operates hotel under the Fortune Park Lake City Hotel brand in Thane. The company was incorporated in 2002 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 9218.58,
-  "pe_ratio": 51.22,
+  "market_cap_cr": 10405.33,
+  "pe_ratio": 56.18,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 49.92,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-19T23:04:24.969501",
-  "provider_reported_pb_ratio": 5.63,
-  "statements_retrieved_at": "2026-11-19T23:04:24.969501",
+  "retrieval_time": "2026-11-20T22:35:29.363538",
+  "provider_reported_pb_ratio": 6.36,
+  "statements_retrieved_at": "2026-11-20T22:35:29.363538",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Information Technology Services",
   "business_summary": "Vakrangee Limited, a technology company, provides e-commerce, white label ATM, financial, and logistics services in India. It operates through two segments, Vakrangee Kendra and Sale of Automated Teller Machines (\u0091ATM') Products/Services. The company offers bank account opening, cash deposits, withdrawals, money transfer, fixed and recurring deposits, balance enquiry, statement of accounts, money disbursement, home and business loans, DEMAT account opening, PAN card, CIBIL score, and domestic money transfer services. It also offers life insurance, motor insurance, health insurance, and social security and micro insurance schemes, as well as owns and manages white label ATMs. In addition, the company provides e-governance, assisted e-commerce, such as online shopping, bill payments, utility payments, ticket booking, mobile and DTH recharge, PAN card services, Demat account opening; and healthcare, such as tele/video consultations, home diagnostics, medicine delivery, travel, agriculture products, and logistics. Vakrangee Limited was incorporated in 1990 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 583.84,
-  "pe_ratio": 59.89,
+  "market_cap_cr": 575.17,
+  "pe_ratio": 59.0,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 2.16,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-19T23:44:40.841654",
-  "provider_reported_pb_ratio": 2.49,
-  "statements_retrieved_at": "2026-11-19T23:44:40.841654",
+  "retrieval_time": "2026-11-20T23:16:09.463874",
+  "provider_reported_pb_ratio": 2.45,
+  "statements_retrieved_at": "2026-11-20T23:16:09.463874",
   "retained_fields": []
 }

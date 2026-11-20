@@ -5,14 +5,14 @@
   "industry": "Household & Personal Products",
   "business_summary": "All Time Plastics Limited manufactures and sells plastic molded articles under the alltime brand name in India. The company offers chopping boards, strainers, mixing bowls, colander, measuring jugs, measuring cups and spoons, kitchen tools, spatula and spreader sets, orange squeezers; crisper containers, store fresh containers, lock and safe containers, bestow boxes, frostee containers, polka containers, prism round containers, prism square containers, food saver containers, canisters, twister containers, and other storage containers; crystal jars, smart storage boxes, secure storage boxes, and other organizers; hangers, teen hangers, smart hanger with loops, section hangers, and rotating hook hangers; tableware, salt and pepper shakers, serving trays, fast food tray, and butter dishes; dish drainers, bins, dustpans, and drums; buckets, mugs, soap dishes, basins, bathroom stool, wash tubs, and satin products; joy plates, joy bowls, joy glasses, joy cutlery set, treats plate, treats bowl, treats glass, and treats cutlery sets. It also exports its products to the European Union, the United Kingdom, the United States, and internationally. The company was founded in 2001 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1307.73,
-  "pe_ratio": 37.31,
+  "market_cap_cr": 1296.53,
+  "pe_ratio": 36.99,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 94.9,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 6.5508,
-  "fifty_two_week_high": 286.35,
+  "fifty_two_week_high": 284.65,
   "fifty_two_week_low": 170.63,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-19T22:31:57.719605",
-  "provider_reported_pb_ratio": 2.1,
-  "statements_retrieved_at": "2026-11-19T22:31:57.719605",
+  "retrieval_time": "2026-11-20T22:02:07.398736",
+  "provider_reported_pb_ratio": 2.09,
+  "statements_retrieved_at": "2026-11-20T22:02:07.398736",
   "retained_fields": []
 }

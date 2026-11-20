@@ -5,8 +5,8 @@
   "industry": "Apparel Retail",
   "business_summary": "Saraswati Saree Depot Limited engages in manufacturing and wholesale trading of sarees, dress materials, and allied women's traditional and ethnic wear garments in India. It also offers kurtis, blouse pieces, lehengas, bottoms, and other women's apparel accessories. It sells its products through its stores, as well as online. The company was founded in 1966 and is based in Kolhapur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 263.34,
-  "pe_ratio": 11.06,
+  "market_cap_cr": 258.39,
+  "pe_ratio": 10.86,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 49.16,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-19T23:37:06.837247",
-  "provider_reported_pb_ratio": 1.35,
-  "statements_retrieved_at": "2026-11-19T23:37:06.837247",
+  "retrieval_time": "2026-11-20T23:08:37.266471",
+  "provider_reported_pb_ratio": 1.33,
+  "statements_retrieved_at": "2026-11-20T23:08:37.266471",
   "retained_fields": []
 }

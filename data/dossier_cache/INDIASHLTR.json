@@ -5,14 +5,14 @@
   "industry": "Mortgage Finance",
   "business_summary": "India Shelter Finance Corporation Limited operates as a housing finance company in India. The company offers home, purchase and construction, and home renovation loans, as well as loans against property. It also provides secured retail home and home equity loans. The company was formerly known as Satyaprakash Housing Finance India Limited and changed its name to India Shelter Finance Corporation Limited in March 2010. India Shelter Finance Corporation Limited was incorporated in 1998 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 7117.28,
-  "pe_ratio": 13.1,
+  "market_cap_cr": 6991.11,
+  "pe_ratio": 12.87,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 619.08,
-  "dividend_yield_pct": 1.5171,
+  "dividend_yield_pct": 1.5348,
   "shares_outstanding_cr": 10.9236,
-  "fifty_two_week_high": 901.2,
+  "fifty_two_week_high": 900.15,
   "fifty_two_week_low": 592.4,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-19T23:01:04.190856",
-  "provider_reported_pb_ratio": 1.05,
-  "statements_retrieved_at": "2026-11-19T23:01:04.190856",
+  "retrieval_time": "2026-11-20T22:32:07.938959",
+  "provider_reported_pb_ratio": 1.03,
+  "statements_retrieved_at": "2026-11-20T22:32:07.938959",
   "retained_fields": []
 }

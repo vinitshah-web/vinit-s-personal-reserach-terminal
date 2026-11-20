@@ -5,14 +5,14 @@
   "industry": "Capital Markets",
   "business_summary": "SG Finserve Limited operates as a non-banking financial company in India. It offers dealer financing, retailer financing, logistics and transporter financing, and tailor-made term lending solutions, as well as vendor supplier financing for corporates. The company was formerly known as Moongipa Securities Limited. SG Finserve Limited was incorporated in 1994 and is based in Ghaziabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 5358.58,
-  "pe_ratio": 27.95,
+  "market_cap_cr": 5410.31,
+  "pe_ratio": 28.21,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 243.79,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 6.5895,
-  "fifty_two_week_high": 840.0,
+  "fifty_two_week_high": 842.8,
   "fifty_two_week_low": 323.0,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-19T23:32:33.538857",
-  "provider_reported_pb_ratio": 3.34,
-  "statements_retrieved_at": "2026-11-19T23:32:33.538857",
+  "retrieval_time": "2026-11-20T23:03:59.221438",
+  "provider_reported_pb_ratio": 3.37,
+  "statements_retrieved_at": "2026-11-20T23:03:59.221438",
   "retained_fields": []
 }

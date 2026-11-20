@@ -5,7 +5,7 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Sarla Performance Fibers Limited, together with its subsidiaries, manufactures and sells polyester and nylon yarns in India and internationally. It operates through two segments, Manufacturing of Yarn and Generation of Wind Power. The company offers textured polyester, textured nylon stretch, high bulk textured polyester, high tenacity, covered, dyed, and barre-free nylon yarns; and textured sewing and specialty sewing threads. It also owns 9 turbines aggregating 14.75 MW of wind power generation; and solar panels with a capacity of 7.25MW. The company was formerly known as Sarla Polyester Limited and changed its name to Sarla Performance Fibers Limited in 2006. Sarla Performance Fibers Limited was incorporated in 1993 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 714.97,
+  "market_cap_cr": 715.29,
   "pe_ratio": 206.53,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,10 +93,10 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-19T23:30:41.110665",
+  "retrieval_time": "2026-11-20T23:02:06.895300",
   "provider_reported_pb_ratio": 1.61,
-  "statements_retrieved_at": "2026-11-19T23:30:41.110665",
-  "previous_retrieval_time": "2026-11-18T23:13:26.647018",
+  "statements_retrieved_at": "2026-11-20T23:02:06.895300",
+  "previous_retrieval_time": "2026-11-19T23:30:41.110665",
   "retained_fields": [
     "pe_ratio",
     "previous_retrieval_time"

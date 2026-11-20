@@ -5,7 +5,7 @@
   "industry": "Credit Services",
   "business_summary": "Capital India Finance Limited, a non-banking finance company, engages in the lending and forex businesses in India. The company provides small business finance, which includes secured loans, and equipment and supply chain finance products; and retail finance comprising loans against property. It operates RapiPay solutions, including assisted payment services and POS solutions; and RemitX that offers retail foreign exchange products and services, including foreign currency notes, overseas remittances, foreign currency prepaid travel card, and import and export of foreign currency notes. The company was formerly known as Bhilwara Tex-Fin Limited and changed its name to Capital India Finance Limited in August 2017. Capital India Finance Limited was incorporated in 1994 and is headquartered in Mumbai, India. Capital India Finance Limited operates as a subsidiary of Capital India Corp Llp.",
   "business_summary_reason": null,
-  "market_cap_cr": 745.35,
+  "market_cap_cr": 758.65,
   "pe_ratio": 19.25,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,11 +78,12 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-19T22:42:45.644793",
-  "provider_reported_pb_ratio": 1.11,
-  "statements_retrieved_at": "2026-11-19T22:42:45.644793",
+  "retrieval_time": "2026-11-20T22:13:33.445590",
+  "provider_reported_pb_ratio": 1.13,
+  "statements_retrieved_at": "2026-11-20T22:13:33.445590",
+  "previous_retrieval_time": "2026-11-19T22:42:45.644793",
   "retained_fields": [
-    "pe_ratio"
-  ],
-  "previous_retrieval_time": "2026-11-18T22:33:04.594862"
+    "pe_ratio",
+    "previous_retrieval_time"
+  ]
 }
