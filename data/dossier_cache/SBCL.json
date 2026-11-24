@@ -6,7 +6,7 @@
   "business_summary": "Shivalik Bimetal Controls Limited operates as a process and product engineering company in India, the United States, Europe, and internationally. The company manufactures thermostatic bimetals, parts/strips, SMDS/shunt resistors, reflow solder/pre solder products, strips, precision stainless steel products, thermostatic bimetals, coils and springs, and snap action discs. Its products are primarily used in switchgears, circuit breakers, protective relays, metering, automotive devices, energy and battery management devices, and various other electrical and electronic devices. The company serves electronics, automotive, domestic appliances, industrial, medical, and agriculture and animal husbandry appliances sectors. The company was incorporated in 1984 and is headquartered in New Delhi, India.",
   "business_summary_reason": null,
   "market_cap_cr": 5376.2,
-  "pe_ratio": 46.74,
+  "pe_ratio": 46.99,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 93.11,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-24T02:46:06.255462",
+  "retrieval_time": "2026-11-24T03:59:07.917272",
   "provider_reported_pb_ratio": 10.02,
-  "statements_retrieved_at": "2026-11-24T02:46:06.255462",
+  "statements_retrieved_at": "2026-11-24T03:59:07.917272",
   "retained_fields": []
 }

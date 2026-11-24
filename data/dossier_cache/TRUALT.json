@@ -6,7 +6,7 @@
   "business_summary": "TruAlt Bioenergy Limited produces and sells ethanol and other products derived from distillery processes and compressed biogas in India. Its products include ethanol, green hydrogen, compressed biogas, extra neutral alcohol, and fermented organic manure. In addition, it provides biofuel dispensing stations, CO2, sustainable aviation fuel, liquid fermented organic manure, motor spirit and high-speed diesel, and dried distillers grains with solubles. The company was formerly known as TruAlt Energy Limited and changed its name to TruAlt Bioenergy Limited in July 2022. TruAlt Bioenergy Limited was incorporated in 2021 and is based in Bengaluru, India.",
   "business_summary_reason": null,
   "market_cap_cr": 2815.26,
-  "pe_ratio": 12.74,
+  "pe_ratio": 12.66,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 188.59,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-24T02:55:37.972560",
+  "retrieval_time": "2026-11-24T04:09:23.711086",
   "provider_reported_pb_ratio": 1.74,
-  "statements_retrieved_at": "2026-11-24T02:55:37.972560",
+  "statements_retrieved_at": "2026-11-24T04:09:23.711086",
   "retained_fields": []
 }

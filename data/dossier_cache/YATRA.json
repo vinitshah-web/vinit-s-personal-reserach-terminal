@@ -6,7 +6,7 @@
   "business_summary": "Yatra Online Limited provides reservation and booking services, and customized solutions related to transport, travel, tours, and tourism in India and internationally. It is involved in air travel, hotel and package, cabs and ground transportation, rail and bus, corporate travel management, personal travel, and expense management, as well as meetings, incentives, conferences, and events (MICE) activities. It serves travelers its products through internet, mobile, call center, and retail lounges. The company was incorporated in 2005 and is based in Gurugram, India. Yatra Online Limited operates as a subsidiary of THCL Travel Holding Cyprus Limited.",
   "business_summary_reason": null,
   "market_cap_cr": 1350.73,
-  "pe_ratio": 84.39,
+  "pe_ratio": 86.95,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 55.48,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-24T03:00:12.623547",
+  "retrieval_time": "2026-11-24T04:14:20.480059",
   "provider_reported_pb_ratio": 1.55,
-  "statements_retrieved_at": "2026-11-24T03:00:12.623547",
+  "statements_retrieved_at": "2026-11-24T04:14:20.480059",
   "retained_fields": []
 }

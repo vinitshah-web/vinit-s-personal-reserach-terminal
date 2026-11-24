@@ -6,7 +6,7 @@
   "business_summary": "Vesuvius India Limited manufactures and sells refractory products and services in India. The company offers engineered consumable ceramic products, systems, and robotics; molten metal handling solution; and foundry, aimed at improving casting quality and operation. It serves steel, cement, refineries, hydrocarbon processing, and aluminum industries. It also exports its products. Vesuvius India Limited was incorporated in 1991 and is headquartered in Kolkata, India. Vesuvius India Limited operates as a subsidiary of Vesuvius Group Limited, United Kingdom.",
   "business_summary_reason": null,
   "market_cap_cr": 7408.07,
-  "pe_ratio": 29.44,
+  "pe_ratio": 30.91,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 86.08,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-24T02:57:39.694825",
+  "retrieval_time": "2026-11-24T04:11:36.267395",
   "provider_reported_pb_ratio": 4.24,
-  "statements_retrieved_at": "2026-11-24T02:57:39.694825",
+  "statements_retrieved_at": "2026-11-24T04:11:36.267395",
   "retained_fields": []
 }

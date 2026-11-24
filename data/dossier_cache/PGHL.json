@@ -6,7 +6,7 @@
   "business_summary": "Procter & Gamble Health Limited manufactures and markets pharmaceutical and chemical products in India and internationally. It offers over-the-counter products, vitamins, minerals, and supplements under the Betamil, Polybion, Cosome, Evion, Neurobion, Seven Seas, Nasivion, and Livogen brand names. The company was formerly known as Merck Limited and changed its name to Procter & Gamble Health Limited in May 2019. Procter & Gamble Health Limited was incorporated in 1967 and is headquartered in Mumbai, India. The company operates as a subsidiary of Procter & Gamble Overseas India B.V.",
   "business_summary_reason": null,
   "market_cap_cr": 9503.15,
-  "pe_ratio": 27.3,
+  "pe_ratio": 26.66,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 396.45,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-24T02:39:13.604257",
+  "retrieval_time": "2026-11-24T03:51:53.978448",
   "provider_reported_pb_ratio": 14.44,
-  "statements_retrieved_at": "2026-11-24T02:39:13.604257",
+  "statements_retrieved_at": "2026-11-24T03:51:53.978448",
   "retained_fields": []
 }

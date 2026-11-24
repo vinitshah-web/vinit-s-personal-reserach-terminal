@@ -6,7 +6,7 @@
   "business_summary": "Can Fin Homes Limited provides housing finance services primarily to first-time homebuyers and professionals in India. The company's products portfolio comprises housing loans, such as individual housing, commercial housing, composite housing, Composite housing loans. Layout loan, Flat under Construction TPA Basis, IHL Cash Salary, and affordable housing loans; non-housing loans, including site, mortgage, builder, line of credit, personal, CFHL top-up, I-secure loans, loans against rent receivables, loans for commercial properties and children education, Flexi LAP, loan for pensioners, and rooftop solar loan scheme. It also offers fixed and cumulative deposits. The company was incorporated in 1987 and is headquartered in Bengaluru, India.",
   "business_summary_reason": null,
   "market_cap_cr": 10604.43,
-  "pe_ratio": 9.2,
+  "pe_ratio": 8.9,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 481.85,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-24T02:05:13.250255",
+  "retrieval_time": "2026-11-24T03:15:39.618712",
   "provider_reported_pb_ratio": 1.65,
-  "statements_retrieved_at": "2026-11-24T02:05:13.250255",
+  "statements_retrieved_at": "2026-11-24T03:15:39.618712",
   "retained_fields": []
 }
