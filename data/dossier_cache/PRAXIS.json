@@ -5,14 +5,14 @@
   "industry": "Specialty Retail",
   "business_summary": "Praxis Home Retail Limited engages in the business of home retailing through departmental stores in India. The company offers range of products, such as living, dining, bedroom, essentials, and office furniture; homeware comprising furnishings, tableware, d\u00e9cor, and kitchenware; and kitchen appliances. It also provides modular solutions, including modular kitchens, kitchen accessories, modular wardrobes, and wardrobe accessories; and design and build customized interior solutions, as well as range of accessories, such as clocks and wall hangings. The company sells its products online through www.hometown.in website, as well as through various e-commerce marketplaces. Praxis Home Retail Limited was incorporated in 2011 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 83.43,
+  "market_cap_cr": 87.52,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": -5.44,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 18.5812,
-  "fifty_two_week_high": 10.69,
+  "fifty_two_week_high": 10.53,
   "fifty_two_week_low": 3.38,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-20T22:55:29.548367",
-  "provider_reported_pb_ratio": -0.83,
-  "statements_retrieved_at": "2026-11-20T22:55:29.548367",
+  "retrieval_time": "2026-11-24T02:40:30.284493",
+  "provider_reported_pb_ratio": -0.87,
+  "statements_retrieved_at": "2026-11-24T02:40:30.284493",
   "retained_fields": []
 }

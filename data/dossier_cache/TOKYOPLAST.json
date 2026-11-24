@@ -5,7 +5,7 @@
   "industry": "Packaging & Containers",
   "business_summary": "Tokyo Plast International Limited manufactures and sells thermo food containers and coolers in India, the United States, Australia, and internationally. It offers plastic thermoware products, as well as houseware products; and insulated water jugs, ice chest, insulated casseroles, and food warmers. The company serves plastic industry. Tokyo Plast International Limited was incorporated in 1992 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 69.21,
+  "market_cap_cr": 70.31,
   "pe_ratio": 202.76,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,10 +78,10 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-20T23:13:44.101633",
-  "provider_reported_pb_ratio": 1.15,
-  "statements_retrieved_at": "2026-11-20T23:13:44.101633",
-  "previous_retrieval_time": "2026-11-19T23:42:09.563406",
+  "retrieval_time": "2026-11-24T02:55:00.702219",
+  "provider_reported_pb_ratio": 1.16,
+  "statements_retrieved_at": "2026-11-24T02:55:00.702219",
+  "previous_retrieval_time": "2026-11-20T23:13:44.101633",
   "retained_fields": [
     "pe_ratio",
     "previous_retrieval_time"

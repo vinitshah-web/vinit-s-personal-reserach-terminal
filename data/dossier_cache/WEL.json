@@ -5,8 +5,8 @@
   "industry": "Furnishings, Fixtures & Appliances",
   "business_summary": "Wonder Electricals Limited engages in the manufacture and supply of ceiling, exhaust, pedestal, and TPW and BLDC fans in India. The company also manufactures processes, such as in-house blade fabrication, cover and rotor machining, copper winding, surface treatment, powder coating, and assembly. In addition, it exports its products. The company was formerly known as Wonder Fibromats Limited and changed its name to Wonder Electricals Limited in December 2022. Wonder Electricals Limited was founded in 2003 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1110.79,
-  "pe_ratio": 92.1,
+  "market_cap_cr": 1112.94,
+  "pe_ratio": 91.26,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 6.28,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-20T23:18:58.315984",
-  "provider_reported_pb_ratio": 13.21,
-  "statements_retrieved_at": "2026-11-20T23:18:58.315984",
+  "retrieval_time": "2026-11-24T02:59:28.224399",
+  "provider_reported_pb_ratio": 13.24,
+  "statements_retrieved_at": "2026-11-24T02:59:28.224399",
   "retained_fields": []
 }

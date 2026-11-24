@@ -5,8 +5,8 @@
   "industry": "Building Products & Equipment",
   "business_summary": "Somany Ceramics Limited manufactures and trades in decor solutions in India. It offers ceramic wall and floor, polished vitrified, and glazed vitrified tiles;sanitaryware, such as toilets, basins, cisterns, and urinals; bath fittings, including faucets, showers, bath accessories, and health faucets; smart bath ware products; and adhesives, grouts, waterproofing systems, protective coatings and primers, concrete, and specialized compound products. The company provides its products under the Somany brand name. It also exports its products. The company was incorporated in 1968 and is headquartered in Noida, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2263.09,
-  "pe_ratio": 17.08,
+  "market_cap_cr": 2276.62,
+  "pe_ratio": 17.19,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 218.56,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-20T23:07:40.417259",
-  "provider_reported_pb_ratio": 2.52,
-  "statements_retrieved_at": "2026-11-20T23:07:40.417259",
+  "retrieval_time": "2026-11-24T02:50:15.678828",
+  "provider_reported_pb_ratio": 2.54,
+  "statements_retrieved_at": "2026-11-24T02:50:15.678828",
   "retained_fields": []
 }

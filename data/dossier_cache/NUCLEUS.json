@@ -5,15 +5,15 @@
   "industry": "Software - Application",
   "business_summary": "Nucleus Software Exports Limited provides lending and transaction banking products to the financial services industry in India, the Far East, South East Asia, Europe, the Middle East, Africa, Australia, and internationally. It offers FinnOne Neo, a next-generation digital lending platform for intelligent, scalable, and customer-centric lending ecosystems; and FinnAxia, an integrated global transaction banking platform for payments, liquidity management, cash management, and corporate banking operations; and Nucleus Software Digital Services. The company also offers nucleus software digital services. In addition, it provides testing, consulting, application development, maintenance, and infrastructure management services. Nucleus Software Exports Limited was founded in 1986 and is headquartered in Noida, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1609.66,
-  "pe_ratio": 16.04,
+  "market_cap_cr": 1598.74,
+  "pe_ratio": 15.93,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 350.78,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 2.6325,
   "fifty_two_week_high": 999.85,
-  "fifty_two_week_low": 606.9,
+  "fifty_two_week_low": 604.0,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-20T22:50:45.798152",
-  "provider_reported_pb_ratio": 1.74,
-  "statements_retrieved_at": "2026-11-20T22:50:45.798152",
+  "retrieval_time": "2026-11-24T02:36:39.464593",
+  "provider_reported_pb_ratio": 1.73,
+  "statements_retrieved_at": "2026-11-24T02:36:39.464593",
   "retained_fields": []
 }

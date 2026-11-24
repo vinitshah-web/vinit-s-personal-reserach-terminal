@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "The Orissa Minerals Development Company Limited mines and markets iron ore and manganese ore in India. It produces and sells sponge iron. The company was incorporated in 1918 and is headquartered in Bhubaneswar, India. The Orissa Minerals Development Company Limited is a subsidiary of Eastern Investments Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 2003.46,
-  "pe_ratio": 601.64,
+  "market_cap_cr": 1962.84,
+  "pe_ratio": 589.44,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": -91.08,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-20T22:52:15.910725",
-  "provider_reported_pb_ratio": -36.66,
-  "statements_retrieved_at": "2026-11-20T22:52:15.910725",
+  "retrieval_time": "2026-11-24T02:37:54.879960",
+  "provider_reported_pb_ratio": -35.92,
+  "statements_retrieved_at": "2026-11-24T02:37:54.879960",
   "retained_fields": []
 }

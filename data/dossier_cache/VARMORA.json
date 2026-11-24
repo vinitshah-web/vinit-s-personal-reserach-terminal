@@ -5,8 +5,8 @@
   "industry": "Building Materials",
   "business_summary": "Varmora Granito Limited manufactures stones, tiles, bathware, sanitaryware, tile adhesives, and other application equipment accessories. Its product portfolio includes stock-keeping units for tiles, such as GVT and technical products, and PVT and ceramic tiles. The company offers its products for applications in residential and commercial spaces. It serves clients through a network of brand outlets, B2C retail channels, B2B channels, direct sales, and distributors in India and internationally. The company was incorporated in 2003 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2948.32,
-  "pe_ratio": 25.73,
+  "market_cap_cr": 2939.28,
+  "pe_ratio": 25.65,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 57.7,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-20T23:16:23.196872",
-  "provider_reported_pb_ratio": 2.26,
-  "statements_retrieved_at": "2026-11-20T23:16:23.196872",
+  "retrieval_time": "2026-11-24T02:57:16.288483",
+  "provider_reported_pb_ratio": 2.25,
+  "statements_retrieved_at": "2026-11-24T02:57:16.288483",
   "retained_fields": []
 }

@@ -5,14 +5,14 @@
   "industry": "Biotechnology",
   "business_summary": "Zota Health Care Limited develops, manufactures, and markets pharmaceutical products in India and internationally. The company offers pharmaceutical, nutraceutical, ayurvedic, and over-the-counter products. It also provides various medicines for chronic ailments, such as diabetes, cardiac, and thyroid disorders. The company operates its retail stores under the DAVAINDIA name. Zota Health Care Limited was founded in 1995 and is headquartered in Surat, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4460.68,
+  "market_cap_cr": 4394.53,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 180.64,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 3.4633,
-  "fifty_two_week_high": 1740.0,
+  "fifty_two_week_high": 1714.7,
   "fifty_two_week_low": 1022.0,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-20T23:20:10.986022",
-  "provider_reported_pb_ratio": 7.13,
-  "statements_retrieved_at": "2026-11-20T23:20:10.986022",
+  "retrieval_time": "2026-11-24T03:00:32.611650",
+  "provider_reported_pb_ratio": 7.02,
+  "statements_retrieved_at": "2026-11-24T03:00:32.611650",
   "retained_fields": []
 }

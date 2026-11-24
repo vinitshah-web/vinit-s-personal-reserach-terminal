@@ -5,15 +5,15 @@
   "industry": "Engineering & Construction",
   "business_summary": "Madhav Infra Projects Limited engages in the development, construction, operation, and maintenance of infrastructure projects in India. The company is involved in development, construction, and maintenance of highways, bridges, and roads; and generating power and trading, purchasing, marketing, selling, importing, exporting, producing, manufacturing, transmitting, commissioning, distributing, supplying, exchanging or otherwise dealing in aspects of thermal, hydro, nuclear, solar, solar rooftop, and wind power, as well as rail logistics infrastructure projects. It also engages in installation, maintenance of solar power plant, roof tops and equipment system related to solar; provision of services for maintenance, renovation and modernization of equipment required for solar power and renewable energy; and oil and gas exploration, production and participation, seismic data service onshore/offshore, managerial and technical support services, technical surveys, data analysis, data processing services, and staffing and technical equipment renting or leasing for a seismic survey in oil and gas companies. The company was incorporated in 1992 and is based in Vadodara, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 180.62,
-  "pe_ratio": 10.47,
+  "market_cap_cr": 180.35,
+  "pe_ratio": 10.45,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 8.67,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 26.9582,
   "fifty_two_week_high": 8.47,
-  "fifty_two_week_low": 6.51,
+  "fifty_two_week_low": 6.41,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-20T22:41:50.907870",
+  "retrieval_time": "2026-11-24T02:29:25.979331",
   "provider_reported_pb_ratio": 0.77,
-  "statements_retrieved_at": "2026-11-20T22:41:50.907870",
+  "statements_retrieved_at": "2026-11-24T02:29:25.979331",
   "retained_fields": []
 }

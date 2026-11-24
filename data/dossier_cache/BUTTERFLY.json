@@ -5,8 +5,8 @@
   "industry": "Furnishings, Fixtures & Appliances",
   "business_summary": "Butterfly Gandhimathi Appliances Limited manufactures and sells kitchen and small domestic appliances in India and internationally. It offers kitchen appliances, including liquefied petroleum gas stoves, mixer and wet grinders, electric rice and pressure cookers, chimneys, and power and built in hobs; and breakfast appliances, such as hand blenders and mixers, pop up toasters, sandwich makers, juicer mixer grinders, vacuum flasks, vegetable choppers, and water bottles. The company also provides electrical appliances comprising iron boxes, air coolers, washers, tower fans, electric kettles, and egg boilers; and non-stick cookwares and stainless steel utensils under the Butterfly brand name. In addition, it offers after-sales support services. The company was formerly known as Gandhimathi Appliances Limited and changed its name to Butterfly Gandhimathi Appliances Limited in December 2011. Butterfly Gandhimathi Appliances Limited was incorporated in 1986 and is based in Navallur, India. The company operates as a subsidiary of Crompton Greaves Consumer Electricals Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 1030.22,
-  "pe_ratio": 20.09,
+  "market_cap_cr": 1008.05,
+  "pe_ratio": 19.66,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 208.2,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-20T22:11:32.090811",
-  "provider_reported_pb_ratio": 2.77,
-  "statements_retrieved_at": "2026-11-20T22:11:32.090811",
+  "retrieval_time": "2026-11-24T02:05:01.258941",
+  "provider_reported_pb_ratio": 2.71,
+  "statements_retrieved_at": "2026-11-24T02:05:01.258941",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Specialty Chemicals",
   "business_summary": "Aarti Surfactants Limited, together with its subsidiary, produces and sells ionic and non-ionic surfactants for the home and personal care, agro and oil, and industrial applications in India and internationally. The company offers surfactants, mild surfactants, rheology modifiers, pearlizing agents, UV filters, syndet and soap bases, and active ingredients, as well as conditioning agents, blends, proteins, and quats. It also provides blends, preservatives, and sun care products. The company serves skin care, oral, hair, cosmetics, bath and shower, sun care, fabric/laundry care, dishwashing, toilet care, and surface care sectors. It also exports its products. The company was formerly known as Arti Surfactants Limited. Aarti Surfactants Limited was incorporated in 2018 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 456.03,
-  "pe_ratio": 24.79,
+  "market_cap_cr": 448.07,
+  "pe_ratio": 24.35,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 289.34,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-20T21:58:54.196673",
-  "provider_reported_pb_ratio": 1.86,
-  "statements_retrieved_at": "2026-11-20T21:58:54.196673",
+  "retrieval_time": "2026-11-24T01:55:11.027907",
+  "provider_reported_pb_ratio": 1.83,
+  "statements_retrieved_at": "2026-11-24T01:55:11.027907",
   "retained_fields": []
 }

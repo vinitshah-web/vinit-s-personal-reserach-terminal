@@ -5,8 +5,8 @@
   "industry": "Credit Services",
   "business_summary": "OnEMI Technology Solutions Limited operates as a digital lending platform in India and internationally. It offers financial technology solutions. The company also provides personal loans and loans against property products, leveraging data analytics, alternative credit scoring, and technology infrastructure. In addition, it offers Kissht, a trusted financial platform; and PaywithRING, a cutting-edge digital app designed to provide instant loans in just minutes. The company serves salaried and self-employed individuals. The company was formerly known as OnEMI Technology Solutions Private Limited and changed its name to OnEMI Technology Solutions Limited. The company was incorporated in 2016 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 6913.99,
-  "pe_ratio": 14.76,
+  "market_cap_cr": 6678.61,
+  "pe_ratio": 14.26,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 138.33,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-20T22:37:54.281701",
-  "provider_reported_pb_ratio": 2.44,
-  "statements_retrieved_at": "2026-11-20T22:37:54.281701",
+  "retrieval_time": "2026-11-24T02:26:10.039002",
+  "provider_reported_pb_ratio": 2.36,
+  "statements_retrieved_at": "2026-11-24T02:26:10.039002",
   "retained_fields": []
 }

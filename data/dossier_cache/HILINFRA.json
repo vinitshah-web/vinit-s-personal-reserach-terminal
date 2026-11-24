@@ -5,14 +5,14 @@
   "industry": "Infrastructure Operations",
   "business_summary": "Highway Infrastructure Limited, together with its subsidiaries, engages in tollway collection business in India. It operates in three segments: Toll Division; Work Contract Division and Machineries & Equipment Hire Division; and Real Estate Division. The company operates and manages collection systems on highway projects. It also executes a range of EPC infrastructure construction and development projects, including roads, bridges, highways, industrial infrastructure, irrigation works, tanks, civil and commercial buildings, housing, hospitality and residential buildings, industrial infrastructure, and allied civil works for the public and private sectors, as well as projects under government schemes. In addition, the company sub-contracts EPC infrastructure projects. Further, it engages in the ownership, development, construction, and sale of residential and commercial properties; and leasing of commercial and hospitality properties. Highway Infrastructure Limited was incorporated in 1995 and is headquartered in Indore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 603.24,
-  "pe_ratio": 22.67,
+  "market_cap_cr": 610.49,
+  "pe_ratio": 22.94,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 33.91,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 7.1721,
-  "fifty_two_week_high": 85.0,
+  "fifty_two_week_high": 87.95,
   "fifty_two_week_low": 40.1,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-20T22:29:40.953418",
-  "provider_reported_pb_ratio": 2.48,
-  "statements_retrieved_at": "2026-11-20T22:29:40.953418",
+  "retrieval_time": "2026-11-24T02:19:28.560092",
+  "provider_reported_pb_ratio": 2.51,
+  "statements_retrieved_at": "2026-11-24T02:19:28.560092",
   "retained_fields": []
 }

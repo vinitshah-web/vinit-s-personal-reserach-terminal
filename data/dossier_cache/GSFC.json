@@ -5,14 +5,14 @@
   "industry": "Agricultural Inputs",
   "business_summary": "Gujarat State Fertilizers & Chemicals Limited produces and sells fertilizers and chemicals in India. The company operates in two segments, Fertilizer Products and Industrial Products. It offers fertilizers, including neem coated urea, di-ammonium phosphate, boronated NPK, muriate of potash, ammonium phosphate sulphate, gypsum, and ammonium sulphate. The company provides industrial products, such as caprolactam, nylon-6, anhydrous ammonia, cyclohexanone, sulphuric acid, technical grade urea, melamine, methyl ethyl ketoxime, hydroxylamine sulphate, cyclohexane, argon gas, and oleum. In addition, the company offers water soluble fertilizers; sulphur-based products; plant tissue culture products; micro nutrients; plant growth promoters; soil conditioners; organic products; and seeds. Further, it is involved in the provision of agro services; trading of agro input products; provision of port and logistics related services; and treatment and supply of wastewater. The company was incorporated in 1962 and is based in Vadodara, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 5571.91,
-  "pe_ratio": 9.8,
+  "market_cap_cr": 5519.31,
+  "pe_ratio": 9.71,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 327.7,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 39.8478,
-  "fifty_two_week_high": 190.49,
+  "fifty_two_week_high": 189.16,
   "fifty_two_week_low": 132.25,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-20T22:27:13.161679",
-  "provider_reported_pb_ratio": 0.43,
-  "statements_retrieved_at": "2026-11-20T22:27:13.161679",
+  "retrieval_time": "2026-11-24T02:17:28.217912",
+  "provider_reported_pb_ratio": 0.42,
+  "statements_retrieved_at": "2026-11-24T02:17:28.217912",
   "retained_fields": []
 }

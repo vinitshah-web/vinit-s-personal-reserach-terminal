@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Nectar Lifesciences Limited manufactures, distributes, markets and sells pharmaceutical products in India and internationally. The company offers cephalosporins, includes pharmaceutical ingredients and intermediates comprising cefixime, cefuroxime axetil amorphous, cefuroxime axetil crystalline, cefotaxime sodium, ceftriaxone sodium, cefixime trihydrate, cefuroxime axetil, cefpodoxime proxetil and sterile, cefprozil, cefdinir, cefuroxime sodium, cefazolin sodium, ceftazidime pentahydrate, and cefepime +Arginine. It also provides contract manufacturing for finished dosage forms, such as tablets, capsules, dry powder oral suspensions, and granules and injectable for cephalosporins. In addition, the company offers menthol and pearl capsules. Further. It exports its poducts. Nectar Lifesciences Limited was incorporated in 1995 and is based in Chandigarh, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 190.57,
-  "pe_ratio": 27.25,
+  "market_cap_cr": 191.15,
+  "pe_ratio": 27.33,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 29.98,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-20T22:48:41.077514",
+  "retrieval_time": "2026-11-24T02:34:57.191045",
   "provider_reported_pb_ratio": 0.33,
-  "statements_retrieved_at": "2026-11-20T22:48:41.077514",
+  "statements_retrieved_at": "2026-11-24T02:34:57.191045",
   "retained_fields": []
 }

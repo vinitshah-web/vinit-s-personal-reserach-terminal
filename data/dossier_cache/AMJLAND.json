@@ -5,14 +5,14 @@
   "industry": "Real Estate - Development",
   "business_summary": "AMJ Land Holdings Limited, through its subsidiary, engages in development and leasing of real estate properties in India. The company operates through Real Estate Business and Wind Power Generation segments. It also generates and sells power through its 3 wind power plants with capacity of 4.6 MW that are located at satara and sangli in the state of Maharashtra, as well as engages in sale of renewable energy certificates. In addition, the company is involved in construction of real estate properties. The company was formerly known as Pudumjee Pulp & Paper Mills Limited and changed its name to AMJ Land Holdings Limited in December 2017. AMJ Land Holdings Limited was incorporated in 1964 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 141.49,
-  "pe_ratio": 9.61,
+  "market_cap_cr": 138.78,
+  "pe_ratio": 9.43,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 60.68,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 4.1,
-  "fifty_two_week_high": 54.79,
+  "fifty_two_week_high": 54.65,
   "fifty_two_week_low": 30.3,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-20T22:02:43.785031",
-  "provider_reported_pb_ratio": 0.57,
-  "statements_retrieved_at": "2026-11-20T22:02:43.785031",
+  "retrieval_time": "2026-11-24T01:58:12.972709",
+  "provider_reported_pb_ratio": 0.56,
+  "statements_retrieved_at": "2026-11-24T01:58:12.972709",
   "retained_fields": []
 }

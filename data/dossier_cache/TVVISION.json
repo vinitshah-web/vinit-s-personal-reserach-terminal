@@ -5,7 +5,7 @@
   "industry": "Broadcasting",
   "business_summary": "TV Vision Limited provides television channel broadcasting servicein India. The company operates Mastiii, a music television channel that provides youth and Bollywood music genre content; Maiboli, a regional Marathi music channel; and Dabangg, a Bhojpuri regional entertainment channel that provides music and movies. It also provides Dhamaal, a Hindi-language free-to-air general entertainment channel to showcase captivating drama shows, enchanting mythology, and curious crime series. The company distributes its channels, such as multi-system operators, direct-to-home (DTH) operators, and cable operators. TV Vision Limited was incorporated in 2007 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 8.95,
+  "market_cap_cr": 8.52,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -13,7 +13,7 @@
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 3.8744,
   "fifty_two_week_high": 12.4,
-  "fifty_two_week_low": 2.31,
+  "fifty_two_week_low": 2.2,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-20T23:14:49.050358",
+  "retrieval_time": "2026-11-24T02:55:56.813653",
   "provider_reported_pb_ratio": -0.05,
-  "statements_retrieved_at": "2026-11-20T23:14:49.050358",
+  "statements_retrieved_at": "2026-11-24T02:55:56.813653",
   "retained_fields": []
 }

@@ -5,14 +5,14 @@
   "industry": "Leisure",
   "business_summary": "Wonderla Holidays Limited engages in the amusement park and resort business in India. The company operates through Amusement Parks and Resort, and Others segments. It operates amusement parks, rides, restaurants, banquet halls, food courts, and lounge bars. The company also provides hotel accommodation and other related services, as well as merchandise, cooked food, packed food, and beverages. Wonderla Holidays Limited was founded in 2000 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3173.26,
-  "pe_ratio": 30.71,
+  "market_cap_cr": 3152.63,
+  "pe_ratio": 30.51,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 292.94,
-  "dividend_yield_pct": 0.3927,
+  "dividend_yield_pct": 0.4,
   "shares_outstanding_cr": 6.3465,
-  "fifty_two_week_high": 581.05,
+  "fifty_two_week_high": 578.7,
   "fifty_two_week_low": 447.05,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-20T23:19:27.640776",
-  "provider_reported_pb_ratio": 1.71,
-  "statements_retrieved_at": "2026-11-20T23:19:27.640776",
+  "retrieval_time": "2026-11-24T02:59:53.453653",
+  "provider_reported_pb_ratio": 1.7,
+  "statements_retrieved_at": "2026-11-24T02:59:53.453653",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Super Spinning Mills Limited engages in the infrastructure services in India. It offers rental services. The company was incorporated in 1962 and is based in Coimbatore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 38.94,
-  "pe_ratio": 57.92,
+  "market_cap_cr": 39.05,
+  "pe_ratio": 77.44,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 8.93,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-20T23:10:02.582286",
+  "retrieval_time": "2026-11-24T02:52:08.079686",
   "provider_reported_pb_ratio": 0.78,
-  "statements_retrieved_at": "2026-11-20T23:10:02.582286",
+  "statements_retrieved_at": "2026-11-24T02:52:08.079686",
   "retained_fields": []
 }

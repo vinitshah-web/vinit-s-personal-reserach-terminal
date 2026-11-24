@@ -5,7 +5,7 @@
   "industry": "Building Materials",
   "business_summary": "J.K. Cement Limited manufactures and sells cement and its related products in India and internationally. The company offers grey cement products; JKMaxx paints, including interior and exterior emulsions, distemper, enamel, and primers; wall putty; and white cement. It also provides tile adhesives and grouts; and wood finishes, as well as construction chemicals solutions. The company was founded in 1975 and is headquartered in Kanpur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 42023.88,
+  "market_cap_cr": 42026.2,
   "pe_ratio": 43.87,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-20T22:35:20.922067",
+  "retrieval_time": "2026-11-24T02:24:01.152289",
   "provider_reported_pb_ratio": 5.72,
-  "statements_retrieved_at": "2026-11-20T22:35:20.922067",
+  "statements_retrieved_at": "2026-11-24T02:24:01.152289",
   "retained_fields": []
 }
