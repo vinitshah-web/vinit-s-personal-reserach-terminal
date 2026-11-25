@@ -6,7 +6,7 @@
   "business_summary": "Greenpanel Industries Limited engages in the manufacturing and sale of plywood, medium density fibre board (MDF), and allied products under the Greenpanel brand name in India and internationally. The company provides high-density fibreboard, fire-resistant, pre-laminated, HDWR boards, veneered MDF, wooden flooring, plywood, block boards, and wooden flooring and doors. Greenpanel Industries Limited was incorporated in 2017 and is based in Gurugram, India.",
   "business_summary_reason": null,
   "market_cap_cr": 1910.66,
-  "pe_ratio": 162.3,
+  "pe_ratio": 157.38,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 106.16,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-24T23:57:57.788310",
+  "retrieval_time": "2026-11-25T01:28:36.295928",
   "provider_reported_pb_ratio": 1.47,
-  "statements_retrieved_at": "2026-11-24T23:57:57.788310",
+  "statements_retrieved_at": "2026-11-25T01:28:36.295928",
   "retained_fields": []
 }

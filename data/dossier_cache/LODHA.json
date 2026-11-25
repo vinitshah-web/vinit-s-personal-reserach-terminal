@@ -6,7 +6,7 @@
   "business_summary": "Lodha Developers Limited, through its subsidiaries, engages in the development of real estate properties in India. It is involved in the development of residential, office, and retail properties, as well as leasing of retail and office spaces. The company also develops warehousing, logistics, light industrial facilities, and digital infrastructure parks. In addition, it offers financing, support, e-commerce application, and facility management services. The company was formerly known as Macrotech Developers Limited and changed its name to Lodha Developers Limited in June 2025. Lodha Developers Limited was founded in 1980 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
   "market_cap_cr": 121808.68,
-  "pe_ratio": 28.06,
+  "pe_ratio": 28.05,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 253.12,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-25T00:08:27.036616",
+  "retrieval_time": "2026-11-25T01:40:20.044879",
   "provider_reported_pb_ratio": 4.82,
-  "statements_retrieved_at": "2026-11-25T00:08:27.036616",
+  "statements_retrieved_at": "2026-11-25T01:40:20.044879",
   "retained_fields": []
 }

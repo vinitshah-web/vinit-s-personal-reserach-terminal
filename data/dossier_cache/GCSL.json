@@ -6,7 +6,7 @@
   "business_summary": "Gretex Corporate Services Limited, a merchant banking company, provides financial and consultancy services in the areas of capital markets advisory, corporate finance, corporate restructuring, debt syndication, and compliance advisory in India. The company offers initial public offerings, follow-on public offers, rights issues and qualified institutional placements, and open offers, exit offers, and delisting; corporate finance advisory services, such as capital structuring and fundraising strategy, private equity and venture capital advisory, structured debt, and bank financing debt issuance; strategic and restructuring advisory comprising mergers and acquisitions, takeovers and open offers, demergers and reorganizations, and financial restructuring; and compliance advisory which includes post-listing compliance, corporate governance advisory, and ongoing regulatory monitoring. It serves small and medium enterprises. Gretex Corporate Services Limited was incorporated in 2008 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
   "market_cap_cr": 2123.71,
-  "pe_ratio": 74.3,
+  "pe_ratio": 73.47,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 89.83,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-24T23:56:11.372319",
+  "retrieval_time": "2026-11-25T01:26:35.512218",
   "provider_reported_pb_ratio": 9.45,
-  "statements_retrieved_at": "2026-11-24T23:56:11.372319",
+  "statements_retrieved_at": "2026-11-25T01:26:35.512218",
   "retained_fields": []
 }
