@@ -6,7 +6,7 @@
   "business_summary": "North Eastern Carrying Corporation Limited provides logistics and transportation services in India, Nepal, Bhutan, Tibet, and Bangladesh. It offers goods/small parcels, full truck load, bulk movements, over dimensional consignments, and warehousing services. North Eastern Carrying Corporation Limited was founded in 1968 and is headquartered in Delhi, India.",
   "business_summary_reason": null,
   "market_cap_cr": 259.89,
-  "pe_ratio": 29.26,
+  "pe_ratio": 31.48,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 24.31,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-24T03:47:24.301347",
+  "retrieval_time": "2026-11-25T00:13:52.892930",
   "provider_reported_pb_ratio": 1.02,
-  "statements_retrieved_at": "2026-11-24T03:47:24.301347",
+  "statements_retrieved_at": "2026-11-25T00:13:52.892930",
   "retained_fields": []
 }

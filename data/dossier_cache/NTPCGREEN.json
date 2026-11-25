@@ -6,7 +6,7 @@
   "business_summary": "NTPC Green Energy Limited engages in the renewable energy generation business in India. The company has a portfolio of 26,544 MWs solar and wind power projects. It also offers consultancy services, project management, and supervision services. The company was incorporated in 2022 and is based in New Delhi, India. NTPC Green Energy Limited is a subsidiary of NTPC Limited.",
   "business_summary_reason": null,
   "market_cap_cr": 69348.69,
-  "pe_ratio": 108.29,
+  "pe_ratio": 106.88,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 22.59,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-24T03:49:11.560695",
+  "retrieval_time": "2026-11-25T00:15:24.256110",
   "provider_reported_pb_ratio": 3.64,
-  "statements_retrieved_at": "2026-11-24T03:49:11.560695",
+  "statements_retrieved_at": "2026-11-25T00:15:24.256110",
   "retained_fields": []
 }

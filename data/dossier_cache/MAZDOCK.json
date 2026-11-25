@@ -6,7 +6,7 @@
   "business_summary": "Mazagon Dock Shipbuilders Limited engages in the building and repairing of ships, submarines, vessels, and related engineering products in India and internationally. The company operates in two segments, Shipbuilding, and Submarine and Heavy Engineering. The company offers cargo ships, passenger ships, supply vessels, multipurpose support vessels, water tankers, tugs, dredgers, fishing trawlers, barges, and border outposts. It also provides services, including repairs and refit, designing of ships, know how provider, training, tug support, supply chain management, and self-propeller modular transporter. In addition, it offers offshore patrol vessels, fast patrol vessels, and floating boarder outposts. Further, the company provides AI products, including remotely operated vehicles, AI-enabled phased array ultrasonic testing, and AI-enabled computerized radiography. The company was formerly known as Mazagon Dock Limited and changed its name to Mazagon Dock Shipbuilders Limited in May 2015. Mazagon Dock Shipbuilders Limited was founded in 1774 and is based in Mumbai, India.",
   "business_summary_reason": null,
   "market_cap_cr": 72648.74,
-  "pe_ratio": 30.29,
+  "pe_ratio": 29.62,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 259.29,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-24T03:43:04.519577",
+  "retrieval_time": "2026-11-25T00:10:18.721512",
   "provider_reported_pb_ratio": 6.95,
-  "statements_retrieved_at": "2026-11-24T03:43:04.519577",
+  "statements_retrieved_at": "2026-11-25T00:10:18.721512",
   "retained_fields": []
 }

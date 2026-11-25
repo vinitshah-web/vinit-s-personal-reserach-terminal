@@ -6,7 +6,7 @@
   "business_summary": "Om Power Transmission Limited, an engineering, procurement, and construction company, executes high-voltage and extra-high voltage transmission line, substations, and underground cabling projects. The company constructs transmission lines of voltage levels; undertakes high tension and low tension underground cabling providing services, such as trenching, cable laying, jointing, and termination; and offers substation projects comprising design, supply, erection, testing, commissioning, and civil works for conventional and renewable energy evacuation substations. It also provides operation and maintenance services for substations and transmission lines. The company serves utilities, renewable energy developers, and industrial customers. Om Power Transmission Limited was incorporated in 2011 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
   "market_cap_cr": 460.05,
-  "pe_ratio": 9.19,
+  "pe_ratio": 11.02,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 82.69,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-24T03:49:49.072621",
+  "retrieval_time": "2026-11-25T00:15:56.479757",
   "provider_reported_pb_ratio": 1.62,
-  "statements_retrieved_at": "2026-11-24T03:49:49.072621",
+  "statements_retrieved_at": "2026-11-25T00:15:56.479757",
   "retained_fields": []
 }

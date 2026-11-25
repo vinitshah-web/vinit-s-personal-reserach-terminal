@@ -6,7 +6,7 @@
   "business_summary": "Prakash Pipes Limited engages in the manufacture and sale of PVC pipes, fittings, and flexible packaging solutions in India and internationally. It offers agri pipes, column pipes, plumbing pipes, casing pipes, SWR pipes, garden pipes, CPVC pipes, water tanks, HDPE Drums, barrels, and related fittings catering to applications in irrigation, drainage, housing, and sanitation. The company also provides flexible packaging products, including barrier films, laminates, and pouches, including centre-seal, three-side seal, zip, lock, flat bottom (3d), gusseted, and stand-up formats for the food, beverage, oil, personal care, and pharmaceutical industries. It offers its products under the Prakash brand name. Prakash Pipes Limited was founded in 1981 and is based in New Delhi, India.",
   "business_summary_reason": null,
   "market_cap_cr": 510.62,
-  "pe_ratio": 10.57,
+  "pe_ratio": 10.34,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 211.25,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-24T03:52:56.357419",
+  "retrieval_time": "2026-11-25T00:18:33.175473",
   "provider_reported_pb_ratio": 1.01,
-  "statements_retrieved_at": "2026-11-24T03:52:56.357419",
+  "statements_retrieved_at": "2026-11-25T00:18:33.175473",
   "retained_fields": []
 }

@@ -6,7 +6,7 @@
   "business_summary": "BlueStone Jewellery and Lifestyle Limited designs, manufactures, and sells fine jewelry products under the BlueStone brand in India. The company offers rings, earrings, necklaces, pendants, solitaires, bangles, bracelets, kadas, studs, cufflinks, nazariyas, mangalsutras, nose pins, nose rings, nose screws, and chains; watch jewelry, including charms, bands, and pins; men's, kid's, platinum, gold, diamond, gemstone, and pearl jewelry; and gold coins. It sells its products through its franchise-owned and company-operated stores, website, and mobile application. BlueStone Jewellery and Lifestyle Limited was incorporated in 2011 and is based in Mumbai, India.",
   "business_summary_reason": null,
   "market_cap_cr": 10174.62,
-  "pe_ratio": 95.98,
+  "pe_ratio": 96.54,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 120.12,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-24T03:14:30.313779",
+  "retrieval_time": "2026-11-24T23:46:47.577964",
   "provider_reported_pb_ratio": 5.54,
-  "statements_retrieved_at": "2026-11-24T03:14:30.313779",
+  "statements_retrieved_at": "2026-11-24T23:46:47.577964",
   "retained_fields": []
 }

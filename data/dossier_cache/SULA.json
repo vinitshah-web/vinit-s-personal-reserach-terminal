@@ -6,13 +6,13 @@
   "business_summary": "Sula Vineyards Limited manufactures, purchases, and sells wine and other alcoholic beverages in India and internationally. It offers white, red, ros\u00e9, and sparkling wines; and spirits under the RASA, The Source, Dindori, SULA CLASSICS, and York brands. The company also owns and operates wine tourism venues, including vineyard resorts and tasting rooms, as well as restaurants. It sells its products through distributors, corporations, licensed resellers, company depots, defense units, and other points of sale, as well as direct-to-consumer and online channel. The company was founded in 1996 and is headquartered in Nashik, India.",
   "business_summary_reason": null,
   "market_cap_cr": 1170.78,
-  "pe_ratio": 43.74,
+  "pe_ratio": 43.6,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 68.23,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 8.4447,
-  "fifty_two_week_high": 240.75,
+  "fifty_two_week_high": 239.45,
   "fifty_two_week_low": 125.3,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-24T04:05:07.289518",
+  "retrieval_time": "2026-11-25T00:28:39.970667",
   "provider_reported_pb_ratio": 2.03,
-  "statements_retrieved_at": "2026-11-24T04:05:07.289518",
+  "statements_retrieved_at": "2026-11-25T00:28:39.970667",
   "retained_fields": []
 }

@@ -12,7 +12,7 @@
   "book_value": 96.58,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 12.8528,
-  "fifty_two_week_high": 1010.0,
+  "fifty_two_week_high": 1008.0,
   "fifty_two_week_low": 599.6,
   "financial_statements": [
     {
@@ -74,27 +74,12 @@
       "total_equity_cr": 1438.21,
       "total_debt_cr": 1246.45,
       "cash_cr": 74.59
-    },
-    {
-      "period": "FY22 (2022)",
-      "period_end": "2022-03-31",
-      "cash_flow_basis": "Operating cash flow less capital expenditure; not unlevered FCFF",
-      "revenue_cr": null,
-      "ebitda_cr": null,
-      "net_income_cr": null,
-      "operating_cash_flow_cr": null,
-      "capex_cr": null,
-      "fcff_cr": null,
-      "total_assets_cr": null,
-      "total_equity_cr": null,
-      "total_debt_cr": null,
-      "cash_cr": null
     }
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-24T03:12:47.275783",
+  "retrieval_time": "2026-11-24T23:45:23.309530",
   "provider_reported_pb_ratio": 6.49,
-  "statements_retrieved_at": "2026-11-24T03:12:47.275783",
+  "statements_retrieved_at": "2026-11-24T23:45:23.309530",
   "retained_fields": []
 }

@@ -6,13 +6,13 @@
   "business_summary": "Bajaj Nivesh Limited invests in securities in India. It is also involved in treasury operations, as well as managing funds. Bajaj Nivesh Limited was formerly known as Maharashtra Scooters Ltd. and changed its name to Bajaj Nivesh Limited in October 2026. Bajaj Nivesh Limited was incorporated in 1975 and is based in Pune, India. Bajaj Nivesh Limited is a subsidiary of Bajaj Holdings & Investment Limited.",
   "business_summary_reason": null,
   "market_cap_cr": 14288.0,
-  "pe_ratio": 46.89,
+  "pe_ratio": 47.1,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 28359.76,
   "dividend_yield_pct": 1.7679,
   "shares_outstanding_cr": 1.1429,
-  "fifty_two_week_high": 15003.0,
+  "fifty_two_week_high": 14930.0,
   "fifty_two_week_low": 10901.0,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-24T03:41:50.919481",
+  "retrieval_time": "2026-11-25T00:09:17.799045",
   "provider_reported_pb_ratio": 0.44,
-  "statements_retrieved_at": "2026-11-24T03:41:50.919481",
+  "statements_retrieved_at": "2026-11-25T00:09:17.799045",
   "retained_fields": []
 }

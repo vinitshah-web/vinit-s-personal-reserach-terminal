@@ -6,14 +6,14 @@
   "business_summary": "SML Mahindra Limited manufactures and sells commercial vehicles and related parts in India and internationally. Its products include trucks, buses, and special application vehicles. The company serves fleet owners, educational institutions, offices, transporters, Government agencies, and other domestic and international market through distributors and dealers. SML Mahindra Limited was formerly known as SML Isuzu Limited and changed its name to SML Mahindra Limited in October 2025. SML Mahindra Limited was incorporated in 1983 and is based in Mohali, India. As of August 1, 2025, SML Mahindra Limited operates as a subsidiary of Mahindra & Mahindra Limited.",
   "business_summary_reason": null,
   "market_cap_cr": 7649.16,
-  "pe_ratio": 53.66,
+  "pe_ratio": 52.02,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 387.15,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.5816,
   "fifty_two_week_high": 6898.5,
-  "fifty_two_week_low": 2776.2,
+  "fifty_two_week_low": 2785.7,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-24T04:03:14.953709",
+  "retrieval_time": "2026-11-25T00:27:08.315521",
   "provider_reported_pb_ratio": 12.49,
-  "statements_retrieved_at": "2026-11-24T04:03:14.953709",
+  "statements_retrieved_at": "2026-11-25T00:27:08.315521",
   "retained_fields": []
 }

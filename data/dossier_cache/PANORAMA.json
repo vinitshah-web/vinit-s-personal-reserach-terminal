@@ -6,7 +6,7 @@
   "business_summary": "Panorama Studios International Limited, together with its subsidiaries, engages in the production and distribution of media entertainment and content in India. It offers film production, project development, post production, film distribution, music, talent management, equipment rental, publicity and design, syndication, and line production services. The company was formerly known as Apunka Invest Commercial Limited. Panorama Studios International Limited was incorporated in 1980 and is based in Mumbai, India.",
   "business_summary_reason": null,
   "market_cap_cr": 1476.72,
-  "pe_ratio": 61.61,
+  "pe_ratio": 48.44,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 9.26,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-24T03:50:55.217481",
+  "retrieval_time": "2026-11-25T00:16:51.929370",
   "provider_reported_pb_ratio": 6.12,
-  "statements_retrieved_at": "2026-11-24T03:50:55.217481",
+  "statements_retrieved_at": "2026-11-25T00:16:51.929370",
   "retained_fields": []
 }
