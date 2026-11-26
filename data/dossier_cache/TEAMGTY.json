@@ -6,7 +6,7 @@
   "business_summary": "Team India Guaranty Limited, a non-deposit accepting non-banking financial company, provides investment services in India. The company focuses to invest own funds in safe debt instruments/eligible deposits; and undertaking lending activities. The company was formerly known as Times Guaranty Limited and changed its name to Team India Guaranty Limited in July 2025. Team India Guaranty Limited was incorporated in 1989 and is based in Mumbai, India.",
   "business_summary_reason": null,
   "market_cap_cr": 205.04,
-  "pe_ratio": 188.43,
+  "pe_ratio": 198.26,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 55.7,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T00:23:53.717869",
+  "retrieval_time": "2026-11-26T01:43:03.710020",
   "provider_reported_pb_ratio": 4.09,
-  "statements_retrieved_at": "2026-11-26T00:23:53.717869",
+  "statements_retrieved_at": "2026-11-26T01:43:03.710020",
   "retained_fields": []
 }

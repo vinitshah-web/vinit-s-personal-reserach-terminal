@@ -6,7 +6,7 @@
   "business_summary": "Precision Wires India Limited manufactures and sells insulated enamelled winding wires and other insulated electric conductors in India and internationally. The company offers enamelled round and rectangular winding wires, continuously transposed conductors, paper/mica/nomex insulated copper conductors, and submersible winding wires. It serves static and rotating electric equipment, auto-electrical, electronics, refrigeration and air conditioning, consumable durables, etc., as well as small consumers through dealer-sector. Precision Wires India Limited was incorporated in 1989 and is based in Mumbai, India.",
   "business_summary_reason": null,
   "market_cap_cr": 6736.47,
-  "pe_ratio": 36.56,
+  "pe_ratio": 37.11,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 53.38,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T00:09:15.073564",
+  "retrieval_time": "2026-11-26T01:29:07.059520",
   "provider_reported_pb_ratio": 6.9,
-  "statements_retrieved_at": "2026-11-26T00:09:15.073564",
+  "statements_retrieved_at": "2026-11-26T01:29:07.059520",
   "retained_fields": []
 }

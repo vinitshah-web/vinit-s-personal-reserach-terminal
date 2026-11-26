@@ -6,7 +6,7 @@
   "business_summary": "The Sandesh Limited, together with its subsidiary, Sandesh Digital Private Limited, engages in the editing, printing, and publishing of newspapers and periodicals in India. It operates through three segments: Media; Finance; and Trade in Commodities. The company publishes SANDESH, a Gujarati daily newspaper; and operates Sandesh News, a Gujarati news channel. It also provides news, videos, and advertisements on digital platforms; out-of-home media solutions; and finance services. The Sandesh Limited was founded in 1923 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
   "market_cap_cr": 722.54,
-  "pe_ratio": 7.18,
+  "pe_ratio": 7.12,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 2012.29,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T00:14:36.682237",
+  "retrieval_time": "2026-11-26T01:34:12.732057",
   "provider_reported_pb_ratio": 0.47,
-  "statements_retrieved_at": "2026-11-26T00:14:36.682237",
+  "statements_retrieved_at": "2026-11-26T01:34:12.732057",
   "retained_fields": []
 }

@@ -6,7 +6,7 @@
   "business_summary": "Venus Pipes and Tubes Limited manufactures and sells stainless-steel pipes and tubes worldwide. The company offers stainless steel high precision and heat exchanger tubes; hydraulic and instrumentation tubes; seamless pipes; welded pipes; condenser tubes; and LSAW pipes, as well as fittings, including elbows, nipples, reducers, tees, end cap, and other products. It serves chemical, engineering, fertilizers, pharmaceutical, power, food processing, paper, oil and gas, paint, defence, aerospace, and other industries, as well as semiconductors and solar manufacturing industries. The company also exports its products. Venus Pipes and Tubes Limited was incorporated in 2015 and is headquartered in Gandhidham, India.",
   "business_summary_reason": null,
   "market_cap_cr": 3932.54,
-  "pe_ratio": 34.39,
+  "pe_ratio": 34.21,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 347.71,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T00:28:06.948634",
+  "retrieval_time": "2026-11-26T01:47:00.466287",
   "provider_reported_pb_ratio": 4.93,
-  "statements_retrieved_at": "2026-11-26T00:28:06.948634",
+  "statements_retrieved_at": "2026-11-26T01:47:00.466287",
   "retained_fields": []
 }
