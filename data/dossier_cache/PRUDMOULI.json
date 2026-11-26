@@ -5,8 +5,8 @@
   "industry": "Confectioners",
   "business_summary": "Prudential Sugar Corporation Ltd. owns and operates sugar mills. Prudential Sugar Corporation Ltd. is based in Chittoor, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 41.48,
-  "pe_ratio": 6.77,
+  "market_cap_cr": 41.86,
+  "pe_ratio": 6.83,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": null,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-25T01:52:36.321785",
+  "retrieval_time": "2026-11-26T00:09:52.374827",
   "provider_reported_pb_ratio": null,
-  "statements_retrieved_at": "2026-11-25T01:52:36.321785",
+  "statements_retrieved_at": "2026-11-26T00:09:52.374827",
   "retained_fields": []
 }

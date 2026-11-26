@@ -5,7 +5,7 @@
   "industry": "Real Estate - Development",
   "business_summary": "Ashima Limited engages in real estate business in India. It operates through Real Estate and Investment segments. The company provides portfolio management services, as well as develops residential and commercial properties. Ashima Limited was incorporated in 1982 and is based in Ahmedabad, India. Ashima Limited is a subsidiary of Navchintan Trust.",
   "business_summary_reason": null,
-  "market_cap_cr": 253.76,
+  "market_cap_cr": 250.69,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-25T01:12:04.071767",
-  "provider_reported_pb_ratio": 0.98,
-  "statements_retrieved_at": "2026-11-25T01:12:04.071767",
+  "retrieval_time": "2026-11-25T23:24:59.911069",
+  "provider_reported_pb_ratio": 0.97,
+  "statements_retrieved_at": "2026-11-25T23:24:59.911069",
   "retained_fields": []
 }

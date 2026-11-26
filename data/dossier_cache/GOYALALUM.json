@@ -5,8 +5,8 @@
   "industry": "Aluminum",
   "business_summary": "Goyal Aluminiums Limited engages in the trading of aluminium and other metals in India. It offers aluminum coils, aluminum section, aluminum sheet, stainless steel, rubber bidding, aluminum giril, and other aluminum parts products. Goyal Aluminiums Limited was incorporated in 2017 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 80.64,
-  "pe_ratio": 23.54,
+  "market_cap_cr": 79.64,
+  "pe_ratio": 23.25,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 1.97,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-25T01:28:12.251732",
-  "provider_reported_pb_ratio": 2.87,
-  "statements_retrieved_at": "2026-11-25T01:28:12.251732",
+  "retrieval_time": "2026-11-25T23:42:45.329985",
+  "provider_reported_pb_ratio": 2.84,
+  "statements_retrieved_at": "2026-11-25T23:42:45.329985",
   "retained_fields": []
 }

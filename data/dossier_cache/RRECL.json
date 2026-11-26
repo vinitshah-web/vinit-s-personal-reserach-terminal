@@ -5,7 +5,7 @@
   "industry": "Real Estate Services",
   "business_summary": "RDB Real Estate Constructions Limited engages in the real estate business. The company is involved in infrastructure development; construction of runway and airport; and generation of solar power. It also develops residential projects, including integrated residential townships, group housing projects, and other residential developments. In addition, the company develops, sells, and leases commercial office spaces, shopping malls, retail outlets, and other commercial properties. The company was formerly known as Baron Real Estate Limited and changed its name to RDB Real Estate Constructions Limited in January 2019. RDB Real Estate Constructions Limited was incorporated in 2018 and is headquartered in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 330.43,
+  "market_cap_cr": 319.44,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -13,7 +13,7 @@
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 2.6308,
   "fifty_two_week_high": 152.0,
-  "fifty_two_week_low": 110.5,
+  "fifty_two_week_low": 104.1,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-25T01:55:38.691572",
-  "provider_reported_pb_ratio": 1.33,
-  "statements_retrieved_at": "2026-11-25T01:55:38.691572",
+  "retrieval_time": "2026-11-26T00:13:13.387633",
+  "provider_reported_pb_ratio": 1.28,
+  "statements_retrieved_at": "2026-11-26T00:13:13.387633",
   "retained_fields": []
 }

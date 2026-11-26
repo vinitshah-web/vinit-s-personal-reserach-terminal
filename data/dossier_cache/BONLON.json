@@ -5,15 +5,15 @@
   "industry": "Other Industrial Metals & Mining",
   "business_summary": "Bonlon Industries Limited manufactures and trades in ferrous and non-ferrous metals in India and internationally. It operates through Metal, Trading, and Manufacturing segments. The company offers copper wire rods for use in electrical and other engineering industries; and copper wires for use in power generation and transmission, power distribution, telecommunication, electronic circuitry, and electrical equipment applications, as well as offers cathode, ingots, and cables. It also deals in copper, aluminum, zinc, lead, nickel, etc.; and manufactures plastic insulated power cables. It also exports its cable products primarily to the United Arab Emirates and Nigeria. The company was incorporated in 1997 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 62.58,
-  "pe_ratio": 119.38,
+  "market_cap_cr": 65.52,
+  "pe_ratio": 111.34,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 60.84,
   "dividend_yield_pct": 0.0,
-  "shares_outstanding_cr": 1.6383,
+  "shares_outstanding_cr": 1.8353,
   "fifty_two_week_high": 57.0,
-  "fifty_two_week_low": 31.12,
+  "fifty_two_week_low": 30.85068,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-25T01:16:20.167204",
-  "provider_reported_pb_ratio": 0.63,
-  "statements_retrieved_at": "2026-11-25T01:16:20.167204",
+  "retrieval_time": "2026-11-25T23:29:42.018011",
+  "provider_reported_pb_ratio": 0.59,
+  "statements_retrieved_at": "2026-11-25T23:29:42.018011",
   "retained_fields": []
 }

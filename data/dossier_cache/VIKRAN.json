@@ -5,15 +5,15 @@
   "industry": "Engineering & Construction",
   "business_summary": "Vikran Engineering Limited operates as an engineering, procurement, and construction company in India. It is involved in the design, engineering, procurement, construction, testing, and commissioning of high-voltage transmission lines, air-insulated and gas-insulated substations, underground EHV cables, high-voltage switching and distribution substations, as well as feeder bay augmentations, rural/remote electrification, and smart metering solutions. The company was incorporated in 2008 and is headquartered in Thane, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1336.75,
-  "pe_ratio": 16.0,
+  "market_cap_cr": 1305.03,
+  "pe_ratio": 15.62,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 135.01,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 25.7911,
-  "fifty_two_week_high": 110.4,
-  "fifty_two_week_low": 50.81,
+  "fifty_two_week_high": 110.36,
+  "fifty_two_week_low": 50.21,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-25T02:09:32.443578",
-  "provider_reported_pb_ratio": 0.38,
-  "statements_retrieved_at": "2026-11-25T02:09:32.443578",
+  "retrieval_time": "2026-11-26T00:28:38.574727",
+  "provider_reported_pb_ratio": 0.37,
+  "statements_retrieved_at": "2026-11-26T00:28:38.574727",
   "retained_fields": []
 }

@@ -5,7 +5,7 @@
   "industry": "Farm Products",
   "business_summary": "Andrew Yule & Company Limited engages in the tea, electrical, and engineering businesses in India. involved in the plantation, manufacturing, and sale of tea products. The company provides centrifugal fan, air pollution control, water pollution control, refurbishment of waste gas fan impeller, converter and generator transformers, owner and distribution transformers, and dry type transformers. It is also involved in the plantation, manufacturing, and sale of tea products. Andrew Yule & Company Limited exports its products to the United Kingdom and Poland. The company was founded in 1863 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1104.05,
+  "market_cap_cr": 1106.5,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-25T01:10:27.743265",
-  "provider_reported_pb_ratio": 3.27,
-  "statements_retrieved_at": "2026-11-25T01:10:27.743265",
+  "retrieval_time": "2026-11-25T23:23:12.805308",
+  "provider_reported_pb_ratio": 3.28,
+  "statements_retrieved_at": "2026-11-25T23:23:12.805308",
   "retained_fields": []
 }

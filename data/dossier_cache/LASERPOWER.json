@@ -5,15 +5,15 @@
   "industry": "Electrical Equipment & Parts",
   "business_summary": "Laser Power & Infra Limited manufactures and distributes power cables, conductors, and other components for the power transmission and distribution industry in India and internationally. The company operates in 2 segments, manufacturing and EPC (engineering, procurement, and construction). The company's products include galvanized steel earth wire, aluminum alloy wire rods, MV aerial bunched cables, PVC insulated copper cables, conductors, underground jelly-filled quad cables, railway power cables, and railway signaling cables. The company was incorporated in 1988 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2626.85,
-  "pe_ratio": 21.66,
+  "market_cap_cr": 2501.22,
+  "pe_ratio": 20.62,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 96.18,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 14.0368,
   "fifty_two_week_high": 343.5,
-  "fifty_two_week_low": 183.01,
+  "fifty_two_week_low": 175.15,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -63,8 +63,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-25T01:39:18.300045",
-  "provider_reported_pb_ratio": 1.95,
-  "statements_retrieved_at": "2026-11-25T01:39:18.300045",
+  "retrieval_time": "2026-11-25T23:55:05.773044",
+  "provider_reported_pb_ratio": 1.85,
+  "statements_retrieved_at": "2026-11-25T23:55:05.773044",
   "retained_fields": []
 }

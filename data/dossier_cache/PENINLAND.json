@@ -5,14 +5,14 @@
   "industry": "Real Estate - Development",
   "business_summary": "Peninsula Land Limited, through its subsidiaries, engages in the real estate development business in India. The company develops projects, such as retail ventures, commercial, and residential complexes. It is also involved in the rental of investment properties, which include commercial properties. The company was formerly known as Morarjee Realties Limited and changed its name to Peninsula Land Limited in April 2006. Peninsula Land Limited was incorporated in 1871 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 472.38,
+  "market_cap_cr": 466.41,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 2.09,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 33.1728,
-  "fifty_two_week_high": 30.83,
+  "fifty_two_week_high": 30.4,
   "fifty_two_week_low": 12.07,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-25T01:50:28.082936",
-  "provider_reported_pb_ratio": 6.82,
-  "statements_retrieved_at": "2026-11-25T01:50:28.082936",
+  "retrieval_time": "2026-11-26T00:07:31.571413",
+  "provider_reported_pb_ratio": 6.73,
+  "statements_retrieved_at": "2026-11-26T00:07:31.571413",
   "retained_fields": []
 }

@@ -5,15 +5,15 @@
   "industry": "Industrial Distribution",
   "business_summary": "AKG Exim Limited engages in the commodity trading business in India and rest of Asia. The company distributes agro-food commodities comprising basmati and non-basmati rice, spices, and dry fruits; ferrous scraps, such as heavy and light melting, cast iron, auto purja, iron pipes, and stainless-steel products. It also offers non-ferrous scraps, including magnesium, aluminum tense, taint and tabor, taldon, copper, brass, and lead battery; petrochemicals, which include base oil, sulphur granules, urea, bitumen, aromatics, alkyl benzene, toluene, and other petroleum-based chemicals; and reusable items. In addition, the company provides engineering, technical and business consultancy, indenting/commission, international supply, sourcing, and product establishment services. Further, it exports its products. AKG Exim Limited was incorporated in 2005 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 29.27,
-  "pe_ratio": 76.75,
+  "market_cap_cr": 26.22,
+  "pe_ratio": 68.75,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 16.84,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 3.1777,
   "fifty_two_week_high": 15.34,
-  "fifty_two_week_low": 8.06,
+  "fifty_two_week_low": 7.81,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-25T01:09:24.847951",
-  "provider_reported_pb_ratio": 0.55,
-  "statements_retrieved_at": "2026-11-25T01:09:24.847951",
+  "retrieval_time": "2026-11-25T23:22:03.606518",
+  "provider_reported_pb_ratio": 0.49,
+  "statements_retrieved_at": "2026-11-25T23:22:03.606518",
   "retained_fields": []
 }

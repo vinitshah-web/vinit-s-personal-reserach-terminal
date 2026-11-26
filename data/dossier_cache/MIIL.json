@@ -5,15 +5,15 @@
   "industry": "Real Estate - Development",
   "business_summary": "Meghna Infracon Infrastructure Limited engages in the real estate development business in India. It develops residential, commercial, and mixed-use development projects. The company was formerly known as Naysaa Securities Limited and changed its name to Meghna Infracon Infrastructure Limited in May 2024. The company was incorporated in 2007 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1411.61,
-  "pe_ratio": 310.91,
+  "market_cap_cr": 1379.02,
+  "pe_ratio": 293.89,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 12.55,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 2.1724,
   "fifty_two_week_high": 742.9,
-  "fifty_two_week_low": 638.25,
+  "fifty_two_week_low": 622.35,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-25T01:43:33.583312",
-  "provider_reported_pb_ratio": 51.77,
-  "statements_retrieved_at": "2026-11-25T01:43:33.583312",
+  "retrieval_time": "2026-11-25T23:59:47.828195",
+  "provider_reported_pb_ratio": 50.57,
+  "statements_retrieved_at": "2026-11-25T23:59:47.828195",
   "retained_fields": []
 }

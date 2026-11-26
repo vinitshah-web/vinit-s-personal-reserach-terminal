@@ -5,15 +5,15 @@
   "industry": "Biotechnology",
   "business_summary": "Dishman Carbogen Amcis Limited provides contract development and manufacturing organization (CDMO) services for the pharmaceutical and healthcare industries worldwide. It operates through Integrated CDMO Platform and Marketable Molecules segments. The company offers cholesterol and vitamin D analogs; soft gel capsules and formulations; intermediate and active pharmaceutical ingredients (APIs) which cover specific therapeutic areas, such as anesthetics, and contrast media agents for diagnostics, ophthalmic treatments, laxatives, and organophosphate antidotes; ammonium and phosphonium; quats, phosphoranes, and wittig reagents; generic intermediates; cholesterol and lanolin-related products; sterile injectables; specialty chemicals and disinfectants, as well as hand and body wash, sanitizers, and antiseptic formulations. It also provides encapsulation and formulation capabilities; phase transfer catalysts; drug product, finished, and HiPo formulations; generic and highpotent APIs; Health and personal care solutions; and drug linkers and payloads. The company was founded in 1983 and is headquartered in Ahmedabad, India. Dishman Carbogen Amcis Limited is a subsidiary of Adimans Technologies LLP.",
   "business_summary_reason": null,
-  "market_cap_cr": 1786.54,
-  "pe_ratio": 110.63,
+  "market_cap_cr": 1760.2,
+  "pe_ratio": 109.0,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 425.88,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 15.6783,
   "fifty_two_week_high": 274.3,
-  "fifty_two_week_low": 113.11,
+  "fifty_two_week_low": 111.5,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-25T01:20:25.905164",
-  "provider_reported_pb_ratio": 0.27,
-  "statements_retrieved_at": "2026-11-25T01:20:25.905164",
+  "retrieval_time": "2026-11-25T23:34:13.619779",
+  "provider_reported_pb_ratio": 0.26,
+  "statements_retrieved_at": "2026-11-25T23:34:13.619779",
   "retained_fields": []
 }

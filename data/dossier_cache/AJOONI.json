@@ -5,8 +5,8 @@
   "industry": "Packaged Foods",
   "business_summary": "Ajooni Biotech Limited provides animal nutrition and animal healthcare solutions in India. It offers compound cattle feed, cattle feed chips, came feed, cotton oil cake, mustard oil cake, and a range of feed supplements to support the nutritional requirements of livestock. Ajooni Biotech Limited was incorporated in 2010 and is based in Mohali, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 50.64,
-  "pe_ratio": 11.76,
+  "market_cap_cr": 51.33,
+  "pe_ratio": 11.92,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 5.18,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-25T01:09:20.029008",
-  "provider_reported_pb_ratio": 0.57,
-  "statements_retrieved_at": "2026-11-25T01:09:20.029008",
+  "retrieval_time": "2026-11-25T23:21:58.286293",
+  "provider_reported_pb_ratio": 0.58,
+  "statements_retrieved_at": "2026-11-25T23:21:58.286293",
   "retained_fields": []
 }

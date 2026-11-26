@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "S.A.L. Steel Limited manufactures and sells ferro alloys and sponge iron in India. The company offers low silicon and high carbon ferro chrome products for use in steelmaking. It also provides direct reduced iron for use as a substitute for scrap in induction and electric arc furnaces. The company was incorporated in 2003 and is based in Gurugram, India. S.A.L. Steel Limited operates as a subsidiary of Sree Metaliks Limited.",
   "business_summary_reason": null,
-  "market_cap_cr": 1287.56,
-  "pe_ratio": 57.75,
+  "market_cap_cr": 1256.29,
+  "pe_ratio": 56.35,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 11.08,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-25T01:56:44.558352",
-  "provider_reported_pb_ratio": 8.02,
-  "statements_retrieved_at": "2026-11-25T01:56:44.558352",
+  "retrieval_time": "2026-11-26T00:14:25.046482",
+  "provider_reported_pb_ratio": 7.83,
+  "statements_retrieved_at": "2026-11-26T00:14:25.046482",
   "retained_fields": []
 }

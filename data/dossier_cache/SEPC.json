@@ -5,7 +5,7 @@
   "industry": "Engineering & Construction",
   "business_summary": "SEPC Limited provides integrated design, engineering, procurement, construction, and project management services in India. It offers turnkey contracting solutions, including design, engineering, and construction for ferrous and non-ferrous, cement, aluminum, copper and thermal power plants, water treatment and transmission, transportation, renewable energy, cooling towers, and material handling; water and sewage treatment plants, intake wells and pump houses, underground drainage systems, water distribution, and pipe rehabilitation systems; and solar, biomass, and thermal power plants, as well as wind farms. The company also provides engineering services for mining copper, iron, coal, gold, and uranium mines which involve planning, development, and production of ore and coal; and mineral processing activities. SEPC Limited was formerly known as Shriram EPC Limited and changed its name to SEPC Limited in March 2022. The company was incorporated in 2000 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 928.91,
+  "market_cap_cr": 926.96,
   "pe_ratio": 36.77,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,11 +78,12 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-25T01:58:26.376171",
+  "retrieval_time": "2026-11-26T00:16:15.977552",
   "provider_reported_pb_ratio": 0.47,
-  "statements_retrieved_at": "2026-11-25T01:58:26.376171",
-  "previous_retrieval_time": "2026-11-25T00:24:32.586773",
+  "statements_retrieved_at": "2026-11-26T00:16:15.977552",
+  "previous_retrieval_time": "2026-11-25T01:58:26.376171",
   "retained_fields": [
+    "pe_ratio",
     "previous_retrieval_time"
   ]
 }

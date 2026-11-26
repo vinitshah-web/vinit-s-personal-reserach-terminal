@@ -5,14 +5,14 @@
   "industry": "Credit Services",
   "business_summary": "Poonawalla Fincorp Limited, a non-banking finance company, provides consumer and MSME financing services in India. The company offers prime personal, gold, education, consumer durable, commercial vehicle, shopkeeper, instant consumer, pre-owned car, business, mid-market, machinery and medical equipment, and professional loans, and loan against property, as well as NBFC lending. It also provides supply chain financing and credit leasing services. In addition, the company offers insurance services. It serves individuals, salaried and self-employed professionals, students, proprietorship, MSMEs, OPCs, partnership firms, LLPs, private and public companies, private and public trusts, and society. The company was formerly known as Magma Fincorp Limited and changed its name to Poonawalla Fincorp Limited in July 2021. The company was incorporated in 1978 and is based in Mumbai, India. Poonawalla Fincorp Limited operates as a subsidiary of Rising Sun Holdings Pvt Ltd.",
   "business_summary_reason": null,
-  "market_cap_cr": 45563.92,
-  "pe_ratio": 40.45,
+  "market_cap_cr": 44977.25,
+  "pe_ratio": 40.14,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 156.68,
   "dividend_yield_pct": 0.0,
-  "shares_outstanding_cr": 88.0632,
-  "fifty_two_week_high": 525.15,
+  "shares_outstanding_cr": 87.5981,
+  "fifty_two_week_high": 532.3,
   "fifty_two_week_low": 361.2,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-25T01:51:31.875585",
-  "provider_reported_pb_ratio": 3.3,
-  "statements_retrieved_at": "2026-11-25T01:51:31.875585",
+  "retrieval_time": "2026-11-26T00:08:40.665773",
+  "provider_reported_pb_ratio": 3.28,
+  "statements_retrieved_at": "2026-11-26T00:08:40.665773",
   "retained_fields": []
 }

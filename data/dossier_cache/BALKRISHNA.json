@@ -5,14 +5,14 @@
   "industry": "Packaging & Containers",
   "business_summary": "Balkrishna Paper Mills Limited engages in the manufacture and sale of paper and paper boards primarily in India. It operates through the Paper and Paper Board, and Trading of Plastic & Packaging Materials segments. The company offers eco, chromo white back, eco-white, eco kraft back, and duplex coated boards. It serves pharmaceuticals, toiletries, cosmetics, health care products, readymade garments, food products, match boxes, incense sticks, and the FMCG sectors. The company was formerly known as Nirvikara Paper Mills Limited. Balkrishna Paper Mills Limited was founded in 1975 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 48.49,
+  "market_cap_cr": 55.22,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": -53.74,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 3.222,
-  "fifty_two_week_high": 22.35,
+  "fifty_two_week_high": 22.34,
   "fifty_two_week_low": 12.0,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-25T01:13:55.636009",
-  "provider_reported_pb_ratio": -0.28,
-  "statements_retrieved_at": "2026-11-25T01:13:55.636009",
+  "retrieval_time": "2026-11-25T23:27:02.200692",
+  "provider_reported_pb_ratio": -0.32,
+  "statements_retrieved_at": "2026-11-25T23:27:02.200692",
   "retained_fields": []
 }

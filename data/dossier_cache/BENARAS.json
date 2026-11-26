@@ -5,8 +5,8 @@
   "industry": "Lodging",
   "business_summary": "Benares Hotels Limited operates hotels in India. It operates hotels under the Taj Ganges and Taj Nadesar Palace names in Varanasi and The Ginger Hotel name in Gondia, Maharashtra. The company was incorporated in 1971 and is headquartered in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1326.0,
-  "pe_ratio": 29.88,
+  "market_cap_cr": 1342.77,
+  "pe_ratio": 30.25,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 1724.55,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-25T01:14:59.479656",
-  "provider_reported_pb_ratio": 5.91,
-  "statements_retrieved_at": "2026-11-25T01:14:59.479656",
+  "retrieval_time": "2026-11-25T23:28:13.190317",
+  "provider_reported_pb_ratio": 5.99,
+  "statements_retrieved_at": "2026-11-25T23:28:13.190317",
   "retained_fields": []
 }

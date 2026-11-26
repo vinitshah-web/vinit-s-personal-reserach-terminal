@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "KNR Constructions Limited, together with its subsidiaries, engages in the construction, engineering, and infrastructure development activities in India. The company provides engineering, procurement, and construction services for roads, highways, bridges and flyovers, expressways, roads & highways, viaducts, irrigation, urban water infrastructure management, and other projects. The Company also builds reservoirs, lift irrigation schemes, pump houses, elevated corridors, flyovers, grade separators and utility infrastructure. KNR Constructions Limited was incorporated in 1995 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2860.16,
-  "pe_ratio": 7.29,
+  "market_cap_cr": 2852.0,
+  "pe_ratio": 7.27,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 182.89,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-25T01:38:00.522007",
-  "provider_reported_pb_ratio": 0.56,
-  "statements_retrieved_at": "2026-11-25T01:38:00.522007",
+  "retrieval_time": "2026-11-25T23:53:41.766255",
+  "provider_reported_pb_ratio": 0.55,
+  "statements_retrieved_at": "2026-11-25T23:53:41.766255",
   "retained_fields": []
 }

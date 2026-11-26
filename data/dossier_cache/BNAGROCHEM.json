@@ -5,8 +5,8 @@
   "industry": "Packaged Foods",
   "business_summary": "BN Agrochem Limited manufactures and trades agricultural commodities, oilseeds, edible oils, and related products. The company offers refined soyabean oils, sunflower oils, mustard oils, rapeseed oils, crude palm oils, and crude soyabean oils, as well as provides solvent extraction, extracted oil cakes, refined oils and oleochemicals, fats, and glycerine-based pharma products. It serves wholesale and business customers in India and internationally. BN Agrochem Limited was formerly known as BN Holdings Limited and changed its name to BN Agrochem Limited in August 2025. The company was incorporated in 1991 and is based in Gautam Buddha Nagar, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1293.54,
-  "pe_ratio": 165.38,
+  "market_cap_cr": 1229.01,
+  "pe_ratio": 157.12,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 4.97,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-25T01:16:13.386849",
-  "provider_reported_pb_ratio": 2.66,
-  "statements_retrieved_at": "2026-11-25T01:16:13.386849",
+  "retrieval_time": "2026-11-25T23:29:34.248906",
+  "provider_reported_pb_ratio": 2.53,
+  "statements_retrieved_at": "2026-11-25T23:29:34.248906",
   "retained_fields": []
 }

@@ -5,14 +5,14 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Medicamen Biotech Limited, a pharmaceutical company, research, develops, manufactures, markets, and sells pharmaceutical formulations in India and internationally. The company provides tablets, capsules, dry syrups, oral liquids, ointments, and other pharmaceutical dosage forms. Its products are used in therapeutic areas comprising cancer care, cardiology, CNS, diabetology, anti-infective, anti-malarials, vitamins and supplements, antibiotics, pain management, and other generics. Medicamen Biotech Limited was incorporated in 1993 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 388.7,
-  "pe_ratio": 37.3,
+  "market_cap_cr": 377.31,
+  "pe_ratio": 35.97,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 201.28,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.4063,
-  "fifty_two_week_high": 447.65,
+  "fifty_two_week_high": 424.1,
   "fifty_two_week_low": 212.4,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-25T01:42:43.111929",
-  "provider_reported_pb_ratio": 1.37,
-  "statements_retrieved_at": "2026-11-25T01:42:43.111929",
+  "retrieval_time": "2026-11-25T23:58:53.004814",
+  "provider_reported_pb_ratio": 1.33,
+  "statements_retrieved_at": "2026-11-25T23:58:53.004814",
   "retained_fields": []
 }

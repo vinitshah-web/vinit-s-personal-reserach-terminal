@@ -5,8 +5,8 @@
   "industry": "Engineering & Construction",
   "business_summary": "Hindustan Construction Company Limited provides engineering and construction services in India and internationally. The company constructs roads, highways, expressways, bridges, elevated corridors, railways, metro rails, ports, and marine structures; dams, barrages, tunnels, powerhouses, shafts, and various underground works; and reactors, auxiliary buildings, spent fuel buildings, safety pump houses, and control buildings. It also constructs integrated water supply systems, bulk water transmission and irrigation projects, water treatment and sewage treatment plants, and aqueducts; hydrocarbon, and metals and process plants and factories; and residential and commercial buildings, institutional buildings, and station buildings. In addition, the company provides toll management, real estate development, and information technology consulting services. It serves state and central government departments, ministries, and municipal bodies. Hindustan Construction Company Limited was incorporated in 1926 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4219.96,
-  "pe_ratio": 27.31,
+  "market_cap_cr": 4248.78,
+  "pe_ratio": 27.49,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 8.65,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-25T01:30:12.388259",
-  "provider_reported_pb_ratio": 1.86,
-  "statements_retrieved_at": "2026-11-25T01:30:12.388259",
+  "retrieval_time": "2026-11-25T23:44:59.711446",
+  "provider_reported_pb_ratio": 1.88,
+  "statements_retrieved_at": "2026-11-25T23:44:59.711446",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Mahalaxmi Rubtech Limited engages in the manufacturing and marketing of technical textiles and rubber products in India. It offers yarn, grey fabric, rubber, chemicals, and technical textile fabric, and rubber printing blankets. The company also provides imprint technology, such as underlay, xpeedo-web, rapid-web, print UV, royal green, robusto, spectra, stripcoat, ultra, and polset for sheetfed/conventional, UV printing, packaging, stripping coating, metal deco, newspaper/web, security printing, and under packing. In addition, it offers textile coating solutions, including PVC, media/acyclic, PU coated fabric, and miscellaneous fabric coating for architecture, lifestyle, sports, advertising, military, mines, food and agriculture, vehicle, and transportation industries. Mahalaxmi Rubtech Limited was incorporated in 1991 and is based in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 184.06,
-  "pe_ratio": 8.08,
+  "market_cap_cr": 179.36,
+  "pe_ratio": 7.87,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 96.12,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-25T01:43:12.068248",
-  "provider_reported_pb_ratio": 1.8,
-  "statements_retrieved_at": "2026-11-25T01:43:12.068248",
+  "retrieval_time": "2026-11-25T23:59:25.100342",
+  "provider_reported_pb_ratio": 1.76,
+  "statements_retrieved_at": "2026-11-25T23:59:25.100342",
   "retained_fields": []
 }

@@ -5,14 +5,14 @@
   "industry": "Diagnostics & Research",
   "business_summary": "Vijaya Diagnostic Centre Limited provides diagnostic services for patients in India. The company offers laboratory services, including clinical pathology, microbiology, haematology, serology, histopathology, cytogenetics, biochemistry, and molecular diagnostics; radiology services, such as CT scan, magnetic resonance imaging (MRI) scan, ultrasound, X-ray, cardiology, and gastroenterology; and advance radiology service comprising nuclear medicine, positron emission tomography CT, and MRI-3T services. It also provides health checkups and home sample collection services, as well as test services. Vijaya Diagnostic Centre Limited was founded in 1981 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 16197.42,
-  "pe_ratio": 79.63,
+  "market_cap_cr": 16764.94,
+  "pe_ratio": 82.42,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 102.76,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 10.2998,
-  "fifty_two_week_high": 1637.0,
+  "fifty_two_week_high": 1659.2,
   "fifty_two_week_low": 848.0,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-25T02:09:24.194043",
-  "provider_reported_pb_ratio": 15.3,
-  "statements_retrieved_at": "2026-11-25T02:09:24.194043",
+  "retrieval_time": "2026-11-26T00:28:29.838677",
+  "provider_reported_pb_ratio": 15.84,
+  "statements_retrieved_at": "2026-11-26T00:28:29.838677",
   "retained_fields": []
 }

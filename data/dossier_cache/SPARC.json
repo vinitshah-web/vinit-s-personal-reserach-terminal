@@ -5,7 +5,7 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Sun Pharma Advanced Research Company Limited engages in the research and development of pharmaceutical products in India and internationally. It develops Sezaby, a benzyl alcohol and propylene glycol free formulation of phenobarbital sodium injection for the treatment of neonatal seizures; SPARC-121, a novel topical agent for the treatment of Alopecia Areata; and SPARC-122, an anti-MUC1 ADC for treatment of multiple cancer indications. The company is also involved in the development of PDP-716 for treatment of open-angle glaucoma. Sun Pharma Advanced Research Company Limited was incorporated in 2006 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 6062.39,
+  "market_cap_cr": 6068.23,
   "pe_ratio": 3.71,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-25T02:01:57.277164",
-  "provider_reported_pb_ratio": 4.21,
-  "statements_retrieved_at": "2026-11-25T02:01:57.277164",
+  "retrieval_time": "2026-11-26T00:20:07.826958",
+  "provider_reported_pb_ratio": 4.22,
+  "statements_retrieved_at": "2026-11-26T00:20:07.826958",
   "retained_fields": []
 }

@@ -5,15 +5,15 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Granules India Limited manufactures and sells active pharmaceutical ingredients (APIs), pharmaceutical formulation intermediates (PFIs), finished dosages (FDs), and peptides CDMO in India and internationally. It offers paracetamol, metformin, guaifenesin, ibuprofen, and methocarbamol, as well as prescription and over-the-counter products. The company also develops and manufactures tablets, capsules, press fits, oral solutions, suspensions, and powder for oral solutions. In addition, it provides development and manufacturing solutions for peptides, peptide fragments, and amino acid derivatives. The company offers its products in various therapeutic categories, including antiretroviral, anti-depressant, antihistamine, anti-diabetic, anti-cancer, multiple sclerosis, anti-thrombocytopenia, anti-ulcer, anti-convulsant, mucolytic/expectorant, anti-hypertensive, muscle relaxant, NSAIDs, anti-fibrotic, and anti-microbial, as well as anti-arrhythmic, CNS stimulant, anti-diarrheal, antihypertensive, uterine stimulant, chelating agent, mineral supplements, CNS depressant, PDE inhibitor, antispasmodic, and anti-viral. Granules India Limited was incorporated in 1984 and is headquartered in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 22852.13,
-  "pe_ratio": 29.32,
+  "market_cap_cr": 22935.33,
+  "pe_ratio": 29.43,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 260.73,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 27.278,
   "fifty_two_week_high": 923.65,
-  "fifty_two_week_low": 529.85,
+  "fifty_two_week_low": 531.8,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-25T01:28:22.557631",
-  "provider_reported_pb_ratio": 3.21,
-  "statements_retrieved_at": "2026-11-25T01:28:22.557631",
+  "retrieval_time": "2026-11-25T23:42:56.965689",
+  "provider_reported_pb_ratio": 3.22,
+  "statements_retrieved_at": "2026-11-25T23:42:56.965689",
   "retained_fields": []
 }

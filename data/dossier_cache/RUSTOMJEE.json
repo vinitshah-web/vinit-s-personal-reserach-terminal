@@ -5,14 +5,14 @@
   "industry": "Real Estate - Development",
   "business_summary": "Keystone Realtors Limited engages in the real estate construction, development, and other related activities in India. It develops residential portfolios, such as cluster redevelopments, integrated townships, commercial developments, and plotted development, as well as luxury residences, gated communities, and rise towers. The company also develops commercial and residential buildings; and villa plot projects. Keystone Realtors Limited was incorporated in 1995 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4649.19,
-  "pe_ratio": 22.38,
+  "market_cap_cr": 4682.67,
+  "pe_ratio": 22.54,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 240.1,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 12.6354,
-  "fifty_two_week_high": 552.7,
+  "fifty_two_week_high": 549.95,
   "fifty_two_week_low": 327.05,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-25T01:56:03.625798",
-  "provider_reported_pb_ratio": 1.53,
-  "statements_retrieved_at": "2026-11-25T01:56:03.625798",
+  "retrieval_time": "2026-11-26T00:13:40.310195",
+  "provider_reported_pb_ratio": 1.54,
+  "statements_retrieved_at": "2026-11-26T00:13:40.310195",
   "retained_fields": []
 }

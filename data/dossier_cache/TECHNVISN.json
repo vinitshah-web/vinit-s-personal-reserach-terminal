@@ -5,8 +5,8 @@
   "industry": "Software - Application",
   "business_summary": "TechNVision Ventures Limited, together with its subsidiaries, provides information technology products and services in India and internationally. It offers enterprise data management suite, which enables organizations to implement database archiving, test data management, and application retirement across various enterprise data; enterprise cash flow management solution, which automates cash flow processes; and enterprise talent management services, including sourcing, applicant tracking, and B2B exchange for staffing for hi-tech, engineering, medical, pharmaceutical, banking, and financial companies. The company was formerly known as Solix Technologies Limited and changed its name to TechNVision Ventures Limited in September 2012. The company was incorporated in 1980 and is based in Secunderabad, India. TechNVision Ventures Limited is a subsidiary of Tiebeam Technologies India Pvt Ltd.",
   "business_summary_reason": null,
-  "market_cap_cr": 2297.34,
-  "pe_ratio": 764.32,
+  "market_cap_cr": 2246.32,
+  "pe_ratio": 747.35,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 31.14,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-25T02:05:29.864106",
-  "provider_reported_pb_ratio": 117.55,
-  "statements_retrieved_at": "2026-11-25T02:05:29.864106",
+  "retrieval_time": "2026-11-26T00:24:06.160068",
+  "provider_reported_pb_ratio": 114.94,
+  "statements_retrieved_at": "2026-11-26T00:24:06.160068",
   "retained_fields": []
 }
