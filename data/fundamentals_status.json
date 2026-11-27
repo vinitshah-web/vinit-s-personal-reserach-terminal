@@ -12,11 +12,11 @@
       "unavailable": 444
     }
   },
-  "cross_listed_count": 1,
+  "cross_listed_count": 0,
   "failed_batches": [],
   "refreshed_count": 3069,
   "requested_count": 3528,
-  "retrieved_at": "2026-11-26T23:18:38.167463+00:00",
+  "retrieved_at": "2026-11-27T00:50:29.493449+00:00",
   "selected_instrument_count": 6103,
   "source": "Yahoo Finance quote feed",
   "source_class": "SECONDARY_AGGREGATOR",

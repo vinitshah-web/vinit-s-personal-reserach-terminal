@@ -6,7 +6,7 @@
   "business_summary": "K.C.P. Sugar and Industries Corporation Limited, together with its subsidiaries, manufactures and sells sugar and related products in India. The company offers biofertilizers, rectified spirit, extra-neutral alcohol, ethanol, surgical spirit, organic manure, anhydrous alcohol, mycorrhiza vam, calcium lactate, and carbon dioxide. It also manufactures liquid\u0096solid separation equipment for industrial and environmental applications; processes urad dal; and provides research services in the areas of agriculture, chemical, and biotechnology. In addition, the company operates a cogeneration plant. It also exports its products. The company serves the food and beverage, chemical, agriculture, and industrial machinery sectors. K.C.P. Sugar and Industries Corporation Limited was incorporated in 1995 and is based in Chennai, India.",
   "business_summary_reason": null,
   "market_cap_cr": 309.48,
-  "pe_ratio": 7.87,
+  "pe_ratio": 8.01,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 40.53,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T23:52:32.163110",
+  "retrieval_time": "2026-11-27T01:22:33.768353",
   "provider_reported_pb_ratio": 0.67,
-  "statements_retrieved_at": "2026-11-26T23:52:32.163110",
+  "statements_retrieved_at": "2026-11-27T01:22:33.768353",
   "retained_fields": []
 }

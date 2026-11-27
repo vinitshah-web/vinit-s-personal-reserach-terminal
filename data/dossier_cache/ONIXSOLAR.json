@@ -6,7 +6,7 @@
   "business_summary": "Onix Solar Energy Limited a renewable energy company, engages in the solar module manufacturing and renewable energy in India. The company holds solar module manufacturing capacity of up to 800 MW; Onix Solar Energy produces high-efficiency N-Type TOPCon and P-Type modules ranging from 530 Wp to 640 Wp. It also develops 1000 MW of solar projects across Maharashtra. The company was formerly known as ABC Gas (International) Limited and changed its name to Onix Solar Energy Limited in October 2024. The company was incorporated in 1980 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
   "market_cap_cr": 1027.32,
-  "pe_ratio": 3.03,
+  "pe_ratio": 2.88,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 230.3,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T00:05:27.065428",
+  "retrieval_time": "2026-11-27T01:34:46.059449",
   "provider_reported_pb_ratio": 1.21,
-  "statements_retrieved_at": "2026-11-27T00:05:27.065428",
+  "statements_retrieved_at": "2026-11-27T01:34:46.059449",
   "retained_fields": []
 }

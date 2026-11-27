@@ -6,7 +6,7 @@
   "business_summary": "Pearl Global Industries Limited, together with its subsidiaries, manufactures and sells readymade garments in India and internationally. The company offers knits, wovens, denim, outerwear, sleepwear and lounge, childrenswear, woven and knit garments, womenswear, menswear, activewear, and athleisure. It is also involved in the trading of ready-to-wear apparel; and skill development business. The company was formerly known as House of Pearl Fashions Limited. Pearl Global Industries Limited was incorporated in 1987 and is based in Gurugram, India.",
   "business_summary_reason": null,
   "market_cap_cr": 13180.26,
-  "pe_ratio": 35.56,
+  "pe_ratio": 36.46,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 180.34,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T00:07:26.174926",
+  "retrieval_time": "2026-11-27T01:36:40.104703",
   "provider_reported_pb_ratio": 7.9,
-  "statements_retrieved_at": "2026-11-27T00:07:26.174926",
+  "statements_retrieved_at": "2026-11-27T01:36:40.104703",
   "retained_fields": []
 }

@@ -6,7 +6,7 @@
   "business_summary": "Reliance Industrial Infrastructure Limited engages in the infrastructure and support services activities in India. The company is involved in setting up and operating industrial infrastructure; transportation of petroleum products, natural gas, and raw water through its pipelines; and other infrastructure support services. It primarily operates in Mumbai and the Rasayani regions of Maharashtra, as well as the Surat and Jamnagar belts of Gujarat. The company was formerly known as CPPL Limited and changed its name to Reliance Industrial Infrastructure Limited in March 1994. Reliance Industrial Infrastructure Limited is based in Mumbai, India.",
   "business_summary_reason": null,
   "market_cap_cr": 1047.71,
-  "pe_ratio": 88.28,
+  "pe_ratio": 88.73,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 306.12,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T00:12:07.454920",
+  "retrieval_time": "2026-11-27T01:41:10.013908",
   "provider_reported_pb_ratio": 2.27,
-  "statements_retrieved_at": "2026-11-27T00:12:07.454920",
+  "statements_retrieved_at": "2026-11-27T01:41:10.013908",
   "retained_fields": []
 }

@@ -6,7 +6,7 @@
   "business_summary": "Sai Life Sciences Limited operates as a contract research, development, and manufacturing organization (CRDMO) in India and internationally. It offers medicinal chemistry, pharmacokinetics, clinical and commercial manufacturing, and process development services. The company was formerly known as SAI Advantium Pharma Limited and changed its name to Sai Life Sciences Limited in July 2006. Sai Life Sciences Limited was incorporated in 1999 and is headquartered in Hyderabad, India.",
   "business_summary_reason": null,
   "market_cap_cr": 38512.8,
-  "pe_ratio": 102.58,
+  "pe_ratio": 103.11,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 126.59,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T00:13:52.781262",
+  "retrieval_time": "2026-11-27T01:42:49.828149",
   "provider_reported_pb_ratio": 14.32,
-  "statements_retrieved_at": "2026-11-27T00:13:52.781262",
+  "statements_retrieved_at": "2026-11-27T01:42:49.828149",
   "retained_fields": []
 }

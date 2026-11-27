@@ -6,7 +6,7 @@
   "business_summary": "Shiv Aum Steels Limited trades in iron and steel products in India. It provides structural steel, coils, and plates. The company was founded in 1982 and is based in Mumbai, India.",
   "business_summary_reason": null,
   "market_cap_cr": 754.96,
-  "pe_ratio": 63.66,
+  "pe_ratio": 63.8,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 95.75,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T00:17:11.069651",
+  "retrieval_time": "2026-11-27T01:45:58.240036",
   "provider_reported_pb_ratio": 5.8,
-  "statements_retrieved_at": "2026-11-27T00:17:11.069651",
+  "statements_retrieved_at": "2026-11-27T01:45:58.240036",
   "retained_fields": []
 }

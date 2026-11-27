@@ -6,7 +6,7 @@
   "business_summary": "Gujarat Themis Biosyn Limited engages in the manufacture of pharmaceuticals, medicinal chemicals, and active pharmaceutical ingredients in India and internationally. The company offers bulk drugs on job work basis in India. Its products include Rifamycin-S, an intermediate for the treatment of tuberculosis, Mycobacterium avium complex, leprosy, and Legionnaires' disease; Rifamycin-O, an antibiotic for the treatment of traveller's diarrhea, irritable bowel syndrome, and hepatic encephalopathy; and Lovastatin. The company was incorporated in 1981 and is based in Mumbai, India.",
   "business_summary_reason": null,
   "market_cap_cr": 4508.45,
-  "pe_ratio": 190.33,
+  "pe_ratio": 183.28,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 87.96,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T23:44:10.992846",
+  "retrieval_time": "2026-11-27T01:14:37.551916",
   "provider_reported_pb_ratio": 3.94,
-  "statements_retrieved_at": "2026-11-26T23:44:10.992846",
+  "statements_retrieved_at": "2026-11-27T01:14:37.551916",
   "retained_fields": []
 }

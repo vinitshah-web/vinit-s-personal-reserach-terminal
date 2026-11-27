@@ -6,7 +6,7 @@
   "business_summary": "Page Industries Limited manufactures, markets, and distributes textile garments and clothing accessories for men, women, and kids in India and internationally. It offers vests, briefs, boxer briefs, trunks, inner boxers, tank tops, t-shirts, polos, oversized T-shirts, knit shirts, henleys, sweatshirts, jackets, hoodies, windcheater, boxer shorts, shorts, bermudas, joggers, track pants, pyjamas, pants, bras, panties, crop tops, camisoles, kurta slips, shrugs, sleep dresses, skirts, shorts, capris, culottes, leggings, shapewears, sets, caps, handkerchief, and masks; face, hand, bath, and gym towels; calf, ankle, knee, low show, and no show socks; and thermals under the Jockey brand. The company also has license with swim wear Speedo brand. Page Industries Limited was incorporated in 1994 and is headquartered in Bengaluru, India.",
   "business_summary_reason": null,
   "market_cap_cr": 34420.85,
-  "pe_ratio": 45.08,
+  "pe_ratio": 46.13,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 1351.98,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T00:06:13.080991",
+  "retrieval_time": "2026-11-27T01:35:30.221109",
   "provider_reported_pb_ratio": 22.83,
-  "statements_retrieved_at": "2026-11-27T00:06:13.080991",
+  "statements_retrieved_at": "2026-11-27T01:35:30.221109",
   "retained_fields": []
 }

@@ -6,7 +6,7 @@
   "business_summary": "Bliss GVS Pharma Limited engages in the development, manufacturing and marketing of pharmaceutical formulations in India and internationally. The company offers anti-diabetic, anti-infective, anti-inflammatory, antifungal, antihemorrhoidal, antimalarial, antiseptic, cardiovascular, dermatological, gastrointestinal, gynaecology, neoro/cns, ophthalmic, otc drugs, respiratory, urology, and supplementary drug products, as well as engages in pain management services. It exports its products. Bliss GVS Pharma Limited was incorporated in 1984 and is based in Mumbai, India.",
   "business_summary_reason": null,
   "market_cap_cr": 6901.13,
-  "pe_ratio": 42.32,
+  "pe_ratio": 45.3,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 121.5,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T23:29:02.166946",
+  "retrieval_time": "2026-11-27T01:00:17.001369",
   "provider_reported_pb_ratio": 5.34,
-  "statements_retrieved_at": "2026-11-26T23:29:02.166946",
+  "statements_retrieved_at": "2026-11-27T01:00:17.001369",
   "retained_fields": []
 }

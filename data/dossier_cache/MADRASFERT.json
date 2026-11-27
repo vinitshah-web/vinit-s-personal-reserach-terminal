@@ -6,7 +6,7 @@
   "business_summary": "Madras Fertilizers Limited manufactures and trades fertilizers in India. The company offers ammonia, urea, and complex fertilizers; bio-fertilizers; and organic fertilizers under the brand name VIJAY. It also engages in the trading of agro chemicals, organic manure, and city compost. The company markets its products through dealers. Madras Fertilizers Limited was incorporated in 1966 and is headquartered in Chennai, India.",
   "business_summary_reason": null,
   "market_cap_cr": 958.55,
-  "pe_ratio": 8.81,
+  "pe_ratio": 8.88,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 11.01,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T23:56:48.831896",
+  "retrieval_time": "2026-11-27T01:26:36.480420",
   "provider_reported_pb_ratio": 5.4,
-  "statements_retrieved_at": "2026-11-26T23:56:48.831896",
+  "statements_retrieved_at": "2026-11-27T01:26:36.480420",
   "retained_fields": []
 }

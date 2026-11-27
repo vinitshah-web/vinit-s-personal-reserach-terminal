@@ -6,7 +6,7 @@
   "business_summary": "Nahar Spinning Mills Limited manufactures and sells yarns and garments in India. It offers woollen, woollen blended, cotton, polyester cotton, other blended, compact, mercerized gassed, and organic cotton yarns; cotton and blended knitted hosiery pullovers, T shirts, baby suites, ladies' tops, winter thermals, tracksuits, jackets, hoodies, etc.; woollen pullovers, cardigans, shirts, coats, baby suites, mufflers, shawls, blankets, knitting wool, etc.; and woven fabric for shirts, trousers, denims, etc. The company also provides financial services; polyfilms; textiles; and sugar and other products. Nahar Spinning Mills Limited was incorporated in 1980 and is based in Ludhiana, India.",
   "business_summary_reason": null,
   "market_cap_cr": 869.71,
-  "pe_ratio": 5.57,
+  "pe_ratio": 5.63,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 460.22,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T00:02:13.267814",
+  "retrieval_time": "2026-11-27T01:31:42.485267",
   "provider_reported_pb_ratio": 0.52,
-  "statements_retrieved_at": "2026-11-27T00:02:13.267814",
+  "statements_retrieved_at": "2026-11-27T01:31:42.485267",
   "retained_fields": []
 }

@@ -6,7 +6,7 @@
   "business_summary": "Abbott India Limited, together with its subsidiaries, operates as a pharmaceutical company in India. The company offers pharmaceutical products for gastroenterology, women's health, metabolic, hypothyroidism, central nervous system, vaccines, and multispecialty, including insomnia, vertigo, vitamin D deficiency, pre-term labor, and pain management. It also provides anti-infectives, cardio-diabeto, GI & hepato, hormones, neuro-psychiat, respiratory, hepatic, neuroscience, metabolics, gennext, and consumer care products. The company was formerly known as Knoll Pharmaceuticals Limited and changed its name to Abbott India Limited in July 2002. The company was founded in 1910 and is headquartered in Mumbai, India. Abbott India Limited operates as a subsidiary of Abbott Capital India Limited.",
   "business_summary_reason": null,
   "market_cap_cr": 58010.59,
-  "pe_ratio": 35.96,
+  "pe_ratio": 35.1,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 2009.52,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T23:19:44.289019",
+  "retrieval_time": "2026-11-27T00:51:30.767711",
   "provider_reported_pb_ratio": 13.59,
-  "statements_retrieved_at": "2026-11-26T23:19:44.289019",
+  "statements_retrieved_at": "2026-11-27T00:51:30.767711",
   "retained_fields": []
 }

@@ -6,7 +6,7 @@
   "business_summary": "Mawana Sugars Limited manufactures and sells sugar products in India. It operates through Sugar, Power, and Distillery segments. The company produces plantation white, refined, and specialty sugars, as well as IP grade sugar for pharmaceutical applications. It is also involved in the cogeneration of power from bagasse; and manufacturing and sale of anhydrous and hydrous ethanol, including denatured spirit, green ethanol, organic manure, potash rich ash, and fusel oil. It also exports its products. The company was formerly known as Siel Limited and changed its name to Mawana Sugars Limited in January 2008. Mawana Sugars Limited was incorporated in 1961 and is based in Gurugram, India.",
   "business_summary_reason": null,
   "market_cap_cr": 549.24,
-  "pe_ratio": 14.11,
+  "pe_ratio": 13.53,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 123.04,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T23:58:09.629585",
+  "retrieval_time": "2026-11-27T01:27:52.375875",
   "provider_reported_pb_ratio": 1.14,
-  "statements_retrieved_at": "2026-11-26T23:58:09.629585",
+  "statements_retrieved_at": "2026-11-27T01:27:52.375875",
   "retained_fields": []
 }

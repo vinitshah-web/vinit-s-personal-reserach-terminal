@@ -6,7 +6,7 @@
   "business_summary": "Petronet LNG Limited engages in the import, storage, regasification, and supply of liquefied natural gas (LNG) in India. It owns and operates an LNG import and regasification terminal with name plate capacity of 22.5 MMTPA located in Dahej, Gujarat; and an LNG terminal with name plate capacity of 5 MMTPA located in Kochi, Kerala. The company was incorporated in 1998 and is based in New Delhi, India.",
   "business_summary_reason": null,
   "market_cap_cr": 48967.51,
-  "pe_ratio": 10.6,
+  "pe_ratio": 10.56,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 161.6,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T00:07:15.728786",
+  "retrieval_time": "2026-11-27T01:36:30.035132",
   "provider_reported_pb_ratio": 2.02,
-  "statements_retrieved_at": "2026-11-27T00:07:15.728786",
+  "statements_retrieved_at": "2026-11-27T01:36:30.035132",
   "retained_fields": []
 }

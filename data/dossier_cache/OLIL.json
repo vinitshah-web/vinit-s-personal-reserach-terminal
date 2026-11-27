@@ -6,7 +6,7 @@
   "business_summary": "Oneclick Logistics India Limited engages in providing clearing and forwarding services in India. It offers air and ocean freight services, warehouse services, custom house brokerage services, and project cargo services. The company was founded in 2017 and is based in Mumbai, India.",
   "business_summary_reason": "The secondary provider returned no company overview.",
   "market_cap_cr": 453.39,
-  "pe_ratio": 120.0,
+  "pe_ratio": 119.67,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 88.52,
@@ -78,11 +78,12 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T00:05:07.738988",
+  "retrieval_time": "2026-11-27T01:34:27.433713",
   "provider_reported_pb_ratio": 4.99,
-  "statements_retrieved_at": "2026-11-27T00:05:07.738988",
+  "statements_retrieved_at": "2026-11-27T01:34:27.433713",
+  "previous_retrieval_time": "2026-11-27T00:05:07.738988",
   "retained_fields": [
-    "business_summary_reason"
-  ],
-  "previous_retrieval_time": "2026-11-26T01:25:35.319742"
+    "business_summary_reason",
+    "previous_retrieval_time"
+  ]
 }
