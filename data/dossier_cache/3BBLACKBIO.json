@@ -5,8 +5,8 @@
   "industry": "Biotechnology",
   "business_summary": "3B Blackbio Dx Limited manufactures and sells molecular diagnostic kits in India. The company designs, develops, manufactures and commercializes qPCR assays, rapid diagnostic tests, NGS-based diagnostic kits, digital PCR assays, and nucleic acid extraction solutions for reliable testing of patient samples, as well as offers oncology and hematology, antimicrobial resistance, infectious diseases, human genetics, extraction, and rapid antigen kits under the TRUPCR, TRUNGS, and TRURAPID brand names; and technical support and training services. 3B Blackbio Dx Limited was incorporated in 1972 and is headquartered in Bhopal, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1147.33,
-  "pe_ratio": 19.91,
+  "market_cap_cr": 1138.15,
+  "pe_ratio": 19.75,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 377.95,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T00:42:33.163938",
-  "provider_reported_pb_ratio": 3.54,
-  "statements_retrieved_at": "2026-11-26T00:42:33.163938",
+  "retrieval_time": "2026-11-26T23:19:09.440905",
+  "provider_reported_pb_ratio": 3.51,
+  "statements_retrieved_at": "2026-11-26T23:19:09.440905",
   "retained_fields": []
 }

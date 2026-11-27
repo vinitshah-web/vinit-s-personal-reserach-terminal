@@ -5,14 +5,14 @@
   "industry": "Real Estate Services",
   "business_summary": "Landmark Property Development Company Limited engages in the real estate development business in India. It also offers advisory and consultancy services. The company was formerly known as Konark Minerals Limited and changed its name to Landmark Property Development Company Limited in January 2008. Landmark Property Development Company Limited was incorporated in 1976 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 74.85,
-  "pe_ratio": 8.72,
+  "market_cap_cr": 76.86,
+  "pe_ratio": 8.95,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 3.09,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 13.4143,
-  "fifty_two_week_high": 9.46,
+  "fifty_two_week_high": 9.3,
   "fifty_two_week_low": 5.21,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T01:17:18.502800",
-  "provider_reported_pb_ratio": 1.81,
-  "statements_retrieved_at": "2026-11-26T01:17:18.502800",
+  "retrieval_time": "2026-11-26T23:56:15.354698",
+  "provider_reported_pb_ratio": 1.85,
+  "statements_retrieved_at": "2026-11-26T23:56:15.354698",
   "retained_fields": []
 }

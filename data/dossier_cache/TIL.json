@@ -5,7 +5,7 @@
   "industry": "Farm & Heavy Construction Machinery",
   "business_summary": "TIL Limited, together with its subsidiary, TIL Overseas PTE Limited, provides materials handling solutions in India and internationally. It offers material handling, lifting, port, and road construction equipment; rough terrain empty containers reach stackers, truck, pick and carry, and articulating cranes; manitowoc crawler and grove cranes; and reach stackers, forklift trucks, and container handlers, as well as offers boom lifts. The company deals in spares; and provides related equipment services. In addition, the company engages in clean energy infrastructure, and customer support and after-sales services. The company was founded in 1944 and is headquartered in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1589.19,
+  "market_cap_cr": 1668.33,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T01:43:59.528196",
-  "provider_reported_pb_ratio": 5.68,
-  "statements_retrieved_at": "2026-11-26T01:43:59.528196",
+  "retrieval_time": "2026-11-27T00:24:29.462228",
+  "provider_reported_pb_ratio": 5.97,
+  "statements_retrieved_at": "2026-11-27T00:24:29.462228",
   "retained_fields": []
 }

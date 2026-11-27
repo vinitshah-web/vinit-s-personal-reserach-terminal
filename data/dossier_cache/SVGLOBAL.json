@@ -5,7 +5,7 @@
   "industry": "Real Estate Services",
   "business_summary": "S V Global Mill Limited engages in the real estate business in India. The company develops properties, commercial complexes, multiplexes, dwelling houses, and warehouses. It also engages in lending business. S V Global Mill Limited was incorporated in 2007 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 230.7,
+  "market_cap_cr": 215.13,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T01:41:46.643340",
-  "provider_reported_pb_ratio": 3.71,
-  "statements_retrieved_at": "2026-11-26T01:41:46.643340",
+  "retrieval_time": "2026-11-27T00:22:07.093302",
+  "provider_reported_pb_ratio": 3.46,
+  "statements_retrieved_at": "2026-11-27T00:22:07.093302",
   "retained_fields": []
 }

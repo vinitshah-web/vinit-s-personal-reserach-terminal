@@ -5,15 +5,15 @@
   "industry": "Engineering & Construction",
   "business_summary": "Ahluwalia Contracts (India) Limited, together with its subsidiaries, operates as an engineering, procurement, and construction company in India and internationally. The company operates through Construction Contract, Lease Rental, and Others segments. Its portfolio includes residential and commercial buildings/complexes, hotels, institutional and hospital buildings, corporate offices, information technology (IT) parks, industrial complexes, automated car parking lot, townships, BOT projects, metro station and depot, redevelopment/upgradation of railway stations, urban infrastructure, and data centres. The company is also involved in the developing and operating commercial complex; real estate trading business, as well as rentals activities. It serves government authorities, central and state governments, including public sector undertakings, private sector companies, real estate developers, and other institutional clients. The company was founded in 1965 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3364.79,
-  "pe_ratio": 16.62,
+  "market_cap_cr": 3405.31,
+  "pe_ratio": 16.82,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 316.73,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 6.6988,
   "fifty_two_week_high": 1025.0,
-  "fifty_two_week_low": 500.1,
+  "fifty_two_week_low": 496.3,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T00:44:48.179694",
-  "provider_reported_pb_ratio": 1.59,
-  "statements_retrieved_at": "2026-11-26T00:44:48.179694",
+  "retrieval_time": "2026-11-26T23:21:34.079006",
+  "provider_reported_pb_ratio": 1.61,
+  "statements_retrieved_at": "2026-11-26T23:21:34.079006",
   "retained_fields": []
 }

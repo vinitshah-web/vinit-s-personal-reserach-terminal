@@ -5,14 +5,14 @@
   "industry": "Asset Management",
   "business_summary": "Tata Investment Corporation Limited is a publicly owned investment firm. The firm operates as an investment company in India. Its activities primarily include investing in a diversified portfolio of quoted and unquoted securities, debt instruments, long-term investments in equity shares, equity-related securities and other securities of companies in a range of industries. The company also distributes mutual funds and other investment related securities. Tata Investment Corporation Limited was formerly known as The Investment Corporation of India Limited. Tata Investment Corporation was founded in 1937 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 29456.58,
-  "pe_ratio": 73.88,
+  "market_cap_cr": 29408.52,
+  "pe_ratio": 73.76,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 615.47,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 50.5953,
-  "fifty_two_week_high": 795.0,
+  "fifty_two_week_high": 773.3,
   "fifty_two_week_low": 538.85,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T01:42:41.924482",
-  "provider_reported_pb_ratio": 0.95,
-  "statements_retrieved_at": "2026-11-26T01:42:41.924482",
+  "retrieval_time": "2026-11-27T00:23:08.246155",
+  "provider_reported_pb_ratio": 0.94,
+  "statements_retrieved_at": "2026-11-27T00:23:08.246155",
   "retained_fields": []
 }

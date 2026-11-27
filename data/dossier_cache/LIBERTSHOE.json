@@ -5,8 +5,8 @@
   "industry": "Footwear & Accessories",
   "business_summary": "Liberty Shoes Ltd. manufactures and trades in footwear, accessories, and lifestyle products in India and internationally. The company offers formal shoes, casual shoes, sports and active footwear, sandals, slippers, boots, slip-ons, lifestyle and comfort footwear, kids' footwear, safety and industrial footwear, and lifestyle accessories under the Healers, Leap7X, Lucy & Luke, AHA, Prefect, Warrior, Freedom, Coolers, Gliders, Fortune, Senorita, Force10, and Liberty Lifestyle brands. The company operates through distributors and exclusive showrooms, as well as sells its products through retail, e-commerce, and wholesale network channels. Liberty Shoes Ltd. was founded in 1954 and is headquartered in Karnal, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 371.59,
-  "pe_ratio": 46.3,
+  "market_cap_cr": 403.92,
+  "pe_ratio": 50.33,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 137.88,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T01:16:27.167506",
-  "provider_reported_pb_ratio": 1.58,
-  "statements_retrieved_at": "2026-11-26T01:16:27.167506",
+  "retrieval_time": "2026-11-26T23:55:20.318090",
+  "provider_reported_pb_ratio": 1.72,
+  "statements_retrieved_at": "2026-11-26T23:55:20.318090",
   "retained_fields": []
 }

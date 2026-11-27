@@ -5,8 +5,8 @@
   "industry": "Furnishings, Fixtures & Appliances",
   "business_summary": "Stanley Lifestyles Limited, together with its subsidiaries, designs, manufactures, sells, trades in, and exports furniture and leather products in India. The company offers sofas and seating, beds and mattresses, case goods, kitchens, wardrobes and cabinetry. It also provides accessories, such as shoes for men and women, wallets, handbags and bags, and perfumes, etc. The company sells its products through its stores under the Stanley Level Next, Stanley Boutique, and Sofas & More brands. The company was formerly known as Stanley Seating and changed its name to Stanley Lifestyles Limited in October 2007. Stanley Lifestyles Limited was founded in 1999 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 647.46,
-  "pe_ratio": 139.93,
+  "market_cap_cr": 653.4,
+  "pe_ratio": 357.44,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 82.19,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T01:40:03.200371",
-  "provider_reported_pb_ratio": 1.38,
-  "statements_retrieved_at": "2026-11-26T01:40:03.200371",
+  "retrieval_time": "2026-11-27T00:20:27.782051",
+  "provider_reported_pb_ratio": 1.39,
+  "statements_retrieved_at": "2026-11-27T00:20:27.782051",
   "retained_fields": []
 }

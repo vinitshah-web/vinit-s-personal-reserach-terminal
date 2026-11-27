@@ -13,7 +13,7 @@
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.3051,
   "fifty_two_week_high": 293.85,
-  "fifty_two_week_low": 40.7,
+  "fifty_two_week_low": 38.7,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T01:05:42.316800",
+  "retrieval_time": "2026-11-26T23:43:53.477015",
   "provider_reported_pb_ratio": 0.83,
-  "statements_retrieved_at": "2026-11-26T01:05:42.316800",
+  "statements_retrieved_at": "2026-11-26T23:43:53.477015",
   "retained_fields": []
 }

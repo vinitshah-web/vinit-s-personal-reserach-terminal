@@ -5,14 +5,14 @@
   "industry": "Asset Management",
   "business_summary": "Bajaj Holdings & Investment Limited, an investment holding company, operates as a non-banking financial-investment and credit company in India. It invests in listed and unlisted securities of companies. Bajaj Holdings & Investment Limited was incorporated in 1945 and is headquartered in Pune, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 127163.97,
-  "pe_ratio": 13.69,
+  "market_cap_cr": 132806.55,
+  "pe_ratio": 14.14,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 6630.3,
-  "dividend_yield_pct": 1.2564,
+  "dividend_yield_pct": 1.269,
   "shares_outstanding_cr": 11.1294,
-  "fifty_two_week_high": 11851.0,
+  "fifty_two_week_high": 12012.0,
   "fifty_two_week_low": 8588.0,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T00:49:32.813324",
-  "provider_reported_pb_ratio": 1.72,
-  "statements_retrieved_at": "2026-11-26T00:49:32.813324",
+  "retrieval_time": "2026-11-26T23:26:38.811632",
+  "provider_reported_pb_ratio": 1.8,
+  "statements_retrieved_at": "2026-11-26T23:26:38.811632",
   "retained_fields": []
 }

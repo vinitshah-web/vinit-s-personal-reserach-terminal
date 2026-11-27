@@ -5,14 +5,14 @@
   "industry": "Real Estate Services",
   "business_summary": "IndiQube Spaces Limited engages in the business of leasing of network of shared workspaces of fully or partly equipped premises and other related activities. The company also provides IndiQube Grow offers smart workplaces; DesignQube, a personalized workplace; IndiQare, an all-in-one solution that streamlines operations; MiQube maximizes efficiency in workspace management; and IndiQubeEco, an ecofriendly workspace. The company was founded in 2015 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3606.08,
+  "market_cap_cr": 3674.34,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 23.26,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 21.1998,
-  "fifty_two_week_high": 232.01,
+  "fifty_two_week_high": 231.15,
   "fifty_two_week_low": 131.15,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T01:09:47.069908",
-  "provider_reported_pb_ratio": 7.31,
-  "statements_retrieved_at": "2026-11-26T01:09:47.069908",
+  "retrieval_time": "2026-11-26T23:48:14.124495",
+  "provider_reported_pb_ratio": 7.45,
+  "statements_retrieved_at": "2026-11-26T23:48:14.124495",
   "retained_fields": []
 }

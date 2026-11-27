@@ -5,7 +5,7 @@
   "industry": "Insurance - Diversified",
   "business_summary": "The New India Assurance Company Limited, together with its subsidiaries, engages in the general insurance industry in India and internationally. The company offers motor, health, travel, rural, credit, engineering, aviation, personal accident, liability, marine hull, fire, marine cargo, and miscellaneous insurances, as well as rural micro products, such as cattle, sheep, goat, pig, and agriculture pumpset Sukshma Bima policies. It also provides reinsurance, bancassurance, state insurance plan, and parametric insurances. The New India Assurance Company Limited was incorporated in 1919 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 24614.53,
+  "market_cap_cr": 24149.79,
   "pe_ratio": 33.09,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,10 +93,10 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T01:23:58.224520",
-  "provider_reported_pb_ratio": 0.59,
-  "statements_retrieved_at": "2026-11-26T01:23:58.224520",
-  "previous_retrieval_time": "2026-11-26T00:03:43.958973",
+  "retrieval_time": "2026-11-27T00:03:25.046478",
+  "provider_reported_pb_ratio": 0.58,
+  "statements_retrieved_at": "2026-11-27T00:03:25.046478",
+  "previous_retrieval_time": "2026-11-26T01:23:58.224520",
   "retained_fields": [
     "pe_ratio",
     "previous_retrieval_time"

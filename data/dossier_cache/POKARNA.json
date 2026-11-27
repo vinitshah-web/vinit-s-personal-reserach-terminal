@@ -5,15 +5,15 @@
   "industry": "Building Products & Equipment",
   "business_summary": "Pokarna Limited, together with its subsidiaries, engages in the quarrying, manufacturing, processing, and selling of granites in India, China, the United States, and internationally. It operates through the Granite and Quartz Surfaces segments. The company offers granite raw blocks, processed slabs, tiles, countertops, and monuments in various colors and patterns. It also manufactures, processes, and sells quartz surfaces under the Quantra brand. The company exports its products. Pokarna Limited was incorporated in 1991 and is based in Secunderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2018.52,
-  "pe_ratio": 16.43,
+  "market_cap_cr": 1973.71,
+  "pe_ratio": 16.07,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 300.85,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 3.1004,
   "fifty_two_week_high": 1146.2,
-  "fifty_two_week_low": 636.0,
+  "fifty_two_week_low": 633.05,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T01:28:25.672497",
-  "provider_reported_pb_ratio": 2.16,
-  "statements_retrieved_at": "2026-11-26T01:28:25.672497",
+  "retrieval_time": "2026-11-27T00:08:10.001869",
+  "provider_reported_pb_ratio": 2.12,
+  "statements_retrieved_at": "2026-11-27T00:08:10.001869",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Real Estate - Development",
   "business_summary": "Shraddha Prime Projects Limited engages in the real estate development business in India. It is also involved in developing, leasing, constructing, and redeveloping various residential and commercial projects. The company was formerly known as Towa Sokki Limited and changed its name to Shraddha Prime Projects Limited in July 2021. Shraddha Prime Projects Limited was incorporated in 1993 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 657.46,
-  "pe_ratio": 9.48,
+  "market_cap_cr": 648.26,
+  "pe_ratio": 9.35,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 43.6,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T01:37:00.573148",
-  "provider_reported_pb_ratio": 3.71,
-  "statements_retrieved_at": "2026-11-26T01:37:00.573148",
+  "retrieval_time": "2026-11-27T00:17:14.537873",
+  "provider_reported_pb_ratio": 3.66,
+  "statements_retrieved_at": "2026-11-27T00:17:14.537873",
   "retained_fields": []
 }

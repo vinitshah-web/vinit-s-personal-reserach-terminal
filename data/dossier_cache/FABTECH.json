@@ -5,8 +5,8 @@
   "industry": "Health Information Services",
   "business_summary": "Fabtech Technologies Limited operates as a biopharma engineering company that provides aseptic manufacturing facilities internationally. The company offers designing, engineering, procurement, installation, and testing of pharmaceutical equipment. It serves pharmaceuticals, biotech, and healthcare companies. The company was founded in 2001 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 613.73,
-  "pe_ratio": 16.21,
+  "market_cap_cr": 606.58,
+  "pe_ratio": 16.02,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 109.44,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T01:01:10.564015",
-  "provider_reported_pb_ratio": 1.26,
-  "statements_retrieved_at": "2026-11-26T01:01:10.564015",
+  "retrieval_time": "2026-11-26T23:39:05.400056",
+  "provider_reported_pb_ratio": 1.25,
+  "statements_retrieved_at": "2026-11-26T23:39:05.400056",
   "retained_fields": []
 }

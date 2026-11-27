@@ -5,14 +5,14 @@
   "industry": "Medical Instruments & Supplies",
   "business_summary": "Laxmi Dental Limited manufactures and sells dental products in India, the United States, the United Kingdom, and internationally. The company provides custom-made crowns, bridges, clear aligners, thermoforming sheets, aligner related products, and pediatric dental products. It serves dental clinics, dental companies, and dentist. The company was incorporated in 2004 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1043.74,
-  "pe_ratio": 32.26,
+  "market_cap_cr": 1055.79,
+  "pe_ratio": 32.63,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 48.05,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 5.5029,
-  "fifty_two_week_high": 292.0,
+  "fifty_two_week_high": 288.0,
   "fifty_two_week_low": 155.88,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T01:16:07.951596",
-  "provider_reported_pb_ratio": 3.95,
-  "statements_retrieved_at": "2026-11-26T01:16:07.951596",
+  "retrieval_time": "2026-11-26T23:54:59.561725",
+  "provider_reported_pb_ratio": 3.99,
+  "statements_retrieved_at": "2026-11-26T23:54:59.561725",
   "retained_fields": []
 }

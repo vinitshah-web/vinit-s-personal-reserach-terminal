@@ -5,14 +5,14 @@
   "industry": "Chemicals",
   "business_summary": "Ellenbarrie Industrial Gases Limited manufactures industrial and medical gases in India. It offers industrial gases, such as oxygen, nitrogen, argon, carbon dioxide, helium, acetylene, hydrogen, nitrous oxide, synthetic air, and special gases; and medical gases, including medical oxygen, medical nitrogen, medical nitrous oxide, and medical grade carbon dioxide. The company also provides project engineering services comprising design, engineering, supply, installation and commissioning of tonnage ASUs, and related projects; medical gas pipeline services consisting of supply, installation, and commissioning of medical gas pipeline systems; and medical equipment, which include emergency and transport ventilators, central sterilization system, lung function testing system, and electro-cardiograph machine. In addition, it is involved in the construction of cryogenic and non-cryogenic air separation plants. Ellenbarrie Industrial Gases Limited was incorporated in 1973 and is headquartered in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3916.6,
-  "pe_ratio": 32.77,
+  "market_cap_cr": 3984.95,
+  "pe_ratio": 33.34,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 74.34,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 14.0936,
-  "fifty_two_week_high": 401.5,
+  "fifty_two_week_high": 400.5,
   "fifty_two_week_low": 175.0,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T00:59:35.037923",
-  "provider_reported_pb_ratio": 3.74,
-  "statements_retrieved_at": "2026-11-26T00:59:35.037923",
+  "retrieval_time": "2026-11-26T23:37:23.596829",
+  "provider_reported_pb_ratio": 3.8,
+  "statements_retrieved_at": "2026-11-26T23:37:23.596829",
   "retained_fields": []
 }

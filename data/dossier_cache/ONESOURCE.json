@@ -5,7 +5,7 @@
   "industry": "Biotechnology",
   "business_summary": "OneSource Specialty Pharma Limited, a biopharmaceutical company, engages in the research, development, manufacture, and commercialization of biological drug products in various injectable formats in India, Singapore, the United States, Spain, and internationally. The company provides end-to-end contract development and manufacturing operations (CDMO) services across various phases of pre-clinical and clinical development and commercial supply of biologics. It also offers drug-devices, including prefilled syringes, dial and push variable and fixed dose pen injectors, pull push fixed pens, and autoinjectors and self-administration platforms; sterile injectables; soft gelatin capsules; and biologics solutions for recombinant proteins, monoclonal antibodies and biosimilars, cell and gene therapy, and RNA products. The company was formerly known as Stelis Biopharma Limited and changed its name to OneSource Specialty Pharma Limited in February 2024. OneSource Specialty Pharma Limited was incorporated in 2007 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 18377.68,
+  "market_cap_cr": 17726.33,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T01:25:50.165405",
-  "provider_reported_pb_ratio": 3.11,
-  "statements_retrieved_at": "2026-11-26T01:25:50.165405",
+  "retrieval_time": "2026-11-27T00:05:23.257289",
+  "provider_reported_pb_ratio": 3.0,
+  "statements_retrieved_at": "2026-11-27T00:05:23.257289",
   "retained_fields": []
 }

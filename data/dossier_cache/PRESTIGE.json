@@ -5,14 +5,14 @@
   "industry": "Real Estate - Diversified",
   "business_summary": "Prestige Estates Projects Limited, together with its subsidiaries, engages in the real estate development and related activities in India. It develops residential projects, such as apartments, villas, integrated townships, and plotted developments. The company is also involved in the development of commercial properties, including office parks, corporate campuses, built-to-suit developments, business parks, and warehousing assets; shopping, dining, entertainment and culture destinations; and luxury hotels, resorts, convention centers, serviced residences and golf resorts. In addition, it offers fit-out services, interior designs and execution, facilities and property management, and project and construction management for its projects. The company was incorporated in 1986 and is based in Bengaluru, India. Prestige Estates Projects Limited operates as a subsidiary of Razack Family Trust.",
   "business_summary_reason": null,
-  "market_cap_cr": 72582.35,
-  "pe_ratio": 77.8,
+  "market_cap_cr": 78914.09,
+  "pe_ratio": 84.58,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 386.27,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 43.073,
-  "fifty_two_week_high": 1741.5,
+  "fifty_two_week_high": 1840.7,
   "fifty_two_week_low": 1090.0,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T01:29:16.617594",
-  "provider_reported_pb_ratio": 4.36,
-  "statements_retrieved_at": "2026-11-26T01:29:16.617594",
+  "retrieval_time": "2026-11-27T00:09:04.653612",
+  "provider_reported_pb_ratio": 4.74,
+  "statements_retrieved_at": "2026-11-27T00:09:04.653612",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Cipla Limited, together with its subsidiaries, manufactures, develops, sells, and distributes pharmaceutical products in India, the United States, South Africa, and internationally. It offers generic and branded generic medicines, vaccines, active pharmaceutical ingredients, and formulations for various therapeutic areas, such as MI, angina, heart disease, pulmonary disease, kidney disorders, alzheimer's disease, hypertension, arrhythmia, lipid abnormalities and diabetes, obesity, central nervous system, HIV/AIDS, respiratory, asthma, urology, oncology, cardio-metabolism, child health, infectious diseases and critical care, hepatitis, women's health, ophthalmology, and neuro psychiatry. The company is also involved in the consumer healthcare, biosimilars, and specialty businesses. Cipla Limited was incorporated in 1935 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 115786.51,
-  "pe_ratio": 39.99,
+  "market_cap_cr": 117143.76,
+  "pe_ratio": 40.46,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 438.13,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T00:54:26.150856",
-  "provider_reported_pb_ratio": 3.27,
-  "statements_retrieved_at": "2026-11-26T00:54:26.150856",
+  "retrieval_time": "2026-11-26T23:31:52.479427",
+  "provider_reported_pb_ratio": 3.31,
+  "statements_retrieved_at": "2026-11-26T23:31:52.479427",
   "retained_fields": []
 }

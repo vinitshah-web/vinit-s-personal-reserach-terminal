@@ -5,8 +5,8 @@
   "industry": "Solar",
   "business_summary": "Ujaas Energy Limited engages in the generation of solar power in India. It operates through Solar Power Generation and Maintenance; Manufacturing and Sale of Solar Power Plant; and Electric Vehicle (EV) segments. The company develops, operates, owns, and maintains a portfolio of solar energy power plants under the UJAAS brand name; and provides engineering, procurement, and construction services; operations and maintenance services; and land and liasioning services. It also provides transformers, including convertor and special purpose transformers, power transformers, distribution transformers, and arc furnace and induction furnace transformers; and manufactures and sells electric scooters. The company was formerly known as M and B Switchgears Limited and changed its name to Ujaas Energy Limited in August 2013. Ujaas Energy Limited was founded in 1979 and is headquartered in Indore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2293.91,
-  "pe_ratio": 1011.53,
+  "market_cap_cr": 2280.04,
+  "pe_ratio": 1005.41,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 7.21,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T01:45:28.178349",
-  "provider_reported_pb_ratio": 23.84,
-  "statements_retrieved_at": "2026-11-26T01:45:28.178349",
+  "retrieval_time": "2026-11-27T00:26:03.297114",
+  "provider_reported_pb_ratio": 23.7,
+  "statements_retrieved_at": "2026-11-27T00:26:03.297114",
   "retained_fields": []
 }

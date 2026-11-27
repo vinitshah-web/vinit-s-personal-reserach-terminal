@@ -5,8 +5,8 @@
   "industry": "Credit Services",
   "business_summary": "Akme Fintrade (India) Limited, a non-banking financial company, provides lending services in India. The company offers two-wheeler, four-wheeler, old vehicle, business, solar rooftop, mahila udyog, farm equipment, corporate, and working capital loans, as well as loan against property. It serves individuals and businesses. The company was founded in 1995 and is headquartered in Udaipur City, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 342.68,
-  "pe_ratio": 7.36,
+  "market_cap_cr": 390.61,
+  "pe_ratio": 8.38,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 10.75,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T00:44:28.440156",
-  "provider_reported_pb_ratio": 0.71,
-  "statements_retrieved_at": "2026-11-26T00:44:28.440156",
+  "retrieval_time": "2026-11-26T23:21:12.734891",
+  "provider_reported_pb_ratio": 0.81,
+  "statements_retrieved_at": "2026-11-26T23:21:12.734891",
   "retained_fields": []
 }

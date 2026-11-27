@@ -5,8 +5,8 @@
   "industry": "Packaging & Containers",
   "business_summary": "Oricon Enterprises Limited engages in trading and real estate businesses in India and internationally. It is also involved in trading, real estate, warehousing, and shipping and related logistics businesses. The company was formerly known as Oriental Containers Ltd. Oricon Enterprises Limited was incorporated in 1968 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 891.69,
-  "pe_ratio": 34.63,
+  "market_cap_cr": 882.53,
+  "pe_ratio": 34.27,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 82.33,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T01:26:07.902526",
-  "provider_reported_pb_ratio": 0.69,
-  "statements_retrieved_at": "2026-11-26T01:26:07.902526",
+  "retrieval_time": "2026-11-27T00:05:42.557885",
+  "provider_reported_pb_ratio": 0.68,
+  "statements_retrieved_at": "2026-11-27T00:05:42.557885",
   "retained_fields": []
 }

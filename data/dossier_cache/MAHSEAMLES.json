@@ -5,15 +5,15 @@
   "industry": "Steel",
   "business_summary": "Maharashtra Seamless Limited engages in the manufacture and sale of seamless steel pipes and tubes in India. The company operates through three segments: Steel Pipes & Tubes, Power \u0096 Electricity, and RIG. It offers mild steel and galvanized pipes; API line pipes; oil country tubular goods (OCTG) pipes; and hot finished pipes and tubes, and cold drawn and boiler tubes. It also provides coated pipes, such aas 3 layer polyethylene coated pipes, fusion bonded epoxy coated pipes, 3 layer polypropylene coated pipes, and internal epoxy coating pipes. In addition, the company is involved in renewable power generation and rig operations. Further, the company operates 5MW solar power plant in Pokaran, District Jaisalmer Rajasthan and 7 MW wind power project in Maharashtra. Its products are used in the oil and gas, hydrocarbon process, bearing industry, automotive, boiler, heat exchanger, plumbing and firefighting, structural, general engineering, railways, sewage and water well, and hydraulic cylinder sectors. The company was incorporated in 1988 and is headquartered in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 6168.66,
-  "pe_ratio": 9.01,
+  "market_cap_cr": 6048.06,
+  "pe_ratio": 8.83,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 528.37,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 13.3999,
   "fifty_two_week_high": 768.0,
-  "fifty_two_week_low": 458.15,
+  "fifty_two_week_low": 447.1,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T01:18:06.146133",
-  "provider_reported_pb_ratio": 0.87,
-  "statements_retrieved_at": "2026-11-26T01:18:06.146133",
+  "retrieval_time": "2026-11-26T23:57:06.488956",
+  "provider_reported_pb_ratio": 0.85,
+  "statements_retrieved_at": "2026-11-26T23:57:06.488956",
   "retained_fields": []
 }

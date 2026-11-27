@@ -5,7 +5,7 @@
   "industry": "Real Estate - Development",
   "business_summary": "Ansal Properties & Infrastructure Limited, together with its subsidiaries, engages in the real estate development business in India. It develops Hi-Tech and integrated townships, group housings, malls, shopping complexes, and clubs, as well as other mixed-use and standalone developments in the residential, commercial, retail, and hospitality segments. The company was incorporated in 1967 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 47.85,
+  "market_cap_cr": 47.22,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -63,8 +63,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T00:46:22.259115",
+  "retrieval_time": "2026-11-26T23:23:15.174737",
   "provider_reported_pb_ratio": -0.03,
-  "statements_retrieved_at": "2026-11-26T00:46:22.259115",
+  "statements_retrieved_at": "2026-11-26T23:23:15.174737",
   "retained_fields": []
 }

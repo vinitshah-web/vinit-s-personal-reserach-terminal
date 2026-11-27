@@ -5,7 +5,7 @@
   "industry": "Farm Products",
   "business_summary": "Sharat Industries Limited engages in shrimp aquaculture activities in India. The company offers raw and cooked white shrimps, cultured marine worms, and vannamei seedlings. It is also involved in the manufacture and sale of shrimp feeds under the VANNASTAR and AQUAASTAR brand names; and frozen shrimp under the Sharat Star brand name. The company also exports its products. In addition, its customers include retailers, importers, and food service partners. Sharat Industries Limited was incorporated in 1990 and is based in Chennai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 581.0,
+  "market_cap_cr": 580.92,
   "pe_ratio": 30.93,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T01:36:46.172940",
+  "retrieval_time": "2026-11-27T00:16:59.898767",
   "provider_reported_pb_ratio": 3.46,
-  "statements_retrieved_at": "2026-11-26T01:36:46.172940",
+  "statements_retrieved_at": "2026-11-27T00:16:59.898767",
   "retained_fields": []
 }

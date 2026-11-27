@@ -5,8 +5,8 @@
   "industry": "Communication Equipment",
   "business_summary": "Sterlite Technologies Limited, together with its subsidiaries, manufactures and sells telecom products in India and internationally. It operates through Optical Networking Business and Digital and Technology Solutions segments. The company designs and manufactures optical fibres, optical fibre cables and specialty cables, optical connectivity, and optical inter connect products. It also provides STL neuralis data center solutions; sensron, a fibre optic sensing solution; FTTH and enterprise solutions; STL store; and operates Neox communication platform, as well as enabling digital transformation of telcos and enterprises. Sterlite Technologies Limited was founded in 1988 and is based in Pune, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 29819.07,
-  "pe_ratio": 42.17,
+  "market_cap_cr": 30307.57,
+  "pe_ratio": 42.87,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 88.38,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T01:40:22.256576",
-  "provider_reported_pb_ratio": 6.56,
-  "statements_retrieved_at": "2026-11-26T01:40:22.256576",
+  "retrieval_time": "2026-11-27T00:20:47.549553",
+  "provider_reported_pb_ratio": 6.67,
+  "statements_retrieved_at": "2026-11-27T00:20:47.549553",
   "retained_fields": []
 }

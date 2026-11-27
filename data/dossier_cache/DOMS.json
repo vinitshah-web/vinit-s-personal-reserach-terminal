@@ -5,8 +5,8 @@
   "industry": "Business Equipment & Supplies",
   "business_summary": "DOMS Industries Limited designs, develops, manufactures, and sells stationery and art material products under the DOMS brand name in India and internationally. It offers pens and writing instruments; pencils and accessories; paper stationary; mathematical drawing instruments; markers and highlighters; gifting products; fine art; drawing and coloring; and crafts and hobbyist products. The company also provides baby diapers and wet wipes. In addition, it provides packaging services. The company was founded in 1973 and is based in Valsad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 13456.42,
-  "pe_ratio": 68.8,
+  "market_cap_cr": 13955.28,
+  "pe_ratio": 71.26,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 211.34,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T00:58:09.663001",
-  "provider_reported_pb_ratio": 10.49,
-  "statements_retrieved_at": "2026-11-26T00:58:09.663001",
+  "retrieval_time": "2026-11-26T23:35:52.110049",
+  "provider_reported_pb_ratio": 10.88,
+  "statements_retrieved_at": "2026-11-26T23:35:52.110049",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Credit Services",
   "business_summary": "Viji Finance Limited, a non-banking finance company, provides financial products and services in India. It offers personal and business loans, loans against property, gold and education loans, corporate and housing finance, infrastructure/project finance, personal finance, and medical equipment loan services. Viji Finance Limited was formerly known as Panjon Finance Limited and changed its name to Viji Finance Limited in September 2012. Viji Finance Limited was incorporated in 1994 and is based in Indore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 300.99,
-  "pe_ratio": 39.48,
+  "market_cap_cr": 285.98,
+  "pe_ratio": 37.52,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 2.2,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T01:47:24.989863",
-  "provider_reported_pb_ratio": 5.93,
-  "statements_retrieved_at": "2026-11-26T01:47:24.989863",
+  "retrieval_time": "2026-11-27T00:28:06.754413",
+  "provider_reported_pb_ratio": 5.63,
+  "statements_retrieved_at": "2026-11-27T00:28:06.754413",
   "retained_fields": []
 }

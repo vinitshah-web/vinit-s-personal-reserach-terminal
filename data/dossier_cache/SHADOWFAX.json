@@ -5,8 +5,8 @@
   "industry": "Integrated Freight & Logistics",
   "business_summary": "Shadowfax Technologies Limited operates as a technology-led third-party logistics company in India. The company offers express forward parcel delivery; reverse pickup logistics and hand-in-hand exchange; prime delivery; quick commerce; food and on-demand delivery, mobility, and other logistics services. It serves enterprise clients including horizontal and non-horizontal e-commerce, quick commerce, food marketplace, on-demand mobility companies, and D2C companies. Shadowfax Technologies Limited was incorporated in 2015 and is headquartered in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 18234.31,
-  "pe_ratio": 72.35,
+  "market_cap_cr": 18063.54,
+  "pe_ratio": 71.67,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 32.22,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T01:36:11.221370",
-  "provider_reported_pb_ratio": 9.61,
-  "statements_retrieved_at": "2026-11-26T01:36:11.221370",
+  "retrieval_time": "2026-11-27T00:16:22.528694",
+  "provider_reported_pb_ratio": 9.52,
+  "statements_retrieved_at": "2026-11-27T00:16:22.528694",
   "retained_fields": []
 }

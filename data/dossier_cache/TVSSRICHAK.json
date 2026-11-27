@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "TVS Srichakra Limited manufactures and sells two-wheeler, three-wheeler, and other industrial tires to original equipment manufacturers (OEMs) and replacement markets in India and internationally. The company offers industrial pneumatic, ultra-light truck, multi-purpose agriculture, off highway, terrain vehicles, skid steer construction, and OTR tires under the TVS Eurogrip, TVS Tyres, Super Grip, and Eurogrip brands. It also manufactures and sells tubes and flaps. The company serves its products through a network of depots, distributors, and retailers. It also exports its products. TVS Srichakra Limited was incorporated in 1982 and is headquartered in Madurai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3469.49,
-  "pe_ratio": 26.92,
+  "market_cap_cr": 3489.55,
+  "pe_ratio": 27.82,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 1624.68,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T01:45:17.463783",
-  "provider_reported_pb_ratio": 2.79,
-  "statements_retrieved_at": "2026-11-26T01:45:17.463783",
+  "retrieval_time": "2026-11-27T00:25:51.992043",
+  "provider_reported_pb_ratio": 2.81,
+  "statements_retrieved_at": "2026-11-27T00:25:51.992043",
   "retained_fields": []
 }

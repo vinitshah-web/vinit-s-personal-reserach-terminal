@@ -5,15 +5,15 @@
   "industry": "Building Products & Equipment",
   "business_summary": "Asian Granito India Limited, together with its subsidiaries, engages in the manufacture and trade of tiles, marbles, and allied products in India and internationally. The company offers floor, wall, and parking tiles; glazed and polished vitrified tiles; countertops; quartz and marble surfaces; sanitary ware comprising showers, water closets, basins, urinals, cisterns, and seat covers; bath ware; CP fittings; faucets and construction chemicals. It distributes its products through a network of dealers and sub-dealers, retail touchpoints, display centers, and franchisee showrooms. The company was incorporated in 1995 and is headquartered in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1209.32,
-  "pe_ratio": 156.88,
+  "market_cap_cr": 1182.05,
+  "pe_ratio": 153.35,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 51.83,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 29.6475,
   "fifty_two_week_high": 79.06,
-  "fifty_two_week_low": 39.85,
+  "fifty_two_week_low": 39.5,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T00:48:02.331314",
-  "provider_reported_pb_ratio": 0.79,
-  "statements_retrieved_at": "2026-11-26T00:48:02.331314",
+  "retrieval_time": "2026-11-26T23:25:02.007819",
+  "provider_reported_pb_ratio": 0.77,
+  "statements_retrieved_at": "2026-11-26T23:25:02.007819",
   "retained_fields": []
 }

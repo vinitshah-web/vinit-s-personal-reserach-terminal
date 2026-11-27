@@ -5,7 +5,7 @@
   "industry": "Education & Training Services",
   "business_summary": "G-Tec Jainx Education Limited offers information technology related computer services in India. The company offers accounts and taxation, basic software, data visualizing and analysis, designing and development, digital marketing, software programming, animation courses, and data science courses. It also provides skill development, and training and placement services. The company was formerly known as Keerti Knowledge and Skills Limited and changed its name to G-Tec Jainx Education Limited in August 2023. G-Tec Jainx Education Limited was founded in 1997 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 32.7,
+  "market_cap_cr": 34.11,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-26T01:05:48.491450",
-  "provider_reported_pb_ratio": 67.42,
-  "statements_retrieved_at": "2026-11-26T01:05:48.491450",
+  "retrieval_time": "2026-11-26T23:43:59.663931",
+  "provider_reported_pb_ratio": 70.34,
+  "statements_retrieved_at": "2026-11-26T23:43:59.663931",
   "retained_fields": []
 }
