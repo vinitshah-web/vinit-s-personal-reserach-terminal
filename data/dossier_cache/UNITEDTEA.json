@@ -5,8 +5,8 @@
   "industry": "Farm Products",
   "business_summary": "The United Nilgiri Tea Estates Company Limited engages in growing, manufacturing, and selling teas in India and internationally. The company offers black, special, green, herbal, and gift teas. It is also involved in letting-out of properties. The company exports its products to Australia, Congo, Canada, Germany, the Netherlands, Denmark, Japan, Finland, the United States, and the United Kingdom. The United Nilgiri Tea Estates Company Limited was incorporated in 1922 and is based in Coimbatore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 201.36,
-  "pe_ratio": 10.63,
+  "market_cap_cr": 203.86,
+  "pe_ratio": 10.76,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 500.59,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T01:54:54.628509",
-  "provider_reported_pb_ratio": 0.81,
-  "statements_retrieved_at": "2026-11-27T01:54:54.628509",
+  "retrieval_time": "2026-11-27T23:59:38.894185",
+  "provider_reported_pb_ratio": 0.82,
+  "statements_retrieved_at": "2026-11-27T23:59:38.894185",
   "retained_fields": []
 }

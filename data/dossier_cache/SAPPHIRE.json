@@ -5,7 +5,7 @@
   "industry": "Restaurants",
   "business_summary": "Sapphire Foods India Limited owns and operates restaurants. The company engages in the franchisee business of KFC, Pizza Hut, and Taco Bell restaurants in India, Sri Lanka, and Maldives. Sapphire Foods India Limited was incorporated in 2009 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 6461.22,
+  "market_cap_cr": 6562.58,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T01:43:26.100501",
-  "provider_reported_pb_ratio": 4.28,
-  "statements_retrieved_at": "2026-11-27T01:43:26.100501",
+  "retrieval_time": "2026-11-27T23:48:20.257755",
+  "provider_reported_pb_ratio": 4.35,
+  "statements_retrieved_at": "2026-11-27T23:48:20.257755",
   "retained_fields": []
 }

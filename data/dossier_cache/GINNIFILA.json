@@ -5,8 +5,8 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Ginni Filaments Limited manufactures and sells textile products in India and internationally. The company offers non-woven fabrics comprising viscose-polyester blends, polyester, viscose, and cotton enriched blends that are used in personal care, hygiene, and medical industries. It also provides garments; wipes and cosmetics; and hygiene, hair care, skin care, body care, women care, medical, home care, and baby care products. The company sells its products under the GINNI brand name. Ginni Filaments Limited was incorporated in 1982 and is based in Noida, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 319.22,
-  "pe_ratio": 9.23,
+  "market_cap_cr": 309.8,
+  "pe_ratio": 8.95,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 27.5,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T01:12:00.785223",
-  "provider_reported_pb_ratio": 1.36,
-  "statements_retrieved_at": "2026-11-27T01:12:00.785223",
+  "retrieval_time": "2026-11-27T23:17:38.227612",
+  "provider_reported_pb_ratio": 1.32,
+  "statements_retrieved_at": "2026-11-27T23:17:38.227612",
   "retained_fields": []
 }

@@ -5,7 +5,7 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Le Merite Exports Limited, together with its subsidiaries, engages in the manufacturing, purchase, and sale of textile in India and internationally. It offers cotton, cotton blended, and synthetic yarns; greige and finished fabrics; and weaving job units, such as machinery details. The company was incorporated in 2003 and is headquartered in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 332.07,
+  "market_cap_cr": 340.33,
   "pe_ratio": 117.23,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,10 +93,10 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T01:25:03.274611",
-  "provider_reported_pb_ratio": 1.7,
-  "statements_retrieved_at": "2026-11-27T01:25:03.274611",
-  "previous_retrieval_time": "2026-11-26T23:55:08.753847",
+  "retrieval_time": "2026-11-27T23:30:27.669378",
+  "provider_reported_pb_ratio": 1.74,
+  "statements_retrieved_at": "2026-11-27T23:30:27.669378",
+  "previous_retrieval_time": "2026-11-27T01:25:03.274611",
   "retained_fields": [
     "pe_ratio",
     "previous_retrieval_time"

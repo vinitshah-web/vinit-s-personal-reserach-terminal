@@ -5,8 +5,8 @@
   "industry": "Agricultural Inputs",
   "business_summary": "Dhanuka Agritech Limited operates as an agro-chemical company in India. The company offers herbicides, insecticides, fungicides, and plant growth regulators in various forms, such as liquid, dust, powder, and granules. It also provides biological and efficacy enhancers. Dhanuka Agritech Limited was founded in 1980 and is headquartered in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4108.78,
-  "pe_ratio": 14.62,
+  "market_cap_cr": 4065.32,
+  "pe_ratio": 14.46,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 390.9,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T01:06:00.241648",
-  "provider_reported_pb_ratio": 2.36,
-  "statements_retrieved_at": "2026-11-27T01:06:00.241648",
+  "retrieval_time": "2026-11-27T23:11:43.040385",
+  "provider_reported_pb_ratio": 2.33,
+  "statements_retrieved_at": "2026-11-27T23:11:43.040385",
   "retained_fields": []
 }

@@ -5,14 +5,14 @@
   "industry": "Building Materials",
   "business_summary": "Euro Pratik Sales Limited sells and markets decorative wall panels and laminates. It offers wall panels, translucent panels and highlighters, adhesives, interior films, and designer laminates. The company was founded in 2003 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1758.25,
-  "pe_ratio": 20.07,
+  "market_cap_cr": 1771.84,
+  "pe_ratio": 20.23,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 34.55,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 10.22,
-  "fifty_two_week_high": 374.9,
+  "fifty_two_week_high": 358.75,
   "fifty_two_week_low": 159.1,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T01:09:34.522367",
-  "provider_reported_pb_ratio": 4.98,
-  "statements_retrieved_at": "2026-11-27T01:09:34.522367",
+  "retrieval_time": "2026-11-27T23:15:14.403691",
+  "provider_reported_pb_ratio": 5.02,
+  "statements_retrieved_at": "2026-11-27T23:15:14.403691",
   "retained_fields": []
 }

@@ -5,14 +5,14 @@
   "industry": "Metal Fabrication",
   "business_summary": "Hilton Metal Forging Limited manufactures steel forgings, flanges, and forged fitting for railways, oil and gas, refinery, and pharmaceutical industries in India. The company offers stainless steel, high pressure, threaded, blind, weld neck, and socket welded flanges; railway wheel forgings; and forged and hydraulic fittings. It also provides engineered parts; crank shafts; body bonnets; stub ends; forged components; top deck covers; and Christmas tree components. The company also exports its products. Hilton Metal Forging Limited was incorporated in 2005 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 76.48,
-  "pe_ratio": 9.35,
+  "market_cap_cr": 76.94,
+  "pe_ratio": 9.4,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 43.53,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 5.1467,
-  "fifty_two_week_high": 43.94,
+  "fifty_two_week_high": 43.45,
   "fifty_two_week_low": 13.43,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T01:16:24.449670",
+  "retrieval_time": "2026-11-27T23:21:56.487204",
   "provider_reported_pb_ratio": 0.34,
-  "statements_retrieved_at": "2026-11-27T01:16:24.449670",
+  "statements_retrieved_at": "2026-11-27T23:21:56.487204",
   "retained_fields": []
 }

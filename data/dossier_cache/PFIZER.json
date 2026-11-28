@@ -5,8 +5,8 @@
   "industry": "Drug Manufacturers - General",
   "business_summary": "Pfizer Limited engages in manufacturing, marketing, trading, and distribution of pharmaceutical products in India and internationally. It offers therapy area and products, such as vaccines, injectables and anti-infectives, inflammation and immunology, and internal medicine for cardiovascular care, oncology, respiratory, multivitamins and multimineral, neuroscience, women's health, gastroenterology, pain management, and nutrition, addressing. The company also offers anti-infectives services to hospitals and nursing homes. It sells its products through a network of independent distributors. Pfizer Limited was incorporated in 1950 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 17344.8,
-  "pe_ratio": 22.77,
+  "market_cap_cr": 17417.99,
+  "pe_ratio": 22.87,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 958.56,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T01:36:32.382038",
-  "provider_reported_pb_ratio": 3.96,
-  "statements_retrieved_at": "2026-11-27T01:36:32.382038",
+  "retrieval_time": "2026-11-27T23:41:42.463085",
+  "provider_reported_pb_ratio": 3.97,
+  "statements_retrieved_at": "2026-11-27T23:41:42.463085",
   "retained_fields": []
 }

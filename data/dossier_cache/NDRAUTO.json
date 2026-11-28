@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "NDR Auto Components Limited manufactures, fabricates, assembles, sells, and trades in automotive components for passenger cars and utility vehicles in India. The company provides seat frames, and trims to be used in passenger cars, and utility vehicles; two-wheeler and four-wheeler vehicles, as well as other accessories relating to car seats; and spare parts and components for seats. NDR Auto Components Limited was founded in 1930 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1743.34,
-  "pe_ratio": 24.89,
+  "market_cap_cr": 1762.07,
+  "pe_ratio": 25.16,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 161.73,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T01:32:11.509656",
-  "provider_reported_pb_ratio": 4.52,
-  "statements_retrieved_at": "2026-11-27T01:32:11.509656",
+  "retrieval_time": "2026-11-27T23:37:30.643897",
+  "provider_reported_pb_ratio": 4.57,
+  "statements_retrieved_at": "2026-11-27T23:37:30.643897",
   "retained_fields": []
 }

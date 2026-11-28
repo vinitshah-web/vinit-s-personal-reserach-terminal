@@ -5,14 +5,14 @@
   "industry": "Farm & Heavy Construction Machinery",
   "business_summary": "Ajax Engineering Limited manufactures and sells self-loading concrete mixers, concrete batching plants, and concrete pumps in India and internationally. The company also offers transit mixers, stationary concrete pumps, boom pumps, self-propelled boom pumps, 3D concrete printers, and concrete slip-form pavers, as well as dumpers, planetary mixers, and twin shaft mixers. It serves roadways, waterways, irrigation, renewable energy, railways, residential/commercial, airports, and urban infrastructure sectors. Ajax Engineering Limited was incorporated in 1992 and is headquartered in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 6818.91,
-  "pe_ratio": 28.63,
+  "market_cap_cr": 6791.46,
+  "pe_ratio": 28.51,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 131.46,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 11.4411,
-  "fifty_two_week_high": 643.65,
+  "fifty_two_week_high": 640.0,
   "fifty_two_week_low": 394.8,
   "financial_statements": [
     {
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T00:53:26.663756",
-  "provider_reported_pb_ratio": 4.53,
-  "statements_retrieved_at": "2026-11-27T00:53:26.663756",
+  "retrieval_time": "2026-11-27T22:59:17.561680",
+  "provider_reported_pb_ratio": 4.52,
+  "statements_retrieved_at": "2026-11-27T22:59:17.561680",
   "retained_fields": []
 }

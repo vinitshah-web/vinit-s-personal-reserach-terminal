@@ -5,8 +5,8 @@
   "industry": "Tools & Accessories",
   "business_summary": "Sterling Tools Limited manufactures and sells high tensile cold forged fasteners to original equipment manufacturers in India. It offers standard, special, and engine fasteners; axle, engine, and standard bolts; hub/wheel bolts, hub nuts, and wheel studs; and motor control units for electric vehicles. The company also manufactures magnet-free motors and associated powertrain components, motor vehicle electrical equipment; and contractors for EV, charging and ESS systems. In addition, it designs, develops, manufactures, and promotes mechanical and electrical components, as well as engages in the investment activities. It also exports its products to Europe, the United States, South America, and the Middle East. Sterling Tools Limited was incorporated in 1979 and is based in Faridabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 753.75,
-  "pe_ratio": 63.23,
+  "market_cap_cr": 743.61,
+  "pe_ratio": 62.38,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 145.63,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T01:49:23.375481",
-  "provider_reported_pb_ratio": 1.42,
-  "statements_retrieved_at": "2026-11-27T01:49:23.375481",
+  "retrieval_time": "2026-11-27T23:54:10.536453",
+  "provider_reported_pb_ratio": 1.4,
+  "statements_retrieved_at": "2026-11-27T23:54:10.536453",
   "retained_fields": []
 }

@@ -5,14 +5,14 @@
   "industry": "Infrastructure Operations",
   "business_summary": "Bharat Road Network Limited operates as a Build Operate-Transfer (BOT) company that owns, designs, develops, builds, operates, and transfers road and related services in India. It also engages in the development, implementation, operation, and maintenance of road and highway projects. In addition, the company provides project development and implementation; tolling operation and maintenance; highway management and development; claim and contracts management; and advisory and project management services, including construction supervision/debt syndication. The company was incorporated in 2006 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 125.93,
+  "market_cap_cr": 123.49,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 83.86,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 8.395,
-  "fifty_two_week_high": 25.14,
+  "fifty_two_week_high": 24.88,
   "fifty_two_week_low": 13.06,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T01:01:08.691501",
+  "retrieval_time": "2026-11-27T23:06:55.489789",
   "provider_reported_pb_ratio": 0.18,
-  "statements_retrieved_at": "2026-11-27T01:01:08.691501",
+  "statements_retrieved_at": "2026-11-27T23:06:55.489789",
   "retained_fields": []
 }

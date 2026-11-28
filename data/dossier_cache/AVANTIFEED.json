@@ -5,8 +5,8 @@
   "industry": "Packaged Foods",
   "business_summary": "Avanti Feeds Limited, together with its subsidiaries, manufactures and sells shrimp feeds in India, the United States, and internationally. The company operates through three segments: Shrimp Feed, Shrimp Hatchery, and Power Generation. It manufactures and markets shrimp feeds for aqua culture to grow shrimps, as well as offers hatchery which produces shrimp seeds to aqua farmers. The company also engages in generation and distribution of electricity. In addition, it is involved in manufacturing and trading pet feeds; trading in sea food products; and exporting shrimp. The company was incorporated in 1993 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 9567.17,
-  "pe_ratio": 20.78,
+  "market_cap_cr": 9684.34,
+  "pe_ratio": 21.04,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 243.78,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T00:57:22.568602",
-  "provider_reported_pb_ratio": 2.88,
-  "statements_retrieved_at": "2026-11-27T00:57:22.568602",
+  "retrieval_time": "2026-11-27T23:03:12.891625",
+  "provider_reported_pb_ratio": 2.92,
+  "statements_retrieved_at": "2026-11-27T23:03:12.891625",
   "retained_fields": []
 }

@@ -5,8 +5,8 @@
   "industry": "Farm Products",
   "business_summary": "Norben Tea & Exports Limited engages in the growing, manufacturing, and marketing of tea in India. It offers flavor teas, green teas, and teabags. The company was incorporated in 1990 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 77.72,
-  "pe_ratio": 208.33,
+  "market_cap_cr": 80.33,
+  "pe_ratio": 215.33,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 12.81,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T01:33:42.073088",
-  "provider_reported_pb_ratio": 3.9,
-  "statements_retrieved_at": "2026-11-27T01:33:42.073088",
+  "retrieval_time": "2026-11-27T23:38:58.447616",
+  "provider_reported_pb_ratio": 4.03,
+  "statements_retrieved_at": "2026-11-27T23:38:58.447616",
   "retained_fields": []
 }

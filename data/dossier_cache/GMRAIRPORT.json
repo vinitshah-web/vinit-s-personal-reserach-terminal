@@ -5,8 +5,8 @@
   "industry": "Airports & Air Services",
   "business_summary": "GMR Airports Limited development, maintenance, and operation of airports in India. It is also involved in operation of international airports on build, own, operate, and transfer basis. In addition, the company engages in construction business, including engineering, procurement, and construction contracting activities; and provides security services, as well as engages in maintenance, repairing, and overhauling of aircraft. The company was formerly known as GMR Airports Infrastructure Limited and changed its name to GMR Airports Limited in September 2024. GMR Airports Limited was incorporated in 1996 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 107889.07,
-  "pe_ratio": 246.83,
+  "market_cap_cr": 105820.85,
+  "pe_ratio": 242.1,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": -2.28,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T01:12:29.950566",
-  "provider_reported_pb_ratio": -44.33,
-  "statements_retrieved_at": "2026-11-27T01:12:29.950566",
+  "retrieval_time": "2026-11-27T23:18:06.531999",
+  "provider_reported_pb_ratio": -43.48,
+  "statements_retrieved_at": "2026-11-27T23:18:06.531999",
   "retained_fields": []
 }

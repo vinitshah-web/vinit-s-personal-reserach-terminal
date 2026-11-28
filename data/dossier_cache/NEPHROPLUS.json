@@ -5,8 +5,8 @@
   "industry": "Medical Care Facilities",
   "business_summary": "Nephrocare Health Services Limited provides dialysis healthcare services through a chain of kidney care clinics and dialysis centers in India, Uzbekistan, Nepal, and the Philippines. It provides In-clinic dialysis, dialysis on call, home hemodialysis, holiday dialysis, and dialysis on wheels services. The company was incorporated in 2009 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 6652.92,
-  "pe_ratio": 50.84,
+  "market_cap_cr": 6746.76,
+  "pe_ratio": 51.55,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 118.43,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T01:32:22.581552",
-  "provider_reported_pb_ratio": 5.57,
-  "statements_retrieved_at": "2026-11-27T01:32:22.581552",
+  "retrieval_time": "2026-11-27T23:37:41.575993",
+  "provider_reported_pb_ratio": 5.65,
+  "statements_retrieved_at": "2026-11-27T23:37:41.575993",
   "retained_fields": []
 }

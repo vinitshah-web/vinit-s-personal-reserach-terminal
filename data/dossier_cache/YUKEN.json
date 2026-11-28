@@ -5,8 +5,8 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "Yuken India Limited, together with its subsidiaries, engages in the manufacture and sale of oil hydraulic equipment in India and internationally. The company offers pumps, such as piston, vane, and gear pumps; chip compacting machines; customized and hydraulic cylinders; accumulators; and hydraulic and compact power units; flanges, accessories, and ASR and ASE pumps; and pressure, flow, directional, and modular controls, as well as logic, proportional, servo, and cartridge valves. It also provides directional control, throttle check valve, variable displacement vane pumps, solenoid operated directional valves with monitoring switch, cartridge check valves, DSMG 01 valve, HPV43 double vane pump, diaphragm accumulators, HMV1 EI sheet, and compact power unit, as well as training services. In addition, the company offers precision ferrous castings, solenoids, precision ground spools, and hydraulic accessories, as well as tooling for the foundry. It serves defence, construction, steel, capital goods, power, machine tools, agriculture, and other infrastructure sectors. The company was incorporated in 1976 and is headquartered in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1384.89,
-  "pe_ratio": 79.15,
+  "market_cap_cr": 1391.68,
+  "pe_ratio": 79.54,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 282.16,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T01:58:43.905980",
-  "provider_reported_pb_ratio": 3.61,
-  "statements_retrieved_at": "2026-11-27T01:58:43.905980",
+  "retrieval_time": "2026-11-28T00:03:27.309296",
+  "provider_reported_pb_ratio": 3.63,
+  "statements_retrieved_at": "2026-11-28T00:03:27.309296",
   "retained_fields": []
 }

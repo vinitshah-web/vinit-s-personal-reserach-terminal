@@ -5,14 +5,14 @@
   "industry": "Drug Manufacturers - Specialty & Generic",
   "business_summary": "Bafna Pharmaceuticals Limited manufactures and sells finished pharmaceutical formulations in India. The company offers its products in various dosage forms, including tablets, capsules, and solid orals. It provides various products for cardiovascular and hypertension, potent oncology, anti-infectives, central nervous system, and diabetic related diseases, as well as provision of contract research and manufacturing services. It also exports its products to Europe, the United Kingdom, Australia, Sri Lanka, Africa, Philippines, Tanzania, and Nigeria. Bafna Pharmaceuticals Limited was founded in 1981 and is based in Chennai, India. The company operates as a subsidiary of SRJR Lifesciences LLP.",
   "business_summary_reason": null,
-  "market_cap_cr": 1259.94,
-  "pe_ratio": 161.88,
+  "market_cap_cr": 1322.86,
+  "pe_ratio": 169.97,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 43.55,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 2.3656,
-  "fifty_two_week_high": 532.6,
+  "fifty_two_week_high": 559.2,
   "fifty_two_week_low": 94.77,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T00:57:47.684389",
-  "provider_reported_pb_ratio": 12.23,
-  "statements_retrieved_at": "2026-11-27T00:57:47.684389",
+  "retrieval_time": "2026-11-27T23:03:38.013936",
+  "provider_reported_pb_ratio": 12.84,
+  "statements_retrieved_at": "2026-11-27T23:03:38.013936",
   "retained_fields": []
 }

@@ -5,13 +5,13 @@
   "industry": "Packaged Foods",
   "business_summary": "Parag Milk Foods Limited processes, manufactures, and sells milk and milk products in India and internationally. The company offers ghee, milk, paneer, sweets, curd, butter, dairy whitener, milk powder, and gulab jamun mix products. It also offers flavoured cheese wedges, spreads, slices, and angles, as well as flavoured and fruit yoghurt, bocconcini, slim milk, fresh cream, buttermilk, double toned milk, lassi, flavoured milk, milk shakes, beverages, UHT milk, and other dairy products. In addition, the company provides sports nutrition products, whey protein, protein bar, chikki, and lactose related products. Further, it sells its products under the Gowardhan, Go, Topp Up, Pride of Cows, and Avvatar brand names. Parag Milk Foods Limited was incorporated in 1992 and is headquartered in Pune, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3943.43,
-  "pe_ratio": 32.09,
+  "market_cap_cr": 4310.28,
+  "pe_ratio": 32.72,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 104.75,
   "dividend_yield_pct": 0.0,
-  "shares_outstanding_cr": 12.5014,
+  "shares_outstanding_cr": 13.4014,
   "fifty_two_week_high": 351.0,
   "fifty_two_week_low": 177.84,
   "financial_statements": [
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T01:35:48.289001",
-  "provider_reported_pb_ratio": 3.01,
-  "statements_retrieved_at": "2026-11-27T01:35:48.289001",
+  "retrieval_time": "2026-11-27T23:40:59.437589",
+  "provider_reported_pb_ratio": 3.07,
+  "statements_retrieved_at": "2026-11-27T23:40:59.437589",
   "retained_fields": []
 }

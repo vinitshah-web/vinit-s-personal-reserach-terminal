@@ -5,15 +5,15 @@
   "industry": "Specialty Industrial Machinery",
   "business_summary": "Bajaj Steel Industries Limited manufactures and sells cotton ginning and pressing machinery in India. The company provides industrial conveyors, HVAC systems, fire-fighting solutions, steel doors, hydraulic systems, and turnkey engineering services, as well as prefabricated building structure, heavy engineering products, firefighting, doors, electrical panels, conveyors components, and allied products. It also offers fire alarm and detection systems, fire extinguishers, and fire hydrant pumps; steel doors; fire-rated doors; industrial fans; hydraulics solutions; specialty conveyors; duct systems and cyclone solution laser cutting machines; and trades cotton and power transmission products. The company was incorporated in 1961 and is headquartered in Nagpur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 613.6,
-  "pe_ratio": 37.77,
+  "market_cap_cr": 606.11,
+  "pe_ratio": 37.31,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 206.53,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 2.08,
   "fifty_two_week_high": 378.0,
-  "fifty_two_week_low": 289.0,
+  "fifty_two_week_low": 285.85,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T00:58:04.724464",
-  "provider_reported_pb_ratio": 1.43,
-  "statements_retrieved_at": "2026-11-27T00:58:04.724464",
+  "retrieval_time": "2026-11-27T23:03:55.068909",
+  "provider_reported_pb_ratio": 1.41,
+  "statements_retrieved_at": "2026-11-27T23:03:55.068909",
   "retained_fields": []
 }

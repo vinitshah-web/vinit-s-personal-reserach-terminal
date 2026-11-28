@@ -5,14 +5,14 @@
   "industry": "Engineering & Construction",
   "business_summary": "SRM Contractors Limited engages in the provision of engineering and construction services in India. The company is involved in the development of roads, bridges, tunnels, slope stabilization, and miscellaneous civil infrastructure projects. It is also involved in undertaking subcontracting assignments from third party major infrastructure and construction entities. SRM Contractors Limited was incorporated in 2008 and is based in Jammu, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1004.57,
-  "pe_ratio": 7.85,
+  "market_cap_cr": 1005.49,
+  "pe_ratio": 7.86,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 183.36,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 2.2944,
-  "fifty_two_week_high": 595.95,
+  "fifty_two_week_high": 584.85,
   "fifty_two_week_low": 339.5,
   "financial_statements": [
     {
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T01:48:58.054641",
+  "retrieval_time": "2026-11-27T23:53:47.399541",
   "provider_reported_pb_ratio": 2.39,
-  "statements_retrieved_at": "2026-11-27T01:48:58.054641",
+  "statements_retrieved_at": "2026-11-27T23:53:47.399541",
   "retained_fields": []
 }

@@ -5,7 +5,7 @@
   "industry": "Gold",
   "business_summary": "Deccan Gold Mines Limited engages in the exploration, development, extraction, processing, and sale of gold in India. The company explores copper, platinum group elements, and nickel. Its flagship project is the Jonnagiri Gold Project located in Andra Pradesh, India. The company also provides mineral exploration consultancy services. The company was incorporated in 1984 and is based in Bengaluru, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 3279.99,
+  "market_cap_cr": 3368.64,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T01:05:25.831129",
-  "provider_reported_pb_ratio": 5.66,
-  "statements_retrieved_at": "2026-11-27T01:05:25.831129",
+  "retrieval_time": "2026-11-27T23:11:09.911824",
+  "provider_reported_pb_ratio": 5.81,
+  "statements_retrieved_at": "2026-11-27T23:11:09.911824",
   "retained_fields": []
 }

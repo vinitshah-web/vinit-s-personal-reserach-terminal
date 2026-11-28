@@ -5,8 +5,8 @@
   "industry": "Packaging & Containers",
   "business_summary": "Worth Peripherals Limited manufactures and sells corrugated boxes in India. The company provides regular slotted containers; die cut corrugated boxes/trays; multi-color corrugated boxes; and Z sleeve and I/honeycomb partitions. It serves companies operating in the FMCG, textile, electronics, and retail industry. The company was incorporated in 1996 and is based in Indore, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 233.74,
-  "pe_ratio": 19.58,
+  "market_cap_cr": 228.55,
+  "pe_ratio": 19.14,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 120.97,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T01:58:23.300606",
-  "provider_reported_pb_ratio": 1.23,
-  "statements_retrieved_at": "2026-11-27T01:58:23.300606",
+  "retrieval_time": "2026-11-28T00:03:07.173002",
+  "provider_reported_pb_ratio": 1.2,
+  "statements_retrieved_at": "2026-11-28T00:03:07.173002",
   "retained_fields": []
 }

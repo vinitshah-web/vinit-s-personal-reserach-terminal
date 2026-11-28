@@ -5,15 +5,15 @@
   "industry": "Agricultural Inputs",
   "business_summary": "ShreeOswal Seeds and Chemicals Limited produces, processes, and sells various agricultural seeds in India. It operates through two segments, Seed and Psyllium. The company's product portfolio includes wheat, soyabean, mustard, black gram, maize, and mung seeds, as well as isabgol. It also trades in agricultural produce. The company markets its products under the Oswal Gold, OSM-77, OSYM-55, Oswal Seeds, and 3 Star brand. It also exports its products. ShreeOswal Seeds and Chemicals Limited was incorporated in 2002 and is based in Neemuch, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 98.24,
-  "pe_ratio": 8.08,
+  "market_cap_cr": 99.24,
+  "pe_ratio": 8.16,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 6.75,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 9.147,
   "fifty_two_week_high": 20.28,
-  "fifty_two_week_low": 9.66,
+  "fifty_two_week_low": 9.65,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T01:35:24.835621",
-  "provider_reported_pb_ratio": 1.59,
-  "statements_retrieved_at": "2026-11-27T01:35:24.835621",
+  "retrieval_time": "2026-11-27T23:40:37.322153",
+  "provider_reported_pb_ratio": 1.61,
+  "statements_retrieved_at": "2026-11-27T23:40:37.322153",
   "retained_fields": []
 }

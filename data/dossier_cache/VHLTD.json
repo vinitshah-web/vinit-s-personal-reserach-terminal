@@ -5,8 +5,8 @@
   "industry": "Lodging",
   "business_summary": "Viceroy Hotels Limited engages in the hoteliering business in India. It owns and operates hotels that offer rooms, food and beverage, and banquet services under the Marriott and Courtyard by Marriott, and Marriott Executive Apartments brands. The company was formerly known as Palace Height Hotel Limited and changed its name to Viceroy Hotels Limited in December 2001. Viceroy Hotels Limited was incorporated in 1965 and is based in Hyderabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1088.46,
-  "pe_ratio": 48.38,
+  "market_cap_cr": 1064.04,
+  "pe_ratio": 47.3,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 57.31,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T01:56:09.382579",
-  "provider_reported_pb_ratio": 2.47,
-  "statements_retrieved_at": "2026-11-27T01:56:09.382579",
+  "retrieval_time": "2026-11-28T00:00:54.341593",
+  "provider_reported_pb_ratio": 2.42,
+  "statements_retrieved_at": "2026-11-28T00:00:54.341593",
   "retained_fields": []
 }

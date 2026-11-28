@@ -5,7 +5,7 @@
   "industry": "Steel",
   "business_summary": "Godawari Power & Ispat Limited, together with its subsidiaries, engages in the mining of iron ores in India. It manufactures and sells iron ore pellets, sponge iron, steel billets, MS rounds, wire rods, HB wires, and ferro alloys with generation of electricity, as well as ferro and silico manganese, galvanized fabricated products, and rolled structural products. The company was formerly known as Ispat Godawari Ltd. Godawari Power & Ispat Limited was incorporated in 1999 and is based in Raipur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 13742.84,
+  "market_cap_cr": 13745.45,
   "pe_ratio": 18.44,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T01:13:14.450042",
+  "retrieval_time": "2026-11-27T23:18:51.255136",
   "provider_reported_pb_ratio": 2.13,
-  "statements_retrieved_at": "2026-11-27T01:13:14.450042",
+  "statements_retrieved_at": "2026-11-27T23:18:51.255136",
   "retained_fields": []
 }

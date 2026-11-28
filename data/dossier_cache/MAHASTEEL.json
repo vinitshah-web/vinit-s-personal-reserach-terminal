@@ -5,8 +5,8 @@
   "industry": "Steel",
   "business_summary": "Mahamaya Steel Industries Limited engages in the manufacture and sale of steel structures products in India. The company provides I-beams, channels, angles, H-beams, flats, railway sleepers, rounds, squares, billets, blooms, strips, joists, girders, and other related products for construction, automobile, railway, and power industries. The company was formerly known as Rajesh Strips Limited and changed its name to Mahamaya Steel Industries Limited in 2009. Mahamaya Steel Industries Limited was incorporated in 1988 and is based in Raipur, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2222.92,
-  "pe_ratio": 222.1,
+  "market_cap_cr": 2218.81,
+  "pe_ratio": 221.69,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 99.18,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T01:26:44.528363",
-  "provider_reported_pb_ratio": 13.64,
-  "statements_retrieved_at": "2026-11-27T01:26:44.528363",
+  "retrieval_time": "2026-11-27T23:32:08.379047",
+  "provider_reported_pb_ratio": 13.61,
+  "statements_retrieved_at": "2026-11-27T23:32:08.379047",
   "retained_fields": []
 }

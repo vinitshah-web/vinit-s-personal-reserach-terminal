@@ -5,15 +5,15 @@
   "industry": "Textile Manufacturing",
   "business_summary": "Varvee Global Limited engages in the manufacture and sale of fabrics in India and internationally. The company offers poplin, oxford, twill, dobby, chambray, and satin weaves, as well as other denims. It also offers non denim, suiting, canvas, and shirting fabrics, as well as cotton yarns and fibers. The company was formerly known as Aarvee Denims and Exports Ltd. and changed its name to Varvee Global Limited in August 2025. Varvee Global Limited was incorporated in 1988 and is headquartered in Ahmedabad, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 272.12,
+  "market_cap_cr": 271.43,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 15.33,
   "dividend_yield_pct": 0.0,
-  "shares_outstanding_cr": 5.1529,
+  "shares_outstanding_cr": 12.8822,
   "fifty_two_week_high": 84.75,
-  "fifty_two_week_low": 43.7,
+  "fifty_two_week_low": 19.44,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T01:56:05.809001",
-  "provider_reported_pb_ratio": 3.44,
-  "statements_retrieved_at": "2026-11-27T01:56:05.809001",
+  "retrieval_time": "2026-11-28T00:00:50.749441",
+  "provider_reported_pb_ratio": 1.37,
+  "statements_retrieved_at": "2026-11-28T00:00:50.749441",
   "retained_fields": []
 }

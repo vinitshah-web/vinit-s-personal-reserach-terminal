@@ -5,7 +5,7 @@
   "industry": "Real Estate - Development",
   "business_summary": "Nimbus Projects Limited engages in the development of real estate properties for residential, commercial, and retail purposes in India. The company develops townships, group housing, office spaces, commercial-shopping malls, and hotel projects. It is also involved in land identification and acquisition, project planning, designing, marketing and execution; project management; construction of properties; and provision of real estate consultancy, investment advisory, and construction services. The company was formerly known as NCJ International Limited and changed its name to Nimbus Projects Limited in December 2010. Nimbus Projects Limited was incorporated in 1993 and is based in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 264.53,
+  "market_cap_cr": 262.73,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -13,7 +13,7 @@
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.9319,
   "fifty_two_week_high": 231.23,
-  "fifty_two_week_low": 136.93,
+  "fifty_two_week_low": 130.09,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T01:33:20.038533",
+  "retrieval_time": "2026-11-27T23:38:37.106874",
   "provider_reported_pb_ratio": 0.79,
-  "statements_retrieved_at": "2026-11-27T01:33:20.038533",
+  "statements_retrieved_at": "2026-11-27T23:38:37.106874",
   "retained_fields": []
 }

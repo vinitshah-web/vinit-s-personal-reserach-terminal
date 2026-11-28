@@ -5,8 +5,8 @@
   "industry": "Apparel Retail",
   "business_summary": "V2 Retail Limited, together with its subsidiary, V2 Smart Manufacturing Private Limited, engages in the retail trade of garments, textiles, and accessories in India. It is involved in the retail sale of ready-made garments, hosiery goods, and other articles of clothing and clothing accessories under the Godspeed, Herrlich, Glamora, Ebellia, and Honey Brats brands. The company was formerly known as Vishal Retail Ltd and changed its name to V2 Retail Limited in February 2012. V2 Retail Limited was incorporated in 2001 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 5187.33,
-  "pe_ratio": 28.06,
+  "market_cap_cr": 5313.5,
+  "pe_ratio": 28.74,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 26.37,
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T01:55:18.635558",
-  "provider_reported_pb_ratio": 5.39,
-  "statements_retrieved_at": "2026-11-27T01:55:18.635558",
+  "retrieval_time": "2026-11-28T00:00:02.827069",
+  "provider_reported_pb_ratio": 5.53,
+  "statements_retrieved_at": "2026-11-28T00:00:02.827069",
   "retained_fields": []
 }

@@ -5,15 +5,15 @@
   "industry": "Real Estate - Development",
   "business_summary": "Pansari Developers Limited operates as a construction and real estate development company in India. The company constructs and develops residential and commercial properties; and sells residential units and land, as well as engages in the leasing and maintenance of properties. Pansari Developers Limited was incorporated in 1996 and is based in Kolkata, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 428.76,
-  "pe_ratio": 21.73,
+  "market_cap_cr": 458.5,
+  "pe_ratio": 23.24,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 91.94,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 1.7447,
   "fifty_two_week_high": 388.9,
-  "fifty_two_week_low": 235.0,
+  "fifty_two_week_low": 232.05,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T01:35:42.386941",
-  "provider_reported_pb_ratio": 2.67,
-  "statements_retrieved_at": "2026-11-27T01:35:42.386941",
+  "retrieval_time": "2026-11-27T23:40:53.830388",
+  "provider_reported_pb_ratio": 2.86,
+  "statements_retrieved_at": "2026-11-27T23:40:53.830388",
   "retained_fields": []
 }

@@ -5,15 +5,15 @@
   "industry": "Household & Personal Products",
   "business_summary": "Cupid Limited manufactures and supplies male and female condoms in India and internationally. The company offers water based lubricant jellies; in vitro diagnostic kits, including viral transport medium, pregnancy detection testing kit, ovulation testing kit, typhoid antibody, dengue, hepatitis b antigen, malaria antigen, syphilis antibody, hepatitis C, HIV/Syphilis Combo, rapid diagnostic, HIV 1 and 2 kit antibody testing kits, as well as COVID-19 antigen tests; and FMCG, personal care, and wellness products including deodorants, perfumes, face wash, hair-removal sprays, hair and body oils, almond hair oil, petroleum moisturizing jelly, toilet sanitizers, menstrual products, and hair removal sprays. The company was formerly known as Cupid Condom Limited and changed its name to Cupid Limited in January 2006. Cupid Limited was incorporated in 1993 and is based in Nashik, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 49900.36,
-  "pe_ratio": 296.88,
+  "market_cap_cr": 52374.54,
+  "pe_ratio": 311.6,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 4.19,
   "dividend_yield_pct": 0.0,
   "shares_outstanding_cr": 134.4661,
   "fifty_two_week_high": 393.0,
-  "fifty_two_week_low": 64.54,
+  "fifty_two_week_low": 64.8,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T01:04:34.893369",
-  "provider_reported_pb_ratio": 88.65,
-  "statements_retrieved_at": "2026-11-27T01:04:34.893369",
+  "retrieval_time": "2026-11-27T23:10:20.809060",
+  "provider_reported_pb_ratio": 93.05,
+  "statements_retrieved_at": "2026-11-27T23:10:20.809060",
   "retained_fields": []
 }

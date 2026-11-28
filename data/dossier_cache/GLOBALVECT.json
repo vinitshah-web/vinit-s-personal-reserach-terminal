@@ -5,7 +5,7 @@
   "industry": "Airports & Air Services",
   "business_summary": "Global Vectra Helicorp Limited provides helicopter services for the oil and gas sector in India. The company engages in maintenance, repair and overhaul services. It also offers heli-pilgrimage, airborne geophysical surveys, LIDAR mapping, offshore crew change, oil and gas logistics support, geophysical missions, VIP/VVIP transportation, election flying, corporate travel, defence support, RBI operations, anti-Naxal operations, utility and infrastructure support, emergency response, charter services, underslung cargo operations, remote logistics missions, and government support services. It operates a fleet of approximately 25 helicopters. The company was incorporated in 1998 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 176.46,
+  "market_cap_cr": 172.54,
   "pe_ratio": null,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
@@ -93,8 +93,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T01:12:18.566075",
-  "provider_reported_pb_ratio": -21.78,
-  "statements_retrieved_at": "2026-11-27T01:12:18.566075",
+  "retrieval_time": "2026-11-27T23:17:56.015187",
+  "provider_reported_pb_ratio": -21.29,
+  "statements_retrieved_at": "2026-11-27T23:17:56.015187",
   "retained_fields": []
 }

@@ -5,15 +5,15 @@
   "industry": "Integrated Freight & Logistics",
   "business_summary": "TCI Express Limited provides express delivery solutions in India and internationally. It provides surface express; domestic and international air express; e-commerce express; C2C express; rail express; and cold chain express services. The company serves pharmaceuticals and cold chain, defense and aerospace, engineering, automobile and component, consumer durables, SME, textile and lifestyle, solar and electric vehicles, and Home improvement and lifestyle product industries. The company was formerly known as TCI Properties (Pune) Limited. TCI Express Limited was founded in 1996 and is based in Gurugram, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 1524.89,
-  "pe_ratio": 18.84,
+  "market_cap_cr": 1488.37,
+  "pe_ratio": 18.39,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 211.31,
-  "dividend_yield_pct": 1.6417,
+  "dividend_yield_pct": 1.7648,
   "shares_outstanding_cr": 3.8444,
   "fifty_two_week_high": 625.0,
-  "fifty_two_week_low": 382.6,
+  "fifty_two_week_low": 376.65,
   "financial_statements": [
     {
       "period": "FY26 (2026)",
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T01:51:51.251011",
-  "provider_reported_pb_ratio": 1.88,
-  "statements_retrieved_at": "2026-11-27T01:51:51.251011",
+  "retrieval_time": "2026-11-27T23:56:41.075997",
+  "provider_reported_pb_ratio": 1.83,
+  "statements_retrieved_at": "2026-11-27T23:56:41.075997",
   "retained_fields": []
 }

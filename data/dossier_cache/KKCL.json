@@ -5,8 +5,8 @@
   "industry": "Apparel Manufacturing",
   "business_summary": "Kewal Kiran Clothing Limited manufacturing, marketing, and retailing of branded readymade garments and finished accessories in India and internationally. It offers jeans, shirts, trousers, t-shirt, and other products; and winterwear under the Killer, Easies, Lawman, junior killer, Kraus, Integriti, and Desi Belle brand names. The company distributes its products through exclusive brand outlets, large-format stores, multi-brand outlets, and e-commerce platforms. Kewal Kiran Clothing Limited was founded in 1980 and is based in Mumbai, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 2525.09,
-  "pe_ratio": 16.78,
+  "market_cap_cr": 2539.88,
+  "pe_ratio": 16.88,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 161.92,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T01:23:17.296303",
-  "provider_reported_pb_ratio": 2.53,
-  "statements_retrieved_at": "2026-11-27T01:23:17.296303",
+  "retrieval_time": "2026-11-27T23:28:44.224889",
+  "provider_reported_pb_ratio": 2.55,
+  "statements_retrieved_at": "2026-11-27T23:28:44.224889",
   "retained_fields": []
 }

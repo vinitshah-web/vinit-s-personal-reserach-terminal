@@ -5,8 +5,8 @@
   "industry": "Auto Parts",
   "business_summary": "Subros Limited engages in the manufacture and sale of thermal products for automotive applications in India and internationally. The company offers compressors, HVAC, radiators, condensers, evaporators, heaters, tubes and hoses, bus and rail AC kit, transport and commercial cooling solutions. The company was incorporated in 1985 and is headquartered in New Delhi, India.",
   "business_summary_reason": null,
-  "market_cap_cr": 4187.16,
-  "pe_ratio": 24.59,
+  "market_cap_cr": 4202.49,
+  "pe_ratio": 24.68,
   "pb_ratio": null,
   "pb_ratio_reason": "P/B unavailable because the source does not provide both a price date and a dated balance-sheet equity input.",
   "book_value": 200.97,
@@ -78,8 +78,8 @@
   ],
   "source": "Yahoo Finance (secondary aggregator)",
   "has_statements": true,
-  "retrieval_time": "2026-11-27T01:49:38.988244",
-  "provider_reported_pb_ratio": 3.19,
-  "statements_retrieved_at": "2026-11-27T01:49:38.988244",
+  "retrieval_time": "2026-11-27T23:54:25.456194",
+  "provider_reported_pb_ratio": 3.21,
+  "statements_retrieved_at": "2026-11-27T23:54:25.456194",
   "retained_fields": []
 }
